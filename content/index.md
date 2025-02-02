@@ -3,12 +3,13 @@ title: Welcome to Aerathon - Land of Labyrinths
 ---
 
 *The Definitive Guide to the Trials of the Eternal Labyrinths*
-
+```ts
     “ We are but performers on a stage far greater than we can comprehend. The Eternal Labyrinths
     are not merely tests of strength, but echoes of a forgotten past, shaping the future with 
     every step we take.”
 
     — Grand Archivist Selvaris of Halvask
+```
 
 Welcome - *adventurer*  -  to the **Aerathon Lore Archive**, the most comprehensive compendium of knowledge on the world of Aerathon and on the legendary **Trials of the Eternal Labyrinths**. Whether you are a seasoned scholar, an aspiring adventurer, or a curious viewer tuning into the livecast of the greatest trials in history, this archive contains everything you need to understand the mysteries, dangers, and wonders of this magical world.
 
