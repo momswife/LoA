@@ -3,7 +3,7 @@ title: Welcome to Aerathon - Land of Labyrinths
 ---
 
 *The Definitive Guide to the Trials of the Eternal Labyrinths*
-```ts
+```
     “ We are but performers on a stage far greater than we can comprehend. The Eternal Labyrinths
     are not merely tests of strength, but echoes of a forgotten past, shaping the future with 
     every step we take.”
