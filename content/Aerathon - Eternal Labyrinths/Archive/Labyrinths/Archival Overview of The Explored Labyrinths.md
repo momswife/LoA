@@ -15,7 +15,7 @@ Here follows the known records of the Labyrinths of Aerathon, both those that ha
 
 (_The following excerpts are collected from Delver memoirs, royal decrees, and recovered transcripts._)
 
-### **[[Labyrinth 1 - The Argent Spire | The Argent Spire]]** _(Halvask – First Discovered)_
+### **[[Archive/Labyrinths/#1 - The Argent Spire| The Argent Spire]]** _(Halvask – First Discovered)_
 
 _"It was not built. It was revealed."_ – Archivist Adrastia, 3E 15
 
@@ -25,7 +25,7 @@ Even today, scholars remain unsure if it was truly conquered—or if those who e
 
 ---
 
-### **[[Labyrinth 2 - Of Rust and Ruin | Of Rust and Ruin]]**  _(Titan Highlands – Known for its Endless War)_
+### **[[L2 - Of Rust and Ruin| Of Rust and Ruin]]**  _(Titan Highlands – Known for its Endless War)_
 
 _"You do not leave it. You survive it. And when you die, you are born into it again."_ – Last words of Delver Ralvas Thorne
 
@@ -35,7 +35,7 @@ To this day, none have reached the end.
 
 ---
 
-### **[[Labyrinth 3 - The Sunken Maw | The Sunken Maw]]** _(Stormcall Isles – Beneath the Tempest Sea)_
+### **[[L3 - The Sunken Maw| The Sunken Maw]]** _(Stormcall Isles – Beneath the Tempest Sea)_
 
 _"The tide was high, the sky was clear, and then the ocean opened its mouth."_ – Captain Verin Oathwave, sole survivor
 
@@ -45,7 +45,7 @@ Its depths have never been fully explored, and its floor has never been found.
 
 ---
 
-### **[[Labyrinth 4 - The Clockwork Tomb | The Clockwork Tomb]]** _(Halvask – A City of Metal and Time)_
+### **[[L4 - The Clockwork Tomb| The Clockwork Tomb]]** _(Halvask – A City of Metal and Time)_
 
 _"Time does not move forward here. It moves inward."_ – Master Chronomancer Ilythia
 
@@ -53,7 +53,7 @@ A labyrinth of ticking gears and endless halls, where the laws of time are broke
 
 ---
 
-### **[[Labyrinth 5 - The Twilight Bastion | The Twilight Bastion]]** _(Veilshroud Expanse – The Throne of Shadows)_
+### **[[L5 - The Twilight Bastion| The Twilight Bastion]]** _(Veilshroud Expanse – The Throne of Shadows)_
 
 _"We went in as five. We came out as legends."_ – Dain Veldros, Founder of the Twilight Vow
 
@@ -69,7 +69,7 @@ They took it together.
 
 ---
 
-### **[[Labyrinth 6 - The Ashen Labyrinth | The Ashen Labyrinth]]**  _(Sunfire Expanse – The Smoldering Trial)_
+### **[[L6 - The Ashen Labyrinth| The Ashen Labyrinth]]**  _(Sunfire Expanse – The Smoldering Trial)_
 
 _"The fire does not burn flesh. It burns truth. And those who have none are reduced to cinders."_ – High Priest Rashan Sunblade
 
@@ -79,7 +79,7 @@ Some emerge enlightened. Others emerge hollow, their very identities burned away
 
 ---
 
-### **[[Labyrinth 7 - Labyrinth of The Faceless | Labyrinth of The Faceless]]**  _(Umbral Dominion – The Masked Nightmare)_
+### **[[L7 - Labyrinth of The Faceless| Labyrinth of The Faceless]]**  _(Umbral Dominion – The Masked Nightmare)_
 
 _"I cannot recall their faces. I cannot recall my own."_ – Delver’s journal, recovered outside Nocthollow
 
@@ -88,7 +88,7 @@ A place of shifting identities, where those who enter slowly forget their own na
 Some never return at all, their names scratched from history as if they had never existed.
 
 ---
-### **[[Labyrinth 8 - The Black Star Descent | The Black Star Descent]]**  _(Stormcall Isles – The Abyss That Watches)_
+### **[[L8 - The Black Star Descent| The Black Star Descent]]**  _(Stormcall Isles – The Abyss That Watches)_
 
 _"We fell into the darkness together. We climbed back out as legends."_ – Seraphine Vex, Captain of the Black Star Company
 
@@ -104,7 +104,7 @@ Only one group has ever entered willingly—the Black Star Company—and returne
 
 ---
 
-### **[[Labyrinth 9 - The Radiant Crucible | The Radiant Crucible]]** _(Sunfire Expanse – The Trial of Ascension)_
+### **[[L9 - The Radiant Crucible| The Radiant Crucible]]** _(Sunfire Expanse – The Trial of Ascension)_
 
 _"The fire does not burn flesh. It burns weakness. And those who have none emerge reborn."_ – Vaelrik Dawnpiercer, the First Labyrinth King
 
@@ -116,7 +116,7 @@ Only one has ever reached the end—Vaelrik Dawnpiercer, the First Labyrinth Kin
 
 ---
 
-### **[[Labyrinth 10 - Hollow God's Sepulcher | Hollow God's Sephulcher]]** _(Whispering Wilds – The Buried Deity)_
+### **[[L10 - Hollow God's Sepulcher| Hollow God's Sephulcher]]** _(Whispering Wilds – The Buried Deity)_
 
 _"The god beneath the roots is not dead. It is waiting."_ – Final words of Seeress Valna Greenbloom
 
@@ -130,7 +130,7 @@ Others believe it is not sleeping—but listening.
 
 ---
 
-### **[[Labyrinth 11 - The Vault of Eternity | The Vault of Eternity]]** _(Titan Highlands – The Forge of Gods)_
+### **[[L11 - The Vault of Eternity| The Vault of Eternity]]** _(Titan Highlands – The Forge of Gods)_
 
 _"The world does not craft legends. Legends craft the world. And all things of power must come from somewhere."_ – Master Artificer Kellis Vaelor
 
@@ -150,7 +150,7 @@ And when it does, the world will tremble.
 
 ---
 
-### **[[Labyrinth 12 - The Silver Ruin | The Silver Ruin]]** _(Frostlands – The Frozen Metropolis)_
+### **[[L12 - The Silver Ruin| The Silver Ruin]]** _(Frostlands – The Frozen Metropolis)_
 
 _"It’s older than the mountains. Older than the world we know."_ – Dwarven Excavation Report, 5E 913
 
@@ -162,7 +162,7 @@ Only footprints that start in the snow and lead into the dark.
 
 ---
 
-### **[[Labyrinth 13 - The Howling Maw | The Howling Maw]]** _(Titan Highlands – The Battlefield of the Damned)_
+### **[[L13 - The Howling Maw| The Howling Maw]]** _(Titan Highlands – The Battlefield of the Damned)_
 
 _"You do not leave it. You survive it. And when you die, you are born into it again."_ – Last words of Delver Ralvas Thorne
 
@@ -182,7 +182,7 @@ They become part of the war.
 
 ---
 
-### **[[Labyrinth 14 - The Hollow Garden | The Hollow Garden]]** _(Veilshroud Expanse – The Maze That Remembers)_
+### **[[L14 - The Hollow Garden| The Hollow Garden]]** _(Veilshroud Expanse – The Maze That Remembers)_
 
 _"The trees know your name. The flowers remember your sorrow. And the vines… the vines never forget."_ – Inscription at the entrance
 
@@ -198,7 +198,7 @@ Some return, speaking of lovers long dead, of choices they never made, of faces 
 
 ---
 
-### **[[Labyrinth 15 - The Drowned Catacombs | The Drowned Catacombs]]** _(Tempest Sea – The Sunken Necropolis)_
+### **[[L15 - The Drowned Catacombs| The Drowned Catacombs]]** _(Tempest Sea – The Sunken Necropolis)_
 
 _"The dead do not stay dead in Ysaros."_ – Sailor’s Superstition
 
@@ -212,7 +212,7 @@ Or someone.
 
 ---
 
-### **[[Labyrinth 16 - The Gilded Labyrinth | The Gilded Labyrinth]]** _(Sunfire Expanse – The Temple of Endless Gold)_
+### **[[L16 - The Gilded Labyrinth| The Gilded Labyrinth]]** _(Sunfire Expanse – The Temple of Endless Gold)_
 
 _"The wealth of a thousand empires lies within. But tell me, Delver—how much of yourself are you willing to spend?"_ – High Vizier Zorahn al-Rahim
 
@@ -226,7 +226,7 @@ At the heart of the Labyrinth stands the Eternal Scales, a balance upon which al
 
 ---
 
-### **[[Labyrinth 17 - The Black Vein | The Black Vein]]** _(Titan Highlands – The Mountain That Breathes)_
+### **[[L17 - The Black Vein| The Black Vein]]** _(Titan Highlands – The Mountain That Breathes)_
 
 _"Time does not move forward here. It moves inward."_ – Master Chronomancer Ilythia
 
@@ -244,7 +244,7 @@ And if it wakes, the mountain itself may no longer be enough to contain it.
 
 ---
 
-### **[[Labyrinth 18 - The Forsaken Atelier | The Forsaken Atelier]]**  _(Halvask – The Workshop of the Forgotten)_
+### **[[L18 - The Forsaken Atelier| The Forsaken Atelier]]**  _(Halvask – The Workshop of the Forgotten)_
 
 _"They built the perfect spell. And then it devoured them."_ – Headmaster Oryn Velsh, 4E 729
 
@@ -258,7 +258,7 @@ Or worse—they are still inside, but no longer human.
 
 ---
 
-### **[[Labyrinth 19 - The Shattered Monastery | The Shattered Monastery]]** _(Titan Highlands – The Trial of the Ascended)_
+### **[[L19 - The Shattered Monastery| The Shattered Monastery]]** _(Titan Highlands – The Trial of the Ascended)_
 
 _"The monks who walked these halls sought ascension. They found something else."_ – Scholar Fendris Vaelor
 
@@ -272,7 +272,7 @@ Those who drink are never seen again.
 
 ---
 
-### **[[Labyrinth 20 - The Crimson Labyrinth | The Crimson Labyrinth]]**  _(Unstable – The Labyrinth That Grows)_
+### **[[L20 - The Crimson Labyrinth| The Crimson Labyrinth]]**  _(Unstable – The Labyrinth That Grows)_
 
 _"It is not stone. It is not metal. The walls are warm beneath your hands, and when you cut them—oh gods, when you cut them—it screams."_ – Delver Mareth Voss, last survivor of the Bloodmarked Expedition
 

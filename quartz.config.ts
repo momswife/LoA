@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "IM Fell English",
+        header: "Eczar",
         body: "Lora",
         code: "Merienda",
       },

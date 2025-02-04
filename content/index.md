@@ -31,4 +31,4 @@ What You’ll Find in This Archive
 
 **Notable Labyrinths and Their Trials** – A complete guide to the known Eternal Labyrinths, detailing their unique environments, magical properties, and the deadly challenges within.
 
-Whether you are here to study, strategize, or simply spectate, the *Aerathon Lore Archive* is your gateway to understanding the greatest adventure of this age. Will you uncover the truth behind the Eternal Labyrinths, or will you, like so many before, become another forgotten name in the annals of history?
+
