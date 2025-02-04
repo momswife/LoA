@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📜 D&D Session",
+    pageTitle: "📜 Grand Archives",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

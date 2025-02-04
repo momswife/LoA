@@ -5,15 +5,15 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 ### **"The Labyrinth That Hungers"**
 
 _"The tide was high, the sky was clear, and then the ocean opened its mouth."_  
-— **Captain Verin Oathwave, sole survivor of the Maiden’s Descent**
+— **Captain Verin Oathwave**, sole survivor of the Maiden’s Descent
 
-The **Sunken Maw** is not just a Labyrinth. It is a **force of nature**, a **living hunger beneath the waves**, an abyss where the sea itself **collapses into something older, something deeper, something that should not exist.**
+The Sunken Maw is not just a Labyrinth. It is a force of nature, a living hunger beneath the waves, an abyss where the sea itself collapses into something older, something deeper, something that should not exist.
 
-Unlike the **fortresses, dungeons, and ruins** that define the other Eternal Labyrinths, the **Maw has no walls, no doors, no visible entrance at all.** It **drags its victims to it**—not through choice, not through discovery, but by **pulling entire ships, entire fleets, entire civilizations into its depths.**
+Unlike the fortresses, dungeons, and ruins that define the other Eternal Labyrinths, the Maw has no walls, no doors, no visible entrance at all. It drags its victims to it—not through choice, not through discovery, but by pulling entire ships, entire fleets, entire civilizations into its depths.
 
-No Delver has ever **walked through its gates.**
+No Delver has ever walked through its gates.
 
-Because the **only way to enter is to drown.**
+Because the only way to enter is to drown.
 
 ---
 

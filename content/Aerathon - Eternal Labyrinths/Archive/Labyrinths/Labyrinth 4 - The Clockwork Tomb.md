@@ -4,113 +4,126 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ### **"The Machine That Waits"**
 
-_"It does not rust. It does not falter. It does not stop. But most of all… it does not forget."_ – **Last transmission of Delver Rhys Valden, Expedition 5E 629**
+_"It does not rust. It does not falter. It does not stop. But most of all… it does not forget."_  
+— Last transmission of **Delver Rhys Valden**, Expedition 5E 629
 
-Beneath the streets of **Halvask**, buried deep beneath the city’s oldest foundations, lies **the Clockwork Tomb**—a **Labyrinth of gears, machinery, and relentless precision**, where time does not pass as it should, and where the past **never truly dies**.
+Beneath the streets of Halvask, buried deep beneath the city's oldest foundations, lies the Clockwork Tomb—a Labyrinth that was never built, never abandoned, and never truly at rest. It is not a ruin, nor a temple, nor a prison. It is a machine, vast and unceasing, its gears turning without an operator, its levers moving with no visible hand.
 
-The Tomb is **not made of stone**, nor does it bear **the marks of ancient civilization**. Instead, its walls **hum with unseen mechanisms**, its corridors **shift and realign with the steady rhythm of a grand, unknowable machine**. The deeper one descends, the stronger the sensation that **this place is still running**, that its purpose—whatever it may be—was never abandoned.
+The deeper one descends, the stronger the sensation that this place is still running.
 
-It does not deteriorate.
+That it has been running for longer than time should allow.
 
-It does not remain idle.
-
-It **still functions**.
-
-The question is: **what was it built for?**
-
-And why is it still counting down?
+That it is counting down to something.
 
 ---
 
-### **⚙️ The Clockwork Tomb: The Machine Beneath the City**
+### **⚙️ A Labyrinth of Living Mechanisms**
 
-The first recorded discovery of the **Clockwork Tomb** occurred in **3E 297**, when an excavation beneath the Halvaskan Academy uncovered a **sealed, metallic door** unlike anything in recorded history. The moment it was unearthed, **every clock within a mile stopped**, and those standing closest to the entrance reported hearing **a rhythmic ticking sound**—not from inside the tomb, but **within their own heads**.
+The Clockwork Tomb is unlike other Labyrinths—its corridors shift on precise intervals, its pathways change at the chime of unseen bells, and the air itself hums with the sound of a heartbeat that does not belong to anything living.
 
-Since its discovery, **five expeditions have been sent into the Tomb**, each returning with **fragments of knowledge, strange artifacts, and troubling signs that the Labyrinth is not merely a structure… but a construct.**
+Delvers have encountered:
 
-Inside, explorers have reported:
+- Walls of moving gears, their rotations perfectly synchronized, shifting passageways like the inner workings of a colossal timepiece.
+- Bronze statues of long-forgotten figures, standing at intersections, turning their heads slowly to watch those who pass.
+- Traps that do not activate randomly, but with purpose, as if the Tomb is responding to the movements of those inside.
+- Rooms that repeat, resetting as if time itself has rewound within them, forcing Delvers to relive the same moment over and over.
 
-- **Corridors that shift and realign**, their pathways changing in precise, measured increments, as if following **a program no one understands**.
-- **Walls lined with intricate engravings**, depicting **schematics for machines that have never been built, blueprints for cities that do not exist, and figures whose faces have been scratched away**.
-- **Endless chambers of silent, motionless figures**, clad in **clockwork armor**, seated at long, metallic tables, as if waiting for a command that never came.
-- **A central control room**, filled with **massive gears and hanging chains**, with a single, unbroken lever in the center—one that **no Delver has dared to pull.**
-
-But the most disturbing discovery came from **Expedition 5E 629**, when Delvers **reached the core** of the Tomb and found what appeared to be **a great mechanical heart**, still beating, still counting.
-
-And its final countdown had already begun.
+And then there is the Core Chamber, where something vast still ticks, still waits, still watches.
 
 ---
 
-### **⏳ Time Distortions and Anomalies**
+### **⏳ The Fall of the Valden Expedition**
 
-Unlike other Labyrinths, where **traps are physical or magical in nature**, the **Clockwork Tomb’s greatest danger is time itself.**
+Of all those who have attempted to map the Clockwork Tomb, none are as infamous as **Rhys Valden**, a Delver of great renown—and even greater madness.
 
-Delvers who return from its depths report:
+In 5E 629, Valden led an eight-person expedition into the Tomb, fully equipped with scholars, artificers, and battle-mages. They were prepared for traps, shifting corridors, and arcane defenses.
 
-- **Memories that do not belong to them**—recollections of cities long destroyed, of wars that never happened, of inventions that should not exist.
-- **Days passing in seconds—or seconds stretching into days**. Some who enter believe they were inside for mere hours, only to emerge **weeks or months later**. Others vanish for **years**, only to return believing no time has passed at all.
-- **Mechanical implants beneath their skin**, gears embedded in flesh, ticking beneath the surface **as if something inside them was altered by the Tomb**.
+What they were not prepared for was Valden himself.
 
-And most disturbingly—some who enter return to find **that the world outside has changed.**
+Three days into their descent, the first body was found.
 
-People they once knew **do not recognize them**. Events they remember **never occurred**. Their own names **are missing from records, as if they had never existed at all.**
+**Delver Lirien Thorne**, his throat slit, his blood pooling into the gears beneath him. His journal was missing.
 
-The Tomb does not simply record history.
+By the fifth day, two more were dead—one poisoned, the other crushed beneath a collapsed wall that had not moved for centuries, until Valden walked past it.
 
-It **rewrites it.**
+The expedition realized too late that the Tomb was not killing them.
+
+Their leader was.
+
+When they finally caught him, he was laughing, standing before an open vault filled with unreadable blueprints, speaking in a voice not entirely his own:
+
+_"It’s already been written."_  
+_"It was always going to happen this way."_  
+_"I am just another cog in the wheel."_
+
+He lunged at them, but something within the Tomb shifted, and he vanished between the walls, swallowed into a closing passage that had not existed a moment before.
+
+His body was never found.
+
+But sometimes, Delvers report hearing footsteps echoing ahead of them, always one hall away, always just beyond sight.
+
+And when they check their notes, they sometimes find a line of writing that was not there before, in ink they do not recognize:
+
+_"KEEP MOVING. OR IT WILL CATCH UP TO YOU."_
 
 ---
 
 ### **🔧 Theories and the Builders of the Tomb**
 
-No records exist of who **constructed** the Clockwork Tomb, nor what its original **purpose** may have been. But among the scholars of Halvask, there are three leading theories:
+The origin of the Clockwork Tomb remains **a mystery**, though three theories persist:
 
-- **The Precursor Engine Theory** – The Tomb is **not a prison, nor a vault, but a machine designed to regulate time itself**—an artifact of **a forgotten civilization** whose mastery of time **went too far**, and whose remnants were erased from history.
-- **The God-Machine Hypothesis** – The engravings within the Tomb resemble **no known language**, leading some to believe it was built **not by mortals, but by something greater**—a construct **left behind by a vanished deity**, one whose influence lingers still.
-- **The Self-Constructing Machine Theory** – Some believe the Tomb **was never built**—that it has been **growing, expanding, evolving on its own**, slowly assembling something **far greater than itself.**
+1. **The Precursor Engine Theory** – The Tomb is not a prison, but a mechanism, a machine designed to regulate time itself, left behind by an unknown civilization. If it stops, time may stop with it.
+2. **The God-Machine Hypothesis** – Some believe it was constructed not by mortals, but by something divine, a clock built to count down the lifespan of the world itself. And when it reaches zero…
+3. **The Self-Constructing Machine Theory** – The most terrifying possibility: that the Tomb was never built. It has been growing, expanding, assembling itself piece by piece, and it is not finished yet.
 
 If this is true, then one question remains:
 
-What happens when it finishes?
+What happens when the machine completes its work?
 
 ---
 
 ### **🕰️ The Core Chamber and the Countdown**
 
-At the **deepest level** of the Tomb, there is **a chamber that no Delver has dared to disturb**.
+At the deepest level of the Tomb, there is a chamber that no Delver has ever fully explored.
 
-A vast room of **cascading gears, suspended walkways, and chains hanging from the ceiling**, its center dominated by a **massive clock-like device**—its hands moving at an **imperceptible speed**, its dials engraved with **symbols that do not match any known calendar or record of time.**
+A vast space of suspended walkways, cascading gears, and walls of endless ticking dials, all centered around a single, immense clock, its face engraved with symbols that match no known calendar or timekeeping system.
 
-At its base, **a console with a single lever**.
+At its base, a console with a single lever.
 
-And carved above it, in a language no one speaks, are three words:
+Above it, words are engraved in ancient, untouched metal:
 
-**"RESET OR REPEAT."**
+"RESET OR REPEAT."
 
-No one knows what will happen if the lever is pulled.
+No one has ever pulled the lever.
 
-Some believe it will **stop the Tomb’s countdown**.
+Some say doing so will stop the machine, finally silencing the ticking beneath Halvask.
 
-Others believe it will **restart something far older than time itself**.
+Others fear it will start the countdown over, beginning a cycle that has already happened countless times before.
+
+And somewhere within the Tomb, Rhys Valden is still there.
+
+Not dead.
+
+Just part of the machine now.
 
 ---
 
-## **📜 Archive Addendum: Labyrinth No. 4 — The Clockwork Tomb**
+### **📜 Archive Addendum: Labyrinth No. 4 — The Clockwork Tomb**
 
 **Status:** **Unconquered, Partially Explored**  
 **Location:** **Beneath Halvask, accessible through the sealed entrance beneath the Academy ruins**  
-**First Discovered:** **3E 297 (Unearthed by excavation, magnetic anomalies reported across the city)**  
-**Last Attempted Expedition:** **5E 629 (Delver Rhys Valden’s expedition—one survivor, returned missing an eye but with a brass mechanism ticking inside his skull)**  
+**First Discovered:** **3E 297 (Unearthed by excavation, magnetic anomalies reported across the city.)**  
+**Last Attempted Expedition:** **5E 629 (Rhys Valden’s expedition—eight entered, one survived, Valden missing.)**  
 **Current Warnings:** **The Tomb remains active. No sanctioned Delving allowed without direct approval of the Magocratic Court.**
 
-The **Clockwork Tomb** does not **rest**.
+The Clockwork Tomb does not rest.
 
-It does not **age**.
+It does not age.
 
-And somewhere, deep within its endless gears, **something is counting down**.
+And somewhere, deep within its endless gears, something is counting down.
 
-**To what?**
+To what?
 
 We do not know.
 
-But **the clock has never stopped before.**
+But the clock has never stopped before.

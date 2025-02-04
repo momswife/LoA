@@ -7,7 +7,7 @@ The history of Aerathon is one of **mystery, ascension, and unrelenting change**
 
 ---
 
-## **⏳ The Eras of Aerathon**
+## **The Eras of Aerathon**
 
 ### **🜂 The First Era — The Age of Forgotten Gods (Unknown - ~0 2E)**
 

@@ -1,5 +1,5 @@
 ____________________________
-Aerathon is a land of **ancient power and endless conflict**, where magic shapes empires, wilderness, and the unknown. Towering **arcane cities**, frozen **fortresses of steel and ice**, and **sun-scorched deserts** all bear the marks of rulers who seek dominion over land, sky, and secret realms beyond mortal sight. The **Eternal Labyrinths**, scattered across the continent, stand as cryptic monuments to a forgotten past, drawing those who seek **glory, knowledge, or the power to reshape Aerathon itself**.
+Aerathon is a land of ancient power and endless conflict, where magic shapes empires, wilderness, and the unknown. Towering arcane cities, frozen fortresses of steel and ice, and sun-scorched deserts all bear the marks of rulers who seek dominion over land, sky, and secret realms beyond mortal sight. The Eternal Labyrinths, scattered across the continent, stand as cryptic monuments to a forgotten past, drawing those who seek glory, knowledge, or the power to reshape Aerathon itself.
 
 # Region Table
 
