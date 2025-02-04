@@ -4,24 +4,24 @@ _(Below is the official record of Delvers who have entered each known Labyrinth,
 
 ---
 
-### **1. The Nameless Labyrinth** _(Halvask – Appeared at Velgrove Square)_
+### **1. The Argent Spire** _(Halvask – The Tower That Should Not Be)_
 
-- **Casualties:** _Uncountable_ (Entire marketplace erased; survivors do not remember those lost.)
-- **Confirmed Survivors:** _Unknown_ (Some citizens reported "feeling displaced" but had no memory of what transpired.)
-
----
-
-### **2. The Black Star Descent** _(Stormcall Isles – The Abyss That Watches)_
-
-- **Casualties:** _32_ (Official expeditions lost, along with at least _four ships_ that vanished into the abyss.)
-- **Confirmed Survivors:** _1_ (Captain Seraphine Vex, found aboard her drifting vessel with no memory of her crew.)
+- **Casualties:** _>200 lives lost_ (The entire district of Velgrove Square was consumed upon its arrival; none who stood in its shadow that day were ever seen again.)
+- **Confirmed Survivors:** _Unknown_ (Some citizens report a lingering sense of **déjà vu**, as if they remember something that never happened.)
 
 ---
 
-### **3. The Vault of Forgotten Crowns** _(Titan Highlands – The Throne of the Dead)_
+### **2. The Labyrinth of Rust and Ruin** _(Stormcall Isles – Where War Never Ends)_
 
-- **Casualties:** _17_ (Four expedition leaders, thirteen royal seekers. All found seated upon empty thrones, lifeless.)
-- **Confirmed Survivors:** _4_ (One survivor returned unable to recall their own name. Another refused to speak at all.)
+- **Casualties:** _>150 lives lost_ (Expeditions sent to chart its halls have either been **torn apart by its guardians** or **trapped in sections that collapsed behind them**.)
+- **Confirmed Survivors:** _3_ (All returned covered in rust, their weapons and armor corroded beyond repair. One aged **decades overnight**; another refused to speak of what they saw before taking their own life.)
+
+---
+
+### **3. The Sunken Maw** _(Tempest Sea – The Ocean’s Hunger)_
+
+- **Casualties:** _>230 lives lost_ (Ships that stray too close vanish without a trace; divers who attempt to explore its depths **never surface**. Some wreckage resurfaces miles away, barnacle-encrusted and **centuries older than it should be**.)
+- **Confirmed Survivors:** _1_ (Captain Yelrin Dorne was found floating in an empty lifeboat, eyes glazed, whispering a song that no one recognized. He died three days later, lungs filled with saltwater despite never being submerged.)
 
 ---
 
@@ -76,8 +76,8 @@ _(Below is the official record of Delvers who have entered each known Labyrinth,
 
 ### **11. The Vault of Eternity** _(Titan Highlands – The Forge of Gods)_
 
-- **Casualties:** _23_ (Believed to have been undone by their own greed, fates unknown.)
-- **Confirmed Survivors:** _2_ (One survivor refused to part with an artifact they retrieved and was later found dead, turned to gold.)
+- **Casualties:** _23 lives lost_ (Delvers who sought its treasures either perished to its shifting corridors or were **undone by their own greed**. Some were found **fused to golden relics**, their bodies twisted into statues, their mouths frozen in silent screams.)
+- **Confirmed Survivors:** _8_ (Each returned with **an artifact of great power**—but within a year, four had vanished without a trace, and two more were found **dead, their bodies hollowed out as if something had been taken from them**. The last two refuse to speak of what they took, but one has not slept since.)
 
 ---
 
@@ -91,7 +91,7 @@ _(Below is the official record of Delvers who have entered each known Labyrinth,
 ### **13. The Howling Maw** _(Titan Highlands – The Battlefield of the Damned)_
 
 - **Casualties:** _>400 lives lost_ (Those who fall here never leave; they simply continue fighting. Expeditions recover new corpses, but no one can determine how long they have been there.)
-- **Confirmed Survivors:** _4_ (All ended up dead or insane within weeks of escaping.)
+- **Confirmed Survivors:** _11_ (All ended up dead or insane within weeks of escaping.)
 
 ---
 
@@ -118,8 +118,8 @@ _(Below is the official record of Delvers who have entered each known Labyrinth,
 
 ### **17. The Black Vein** _(Titan Highlands – The Mountain That Breathes)_
 
-- **Casualties:** _12_ (Swallowed into walls that were not stone, screaming until silenced.)
-- **Confirmed Survivors:** _2_ (Both refused to describe what they saw.)
+- **Casualties:** _43 (Some swallowed into walls that were not stone, screaming until silenced.)
+- **Confirmed Survivors:** _3 (All refused to describe what they saw.)
 
 ---
 

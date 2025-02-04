@@ -105,9 +105,3 @@ It was meant to be forgotten.
 It was meant to be buried.
 
 And yet, it is open now.
-
-The only question is—
-
-Was it uncovered?
-
-Or did it open on its own?

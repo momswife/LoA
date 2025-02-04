@@ -91,7 +91,7 @@ And see if you can bear the cost.
 **Status: Unconquered, Partially Explored**  
 **Location: Sunfire Expanse, buried beneath the shifting dunes of the Golden Wastes**  
 **First Discovered: 4E 771 (Revealed after a sandstorm unearthed its entrance. The storm ended abruptly the moment it was found.)**  
-**Last Attempted Expedition: 6E 843 (Five Delvers entered. Three returned, each carrying their weight in gold. Within a week, all three were found transformed—flesh turned to coin, veins filled with molten wealth.)**  
+**Last Attempted Expedition: 6E 843 (Five Delvers entered. Three returned, each carrying their weight in gold. Within a week, all two were found transformed—flesh turned to coin, veins filled with molten wealth.)**  
 **Current Warnings: No sanctioned Delving permitted. The Labyrinth remains open. Treasure hunters are advised that "gains" from within cannot be reversed.
 
 The Gilded Labyrinth does not kill.

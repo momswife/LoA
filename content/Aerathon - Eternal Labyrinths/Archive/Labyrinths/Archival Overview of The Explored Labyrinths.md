@@ -15,7 +15,7 @@ Here follows the known records of the Labyrinths of Aerathon, both those that ha
 
 (_The following excerpts are collected from Delver memoirs, royal decrees, and recovered transcripts._)
 
-### **[[Archive/Labyrinths/#1 - The Argent Spire| The Argent Spire]]** _(Halvask – First Discovered)_
+### **[[L1 - The Argent Spire| The Argent Spire]]** _(Halvask – First Discovered)_
 
 _"It was not built. It was revealed."_ – Archivist Adrastia, 3E 15
 
