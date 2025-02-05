@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Workshop of The Forgotten"**
+## **The Workshop of The Forgotten**
 
-_"They built the perfect spell. And then it devoured them."_  
-— **Headmaster Oryn Velsh, 4E 729**
+> _"They built the perfect spell. And then it devoured them."_  
+— **Headmaster Oryn Velsh, 7E 880**
 
 The Forsaken Atelier was once a sanctuary of genius, a workshop where the greatest arcanists, artificers, and spellcrafters of an age long past gathered to push the limits of magic itself. It was a place of pure, unshackled creation, where knowledge was pursued with no thought of consequence.
 
@@ -23,7 +23,7 @@ But the cost of its reclamation is still being calculated.
 
 ---
 
-### **🔬 The Labyrinth of Living Magic**
+## **The Labyrinth of Living Magic**
 
 Unlike the ruins and tombs of other Labyrinths, the Atelier was not built to test or contain—it was a living archive, a laboratory of spellcraft, a factory of impossible creations.
 
@@ -42,9 +42,9 @@ But even now, it is unclear whether anything within was truly destroyed… or si
 
 ---
 
-### **⚔️ The Conquering of the Atelier**
+## **The Conquering of the Atelier**
 
-The Forsaken Atelier was conquered in 6E 904 by House Arvendis, a powerful family of Halvaskan artificers, led by Master Delver Kaelis Arvendis and his team of mage-engineers.
+The Forsaken Atelier was conquered in 7E 904 by House Arvendis, a powerful family of Halvaskan artificers, led by Master Delver Kaelis Arvendis and his team of mage-engineers.
 
 For three months, they mapped its shifting corridors, outwitted its living traps, and sealed away its most unstable creations.
 
@@ -58,7 +58,7 @@ But as with all things in the Atelier, the victory came with a price.
 
 ---
 
-### **🏛️ The Atelier Today: The Arvendis Vault**
+## **The Atelier Today: The Arvendis Vault**
 
 With the Atelier now under House Arvendis’ control, its treasures, secrets, and experiments have been reclaimed. The Magocratic Court of Halvask has declared it a restricted site, allowing only sanctioned scholars and artificers to study its wonders.
 
@@ -74,7 +74,7 @@ It needed a new caretaker.
 
 ---
 
-### **📜 Final Observations: A Victory Without End**
+## **Final Observations: A Victory Without End**
 
 The Forsaken Atelier has been reclaimed.
 
@@ -88,16 +88,11 @@ Even the things that should have been left behind.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 18 — The Forsaken Atelier**
+## **Archive Addendum - Current Status**
 
-**Status:** **Conquered, Restricted Access**  
-**Location:** **Halvask, beneath the ruins of the First Magocratic Academy**  
-**First Discovered:** **4E 729 (Sealed after the catastrophic failure of its last experiment.)**  
-**Conquered:** **6E 904 (By Kaelis Arvendis and House Arvendis artificers.)**  
-**Current Warnings:** **Only sanctioned personnel permitted entry. The Heart of the Atelier remains sealed. Unauthorized tampering is punishable by exile.**
+**Status**: Conquered, Restricted Access  
+**Location**: Halvask, beneath the ruins of the First Magocratic Academy  
+**First Discovered**: 7E 868 (Sealed after the catastrophic failure of its last experiment.)  
+**Conquered**: 7E 904 (By Kaelis Arvendis and House Arvendis artificers.)  
+**Current Warnings**: Only sanctioned personnel permitted entry. The Heart of the Atelier remains sealed. Unauthorized tampering is punishable by exile.
 
-The Atelier breathes once more.
-
-Its master has returned.
-
-And the work is far from over.

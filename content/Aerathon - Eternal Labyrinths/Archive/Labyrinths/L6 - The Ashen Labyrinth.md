@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Smoldering Trial**
+## **The Smoldering Trial**
 
-_"The fire does not burn flesh. It burns truth. And those who have none are reduced to cinders."_  
-— **High Priest Rashan Sunblade**
+> _"The fire does not burn flesh. It burns truth. And those who have none are reduced to cinders."_  
+**— High Priest Rashan Sunblade**
 
 The Ashen Labyrinth is a place of unrelenting fire, but not of heat, smoke, or destruction. Its flames do not consume the body—they consume deception, illusion, and falsehoods.
 
@@ -19,7 +19,7 @@ And some never leave at all, becoming nothing more than embers upon the floor.
 
 ---
 
-### **🔥 The Eternal Flames: A Fire That Knows**
+## **🔥 The Eternal Flames: A Fire That Knows**
 
 The Ashen Labyrinth does not behave like a natural inferno. There are no walls of stone, no corridors of carved ruin—only a vast, endless temple of glowing embers and shifting flames, flickering with shapes and voices long forgotten.
 
@@ -35,7 +35,7 @@ And if they cannot face the answer, they do not return.
 
 ---
 
-### **⏳ The Trials of the Ashen Labyrinth**
+## **The Trials of the Ashen Labyrinth**
 
 Unlike other Labyrinths, which present physical or arcane challenges, the Ashen Labyrinth’s trials are deeply personal. Every Delver faces something different, and yet, the fire remains unchanging.
 
@@ -51,7 +51,7 @@ Only the weight of one's own truth.
 
 ---
 
-### **⚖️ The Known Survivors**
+## **The Known Survivors**
 
 Few Delvers have returned from the Labyrinth, but those who have emerged were forever changed.
 
@@ -65,7 +65,7 @@ And those who survive are not the same as when they entered.
 
 ---
 
-### **📜 Final Observations: The Price of Truth**
+## **Final Observations: The Price of Truth**
 
 The Ashen Labyrinth does not seek to test strength.
 
@@ -79,14 +79,10 @@ And it does not accept silence as an answer.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 6 — The Ashen Labyrinth**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Sunfire Expanse, buried beneath the black sands of the Ember Wastes**  
-**First Discovered:** **4E 221 (First sighted by nomads, believed to be a mirage until the first Delvers entered and never returned.)**  
-**Last Attempted Expedition:** **6E 802 (Ylva Mirroweaver’s disappearance, only a single word found in the ash.)**  
-**Current Warnings:** **Delvers are advised that the Ashen Labyrinth does not kill in the traditional sense. Those who enter may return—if they still exist at all.**
-
-The fire does not lie.
-
-And it does not allow anyone else to, either.
+**Status**: Unconquered, Partially Explored  
+**Location**: Sunfire Expanse, buried beneath the black sands of the Ember Wastes  
+**First Discovered**: 4E 2311 (First sighted by nomads, believed to be a mirage until the first Delvers entered and never returned.)  
+**Last Attempted Expedition**: 6E 802 (Ylva Mirroweaver’s disappearance, only a single word found in the ash.)  
+**Current Warnings**: Delvers are advised that the Ashen Labyrinth does not kill in the traditional sense. Those who enter may return—if they still exist at all.

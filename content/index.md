@@ -3,15 +3,13 @@ title: Welcome to Aerathon - Land of Labyrinths
 ---
 
 *The Definitive Guide to the Trials of the Eternal Labyrinths*
-```
-    “ We are but performers on a stage far greater than we can comprehend. The Eternal Labyrinths
-    are not merely tests of strength, but echoes of a forgotten past, shaping the future with 
-    every step we take.”
 
-    — Grand Archivist Selvaris of Halvask
-```
+> *“We are but performers on a stage far greater than we can comprehend. The Eternal Labyrinths
+> are not merely tests of strength, but echoes of a forgotten past, shaping the future with 
+> every step we take.”*
+>**— Grand Archivist Selvaris of Halvask**
 
-Welcome - *adventurer*  -  to the **Aerathon Lore Archive**, the most comprehensive compendium of knowledge on the world of Aerathon and on the legendary **Trials of the Eternal Labyrinths**. Whether you are a seasoned scholar, an aspiring adventurer, or a curious viewer tuning into the livecast of the greatest trials in history, this archive contains everything you need to understand the mysteries, dangers, and wonders of this magical world.
+Welcome - **adventurer**  -  to the **Aerathon Lore Archive**, the most comprehensive compendium of knowledge on the world of Aerathon and on the legendary **Trials of the Eternal Labyrinths**. Whether you are a seasoned scholar, an aspiring adventurer, or a curious viewer tuning into the livecast of the greatest trials in history, this archive contains everything you need to understand the mysteries, dangers, and wonders of this magical world.
 
 Aerathon is a land where magic and technology intertwine, where entire cities are powered by arcane energy, and where the fate of the world is decided not by kings and warlords, but by the daring souls who brave the enigmatic Eternal Labyrinths. These vast, otherworldly dungeons appear without warning, scattered across continents, filled with **challenges** that test the mind, body, and spirit. Each labyrinth holds **artifacts of unimaginable power**, relics of an ancient civilization that once wielded magic beyond mortal understanding. But these trials are more than mere treasure hunts—every labyrinth conquered brings the world closer to the long-prophesied event known as the **Eternal Convergence**, a cosmic shift that could reshape reality itself.
 

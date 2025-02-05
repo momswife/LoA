@@ -2,22 +2,22 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 892_
 
 ---
 
-### **"The Labyrinth That Forged a Legend"**
+## **The Labyrinth That Forged a Legend**
 
-_"No Delver had ever truly conquered a Labyrinth before me. No one had survived the Radiant Crucible. But I did not enter it to survive. I entered it to become something greater."_  
-— **Vaelrik Dawnpiercer, the First Labyrinth King**
+> _"No Delver had ever truly conquered a Labyrinth before me. No one had survived the Radiant Crucible. But I did not enter it to survive. I entered it to become something greater."_  
+ **—Vaelrik Dawnpiercer, the First Labyrinth King**
 
 Unlike many of the Eternal Labyrinths, which lure Delvers into nightmares, traps, and impossible trials, the Radiant Crucible was different. It was not a place of deception, nor insanity, nor monstrous horrors.
 
 It was a test. A trial of flesh, mind, and soul.
 
-And in 5E 876, it was conquered—not by a scholar, not by a warlord, but by a single man, whose victory reshaped Delving forever.
+And in 5E 2876, it was conquered—not by a scholar, not by a warlord, but by a single man, whose victory reshaped Delving forever.
 
 This is the story of **Vaelrik Dawnpiercer**, the first Delver to claim a Labyrinth's throne, and the trial that turned him into a legend.
 
 ---
 
-### **🔥 The Radiant Crucible: A Trial of Light and Fire**
+## **The Radiant Crucible: A Trial of Light and Fire**
 
 First discovered in 5E 812, the Radiant Crucible was located atop the highest peak of the Sunfire Expanse, its entrance carved into the charred skeleton of an ancient dragon, as if the beast itself had been burned from the inside out. Unlike other Labyrinths, its gates did not shift or disappear. They stood permanently open, wreathed in golden flame, waiting for challengers to step forward.
 
@@ -33,7 +33,7 @@ And stepped inside.
 
 ---
 
-### **⚔️ Vaelrik Dawnpiercer: The Nameless Sellsword**
+## **Vaelrik Dawnpiercer: The Nameless Sellsword**
 
 Vaelrik was no king, no noble, no chosen hero. Born a mercenary’s son in the slums of Halvask, he had spent his life fighting for coin, killing for coin, and surviving for nothing more than another day. But Vaelrik was not like other men—he believed in one thing above all else.
 
@@ -49,7 +49,7 @@ But when he stepped inside, the world would never forget his name.
 
 ---
 
-### **🜂 The Trial of the Crucible**
+## **The Trial of the Crucible**
 
 What happened within the Crucible has been pieced together from Vaelrik’s own words, the visions of seers, and the writings etched into the walls of the Labyrinth itself after its conquest.
 
@@ -73,7 +73,7 @@ They knelt.
 
 ---
 
-### **👑 The First Labyrinth King**
+## **The First Labyrinth King**
 
 Vaelrik did not just survive the Crucible—he claimed it. When he emerged, the fires of the Labyrinth burned within him, and his eyes shone like molten gold. He did not walk as a mere man, but as something more—something tempered, reforged, made greater than he had once been.
 
@@ -85,7 +85,7 @@ He returned to the world no longer a nameless sellsword, but a legend. He became
 
 ---
 
-## **📜 Final Observations: The Fire Still Burns**
+## **Final Observations: The Fire Still Burns**
 
 The Radiant Crucible remains open. It was not sealed, nor did it vanish, as many other Labyrinths have before.
 
@@ -101,17 +101,11 @@ _"The Crucible does not call me anymore. But one day, it will call another. And 
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 9 — The Radiant Crucible**
+## **Archive Addendum - Current Status**
 
-**Status:** **Conquered, but still active**  
-**Location:** **Sunfire Expanse (Peak of the Pyre Mountains)**  
-**First Discovered:** **5E 812**  
-**Conquered By:** **Vaelrik Dawnpiercer (5E 876)**  
-**Current Warnings:** **Only the worthy survive. Enter at your own risk.**
-
-The Radiant Crucible remains one of the few Labyrinths ever fully conquered, yet it has never closed, never vanished, never faded into obscurity.
-
-It is not a mystery, nor a trap, nor a curse.
-
-It is a choice.
+**Status**: Conquered, but still active  
+**Location**: Sunfire Expanse (Peak of the Pyre Mountains)  
+**First Discovered**: 5E 2801  
+**Conquered By**: Vaelrik Dawnpiercer (5E 2876)  
+**Current Warnings**: Only the worthy survive. Enter at your own risk.
 

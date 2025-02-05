@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Labyrinth That Hungers"**
+## **The Labyrinth That Hungers**
 
-_"The tide was high, the sky was clear, and then the ocean opened its mouth."_  
-— **Captain Verin Oathwave**, sole survivor of the Maiden’s Descent
+> _"The tide was high, the sky was clear, and then the ocean opened its mouth."_ 
+**— Captain Verin Oathwave, sole survivor of the Maiden’s Descent**
 
 The Sunken Maw is not just a Labyrinth. It is a force of nature, a living hunger beneath the waves, an abyss where the sea itself collapses into something older, something deeper, something that should not exist.
 
@@ -17,9 +17,9 @@ Because the only way to enter is to drown.
 
 ---
 
-### **🌊 The Sunken Maw: An Ocean Without End**
+## **The Sunken Maw: An Ocean Without End**
 
-First recorded in **4E 189**, the Sunken Maw is located somewhere **within the Tempest Sea**, its position **constantly shifting, never fully charted.**
+First recorded in **2E 1744**, the Sunken Maw is located somewhere **within the Tempest Sea**, its position **constantly shifting, never fully charted.**
 
 - **Ships that sail too close vanish.**
 - **Sailors who drown near its waters are never seen again.**
@@ -39,7 +39,7 @@ And whatever is caught within it **never surfaces again.**
 
 ---
 
-### **🚢 The Great Vanishings and the Cities Lost to the Maw**
+## **The Great Vanishings and the Cities Lost to the Maw**
 
 While many Labyrinths claim **countless Delver lives**, the Sunken Maw **has devoured entire civilizations.**
 
@@ -51,7 +51,7 @@ It is believed that the Maw is **not simply an abyss**, but a **gateway to somet
 
 ---
 
-### **🛑 The First (and Last) Delving Expedition**
+## **The First (and Last) Delving Expedition**
 
 In **6E 732**, a team of **Delvers, scholars, and deep-sea explorers** attempted to **descend into the Maw** using enchanted diving vessels, reinforced with arcane wards. The expedition, funded by the **Magocratic Court of Halvask**, was led by:
 
@@ -76,7 +76,7 @@ _"We are below. The city is waking."_
 
 ---
 
-### **🕳️ Theories, Fears, and the Drowned City**
+## **Theories, Fears, and the Drowned City**
 
 Most scholars believe that the **Maw is not merely a void, but a sunken kingdom—a city swallowed by the sea long before history began.** Some say it was the **capital of the Stormcall Empire**, while others believe it is **older, belonging to an age when the gods still walked the world.**
 
@@ -94,7 +94,7 @@ And some sailors claim that, when the moon is full, **something watches from ins
 
 ---
 
-### **📜 Final Observations: The Maw Still Calls**
+## **Final Observations: The Maw Still Calls**
 
 The **Sunken Maw** cannot be explored. It **cannot be fought, cannot be conquered, cannot be reasoned with.** It is **not a place of trials**, nor **a dungeon of puzzles**.
 
@@ -108,20 +108,11 @@ When that day comes, **the sea itself may no longer be enough to contain it.**
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 3 — The Sunken Maw**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Active**  
-**Location:** **Tempest Sea (Exact position shifts periodically)**  
-**First Discovered:** **4E 189 (Earliest recorded vanishing traced to the region)**  
-**Last Attempted Expedition:** **6E 732 (All hands lost, voices still detected through water resonance studies)**  
-**Current Warnings:** **All naval traffic advised to avoid the Maw’s last known location. No sanctioned Delving allowed.**
+**Status**: Unconquered, Active  
+**Location**: Tempest Sea (Exact position shifts periodically)  
+**First Discovered**: 2E 1744 (Earliest recorded vanishing traced to the region)  
+**Last Attempted Expedition**: 6E 732 (All hands lost, voices still detected through water resonance studies)  
+**Current Warnings**: All naval traffic advised to avoid the Maw’s last known location. No sanctioned Delving allowed.
 
-The **Sunken Maw** remains one of the **greatest mysteries of the Eternal Labyrinths**.
-
-Not because it is **unreachable.**
-
-Not because it is **deadly.**
-
-But because **something down there is still waiting.**
-
-And we have **no idea what it wants.**

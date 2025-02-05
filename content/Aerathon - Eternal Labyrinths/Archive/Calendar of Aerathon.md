@@ -3,11 +3,11 @@ _Transcribed from the Grand Archives of Halvask, 2nd Era, Year 117_
 
 ### **"The Measure of Time: The Lunar-Solar Calendar of Aerathon"**
 
-In Aerathon, time is woven into the cycles of the **twin celestial bodies**—the **Solar Titan**, a golden sun that casts its light across the land, and **Veyna, the Pale Watcher**, a silver-blue moon whose phases shape the rhythms of magic and life. The people of Aerathon follow the **Lunar-Solar Calendar**, which balances the stability of the sun’s passage with the **ever-shifting influence of the moon**.
+In Aerathon, time is woven into the cycles of the twin celestial bodies—the Solar Titan, a golden sun that casts its light across the land, and Veyna, the Pale Watcher, a silver-blue moon whose phases shape the rhythms of magic and life. The people of Aerathon follow the **Lunar-Solar Calendar,** which balances the stability of the sun’s passage with the ever-shifting influence of the moon.
 
-The year is divided into **10 months**, each lasting **36 days**, for a total of **360 days** per year. Each month consists of **six weeks**, known as **turns**, with each turn lasting **six days**. The lunar cycle of **Veyna** resets at the end of each month, influencing **magic, nature, and spiritual practices**.
+The year is divided into **10 months, each lasting 36 days, for a total of 360 days per year**. Each month consists of six weeks, known as turns, with each turn lasting six days. The lunar cycle of Veyna resets at the end of each month, influencing magic, nature, and spiritual practices.
 
-At the year’s end, **five days exist outside the calendar**, known as the **Days of Reckoning**, when the veil between worlds is at its thinnest.
+At the year’s end, five days exist outside the calendar, known as the **Days of Reckoning**, when the veil between worlds is at its thinnest.
 
 ---
 
@@ -22,7 +22,7 @@ At the year’s end, **five days exist outside the calendar**, known as the **Da
 
 ### **The Months of Aerathon**
 
-Each month is tied to **cosmic and elemental forces**, shaping the land, weather, and magical influences.
+Each month is tied to cosmic and elemental forces, shaping the land, weather, and magical influences.
 
 |**Month Name**|**Season**|**Meaning & Influence**|
 |---|---|---|
@@ -41,7 +41,7 @@ Each month is tied to **cosmic and elemental forces**, shaping the land, weather
 
 ### **The Days of the Week (Known as "Turns")**
 
-Each of the **six days** of the week is associated with a cosmic force and carries spiritual significance.
+Each of the six days of the week is associated with a cosmic force and carries spiritual significance.
 
 |**Day Name**|**Meaning & Influence**|
 |---|---|
@@ -52,15 +52,15 @@ Each of the **six days** of the week is associated with a cosmic force and carri
 |**Flameturn**|A day of **combat, trials, and passion**. Arena duels, smithing, and great feasts take place on this day.|
 |**Veilturn**|A day of **reflection, secrecy, and unseen forces**. Assassins, spies, and scholars of the unknown whisper of hidden truths.|
 
-Each week progresses from **order and light (Sunturn) to mystery and secrecy (Veilturn)**, shaping both **social customs and spiritual observances**.
+Each week progresses from order and **light (Sunturn)** to mystery and secrecy **(Veilturn)**, shaping both social customs and spiritual observances.
 
 ---
 
 ## **The Days of Reckoning (Year’s End)**
 
-The **final five days of the year** do not belong to any month and are known as the **Days of Reckoning**—a time when **the veil between worlds grows thin, fate shifts, and powerful magic stirs**.
+The final five days of the year do not belong to any month and are known as the Days of Reckoning—a time when the veil between worlds grows thin, fate shifts, and powerful magic stirs.
 
-Each day represents an aspect of **Aerathon’s past and future**, and is observed differently across cultures:
+Each day represents an aspect of Aerathon’s past and future, and is observed differently across cultures:
 
 |**Day Name**|**Significance**|
 |---|---|
@@ -74,7 +74,7 @@ Each day represents an aspect of **Aerathon’s past and future**, and is observ
 
 ## **Celestial Cycles and Lunar Influence**
 
-The moon, **Veyna, the Pale Watcher**, follows a **36-day cycle**, beginning anew with each month. The phases of the moon affect **magic, divination, and spiritual practices**, with different traditions **aligning their rituals to its waxing and waning glow**.
+The moon, **Veyna, the Pale Watcher**, follows a **36-day cycle**, beginning anew with each month. The phases of the moon affect magic, divination, and spiritual practices, with different traditions aligning their rituals to its waxing and waning glow.
 
 |**Moon Phase**|**Effects on Aerathon**|
 |---|---|
@@ -85,16 +85,16 @@ The moon, **Veyna, the Pale Watcher**, follows a **36-day cycle**, beginning ane
 |**Full Moon**|A time of revelation, fate, and prophecy. **Divination and lunar magic are at their peak.**|
 |**Waning Moon**|The cycle of endings. Spirits wander, old debts are repaid, and curses are undone.|
 
-In certain places, such as **the Veilshroud Expanse and the Umbral Dominion**, **the phases of the moon dictate political and arcane decisions**, with important events scheduled **only when the omens are right**.
+In certain places, such as the Veilshroud Expanse and the Umbral Dominion, the phases of the moon dictate political and arcane decisions, with important events scheduled only when the omens are right.
 
 ---
 
 ## **Final Observations: Time, Magic, and Fate in Aerathon**
 
-The Calendar of Aerathon is **not just a measure of days—it is a rhythm woven into the very world itself**. Seasons bring **not only weather but power**, the shifting phases of the moon **alter magic and destiny**, and the Reckoning Days serve as **a bridge between what was and what is to come**.
+The Calendar of Aerathon is not just a measure of days—it is a rhythm woven into the very world itself. Seasons bring not only weather but power, the shifting phases of the moon alter magic and destiny, and the Reckoning Days serve as a bridge between what was and what is to come.
 
-To the scholars of Halvask, time is **a tool for order**.  
-To the druids of the Wilds, it is **a cycle**.  
-To the seers of the Veilshroud, it is **fluid, ever-changing, and uncertain**.
+To the scholars of Halvask, time is a tool for order.  
+To the druids of the Wilds, it is a cycle.  
+To the seers of the Veilshroud, it is fluid, ever-changing, and uncertain.
 
-But to all, it is **the thread that binds Aerathon’s past, present, and future together**—a thread that, should it ever fray, may unravel the very world itself.
+But to all, it is the thread that binds Aerathon’s past, present, and future together—a thread that, should it ever fray, may unravel the very world itself.

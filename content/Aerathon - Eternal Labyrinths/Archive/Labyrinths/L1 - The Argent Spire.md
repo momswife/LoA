@@ -1,11 +1,10 @@
 _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
+## **The First Labyrinth**
 
-### **"The First Labyrinth"**
-
-_"It was not built. It was revealed."_  
-— **Archivist Adrastia**, 3E 15
+> "It was not built. It was revealed."
+> **— Archivist Adrastia, 3E 15**
 
 Before the Eternal Labyrinths spread across Aerathon, before Delving became a profession, a spectacle, a way of life, there was one. The first.
 
@@ -19,7 +18,7 @@ And below, in the darkness, the first door was waiting.
 
 ---
 
-### **🔷 A Labyrinth of Silver and Reflection**
+## **A Labyrinth of Silver and Reflection**
 
 Unlike the twisting dungeons, shifting nightmares, or deadly trials that define the other Eternal Labyrinths, the Argent Spire was silent. It was not a place of monsters, nor of war, nor of illusion. Its walls, impossibly smooth and forged from veins of glowing silver, reflected not just those who entered—but something more.
 
@@ -35,31 +34,31 @@ It simply showed them what they did not want to see.
 
 ---
 
-### **🔻 The First Delvers and the Vanishing**
+## **The First Delvers and the Vanishing**
 
-**When the first mage-scholars of Halvask ventured into the Spire, they expected knowledge, relics, secrets of the ancients.**
+When the first mage-scholars of Halvask ventured into the Spire, they expected knowledge, relics, secrets of the ancients.
 
-**What they found instead was themselves.**
+What they found instead was themselves.
 
-**The first expedition, led by Archmagister Solvaris the Wise, consisted of twenty of Halvask’s finest minds. They stepped through the doors with confidence, expecting to map its halls, to return with wisdom that would change the world.**
+The first expedition, led by Archmagister Solvaris the Wise, consisted of twenty of Halvask’s finest minds. They stepped through the doors with confidence, expecting to map its halls, to return with wisdom that would change the world.
 
-**None of them returned.**
+None of them returned.
 
-**For months, the Spire stood silent, its entrance unchanged, its silver walls gleaming in the torchlight. Then, on the final night of the year’s Reckoning, a single figure emerged—a woman, her robes tattered, her eyes burned silver, her voice a whisper of a thousand echoes.**
+For months, the Spire stood silent, its entrance unchanged, its silver walls gleaming in the torchlight. Then, on the final night of the year’s Reckoning, a single figure emerged—a woman, her robes tattered, her eyes burned silver, her voice a whisper of a thousand echoes.
 
-**It was Solvaris.**
+It was Solvaris.
 
-**Or at least, something wearing her name.**
+Or at least, something wearing her name.
 
-**She spoke in riddles, in statements that had no meaning, or perhaps had too much meaning. She wrote equations that could not exist, spells that could not function, names that had never been spoken. When asked what she had seen, she only smiled.**
+She spoke in riddles, in statements that had no meaning, or perhaps had too much meaning. She wrote equations that could not exist, spells that could not function, names that had never been spoken. When asked what she had seen, she only smiled.
 
-**Then she stepped back into the Spire.**
+Then she stepped back into the Spire.
 
-**And the doors sealed behind her.**
+And the doors sealed behind her.
 
 ---
 
-### **⚖️ The Attempts to Conquer the Spire**
+## **The Attempts to Conquer the Spire**
 
 For the next century, Halvask’s greatest scholars, kings, and heroes attempted to understand the Spire.
 
@@ -73,7 +72,7 @@ It became clear: The Argent Spire was not a Labyrinth to be conquered. It was a 
 
 ---
 
-### **🛑 The Spire Seals Itself**
+## **The Spire Seals Itself**
 
 In 4E 112, after centuries of failed exploration, the Spire changed.
 
@@ -99,22 +98,11 @@ When it does, will we be ready for what it has learned?
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 1 — The Argent Spire**
+## **Archive Addendum - Current Status**
 
-**Status:** **Sealed, Unconquered**  
-**Location:** **Beneath Halvask, fully inaccessible since 4E 112**  
-**First Discovered:** **3E 15 (Unearthed during Halvask’s foundation)**  
-**Last Attempted Expedition:** **4E 112 (Final sealing event—cause unknown)**  
-**Current Warnings:** **All research into the Spire is theoretical only. No means of entry exist.**
+**Status:** Sealed, Unconquered  
+**Location:** Beneath Halvask, fully inaccessible since 4E 112  
+**First Discovered:** 1E 1272 (Unearthed during Halvask’s foundation)  
+**Last Attempted Expedition:** 4E 112 (Final sealing event—cause unknown)  
+**Current Warnings:** All research into the Spire is theoretical only. No means of entry exist.
 
-The Argent Spire is the first of the Labyrinths. It is the only one that has fully sealed itself.
-
-It has no monsters, no death traps, no treasures to claim.
-
-And yet, it is perhaps the most dangerous of them all.
-
-Because it is still there.
-
-It is still watching.
-
-And one day, it will ask its questions again.

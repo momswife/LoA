@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **7. The Labyrinth of the Faceless** _(Umbral Dominion – The Masked Nightmare)_
+## **The Masked Nightmare**
 
-_"I cannot recall their faces. I cannot recall my own."_  
-— Delver’s journal, recovered outside Nocthollow
+> _"I cannot recall their faces. I cannot recall my own."_  
+**—Delver’s journal, recovered outside Nocthollow**
 
 The Labyrinth of the Faceless is a place of shifting identity, where those who enter slowly lose themselves—not to death, but to forgetting.
 
@@ -21,7 +21,7 @@ And some never return at all, their names scratched from history as if they had 
 
 ---
 
-### **🪞 A Maze Without Identity**
+## **A Maze Without Identity**
 
 Unlike other Labyrinths, the Labyrinth of the Faceless does not present monsters, traps, or guardians.
 
@@ -42,7 +42,7 @@ It has become their face.
 
 ---
 
-### **⏳ The Vanishing of the Nocthollow Expedition**
+## **The Vanishing of the Nocthollow Expedition**
 
 The most infamous attempt to explore the Labyrinth occurred in 5E 909, when the Nocthollow Expedition, a team of twelve elite Delvers, entered the Labyrinth under the guidance of **Master Delver Alric Thorne.**
 
@@ -66,7 +66,7 @@ Waiting.
 
 ---
 
-### **🎭 The Masks That Remain**
+## **The Masks That Remain**
 
 The Labyrinth of the Faceless does not allow all who enter to leave.
 
@@ -86,7 +86,7 @@ Their own face is gone.
 
 ---
 
-### **📜 Final Observations: The Price of a Name**
+## **Final Observations: The Price of a Name**
 
 The Labyrinth of the Faceless does not kill.
 
@@ -100,14 +100,10 @@ Until nothing remains at all.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 7 — The Labyrinth of the Faceless**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Umbral Dominion, deep within the Nocthollow Woods**  
-**First Discovered:** **4E 511 (First recorded mention, local legends predate written history.)**  
-**Last Attempted Expedition:** **5E 909 (Nocthollow Expedition – All twelve members lost, seven returned briefly before vanishing.)**  
-**Current Warnings:** **Do not enter alone. Do not answer to names you do not recognize. Do not pick up the mask.**
-
-If you forget yourself, the Labyrinth will remember for you.
-
-But it may not return the same name.
+**Status**: Unconquered, Partially Explored  
+**Location**: Umbral Dominion, deep within the Nocthollow Woods  
+**First Discovered**: 4E 2419 (First recorded mention, local legends predate written history.)  
+**Last Attempted Expedition**: 5E 909 (Nocthollow Expedition – All twelve members lost, seven returned briefly before vanishing.)  
+**Current Warnings**: Do not enter alone. Do not answer to names you do not recognize. Do not pick up the mask.

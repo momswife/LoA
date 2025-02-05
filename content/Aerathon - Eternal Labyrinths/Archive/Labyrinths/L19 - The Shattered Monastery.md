@@ -2,9 +2,9 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Trial of The Ascended"**
+## **The Trial of The Ascended**
 
-_"The monks who walked these halls sought ascension. They found something else."_  
+> _"The monks who walked these halls sought ascension. They found something else."_  
 — **Scholar Fendris Vaelor**
 
 High atop the Wraithspire Peaks, where the air grows too thin to breathe and the sky darkens long before twilight, lies the Shattered Monastery—a Labyrinth not of stone corridors or twisting caves, but of floating ruins, suspended in defiance of gravity itself.
@@ -19,7 +19,7 @@ Instead, they became something else entirely.
 
 ---
 
-### **🌫️ A Labyrinth Above the Clouds**
+## **A Labyrinth Above the Clouds**
 
 The Shattered Monastery is unlike any other Eternal Labyrinth—it is a realm in pieces, where gravity is not absolute, where stone walkways float in midair, and where the only way forward is to leap across the void and trust that the path will find you.
 
@@ -38,7 +38,7 @@ But not in the way they intended.
 
 ---
 
-### **🕉️ The Trial of the Ascended**
+## **The Trial of the Ascended**
 
 Unlike other Labyrinths, the Shattered Monastery does not test strength, wit, or endurance.
 
@@ -60,7 +60,7 @@ And some remain, joining the monks in a form beyond flesh, trapped in the endles
 
 ---
 
-### **🌟 The Twin Stars and the First Conquerors**
+## **The Twin Stars and the First Conquerors**
 
 For centuries, no one had ever reached the inner sanctum of the Monastery. Many had attempted, but all had fallen short—until the arrival of two Delvers, known now as the Twin Stars of Aerathon.
 
@@ -86,6 +86,12 @@ Kiel hesitated, then followed.
 
 And in an instant—they were gone.
 
+
+
+---
+
+### **📜 Final Observations: The Labyrinth That Leads Elsewhere**
+
 The Labyrinth remains conquered, but the Twin Stars have never returned.
 
 Some say they ascended beyond mortal form, fulfilling the monks’ original goal.
@@ -95,14 +101,6 @@ Others say they found something no mortal should have witnessed—and could not 
 All that is known is that, since their disappearance, the floating ruins have begun to shift once more.
 
 As if the Labyrinth is still waiting for someone else to follow.
-
----
-
-### **📜 Final Observations: The Labyrinth That Leads Elsewhere**
-
-The Shattered Monastery is not simply a ruin.
-
-It is a threshold.
 
 A door to something beyond understanding, waiting for those who dare step forward without looking back.
 
@@ -116,16 +114,10 @@ And now, someone must take the next step.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 19 — The Shattered Monastery**
+## **Archive Addendum - Current Status**
 
-**Status:** **Conquered, but Active**  
-**Location:** **Titan Highlands, atop the Wraithspire Peaks**  
-**First Discovered:** **4E 501 (Earliest recorded reference, though legends date back far earlier.)**  
-**Conquered:** **6E 927 (By Sarina Lumehart and Kiel Vaelor, known as the Twin Stars.)**  
-**Current Warnings:** **The Monastery remains open. The summit is still inaccessible. Do not attempt the path of light unless you are willing to never return.**
-
-The Twin Stars walked the path.
-
-Now, the only question is—
-
-Will anyone follow?
+**Status**: Conquered, but Active  
+**Location**: Titan Highlands, atop the Wraithspire Peaks  
+**First Discovered:** 4E 927 (Earliest recorded reference, though legends date back far earlier.)  
+**Conquered**: 7E 927 (By Sarina Lumehart and Kiel Vaelor, known as the Twin Stars.)  
+**Current Warnings**: The Monastery remains open. The summit is still inaccessible. Do not attempt the path of light unless you are willing to never return.

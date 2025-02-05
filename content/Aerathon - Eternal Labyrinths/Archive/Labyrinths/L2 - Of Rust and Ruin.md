@@ -2,20 +2,20 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Labyrinth Where War Never Ends"**
+## **The Labyrinth Where War Never Ends**
 
-_"You do not leave it. You survive it. And when you die, you are born into it again."_  
-— Last words of Delver **Ralvas Thorne**
+> _"You do not leave it. You survive it. And when you die, you are born into it again."_  
+> **— Last words of Delver Ralvas Thorne**
 
 The Labyrinth of Rust and Ruin is not a place of puzzles, nor a dungeon of traps, nor a prison of shifting illusions. It is a war without end—a battlefield frozen in time, locked in an eternal cycle of conflict, where the fallen never truly die and victory does not exist.
 
-First discovered in 3E 211, deep within the Titan Highlands, the Labyrinth of Rust and Ruin has remained one of the deadliest and least understood of the Eternal Labyrinths. Those who enter do not simply fight its trials—they become part of the war itself.
+First discovered in 2E 1039, deep within the Titan Highlands, the Labyrinth of Rust and Ruin has remained one of the deadliest and least understood of the Eternal Labyrinths. Those who enter do not simply fight its trials—they become part of the war itself.
 
 And those who fall are not allowed to rest.
 
 ---
 
-### **⚔️ The Endless War of the Rusted Dead**
+## **The Endless War of the Rusted Dead**
 
 The first Delvers who entered the Labyrinth of Rust and Ruin believed it to be a forgotten battlefield, its gates carved into the ruins of an ancient, abandoned fortress, half-buried in the crags of the Highlands.
 
@@ -36,7 +36,7 @@ It simply repeats.
 
 ---
 
-### **🔻 The First Expeditions and the Fate of the Fallen**
+## **The First Expeditions and the Fate of the Fallen**
 
 The first warband to enter the Labyrinth, led by General Targan of the Highland Clans, vanished without a trace. No bodies were recovered. No messages returned.
 
@@ -62,7 +62,7 @@ And the blood was still warm.
 
 ---
 
-### **🕳️ The Curse of the War Without End**
+## **The Curse of the War Without End**
 
 Unlike other Labyrinths, which hold treasures, traps, or trials, the Labyrinth of Rust and Ruin offers nothing but war.
 
@@ -78,7 +78,7 @@ And no one has ever been strong enough to reach the end.
 
 ---
 
-### **📜 Final Observations: The Soldiers Still March**
+## **Final Observations: The Soldiers Still March**
 
 The Labyrinth of Rust and Ruin is not sealed, nor hidden, nor inaccessible. It is open to any who would dare enter.
 
@@ -94,16 +94,10 @@ Until someone finally wins the war.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 2 — The Labyrinth of Rust and Ruin**
+## **Archive Addendum - Current Status
 
-**Status:** **Unconquered**  
-**Location:** **Titan Highlands (Buried beneath the ruins of an ancient fortress)**  
-**First Discovered:** **3E 211 (First recorded expedition vanished entirely)**  
-**Last Attempted Expedition:** **6E 716 (All 20 Delvers presumed dead, battle formations still observed from outside the entrance)**  
-**Current Warnings:** **All Delvers are advised that entry into the Labyrinth constitutes a death sentence.**
-
-Unlike most Labyrinths, the Labyrinth of Rust and Ruin does not defend itself. It does not need to.
-
-Because it does not see outsiders as invaders.
-
-It sees them as reinforcements.
+**Status:** Unconquered  
+**Location:** Titan Highlands (Buried beneath the ruins of an ancient fortress)  
+**First Discovered:** 2E 1039 (First recorded expedition vanished entirely)  
+**Last Attempted Expedition:** 6E 716 (All 20 Delvers presumed dead, battle formations still observed from outside the entrance)  
+**Current Warnings:** All Delvers are advised that entry into the Labyrinth constitutes a death sentence.

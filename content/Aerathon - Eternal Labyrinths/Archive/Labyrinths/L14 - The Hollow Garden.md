@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Maze That Remembers"**
+## **The Maze That Remembers"*
 
-_"The trees know your name. The flowers remember your sorrow. And the vines… the vines never forget."_  
-— Inscription at the entrance
+> _"The trees know your name. The flowers remember your sorrow. And the vines… the vines never forget."_  
+— **Inscription at the entrance**
 
 The Hollow Garden is not a labyrinth of stone, nor a fortress lost to time, but a living maze—an eternal grove, where nature does not follow the rules of the world outside.
 
@@ -17,7 +17,7 @@ It holds the soul.
 
 ---
 
-### **🌿 The Garden That Knows You**
+## **The Garden That Knows You**
 
 The Hollow Garden is said to be sentient, responding to those who walk its paths, shaping itself to mirror their past, their regrets, their buried thoughts.
 
@@ -36,7 +36,7 @@ Others fear they are echoes of those who entered… and never left.
 
 ---
 
-### **❀ The Blooming Cycle**
+## **The Blooming Cycle**
 
 Unlike other Labyrinths, the Hollow Garden **changes with the seasons**, though no time passes for those inside. Each cycle brings **a different danger**, a different challenge:
 
@@ -47,7 +47,7 @@ Unlike other Labyrinths, the Hollow Garden **changes with the seasons**, though 
 
 ---
 
-### **🗝️ The Gate of Names**
+## **The Gate of Names**
 
 At the heart of the Hollow Garden lies a single, massive gate, entwined with roots and thorns, its surface covered in hundreds of names. Some are worn with age, others fresh as if carved only yesterday.
 
@@ -65,7 +65,7 @@ But a tombstone.
 
 ---
 
-### **📜 Final Observations: The Garden Does Not Forget**
+## **Final Observations: The Garden Does Not Forget**
 
 The Hollow Garden does not threaten with traps or monsters.
 
@@ -85,16 +85,10 @@ As if the Hollow Garden had claimed them after all.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 14 — The Hollow Garden**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Veilshroud Expanse, growing within the ruins of the Verdant Sanctum**  
-**First Discovered:** **4E 319 (First recorded entry, though legends predate written history.)**  
-**Last Attempted Expedition:** **6E 718 (Six Delvers entered. Three returned, each claiming the others had never existed.)**  
-**Current Warnings:** **Do not speak to the statues. Do not read the names. Do not linger too long in bloom, or you may never know what was taken.**
-
-The Garden does not trap.
-
-It does not chase.
-
-It simply waits for you to forget yourself.
+**Status**: Unconquered, Partially Explored  
+**Location**: Veilshroud Expanse, growing within the ruins of the Verdant Sanctum  
+**First Discovered:** 6E 3792 (First recorded entry, though legends predate written history.)  
+**Last Attempted Expedition**: 6E 3918 (Six Delvers entered. Three returned, each claiming the others had never existed.)  
+**Current Warnings**: Do not speak to the statues. Do not read the names. Do not linger too long in bloom, or you may never know what was taken.

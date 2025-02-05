@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Machine That Waits"**
+## **The Machine That Waits**
 
-_"It does not rust. It does not falter. It does not stop. But most of all… it does not forget."_  
-— Last transmission of **Delver Rhys Valden**, Expedition 5E 629
+> _"It does not rust. It does not falter. It does not stop. But most of all… it does not forget."_  
+**—Last transmission of Delver Rhys Valden, Expedition 5E 629**
 
 Beneath the streets of Halvask, buried deep beneath the city's oldest foundations, lies the Clockwork Tomb—a Labyrinth that was never built, never abandoned, and never truly at rest. It is not a ruin, nor a temple, nor a prison. It is a machine, vast and unceasing, its gears turning without an operator, its levers moving with no visible hand.
 
@@ -17,7 +17,7 @@ That it is counting down to something.
 
 ---
 
-### **⚙️ A Labyrinth of Living Mechanisms**
+## **A Labyrinth of Living Mechanisms**
 
 The Clockwork Tomb is unlike other Labyrinths—its corridors shift on precise intervals, its pathways change at the chime of unseen bells, and the air itself hums with the sound of a heartbeat that does not belong to anything living.
 
@@ -32,7 +32,7 @@ And then there is the Core Chamber, where something vast still ticks, still wait
 
 ---
 
-### **⏳ The Fall of the Valden Expedition**
+## **The Fall of the Valden Expedition**
 
 Of all those who have attempted to map the Clockwork Tomb, none are as infamous as **Rhys Valden**, a Delver of great renown—and even greater madness.
 
@@ -68,7 +68,7 @@ _"KEEP MOVING. OR IT WILL CATCH UP TO YOU."_
 
 ---
 
-### **🔧 Theories and the Builders of the Tomb**
+## **Theories and the Builders of the Tomb**
 
 The origin of the Clockwork Tomb remains **a mystery**, though three theories persist:
 
@@ -82,7 +82,7 @@ What happens when the machine completes its work?
 
 ---
 
-### **🕰️ The Core Chamber and the Countdown**
+## **The Core Chamber and the Countdown**
 
 At the deepest level of the Tomb, there is a chamber that no Delver has ever fully explored.
 
@@ -108,22 +108,11 @@ Just part of the machine now.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 4 — The Clockwork Tomb**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Beneath Halvask, accessible through the sealed entrance beneath the Academy ruins**  
-**First Discovered:** **3E 297 (Unearthed by excavation, magnetic anomalies reported across the city.)**  
-**Last Attempted Expedition:** **5E 629 (Rhys Valden’s expedition—eight entered, one survived, Valden missing.)**  
-**Current Warnings:** **The Tomb remains active. No sanctioned Delving allowed without direct approval of the Magocratic Court.**
+**Status**: Unconquered, Partially Explored  
+**Location**: Beneath Halvask, accessible through the sealed entrance beneath the Academy ruins  
+**First Discovered**: 3E 2009 (Unearthed by excavation, magnetic anomalies reported across the city.)  
+**Last Attempted Expedition**: 5E 629 (Rhys Valden’s expedition—eight entered, one survived, Valden missing.)  
+**Current Warnings**: The Tomb remains active. No sanctioned Delving allowed without direct approval of the Magocratic Court.
 
-The Clockwork Tomb does not rest.
-
-It does not age.
-
-And somewhere, deep within its endless gears, something is counting down.
-
-To what?
-
-We do not know.
-
-But the clock has never stopped before.

@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Frozen Metropolis"**
+## **The Frozen Metropolis"**
 
-_"It’s older than the mountains. Older than the world we know. And yet, the lights are still on."_  
-— **Dwarven Excavation Report, 5E 913**
+> _"It’s older than the mountains. Older than the world we know. And yet, the lights are still on."_  
+— **Dwarven Excavation Report, 6E 3418**
 
 Deep within the Frostlands, where the cold has held dominion for millennia, lies a city that should not exist. The Silver Ruin is not a dungeon, nor a temple, nor a forgotten crypt—it is a metropolis of impossible scale, buried beneath centuries of ice, its towers frozen mid-collapse, its streets still paved with metal that does not tarnish.
 
@@ -17,7 +17,7 @@ And yet, it has been waiting, untouched, as if the world simply forgot it was ev
 
 ---
 
-### **🏙️ A City Without Time**
+## **A City Without Time**
 
 Unlike the shattered ruins of lost civilizations, the Silver Ruin has not crumbled, decayed, or been consumed by time. Instead, it is perfectly preserved, as though it was frozen in an instant, locked in an unchanging state while the rest of the world moved on.
 
@@ -34,9 +34,9 @@ It is waiting.
 
 ---
 
-### **⚠️ The Frozen Anomaly**
+## **The Frozen Anomaly**
 
-The first recorded discovery of the Silver Ruin occurred in 5E 913, when a dwarven mining expedition struck a barrier of unknown metal beneath the Frostlands. The moment they breached the ice, every torch, lantern, and spell of fire dimmed, and the temperature in their camp plunged to impossible lows.
+The first recorded discovery of the Silver Ruin occurred in 6E 3418, when a dwarven mining expedition struck a barrier of unknown metal beneath the Frostlands. The moment they breached the ice, every torch, lantern, and spell of fire dimmed, and the temperature in their camp plunged to impossible lows.
 
 Within hours, three members of the team vanished.
 
@@ -50,7 +50,7 @@ The surviving members abandoned the site, but even as they fled, they swore they
 
 ---
 
-### **❄️ The Lights That Should Not Be**
+## **The Lights That Should Not Be**
 
 Unlike other Labyrinths, which are dark, crumbling places of ruin, the Silver Ruin is still illuminated.
 
@@ -62,7 +62,7 @@ But each time an explorer disappears, a new shadow appears in the city.
 
 ---
 
-### **🛑 The Silent Quarter and the Whispering Hall**
+## **The Silent Quarter and the Whispering Hall**
 
 At the heart of the ruin, there is a district known as the Silent Quarter, where even the wind does not stir. It is always colder here, and those who pass through hear no footsteps but their own.
 
@@ -78,7 +78,7 @@ No one has dared remain long enough to find out.
 
 ---
 
-### **📜 Final Observations: A City That Remembers**
+## **Final Observations: A City That Remembers**
 
 The Silver Ruin is not simply a lost metropolis.
 
@@ -96,16 +96,10 @@ And it has not forgotten us.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 12 — The Silver Ruin**
+### **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Frostlands, buried beneath the Everfrost Expanse**  
-**First Discovered:** **5E 913 (Unearthed by dwarven miners, anomalies reported immediately after.)**  
-**Last Attempted Expedition:** **6E 512 (Seven Delvers entered. Only one returned—blind, frostbitten, and unable to speak.)**  
-**Current Warnings:** **The city is still active. Expeditions forbidden without full Arcane Oversight.**
-
-The Silver Ruin is waiting.
-
-For what, we do not know.
-
-But one day, its time will come again.
+**Status**: Unconquered, Partially Explored  
+**Location**: Frostlands, buried beneath the Everfrost Expanse  
+**First Discovered**: 6E 3418 (Unearthed by dwarven miners, anomalies reported immediately after.)  
+**Last Attempted Expedition**: 6E 512 (Seven Delvers entered. Only one returned—blind, frostbitten, and unable to speak.)  
+**Current Warnings**: The city is still active. Expeditions forbidden without full Arcane Oversight.

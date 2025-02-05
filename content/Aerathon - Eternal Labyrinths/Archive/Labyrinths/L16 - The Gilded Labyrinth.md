@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Temple of Endless Gold"**
+## **The Temple of Endless Gold**
 
-_"The wealth of a thousand empires lies within. But tell me, Delver—how much of yourself are you willing to spend?"_  
-— **High Vizier Zorahn al-Rahim**
+> _"The wealth of a thousand empires lies within. But tell me, Delver—how much of yourself are you willing to spend?"_  
+**— High Vizier Zorahn al-Rahim**
 
 Buried beneath the scorching sands of the Sunfire Expanse, hidden within dunes that shift like the tides, lies the Gilded Labyrinth—a temple to greed, temptation, and ruin.
 
@@ -19,7 +19,7 @@ It demands a price in return.
 
 ---
 
-### **💰 A Labyrinth of Wealth and Ruin**
+## **A Labyrinth of Wealth and Ruin**
 
 Unlike other Labyrinths, which are fortresses of the past or prisons of the forgotten, the Gilded Labyrinth is still active—a place of opulence without end, where the walls shimmer with arcane gold, and the very air is thick with the scent of rare perfumes and incense that never fades.
 
@@ -38,7 +38,7 @@ But nothing is ever truly free.
 
 ---
 
-### **⚖️ The Curse of the Coinborn**
+## **The Curse of the Coinborn**
 
 The Gilded Labyrinth does not simply tempt. It changes those who take from it.
 
@@ -54,7 +54,7 @@ It is simply melted down and returned to the Labyrinth.
 
 ---
 
-### **🔑 The Chamber of Kings**
+## **The Chamber of Kings**
 
 At the heart of the Gilded Labyrinth, beneath archways lined with crown-shaped glyphs, lies the Chamber of Kings—a vast golden vault said to contain every treasure ever lost to time.
 
@@ -72,7 +72,7 @@ Others say that the figure on the throne was the first to take from the Labyrint
 
 ---
 
-### **📜 Final Observations: The Labyrinth That Takes as Much as It Gives**
+## **Final Observations: The Labyrinth That Takes as Much as It Gives**
 
 The Gilded Labyrinth is not a place of battle, nor of puzzles, nor of trials.
 
@@ -86,14 +86,10 @@ And see if you can bear the cost.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 16 — The Gilded Labyrinth**
+## **Archive Addendum - Current Status**
 
-**Status: Unconquered, Partially Explored**  
-**Location: Sunfire Expanse, buried beneath the shifting dunes of the Golden Wastes**  
-**First Discovered: 4E 771 (Revealed after a sandstorm unearthed its entrance. The storm ended abruptly the moment it was found.)**  
-**Last Attempted Expedition: 6E 843 (Five Delvers entered. Three returned, each carrying their weight in gold. Within a week, all two were found transformed—flesh turned to coin, veins filled with molten wealth.)**  
-**Current Warnings: No sanctioned Delving permitted. The Labyrinth remains open. Treasure hunters are advised that "gains" from within cannot be reversed.
-
-The Gilded Labyrinth does not kill.
-
-It simply waits for you to take too much.
+**Status**: Unconquered, Partially Explored  
+**Location**: Sunfire Expanse, buried beneath the shifting dunes of the Golden Wastes  
+**First Discovered**: 6E 4550 (Revealed after a sandstorm unearthed its entrance. The storm ended abruptly the moment it was found.)  
+**Last Attempted Expedition**: 6E 8443 (Five Delvers entered. Three returned, each carrying their weight in gold. Within a week, all two were found transformed—flesh turned to coin, veins filled with molten wealth.)  
+**Current Warnings:** No sanctioned Delving permitted. The Labyrinth remains open. Treasure hunters are advised that "gains" from within cannot be reversed.

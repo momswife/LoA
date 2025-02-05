@@ -2,9 +2,9 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Labyrinth That Forges the Impossible"**
+## **The Labyrinth That Forges the Impossible**
 
-_"The world does not craft legends. Legends craft the world. And all things of power must come from somewhere."_  
+> _"The world does not craft legends. Legends craft the world. And all things of power must come  from somewhere."_  
 — **Master Artificer Kellis Vaelor, on the Vault of Eternity**
 
 Among the Eternal Labyrinths, there is one whose name is whispered not in fear, but in reverence. A place where weapons of legend, tomes of untamed magic, and relics of unimaginable power were born.
@@ -25,7 +25,7 @@ That is a different question entirely.
 
 ---
 
-### **🔷 The Vault of Eternity: A Workshop of the Divine**
+## **The Vault of Eternity: A Workshop of the Divine**
 
 Unlike other Labyrinths, which are ruins, fortresses, or realms of horror, the Vault of Eternity is a place of impossible wonder.
 
@@ -44,7 +44,7 @@ No one knows what lies beyond.
 
 ---
 
-### **🛠️ The Artifacts of the Vault: Power Beyond Mortal Hands**
+## **The Artifacts of the Vault: Power Beyond Mortal Hands**
 
 The greatest artifacts in history have come from the Vault. Some were claimed, some were forged anew, and some were taken at a price no one dares to name.
 
@@ -72,7 +72,7 @@ Whatever it is, none who wield these relics die a quiet death.
 
 ---
 
-### **⚖️ The Teams Who Have Entered**
+## **The Teams Who Have Entered**
 
 Unlike most Labyrinths, which claim countless lives, the Vault does not slaughter Delvers outright.
 
@@ -84,19 +84,19 @@ It simply gives them a choice.
 
 Among the greatest Delver parties to enter and return:
 
-#### **🔥 The Argent Blades (4E 712)**
+#### **The Argent Blades (5E 3070)**
 
 - Led by **Highlord Veyric Starfall**, the Blades entered seeking a weapon to end the Twilight Wars.
 - They returned **with the Silverbrand**, a blade said to have been forged before the first king was crowned.
 - Two members of their party never spoke again, their eyes burned with silver light, their hands forever trembling.
 
-#### **⚔️ The Exalted Seven (5E 214)**
+#### **The Exalted Seven (5E 3145)**
 
 - A **legendary band of warrior-mages, seeking knowledge lost to time.
 - They emerged with **The Crown of Ten Thousand Echoes**, but their leader, **Archmage Valeria Moraine**, refused to wear it, claiming it had already shown her too much.
 - Three members disappeared within the year, vanishing into golden mist, never to be seen again.
 
-#### **🌑 The Silent Choir (6E 522)**
+#### **The Silent Choir (6E 522)**
 
 - Entered with twelve members.
 - Returned with six.
@@ -105,7 +105,7 @@ Among the greatest Delver parties to enter and return:
 
 ---
 
-### **📜 Final Observations: The Vault Awaits**
+### **Final Observations: The Vault Awaits**
 
 The Vault of Eternity does not call for the strong.
 
@@ -131,20 +131,11 @@ And when that day comes, the world will tremble.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 11 — The Vault of Eternity**
+## **Archive Addendum - Current Status**
 
-**Status:** **Conquered, but still active**  
-**Location:** **Mount Y’Velar, entrance appears once per century during the Silver Eclipse**  
-**First Discovered:** **3E 178 (Earliest recorded entrance event)**  
-**Last Attempted Expedition:** **6E 522 (The Silent Choir, returned with an unknown key)**  
-**Current Warnings:** **The Vault remains accessible once every century. All Delvers are advised that taking from the Vault is a decision that cannot be undone.**
+**Status**: Conquered, but still active  
+**Location**: Mount Y’Velar, entrance appears once per century during the Silver Eclipse  
+**First Discovered**: 5E 3057 (Earliest recorded entrance event)  
+**Last Attempted Expedition**: 6E 522 (The Silent Choir, returned with an unknown key)  
+**Current Warnings**: The Vault remains accessible once every century. All Delvers are advised that taking from the Vault is a decision that cannot be undone.
 
-The greatest artifacts in history came from the Vault of Eternity.
-
-But the greatest weapon of all has yet to be claimed.
-
-And one day, someone will forge it.
-
-When they do, the question is not who will wield it.
-
-The question is whether the world will survive it.

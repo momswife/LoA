@@ -4,7 +4,7 @@ _(The following entries consist of scattered reports, lost journal excerpts, and
 
 ---
 
-### **21. The Eclipsed Athenaeum** _(Unknown – The Library That Erases)_
+### **The Eclipsed Athenaeum** _(Unknown – The Library That Erases)_
 
 _(Recovered scrap of parchment, found on the doorstep of the Halvask Grand Archives, unsigned and half-burned at the edges):_
 
@@ -17,7 +17,7 @@ _(An unknown script, written in gold ink across the last remaining page of a boo
 
 ---
 
-### **22. The Obsidian Mire** _(Tempest Sea – The Black Marsh Below)_
+### **The Obsidian Mire** _(Tempest Sea – The Black Marsh Below)_
 
 - _"The water isn’t water. Don’t drink it. Don’t touch it."_
 - _"The ship’s anchor caught on something. We pulled it up. There was a hand still clutching the chain."_
@@ -25,7 +25,7 @@ _(An unknown script, written in gold ink across the last remaining page of a boo
 
 ---
 
-### **23. The Hollow God’s Chamber** _(Whispering Wilds – The Unfinished Shrine)_
+### **The Hollow God’s Chamber** _(Whispering Wilds – The Unfinished Shrine)_
 
 - _"Statues kneeling, heads bowed. No names on the altars."_
 - _"We placed an offering. The statues raised their heads."_
@@ -34,7 +34,7 @@ _(An unknown script, written in gold ink across the last remaining page of a boo
 
 ---
 
-### **24. The Glass Labyrinth** _(Halvask – The Reflection That Watches)_
+### **The Glass Labyrinth** _(Halvask – The Reflection That Watches)_
 
 - _"We broke a panel. The reflection didn’t shatter. It kept looking at us."_
 - _"There are more people in the mirrors than entered the Labyrinth."_
@@ -42,7 +42,7 @@ _(An unknown script, written in gold ink across the last remaining page of a boo
 
 ---
 
-### **25. The Laughing Carnival** _(Unknown – The Circus That Never Leaves)_
+### **The Laughing Carnival** _(Unknown – The Circus That Never Leaves)_
 
 _(A crumpled ticket stub, found tucked into the sleeve of a long-dead traveler, the ink shifting between legibility and nonsense):_
 
@@ -55,7 +55,7 @@ _(Painted in peeling red on the back of a wooden sign, found half-buried in the 
 
 ---
 
-### **26. The Crimson Orchard** _(Veilshroud Expanse – The Trees That Grow in Circles)_
+### **The Crimson Orchard** _(Veilshroud Expanse – The Trees That Grow in Circles)_
 
 _(A tattered note found pinned to a low-hanging branch with a bone knife):_
 
@@ -68,7 +68,7 @@ _(Carved into the bark of the oldest tree, half-buried beneath layers of growth)
 
 ---
 
-### **27. The Veil Between** _(Unknown – The Labyrinth That Is Not There)_
+### **The Veil Between** _(Unknown – The Labyrinth That Is Not There)_
 
 - _(Recovered from a Delver who returned catatonic, written in blood on his own palms):_  
     **"Not a place. A mistake."**
@@ -78,7 +78,7 @@ _(Carved into the bark of the oldest tree, half-buried beneath layers of growth)
 
 ---
 
-### **28. The Wraithspire** _(Titan Highlands – The Tower of Forgotten Names)_
+### **The Wraithspire** _(Titan Highlands – The Tower of Forgotten Names)_
 
 - _"The tower wasn’t there before. And then it was."_
 - _(Carved into a stone near the base):_ **"No one built this."**
@@ -86,7 +86,7 @@ _(Carved into the bark of the oldest tree, half-buried beneath layers of growth)
 
 ---
 
-### **29. The Silent Chapel** _(Umbral Dominion – The Church Without Prayer)_
+### **The Silent Chapel** _(Umbral Dominion – The Church Without Prayer)_
 
 - _"No gods ever listened here. Only something else."_
 - _(A priest entered. He never spoke again.)_
@@ -94,7 +94,7 @@ _(Carved into the bark of the oldest tree, half-buried beneath layers of growth)
 
 ---
 
-### **30. The Rotting Spire** _(Whispering Wilds – The Tower That Should Have Fallen)_
+### **The Rotting Spire** _(Whispering Wilds – The Tower That Should Have Fallen)_
 
 - _(From an old woman in a nearby village, rocking in her chair, muttering):_  
     _"It’s been falling for a thousand years. One day, it will finish."_
@@ -103,7 +103,7 @@ _(Carved into the bark of the oldest tree, half-buried beneath layers of growth)
 
 ---
 
-### **31. The Devouring Garden** _(Sunfire Expanse – The Bloom That Hungers)_
+### **The Devouring Garden** _(Sunfire Expanse – The Bloom That Hungers)_
 
 - _"We heard the flowers breathing."_
 - _"They bloom in footprints. By dawn, they covered the whole camp."_

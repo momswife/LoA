@@ -3,75 +3,139 @@ _Transcribed from the Grand Archives of Halvask, 6th Era, Year 432_
 
 ### **"The Tapestry of Ages: A Timeline of Aerathon's Civilization and the Rise of the Eternal Labyrinths"**
 
-The history of Aerathon is one of **mystery, ascension, and unrelenting change**, shaped by forces both **natural and arcane**. Civilizations have risen and fallen, empires have clashed and crumbled, and yet, through it all, the people of this world have **endured, adapted, and pursued power in all its forms**. Below is the generally accepted timeline of Aerathon, though scholars debate much about **what came before—and what is yet to come.**
+The history of Aerathon is marked by **great ages of expansion, ruin, and rediscovery**, each era shaped by the rise and fall of nations—and the ever-present Labyrinths that punctuate its timeline. Below is the recorded chronology of these eras, drawn from centuries of preserved texts, oral histories, and recovered relics.
 
 ---
 
 ## **The Eras of Aerathon**
 
-### **🜂 The First Era — The Age of Forgotten Gods (Unknown - ~0 2E)**
+## **The First Era — The Dawn of Civilization (0~1E - 1E 1483)**
 
-The First Era exists **only in myth and fragmented whispers**, its knowledge largely lost to time. What little is known speaks of **ancient titans, primordial dragons, and celestial beings that shaped the world**. The ruins beneath the Titan Highlands, the structures buried in the Veilshroud Expanse, and the **silent echoes in the oldest of the Eternal Labyrinths** suggest a time **before mortal civilization**, when **beings beyond comprehension ruled the land, sky, and sea**.
+The first era was one of foundation. The scattered tribes of Aerathon slowly gathered into early city-states, forging the first true kingdoms through war, trade, and diplomacy. The written word was invented, marking the birth of recorded history, though many accounts suggest the world had already existed for untold millennia before then.
 
-But **something happened**. **A great silence. A severance. A fall.** The gods—if they were gods—**vanished**, leaving behind only their relics, their ruins, and a world now left to the first mortals.
+During this time, the Argent Spire was already standing, its presence unchallenged, unclaimed, and unexplained. The earliest scholars of Halvask recorded its existence as if it had always been there, a remnant of something predating even their ancestors. Some called it a monument, others a watchtower, but no one could explain its origins.
+
+The latter centuries of the era saw the formation of the first magocratic courts, as magic—once feared and wielded only by shamans and mystics—became understood as a tool of power. By the time the first great empires formed, magic was already woven into the foundation of Aerathon’s rulers, ensuring that those who controlled it would dictate the fate of the world to come.
+
+#### **Chronological Events**
+
+- **1E 724** – The first **written records** emerge in early human city-states.
+- **1E 1032** – The first formal **kingdoms and empires** are established.
+- **1E 1272** – **The Argent Spire (L1)** is recorded in early Halvaskan texts, though by then, it was already ancient.
+- **1E 1401** – The first references to **Labyrinths as divine trials** appear in religious doctrine.
+- **1E 1483** – The **First Era ends** with the establishment of the first Magocratic Courts, regulating magic.
+---
+
+## **The Second Era — The Age of Kings (1E 1484 - 2E 1921)**
+
+With kingdoms now ruling vast territories, the world saw its first age of structured conquest, as rulers fought wars not only for land, but for resources, bloodlines, and magical supremacy. This was an era where divine right and sorcery intertwined, giving rise to the first Arcane Dynasties, where only those born with magical talent could sit upon the throne.
+
+During this time, explorers in the Stormcall Isles uncovered Of Rust and Ruin, a submerged labyrinth beneath the wreckage of ancient warships. Its discovery was the first definitive proof that Labyrinths were real, sending shockwaves through the ruling class. Some sought to claim their power, while others viewed them as cursed remnants of a forgotten age.
+
+Near the end of the era, the Sunken Maw was identified after entire fleets vanished without a trace near the heart of the Tempest Sea. Those who sailed too close described a whirlpool that did not spin, but rather breathed, as if something beneath was slowly waking. This discovery, along with growing instability among the empires, led to the great collapses of the ruling houses, plunging the world into an age of bitter war.
+
+#### **Chronological Events**
+- **2E 921** – The first great wars between nations erupt over magical resources.
+- **2E 1039** – **Of Rust and Ruin (L2)** is uncovered beneath the wreckage of an ancient war fleet in the Stormcall Isles.
+- **2E 1420** – The first **arcane academies** are founded.
+- **2E 1744** – **The Sunken Maw (L3)** is identified after entire fleets vanish near the Tempest Sea’s heart.
+- **2E 1832** – The first recorded **skyships** take flight, powered by primitive aetheric crystals.
+- **2E 1921** – The **Age of Kings ends** as warring nations collapse, marking the beginning of a fragmented age.
+
 
 ---
 
-### **🜃 The Second Era — The Dawn of Civilization (~0 2E - 917 2E)**
+## **The Third Era — The Age of Conquest (2E 1922 - 3E 2157)**
 
-As the echoes of the past faded, the first **mortal civilizations** arose. Small **tribal settlements** formed around **natural leylines, rivers, and fertile land**, slowly developing into **the first great nations**. Dwarves carved **the first strongholds** beneath the Frostlands, elves wove **their cities into the Whispering Wilds**, and humans built **the first grand towers** that would later become Halvask.
+With the collapse of the old kingdoms, a new world order emerged—one defined by military campaigns, rapid expansion, and the pursuit of forgotten knowledge. Warlords, magocrats, and newly risen republics all sought to claim as much of Aerathon as possible, leading to an era of brutal territorial warfare.
 
-This was a time of **kings and warlords**, of **sorcerer-tyrants and spirit-speakers**, where magic was **raw and untamed**, and power was **claimed by the strong rather than granted by law**. The first **written records of Aerathon** emerge near the end of this age, hinting at **an approaching storm that would change the world forever.**
+During this time, the Clockwork Tomb was discovered beneath Halvask. Scholars and artificers alike struggled to comprehend its inner workings, as its gears and mechanisms continued to function without an apparent source of power. The belief that it was some sort of doomsday device spread among the city’s ruling class, leading to failed attempts to dismantle it. To this day, its inner chambers remain sealed and turning.
 
----
+A century later, the Twilight Bastion was conquered, proving—for the first time in recorded history—that Labyrinths could be claimed, mapped, and mastered. This revelation triggered a golden age of Delving, as warlords and noble houses alike began sending their forces into the Labyrinths, seeking power that could turn the tide of war in their favor. However, this reckless pursuit of magic would have dire consequences in the centuries to come.
 
-### **🜄 The Third Era — The Sundering & the First Labyrinth (~0 3E - 668 3E)**
-
-At the dawn of the **Third Era**, **it appeared.**
-
-No one knows how, why, or from where it came, but deep beneath the mountains of what is now Halvask, **the First Labyrinth was discovered**—a sprawling, **arcane megastructure**, shifting and alive, its halls **defying natural law**. It was **not built by mortal hands**, yet it bore **inscriptions in languages no one had seen before**.
-
-At first, **it was feared**. When the bravest warriors and wisest mages entered, many **did not return**. Those who did spoke of **traps, shifting corridors, and creatures that should not exist**—but they also spoke of **relics, knowledge, and power** beyond imagining.
-
-As word spread, **kingdoms warred for control over the Labyrinth**, seeking to unlock its secrets. But just as the world fixated upon this anomaly, **others began to appear**—some beneath oceans, some deep within mountains, some hidden in forests **that had never held them before**.
-
-This became known as **the Sundering**, a time when **reality itself seemed to fracture**, and the Eternal Labyrinths began to carve their mark across the world.
+#### **Chronological Events**
+- **3E 2009** – **The Clockwork Tomb (L4)** is discovered beneath Halvask, its gears still turning.
+- **3E 2047** – A plague sweeps through the eastern kingdoms, wiping out noble bloodlines.
+- **3E 2113** – **The Twilight Bastion (L5)** is found and later conquered, proving Labyrinths can be claimed.
+- **3E 2157** – The **Age of Conquest ends**, as warring states turn toward magical advancement instead.
 
 ---
 
-### **🜁 The Fourth Era — The Age of Delvers (~0 4E - 411 4E)**
+## **The Fourth Era — The Arcane Renaissance (3E 2158 - 4E 2734)**
 
-With the Labyrinths now **scattered across the world**, a new class of people arose—**Delvers**, those who dared to **enter the depths, face the unknown, and emerge with power**. At first, they were **nameless fools, reckless souls seeking fortune**, but soon, they became **legends**.
+With war reaching a stalemate, rulers turned their focus away from battlefields and toward innovation, knowledge, and magic. The great academies of spellcraft were founded, the first artificers created sentient constructs, and scholars uncovered pre-Labyrinth ruins that suggested civilizations existed before recorded time.
 
-The first recorded **Delver King**, **Vaedros the Unbroken**, gained renown in **224 4E**, when he became the first to **conquer an entire Labyrinth and return alive**. His exploits inspired **a new way of life**—one where those **brave enough, strong enough, or clever enough** could ascend from **common obscurity to eternal fame**.
+During this time, the Ashen Labyrinth and the Labyrinth of the Faceless were uncovered, both revealing trials that tested not just strength, but identity and truth itself. More questions arose—were the Labyrinths created as challenges, prisons, or something else entirely?
 
-Cities began to **form around the Labyrinths**, with **guilds, scholars, and kings funding expeditions** to unearth **their secrets**. Some saw the Labyrinths as **sources of wealth**, others as **divine trials**, and a few as **omens of something greater to come**.
+The latter centuries of the era saw the greatest discovery of all—the Black Star Descent, a Labyrinth that predated even the earliest human civilizations. It was the first confirmation that the Labyrinths were not merely leftovers of forgotten kingdoms, but something that had existed long before recorded time.
 
-This was **a time of heroes and betrayal, of discovery and conquest, of ambition and ruin**.
+This era ended in tragedy, as reckless magical experimentation caused widespread destruction, leading to the fall of many once-great nations. The Arcane Renaissance collapsed under the weight of its own ambition, sending the world spiraling toward ruin.
 
----
-
-### **🜀 The Fifth Era — The Rise of the Magocracy (~0 5E - 689 5E)**
-
-As Delvers **rose in status**, so too did the **need to control them**. The **Empire of Halvask**, already the most powerful magical nation of its time, began to **assert control over the Labyrinths**, declaring them **"divine holdings of the arcane elite."** This led to the **Magocratic Wars**, as free Delvers, rogue states, and rival nations **rebelled against the Empire’s authority**.
-
-By the end of the war, **Halvask had succeeded**, creating the **Magocratic Monarchy**, where **only the magically gifted could rule**. Under their control, the Labyrinths were **regulated, studied, and—eventually—broadcast to the world**.
-
-With the invention of **arcane livecasting**, Delving was no longer just **a pursuit of power—it became the world’s greatest spectacle.**
+#### **Chronological Events**
+- **4E 2203** – The first formalized **schools of magic** are established.
+- **4E 2311** – **The Ashen Labyrinth (L6)** is uncovered beneath the Sunfire Expanse.
+- **4E 2419** – **The Labyrinth of the Faceless (L7)** is found within the Umbral Dominion.
+- **4E 2602** – The first **automaton constructs** are created, though most turn unstable.
+- **4E 2722** – **The Black Star Descent (L8)** is identified in the Stormcall Isles.
+- **4E 2734** – The **Arcane Renaissance ends** in disaster, as uncontrolled magical experimentation causes widespread devastation.
 
 ---
 
-### **🝏 The Sixth Era — The Age of the Eternal Broadcast (~0 6E - Present Day, 943 6E)**
+## **The Fifth Era — The Collapse (4E 2735 - 5E 3206)**
 
-Today, Delving is no longer **just a means of survival or power—it is entertainment, industry, and a global obsession**. The Labyrinths, once feared and shrouded in mystery, are now **arenas of fame**, where adventurers are **celebrated, studied, and, at times, sacrificed for glory**.
+For the first time in history, knowledge was lost instead of gained. Great cities crumbled, magical disasters reshaped entire landscapes, and the Labyrinths, once sources of ambition, became feared once more. The Hollow God’s Sepulcher was uncovered, reigniting old fears of forgotten deities, while the Vault of Eternity claimed the lives of those who sought to claim its power.
 
-- **Heroes rise and fall before the eyes of millions.**
-- **Kingdoms bet their fortunes on the next great Delver.**
-- **Scholars still seek the truth of the Labyrinths’ origins.**
+This was an age of fragmentation and decline, where once-mighty nations regressed into scattered city-states. What little remained of magical society was hoarded by those who still wielded it, turning sorcery into a rare and dangerous commodity.
 
-But for all that has changed, **one question remains unanswered**:
+It was only through centuries of hardship that the world finally stabilized, though it would never return to what it once was.
 
-**Why are the Labyrinths here?**
+#### **Chronological Events**
+- **5E 2801** – **The Radiant Crucible (L9)** is revealed in the Sunfire Expanse.
+- **5E 2945** – The rise of the **Veilborn Theocracy** divides the known world.
+- **5E 3013** – **The Hollow God’s Sepulcher (L10)** is found beneath the Whispering Wilds.
+- **5E 3057** – **The Vault of Eternity (L11)** is breached, resulting in the deaths of twenty-three Delvers.
+- **5E 3206** – The **Collapse ends** as surviving nations broker an uneasy peace.
 
-They did not **exist before the Sundering**, and yet they seem to **contain knowledge from civilizations older than time itself**. Some whisper that they are **not of this world**, while others believe they are **a test, a prophecy, or a warning**.
+---
+
+## **The Sixth Era — The Shattered Age (5E 3207 – 6E 8011)**
+
+From the ruins of the past, civilization slowly rebuilt itself. The Shattered Age was defined by small recoveries—trade routes reopening, old alliances reforging, and lost magic being rediscovered. The Labyrinths remained a mystery, but some dared to explore them once more.
+
+During this time, the Silver Ruin was uncovered, a frozen city lost to time, while the Howling Maw revealed that in some places, death itself was not absolute. The first experiments in arcane broadcasting began, allowing magic to be used not just for war, but for communication, setting the foundation for the world that would follow.
+
+By the end of this era, civilizations were finally prepared to embrace magic again—but this time, with caution.
+
+#### **Chronological Events**
+- **6E 3229** – The first **airship trade routes** are established.
+- **6E 3418** – **The Silver Ruin (L12)** is uncovered beneath the Frostlands.
+- **6E 3666** – **The Howling Maw (L13)** is identified, its battlefield corpses never truly dead.
+- **6E 3792** – **The Hollow Garden (L14)** is located, shifting its paths unpredictably.
+- **6E 4101** – **The Drowned Catacombs (L15)** are first explored, though most Delvers vanish.
+- **6E 4550** – **The Gilded Labyrinth (L16)** is found, its golden statues revealed to be former Delvers.
+- **6E 8011** – The **Shattered Age ends**, as technological advancements lead to the first era of recorded Delving expeditions.
+
+_______
+
+## **The Seventh Era — The Age of Spectacle (6E 8012 – Present, 7E 943)**
+
+With knowledge restored and arcane advancements reaching new heights, Delving became more than just an act of survival or ambition—it became entertainment, spectacle, and legend. The rise of magical broadcasting allowed the world to witness expeditions in real time, turning Delvers into icons of adventure and discovery.
+
+But in recent years, something has changed. The Crimson Labyrinth did not appear—it grew, slowly consuming the land around it. And now, in 7E 943, the Nameless Labyrinth has rewritten the heart of Halvask overnight, marking the first time in history that a Labyrinth has appeared inside civilization itself.
+
+The Labyrinths are no longer dormant relics.
+
+They are active, growing, changing.
+
+And perhaps, for the first time in recorded history…
+
+They are watching us back.
+
+#### **Chronological Events**
+- **7E 827** – **The Black Vein (L17)** is uncovered deep within the Titan Highlands.
+- **7E 868** – **The Forsaken Atelier (L18)** is conquered by House Arvendis, reactivating its long-abandoned workshops.
+- **7E 903** – The first **magical broadcasts** allow Delves to be watched worldwide.
+- **7E 927** – **The Shattered Monastery (L19)** is conquered by Sarina Lumehart and Kiel Vaelor, who disappear beyond its final path.
+- **7E 918–7E 941** – **The Crimson Labyrinth (L20)** grows slowly in the Whispering Wilds, consuming land and forming its own twisted ecosystem.
+- **7E 943 (Present Year)** – **The Nameless Labyrinth (L21) manifests overnight in the heart of Halvask, consuming Velgrove Square.**
 

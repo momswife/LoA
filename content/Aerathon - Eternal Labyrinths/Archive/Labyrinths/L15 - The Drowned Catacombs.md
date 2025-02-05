@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Sunken Necropolis"**
+## **The Sunken Necropolis**
 
-_"The dead do not stay dead in Ysaros."_  
-— Sailor’s Superstition
+> _"The dead do not stay dead in Ysaros."_  
+— **Sailor’s Superstition**
 
 Beneath the Tempest Sea, where the waves crash upon the remains of the long-ruined Isle of Ysaros, there is a place where the ocean refuses to reclaim its own. A city of tomb-lined streets, crumbling spires, and half-sunken corridors, swallowed by the tide but never truly lost.
 
@@ -15,7 +15,7 @@ Here, the water is always still. The air is thick with whispers, even though the
 
 ---
 
-### **🌊 A City That Will Not Sink**
+## **A City That Will Not Sink**
 
 Unlike other ruins lost to the sea, the Drowned Catacombs have not been reclaimed by time or tide. The stonework remains eerily intact, its carvings preserved as though untouched by water, and the tombs remain sealed—though not always from the outside.
 
@@ -32,7 +32,7 @@ Yet sometimes, the water moves on its own.
 
 ---
 
-### **⚰️ The Curse of Ysaros**
+## **The Curse of Ysaros**
 
 The Drowned Catacombs were once part of the grand capital of Ysaros, an empire that fell overnight, its people vanishing into legend.
 
@@ -48,7 +48,7 @@ _"And they are still waiting."_
 
 ---
 
-### **🕯️ The Deepest Vault**
+## **The Deepest Vault**
 
 At the lowest point of the Catacombs, past the flooded tunnels and shifting corridors, there is a vault sealed in gold, its doors covered in inscriptions from a language that does not exist anywhere else in the world.
 
@@ -64,7 +64,7 @@ A chorus of voices, humming in perfect unison, calling for someone to open the d
 
 ---
 
-### **📜 Final Observations: The Dead Remember**
+## **Final Observations: The Dead Remember**
 
 The Drowned Catacombs do not threaten with monsters or traps.
 
@@ -80,14 +80,10 @@ To become part of what waits below.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 15 — The Drowned Catacombs**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Tempest Sea, beneath the ruins of Ysaros**  
-**First Discovered:** **3E 402 (Earliest recorded encounter, though mariners' legends suggest it predates all written history.)**  
-**Last Attempted Expedition:** **6E 719 (Expedition leader returned alone, unable to recall his own name, his lungs filled with seawater despite never submerging.)**  
-**Current Warnings:** **No sanctioned Delving permitted. Approach by sea is restricted. Reports of "humming" near the ruins are to be ignored.**
-
-The dead of Ysaros do not rest.
-
-And if you listen too closely, they may mistake you for one of their own.
+**Status**: Unconquered, Partially Explored  
+**Location**: Tempest Sea, beneath the ruins of Ysaros  
+**First Discovered**: 6E 4101 (Earliest recorded encounter, though mariners' legends suggest it predates all written history.)  
+**Last Attempted Expedition:** 6E 7719 (Expedition leader returned alone, unable to recall his own name, his lungs filled with seawater despite never submerging.)  
+**Current Warnings:** No sanctioned Delving permitted. Approach by sea is restricted. Reports of "humming" near the ruins are to be ignored.

@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 921_
 
 ---
 
-### **"The Heart of the Dead Mountain"**
+## **The Heart of the Dead Mountain**
 
-_"It should not be there. The mountain is solid stone. And yet it beats."_  
-— Last recorded words of Geomancer Aldros Veyne
+> _"It should not be there. The mountain is solid stone. And yet it beats."_  
+**— Last recorded words of Geomancer Aldros Veyne**
 
 Deep beneath the Titan Highlands, hidden within the roots of Mount Karadris, lies a Labyrinth that should not exist. Unlike the others, the Black Vein was not discovered by explorers, Delvers, or kings. It was dug up, unearthed by dwarven miners working the deepest tunnels beneath the mountain.
 
@@ -17,7 +17,7 @@ And so, the mountain began to eat them.
 
 ---
 
-### **⚒️ The Collapse of Karadris**
+## **The Collapse of Karadris**
 
 For centuries, the Karadris Mines had been among the most productive in the Titan Highlands, their tunnels running deeper than any other dwarven excavation. The Stonetouched Priests had long warned that the mountain had limits, that there were places beneath the rock that should never be disturbed.
 
@@ -37,11 +37,11 @@ Only the stone remained. And the beating grew louder.
 
 ---
 
-### **🛑 The First Delvers and Their Failure**
+## **The First Delvers and Their Failure**
 
 Within weeks, the news of the "Bleeding Mines" of Karadris had spread across Aerathon. The Delvers of Halvask—eager for new discoveries—petitioned the Titan Highlands to open the ruins for exploration.
 
-By **6E 922**, the **Black Vein Expedition** was formed:
+By **7E 922**, the **Black Vein Expedition** was formed:
 
 - **Delver-Lord Vathren Aelkor**, a warlock-scholar known for his mastery of void magic.
 - **High Mason Kargun Stonefist**, a dwarven earthshaper able to speak with the bones of the world.
@@ -54,7 +54,7 @@ Their fate: obliteration.
 
 ---
 
-### **🌑 The Labyrinth of Flesh and Stone**
+## **The Labyrinth of Flesh and Stone**
 
 The expedition entered the Black Vein with arcane torches and runestones, expecting tunnels of stone and dust.
 
@@ -78,7 +78,7 @@ They ran.
 
 ---
 
-### **🔻 The Aftermath and the Curse of the Vein**
+## **The Aftermath and the Curse of the Vein**
 
 Of the **43 Delvers**, only **three escaped**—and even they were not untouched.
 
@@ -94,7 +94,7 @@ And some say, on quiet nights, you can hear it calling.
 
 ---
 
-## **📜 Final Observations: The Mountain Watches**
+# **Final Observations: The Mountain Watches**
 
 Unlike other Labyrinths, the Black Vein does not move, does not shift, does not trick.
 
@@ -112,18 +112,10 @@ And if it wakes, the mountain itself may no longer be enough to contain it.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 17 — The Black Vein**
+## **Archive Addendum - Current Status**
 
-**Status:** **Sealed, Unconquered**  
-**Location:** **Titan Highlands (Beneath Mount Karadris, now collapsed and warded)**  
-**First Discovered:** **6E 921 (Unearthed by dwarven miners)**  
-**Last Attempted Expedition:** **6E 922 (Total failure—43 entered, 3 returned, all afflicted)**  
-**Current Warnings:** **Under no circumstances is the Black Vein to be reopened. No sanctioned Delving permitted.**
-
-Unlike other Labyrinths, the Black Vein was not discovered—it was awakened.
-
-Unlike others, it did not call Delvers to it—they dug into it themselves.
-
-Whatever lies beneath Karadris, it is not merely a place, but a presence.
-
-And it is still waiting.
+**Status**: Sealed, Unconquered  
+**Location**: Titan Highlands (Beneath Mount Karadris, now collapsed and warded)  
+**First Discovered:** 7E 827 (Unearthed by dwarven miners)  
+**Last Attempted Expedition**: 7E 922 (Total failure—43 entered, 3 returned, all afflicted)  
+**Current Warnings**: Under no circumstances is the Black Vein to be reopened. No sanctioned Delving permitted.

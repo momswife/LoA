@@ -2,9 +2,9 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Labyrinth That Bleeds"**
+## **The Labyrinth That Bleeds**
 
-_"It is not stone. It is not metal. The walls are warm beneath your hands, and when you cut them—oh gods, when you cut them—it screams."_  
+> _"It is not stone. It is not metal. The walls are warm beneath your hands, and when you cut them—oh gods, when you cut them—it screams."_  
 — **Delver Mareth Voss, last survivor of the Bloodmarked Expedition**
 
 The Crimson Labyrinth is one of the most feared and least understood of the Eternal Labyrinths.
@@ -19,7 +19,7 @@ It is growing.
 
 ---
 
-### **🩸 The Crimson Labyrinth: A Living Nightmare**
+## **The Crimson Labyrinth: A Living Nightmare**
 
 The Crimson Labyrinth does not stay in one place. Unlike the other Labyrinths, which remain fixed in their locations, the Crimson Labyrinth emerges—growing from the ground like a cyst, its entrance appearing wherever the land itself seems weakest.
 
@@ -41,9 +41,9 @@ And those who answer never return the same.
 
 ---
 
-### **🗡️ The Bloodmarked Expedition and the Labyrinth’s Horrors**
+## **The Bloodmarked Expedition and the Labyrinth’s Horrors**
 
-In 6E 801, the Delver Guild of Halvask launched the first fully funded expedition into the Crimson Labyrinth.
+In 7E 918, the Delver Guild of Halvask launched the first fully funded expedition into the Crimson Labyrinth.
 
 Known as the Bloodmarked Expedition, it consisted of:
 
@@ -71,7 +71,7 @@ And the Labyrinth had let him go for a reason.
 
 ---
 
-### **🩸 Theories and Terrors: What the Crimson Labyrinth Wants**
+## **Theories and Terrors: What the Crimson Labyrinth Wants**
 
 Unlike other Labyrinths, which hold treasures, secrets, and trials, the Crimson Labyrinth does not reward those who enter.
 
@@ -93,7 +93,7 @@ And always, always, their blood does not clot the way it should.
 
 ---
 
-### **⚖️ The Fate of the Bloodmarked Expedition**
+## **The Fate of the Bloodmarked Expedition**
 
 While Mareth Voss never spoke of what he saw, others who have brushed against the Labyrinth’s influence have glimpsed visions—fragmented, broken images of what became of his party.
 
@@ -108,7 +108,7 @@ It repurposes.
 
 ---
 
-### **📜 Final Observations: The Labyrinth is Growing**
+## **Final Observations: The Labyrinth is Growing**
 
 The Crimson Labyrinth does not stay where it is born.
 
@@ -128,20 +128,11 @@ And when that day comes, all of Aerathon will bleed.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 20 — The Crimson Labyrinth**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Mobile, Growing**  
-**Location:** **Unstable (Appears in different regions, remains for one year before vanishing)**  
-**First Discovered:** **5E 712 (Earliest recorded emergence in the Frostlands)**  
-**Last Attempted Expedition:** **6E 801 (Bloodmarked Expedition—only one survivor, now missing)**  
-**Current Warnings:** **Under no circumstances is Delving into the Crimson Labyrinth sanctioned. If it appears, avoid at all costs. Do not engage. Do not enter. Do not listen.**
+**Status**: Unconquered, Mobile, Growing  
+**Location**: Unstable (Appears in different regions, remains for one year before vanishing)  
+**First Discovered**: 7E 918 (Earliest recorded emergence in the Frostlands)  
+**Last Attempted Expedition**: 7E 941 (Bloodmarked Expedition—only one survivor, now missing)  
+**Current Warnings**: Under no circumstances is Delving into the Crimson Labyrinth sanctioned. If it appears, avoid at all costs. Do not engage. Do not enter. Do not listen.
 
-The Crimson Labyrinth does not offer glory, nor treasure, nor truth.
-
-It offers a choice.
-
-To enter is to be consumed.
-
-To survive is to become something else.
-
-And it is still growing.

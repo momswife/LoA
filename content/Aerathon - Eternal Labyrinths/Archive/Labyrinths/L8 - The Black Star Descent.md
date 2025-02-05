@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Labyrinth That Swallowed the Sky"**
+## **The Labyrinth That Swallowed the Sky**
 
-_"We fell into the darkness together. We climbed back out as legends."_  
-— **Seraphine Vex, Captain of the Black Star Company**
+> _"We fell into the darkness together. We climbed back out as legends."_  
+**—Seraphine Vex, Captain of the Black Star Company**
 
 Among the Eternal Labyrinths, few are spoken of in reverence and terror alike as the Black Star Descent—a bottomless abyss, an unlit chasm that should not exist, a place where the sky itself collapses into shadow.
 
@@ -21,7 +21,7 @@ And their victory changed the way the world viewed the Labyrinths forever.
 
 ---
 
-### **🕳️ The Black Star Descent: The Abyss That Hungers**
+## **The Black Star Descent: The Abyss That Hungers**
 
 The Black Star Descent is unlike any other Labyrinth. It is not a fortress, nor a maze, nor a buried ruin. It is a hole in the sky, a massive, yawning void in the Stormcall Isles, hovering over the open sea, its edges lined with broken fragments of floating stone, as if the world itself had been shattered around it.
 
@@ -41,7 +41,7 @@ Until the Black Star Company threw themselves inside.
 
 ---
 
-### **⚔️ The Company That Conquered the Abyss**
+## **The Company That Conquered the Abyss**
 
 Before they were legends, they were just five reckless fools.
 
@@ -49,31 +49,31 @@ A band of skyfaring mercenaries, smugglers, and outcasts, unwanted by the great 
 
 They were:
 
-#### **⚔️ Seraphine Vex, The Unyielding Star**
+#### **Seraphine Vex, The Unyielding Star**
 
 - Human, former pirate-captain, leader of the Black Star Company.
 - Wielded twin runed cutlasses, said to glow like the stars when drawn in darkness.
 - Known for her reckless confidence, sharp tongue, and willingness to gamble everything on a single moment.
 
-#### **🔮 Orren Sable, The Abyss-Touched Mage**
+#### **Orren Sable, The Abyss-Touched Mage**
 
 - Tiefling arcanist, void-walker, rumored sorcerer of the Veilshroud Expanse.
 - Survived a brush with the Labyrinth years before, claiming he had already seen the bottom once in a dream.
 - His staff, "Nightpiercer," was made of an unknown metal recovered from the Descent.
 
-#### **🎭 Darius Black, The Ghost of the Isles**
+#### **Darius Black, The Ghost of the Isles**
 
 - Changeling duelist, master of deception and infiltration.
 - Could walk unseen in the Descent, becoming one with the shadows when the abyss called to him.
 - Wrote the infamous "Black Star Gambit", a tactical guide for Delvers.
 
-#### **🛡️ Karu Ironjaw, The Skyborn Titan**
+#### **Karu Ironjaw, The Skyborn Titan**
 
 - Goliath war-priest of the Stormcallers, bearer of the Shield of the Drowned.
 - Survived a direct fall into the Abyss, landing in an unknown ruin deep within the Descent.
 - Once fought a being made of starlight and shadow—and won.
 
-#### **🕳️ Isolde Veyne, The Shadow Between Stars**
+#### **Isolde Veyne, The Shadow Between Stars**
 
 - Elven dream-weaver, illusionist, and seer.
 - Claimed to have heard the Abyss whisper before ever setting foot inside.
@@ -85,7 +85,7 @@ And three months later, they climbed back out.
 
 ---
 
-### **🔻 The Impossible Victory**
+## **The Impossible Victory**
 
 What they found inside the Black Star Descent has never been fully revealed.
 
@@ -112,7 +112,7 @@ And it is still waiting.
 
 ---
 
-### **📜 Final Observations: The Sky’s Open Wound**
+## **Final Observations: The Sky’s Open Wound**
 
 The Black Star Descent has never been closed. It has never shifted, never vanished, never altered its form. It is simply there, swallowing light, swallowing time, swallowing anything foolish enough to fall inside.
 
@@ -126,18 +126,10 @@ And perhaps, if the abyss still remembers them, it is only waiting for them to r
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 8 — The Black Star Descent**
+### **Archive Addendum - Current Status**
 
-**Status:** **Conquered, Active**  
-**Location:** **Stormcall Isles (Floating above the Tempest Sea)**  
-**First Discovered:** **3E 432 (Earliest records of disappearances traced to the region)**  
-**Conquered By:** **The Black Star Company (5E 447, first recorded descent and return)**  
-**Current Warnings:** **No sanctioned Delving allowed. Those who enter do so at their own peril.**
-
-The Black Star Descent remains one of the most feared Labyrinths in history.
-
-Not because it kills all who enter.
-
-But because it let five leave.
-
-And no one knows why.
+**Status**: Conquered, Active  
+**Location**: Stormcall Isles (Floating above the Tempest Sea)  
+**First Discovered**: 4E 2722 (Earliest records of disappearances traced to the region)  
+**Conquered By**: The Black Star Company (5E 447, first recorded descent and return)  
+**Current Warnings**: No sanctioned Delving allowed. Those who enter do so at their own peril.

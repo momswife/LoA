@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Labyrinth That Made Legends"**
+## **The Labyrinth That Made Legends"**
 
-_"We went in as five. We came out as gods."_  
-— **Dain Veldros, leader of the Twilight Vow**
+> "We went in as five. We came out as gods."_   
+**—Dain Veldros, leader of the Twilight Vow**
 
 The Twilight Bastion is often called "The Labyrinth That Changed Everything." Before it was conquered, Delving was a fool’s gamble, a desperate pursuit for riches or glory, where lone warriors or reckless mercenaries ventured into the unknown, never to return.
 
@@ -21,7 +21,7 @@ And in doing so, they redefined what it meant to be a Delver.
 
 ---
 
-### **🛡️ The Twilight Bastion: A Fortress of Shadows and Light**
+## **The Twilight Bastion: A Fortress of Shadows and Light**
 
 Unlike the shifting horrors or deathtrap dungeons of other Labyrinths, the Twilight Bastion was a fortress—massive, haunted, and eternally locked in dusk. The sun never rose, the stars never moved, and the entire structure was bathed in a soft, eerie glow, its silver spires reaching toward a sky that did not exist.
 
@@ -36,35 +36,35 @@ Until they came.
 
 ---
 
-### **⚔️ The Five Who Conquered the Bastion**
+## **The Five Who Conquered the Bastion**
 
 Before they became legends, they were just another band of Delvers, little more than adventurers looking for coin and glory. They were:
 
-#### **🔥 Dain Veldros, The Indomitable**
+#### **Dain Veldros, The Indomitable**
 
 - Human warrior, former mercenary, leader of the party.
 - Fought with a tower shield engraved with celestial runes, able to withstand attacks that should have killed him.
 - Became the first Delver-Lord after their victory, founding the Twilight Vow, the first official Delver Guild.
 
-#### **🌙 Sylra Moondrift, The Shadowwalker**
+#### **Sylra Moondrift, The Shadowwalker**
 
 - Elven rogue, master of illusions and infiltration.
 - Could walk between light and shadow, vanishing from sight and striking from impossible angles.
 - Later became the first Mistborn Duelist, training generations of shadowfighters.
 
-#### **⚖️ Veylin Stoneheart, The Unbroken**
+#### **Veylin Stoneheart, The Unbroken**
 
 - Dwarven cleric of the Stonetouched Priests.
 - Wielded an unshatterable warhammer, channeling divine magic that grew stronger the closer he was to death.
 - Founded the Order of the Iron Wardens, warrior-clerics who guard Delvers even today.
 
-#### **🌀 Aria Solbright, The Shattered Mage**
+#### **Aria Solbright, The Shattered Mage**
 
 - **Half-elf spellblade, wielder of unstable arcane magic.**
 - Carried **an artifact blade recovered from the Bastion**, capable of rewriting the flow of magic itself.
 - Vanished decades after the Bastion’s conquest, rumored to still walk between realms.
 
-#### **🔮 Korrin the Last, The Seer of Lost Fates**
+#### **Korrin the Last, The Seer of Lost Fates**
 
 - Tiefling oracle, touched by the Veilshroud Expanse.
 - Spoke only in prophecies and half-truths, able to predict dangers seconds before they occurred.
@@ -81,7 +81,6 @@ Instead, they took the Bastion together.
 
 ---
 
-### **👑 The First Delver Guild and the Age of Heroes**
 
 The victory of the Twilight Vow changed everything.
 
@@ -97,7 +96,7 @@ Even today, every Delver Guild in Aerathon traces its roots to the Twilight Vow,
 
 ---
 
-### **📜 Final Observations: The Bastion Remains**
+## **Final Observations: The Bastion Remains**
 
 Though conquered, the Twilight Bastion is not empty. Its halls remain haunted, its trials reset, as if waiting for new challengers to rise.
 
@@ -113,20 +112,11 @@ Or will they fall alone?
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 5 — The Twilight Bastion**
+## **Archive Addendum - Current Status**
 
-**Status:** **Conquered, Active**  
-**Location:** **Veil between the Sunfire Expanse and the Umbral Dominion**  
-**First Discovered:** **4E 189 (First recorded expedition failed)**  
-**Conquered By:** **The Twilight Vow (5E 213, first recorded party-based Labyrinth victory)**  
-**Current Warnings:** **Still accessible. Trials remain active. Do not enter without a full Delver Party.**
+**Status**: Conquered, Active  
+**Location**: Veil between the Sunfire Expanse and the Umbral Dominion  
+**First Discovered**: 3E 2113 (First recorded expedition failed)  
+**Conquered By**: The Twilight Vow (5E 213, first recorded party-based Labyrinth victory)  
+**Current Warnings**: Still accessible. Trials remain active. Do not enter without a full Delver Party.
 
-The Twilight Bastion stands as a reminder—that some battles cannot be won alone.
-
-It is not a test for individuals, but a test of bonds, of unity, of what it means to stand together when all else crumbles.
-
-And for those who would seek its throne again, the Bastion still watches, still waits, still listens.
-
-It does not call for one hero.
-
-It calls for legends.

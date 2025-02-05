@@ -2,10 +2,10 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **"The Buried Deity"**
+## **The Buried Deity**
 
-_"The god beneath the roots is not dead. It is waiting."_  
-— **Final words of Seeress Valna Greenbloom**
+> _"The god beneath the roots is not dead. It is waiting."_  
+**—Final words of Seeress Valna Greenbloom**
 
 Deep within the Whispering Wilds, buried beneath ancient, gnarled trees and tangled roots, lies a tomb that was never meant to be found. The Hollow God’s Sepulcher is not a ruin, not a temple, but a prison, its entrance hidden for millennia beneath layers of earth, moss, and sacred wards placed by hands long since turned to dust.
 
@@ -15,7 +15,7 @@ Until the land itself shifted, tearing open the forest floor to reveal an imposs
 
 ---
 
-### **⛓️ The Sepulcher That Was Never Meant to Be Opened**
+## **The Sepulcher That Was Never Meant to Be Opened**
 
 The Hollow God’s Sepulcher is a massive subterranean labyrinth, carved from a single, seamless stone, its walls lined with murals of a forgotten faith. These murals tell a story with no ending, depicting a being crowned in golden roots, rising above the world in adoration—only to be cast down, shackled, and entombed.
 
@@ -34,7 +34,7 @@ Their figures shift, their faces turn to watch those who enter. And in some, the
 
 ---
 
-### **🔻 The Vanishing of the Verdant Priests**
+## **The Vanishing of the Verdant Priests**
 
 The first recorded expedition into the Sepulcher was led by Seeress Valna Greenbloom of the Verdant Priests, a druidic order who once safeguarded the deepest reaches of the Whispering Wilds.
 
@@ -54,7 +54,7 @@ As if they had never existed at all.
 
 ---
 
-### **🌿 The Throne Below**
+## **The Throne Below**
 
 Legends say that deep within the Sepulcher, beyond the endless tunnels, beyond the choking roots and shifting murals, lies a throne of petrified wood, ancient and cracked, upon which something once sat… and still might.
 
@@ -78,7 +78,7 @@ And to understand why it was buried so deep in the first place.
 
 ---
 
-### **📜 Final Observations: The Sepulcher Breathes**
+## **Final Observations: The Sepulcher Breathes**
 
 Unlike other Labyrinths, the Hollow God’s Sepulcher does not test strength, wit, or willpower.
 
@@ -92,16 +92,11 @@ As if whatever sleeps within is beginning to stir.
 
 ---
 
-### **📜 Archive Addendum: Labyrinth No. 10 — The Hollow God's Sepulcher**
+## **Archive Addendum - Current Status**
 
-**Status:** **Unconquered, Partially Explored**  
-**Location:** **Whispering Wilds, deep within the Verdant Ruins**  
-**First Discovered:** **5E 732 (Revealed after a landslide unearthed its entrance.)**  
-**Last Attempted Expedition:** **6E 201 (Verdant Priesthood—order vanished within a decade of entering.)**  
-**Current Warnings:** **No sanctioned Delving permitted. The Sepulcher remains open. The deeper halls are still unexplored.**
+**Status**: Unconquered, Partially Explored  
+**Location**: Whispering Wilds, deep within the Verdant Ruins  
+**First Discovered**: 5E 3013 (Revealed after a landslide unearthed its entrance.)  
+**Last Attempted Expedition**: 6E 201 (Verdant Priesthood—order vanished within a decade of entering.)  
+**Current Warnings:** No sanctioned Delving permitted. The Sepulcher remains open. The deeper halls are still unexplored.
 
-It was meant to be forgotten.
-
-It was meant to be buried.
-
-And yet, it is open now.

@@ -15,7 +15,7 @@ Here follows the known records of the Labyrinths of Aerathon, both those that ha
 
 (_The following excerpts are collected from Delver memoirs, royal decrees, and recovered transcripts._)
 
-### **[[L1 - The Argent Spire| The Argent Spire]]** _(Halvask – First Discovered)_
+### **[[L1 - The Argent Spire]]** _(Halvask – First Discovered)_
 
 _"It was not built. It was revealed."_ – Archivist Adrastia, 3E 15
 
@@ -25,7 +25,7 @@ Even today, scholars remain unsure if it was truly conquered—or if those who e
 
 ---
 
-### **[[L2 - Of Rust and Ruin| Of Rust and Ruin]]**  _(Titan Highlands – Known for its Endless War)_
+### **[[L2 - Of Rust and Ruin]]**  _(Titan Highlands – Known for its Endless War)_
 
 _"You do not leave it. You survive it. And when you die, you are born into it again."_ – Last words of Delver Ralvas Thorne
 

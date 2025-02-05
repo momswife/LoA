@@ -3,26 +3,26 @@ _Transcribed from the Grand Archives of Halvask, 6th Era, Year 711_
 
 ---
 
-### **"The Labyrinth That Devoured an Army"**
+## **The Labyrinth That Devoured an Army**
 
-_"They went in as warriors. They came out as whispers on the wind."_  
-— Old Skallvik Saying
+>  _"They went in as warriors. They came out as whispers on the wind."_  
+— **Old Skallvik Saying**
 
-Among the Eternal Labyrinths, few names inspire as much terror and superstition as the Howling Maw, a cursed ruin buried deep within the Titan Highlands, where the mountains scream in the night and the wind carries the voices of the damned. Unlike most Labyrinths, the Maw has never been fully mapped, conquered, or understood. What is known is this: in 6E 711, it swallowed an entire army of 400 warriors, scholars, and adventurers, leaving less than a dozen survivors—all of whom were found blind, raving, and forever cursed by what they had seen.
+Among the Eternal Labyrinths, few names inspire as much terror and superstition as the Howling Maw, a cursed ruin buried deep within the Titan Highlands, where the mountains scream in the night and the wind carries the voices of the damned. Unlike most Labyrinths, the Maw has never been fully mapped, conquered, or understood. What is known is this: in 6E 4104, it swallowed an entire army of 400 warriors, scholars, and adventurers, leaving less than a dozen survivors—all of whom were found blind, raving, and forever cursed by what they had seen.
 
 This is the story of the Howling Maw, the greatest slaughter in Delver history, and the madness that lurks within its depths.
 
 ---
 
-### **🕳️ The Howling Maw: A Living Nightmare**
+## **The Howling Maw: A Living Nightmare**
 
-The **Howling Maw** was discovered by accident in **6E 709**, when a group of Skallvik beast-hunters, tracking a wounded frostbeast, followed its trail to a **gaping chasm hidden beneath layers of permafrost**. At first, it appeared to be **nothing more than a cave**, but as they stepped inside, they heard **a sound unlike anything in nature—long, drawn-out howls, neither human nor beast, rising from the depths**. The frostbeast they had been tracking **lay dead at the entrance, its skull shattered, eyes missing, body frozen solid despite no visible wounds**.
+The **Howling Maw** was discovered by accident in **6E 3666**, when a group of Skallvik beast-hunters, tracking a wounded frostbeast, followed its trail to a **gaping chasm hidden beneath layers of permafrost**. At first, it appeared to be **nothing more than a cave**, but as they stepped inside, they heard **a sound unlike anything in nature—long, drawn-out howls, neither human nor beast, rising from the depths**. The frostbeast they had been tracking **lay dead at the entrance, its skull shattered, eyes missing, body frozen solid despite no visible wounds**.
 
 The hunters, hardened warriors all, **fled immediately**, returning to their clans with stories of a **place that breathed, a cave that whispered their own thoughts back to them**. Many dismissed it as **northern superstition**, but when **a group of Delvers from Halvask disappeared after entering the Maw in 710**, word spread. The Labyrinth was **real**, and it was **hungry**.
 
 ---
 
-### **🛡️ The Grand Expedition of 6E 711**
+## **The Grand Expedition of 6E 3666**
 
 When news of the Maw reached High King Thrain Ironfrost of Skallvik, he saw an opportunity for glory. A Labyrinth within his lands, unconquered, unknown? It could not be left to outsiders. He assembled an army of warriors, scholars, and Delvers—over 400 strong—determined to be the first to claim the Maw’s secrets.
 
@@ -37,7 +37,7 @@ Armed with arcane sensors, maps, and years of experience, they believed themselv
 
 ---
 
-### **🔻 The Descent Into Madness**
+## **The Descent Into Madness**
 
 As the expedition descended into the Maw, they discovered it was not a cavern—it was a throat, a chasm lined with jagged, spiraling walls, its tunnels winding downward in a way that should not have been possible. The further they went, the louder the howling became, but it did not come from any creature—it came from the walls, the floor, the air itself.
 
@@ -51,7 +51,7 @@ They were trapped.
 
 ---
 
-### **☠️ The Massacre of the Maw**
+## **The Massacre of the Maw**
 
 Panic set in. Some believed it was dark magic, others claimed the Maw was alive. But it was not until the third day that they realized the true nature of the trap—the Labyrinth was not just warping space.
 
@@ -71,7 +71,7 @@ Only eleven survived.
 
 ---
 
-### **👁️ The Survivors and Their Curse**
+## **The Survivors and Their Curse**
 
 The ones who returned were found weeks later, wandering the Highlands, blindfolded and bound in chains. They refused to speak of what they had seen, only repeating the same warning:
 
@@ -83,7 +83,7 @@ To this day, none have attempted a second expedition.
 
 ---
 
-### **📜 Final Observations: The Maw Remains Hungry**
+## **Final Observations: The Maw Remains Hungry**
 
 The Howling Maw remains unconquered. None have set foot inside since the massacre, and the Highlanders forbid any from seeking it. Some say the howls have grown quieter over the years—others claim that is only because it has found new prey, somewhere deeper inside.
 
@@ -94,18 +94,12 @@ And perhaps worst of all?
 It does not need to chase you. It only needs you to listen.
 
 ---
-**_
+## **Archive Addendum - Current Status**
 
+**Status**: Unconquered  
+**Location**: Titan Highlands (Exact entrance shifts periodically)  
+**First Discovered**: 6E 3666  
+**Last Attempted Expedition**: 6E 4104 (The Massacre of the Maw)  
+**Survivors**: 11 (All later perished, disappeared, or were institutionalized)  
+**Current Warnings**: Avoid at all costs. No sanctioned Delving permitted.
 
-### **📜 Archive Addendum: Labyrinth No. 13  - The Howling Maw
-
-**Status:** **Unconquered**  
-**Location:** Titan Highlands (Exact entrance shifts periodically)  
-**First Discovered:** 6E 709  
-**Last Attempted Expedition:** 6E 711 (**The Massacre of the Maw**)  
-**Survivors:** 11 (All later perished, disappeared, or were institutionalized)  
-**Current Warnings:** **Avoid at all costs. No sanctioned Delving permitted.**
-
-The Howling Maw is officially designated as Labyrinth No. 13, a fitting number for a place so steeped in misfortune, madness, and death. Its ever-changing nature has led some scholars to question whether it is truly a fixed structure, or if it is something that exists between places—partially in this world, partially elsewhere.
-
-No known treasures, relics, or arcane discoveries have ever been recovered from the Maw, yet those who seek answers about the Labyrinths' origins often find themselves drawn to it despite its history.
