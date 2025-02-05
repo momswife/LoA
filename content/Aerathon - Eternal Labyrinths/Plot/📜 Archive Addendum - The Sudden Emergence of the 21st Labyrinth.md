@@ -2,7 +2,7 @@ _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
 ---
 
-### **Location: Halvask – The Sundering at Velgrove Square**
+## **Location: Halvask – The Sundering at Velgrove Square**
 
 _"It happened in an instant. One moment, the market was alive with the sounds of trade. The next, the world cracked apart, and the city swallowed itself."_  
 — Eyewitness Account, **Watch-Captain Darien Vael**
@@ -29,7 +29,7 @@ It had simply appeared, replacing what had been there before as though the world
 
 ---
 
-### **Immediate Aftermath**
+## **Immediate Aftermath**
 
 The moment it arrived, Halvask changed.
 
@@ -48,7 +48,7 @@ It came to us.
 
 ---
 
-### **Effects on the City**
+## **Effects on the City**
 
 The entire district surrounding Velgrove Square—once a hub of commerce and culture—has become a dead zone, now called The Sundering Hollow.
 
@@ -64,7 +64,7 @@ And some say, if you stand at the edge of the Hollow at midnight, you can see fi
 
 ---
 
-### **Final Observations: The First Urban Labyrinth**
+## **Final Observations: The First Urban Labyrinth**
 
 This is the first recorded instance of a Labyrinth manifesting in a city, replacing an existing space as if it had always belonged there.
 
