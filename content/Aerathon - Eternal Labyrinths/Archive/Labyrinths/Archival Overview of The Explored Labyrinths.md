@@ -1,7 +1,7 @@
 ________________
 _Transcribed from the Grand Archives of Halvask, 7th Era, Year 943_
 
-### **The Doors of the Unknown: Collected Reports on the Eternal Labyrinths**
+## **Collected Reports on the Eternal Labyrinths**
 
 For centuries, the Eternal Labyrinths have stood as monuments of mystery, their blackened gates and shifting corridors defying all natural law. To some, they are divine trials, forged by gods long forgotten. To others, they are remnants of an ancient civilization, their purpose long lost to time.**
 
