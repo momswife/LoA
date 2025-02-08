@@ -78,23 +78,7 @@ And no one has ever been strong enough to reach the end.
 
 ---
 
-## **Final Observations: The Soldiers Still March**
-
-The Labyrinth of Rust and Ruin is not sealed, nor hidden, nor inaccessible. It is open to any who would dare enter.
-
-But those who go inside do not return. Or rather, they return as part of it.
-
-Even now, travelers passing through the Titan Highlands report seeing shadows moving along the ridgelines, clad in armor from another age, marching in silence. Some say, if you listen closely to the wind, you can hear the clash of swords in the distance.
-
-They are still fighting.
-
-They always will be.
-
-Until someone finally wins the war.
-
----
-
-## **Archive Addendum - Current Status
+## **Archive Addendum - Current Status**
 
 **Status:** Unconquered  
 **Location:** Titan Highlands (Buried beneath the ruins of an ancient fortress)  

@@ -60,18 +60,4 @@ Many believe that to truly listen to the Dreaming Ones is to lose oneself, for t
 
 ---
 
-### **Final Observations: The Fractured Veil**
-
-The Veilshroud Expanse is not a land of war, nor a land of conquest—it is a land of questions without answers, doors without keys, and echoes that whisper of things long forgotten. It is an archive of lost knowledge, a sanctum of seers and scholars, and a place where the world is thinner than anywhere else in Aerathon.
-
-But something has changed. The people of Vael’theris have felt it, even if they do not speak of it. One of the Eternal Labyrinths has surfaced, but unlike the others, it does not appear anchored to this world. Those who approach its entrance claim that it moves when they are not looking, that it exists in two places at once, that it shifts like a mirage.
-
-The Conclave is silent. The Archseer has withdrawn from public sight. And those who listen to the echoes claim they have heard a voice—a voice that has not spoken in ten thousand years.
-
-The Labyrinth does not call for the strong, nor for the wise.
-
-It calls for those who are willing to be lost.
-
----
-
 **🔖 Archivist’s Note:** _Scribes report that several scholars who entered the Veilshroud Labyrinth have returned—claiming to have experienced years inside, while only minutes passed in the outside world. Some speak in languages that do not exist. Some refuse to speak at all._

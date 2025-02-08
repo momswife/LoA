@@ -55,16 +55,4 @@ Their priests believe that all must undergo trials—whether of combat, intellec
 
 ---
 
-### **Final Observations: The Ever-Burning Throne**
-
-The Sunfire Expanse is a land of extremes—both brutal and magnificent, a place where power is earned, not given, and where only those who burn bright will be remembered. To the people of Halvask, it is a land of fire and danger, to the Stormcallers, it is a furnace of wealth, and to the warriors of Skallvik, it is a proving ground where only the strong survive.
-
-And yet, there is something beneath the dunes, something ancient. The Eternal Labyrinths have long existed in the Expanse, their glowing entrances half-buried by time, but recently, a new one has emerged—its entrance wreathed in an unholy black fire, untouched by Solari’s light.
-
-The priests whisper of a shadow that should not exist. The Sultan prepares his greatest warriors and scholars, determined to uncover the truth before it spreads.
-
-For in a land where the sun rules all, there can be no room for a darkness that will not burn.
-
----
-
 **🔖 Archivist’s Note:** _Scholars have noted the emergence of **black-flamed anomalies** near the newest Eternal Labyrinth in the Expanse. Despite the Sun Priests’ best efforts, the fire cannot be extinguished. Investigation is recommended—caution is advised._

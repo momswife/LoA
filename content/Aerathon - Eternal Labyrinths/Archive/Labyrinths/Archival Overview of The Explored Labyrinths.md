@@ -294,7 +294,7 @@ And each time it returns, it is larger than before.
 
 Thus concludes the **20 known Eternal Labyrinths** of Aerathon.
 
-(📖 _Records continue for the aforementioned known Labyrinths..._)
+(_Records continue for the aforementioned known Labyrinths..._)
 
 ---
 

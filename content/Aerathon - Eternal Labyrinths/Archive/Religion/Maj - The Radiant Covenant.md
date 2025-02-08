@@ -34,7 +34,7 @@ His followers include:
 
 **Domains:** War, justice, honor, righteous conquest  
 **Symbol:** A silver lightning bolt  
-**Holy Orders:** The Adamant Shield, The Knights of the Covenant
+**Holy Orders:** The Adamant Shield, The Knights of the Covenant, [[Minor Religions & Cults| The Order of Iron Ascendants]]
 
 Heironeous represents law, chivalry, and righteous warfare. He is the patron of warriors, kings, and those who fight for a just cause. While Pelor guides through wisdom and leadership, Heironeous guides through action and discipline, ensuring that civilization remains strong against all threats.
 

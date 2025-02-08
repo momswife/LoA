@@ -91,7 +91,7 @@ _(Below is the official record of Delvers who have entered each known Labyrinth,
 ### **13. The Howling Maw** _(Titan Highlands – The Battlefield of the Damned)_
 
 - **Casualties:** _>400 lives lost_ (Those who fall here never leave; they simply continue fighting. Expeditions recover new corpses, but no one can determine how long they have been there.)
-- **Confirmed Survivors:** _11_ (All ended up dead or insane within weeks of escaping.)
+- **Confirmed Survivors:** 15 (Most ended up dead or insane within weeks of escaping.)
 
 ---
 

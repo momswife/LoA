@@ -4,10 +4,13 @@ ul.section-ul {
   list-style: none;
   margin-top: 2em;
   padding-left: 0;
+  
 }
+
 
 li.section-li {
   margin-bottom: 1em;
+  
 
   & > .section {
     display: grid;

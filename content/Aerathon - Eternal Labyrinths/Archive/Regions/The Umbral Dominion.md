@@ -64,16 +64,4 @@ Worship is not open, but done in silent rites, in the form of whispers to the da
 
 ---
 
-### **Final Observations: The Eternal Veil**
-
-The Umbral Dominion is a realm of masks and whispers, of knowledge hoarded and power veiled. To the rest of Aerathon, it is a kingdom of monsters and ghosts, ruled by immortal lords and scheming aristocrats. And yet, beneath its cold exterior, it is a land of deep intellect, boundless ambition, and a culture as old as the darkness itself.
-
-But even here, the Eternal Labyrinths stir. A new passage has been uncovered beneath Nocthollow, deeper than any catacomb, its entrance sealed with runes of an unknown origin. Unlike the others, it does not call to the bold, nor the reckless—it calls only to those who listen.
-
-The noble houses watch in silence, the Veilwardens guard its gates, and the Duchess herself has spoken only once on the matter:
-
-"There are secrets that even we should not seek to know."
-
----
-
 🔖 **Archivist’s Note**: _Scholars and spies alike report that the newly discovered Labyrinth in Nocthollow does not appear on any known map. It is as if it has always existed, yet was only just remembered. Further investigation is required._**

@@ -61,16 +61,4 @@ They do not pray with words, but with deeds. A warrior who seeks Torgar’s favo
 
 ---
 
-### **Final Observations: The Mountainborn Legacy**
-
-The Titan Highlands are a land of warriors, where strength is the only law, and honor is the only wealth that cannot be stolen. To outsiders, they are brutal, war-obsessed clans locked in endless feuds, but in truth, they are a people bound by tradition, pride, and an unshakable belief in their own strength.
-
-But a new challenge rises in the Highlands. One of the Eternal Labyrinths, long thought dormant, has awakened deep within the Titan’s Spine. Unlike the others, it is not hidden beneath the land—it is carved into the very bones of the mountains, its entrance guarded by statues of warriors unlike any in recorded history.
-
-Some say it is a tomb of titans, others claim it holds the greatest weapon ever forged. Whatever the truth, every warlord, chieftain, and warrior worth their name now marches toward it.
-
-For in the Highlands, there is no greater prize than a battle worthy of legend.
-
----
-
 **🔖 Archivist’s Note:** _Scouts report the newly awakened Labyrinth **bears inscriptions in an unknown dialect**—one that predates even the Highland clans. If it is indeed a tomb, the question remains: **Who—or what—is buried inside?**_

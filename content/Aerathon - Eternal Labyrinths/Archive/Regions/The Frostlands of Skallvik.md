@@ -48,14 +48,4 @@ Their religious practices are deeply tied to nature and their ancestors. It is b
 
 ---
 
-### **Final Observations: The Frozen Bastion**
-
-Skallvik is a land that breeds legends. It is harsh but fair, brutal but honorable, a realm where only the strongest rise, and where even the weakest may forge themselves into something greater. To the south, they are seen as barbarians and warlords, but to those who understand them, they are warriors, smiths, and survivors of a land that seeks to break them at every turn.
-
-Their forges create the finest weapons, their warriors are unmatched in endurance, and their people are bound by an unbreakable sense of duty and kinship. But as the Eternal Labyrinths spread, the people of Skallvik face a new challenge—one not of steel and frost, but of ancient secrets buried beneath the ice, waiting to be unearthed.
-
-For Skallvik, the true test of strength has only just begun.
-
----
-
 **🔖 Archivist’s Note:** _Recent expeditions into the northern tundra have uncovered **a forgotten ruin buried deep within the ice**—evidence that **Skallvik’s past may be far older than previously believed**. Further investigation is advised._

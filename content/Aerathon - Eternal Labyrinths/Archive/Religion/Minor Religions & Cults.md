@@ -5,7 +5,25 @@ Not all faiths seek order, civilization, or salvation. Some exist in the margins
 The following are seven of the most enigmatic, heretical, or feared faiths in Aerathon, each existing on the fringes of power, knowledge, and reality itself.
 
 ---
+## **The Order of Iron Ascendants – The Warpath to Purity**
 
+**Deity:** Heironeous, the Archpaladin  
+**Belief:** Strength is virtue, weakness is corruption, and the Labyrinths are an infection that must be purged.  
+**Regions:** Halvask, Titan Highlands, militant sects within the Radiant Covenant
+
+The Order of Iron Ascendants is a radical splinter sect of Heironeous’ faithful, driven not by honor or protection, but by absolute, unquestioning obedience to divine law. They see themselves as instruments of divine conquest, believing that only through unwavering strength can true order be achieved—and that the Labyrinths are an affront to the gods, a festering wound in the world that must be eradicated.
+
+- They view the Labyrinths as unnatural aberrations, structures that do not belong to the world and must be destroyed at any cost.
+- They believe that weakness is treason, showing no mercy to those who lack the strength to enforce their will.
+
+
+Unlike the Radiant Covenant, which seeks to maintain law and civilization, the Iron Ascendants see only one solution to the problem of the Labyrinths—total and merciless eradication.
+
+- They train in siege warfare and destructive divine magic, preparing for the day they will lead a crusade to tear down the Labyrinths stone by stone.
+- They view Delvers as heretics, believing that those who enter the Labyrinths are feeding the corruption and must be judged.
+- They have begun amassing weaponry, holy relics, and divine artifacts, preparing for the day they declare open war against the Delving Guilds and the governments that support them.
+
+___
 ## **The Hollow Creed – Keepers of the Forbidden Word**
 
 **Deity:** Vecna, the Whispered One  

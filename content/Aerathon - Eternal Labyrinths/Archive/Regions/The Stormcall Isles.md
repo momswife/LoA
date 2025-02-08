@@ -56,14 +56,4 @@ Sky-knights and airship captains often mark their sails with runes of favor, whi
 
 ---
 
-### **Final Observations: The Skybound Throne**
-
-The Stormcall Isles are a nation without borders, a kingdom without walls. They are lawless yet governed, chaotic yet bound by honor, ruled by the winds and the daring souls who ride them. To live here is to live free, to embrace the thrill of risk and the endless call of adventure.
-
-To outsiders, they may seem like pirates, wanderers, and storm-chasers, but in truth, they are masters of the sky, sailors of the unknown, and keepers of the great storms. Their power rivals that of any landbound nation, and as the Eternal Labyrinths continue to change the world, many wonder if the sky itself holds secrets yet to be revealed.
-
-For in the heart of the storm, the winds whisper of a Labyrinth unlike any other—one that does not rest upon the earth, but moves among the clouds, waiting for those bold enough to claim it.
-
----
-
 **🔖 Archivist’s Note:** _Recent airship expeditions have reported **a new floating structure appearing within the Maelstrom’s Eye**. Its nature remains unknown, but early accounts suggest **it may be an Eternal Labyrinth, untethered from the land below. Further investigation is required.**_
