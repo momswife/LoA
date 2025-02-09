@@ -4,9 +4,9 @@ ___
 
 **Full Name:** Arthur "Cap" Penjamin  
 **Alias/Nickname:** _"Cap"_  
-**Age** - 32
-**Race:** Human  
-**Class:** Barbarian (Berserker)
+**Age** - 32                                     
+**Race:** Human                         
+**Class:** Barbarian (Berserker)                          
 **Guild Affiliation:** _None (Independent Azure Corsair Mercenary)_  
 **Prime Virtue:** _Honesty_  
 **Prime Vice:** _Fanaticism_  
