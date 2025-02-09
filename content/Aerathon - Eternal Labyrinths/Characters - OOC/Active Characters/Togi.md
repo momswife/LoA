@@ -4,9 +4,9 @@ ___
 
 **Full Name:** Togi  
 **Alias/Nickname:** _"The Luckless Ronin," "The Debt Collector (Of His Own Debts)"_  
-**Race:** Human         
-**Class:** Fighter (Samurai)             
-**Age**: 28        
+**Age**: 28       
+**Race:** Human           
+**Class:** Fighter (Samurai)               
 **Guild Affiliation:** _None (Too Broke to Join One)_  
 **Prime Virtue:** _Persistence (Refuses to Quit, Ever)_  
 **Prime Vice:** _Gambling Addiction, Over-Confident
