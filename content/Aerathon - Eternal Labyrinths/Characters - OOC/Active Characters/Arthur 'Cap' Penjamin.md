@@ -1,5 +1,5 @@
 ## **Description**
-___
+
 **Full Name:** Arthur "Cap" Penjamin  
 **Alias/Nickname:** _"Cap"_  
 **Age** - 32
@@ -10,25 +10,33 @@ ___
 **Prime Vice:** _Fanaticism_  
 **Identifying Mark:** _A magical brand on the back of his left shoulder, just beneath his neck._  
 **Current Location:** _Halvask, seeking entry into the Nameless Labyrinth_
+
+___
 ## **Rank/Importance**
-___
+
 - Member of the Azure Corsair Mercenary Corp. 
-## **Personal Quest**
+
 ___
+## **Personal Quest**
+
 - Aid any citizens or victims found inside
 - Learn more about the Labyrinths
 - Feels drawn to the **Convergence**
 
-## **Skillsets**
 ___
+
+## **Skillsets**
+
 - **Languages** - Common, Dwarvish, Elvish
 - **Weapons** - Martial, Simple
 - **Armor** - Light, Medium, Shield
 - **Tools** - Darts
 - **Misc** - Sailing, Rowing
 
-## **Backstory**
 ___
+
+## **Backstory**: 
+
 ### **A Corsair of the Stormcall Isles**
 
 Arthur Penjamin was born on the waves and raised in the tempest, a child of the Stormcall Isles, where the sea itself seems alive, and the people carve their legacies from wind and water. From a young age, he was trained in ship combat, blade-work, and the mercenary trade, earning his place among the Azure Corsairs, a renowned fleet of privateers, explorers, and sell-swords known for their loose code of honor and their willingness to fight for coin, but never for cruelty.
@@ -81,6 +89,9 @@ This was no accident.
 
 This was his convergence.
 
-## **Development**
 ___
+## **Development**
+
 - ***TBA***
+
+___
