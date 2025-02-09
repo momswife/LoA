@@ -49,7 +49,7 @@ Arthur Penjamin was born on the waves and raised in the tempest, a child of the 
 
 And yet, even amidst the sea’s infinite horizon, he felt there was something waiting beyond the waves. A path not yet walked. A purpose not yet fulfilled.
 
-### **The Nameless Labyrinth – Witness to the Sundering**
+### **Witness to the Sundering**
 
 Arthur and his fellow Corsairs had come to Halvask looking for work, coin, and perhaps a few rounds of drink before taking on another contract. Yet, only a day after arriving, the world itself shifted beneath his feet.
 
