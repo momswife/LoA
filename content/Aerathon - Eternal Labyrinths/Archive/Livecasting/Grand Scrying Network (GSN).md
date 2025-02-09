@@ -5,11 +5,11 @@ _Prepared by the Halvaskian Ministry of Arcane Communications & Historical Archi
 
 ## **Overview: The Grand Scrying Network (GSN)**
 
-The **Grand Scrying Network (GSN)** is the **largest and most advanced magical broadcasting system in Aerathon**, responsible for **Livecasting Delver expeditions, major political events, gladiatorial combat, and entertainment across the world**. Controlled by **a conglomerate of noble investors, arcane institutions, and government-appointed officials**, the GSN is **both a technological marvel and a powerful tool of influence**, shaping **how the world sees history unfold in real time**.
+The **Grand Scrying Network (GSN)** is the largest and most advanced magical broadcasting system in Aerathon, responsible for Livecasting Delver expeditions, major political events, gladiatorial combat, and entertainment across the world. Controlled by a conglomerate of noble investors, arcane institutions, and government-appointed officials, the GSN is both a technological marvel and a powerful tool of influence, shaping how the world sees history unfold in real time.
 
-Though initially established as **a means of mass communication**, the Network has grown into **a global spectacle-driven industry**, with the **Labyrinth Delver Livecasts** becoming its **most profitable and controversial venture**.
+Though initially established as a means of mass communication, the Network has grown into a global spectacle-driven industry, with the Labyrinth Delver Livecasts becoming its most profitable and controversial venture.
 
-With the **Nameless Labyrinth** appearing in **Velgrove Square, Halvask**, the demand for **Delver broadcasts has reached unprecedented levels**, bringing **fortune, glory, and danger** to those involved.
+With the Nameless Labyrinth appearing in Velgrove Square, Halvask, the demand for Delver broadcasts has reached unprecedented levels, bringing fortune, glory, and danger to those involved.
 
 ---
 
