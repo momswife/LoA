@@ -5,7 +5,7 @@ _Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Ne
 
 ---
 
-## **Overview: Active Delvers Today**
+## **Overview
 
 For centuries, Delvers have braved the deadly depths of the Labyrinths, seeking fortune, glory, knowledge, and power. Some have carved their names into legend, while others vanished into the darkness, their stories half-told, their legacies unfinished.
 

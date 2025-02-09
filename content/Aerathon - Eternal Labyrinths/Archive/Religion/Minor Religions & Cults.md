@@ -20,7 +20,6 @@ The Order of Iron Ascendants is a radical splinter sect of Heironeous’ faithfu
 Unlike the Radiant Covenant, which seeks to maintain law and civilization, the Iron Ascendants see only one solution to the problem of the Labyrinths—total and merciless eradication.
 
 - They train in siege warfare and destructive divine magic, preparing for the day they will lead a crusade to tear down the Labyrinths stone by stone.
-- They view Delvers as heretics, believing that those who enter the Labyrinths are feeding the corruption and must be judged.
 - They have begun amassing weaponry, holy relics, and divine artifacts, preparing for the day they declare open war against the Delving Guilds and the governments that support them.
 
 ___
