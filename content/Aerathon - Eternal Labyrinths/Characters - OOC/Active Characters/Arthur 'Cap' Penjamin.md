@@ -1,3 +1,5 @@
+_"Steel is my trade, but the lost are my purpose."_
+___
 ## **Description**
 
 **Full Name:** Arthur "Cap" Penjamin  
