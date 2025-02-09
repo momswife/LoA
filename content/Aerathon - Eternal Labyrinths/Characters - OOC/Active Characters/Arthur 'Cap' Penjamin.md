@@ -3,7 +3,7 @@ ___
 ## **Description**
 
 **Full Name:** Arthur "Cap" Penjamin  
-**Alias/Nickname:** _"Cap"_  
+**Alias/Nickname:** _"Cap"_, "The Tidebringer"  
 **Age** - 32                                     
 **Race:** Human                         
 **Class:** Barbarian (Berserker)                          
