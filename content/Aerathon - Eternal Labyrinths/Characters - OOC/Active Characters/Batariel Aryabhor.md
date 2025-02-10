@@ -10,7 +10,7 @@ ___
 **Guild Affiliation:** _The Order of Iron Ascendants_  
 **Prime Virtue:** _Loyalty – Unyielding faith in his deity and the divine order._  
 **Prime Vice:** _Blind Faith – There is no room for doubt, mercy, or compromise._  
-**Identifying Mark:** _A divine brand seared into his chest during his induction into the Order._
+**Identifying Mark:** Unknown
 
 ___
 
