@@ -4,6 +4,7 @@ ___
 
 **Full Name:** Batariel Aryabhor  
 **Alias/Nickname(s):** _"The Blazing Hammer," "The Purging Flame," "The Voice of Iron," "The Thunder Saint"_  
+**Age:** 43
 **Race:** Human  
 **Class:** Paladin (Oath of Conquest)  
 **Guild Affiliation:** _The Order of Iron Ascendants_  
@@ -132,6 +133,3 @@ ___
 ## **Development**
 
 - ***TBA***
-
-___
-

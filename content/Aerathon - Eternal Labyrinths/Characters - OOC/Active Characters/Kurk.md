@@ -144,6 +144,3 @@ But he will.
 ___
 
 ## **Development**
-
-___
-

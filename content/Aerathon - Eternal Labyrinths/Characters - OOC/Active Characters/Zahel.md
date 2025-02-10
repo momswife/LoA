@@ -4,6 +4,7 @@ ___
 
 **Full Name:** Zahel  
 **Alias/Nickname(s):** _None – "Zahel" is already two syllables, and that’s plenty._  
+**Age:** 34
 **Race:** Human  
 **Class:** Monk (Way of Mercy)  
 **Guild Affiliation:** _None (Formerly Affiliated with Halvask’s Criminal Underground – Status Unknown)_ 
@@ -137,6 +138,3 @@ ___
 ## **Development**
 
 - ***TBA***
-
-___
-

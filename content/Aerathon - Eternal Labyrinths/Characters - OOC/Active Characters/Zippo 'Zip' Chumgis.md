@@ -4,13 +4,13 @@ ___
 
 **Full Name:** Zippo Chumgis  
 **Alias/Nickname(s):** _"Zip," "The Embermind," "The Firebrand"_  
+**Age:** Unknown
 **Race:** Human  
 **Class:** Sorcerer (Pyromancer – Draconic)  
 **Guild Affiliation:** _Sunless Scribes (Loose Association – Arcane Merchant)_  
 **Prime Virtue:** _Creativity – Fire is ever-changing, and so should a sorcerer of flame._  
 **Prime Vice:** _Recklessness – Sometimes, my emotions take over, and I give in to my more destructive impulses._  
 **Identifying Mark:** _A magical brand just below the crook of his left elbow._  
-**Current Location:** _Halvask, preparing to enter the Nameless Labyrinth._
 
 ___
 
@@ -111,6 +111,3 @@ ___
 ## **Development**
 
 - ***TBA***
-
-___
-
