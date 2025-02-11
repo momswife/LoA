@@ -1,8 +1,8 @@
 _________________________  
 ## **Characters**
-- [[Batariel Aryabhor]]
-- [[Zippo 'Zip' Chumgis]]
-- [[Kurk]]
+- [[Batariel Aryabhor]]                   
+- [[Zippo 'Zip' Chumgis]]                 
+- [[Kurk]]                         
 ___
 ## **Current Threads**
 
@@ -33,9 +33,9 @@ ___
 ___
 ## **Important NPCs**
 
-- [[Declan Vael – The Voice of the Grand Scrying Network | Declan Vael]]
-- [[Milo Thorne | Milo Thorne]]
-- [[Vaelka 'The Grin' Sorn| Vaelka "The Grin" Sorn]] 
+- [[Declan Vael – The Voice of the Grand Scrying Network | Declan Vael]]                  
+- [[Milo Thorne | Milo Thorne]]               
+- [[Vaelka 'The Grin' Sorn| Vaelka "The Grin" Sorn]]           
 
 ___
 
@@ -46,9 +46,11 @@ ___
 - Seemed to show interest in *Milo Thorne*
  - Religious Boon – “The Judge’s Favor” (Adv on Insight Check). 
  - Obtained a sponsorship
+
 **Batariel :** 
 - Religious Boon - Their next melee attack deals an additional 1d4 lightning damage. 
 - Placed a bear trap on the whispering staircase - will something become of it? 
+
 **Zip:** 
 - Came up with the group name - "The Golden Showers"
 - Recalled the importance of both items that belonged to Declan
