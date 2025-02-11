@@ -41,17 +41,19 @@ ___
 
 ## **Notes**
 
-**Kurk:**
+**Kurk:**           
 - Has an interest in checking nearly everyone's pockets...
 - Seemed to show interest in *Milo Thorne*
  - Religious Boon – “The Judge’s Favor” (Adv on Insight Check). 
  - Obtained a sponsorship
 
-**Batariel :** 
+
+**Batariel :**                 
 - Religious Boon - Their next melee attack deals an additional 1d4 lightning damage. 
 - Placed a bear trap on the whispering staircase - will something become of it? 
 
-**Zip:** 
+
+**Zip:**             
 - Came up with the group name - "The Golden Showers"
 - Recalled the importance of both items that belonged to Declan
 ___
