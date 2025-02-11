@@ -27,8 +27,8 @@ ___
 ## **Notable Quotes**
 
 - ***Golden Showers***
-	- *"We will defeat the Labyrinth through the righteousness  of Heironeous. His grace will shower down on us with his golden light. We will overcome. We will prevail. " - Batariel*
-	- "Yes, we will overcome with the power of Heironeous' golden showers." - Zippo
+	- *"The light of Heironeous will reign down on them as mercy through hellfire and brimstone." - Batariel*
+	- *"Yes, we will overcome with the power of Heironeous' golden showers." - Zippo*
 
 ___
 ## **Important NPCs**
