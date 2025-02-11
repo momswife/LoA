@@ -59,6 +59,8 @@ For Batariel, the world is iron—and it must be reforged in the image of his go
 
 And for that, he has been blessed with divine firepower.
 
+*"If I can't make them Holy, I can do the next best thing and make them Holey"*
+
 ## **The Holy Shotgun of the Iron Ascendants**
 
 Faith is his shield, but a righteous blast of consecrated steel is his sword.
