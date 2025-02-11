@@ -1,8 +1,8 @@
 _________________________  
 ## **Characters**
-[[Batariel Aryabhor]]
-[[Zippo 'Zip' Chumgis]]
-[[Kurk]]
+- [[Batariel Aryabhor]]
+- [[Zippo 'Zip' Chumgis]]
+- [[Kurk]]
 ___
 ## **Current Threads**
 
