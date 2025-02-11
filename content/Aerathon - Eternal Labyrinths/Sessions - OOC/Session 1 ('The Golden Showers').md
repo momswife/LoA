@@ -67,11 +67,11 @@ Meanwhile, tension simmered between rival teams:
 - **The Veilborne Coven**, scholars and mystics, whispered amongst themselves.
 - **The Lost Company**, a desperate band of underdogs, barely held their nerves.
 
-Even our party wasn't able to avoid some brief rivalry, as **Vaelka "The Grin"** and the rest of the party slowly notched holes in each other's confidence. Or perhaps, garnered some respect for the Crimson Reaver in the process? 
+Even our party wasn't able to avoid some brief rivalry, as *Vaelka "The Grin"* and the rest of the party slowly notched holes in each other's confidence. Or perhaps, garnered some respect for the Crimson Reaver in the process? 
 
-While on stage, as the party was introduced, Kurk took it upon himself to investigate the pockets of Declan Vael as he took the attention of the crowd. Inside, Kurk found a strange note and an illegal *scrying eye*. The party pondered what he had these for, and on top of that, who was looking through the *scrying eye* to begin with? 
+While on stage, as the party was introduced, Kurk took it upon himself to investigate the pockets of *Declan Vael* as he took the attention of the crowd. Inside, Kurk found a strange note and an illegal *scrying eye*. The party pondered what he had these for, and on top of that, who was looking through the *scrying eye* to begin with? 
 
-Shortly after the party was interviewed by Milo Thorne, a not well-known interviewer (or so it seemed) who took brief interest in their reasoning behind delving into the Labyrinth in the first place. Each with their own values, and their own respective answers, the party addressed the press and continued on their journey.
+Shortly after the party was interviewed by *Milo Thorne*, a not well-known interviewer (or so it seemed) who took brief interest in their reasoning behind delving into the Labyrinth in the first place. Each with their own values, and their own respective answers, the party addressed the press and continued on their journey.
 
 As the moment of entry arrived, the Halvaskian Delving Authority (HDA) issued their final warnings—once the doors closed, there would be no turning back. Yet, something felt off. The Divine Oculi glitched briefly, displaying a flickering silhouette that no one could explain.
 
