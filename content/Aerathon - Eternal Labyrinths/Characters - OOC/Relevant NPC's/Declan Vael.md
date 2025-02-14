@@ -1,4 +1,4 @@
-_"The world needs legends. Heroes, villains—it doesn’t matter. What matters is that _they’re watching_."_
+_"The world needs legends. Heroes, villains—it doesn’t matter. What matters is that they’re watching_."
 
 ---
 

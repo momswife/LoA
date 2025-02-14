@@ -1,5 +1,6 @@
 _________________________  
 ## **Characters**
+
 - [[Batariel Aryabhor]]                   
 - [[Zippo 'Zip' Chumgis]]                 
 - [[Kurk]]                         
@@ -33,7 +34,7 @@ ___
 ___
 ## **Important NPCs**
 
-- [[Declan Vael – The Voice of the Grand Scrying Network | Declan Vael]]                  
+- [[Declan Vael| Declan Vael]]                  
 - [[Milo Thorne | Milo Thorne]]               
 - [[Vaelka 'The Grin' Sorn| Vaelka "The Grin" Sorn]]           
 
