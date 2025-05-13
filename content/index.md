@@ -1,32 +1,34 @@
 ---
-title: Welcome to Aerathon - Land of Labyrinths
+title:  The Lorevault of Aerathon - Welcome!
 ---
 
-*The Definitive Guide to the Trials of the Eternal Labyrinths*
+*An Open Archive of the Eternal Labyrinths*
 
-> *“We are but performers on a stage far greater than we can comprehend. The Eternal Labyrinths
-> are not merely tests of strength, but echoes of a forgotten past, shaping the future with 
-> every step we take.”*
->**— Grand Archivist Selvaris of Halvask**
+> *“Through ink and memory, we preserve what sword and spell cannot.”*
+>**— High Maester Arcanthil, Keeper of the Twelfth Seal**
 
-Welcome - **adventurer**  -  to the **Aerathon Lore Archive**, the most comprehensive compendium of knowledge on the world of Aerathon and on the legendary **Trials of the Eternal Labyrinths**. Whether you are a seasoned scholar, an aspiring adventurer, or a curious viewer tuning into the livecast of the greatest trials in history, this archive contains everything you need to understand the mysteries, dangers, and wonders of this magical world.
+Welcome - **wayfarer**.
 
-Aerathon is a land where magic and technology intertwine, where entire cities are powered by arcane energy, and where the fate of the world is decided not by kings and warlords, but by the daring souls who brave the enigmatic Eternal Labyrinths. These vast, otherworldly dungeons appear without warning, scattered across continents, filled with **challenges** that test the mind, body, and spirit. Each labyrinth holds **artifacts of unimaginable power**, relics of an ancient civilization that once wielded magic beyond mortal understanding. But these trials are more than mere treasure hunts—every labyrinth conquered brings the world closer to the long-prophesied event known as the **Eternal Convergence**, a cosmic shift that could reshape reality itself.
+You now stand at the threshold of the *Lorevault of Aerathon*, the ever-expanding chronicle of our world’s deepest mysteries and most daring champions. Compiled by generations of Maesters, Archivists, and Spiritbound Scribes, this public archive is open to all — whether you are a wandering scholar, a Labyrinth-bound warrior, or simply a curious soul seeking truth in the age of Convergence.
+
+Aerathon was once a world like any other—divided by borders, ruled by crowns, and governed through tradition. But all of that changed when the Labyrinths came. Tearing through the fabric of reality, these otherworldly portals erupted across the land, spilling forth monsters, curses, and ancient magics long forgotten. At first, the world reeled. But then, it rallied. From every corner of Aerathon, brave souls stepped forward—not soldiers of nations, but adventurers of all kinds. Those who entered the Labyrinths and survived emerged with power, knowledge, and relics beyond imagination. In time, kingdoms found peace not through treaties, but through unity in facing the unknown.
+
+Today, the Labyrinths are more than a threat — they are a spectacle. Through arcane livecasts powered by Divine Oculi, every trial is witnessed across Aerathon. Audiences cheer, wager, and even intervene, guiding their champions or cursing their rivals. Aerathon now stands on the edge of a new age—shaped not by monarchs, but by those daring enough to step into the dark… and carve their name into legend.
 
 ---
-What You’ll Find in This Archive
+What You’ll Discover in This Vault
 ---
 
-**The History of the Eternal Labyrinths** – Discover the origins of these legendary trials, the myths surrounding their creators, and the ongoing debate among scholars and adventurers alike.
+**The Eternal Labyrinths** – Discover the origins of these legendary trials, the myths surrounding their creators, and the ongoing debate among scholars and adventurers alike.
 
-**The World of Aerathon** – From the towering crystal spires of Halvask to the floating islands of Zyrellia, explore the vast cities, continents, and cultures that make up this spellbound world.
+**The Living World of Aerathon** – Explore how the Trials have reshaped society—from the collapse of monarchies to the rise of meritocratic guilds. Includes maps, cultural notes, festivals, and lore from everyday life.
 
-**Legendary Adventurers and Rivalries** – Learn about the bold souls who have dared to enter the Labyrinths, including the famed Silver Shroud, the ever-present rivals to the current generation of champions.
+**Champions & Guilds** – Meet the adventurers who walk the Labyrinths and the guilds that back them. From historic duels to modern-day rivalries, discover how glory—and power—is earned.
 
-**The Magic of Livecasting and Divine Oculi** – How does the world watch as adventurers risk their lives? Discover the intricate magic behind global livecasting and how audience participation can alter the course of history.
+**Livecasting & Diving Oculi** – Dive into the enchantment of the Divine Oculi network. Learn how magic allows audiences to watch, wager, and even influence the outcome of Trials across Aerathon.
 
-**The Eternal Convergence Prophecy** – Unravel the growing mystery surrounding the Convergence, the cryptic messages hidden in the Labyrinths, and the forces that seek to either prevent or accelerate this impending event.
+**Magic & Relics** – Detailed entries on relics recovered from the Trials, lost spellforms, cursed items, and the evolving magical systems of Aerathon since the first Convergence breach.
 
-**Notable Labyrinths and Their Trials** – A complete guide to the known Eternal Labyrinths, detailing their unique environments, magical properties, and the deadly challenges within.
+**Prophecies & The Convergence** – Study the symbols, dreams, and warnings whispered from the depths. Track the growing momentum of the Eternal Convergence and what it may bring when all Trials are complete.
 
 
