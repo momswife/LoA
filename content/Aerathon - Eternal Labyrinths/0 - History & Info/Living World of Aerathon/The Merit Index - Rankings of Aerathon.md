@@ -80,3 +80,6 @@ These trials are similar to **epic level-up events or tier shifts** in D&D.
 - Solve a planar riddle presented by a Dreaming Oracle.
     
 - Endure a "Judgment Duel" versus another A-Ranker for public favor.
+
+___
+_Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  
