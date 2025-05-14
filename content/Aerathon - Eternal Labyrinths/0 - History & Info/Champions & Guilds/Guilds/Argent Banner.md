@@ -1,7 +1,4 @@
 >_"In the Argent Banner, you're not just expected to survive the labyrinth—you’re expected to make it look legendary."_
-
-_Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  
-
 ---
 ![[ea378bd0-bc1c-44a0-9f7d-85f5bbf0b7c6.webp]]
 ## **Overview: The Argent Banner**
@@ -91,3 +88,6 @@ Despite its combat excellence, the Argent Banner is also a carefully curated ima
 - The Free Company despises the Argent Banner, seeing them as privileged frauds who never fight unless victory is guaranteed.
 - Argent Banner members look down on the Free Company, seeing them as "expendable, desperate misfits unworthy of true recognition."
 - Certain heated duels between members of both guilds have escalated into serious conflicts, leading to HDA-mandated peace treaties.
+
+____
+_Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  

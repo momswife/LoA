@@ -60,7 +60,7 @@ ___
 
 ### **Rank Ascension Trials**
 
-When an adventurer’s UDMI breaches a rank threshold (B ➝ A, A ➝ S), they are summoned by the **Ranking Arbiters** or may choose to issue a **Challenge Writ** to take an **Ascension Trial**.
+When an adventurer’s UDMI breaches a rank threshold (B ➝ A, A ➝ S), they are summoned by the **Ranking Arbiters** or may choose to issue a **Challenge Writ** to take an **Ascension Trial**. In some instances, the [[Arcanet Core]] may also be used to simulate a labyrinth.
 
 These trials are similar to **epic level-up events or tier shifts** in D&D.
 
