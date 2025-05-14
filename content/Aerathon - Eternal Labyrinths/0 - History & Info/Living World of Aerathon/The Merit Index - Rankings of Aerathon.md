@@ -13,7 +13,7 @@ In the realm of Aerathon, adventurers are ranked through the **Unified Delving M
 - **D-Rank** – Novices or Probationary Members _(Unproven or penalized)_
 
 ___
-Each adventurer is assigned a **UDMI Score** (0–10,000) which is updated dynamically. This score is calculated by the **Arcanet Core**, an ancient labyrinth-born sentience bound to a network of magical tracking artifacts.
+Each adventurer is assigned a **UDMI Score** (0–10,000) which is updated dynamically. This score is calculated by the [[Arcanet Core]], an ancient labyrinth-born sentience bound to a network of magical tracking artifacts.
 
 #### **Factors That Influence UDMI Score**
 

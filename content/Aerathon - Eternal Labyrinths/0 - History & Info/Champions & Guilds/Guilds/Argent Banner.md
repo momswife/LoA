@@ -1,5 +1,4 @@
-___
-_"In the Argent Banner, you're not just expected to survive the labyrinth—you’re expected to make it look legendary."_
+>_"In the Argent Banner, you're not just expected to survive the labyrinth—you’re expected to make it look legendary."_
 
 _Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  
 
