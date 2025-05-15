@@ -1,3 +1,8 @@
+> **"It has no eyes, yet it sees more clearly than any king. It has no heart, yet it weighs yours with unerring precision."**
+
+___
+## Overview
+
 The **Arcanet Core** functions as a magical superconstruct—a semi-sentient system of crystalline minds, ethereal algorithms, and reality-threaded networks. It is housed deep within the **Hall of Ascendancy** in the floating city of Halvask, where its glowing lattice of Aetherglass pulses with every deed reported from the Labyrinths.
 
 It is the **official authority** for assigning adventurer rankings from **D-Rank to S-Rank**, removing all human bias from the process.
@@ -49,6 +54,7 @@ The adventurer's total [[The Merit Index - Rankings of Aerathon | Merit Profile]
 | B    | 500–749             | Known                | Successful clearings, frequent survival, mid-level bosses                |
 | C    | 300–499             | Local                | Minor clears, decent teamwork, utility                                   |
 | D    | 100–299             | Novice               | Survived a labyrinth floor, displayed potential                          |
+
 While the Arcanet Core heavily relies on **live calculations**, it also offers **Ascendancy Trials**—a series of simulated Labyrinth challenges created from **memory-encoded echoes of past floors**. These allow new or stagnant adventurers to attempt ascension via trial.
 
 These tests:
