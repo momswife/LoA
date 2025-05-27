@@ -1,4 +1,6 @@
 ____
+![[Map of Aerathon.jpg]]
+
 ```leaflet
 id: aerathon-world-region
 image: [[Map of Aerathon.jpg]]
