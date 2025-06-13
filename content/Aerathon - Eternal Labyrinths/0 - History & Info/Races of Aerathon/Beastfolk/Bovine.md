@@ -1,8 +1,9 @@
 > “No fair. Yours had a head start.”
-> - *Magnolia McGuire, to her angus friend Benny after badly losing a contest to see which of them could grow the tallest sunflower.*
+> 	-*Magnolia McGuire, to her angus friend Benny after badly losing a contest to see which of them could grow the tallest sunflower.*
+
 ___
 ![[{0BB7CE9D-E488-45A2-9899-7A9FE040C5CE}.png]]
-## OVERVIEW
+## Overview
 
 In the wild and wondrous realms of the Beast World, the _Bovine_ folk are earthbound guardians, born with an uncanny communion with soil and sprout. Angus and bison kin wield this gift to awaken lifeless lands, conjuring verdant pasture from desolation. Within the depths of dungeons, these sturdy folk can glean survival lore from lichen and moss, as if the very walls whispered secrets to them.
 
@@ -28,7 +29,7 @@ ___
 
 ***Root Connected.*** As an action, you can touch a plant to communicate with it for 1 minute. You can ask about events within the past day that happened in a 30-foot radius around the plant, or as far as its roots reach underground (whichever is farther). A plant knows how many Small or larger creatures traveled through the area, and can also describe anything that disturbed its home soil. It can provide a rudimentary visual description of things within range. For example, it knows the color of clothing and the species of a creature, but can’t distinguish individuals. You can also determine whether the plant is having difficulty growing, and why.
 
-### Species - Angus
+### Angus
 
 ***Ability Score Increase.*** Your Constitution score increases by 1. 
 
@@ -36,7 +37,7 @@ ___
 
 ***Bullheaded.*** An enemy that hits you hard enough gets your undivided attention. When you take half your maximum hit points or more in damage from a single attack, you gain advantage on melee weapon attack rolls for 1 minute, or until you target a different creature with an attack.
 
-### Species - Bison
+### Bison
 
 ***Ability Score Increase.*** Your Constitution score increases by 1. 
 
@@ -85,3 +86,5 @@ Bison are an important part of the Beylik’s history. When desert explorers sea
 Like all non-felines, Al’ari bovines are rare. Because reaching the homeland is so difficult, most bovines in the homeland are those who feel a powerful wanderlust. Island bulls are the adven- turous exceptions of their species.
 
 ***Light-Touched Farmhand.*** Light-Touched Farmhand. Over generations, the diet and habits of Al’ari bovines have rendered them smaller than their mainland cousins. You have proficiency in the Stealth skill. Additionally, when traveling over land, you roll Dexterity (Stealth) checks to avoid being tracked with advantage.
+
+____

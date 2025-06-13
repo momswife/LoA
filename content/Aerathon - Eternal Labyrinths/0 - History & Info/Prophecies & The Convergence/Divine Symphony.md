@@ -1,6 +1,6 @@
 > *“The gods have not been replaced — they’ve taken new forms in the roar of the crowd and the gleam of the blade.”*
 ___
-## OVERVIEW
+## Overview
 
 The **Divine Symphony** is the current dominant religious framework in Aerathon, established during the 6th Era as the world struggled to reconcile the ancient pantheon with the explosive rise of New Faiths and labyrinthal miracles. In this reformed system, the original gods remain **central and divine**, but are now understood through **modern “Faces”**—reflections of their nature interpreted through contemporary belief, delver merit, and audience worship.
 
