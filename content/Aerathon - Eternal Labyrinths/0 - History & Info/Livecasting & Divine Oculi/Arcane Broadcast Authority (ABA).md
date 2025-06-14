@@ -3,110 +3,105 @@
 ___
 ## Overview
 
-The **Arcane Broadcast Authority (ABA)** is the central regulatory and enforcement body responsible for overseeing all magical broadcasts across Aerathon via the Grand Scrying Network (GSN). Acting as both censor and custodian, the ABA ensures that what reaches the eyes and ears of the public aligns with the political, cultural, and arcane stability of the realms.
+**Censors of Reality. Architects of Narrative.**
 
-Formed through the Broadcast Concord of the Sixth Era, the ABA has grown into one of the most powerful bureaucratic institutions in the world—trusted by the nobility, feared by the populace, and whispered about in Delver camps.
+The **Arcane Broadcast Authority (ABA)** is Aerathon’s most influential regulatory body—**curating every magical broadcast, shaping every legend**, and controlling the face of delving society. Formed during the convergence of the Sixth Era and refined after the collapse of Halvask, it now operates from the **Spires of Giltglass** in Oria.
 
----
-
-## Mission and Mandate
-
-The ABA's authority extends beyond mere messaging. It defines public truth.
-
-### Primary Mandates:
-
-- **Regulation of Broadcasted Content** – All GSN transmissions are filtered through the ABA’s approval layers, with real-time delay enchantments and censoring glyphs ready for deployment.
-    
-- **Issuance of Livecasting Licenses** – Oculi may not be deployed without ABA certification, particularly in high-threat Labyrinth zones or contested territories.
-    
-- **Maintenance of Political and Arcane Stability** – The ABA functions as a quiet political weapon, controlling narratives during uprisings, magical anomalies, or inter-kingdom tensions.
-    
-- **Preservation of the Grand Archive** – Restricted footage, sealed truths, and forbidden scenes are stored under heavy warding in the Vault of Halvask.
-    
+Where the GSN provides the arcane voice of the world, the ABA decides **what is allowed to be said.**
 
 ---
 
-## Structure and Leadership
+## **Mission and Mandate**
 
-The ABA is led by a trinity of high officials, each responsible for distinct operational realms:
+The ABA’s mission is to **stabilize the realm through control of magical narrative.** It enforces a balance between freedom, fear, and spectacle.
 
-- **Lord Adrivane Elsith**, _High Minister of Communications_  
-    Oversees final broadcast approval, manages inter-kingdom censorship treaties, and reports directly to the Halvaskian Crown.
+### **Primary Mandates:**
+
+- **Broadcast Regulation** – Every Livecast, projection, and archive must pass ABA filtration spells and scry-delays.
     
-- **Thellian Mir**, _Archmagus of Transmission_  
-    Chief artificer and enforcer of arcane broadcast security, responsible for warding, signal protection, and magical signal purity.
+- **Oculi Licensing** – Only certified observers may deploy arcane vision in active delving zones.
     
-- **Luthas Dain**, _Scryer-General of Public Viewings_  
-    Curates the public broadcast schedule, manages noble and guild sponsorships, and oversees ceremonial or entertainment events.
+- **Narrative Security** – The ABA intervenes in matters of divine interference, public panic, and mythic-level anomalies.
     
-
-Each office is supported by tiers of scribes, censors, spellwrights, and legally-bound prognosticators.
-
----
-
-## Bureaucratic Arms
-
-### Office of Censorship & Emergency Redaction
-
-Responsible for activating **Contingency Glyphs**, which cut or alter broadcast footage in the event of forbidden imagery, high-value death, or unsanctioned divine appearances.
-
-### Division of Narrative Oversight
-
-Crafts official GSN commentary, background stories, and sponsor-friendly portrayals of Delvers. Operates in close partnership with private guild PR offices and noble investors.
-
-### Enforcement Wing
-
-Comprised of **Broadcast Sentinels**—arcane enforcers empowered to seize unregistered Oculi, neutralize rogue scrying towers, and detain those who illegally stream or distribute GSN content.
-
----
-
-## Secrecy and Control
-
-The ABA is infamous for the contents it withholds:
-
-- **The Restricted Archive** – A subterranean vault beneath the Arcane Broadcast Spire. No public record of its holdings exists, but rumors speak of recordings that show impossible creatures, failed ascensions, or gods in revolt.
-    
-- **The Ten Forbidden Frames** – An unofficial name for a series of visuals said to be permanently locked by order of the Crown, deemed too destabilizing for public awareness.
-    
-- **Writs of Erasure** – Legal-spellbinding documents that can remove a Delver’s existence from the record, including footage, ranking, and even public memory via widespread enchantment.
+- **Historical Vaulting** – The Grand Archive contains censored footage, false god appearances, and memory-locked events.
     
 
 ---
 
-## Political Influence
+## **Leadership and Structure**
 
-Though the ABA presents itself as neutral, it is a creature of politics. Key backers include:
+### **The Triumvirate of Broadcast**
 
-- The **Halvaskian Crown**, which uses the ABA to manage its image and control dissent.
-    
-- The **Gilded Pantheon**, whose noble houses often pay for favorable edits or delayed footage.
-    
-- The **Veilborn Theocracy**, which frequently challenges the ABA’s moral boundaries but has failed to penetrate its inner ranks.
-    
+|**Title**|**Name**|**Role**|
+|---|---|---|
+|**High Minister of Communications**|Lord Adrivane Elsith|Final broadcast approval, treaty coordination, and illusion narrative enforcement.|
+|**Archmagus of Transmission**|Thellian Mir|Head of magical filtration, sigil enhancement, and arcane security protocols.|
+|**Scryer-General**|Luthas Dain|Oversees daily programming, ceremonial transmission, and Livecast sponsor placement.|
 
-Internal documents have referenced the ABA as a "quiet ministry of war"—fighting with illusion, omission, and suggestion rather than steel or spell.
-
----
-
-## Criticism and Controversy
-
-The ABA walks a blade’s edge between protection and propaganda.
-
-Common allegations include:
-
-- **Historical Revisionism** – Events shown on GSN do not always match firsthand accounts.
-    
-- **Political Targeting** – Unfavorable guilds or rogue Delvers often suffer from reduced visibility or suspiciously timed technical “failures.”
-    
-- **Narrative Shaping** – Allegations persist that Delver deaths are edited for dramatic effect, or that certain “villainous” figures are fabricated for public excitement.
-    
-
-The **Ghostveil Accord** and **Order of Iron Ascendants** have both called for international audits of the ABA—a demand that has gone unanswered for decades.
+Their offices are backed by layers of censor-mages, linguistic diviners, enchantment stylists, and oath-bound editors.
 
 ---
 
-## Headquarters
+## **Bureaucratic Arms**
 
-**The Arcane Broadcast Spire**, Halvask – A gleaming crystal-and-obsidian tower crowned with a golden ring of perpetual scrying light. Warded by over a hundred arcane seals and home to the Grand Archive, Censorium Halls, and the Vault of Forbidden Castings.
+### **Office of Censorship & Emergency Redaction**
 
-Access requires triple authorization from the ABA’s leadership, the Crown, and the GSN’s Arcane Merchant Board.
+- Deploys **Contingency Glyphs** to cut or alter broadcast feeds mid-transmission.
+    
+- Removes or obscures unsanctioned deific presence, mass deaths, or existential threats.
+    
+
+### **Division of Narrative Oversight**
+
+- Engineers crowd-favorable commentary and guild representation.
+    
+- Works directly with noble PR boards and Guild strategists.
+    
+
+### **Enforcement Wing**
+
+- Operates using **Broadcast Sentinels** empowered to seize unlicensed scry-tech, raid rogue broadcast towers, and issue **Writs of Signal Silence**.
+    
+
+---
+
+## **Secrecy and Control**
+
+The ABA’s greatest strength lies in what it never reveals.
+
+- **The Restricted Archive** – Vaulted far beneath the Spire, said to contain records of gods breaking form, sentient labyrinths, and Delvers who became something more.
+    
+- **The Ten Forbidden Frames** – Lost footage deemed reality-breaking; whispered among archivists like prophecy.
+    
+- **Writs of Erasure** – Ritualized spells capable of removing a Delver's memory footprint across public record and arcane recall.
+    
+
+---
+
+## **Political Influence**
+
+Though masked in bureaucracy, the ABA serves powerful interests:
+
+- **The Crown of Oria** uses it to project unity, suppress revolt, and glorify chosen champions.
+    
+- **The Gilded Pantheon** bankrolls subtle edits and sympathetic portrayals of noble-backed guilds.
+    
+- **The Veilborn Theocracy** publicly opposes ABA overreach, but lacks magical access to compete.
+    
+
+In internal documents, the ABA is referred to as **"the ministry of memory"**.
+
+---
+
+## **Criticism and Controversy**
+
+The ABA’s power is vast—and deeply contested.
+
+- **Allegations of Historical Curation** – Edits to live events rarely match firsthand accounts.
+    
+- **Accusations of Suppression** – Certain guilds or Delvers quietly disappear from rotation.
+    
+- **Fabrication Charges** – The existence of "constructed villains" created solely for spectacle.
+    
+
+The **Ghostveil Accord** and **Order of Iron Ascendants** continue to demand transparency audits. None have succeeded.

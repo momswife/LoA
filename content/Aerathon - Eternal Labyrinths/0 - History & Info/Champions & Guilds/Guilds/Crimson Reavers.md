@@ -7,7 +7,7 @@ ____
 ## **Overview: The Crimson Reavers**
 
 **Motto:** _"The Labyrinth does not judge—only the weak do."_  
-**Headquarters:** **The Reaver’s Hold, Titan Highlands (Unregulated Zone)**  
+**Headquarters:** **The Reaver’s Hold, Titan Highlands (Free Frontier Region)**  
 **Guild Type:** Mercenary Delvers, Bloodsport Gladiators, Rogue Warbands  
 **Notable Members:**
 
@@ -18,100 +18,101 @@ ____
 - **Riven “The Red Fox” Dain** (Tactician, Duelist, and Infamous Artifact Thief)
     
 
-The **Crimson Reavers** are not a guild in the traditional sense—they are a savage warband, a brotherhood of blood-soaked delvers, and a chaos-forged legend among the Labyrinths of Aerathon.
+The **Crimson Reavers** are chaos incarnate—a guild in name only, and a **roaming war-tribe** in spirit. Born from the disenfranchised and the disillusioned, they embrace the brutal truths of the Labyrinths: there are no rules underground. Only those who leave with breath and steel.
 
-Where others seek glory or discovery, the Reavers seek only violence, treasure, and the high of the fight.
-
-- **Mercenaries of Mayhem** – The Reavers accept contracts from anyone—with coin and danger as the only requirements.
+- **Violence as Creed** – The Reavers consider combat a form of worship. Every clash is a hymn.
     
-- **Strength Above All** – Leadership and respect are earned through bloodshed, not title.
+- **Glory Through Chaos** – The more unpredictable the victory, the more respect earned.
     
-- **Reputation by Carnage** – Reavers don’t strategize. They charge, crush, and loot—and audiences love them for it.
+- **Freedom in Blood** – No contracts. No loyalties. Just the moment and the kill.
     
 
-To nobles, they are brutes.  
-To audiences? **Undeniably entertaining.**
+To the noble elite, they are barbarians. To the public? **They are rockstars made of bone and flame.**
 
-____
+---
+
 ## **Structure & Leadership**
 
-The Reavers reject hierarchy in favor of might. If you want to lead—kill the one above you.
+The Crimson Reavers scorn hierarchy. There is only the **Chain of Strength**—a fluid system where position is earned through battle.
 
 ### **Current Chain of Strength**
 
 |**Title**|**Name**|**Notable Deeds**|
 |---|---|---|
-|**Warlord of the Reavers**|Orik “The Bloodmarked”|Defeated the previous Warlord in the Trial of Blades. Keeps his skull on his belt.|
-|**Champion of the Maw**|Vasha the Stormwolf|Survived the Howling Maw solo. Brought back the Shard of Ulkhar.|
-|**The Red Fox (Warband Strategist)**|Riven Dain|Outwitted Argent Banner squads twice. Famously escaped three kill-boxes.|
-|**The Broken Fang**|Kaelos the Unchained|Rose from exile by slaying three rivals in one night with a shattered greataxe.|
-___
-## **What the Crimson Reavers Offer**
+|**Warlord of the Reavers**|Orik “The Bloodmarked”|Claimed leadership in the Trial of Blades. Keeps the skull of his predecessor as a belt ornament.|
+|**Champion of the Maw**|Vasha the Stormwolf|Returned alone from the cursed maw with the Shard of Ulkhar in her chest.|
+|**The Red Fox (Warband Strategist)**|Riven Dain|Escaped three planned extermination events. Outdueled Argent Banner elites on live scry.|
+|**The Broken Fang**|Kaelos the Unchained|Once exiled. Returned by killing three lieutenants with a shattered greataxe.|
 
-To join the Crimson Reavers is to cast off law, duty, and expectation—and to live by your own blade.
+---
+
+## **What the Crimson Reavers Offer**
 
 ### **Guild Benefits**
 
-- **No Laws, No Masters** – The Reavers obey no Delving Authority, noble house, or broadcast guild.
+- **No Oversight** – The Reavers operate outside of Delving Authority law.
     
-- **Keep What You Kill** – All treasure, relics, and spoils belong to the one who claims them.
+- **Claim Rights** – Whatever you kill or find is yours. No questions.
     
-- **Livecast Royalty** – Their violent style earns record-breaking viewership. Many Reavers are cult icons.
+- **Sponsorship via Infamy** – The bloodier the battle, the higher your fan count.
     
-- **Total Freedom** – Leave when you want. Start your own warband. Challenge your boss.
+- **Unshackled Delving** – Choose any labyrinth, any time, without oversight.
     
-- **Infamy as Currency** – The more brutal, wild, and unhinged your victories—the more you rise.
+- **Challenge Culture** – You can challenge leadership at any time. If you survive, the title is yours.
     
 
-But be warned: failure means death. And weakness is punished without mercy.
+But know this: Reavers who falter are forgotten. **Mercy is treason.**
 
-___
+---
+
 ## **Who Joins the Crimson Reavers?**
 
-The Reavers don’t recruit. They **take**.
+The Crimson Reavers are the last stop for the desperate, the damned, and the born-to-burn.
 
-New members are often:
-
-- **Arena Champions & Pit Fighters** – Bred in blood, born for the roar of the crowd.
+- **Pit Fighters & Gladiators** – Battle-forged and unchained.
     
-- **Exiled Soldiers & Disgraced Knights** – Cast out for cruelty or insubordination.
+- **Exiled Soldiers** – Cast out for doing what others couldn't stomach.
     
-- **Bounty Evaders & Blacklisted Delvers** – Wanted criminals who laugh at the law.
+- **Blacklisted Delvers** – Outlaws seeking survival on their terms.
     
-- **Outcast Nobles** – Spoiled scions who chose the thrill of battle over the chains of legacy.
+- **Fallen Nobles** – Rich in blood, poor in restraint.
     
-- **Madmen, Maniacs, and Wanderers** – Those with nothing to lose—and everything to burn.
+- **Wild Souls** – Pyromaniacs, berserkers, thrill-addicts.
     
 
-Your past means nothing to the Reavers. Only your strength matters now.
+The Reavers care not for race, past, or cause. Only what you bring to the next fight.
 
-___
+---
+
 ## **Relationship with Other Governing Bodies**
 
-### **Hunted by the Halvaskian Delving Authority (HDA)**
+### **Tolerated by the Oria Delver Authority (ODA)**
 
-- Considered a rogue faction, yet technically legal due to contractual loopholes.
+- Officially rogue. Technically legal.
     
-- Multiple arrest warrants issued—none enforced within sanctioned Labyrinth zones.
+- Arrest attempts are discouraged within Labyrinth jurisdiction.
     
-- The HDA quietly tolerates them due to their knack for finding powerful relics.
-    
-
-### **Exploited by the Grand Scrying Network (GSN)**
-
-- The GSN thrives on Reaver footage, pushing it to the most daring Livecast slots.
-    
-- Reavers with especially violent reputations are courted by sponsors and product contracts.
-    
-- The Arcane Broadcast Authority (ABA) secretly enhances their visuals with illusionary blood magic.
+- Known to deliver high-value relics—for a high price.
     
 
-### **Bitter Rivals of the Argent Banner**
+### **Fed by the Grand Scrying Network (GSN)**
 
-- The Argent Banner calls them “thugs in armor” and refuses to acknowledge their victories.
+- Reaver footage is a ratings juggernaut.
     
-- The Reavers mock the Banner as "pampered stage-knights."
+- The GSN boosts their bloodshed with illusion glamours and curated scry trails.
     
-- Their conflicts are so dramatic that the GSN arranges _accidental run-ins_ between the guilds for peak viewership.
-____
-_Prepared by the Halvaskian Ministry of Delving Oversight & HDA Licensing Records_
+- Most Reavers have fan clubs. Some have cults.
+    
+
+### **Rivalry with the Argent Banner**
+
+- The Reavers view the Banner as soft puppets of legacy.
+    
+- The Banner sees the Reavers as rabid animals.
+    
+- GSN event clashes between the two are common and often semi-scripted for spectacle.
+    
+
+---
+
+_Prepared by the Oria Ministry of Delving Oversight & The Grand Scrying Network_

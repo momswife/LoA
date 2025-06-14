@@ -1,82 +1,75 @@
 
-## **Overview: Minor Guilds of Aerathon**
+## **Overview**
 
-While the great powers of Aerathon dominate the headlines and enchanted mirrors, dozens of **minor guilds** carve their stories in blood and stone within the Labyrinths. Some are region-bound, others fiercely independent. A few are rising stars—others fading embers. But all are vital threads in Aerathon’s tapestry of delving.
+While the great guilds dominate headlines and scrying networks, it is the **Minor Guilds** that form the true connective tissue of Aerathon’s delving world. These localized, specialized, or eccentric collectives thrive in remote towns, unstable regions, and unclaimed sectors of the Labyrinth frontier.
 
----
+Minor guilds lack the prestige, funding, and international contracts of the majors—but they often boast unparalleled grit, regional loyalty, and strange expertise born of necessity. Many eventually fade into obscurity or get absorbed by larger guilds. Others, however, become legends in their own right.
 
-### > **The Emberjack Cartel**
+## **Categories of Minor Guilds**
 
-**Region:** Emberfen Coast  
-**Type:** Smuggler-Delvers & Salvage Experts  
-**Motto:** _“If it burns, we sell it.”_  
-They specialize in recovering unstable magical tech and selling it to the highest bidder—legal or not. Known to grease both palms and blade edges.
-
----
-
-### > **The Gilded Fang**
-
-**Region:** Eastern Merrowdyn  
-**Type:** Assassin-Guild turned Delver Order  
-**Motto:** _“Strike once. Strike rich.”_  
-A sleek, silent syndicate known for swift, surgical dives. Rumored to “remove” rival parties mid-delve with poisoned smiles.
+|**Type**|**Description**|
+|---|---|
+|**Provincial Crews**|Operate within a single city or frontier zone. Often family-run or tribe-bound.|
+|**Specialist Orders**|Focus on a single Labyrinth type, monster, or relic lineage.|
+|**Outlaw Cells**|Unlicensed or rogue delvers, often evading Guild Law or Oculi sanctions.|
+|**Faithbound Companies**|Devoted to specific gods or prophecies; mix clerical and delving duties.|
+|**Retired-Formed Guilds**|Created by ex-members of major guilds seeking less oversight or revenge.|
 
 ---
 
-### > **Circle of Verdant Descent**
+## Notable Minor Guilds by Region
 
-**Region:** Deepwood Verge  
-**Type:** Druidic Delvers & Eco-Wardens  
-**Motto:** _“The roots remember.”_  
-Delving not for riches, but to seal away what should never be unearthed. Opposes relic harvesting and defends natural anomalies within the Labyrinths.
 
----
+### **Allemance**
 
-### > **The Hollow Pact**
+- **The Embercord Vigil** – A dusk-cloaked crew that guards farmsteads from night breaches. Known for lightward lanterns.
+    
+- **The Whisperflame Knives** – A trickster-aligned guild of fox beastfolk, specialists in puzzle-ruins and false-door delves.
+    
+- **The Archivists of Dust** – Scholars who delve not for relics, but to erase or preserve knowledge.
 
-**Region:** Halvask & Sothmere University  
-**Type:** Arcane Scholars & Research Delvers  
-**Motto:** _“Understanding precedes undoing.”_  
-More interested in what _made_ the Labyrinths than surviving them. Suspected of sealing entire floors for private study.
+### **Vinyot**
 
----
+- **The Uncut Coin Syndicate** – Smugglers turned licensed delvers. Expert in relic laundering and underground contracts.
+    
+- **The Broken Mask Troupe** – A bardic-excavator guild; performs dramatizations of Labyrinth delves before exploring them.
+    
+- **The Second-Ledger Mercantile** – Merchant-run guild focused on recovering trade-sealed vaults.
 
-### > **The Amberbind Assembly**
+### **Arneria**
 
-**Region:** Farhollow Apiary  
-**Type:** Communal Crafters & Support Delvers  
-**Motto:** _“Together, always.”_  
-Every member acts in coordination like a hive. Known for synchronized spells, group-only formations, and unparalleled group buffs. Not dangerous alone—but never alone.
+- **The Thornsworn** – Desert-forged survivalists who specialize in mirage and illusion Labyrinths. Use bone sigils.
+    
+- **Ashwheel Covenant** – A minor Beastfolk-only sect that venerates a local fire spirit said to “birth delves.”
+    
+- **The Chainscour Remnants** – Civic-minded delvers who act as both city judges and contract enforcers.
+    
 
----
 
-### > **Molten Choir**
+### **Al’ar (The Isles)**
 
-**Region:** Ironhold Mountains  
-**Type:** Blacksmith-Warriors & Singing Battle Mages  
-**Motto:** _“Strike true. Sing loud.”_  
-Forge-mages who chant rhythmic spells mid-battle. Their enchanted weapons resonate with their voices—singing as they cleave through stone and steel alike.
+- **Stormwake Pact** – Specializes in aquatic and tide-altered Labyrinths. Famous for dive-breathers and sharktooth blades.
+    
+- **The Nine-Needle Tailors** – Seamstress-delvers who map fabric-based anomalies and weave thread-scroll relics.
+    
+- **The Bone Choir** – Feline bards who believe Labyrinths hum; they resonate back with song-crafted sigils.
+### Oria
 
----
+### **Oria**
 
-### > **Echoes of the Pale**
-
-**Region:** Wraithmar Hollow  
-**Type:** Spirit-Linked Mediums & Necrotic Delvers  
-**Motto:** _“The dead guide the living.”_  
-Often mistaken for cultists, these Delvers commune with the souls trapped in Labyrinths. Some believe their ancestors still fight beside them—others suspect darker pacts.
-
----
-
-### > **The Seamless Thread**
-
-**Region:** Midveil Trade Routes  
-**Type:** Espionage Couriers & Message-Carrying Delvers  
-**Motto:** _“No gap too wide. No thread uncut.”_  
-They run messages, relics, and secrets through Labyrinths others dare not cross. Every member carries embroidered sigils that can be read only by their guild’s Weaveseers.
+- **The Iceworn Lodge** – Ancestral house of delvers from the frostbitten ridges. Known for hunting Labyrinth echoes.
+    
+- **The Barkwatch** – Druid-trained scouts that protect natural entryways from overdelving or corruption.
+    
+- **The Sorrowforge Compact** – A melancholy, curse-bound guild that accepts only doomed delvers seeking a final blaze.
 
 ---
 
+## Rumored & Unconfirmed
+
+**The Black Knot** – Said to reverse-delver—burying relics to "unmake" them.  
+**The Tallowbind Circle** – Allegedly eats memory to bypass Labyrinth puzzles.  
+**The Guild of One** – Believed to be a network of solo delvers all pretending to be the same person.
 ## **Minor Guild Benefits**
 
 These smaller guilds may lack resources, but offer unique advantages:
@@ -92,4 +85,4 @@ These smaller guilds may lack resources, but offer unique advantages:
 - **Hidden Strengths** – Many keep secret relics, rituals, or traditions passed down through generations—jealously guarded.
 
 ____
-_Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  
+_Prepared by the Ministry of Cartographic Delving Affairs & the Free Guild Census Scroll_

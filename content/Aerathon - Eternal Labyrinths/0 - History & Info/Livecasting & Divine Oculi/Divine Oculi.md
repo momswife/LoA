@@ -2,72 +2,73 @@
 ___
 ## Overview
 
-The **Divine Oculi** are sentient-adjacent arcane constructs used by the Grand Scrying Network (GSN) to record, transmit, and monitor live events throughout Aerathon. Appearing as crystalline, floating eyes bound in bands of brass, silver, or shadow-iron, these constructs hover silently across delves, cities, and arenas—ever watching, ever recording.
+**Eyes of the Labyrinth. Witnesses of Fate.**
 
-Revered, feared, and often misunderstood, Divine Oculi are the cornerstone of the GSN’s power and are considered one of the greatest arcane inventions of the 6th Era.
+The **Divine Oculi** are semi-sentient arcane constructs created by the Grand Scrying Network (GSN) to observe, record, and transmit events across Aerathon. Floating as crystalline eyes wrapped in bands of brass, voidmetal, or obsidian silver, these watchful constructs drift silently across delving zones, city thoroughfares, and ritual fields.
 
----
-
-## Description
-
-A typical **Divine Oculus** is a levitating, spherical construct between 1 and 3 feet in diameter. Its central body houses a core crystal—usually **sunstone, voidglass, or dream quartz**—which acts as its visual and auditory receptor. This crystal is surrounded by a metallic exosphere engraved with active glyphwork and inscribed with psionic stabilizers to resist ambient magical interference.
-
-Many Oculi hum faintly when active. Others remain eerily silent. Their coloration may vary depending on origin, purpose, or operator, but all display a flickering central "iris" of pale light when recording.
+They are one of the Sixth Era’s most profound arcane innovations—feared by some, worshipped by others, and essential to the world’s understanding of itself.
 
 ---
 
-## Functionality
+## **Description**
 
-Divine Oculi are enchanted with a unique blend of **divination**, **illusion**, **conjuration**, and **abjuration** magics, allowing them to:
+A Divine Oculus ranges from 1 to 3 feet across, composed of a central crystal core—typically **sunstone**, **voidglass**, or **dream quartz**—encased in a rune-marked exosphere. Glyph-etched rings orbit it, inscribed with psionic stabilizers to negate ambient magical interference.
 
-- **Capture Visual and Auditory Input** – Even through fog, darkness, or arcane interference.
-    
-- **Project Real-Time Feeds** – Transmitting footage to Arcane Relay Towers and then to public viewing stations.
-    
-- **Track Individuals** – They can follow registered Delvers, tagged guild members, or designated political targets.
-    
-- **Auto-Archive Events** – Rare or dangerous events trigger internal "flagging" protocols that immediately create classified archival echoes.
-    
-
-Each Divine Oculus is magically tethered to a controlling operator or relay, although higher-end Oculi—especially “Royal Pattern” or “Seer-Class” models—possess limited autonomous decision-making.
+Most hum quietly when active; some produce a high-pitched resonance audible only to arcane sensitives. All display a flickering iris of pale flame when recording.
 
 ---
 
-## Classification
+## **Functionality**
 
-Oculi vary in type and sophistication depending on use-case:
+Divine Oculi blend divination, illusion, and abjuration magic to perform:
 
-### Common Models:
-
-- **Civic Lens (Type I-IV)** – Standard city or arena observers. Durable, but limited memory.
+- **Omni-Spectral Recording** – Sight and sound capture even through fog, veil magic, or shadow barriers.
     
-- **Delver-Class Oculi** – Equipped with rugged enchantments and minor teleportation glyphs to follow adventuring parties into unstable Labyrinths.
+- **Live Projection** – Footage is sent to Arcane Relay Towers and then dispersed via the GSN.
     
-- **Sponsorship-Linked Oculi** – Customized models used by noble patrons or guilds. Often record from flattering angles and include built-in magical branding.
+- **Tracking & Targeting** – Can follow marked Delvers, relay guild identifiers, and ping spell-encoded individuals.
+    
+- **Event Flagging** – Dangerous or significant moments trigger auto-archiving and flag the footage for ABA review.
     
 
-### Restricted or Specialized Models:
+Higher-tier models are semi-autonomous and capable of evasive maneuvers or emotional reactive filtering.
 
-- **Seer-Class Oculi** – Used in high-stakes events or god-tier delves. Known to exhibit spontaneous reactions and even evasive maneuvers.
+---
+
+## **Classification**
+
+### **Common Models:**
+
+- **Civic Lens (Type I-IV)** – Urban surveillance and arena coverage; stable, limited archives.
     
-- **Inquisitor Lenses** – Deployed by enforcement agents of the Arcane Broadcast Authority. Not only record—but detect lies, identify concealed spells, and interface with truth-forcing enchantments.
+- **Delver-Class Oculi** – Enchanted to survive labyrinth pressure, warpfields, and rough travel.
     
-- **The Eye Eternal (Oculus Primis)** – A legendary prototype rumored to be the first Divine Oculus ever made. Said to still be operational—and perhaps sentient—deep in the heart of the Broadcast Spire.
+- **Sponsorship-Linked Oculi** – Customized by guilds or nobles for specific Delver parties. Include magical branding and filters.
+    
 
-____
+### **Restricted & Specialized:**
 
-## Brief History
+- **Seer-Class Oculi** – Used in unstable realms or divine proximity. Known to "choose" shots.
+    
+- **Inquisitor Lenses** – Equipped with lie-detection sigils and truth-forcing interfacing. Operated only by the ABA.
+    
+- **The Eye Eternal** – Allegedly the first and most ancient Oculus, sealed in the depths of the Broadcast Spire. Some say it still records... and judges.
+    
 
-### Origin: The Watcher’s Accord (Late 6th Era)
+---
 
-Divine Oculi were first conceptualized by **Archmagus Ellus Vaern**, a Halvaskian scholar of scrying and dream-anchoring, who envisioned a neutral eye that could observe events without distortion. Originally intended for academic surveillance and ritual oversight, the Oculi were repurposed following the Nameless Labyrinth's arrival.
+## **Origins & History**
 
-The **Watcher’s Accord**, signed between the Arcane Merchant Consortium and the Halvaskian Crown, authorized the expansion and militarization of Oculi as tools of public safety and propaganda.
+### **The Watcher's Accord (Late Sixth Era)**
 
-By the dawn of the 7th Era, Divine Oculi had become standard fixtures in both civic spaces and the most dangerous delving zones.
+Originally theorized by **Archmagus Ellus Vaern**, the Divine Oculi were born from the idea of unbiased magical observation. Intended for ritual observation and planar research, they were rapidly repurposed after the emergence of early Labyrinth phenomena.
 
-## Access and Control
+The **Watcher’s Accord** between the Arcane Merchant Consortium and the Allemance Crown led to the mass production and deployment of Oculi across Aerathon, shaping both state control and public consciousness.
 
-Only **licensed scry-technicians**, ABA officials, or approved noble patrons may interface with Divine Oculi. Unauthorized access is punishable by **Leyline Interdiction**—a magical brand that disables future broadcast interaction and may affect spellcasting fidelity.
+---
 
-All Divine Oculi are warded against tampering. Attempting to break or overwrite one often results in explosive magical backlash.
+## **Access & Control**
+
+Only **licensed scry-techs**, approved **ABA operatives**, or **guild-certified nobility** may command or interface with a Divine Oculus. Unauthorized users may face **Leyline Interdiction**, a binding curse that nullifies broadcast presence and destabilizes spellcasting matrices.
+
+Tampering with or destroying an Oculus without clearance typically results in **magical backlash**, memory fracture, or recursive scrying loop entrapment.

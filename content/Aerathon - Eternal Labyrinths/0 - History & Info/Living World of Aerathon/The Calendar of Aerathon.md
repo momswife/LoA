@@ -1,75 +1,87 @@
-> _"Time is not merely a march of days, but the breath of Aerathon itself."_
+> *“Time is the guild’s tightest leash—and the Labyrinth's loosest noose.”*
 
 ___
-## STRUCTURE OF THE YEAR
+## Overview
 
-- **360 days per year**
-    
-- **10 Months** — Each with **36 days**
-    
-- **6 Weeks per Month** — Each week has **6 Days**
-    
-- **5 Days of Reckoning** — Outside the standard calendar
-    
+The Aerathonian calendar is a standardized reckoning of time shared across all major regions of the known world. Established after the first wave of Labyrinth incursions, it aligns celestial movement, delver activity, seasonal shifts, and divine festivals. While older kingdoms kept region-specific cycles, the modern calendar enables synchronized delver tournaments, multi-realm sponsorship broadcasts, and the casting of powerful time-tethered magic.    
 
 ---
 
-## MONTHS OF AERATHON
+### **Structure of the Year**
 
-|Month|Season|Influence|
-|---|---|---|
-|Dawnfire|Early Spring|Renewal, planting, return of sunlight|
-|Stormwake|Late Spring|Storms, floods, volatile magic|
-|Verdantwane|Early Summer|Growth, fertility, wild abundance|
-|Suncrest|High Summer|Heat, strength, celebration|
-|Emberwane|Late Summer|Cooling winds, first harvests|
-|Ashenfall|Early Autumn|Change, fading light, spiritual stirrings|
-|Duskrun|Late Autumn|Long nights, twilight rituals|
-|Frostwane|Early Winter|Cold, snow, closing trade routes|
-|Veilnight|Deep Winter|Stillness, longest night, spiritual silence|
-|Starwake|Late Winter|Prophecy, dreams, stars foretell the new year|
+- **Year Length:** 360 days
+    
+- **Months:** 12
+    
+- **Days per Month:** 30
+    
+- **Weeks per Month:** 5
+    
+- **Days per Week:** 6
 
----
+## Months of the Year
+
+| Month          | Season       | Significance                                      |
+| -------------- | ------------ | ------------------------------------------------- |
+| **Glintwane**  | Early Winter | The start of the year, time of resolve and vows   |
+| **Frostreach** | Mid Winter   | Reflection, endurance, path planning              |
+| **Embermarch** | Late Winter  | First delves begin, ice festivals thaw            |
+| **Bloomtide**  | Early Spring | Rebirth, planting, divine processions             |
+| **Goldgrove**  | Mid Spring   | Youthful games, magic rites, love feasts          |
+| **Brightmoor** | Late Spring  | Time of clarity, invention, labyrinth scouting    |
+| **Highsun**    | Early Summer | Guild wars, ranked delves, peak magic             |
+| **Ashvale**    | Mid Summer   | Burning trials, arena tournaments, reckoning      |
+| **Redfall**    | Late Summer  | Trade fairs, bonds reforged, trickster revels     |
+| **Duskrend**   | Early Autumn | Shadow rites, veil ceremonies, Labyrinth shrines  |
+| **Hearthwane** | Mid Autumn   | Reunion feasts, oath renewals, communal warmth    |
+| **Snowturn**   | Late Autumn  | Year’s end, divine reckonings, burial observances |
 
 ## DAYS OF THE WEEK — "TURNS"
 
-| Day       | Domain | Meaning & Use                  |
-| --------- | ------ | ------------------------------ |
-| Sunturn   | Light  | Temples, rulers, beginnings    |
-| Moonturn  | Magic  | Rituals, arcana, visions       |
-| Tidesturn | Water  | Travel, commerce, tides        |
-| Earthturn | Nature | Rest, family, land-based rites |
-| Flameturn | Fire   | Combat, passion, forging       |
-| Veilturn  | Shadow | Secrets, omens, illusions      |
+|Day|Common Associations|
+|---|---|
+|**Dawnsday**|Beginnings, travel, initiations, contracts|
+|**Moonsday**|Magic, mysteries, rest, research|
+|**Wardsday**|Protection, city politics, guild audits|
+|**Firesday**|Combat, training, declarations, crafts|
+|**Gildsday**|Commerce, deals, guild reports, lab broadcasts|
+|**Veilsday**|Worship, remembrance, death, divine rites|
+
+### **Common Measurements of Time**
+
+|Unit|Definition|
+|---|---|
+|**Tick**|~1 minute (used in spells and Arcanet)|
+|**Mark**|1 hour|
+|**Turn**|6 hours (used for watch rotations)|
+|**Span**|1 day|
+|**Cycle**|30 days (a month)|
+|**Wreath**|360 days (a year)|
+
 
 ---
 
-## THE DAYS OF RECKONING
+### **Special Observances & Delver Events**
 
-(Occur between Starwake and Dawnfire)
+- **The Day of First Descent** – _Embermarch 1st_  
+    Anniversary of the first known Labyrinth breach. Celebrated with bonfires and symbolic mock-delves.
+    
+- **The Gilded Reckoning** – _Highsun 15th–20th_  
+    Guild tournaments, livecasted delve contests, and public sponsor auctions. Widely viewed event.
+    
+- **Twilight Wake** – _Duskrend 30th_  
+    A solemn night where delvers leave tokens for those lost in The Labyrinths.
+    
+- **The Veiled Assembly** – _Veilsday of Snowturn's final week_  
+    A worldwide religious observance wherein clerics of the D&D pantheon perform public miracles, blessings, and warnings.
 
-| Day                | Significance                                     |
-| ------------------ | ------------------------------------------------ |
-| Day of Remembrance | Honoring the dead; spirits walk the earth        |
-| Day of Trials      | Challenges of strength and fate                  |
-| Day of Shadows     | Omens of doom; entrance to the Eternal Labyrinth |
-| Day of Echoes      | Prophetic silence; words shape destiny           |
-| Day of Rebirth     | Letting go; awaiting the dawn of a new year      |
 
----
+### **Temporal Magic & Calendrical Rites**
 
-## LUNAR PHASES OF VEYNA
+- _Chronoscribes_ and _Timebinders_ are respected delver roles tasked with maintaining accurate field calendars, especially during long delves in time-warped Labyrinths.
+    
+- The **Divine Oculi** regulate “blessed” dates on which certain delves are sanctioned, and others are cursed to avoid.
+    
+- Major guilds often enchant their calendar stones to update magically with celestial motion and labyrinthic shifts.
 
-(Each phase spans 6 days in a month)
-
-| Phase         | Influence                              |
-| ------------- | -------------------------------------- |
-| New Moon      | Secrets, shadow magic, stealth         |
-| Crescent Moon | Trickery, beginnings, rogue’s luck     |
-| Half Moon     | Balance, treaties, justice             |
-| Gibbous Moon  | Growth, healing, elemental enhancement |
-| Full Moon     | Revelation, prophecy, clarity          |
-| Waning Moon   | Endings, hauntings, curses unravel     |
-
-___
-_Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  
+____

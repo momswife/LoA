@@ -3,66 +3,75 @@
 ___
 ## Overview
 
-The **Arcanet Core** functions as a magical superconstruct—a semi-sentient system of crystalline minds, ethereal algorithms, and reality-threaded networks. It is housed deep within the **Hall of Ascendancy** in the floating city of Halvask, where its glowing lattice of Aetherglass pulses with every deed reported from the Labyrinths.
+**The Machine That Watches. The Pulse Beneath the Stone.**
 
-It is the **official authority** for assigning adventurer rankings from **D-Rank to S-Rank**, removing all human bias from the process.
-____
-## How It Works
+The **Arcanet Core** is an ancient, semi-conscious magical superconstruct composed of crystalline minds, soul-woven threads, and reality-bonded logic arrays. Suspended deep within the **Hall of Ascendancy** in Oria, the Core pulses with quiet judgment, silently analyzing every Delver's path through the Labyrinths.
 
-#### **Action Echoing**
+It is the official authority for assigning Delver rankings from **D-Rank to S-Rank**, trusted to strip away bias, favor, or deception. While once assumed to be a tool, most now believe the Core has its own standards—and perhaps, a will.
 
-Whenever an adventurer completes a task within a registered Labyrinth, their actions create **echoes in the weave of fate**—traces that the Core can perceive. These echoes include:
+---
 
-- Slain monster auras
-    
-- Triggered magical events
-    
-- Activated sigils and traps
-    
-- Use of divine, arcane, or natural magic
-    
-- Combat style, efficiency, and flair
-    
-- Party cooperation or betrayal
-    
+## **How It Works**
 
-These data points are relayed by a web of **Scrying Beacons** and **Fatemarked Anchors** scattered across every sanctioned dungeon and labyrinth.
+### **Action Echoing**
 
-#### **Calculative Judgement**
+Every move within a sanctioned Labyrinth sends ripples through the Weave. These “echoes” are captured by a lattice of **Scrying Beacons** and **Fatemarked Anchors** embedded deep in the stone and soul of the realms.
 
-Once a mission concludes or an adventurer leaves a Labyrinth, the Arcanet Core automatically:
+Echoes include:
 
-- Tallies total XP-equivalent energy detected
+- Slain monster auras and expended magical effects
     
-- Calculates impact on local anomalies (did you close a portal? free a trapped spirit? anger a sleeping god?)
+- Triggered traps, sigils, divine invocations, and relic usage
     
-- Reviews crowd reactions via Livecast sync (yes, public opinion affects flair scores!)
+- Party synergy, betrayals, recoveries, and decision-making
     
-- Cross-references other adventurers’ performance on similar floors
+- Patterns of heroism, cowardice, restraint, or excess
     
 
-Each action is graded with a combination of **Merit Points**, **Chaos Risk**, and **Valor Weight**.
+These traces are relayed to the Core in real-time.
 
-#### **Rank Assignment**
+### **Calculative Judgment**
 
-The adventurer's total [[The Merit Index - Rankings of Aerathon | Merit Profile]] determines their rank. A simple outline:
+At the end of each delve—or upon death—the Core processes:
 
-| Rank | Required Core Score | Reputation Threshold | Notable Feats                                                            |
-| ---- | ------------------- | -------------------- | ------------------------------------------------------------------------ |
-| S    | 950+                | Mythic               | Slayer of a Dungeon God, Labyrinth Champion, Multiversal Anomaly Sealant |
-| A    | 750–949             | Revered              | Beat elite labyrinths, rescued guilds, bested named monsters             |
-| B    | 500–749             | Known                | Successful clearings, frequent survival, mid-level bosses                |
-| C    | 300–499             | Local                | Minor clears, decent teamwork, utility                                   |
-| D    | 100–299             | Novice               | Survived a labyrinth floor, displayed potential                          |
-
-While the Arcanet Core heavily relies on **live calculations**, it also offers **Ascendancy Trials**—a series of simulated Labyrinth challenges created from **memory-encoded echoes of past floors**. These allow new or stagnant adventurers to attempt ascension via trial.
-
-These tests:
-
-- Mimic real labyrinth dangers
+- **Energetic Footprint**: XP-equivalent patterns based on magic use, challenge overcome, and survival likelihood
     
-- Are graded instantly
+- **Relic and Threat Impact**: Did the Delver seal a breach? Remove a cursed item? Anger a slumbering deity?
     
-- Are watched live, but only by officials
+- **Audience Imprint**: Livecast reactions are cross-weighted against flair and ethics
     
-- Award a temporary rank that lasts 30 days if passed
+- **Historical Comparison**: Benchmarked against similar delves and known anomalies
+    
+
+Each outcome results in adjustments to the Unified Delving Merit Index (UDMI).
+
+---
+
+## **Rank Assignment**
+
+|**Rank**|**Core Score Range**|**Reputation Status**|**Notable Feats**|
+|---|---|---|---|
+|S|950+|Mythic|Defeated Labyrinth Lords, sealed extradimensional threats, divine interaction|
+|A|750–949|Revered|Triumphed in unstable delves, commanded teams, slain elite threats|
+|B|500–749|Recognized|Cleared stabilized Labyrinths, shown consistent strategic survival|
+|C|300–499|Known|Contributed meaningfully to teams, survived multiple floors|
+|D|100–299|Novice|Completed a floor or showed unique potential under stress|
+
+---
+
+## **Ascendancy Trials**
+
+For those seeking to rise in rank without public delves—or those whose fame lags behind skill—the Core offers **Ascendancy Trials**: memory-coded recreations of previous Labyrinth challenges.
+
+These:
+
+- Replicate real labyrinth hazards from Core-recorded memories
+    
+- Are graded instantly upon completion
+    
+- Offer temporary rank advancements if passed (30-day probationary rank)
+    
+- Are only viewable to MDO officials and divine auditors
+    
+
+They are seen by many as the truest test of a Delver’s merit: **no audience, no glory, only the Core.**

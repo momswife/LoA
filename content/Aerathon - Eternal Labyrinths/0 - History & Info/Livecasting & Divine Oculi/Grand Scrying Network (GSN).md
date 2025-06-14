@@ -2,99 +2,94 @@
 
 ___
 
-## Overview
+**The Lens of the Realm. The Stage of Legend.**
 
-The **Grand Scrying Network (GSN)** is Aerathon’s most influential arcane communication and entertainment system, responsible for the real-time broadcasting of Delver expeditions, state declarations, gladiatorial combat, magical performances, and major public events. It is a marvel of arcane engineering and an emblem of the modern Broadcast Era—where fame, politics, and peril intermingle under the watchful eyes of the world.
+The **Grand Scrying Network (GSN)** is Aerathon’s most powerful arcane media apparatus—a vast system of magical relay towers, enchanted mirrors, and Divine Oculi that deliver real-time coverage of delving expeditions, political declarations, ritual duels, and more. It is the force behind the **Livecast Age**, where survival, celebrity, and spectacle converge.
 
-Founded during the latter years of the Sixth Era, the GSN began as a mage-to-mage relay system and has since become a sprawling international consortium of broadcasters, artificers, nobles, and bureaucrats. While its reach is global, its heart lies in the towers of Halvask.
-
----
-
-## Purpose and Reach
-
-Though originally built for rapid magical communication, the GSN now serves a dual purpose: mass communication and mass spectacle. It is both the lens through which Aerathon views itself and the stage upon which its greatest and most tragic stories unfold.
-
-**Primary Uses:**
-
-- **Delver Livecasts** – Real-time footage of adventurers braving the Labyrinths, complete with magical overlays, commentary, and public betting.
-    
-- **State Broadcasts** – Used by sovereigns and magistrates to issue proclamations, mobilize troops, or stage public rituals.
-    
-- **Combat & Sport** – Gladiatorial games, duels of honor, and spellcasting tournaments are all major draws.
-    
-- **Private Contracts** – Wealthy patrons may pay for exclusive access to restricted events or covert surveillance.
-    
+Founded in the twilight of the Sixth Era and reaching its current scale in the early Seventh, the GSN now spans every continent. Though once headquartered in Halvask, its command and core operations are now centered in **Oria**, within the radiant pinnacle of the **Broadcast Spire**.
 
 ---
 
-## Infrastructure and Operation
+## **Purpose and Reach**
 
-The GSN functions through a complex network of arcane constructs and broadcast points:
+The GSN bridges two worlds: it is both **a mirror to truth** and **a canvas of illusion**. Originally forged for magical correspondence, it now shapes entire generations through its influence.
 
-- **Divine Oculi** – Floating crystal-like scrying constructs that record and transmit real-time events. Many are semi-autonomous and guided by arcane protocols.
-    
-- **Arcane Relay Towers** – Massive spires that channel and amplify scryed content, relaying it across Aerathon through leylines.
-    
-- **Viewing Mediums** – Enchanted mirrors, projection glyphs, and scrying orbs allow citizens to witness events at home, in public squares, or within noble keeps.
-    
+### **Primary Uses:**
 
-Access to GSN footage is tiered, with public broadcasts differing significantly from those granted to nobles, guild patrons, or scholars with the proper clearance.
+- **Delver Livecasts** – Dynamic coverage of Labyrinth dives, layered with arcane overlays, stat trackers, and public favor metrics.
+    
+- **State Rituals & Declarations** – Sovereigns use the network for coordinated messaging, coronations, and divine offerings.
+    
+- **Spectacle Events** – From magical duels to multi-guild war games, broadcasted conflict is both culture and economy.
+    
+- **Private Commissions** – Nobles, guilds, and criminal lords often pay for exclusive feeds, sometimes bypassing official review.
+    
 
 ---
 
-## Governance
+## **Infrastructure and Function**
 
-The GSN is not an independent entity, but a carefully regulated coalition overseen by the **Arcane Broadcast Authority (ABA)** and enforced through binding accords with the Halvaskian Crown.
+The GSN operates on a multi-tiered architecture of arcane relay systems:
 
-**Key Oversight Figures:**
-
-- **Lord Adrivane Elsith**, High Minister of Communications – Handles censorship, emergency broadcasts, and narrative control.
+- **Divine Oculi** – Sentient-adjacent constructs that record events through scry-anchored perception, reacting to magic, combat, and divine phenomena.
     
-- **Thellian Mir**, Archmagus of Transmission – Oversees the magical infrastructure and artifact security.
+- **Arcane Relay Towers** – These rune-forged pylons amplify and weave footage through leyline grids across Aerathon.
     
-- **Luthas Dain**, Scryer-General of Public Viewings – Manages public displays, noble access, and sponsor coordination.
+- **Viewing Mediums** – Scrying mirrors, echo-orbs, wall glyphs, and mind-tuned familiars allow access from village taverns to noble theaters.
     
 
-All transmissions pass through a delay ward allowing for content moderation and emergency concealment. Archives of censored footage are stored within the **Grand Vault of Halvask** under maximum arcane security.
+Access is highly stratified—public displays are curated, while nobility, sponsors, and authorized researchers can purchase unredacted, real-time feeds.
 
 ---
 
-## Economics and Influence
+## **Governance**
 
-With the rise of Livecasting, the GSN has become a billion-gold industry, rivaling some nations in wealth and influence.
+Though sprawling, the GSN operates under the tight control of the **Arcane Broadcast Authority (ABA)**. This body regulates content, licenses scry-tech, and enforces narrative policy.
 
-**Primary Backers Include:**
+### **Principal Overseers:**
 
-- The Halvaskian Crown
+- **Lord Adrivane Elsith**, High Minister of Communications – Oversees narrative framing and censorship execution.
     
-- The Arcane Merchant Consortium
+- **Thellian Mir**, Archmagus of Transmission – Safeguards magical signal integrity and network resilience.
     
-- The Gilded Pantheon (Noble Syndicates)
-    
-- Underground Betting Rings and Criminal Networks
+- **Luthas Dain**, Scryer-General – Curates public programming and handles sponsorship adjudication.
     
 
-Delvers who perform well may receive direct sponsorship, magical equipment, and fame beyond imagining. Others serve only as cautionary tales—or forgotten tragedies lost in the feed.
+Their decisions are reinforced by Contingency Glyphs, emergency redactions, and secretive archives.
 
 ---
 
-## Controversy and Criticism
+## **Economics and Cultural Impact**
 
-Despite its prestige, the GSN is not without its detractors. Common concerns include:
+Now one of the largest economic engines in Aerathon, the GSN shapes not only wealth but belief.
 
-- **Exploitation of Delvers** – Especially low-ranked or independent ones, who face lethal odds for public amusement.
+- **Sponsorship Wars** – Guilds and nobles vie for screen time, building Delvers into global icons.
     
-- **Narrative Engineering** – Select Delvers are suspected of receiving clandestine advantages or being portrayed unfairly.
+- **Public Betting Markets** – Labyrinth outcome wagers influence entire local economies.
     
-- **Ethical Violations** – Rumors persist that some Oculi have recorded forbidden magics, divine phenomena, or mind-breaking horrors—then sealed the footage forever.
+- **Merit Influence** – Performance in the GSN affects ranking systems, like the UDMI, and sways recruitment and policy.
     
 
-Religious orders like the **Veilborn Theocracy** and militant purists such as the **Order of Iron Ascendants** have formally condemned the GSN’s existence, citing it as a desecration of the Labyrinths and a symptom of Aerathon’s moral decay.
+Backers include the **Gilded Pantheon**, **Arcane Merchant Consortium**, and even rogue interests seeking influence through spectacle.
+
+___
+## **Criticism and Controversy**
+
+Despite its prestige, the GSN has drawn intense scrutiny:
+
+- **Exploitation Allegations** – Independent Delvers often receive little protection or pay, despite high mortality.
+    
+- **Narrative Tampering** – Recasting events or crafting heroic or villainous personas from edited footage.
+    
+- **Forbidden Recordings** – Rumors persist that some Oculi have captured divine apparitions or living nightmares, now locked in vaults.
+    
+
+Groups like the **Order of Iron Ascendants** and the **Ghostveil Accord** continue to demand transparency reforms—but none have succeeded in piercing the ABA’s veil.
 
 ---
 
-## Headquarters
+## **Headquarters**
 
-**Arcane Broadcast Spire** – Central District, Halvask
+**The Broadcast Spire**, Oria – A towering edifice of shifting crystal and bound echoes, home to the ABA, GSN coordination relays, and the Vault of Sealed Sight. Access is tightly restricted, requiring tripartite magical credentials and Crown-sanctioned intent.
 
-A towering crystalline structure etched with leylines and guarded by elite arcanists. Home to the primary control nexus of the GSN, the ABA council chambers, and the Grand Archive of Broadcasts. Public tours are forbidden without royal charter or noble sponsorship.
+Its topmost chamber—**The Ocular Throne**—is where the highest feeds converge, watched only by those who shape the fate of the world.

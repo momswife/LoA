@@ -1,105 +1,108 @@
 > "For those with no banners, no bonds, and no second chances."
 ___
-![[00f66285-8746-4377-a401-a631084177f6.webp]]
+![[e062b816-e700-4307-bad5-91ef7bb1e809.png]]
 ## **Overview: The Free Company of Stalwart Souls**
 
 **Motto:** _"We go together, or we don’t go at all."_  
-**Headquarters:** **The Rusted Lodge, Delver’s Row, West Halvask**  
+**Headquarters:** **The Rusted Lodge, Delver’s Row, Outer Ward of Oria**  
 **Guild Type:** Open-Entry Delver Collective, Refuge for the Disgraced, Last Hope Brotherhood  
-**Notable Members:** _No single leader; governed by rotating elder council._
+**Notable Members:** _No official leader; governed by a rotating council of veterans._
 
-The **Free Company of Stalwart Souls** is the ragged banner under which the forgotten gather. Formed not of nobles or legends, but of survivors and outcasts, the Stalwart Souls offer one thing no other guild will:
+The **Free Company of Stalwart Souls** stands as a bastion for the broken—a gathering of delvers, exiles, and wounded souls who fight not for fame or relics, but for **redemption and survival**. Formed in the wake of the Age of Collapse, the Company opened its doors to those cast aside by more prestigious guilds.
 
-**A second chance.**
-
-- **All Are Welcome** – Regardless of past failures, betrayals, or broken oaths.
+- **Forged in Failure** – Where others see weakness, they see the will to get back up.
     
-- **Grit Before Glory** – No Livecast enhancements, no gilded gear—just the will to endure.
+- **Unity Through Struggle** – No one delves alone. Every hand matters.
     
-- **Brotherhood of the Broken** – Every member understands one truth: they are stronger together, or not at all.
+- **Legacy of the Lost** – They honor the fallen more than the victorious.
     
 
-Where others seek prestige, the Free Company seeks **survival**.
+Where the Argent Banner sells legend, the Free Company **lives truth.**
 
 ---
 
 ## **Structure & Leadership**
 
-The Free Company operates through consensus and community, not command. No single hero leads it—just a group of weary veterans trying to keep others alive.
+The Free Company follows no grand chain of command. Instead, it is guided by those who remain and those who remember.
 
 ### **Council of Elders**
 
 |**Title**|**Name**|**Role**|
 |---|---|---|
-|**Guild Quartermaster**|Keldrin “Half-Dead” Rusk|Maintains supplies, oversees armory lending.|
-|**Expedition Coordinator**|Darla “Iron-Fangs” Velmire|Assigns contracts and forms squads.|
-|**Vault-Keeper**|Hargun “Coin-Cutter” Fisk|Handles treasure splits and dispute resolution.|
-|**Scribe of the Lost**|Jessa the Silent|Records the fallen in the Guild Ledger.|
-___
-## **What the Free Company Offers**
+|**Guild Quartermaster**|Keldrin “Half-Dead” Rusk|Maintains armory and survival kits.|
+|**Expedition Coordinator**|Darla “Iron-Fangs” Velmire|Assigns delves and tracks missing delvers.|
+|**Vault-Keeper**|Hargun “Coin-Cutter” Fisk|Oversees shares, debts, and fair division.|
+|**Scribe of the Lost**|Jessa the Silent|Maintains the Namesong Ledger of the Fallen.|
 
-They offer no glory, but they offer **something rarer**—_belonging_.
+---
+
+## **What the Free Company Offers**
 
 ### **Guild Benefits**
 
-- **No Entry Requirements** – If you can walk and hold a blade, you can sign the charter.
+- **No Entry Test** – If you can stand, you can join.
     
-- **Solo Delver Pairing** – Matchmaking for those without a team.
+- **Survivor Pairing** – Solo delvers are grouped based on risk profiles.
     
-- **The Rusted Lodge** – A battered safe haven of warmth, ale, and survival stories.
+- **The Rusted Lodge** – A home for the weary, offering beds, meals, and listening ears.
     
-- **Free Equipment Loans** – Worn weapons and armor available for those with nothing.
+- **Armory Access** – Basic equipment provided free to newcomers.
     
-- **Minimal Dues** – Most of the treasure stays with the Delver. The guild takes only what it must.
+- **Death Rites** – Every delver lost is remembered with song, stone, and story.
     
-- **Remembrance Rites** – All who fall are named and honored, even if no one else remembers them.
+- **Fair Share Policy** – Guild dues are minimal. No relic tax unless voluntarily offered.
     
 
 ---
 
 ## **Who Joins the Free Company?**
 
-The Free Company is a fellowship of the fallen and the forsaken.
+The broken. The haunted. The hopeful.
 
-- **Abandoned Delvers** – Left for dead by former comrades.
+- **Betrayed Delvers** – Survivors of abandoned teams.
     
-- **Failed Expeditioneers** – The ones who came back, alone.
+- **Failed Seekers** – Those who returned alone from cursed delves.
     
-- **Disgraced Nobility** – Outcasts stripped of name and honor.
+- **Exiles & Fallen Nobles** – Outcasts clinging to purpose.
     
-- **Criminals on the Mend** – Ex-thieves, deserters, and debt-duelers hoping for redemption.
+- **Redemption-Seekers** – Ex-criminals hoping to right past wrongs.
     
-- **Survivors with Scars** – The broken who carry the weight of the Labyrinth in their eyes.
+- **Trauma-Bound Wanderers** – Carriers of scars both visible and not.
+    
 
-___
+The Company does not promise greatness. Only **one more try.**
+
+---
+
 ## **Relationship with Governing Bodies**
 
-### **Halvaskian Delving Authority (HDA) – Barely Tolerated**
+### **Oria Delver Authority (ODA)**
 
-- Seen as a holding pen for unrefined Delvers.
+- Viewed as a liability but tolerated.
     
-- Granted minimal support and no priority access.
+- Given clearance for high-risk delves no one else wants.
     
-- Occasionally used to “clear out” risky Labyrinth sectors without risking elite assets.
+- Sometimes used as a political scapegoat during labyrinth collapses.
     
 
-### **Grand Scrying Network (GSN) – Beloved Underdogs**
+### **Grand Scrying Network (GSN)**
 
-- Their expeditions are chaotic, tragic, and compelling—perfect for Livecast ratings.
+- Fan-favorite underdogs. Raw, unedited footage drives emotional engagement.
     
-- GSN editors rarely censor Free Company failures, but do highlight surprise victories.
+- Their tragedies resonate; their victories inspire.
     
-- Some Delvers become accidental celebrities—like Jarrik the Madman, who survived eight dives with a shovel.
+- Occasional "Survivor Spotlights" feature members who overcame impossible odds.
     
 
 ### **Disdain from the Argent Banner**
 
-- Mocked as “scrap metal with a name.”
+- Mocked as the "scrapheap of delving."
     
-- The Argent Banner refuses to share expeditions with them.
+- The Banner refuses to co-delver with Free Company squads.
     
-- The Free Company responds simply: _“We survive. You pose.”_
+- The Company’s reply: _"When the walls fall, we don’t need an audience to pull you out."_
     
 
 ---
-_Prepared by the Halvaskian Ministry of Delving Oversight & Grand Scrying Network Intelligence Division_
+
+_Prepared by the Oria Ministry of Delving Oversight & Grand Scrying Network Intelligence Division_

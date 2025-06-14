@@ -4,97 +4,95 @@ ___
 
 ## Overview
 
-The **Ministry of Delving Oversight (MDO)** is the authoritative body responsible for the regulation, administration, and ethical governance of Aerathon’s adventuring class. While the Grand Scrying Network captures the spectacle, the MDO enforces the rules behind the curtain—ensuring that Labyrinth exploration, adventurer ranking, guild certification, and relic retrieval are conducted in accordance with law, treaty, and arcane protocol.
+**Arbiters of Glory. Wardens of Order.**
 
-Operating from within the marble-and-bronze halls of the **Sanctioned Delver Tribunal** in Halvask, the MDO is a sprawling bureaucratic engine that blends martial authority, academic precision, and cold administrative power.
+The **Ministry of Delving Oversight (MDO)** stands as Aerathon’s central authority for the regulation, certification, and enforcement of lawful delving conduct. While the GSN broadcasts glory and spectacle, the MDO safeguards ethics, structure, and the balance of power behind the scenes.
 
----
-
-## Function and Purpose
-
-The Ministry was created during the early years of the 7th Era, following the rise of widespread Labyrinth appearances and the uncontrolled surge of unlicensed Delver activity. Its charter was ratified by the Labyrinth Accord, binding major realms to a unified code of delving conduct.
-
-### Primary Responsibilities:
-
-- **Rank Certification and Review** – Maintains and updates the standardized **S-Rank to D-Rank Adventurer System** using metrics harvested through the Arcanet Core.
-    
-- **Guild Licensing and Audits** – Approves the formation, operation, and dissolution of Delver guilds. Ensures compliance with sponsorship laws and alliance treaties.
-    
-- **Labyrinth Ethics Enforcement** – Investigates claims of sabotage, unlawful kills, relic smuggling, and breaches of conduct within delves.
-    
-- **Field Deployment & Emergency Mobilization** – Coordinates elite adventurers for crises such as monster breaches, corrupted zones, or divine fallout events.
-    
+Formed after the collapse of Halvask and the rise of guild-led sovereignty, the MDO now operates from the **Sanctioned Delver Tribunal** in **Oria**. It is a towering institution of marble and rune-iron, where valor is weighed against consequence.
 
 ---
 
-## Structure and Divisions
+## **Function and Purpose**
 
-The MDO is divided into highly specialized branches, each staffed with a mixture of civil bureaucrats, former Delvers, field agents, and arcane analysts.
+The MDO’s founding charter, known as the **Delver Accord**, unified the realms’ scattered laws into a singular code of delving conduct.
 
-### Key Divisions:
+### **Core Responsibilities:**
 
-- **The Arcanet Core Office**  
-    Manages the integration of scryed footage, Divine Oculi data, and Labyrinth metrics into the magical construct known as the **Arcanet Core**. Issues promotions, suspensions, and accolades based on performance benchmarks.
+- **Merit Index Governance** – Oversees and certifies rankings via the Unified Delving Merit Index (UDMI), with data sourced from the Arcanet Core.
     
-- **The Office of Guild Integrity**  
-    Investigates and mediates disputes between guilds, manages inter-party ceasefire laws, and authorizes lawful PvP encounters when necessary.
+- **Guild Licensing & Audit** – Approves guilds, enforces sponsor transparency, and investigates fraudulent claims.
     
-- **The Delver Tribunal Council**  
-    A panel of five veteran Delvers-turned-judges who issue binding decisions on ethical cases, criminal delving activity, and appeals for ranking disputes.
+- **Labyrinth Ethics Oversight** – Tracks delver-on-delver conflict, relic smuggling, and violations of sacred sites.
     
-- **The Office of the Broken Oath**  
-    A secretive internal affairs unit tasked with rooting out corruption, unlicensed artifact distribution, and blacklisted Labyrinth anomalies.
+- **Emergency Field Deployment** – Mobilizes ranked Delvers for realm-level crises and sanctioned countermeasures.
     
 
 ---
 
-## The Ranking System
+## **Departments and Jurisdiction**
 
-The MDO is the formal authority behind the **S-Rank to D-Rank classification**, accepted across Aerathon as the universal measure of Delver capability and influence.
+### **Key Divisions:**
 
-- **S-Rank** – Reserved for world-class Delvers; may override field authority and are tracked in real time.
+- **Arcanet Core Office** – Integrates scry-feeds, Oculi recordings, and labyrinth telemetry into the UDMI. All promotions and suspensions originate here.
     
-- **A to C-Rank** – Majority of active adventuring guilds fall here; field work, arena combat, and sponsored delves.
+- **Office of Guild Integrity** – Mediates guild disputes, upholds alliance pacts, and licenses sanctioned PvP engagements.
     
-- **D-Rank** – Entry-level or independent Delvers; may not legally enter restricted Labyrinths or act as party leaders.
+- **Delver Tribunal Council** – Composed of five retired S-Class Delvers, this body renders final verdicts on conduct trials and ranking appeals.
     
-
-**Promotions and demotions** are automatically flagged by the Arcanet Core, but only certified by the MDO upon human review.
+- **The Broken Oath Cell** – A clandestine bureau tasked with internal investigations, artifact laundering cases, and labyrinth quarantines.
+    
 
 ---
 
-## Interagency Coordination
+## **The Unified Delving Merit Index (UDMI)**
 
-The MDO works in tandem with:
+The MDO validates the UDMI score system—a standardized model assessing Delver performance across Aerathon.
 
-- The **Arcane Broadcast Authority** – To ensure proper representation of ranking and to block illegal glorification of unsanctioned adventurers.
+- **S-Rank** – Reserved for mythic-tier Delvers; granted full traversal and high clearance status.
     
-- The **GSN** – To verify footage used in ranking audits and ethical investigations.
+- **A-Rank** – Trusted elite; often used in political operations or sensitive recoveries.
     
-- **Regional Monarchies and City-States** – Who deputize Delvers for specific sanctioned operations.
+- **B/C-Rank** – Active and functional tiers encompassing the majority of lawful guild members.
+    
+- **D-Rank** – Entry tier; restricted from critical relic contact or high-lethality zones.
     
 
-The MDO has the authority to embargo entire Labyrinths if deemed too unstable or politically sensitive.
+All UDMI scores are reviewed by a human arbitration board following Core-generated alerts.
 
 ---
 
-## Controversies
+## **Interagency Relations**
 
-Despite its intention as a neutral regulatory body, the MDO has weathered accusations of favoritism, suppression, and political manipulation.
+The MDO partners closely with:
 
-- **The Phantom Promotion Scandal** – Several Delvers were elevated to A-Rank despite suspiciously light delve records—linked to noble backers.
+- **Arcane Broadcast Authority (ABA)** – Ensures that only authorized Delvers are portrayed in Livecasts.
     
-- **The Broken Relic Doctrine** – Critics claim the MDO often fails to return recovered divine artifacts to proper religious custodians.
+- **Grand Scrying Network (GSN)** – Uses Livecast footage for ranking audits and behavioral casework.
     
-- **Ghost Guild Registrations** – A number of dead or disbanded guilds have remained mysteriously active on MDO rolls—suggesting laundering or covert operations.
+- **Crowned Powers & City-State Compacts** – Facilitates Delver deployment during regional catastrophes or political events.
     
 
-While the MDO has internal mechanisms to investigate itself, few outside the Ministry ever hear the outcomes.
+The MDO has jurisdiction to embargo, close, or reroute access to any Labyrinth deemed compromised, cursed, or politically destabilizing.
 
 ---
 
-## Headquarters
+## **Controversy and Accountability**
 
-**Sanctioned Delver Tribunal**, Halvask – A granite-walled judicial citadel where ranking appeals, guild trials, and ethical reviews are conducted. Within its halls lie the Office of Labyrinth Records, the Arcanet Core Sanctum, and the Delver Archive Codex.
+The Ministry's bureaucratic veil has not shielded it from criticism:
 
-Access to case files is permitted only with direct authorization from a Tribunal Judge or a Crowned Signatory.
+- **Phantom Rankings** – Unsubstantiated promotions allegedly linked to noble coin.
+    
+- **Artifact Custodianship Disputes** – Returned relics often disappear or end up in private vaults.
+    
+- **Ghost Guild Registrations** – Defunct guilds remaining active for reasons unknown.
+    
+
+The **Ghostveil Accord** and **Order of Iron Ascendants** routinely call for transparency audits. Few such requests pass Tribunal approval.
+
+---
+
+## **Headquarters**
+
+**Sanctioned Delver Tribunal**, Oria – A sealed complex of obsidian halls and ever-burning braziers. Here, the Codex of Conduct is enforced, the Arcanet Core pulses in judgment, and the deepest delving records remain entombed.
+
+Only Tribunal Judges, Arcanet Guardians, or royal proxies may view sealed case files or initiate labyrinth-level containment writs.

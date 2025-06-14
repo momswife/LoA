@@ -1,92 +1,107 @@
 > *“The gods have not been replaced — they’ve taken new forms in the roar of the crowd and the gleam of the blade.”*
 ___
-## Overview
+## **The Divine Symphony of Aerathon**
 
-The **Divine Symphony** is the current dominant religious framework in Aerathon, established during the 6th Era as the world struggled to reconcile the ancient pantheon with the explosive rise of New Faiths and labyrinthal miracles. In this reformed system, the original gods remain **central and divine**, but are now understood through **modern “Faces”**—reflections of their nature interpreted through contemporary belief, delver merit, and audience worship.
+**The Chords of Faith. The Faces of Divinity.**
 
-Each god in the Divine Symphony holds **multiple Aspects**, split across three roles:
+The **Divine Symphony** is the most widespread religious framework of modern Aerathon, a reformation of old-world reverence fused with the rise of meritocratic spectacle. Founded in the 6th Era as the gods’ influence began echoing through labyrinths, scrying lenses, and Delver triumphs, the Symphony reconceives deities as multi-faceted chords:
 
-- **The Eternal Form** — the traditional, timeless identity of the god (Old Faith)
+- **The Eternal Form** – The classic portrayal, as remembered from scripture and myth.
     
-- **The Radiant Face** — the heroic or exalted delver-facing interpretation (New Faith)
+- **The Radiant Face** – The god’s public, performance-empowered persona—elevated through delving, devotion, and audience acclaim.
     
-- **The Dissonant Note** — the shadowed or controversial reflection of the god (heretical or rejected in most temples)
-___
-## PRIMARY GODS OF THE DIVINE SYMPHONY
-
-Below are ten of the most prominent deities in Aerathon’s Divine Symphony, using the core D&D 5e pantheon as the divine bedrock.
-
-| **God         | **Radiant Face**          | **Dissonant Note**         | **Domains**                  | **Symbol**                         |
-| ------------- | ------------------------- | -------------------------- | ---------------------------- | ---------------------------------- |
-| **Auril**     | The Wintermaiden’s Grace  | The Icebound Matron        | Nature, Tempest              | Six-pointed snowflake              |
-| **Bane**      | The Tyrant’s Crown        | The King of Chains         | War, Domination, Death       | Black clenched hand                |
-| **Chauntea**  | The Earthmother           | The Mound Keeper           | Agriculture, Life, Harvest   | A blooming rose on golden grain    |
-| **Cyric**     | The Shattered Prophet     | The Mad King Below         | Trickery, Lies, Chaos        | Skull on sunburst                  |
-| **Gond**      | The Emberwright           | The Geargrinder            | Forge, Knowledge             | Toothed cog with four spokes       |
-| **Ilmater**   | The Crimson Martyr        | The God of Suffering Alone | Life, Endurance, Redemption  | Hands bound in red cord            |
-| **Kelemvor**  | The Veilkeeper            | The Still Judge            | Death, Grave                 | Skeletal hand holding scales       |
-| **Lathander** | The Dawnbreaker           | The False Light            | Life, Light, Renewal         | Road into a rising sun             |
-| **Leira**     | The Mistbound Seer        | The Keeper of Lies         | Trickery, Illusion           | Swirl of mist inside a triangle    |
-| **Loviatar**  | The Rose of Thorns        | The Smile Beneath the Lash | Death, Pain                  | Nine-tailed barbed scourge         |
-| **Mielikki**  | The Green Flame           | The Thorn Mother           | Nature, Life                 | Unicorn’s head in leaf circle      |
-| **Mystra**    | The Weavemother Ascendant | The Fractured Web          | Knowledge, Arcana            | Nine stars swirling in red mist    |
-| **Oghma**     | The Wordsmith Eternal     | The Hoarder of Silence     | Knowledge, Lore              | Blank scroll                       |
-| **Selûne**    | The Lady of Lanterns      | The Hollow Moon            | Life, Light, Knowledge       | Eyes amid seven stars              |
-| **Shar**      | The Night-Born Flame      | The Eater of Meaning       | Trickery, Death              | Black disc with violet border      |
-| **Sune**      | The Idol Radiant          | The Mirror of Regret       | Life, Light, Trickery        | Red-haired woman’s visage          |
-| **Talos**     | The Stormheart Unbound    | The Thunder Without Mercy  | Tempest, Destruction         | Three lightning bolts from a point |
-| **Tempus**    | The Blade’s Balance       | The Bloodtide              | War, Order                   | Flaming sword over a scale         |
-| **Torm**      | The Bastion-Paladin       | The Oathbreaker’s Fall     | War, Loyalty, Self-sacrifice | White right-handed gauntlet        |
-| **Tymora**    | The Lady of Turning Luck  | The Gambler’s End          | Trickery, Fortune            | Face-up coin                       |
-| **Umberlee**  | The Wave-Bound Queen      | The Brine Wyrm Below       | Tempest, Sea, Chaos          | Wave curling left and right        |
-___
-## THE SYMPHONIC FAITH
-
-Followers of the Symphony believe that:
-
-- **All gods sing within the Worldsong**, a mystical current that flows through every labyrinth, delver, soul, and broadcast.
-    
-- Each god’s **Aspect** rises or fades depending on mortal devotion, emotion, and magical resonance within the Labyrinths.
-    
-- Clerics, oracles, and saints choose which Aspect to follow—granting them different powers or reputations.
-    
-- **Livecasting rituals**, public prayers, and _audience-acclaimed miracles_ now have the power to awaken Radiant Faces or suppress Dissonant Notes.
+- **The Dissonant Note** – The feared or corrupted echo, born of neglect, heresy, or suppressed truths.
     
 
-The Symphony's clergy refer to these Aspects as **Chords**, with some sects (especially the _Fatesworn Mystics_) claiming the Arcanet Core itself is the new conduit for divinity.
+Each god’s worship—and the miracles that stem from them—now change according to how they are invoked, perceived, and remembered.
 
-___
-## DIVINE IDEALS OF THE GODS
+---
 
-| **God         | **Resonant Ideals** (Radiant Face)                           | **Dissonant Ideals** (Dissonant Note)                          |
-| ------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| **Auril**     | Endurance through hardship; reverence for nature’s beauty    | Isolation; control through suffering and cold indifference     |
-| **Bane**      | Leadership, strength through unity, earned authority         | Absolute dominion, cruelty as law, conquest at all costs       |
-| **Chauntea**  | Foster growth, community, and the natural world around you   | Exploitation; lands exist to be conquered, stripped, and spent |
-| **Cyric**     | The power of imagination; creative rebellion                 | Lies are truth; chaos reigns; betrayal is sacred               |
-| **Gond**      | Innovation; craftsmanship that uplifts the world             | Mechanization without morality; destructive invention          |
-| **Ilmater**   | Compassion, self-sacrifice, endurance for the greater good   | Glorification of suffering; martyrdom as control               |
-| **Kelemvor**  | Justice in death; dignity of passing; fairness               | Emotionless judgment; disregard for life’s complexity          |
-| **Lathander** | Renewal, hope, second chances, forging a better future       | Zealotry of light; blindness to nuance; forced “salvation”     |
-| **Leira**     | Wonder, mystery, freedom of belief                           | Deception for power; gaslighting; erasure of truth             |
-| **Loviatar**  | Strength through trial; discipline of pain                   | Pleasure in cruelty; glorification of torment                  |
-| **Mielikki**  | Harmony with wildness; guardianship of life                  | Nature as predator; domination through primal chaos            |
-| **Mystra**    | Magical enlightenment; sharing the weave’s wonders           | Arcane elitism; hoarding knowledge; madness through magic      |
-| **Oghma**     | Truth through study; preserving ideas for all                | Suppression of knowledge; erasure of history                   |
-| **Selûne**    | Balance of light and dark; empathy; inner peace              | Emptiness; loss of identity; obsession with the unseen         |
-| **Shar**      | Strength through sorrow; embracing endings                   | Nihilism; annihilation of joy; desire to erase all memory      |
-| **Sune**      | Love, self-expression, inner and outer beauty                | Obsession with appearance; vanity weaponized for control       |
-| **Talos**     | Embracing chaos as catalyst; awe of storms and change        | Unchecked destruction; reverence for fear and catastrophe      |
-| **Tempus**    | Honor in battle; the test of strength; worthy conflict       | War for war’s sake; glorification of bloodshed                 |
-| **Torm**      | Duty, sacrifice for others, unyielding courage               | Righteous arrogance; crushing dissent in the name of order     |
-| **Tymora**    | Fortune favors the bold; joy in risk                         | Recklessness; gambling with others’ lives for personal gain    |
-| **Umberlee**  | Respect for the sea’s might; surrender to forces beyond self | Terror cults; sacrificing others to appease uncaring tides     |
-___
+## **Primary Deities of the Divine Symphony**
 
-## ROLE OF FAITH IN MODERN AERATHON
+|**God**|**Radiant Face**|**Dissonant Note**|**Domains**|**Symbol**|
+|---|---|---|---|---|
+|**Auril**|Wintermaiden’s Grace|Icebound Matron|Nature, Tempest|Six-pointed snowflake|
+|**Bane**|Tyrant’s Crown|King of Chains|War, Domination, Death|Black clenched hand|
+|**Chauntea**|Earthmother’s Gift|The Withering Mound|Life, Nature, Agriculture|Sheaf of grain with bloom|
+|**Cyric**|The Shattered Prophet|Mad King Below|Trickery, Chaos, Lies|Skull on sunburst|
+|**Gond**|Emberwright Divine|Geargrinder|Forge, Knowledge, Invention|Four-spoked cog|
+|**Ilmater**|Crimson Martyr|God of Suffering Alone|Life, Endurance, Redemption|Hands bound in red cord|
+|**Kelemvor**|The Still Judge|Veilworn Dread|Death, Grave|Skeletal hand with scales|
+|**Lathander**|Dawnbreaker Flame|False Sun|Life, Light, Renewal|Sunrise over a road|
+|**Leira**|Mistbound Seer|Keeper of Lies|Trickery, Illusion|Triangle within swirling mist|
+|**Loviatar**|Rose of Thorns|Lash Queen|Death, Pain|Nine-tailed scourge|
+|**Mielikki**|Flame of the Grove|Thornmother Wild|Nature, Life|Unicorn horn in leaf-circle|
+|**Mystra**|Weavemother Ascendant|Fractured Web|Arcana, Knowledge|Nine stars in a red spiral|
+|**Oghma**|Wordsmith Eternal|Hoarder of Silence|Knowledge, Lore|Blank scroll|
+|**Selûne**|Lady of Lanterns|Hollow Moon|Life, Light, Knowledge|Seven stars over an open eye|
+|**Shar**|Night-Born Flame|Eater of Meaning|Trickery, Death|Black disc in violet ring|
+|**Sune**|Idol Radiant|Mirror of Regret|Life, Light, Trickery|Red-lipped woman’s face|
+|**Talos**|Stormheart Unbound|Thunder Without Mercy|Tempest, Destruction|Three lightning bolts|
+|**Tempus**|Blade’s Balance|Bloodtide|War, Order|Flaming sword over scales|
+|**Torm**|Bastion-Paladin|Oathbreaker’s Fall|War, Loyalty, Sacrifice|White gauntlet|
+|**Tymora**|Lady of Turning Luck|Gambler’s End|Trickery, Fortune|Coin flipped mid-air|
+|**Umberlee**|Wave-Bound Queen|Brine Wyrm Below|Tempest, Sea, Chaos|Curling tidal crest|
 
-- Divine spells are now **sponsored** and often **recorded by scry-orbs** for mass viewing.
+---
+
+## **Beliefs of the Symphonic Faith**
+
+The followers of the Symphony embrace a world where **belief reshapes the gods themselves.**
+
+- Every god is a **Chord**, echoing with Radiant, Eternal, and Dissonant melodies.
     
-- Major temples often include **broadcast chambers**, allowing large audiences to witness public miracles or trials of faith.
+- A god’s Face becomes **more powerful** the more it is remembered, praised, or seen in public spectacle.
     
-- Divine relics of the Old Pantheon now **resonate differently** depending on whether the Radiant or Dissonant Aspects are invoked.
+- Temples, rituals, and even battle cries now feed these divine echoes, particularly when amplified through Divine Oculi or broadcast miracles.
+    
+- The **Arcanet Core**, some claim, has become a holy mirror—divine merit interpreted by a living algorithm.
+    
+
+Some sects divide over which Faces are safe to invoke—others, such as the Fatesworn Mystics, **intentionally seek Dissonant Notes**, believing only a full chord brings true divine resonance.
+
+---
+
+## **Divine Ideals Table**
+
+|   |   |   |
+|---|---|---|
+|**God**|**Resonant Ideals (Radiant)**|**Dissonant Ideals (Note)**|
+|Auril|Endurance through winter, reverence of harsh beauty|Isolation and suffering as control|
+|Bane|Order through strength and earned obedience|Tyranny, domination, and soul-breaking servitude|
+|Chauntea|Growth, care, and earthborn renewal|Greed, despoiling nature, harvesting until ruin|
+|Cyric|Rebellion of thought, freeform creation|Madness, betrayal, and fractured identity|
+|Gond|Innovation as liberation|Invention without soul, destruction for progress|
+|Ilmater|Enduring for others, redemptive suffering|Weaponized pain, righteous martyrdom enforced on others|
+|Kelemvor|Death as dignity, balance in endings|Cold judgment, merciless finality|
+|Lathander|Hope, rebirth, making tomorrow brighter|Blind zealotry, violent purification|
+|Leira|Mystery as freedom, truth in illusion|Manipulation, truth-warping gaslight|
+|Loviatar|Strength through trial, discipline in adversity|Joy in cruelty, power through torment|
+|Mielikki|Wild harmony, nature’s protection|Survival of the cruelest, apex domination|
+|Mystra|Sharing magic, weaving the arcane web for all|Hoarding secrets, arcane obsession leading to madness|
+|Oghma|Universal truth, knowledge without gatekeeping|Erasure of history, censorship as control|
+|Selûne|Guiding through uncertainty, empathy through light|Obsession with the void, emotional emptiness|
+|Shar|Power through loss, healing through sorrow|Obliteration of self, annihilation of memory and meaning|
+|Sune|Love as truth, beauty as liberation|Enslavement to vanity, obsession with perception|
+|Talos|Change as trial, the storm as cleansing|Destruction for sport, exultation in ruin|
+|Tempus|Honor in conflict, the duel as divine song|Endless war, blood for applause|
+|Torm|Loyalty, sacrifice, protection of the innocent|Crushing dissent, zealotry disguised as duty|
+|Tymora|Luck as grace, courage to embrace chance|Recklessness, gambling with lives not your own|
+|Umberlee|Respect for the sea, reverence for chaos|Fear cults, human sacrifice to appease the tide|
+
+---
+
+## **Role of Worship in Modern Aerathon**
+
+- Temples double as **broadcast sanctuaries**, with mirrored sanctums wired to GSN towers.
+    
+- Clerics are both **miracle-workers and public figures**, often ranked like Delvers via the Fame Engine.
+    
+- The Radiant or Dissonant Face invoked may alter the outcome of divine spells, relic function, or even **miracles witnessed through Oculi**.
+    
+- Worship can be **interactive**—viewers participate in mass rites via arcane echoes, sometimes altering the outcome of divine feats.
+    
+
+The gods have not withdrawn from Aerathon. They’ve stepped onto the stage.
+
+And now, the world listens for the next verse of the Symphony.

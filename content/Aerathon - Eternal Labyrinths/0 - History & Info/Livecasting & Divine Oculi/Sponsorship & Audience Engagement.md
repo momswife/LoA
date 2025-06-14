@@ -1,113 +1,112 @@
 > **“In the age before the Oculi, a sword swing was a personal thing. Now, it is a performance. And the crowd? They are never unarmed.”**
 ___
-## Overview
+## **Livecasting, Sponsorship & Audience Power**
 
-The phenomenon of **Livecasting** has transformed Delving from an act of survival and honor into a high-stakes spectacle governed by market forces, fame, and crowd manipulation. As the Grand Scrying Network (GSN) expanded across Aerathon, a secondary economy bloomed around it—one driven by **sponsorships, viewer interaction, and public betting**.
+**The Spectacle Engine. The Pulse of the Realm.**
 
-Today, Delvers are more than adventurers. They are **public personas**, commercial tools, and oftentimes unwilling celebrities, molded by narrative design, viewer taste, and noble coin.
+Livecasting has turned the ancient trial of Delving into a worldwide obsession—part survival, part sport, part spiritual theater. Broadcast by the **Grand Scrying Network (GSN)** and regulated by the **Arcane Broadcast Authority (ABA)**, each Delve is now an open performance judged by scrying mirrors, cheering crowds, and hovering Divine Oculi.
 
----
-
-## The Sponsorship System
-
-### What Is Sponsorship?
-
-A **sponsorship** is a formal bond between a Delver or Delving Guild and a patron—typically a noble house, mercantile syndicate, city-state, or arcane institution. In exchange for financial backing, magical gear, or resource access, the Delver becomes a **walking brand**, showcasing the sponsor’s heraldry and often participating in curated narrative arcs.
-
-Sponsorships are **governed and certified** by the Arcane Broadcast Authority (ABA) and tracked by the Ministry of Delving Oversight (MDO) to prevent bribery, rigged delves, or combat manipulation.
+Where once Delvers fought in silence, they now fight in spotlight.
 
 ---
 
-### Benefits of Sponsorship:
+## **The Sponsorship Web**
 
-- **Customized Magic Equipment** – Includes gear with sponsor crests, signature enchantments, and exclusive arcane properties.
-    
-- **Living Arrangements** – Sponsors often provide private towers, estates, or keep-level residencies for their Delvers.
-    
-- **Guaranteed Broadcast Slots** – Higher exposure on public feeds, guaranteed relay priority from Divine Oculi, and tailored commentary.
-    
-- **Post-Delve Rewards** – Includes relic rights, estate titles, or even land grants in outer provinces.
-    
+### **What is Sponsorship?**
 
----
+A **sponsorship** is a formal pact between a Delver or Guild and a patron—a noble house, arcane college, merchant syndicate, or even a city-state. In exchange for magical equipment, land grants, or exposure, the Delver becomes a **living symbol**, their deeds wrapped in banners and sigils.
 
-### Types of Sponsors:
+Sponsorships are governed by the ABA and monitored by the **Ministry of Delving Oversight (MDO)** to prevent narrative tampering or combat fraud.
 
-- **Noble Patrons** – Seek fame, influence, or bloodline enhancement by associating with successful Delvers. May intervene in narratives.
+### **Sponsorship Benefits Include:**
+
+- Custom-crafted magical gear embedded with sponsor crests and enchantments
     
-- **Merchant Syndicates** – Use Delvers as product showcases. Armor, potions, even food brands are displayed mid-combat.
+- Priority relay coverage from Divine Oculi and guaranteed commentary
     
-- **Magical Colleges** – Back Delvers to test experimental enchantments or magical theories in live conditions.
+- Lodging in sponsor-owned keeps or arcane towers
     
-- **Criminal Cartels & Betting Rings** (Illegal) – Known to fund throwaway parties for manipulation of live-bets and false drama.
+- Access to elite relic auctions and negotiation rites post-Delve
     
 
----
+### **Types of Sponsors:**
 
-## Audience Engagement
-
-Livecasting is not passive—it is **interactive and reactive**. The audience may influence outcomes, alter the environment, or shift favor through approved channels.
-
-### Forms of Interaction:
-
-- **Arcane Tipcasting** – Viewers send minor spell charges or blessings that affect a Delver’s stamina, healing, or morale.
+- **Noble Patrons** – Seek influence and lineage elevation through famous associations.
     
-- **Event Polls** – Public voting determines path branches within Labyrinths, introduces hazards, or decides loot priority.
+- **Merchant Syndicates** – Treat Delvers as product showcases.
     
-- **Blessing Tokens** – Rare audience-purchased glyphs that may **resurrect** a fallen Delver under extreme crowd demand.
+- **Arcane Institutions** – Use Delvers to test spellcraft and relic applications.
     
-- **Live Betting** – Citizens and nobles alike may wager on survival, kill counts, or rare relic retrieval. Betting outcomes often drive real-time sponsorship adjustments.
+- **Illicit Networks** – Blackmarket delving teams paid to manipulate betting spreads or create scripted losses.
     
 
 ---
 
-## Controlled Influence Channels
+## **Audience Influence**
 
-To prevent chaos or mass death by public whim, only verified viewers or accounts with ABA-issued Broadcast Rights may send impactful influence. These include:
+Livecasting is not passive—it is **participatory**. Verified viewers may interact with active Delvers in real-time, shaping the outcome of Delves with emotion, currency, or sheer whim.
 
-- **Noble Linefeeds** – Guaranteed high-priority spellcasting queues during Livecasts.
+### **Common Interaction Types:**
+
+- **Arcane Tipcasting** – Magical boons cast from afar to aid stamina, morale, or perception.
     
-- **Arcanet Theater Nodes** – Public halls with audience-focused scrying, used for collective decisions in state-endorsed campaigns.
+- **Labyrinth Polls** – Viewers decide which path a party takes, sometimes even introducing new hazards.
     
-- **Guildstream Integration** – Allows internal guild viewers to influence their own party’s course via encoded command tokens.
+- **Blessing Tokens** – Rare glyphs that may reverse death under specific audience fervor thresholds.
+    
+- **Live Bets** – Public wagering on survival, kill counts, or relic haul. Results can shift Fame scores and even trigger sponsor recalls or bonuses.
+    
+
+### **Controlled Access Channels:**
+
+- **Noble Linefeeds** – Private broadcast channels with high-impact priority.
+    
+- **Arcanet Theaters** – Civic scrying halls where public votes shape delves.
+    
+- **Guildstream Hubs** – Internal guild viewers may influence squad tactics via coded prompts.
     
 
 ---
 
-## Economy of Fame
+## **The Fame Engine**
 
-### The Fame Engine
+Created by the GSN in collaboration with noble sponsors, the **Fame Engine** is a hidden arcane algorithm that ranks a Delver’s marketability and audience engagement. It feeds directly into sponsorship offers, narrative arcs, and artifact access.
 
-The GSN and its sponsors utilize a proprietary system called the **Fame Engine**, which calculates and adjusts a Delver’s public visibility, sponsorship value, and narrative tier based on:
+Factors include:
 
-- Viewer retention and engagement
+- Viewer duration and sentiment
     
-- Fight choreography and kill quality
+- Kill finesse and battle dialogue
     
-- Relic yield
+- Use of sponsor-tagged items
     
-- Dialogue clarity and “heroic marketability”
-    
-- Tragedy index (in case of death or betrayal)
+- Dramatic stakes (e.g. death, betrayal, miracle saves)
     
 
-Higher Fame ratings unlock narrative arcs, relic access, and sponsor wars—often staged more for spectacle than truth.
+High Fame Engine scores often result in increased influence, richer contracts, and sometimes scripted roles in the GSN’s most-watched narrative cycles.
 
 ---
 
-## Ethical and Cultural Impacts
+## **Criticism and Resistance**
 
-### Known Criticisms:
+### **Common Ethical Concerns:**
 
-- **Exploitation of Low-Rank Delvers** – Used as cannon fodder for dramatic effect, with sponsors dumping them mid-stream if engagement drops.
+- **Low-Rank Exploitation** – Delvers with low visibility are often thrown into lethal Delves for cheap drama.
     
-- **Scripted Heroism** – Rumors persist that some “hero moments” are choreographed using planted relics or enemy patterns.
+- **Narrative Choreography** – Accusations of sponsor-planted enemies and relics.
     
-- **Emotional Manipulation** – Some viewers have developed addictive behaviors, treating Delvers’ pain as episodic entertainment.
+- **Emotional Addiction** – Audience obsession with trauma cycles and Delver pain.
     
 
-### Resistance Movements:
+### **Active Opposition Groups:**
 
-- **The Ghostveil Accord** – Advocates for audience-free delving or delayed broadcasts to protect mental well-being.
+- **The Ghostveil Accord** – Seeks to delay Livecasts or create off-grid broadcast windows.
     
-- **The Mirrorless** – A rogue Delver faction that destroys Oculi mid-delve to sever audience control, often marked as outlaws.
+- **The Mirrorless** – A rogue delver faction known to destroy Divine Oculi during delves, viewing the crowd’s gaze as a curse.
+    
+
+Livecasting has changed the very soul of Delving. In this new Aerathon, it is no longer enough to survive.
+
+You must be **seen surviving.**
+
+___

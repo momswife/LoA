@@ -1,92 +1,101 @@
-> _"She gives no warning, and accepts none."_
+> _[No known verbal statements. All records compiled from witness accounts and battlefield patterns.]_
 
 ___
 
-## Overview
+## **Overview**
 
-**Sister Judiith** is an S-Class delver and battle zealot of extreme and deliberate silence. A **Barbarian of the Path of the Zealot**, she operates as a vessel of divine fury, wielding holy violence without ritual, chant, or word. Despite bearing no known religious insignia, Sister Judiith channels divine energy in raw, overwhelming bursts—suggesting favor not from a god, but from some foundational principle of divine wrath itself.
+**Sister Judiith**, known across Aerathon as _The Silent Flame_, is an S-Class delver of legendary renown and unknowable purpose. A human woman clad in scorched monastery robes and ritual brands, she has never been heard to speak—not during battle, not in rest, not even during trials of death. Yet wherever she treads, justice seems to follow in blood and flame.
 
-Her presence in a delve is unmistakable: a towering woman in pale vestments soaked with centuries of dried blood, moving with wordless certainty. She offers no battle cry, no demand for surrender. She kills what stands before her and walks on. No delver, ally or otherwise, has ever reported hearing her speak.
+Though officially ranked as a **Barbarian of the Zealot path**, many debate the source of her divine connection. She has entered Labyrinths ablaze, emerged untouched by fire, and healed others through simple touch—without incantation, invocation, or gesture.
 
----
-
-## Affiliations
-
-- **Guild**: None officially—though she is known to accept conscription requests from **The Argent Banner**, **The Crimson Reavers**, and the **MDO**.
-    
-- **Religious Allegiance**: Unconfirmed. Multiple divine observers note faint signatures akin to **Ilmater**, **Kelemvor**, and at times **Tyr**, but each conflicts with her methods
-    
-- **Titles**: The Silent Sister, The Pale Flame, Mouth of the Nameless Martyr
-    
-- **Livecast Popularity Index**: 4.9 / 5 — Among the highest-rated delvers due to brutal efficiency and extreme combat footage
-    
+Those she saves call her a saint. Those she strikes down never speak again.
 
 ---
 
-## Ideals
+## **Affiliations**
 
-- **Deed, Not Word** – The tongue lies; the blade clarifies.
+- **Guild Status**: Former Crimson Reaver; now autonomous, answers only to the Divine Oculi when called
     
-- **Suffering is Purpose** – Endurance is sacred. Violence is liturgy.
+- **Religious Allegiance**: Believed to channel **Ilmater**, **Tempus**, or a forgotten martyr-god whose name is no longer spoken
     
-- **Judgment Is Immediate** – Mercy is delay. Delay is sin.
+- **Known Titles**: The Silent Flame, Saint of Ash, The Burning Sister, Voice of the Last Mercy
+    
+- **Livecast Popularity Index**: 4.9 / 5 — Her image is often followed by solemn silence, flickering candles, or communal prayer
     
 
 ---
 
-## Notable Accomplishments
+## **Ideals**
 
-**The Trial of Broken Vox**  
-In a sealed-floor challenge designed for clerics to debate and dispel a heretical echo-being, Judiith entered alone. No verbal component was offered. Within seven minutes, the echo was reduced to pulp and fragments. The presiding judges declared her the victor via divine exemption—a ruling never used before or since.
-
-**Slayer of the Amaranthine Choir**  
-A cult of psychic psalmists had enthralled an entire delve team within **Labyrinth 46: Cathedral of Mirrors**. Sister Judiith entered during their ritual convergence. Twenty-eight seconds of footage were broadcast before the entire scrying mirror went black. When contact was reestablished, the Choir was dead, their instruments shattered, their song silenced.
-
-**The Nameless Rite**  
-Judiith once stood for three days in the center of a consecrated labyrinth floor—fasting, unmoving, surrounded by hostile undead. None attacked her. On the fourth day, she raised her weapon and cut through them without pause. The Divine Oculi declared it an “unwitnessed miracle.”
-
----
-
-## Equipment and Artifacts
-
-**Martyr’s Thorn**  
-A massive, jagged greatsword whose edge is wrapped in barbed scripture. It causes both the wielder and target to bleed upon impact—transferring vitality in waves of mutual pain.
-
-**Vestments of the Unshriven**  
-Once-white robes, now blood-hardened and untearable. Resistant to radiant and necrotic energy. Some believe the stains shift patterns depending on who she kills.
-
-**Cincture of Wordless Wrath**  
-A belt inscribed in a language no one has yet identified. Glows faintly during rage. Attempts to translate have resulted in spontaneous muteness.
-
----
-
-## Delving Record
-
-- **Confirmed Labyrinth Clears**: 6 (S-Rank)
+- **Suffering is a Promise** – Pain binds the righteous to one another.
     
-- **Unconfirmed Delves**: Dozens — many unrecorded due to lack of formal registration or livecast compliance
+- **Justice is Swift, Not Loud** – Truth does not need permission to act.
     
-- **Known Kill Count**: 600+ (includes labyrinth denizens, cult leaders, undead entities, and three rogue adventuring parties)
-    
-- **Spoken Words Recorded**: 0
+- **Let the Fire Speak** – Words are ash. Deeds are the flame.
     
 
 ---
 
-## Known Sayings
+## **Notable Accomplishments**
 
-_No recorded speech._
+**The Ashen Benediction**  
+When a Labyrinth manifested in a monastery known for housing political prisoners, Sister Judiith entered alone. Thirty-six hostiles were slain. Forty-three prisoners were escorted out, most blindfolded or unconscious. Upon exit, she set the ruins aflame with a silent nod. No one asked her why.
 
-Note: One witness claims she once signed a single word to a dying cultist: “**Endure**.” The veracity of this claim remains disputed.
+**The Silence at Hollowmarch**  
+During a siege on a beastfolk settlement by relic-thieves, Judiith appeared at dawn. With no herald or request, she joined the defense, bearing down on the enemy with such fury that the attackers dropped arms without retaliation. Survivors claim she marked each thief with ash across the mouth and let them live—to remember.
 
-___
+**The Martyr’s Gate**  
+During a public execution of a delver accused of curse-spreading, Judiith walked through the crowd, knelt beside the accused, and placed her palm on his chest. Moments later, the curse manifested within her, burning her robes to ember. She survived. He was freed. The executioner resigned that night.
 
-## Rumors and Containment Warnings
+---
 
-- Several **divine casters report dissonance** when near her—particularly those aligned with gods of mercy or peace.
+## **Equipment and Artifacts**
+
+**Brand of the Sainted Chain**  
+An iron flail wrapped in cloth strips soaked in blessed oil. Emits radiant flame when swung in defense of others. Glows dim when lies are spoken nearby.
+
+**Veil of Unspoken Light**  
+A hooded shawl of tattered silk and scorched scripture, woven from martyr’s ashes. Immune to scrying, compulsion, and all forms of divination that seek to reveal her thoughts.
+
+**Votive Emberbrands**  
+Carved sigils along her arms and hands. Each one represents a life saved in silence. Some are dim. Some burn with inner gold.
+
+---
+
+## **Delving Record**
+
+- **Confirmed Labyrinth Clears**: 8 S-Rank, 12 A-Rank, 4 forbidden site purges
     
-- Some believe **she is a revenant**, endlessly reborn to carry out divine punishment.
+- **Total Estimated Delves**: Unknown—she does not submit records
     
-- Her blood is said to **burn fiends and freeze celestials**, though never tested directly.
+- **Success Rate**: Unchallenged
     
-- One theory posits she is not mute by choice, but by vow—bound to silence until some unknown prophecy is fulfilled.
+- **Team Record**: Frequently appears in crisis delves without invitation, leads through presence alone
+    
+
+---
+
+## **Known Sayings**
+
+_“[No direct quotes available.]”_
+
+However, her known **gestures and actions** have become legendary:
+
+- A single hand placed over the heart before battle means _“No one dies alone.”_
+    
+- Kneeling at a fallen foe’s side with a bowed head means _“Your sins end here.”_
+    
+- Lighting a candle with no flame means _“This path is not yet over.”_
+    
+
+---
+
+## **Rumors and Anomalies**
+
+- **No cleric has ever been able to detect language from her—even telepathically.**
+    
+- **Her blood ignites when spilled. Some say it heals others it touches.**
+    
+- **One theory suggests she died in youth and was sent back by a god with no voice.**
+    
+- **It is believed she fasts for months at a time, requiring only the light of a shrine to sustain her.**

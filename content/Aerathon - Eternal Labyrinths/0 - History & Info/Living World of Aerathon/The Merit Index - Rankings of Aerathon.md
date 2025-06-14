@@ -1,21 +1,26 @@
 ___
-In the realm of Aerathon, adventurers are ranked through the **Unified Delving Merit Index (UDMI)**—a magically enhanced scoring system broadcasted in real time to the realm’s populace via scrying orbs, projection crystals, and arcane “echo-mirrors.” These ranks determine prestige, contract opportunities, guild sponsorship, and even national influence.
+### **Overview**
 
-**The Rank Spread:**
-- **S-Rank** – Legendary Elites _(Top 0.1%)_
-    
-- **A-Rank** – Champions _(Top 5%)_
-    
-- **B-Rank** – Seasoned Veterans _(Top 30%)_
-    
-- **C-Rank** – Standard Licensed Delvers _(Majority of active adventurers)_
-    
-- **D-Rank** – Novices or Probationary Members _(Unproven or penalized)_
+The **Unified Delving Merit Index**—or **UDMI**—is the living heartbeat of Aerathon's delver culture. Every licensed delver, from humble wood-runner to relic-bound champion, is assigned a **Merit Score** ranging from **0 to 10,000**, dynamically updated through the **Arcanet Core**: a sentient, labyrinth-born network of magical scoring glyphs, echo-mirrors, scrying orbs, and broadcast stones.
+
+Guilds rely on these scores to offer contracts. Nobles wager their fortunes on them. The people of Aerathon gather nightly around projection crystals to watch live delves and vote on the fates of their heroes.
+
+### **The Rank Spread**
+
+|**Rank**|**Title**|**Typical Population**|
+|---|---|---|
+|**S**|Legendary Elites|Top 0.1%|
+|**A**|Champions|Top 5%|
+|**B**|Seasoned Veterans|Top 30%|
+|**C**|Licensed Delvers|Majority|
+|**D**|Novices / Probationary|Unproven or penalized|
 
 ___
+
+####  **UDMI Score**
+
 Each adventurer is assigned a **UDMI Score** (0–10,000) which is updated dynamically. This score is calculated by the [[Arcanet Core]], an ancient labyrinth-born sentience bound to a network of magical tracking artifacts.
 
-#### **Factors That Influence UDMI Score**
 
 |Category|Weight|Description|
 |---|---|---|
@@ -62,13 +67,13 @@ ___
 
 When an adventurer’s UDMI breaches a rank threshold (B ➝ A, A ➝ S), they are summoned by the **Ranking Arbiters** or may choose to issue a **Challenge Writ** to take an **Ascension Trial**. In some instances, the [[Arcanet Core]] may also be used to simulate a labyrinth.
 
-These trials are similar to **epic level-up events or tier shifts** in D&D.
+(These trials are similar to **epic level-up events or tier shifts** in D&D.)
 
-|**Rank Ascension**|**Trial Type**|**D&D Comparison**|
-|---|---|---|
-|C ➝ B|Automatic|Level 5 milestone (2nd tier powers)|
-|B ➝ A|Trial|Level 11 milestone (3rd tier & subclasses)|
-|A ➝ S|Legendary Trial|Level 17+ (epic tier / godlike renown)|
+| **Rank Ascension** | **Trial Type**  | **D&D Comparison** [OOC]                   |
+| ------------------ | --------------- | ------------------------------------------ |
+| C ➝ B              | Automatic       | Level 5 milestone (2nd tier powers)        |
+| B ➝ A              | Trial           | Level 11 milestone (3rd tier & subclasses) |
+| A ➝ S              | Legendary Trial | Level 17+ (epic tier / godlike renown)     |
 **Trial Examples**:
 
 - Survive a floor solo.

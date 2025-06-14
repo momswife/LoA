@@ -1,82 +1,87 @@
 > **“They cast no spells, draw no blades, and descend no stairs—yet the rulers of the Delving world shape fate with ink, illusion, and coin. In Aerathon, it is not only monsters who wear masks.”**
 
 ___
-## The Grand Scrying Network (GSN)
+## **The Grand Scrying Network (GSN)**
 
-**The Eye of the World. The Voice of Power.**
+**The Eye of the Labyrinth. The Pulse of the People.**
 
-The [[Grand Scrying Network (GSN)]] is Aerathon’s foremost magical broadcasting system, a sprawling arcane infrastructure that allows the real-time transmission of Delver expeditions, political decrees, arena battles, and state-approved entertainment. Though initially a relay system for arcane correspondence, it has evolved into a propaganda engine, celebrity forge, and the very heart of Aerathon’s labyrinthine meritocracy.
+The **Grand Scrying Network (GSN)** is Aerathon’s dominant magical broadcast and communications structure, built atop leyline hubs and anchored in each major city of the Beast World. Originally intended for arcane coordination during the Age of Collapse, it has since evolved into the **central stage for all Delver society**.
 
-___
-## Arcane Broadcast Authority (ABA)
-
-**Censors of Reality. Engineers of Perception.**
-
-The [[Arcane Broadcast Authority (ABA)]] is the chief regulatory body of the GSN, determining what content is broadcast, delayed, or permanently archived. With the power to silence kingdoms and make heroes of nobodies, the ABA operates under an alliance of the Halvaskian Crown, noble guilds, and arcane institutions.
-
-### Key Figures:
-
-- Lord Adrivane Elsith, High Minister of Communications
-    
-- Thellian Mir, Archmagus of Transmission
-    
-- Luthas Dain, Scryer-General of Public Viewings
-    
-
-They control public narrative, issue censorship directives, and license Divine Oculi deployment. The ABA operates from the Arcane Broadcast Spire in Halvask, protected by both magical wards and elite arcane agents.
+The GSN broadcasts **live delves, public ceremonies, political debates, arena events, and national emergencies** directly into homes, taverns, and temples. It is not merely entertainment—it is the lens through which the world understands itself.
 
 ---
 
-## The Ministry of Delving Oversight (MDO)
+## **Arcane Broadcast Authority (ABA)**
 
-**Guardians of Regulation. Arbitrators of Rank.**
+**Censors of Reality. Architects of Narrative.**
 
-The [[Ministry of Delving Oversight (MDO)]] manages all non-broadcast facets of Delver society. From adventurer registration to rank certification, it ensures lawful conduct within and beyond the Labyrinths. The Ministry also liaises with governments to deploy ranked Delvers in emergencies, disasters, or realm-threatening incursions.
+The **Arcane Broadcast Authority (ABA)** governs the content, distribution, and tone of GSN transmissions. With a combination of illusion magic, auditory glamours, and tight editorial control, the ABA ensures that only the most compelling, controlled, and culturally-approved visions of the world are seen.
 
-### Departments:
+### **Notable Figures:**
 
-- The Arcanet Core Office – Handles data integration and ranking calculations using the Arcanet, a magically-encrypted net of Delver performance metrics.
+- **Lord Adrivane Elsith** – High Minister of Communications and master illusionist.
     
-- The Office of Labyrinth Ethics – Investigates deaths, exploitation, or labyrinth-originated anomalies.
+- **Thellian Mir** – Archmagus of Transmission, head of content engineering.
     
-- Guild Registration Bureau – Certifies and monitors guild activity, sponsorship legitimacy, and ranking disputes.
+- **Luthas Dain** – Scryer-General, director of public ritual viewings and divine scry feeds.
     
+
+ABA headquarters lies within the **Spires of Giltglass**, a magically warded tower complex in central Oria.
 
 ---
 
-## The Halvaskian Crown & Allied Thrones
+## **Ministry of Delving Oversight (MDO)**
 
-**Patrons of the Maze. Lords of the Broadcast Age.**
+**Judges of Deeds. Guardians of Order.**
 
-Though many realms sponsor their own Delvers, the Halvaskian Monarchy is the foremost political force behind the Livecasting economy. They control the GSN’s central infrastructure, fund elite parties, and use Delver broadcasts as soft power tools across Aerathon.
+The **MDO** ensures Delvers remain compliant with international law, religious boundaries, and ethical delving practices. While the GSN watches the world, the MDO keeps the world from unraveling.
 
-Their influence is rivaled only by:
+### **Core Divisions:**
 
-- The Gilded Pantheon – A coalition of noble houses funding elite Delvers and sponsoring regional labyrinth operations.
+- **Arcanet Core Office** – Maintains the sentient ranking engine that governs the Unified Delving Merit Index (UDMI).
     
-- The Arcane Merchant Consortium – Wealthy merchant-archmagi who sell relics, sponsor delves, and control supply chains for enchanted gear.
+- **Office of Labyrinth Ethics** – Oversees death investigations, anomaly fallout, and delver misconduct.
     
-- The Veilborn Theocracy – Vocal opponents of the GSN’s ethics, lobbying for spiritual reverence over spectacle.
+- **Guild Registration Bureau** – Certifies guilds, handles sponsorship fraud, and moderates inter-guild conflict.
     
 
 ---
 
-## The Arcanet Core
+## **The Thrones of Influence**
 
-**The Heart of Merit. The Machine of Judgment.**
+Though the GSN appears politically neutral, its arcane web is upheld by powerful factions:
 
-A semi-autonomous magical construct known as the [[Arcanet Core]] monitors Delver performance in real time, issuing rank changes, issuing alerts of exceptional behavior, and cross-referencing kill counts, labyrinth depth, survival odds, and relic retrievals. It is the basis of the S-Rank to D-Rank Delver System, widely accepted as Aerathon’s de facto metric of skill and fame.
+- **The Crown of Oria** – The central power sponsoring major Livecasting licenses, including divine ritual coverage and Labyrinth containment reports.
+    
+- **The Gilded Pantheon** – A noble conglomerate controlling elite guild sponsorship and relic auction rights.
+    
+- **The Arcane Merchant Consortium** – A group of magical capitalists who dictate relic distribution and artifact branding.
+    
+- **The Veilborn Theocracy** – Spiritual leaders who oppose the spectacle of delving-as-sport, advocating reverence and caution.
+    
 
-> “The sword cuts. The Core watches.” — Popular Delver proverb
+Each of these groups shapes policy through influence, not law.
 
 ---
 
-## Ethical Watchdog Factions
+## **The Arcanet Core**
 
-While not official government arms, several powerful groups play key roles in shaping delver governance:
+**The Machine That Watches. The Pulse Beneath the Stone.**
 
-- The Order of Iron Ascendants – Advocates for complete demilitarization of the GSN, seeing it as antithetical to the purity of Delver honor.
+The **Arcanet Core** is an ancient, semi-conscious labyrinth-born magical construct that governs Delver rankings. It calculates UDMI scores in real time using live GSN data, divine pings, artifact resonance, and subconscious behavioral patterning.
+
+> “The sword cuts. The Core remembers.” — Delver proverb
+
+No one fully understands its origins, but every Delver knows that to rise in rank is to be seen by the Core—and to fall is to be forgotten.
+
+---
+
+## **Ethical & Outlier Factions**
+
+These groups act as unofficial regulators and disruptors of the broadcast-delving complex:
+
+- **The Order of Iron Ascendants** – Advocates for sacred delving without broadcast corruption.
     
-- The Ghostveil Accord – A union of ex-Delvers and clerics lobbying for trauma care, fair contracts, and pension rights.
+- **The Ghostveil Accord** – Comprised of ex-Delvers, clerics, and monks pushing for trauma care and relic ownership rights.
     
-- The Eclipse Collegium – A fringe arcane group investigating whether Livecasting may be creating new labyrinths through arcane resonance.
+- **The Eclipse Collegium** – A controversial arcano-academic society studying whether Labyrinths grow stronger through observation—or through worship.

@@ -1,96 +1,97 @@
-> _"To heal is not to erase pain, but to teach the soul how to carry it."_
+> _“Mercy is not a gift. It is a wound one chooses to carry in place of another.”_
 
-____
-## Overview
+___
 
-**Mother Elowen** is an S-Class delver and **Life Domain Cleric**, famed across Aerathon for her peerless mastery of restorative magic, her gentle words, and her unwavering refusal to harm another living soul. She is regarded not only as the greatest healer in modern delving history, but also as a moral compass for a world increasingly ruled by power and spectacle.
+## **Overview**
 
-Elowen does not fight, yet enters the deadliest labyrinths alongside guild champions, high-rank warriors, and entire squadrons—**not as protection**, but as promise. Her presence alone has turned hopeless delves into miracles. Survivors speak of her voice calming the dying, of her touch sealing fatal wounds, and of entire rooms simply ceasing to hurt when she walks through them.
+**Mother Elowen of the Pale Hour** is an S-Class delver, revered and feared in equal measure across Aerathon. A human priestess of **Ilmater**, touched by the god’s suffering yet seemingly untouched by age, Elowen is known for stepping into Labyrinths others flee—bringing light, healing, and judgment where few dare tread. Despite her title, she is not a member of any established clergy and has refused sainthood three times.
 
----
-
-## Affiliations
-
-- **Guild**: _The Argent Banner_ (Honorary High Sister, Non-Combatant Division)
-    
-- **Religious Allegiance**: Devout follower of **Chauntea**, with rites and gestures borrowed from **Lliira**, **Ilmater**, and the Old Circle of the Dawn Earth
-    
-- **Titles**: The Living Grace, Hearthmother of Halvask, Elowen the Gentle Flame
-    
-- **Livecast Popularity Index**: 5.0 / 5 — The only delver in Aerathon to maintain a **perfect audience rating**, even among factions at war
-    
+Elowen is both battlefield medic and miracle-bearer, mending the bodies and spirits of the broken—yet her kindness holds no naivety. She has personally executed over a dozen delvers for crimes of betrayal, forbidden pacts, or cruelty toward innocents. Those she cannot redeem, she silences. Her presence in a delve is often seen as a divine omen—either of salvation or final reckoning.
 
 ---
 
-## Ideals
+## **Affiliations**
 
-- **All Life is Sacred** – No life is worthless. No wound beyond worth.
+- **Guild Status**: Unaligned. Has operated with all four major guilds but pledges to none.
     
-- **Compassion is Courage** – To love the broken is the highest form of strength.
+- **Religious Allegiance**: Devout priestess of **Ilmater**, with strong ties to **Chauntea** and **Selûne** through mercy pacts.
     
-- **Kindness Without Exception** – Even the wicked may one day lay down their weapon.
+- **Known Titles**: The Pale Matron, White Flame of Griefspire, Shepherd of the Last Door
+    
+- **Livecast Popularity Index**: 5.0 / 5 — Widely beloved, especially among widows, orphans, and delvers who survived thanks to her miracles
     
 
 ---
 
-## Notable Accomplishments
+## **Ideals**
 
-**The Starhold Redemption**  
-When Starhold fell to labyrinthspawn and hundreds lay dying, Elowen entered alone under a white flag. She spent **three days and nights** walking from wounded to wounded, healing without rest. No guards, no escorts. Not a single injured soul died under her care.
-
-**The Ashwing Reconciliation**  
-Elowen brokered peace between two long-feuding guilds by healing the sick children of both commanders—one afflicted with curse-plague, the other poisoned by mistake. She asked for no treaty, only that they “try again.” They did.
-
-**The Day the Floor Wept**  
-On Floor 34 of the **Ivory Labyrinth**, the dungeon itself was weeping—a maze of suffering built from lost souls. Elowen entered with a candle and prayer, and the floor changed. The screaming walls fell silent. For one day, the floor allowed safe passage to any who entered.
-
----
-
-## Equipment and Artifacts
-
-**Blessing of the Dawn Hearth**  
-A radiant circlet made from a single unbroken strand of sunsteel. Emits a calming aura that suppresses hostility and fear within 30 feet.
-
-**The Veil of the Last Embrace**  
-A silken cloak that shimmers between ivory and gold. Once per day, Elowen may return a creature to life instantly if she held their hand at the moment of death.
-
-**Tome of Shared Breath**  
-A sacred relic bound in birch and living moss. Allows Elowen to transfer pain, poison, or disease from one being to herself. She has never used it without consent.
-
----
-
-## Delving Record
-
-- **Confirmed Labyrinth Clears**: 7 (S-Rank Support)
+- **Endurance is Holiness** – The greatest power is bearing pain without passing it on.
     
-- **Wounded Treated**: Over 4,000 (recorded)
+- **Protect the Lightless** – The weak, the cursed, the fallen—all are hers to shelter.
     
-- **Deaths in Her Presence**: 2 (one of old age, one of choice)
-    
-- **Recorded Harm Dealt**: 0 — Elowen has never cast a damaging spell, even in defense
+- **Grace With a Blade** – Healing does not mean softness. Mercy requires resolve.
     
 
 ---
 
-## Known Sayings
+## **Notable Accomplishments**
 
-_"You don’t need to believe in me. I already believe in you."_  
-— Spoken to a crippled soldier before their first step in years
+**The Severing of Ashlock Chain**  
+In a Labyrinth designed to trap the souls of the dying in an endless suffering loop, Elowen waded into the heart of the trap and severed the soul-binding ritual through an ancient Ilmatari rite known only to two living priests. Those freed whispered her name for days after death.
 
-_"I carry no weapon. That does not mean I am unprotected."_  
-— When asked why she refused a guard detail
+**The Mercyblade Trial**  
+When a delver was accused of killing his team to hoard relics, Elowen demanded trial-by-deed. She delved with him alone into the very Labyrinth he betrayed them in. Only she returned, blade bloodless. When questioned, she answered: “He chose the last truth. I only witnessed it.”
 
-_"Kindness doesn’t mean I don’t see the darkness. It means I stay anyway."_  
-— Interview, Divine Oculi Heartline Broadcast
+**The Quieting of the Crimson Choir**  
+A cursed chorus of undead bards had held a village hostage with perpetual grief-song. Elowen arrived at dawn, knelt for one hour, and sang a single line of her own. The entire Choir vanished to dust—reunited with the rest they had forgotten.
 
 ---
 
-## Rumors and Sacred Whispers
+## **Equipment and Artifacts**
 
-- **Her tears can heal blindness**. One boy swears it brought back his sight. Elowen denies this, smiling.
+**The Mercyblade**  
+An unassuming longsword wrapped in prayer-cloth. Can strike incorporeal beings and undo magical bindings with a whisper. Glows blue when near the irredeemable.
+
+**The Shroud of Pale Hours**  
+A shawl of lunar-white linen that constantly weeps fresh water. Worn over her shoulders; used to cleanse wounds, awaken hope, and blind the damned.
+
+**Prayerbeads of the Martyr’s Path**  
+Each bead holds the last prayer of someone she’s saved—or failed to. Grants her access to their wisdom, memories, and final strength.
+
+---
+
+## **Delving Record**
+
+- **Confirmed Labyrinth Clears**: 11 S-Rank, 4 A-Rank Redeemed
     
-- **Celestials walk with her**, unseen, to protect her in the deep. Scryers cannot confirm nor deny this.
+- **Total Estimated Delves**: 150+
     
-- She has once **forgiven a mass murderer**, healing him despite full knowledge of his sins. He later turned himself in and accepted execution with peace.
+- **Success Rate**: Over 95%
     
-- **Her death has been predicted multiple times**, yet she continues to live. Some believe she will only die when the world has no more need of her.
+- **Team Record**: Often travels with mixed crews. Favored as a spiritual lead or field commander in relic-redemption missions.
+    
+
+---
+
+## **Known Sayings**
+
+_"I will carry this pain. You—walk free."_  
+— Spoken to a death-cursed noble child, before taking the burden into herself
+
+_"A relic unguarded is dangerous. A delver unguarded is worse."_  
+— From her sermon in the ruins of Ivoryhill
+
+_"Even the gods bled once. I simply never stopped."_  
+— Answer to a young delver who asked why she never rests
+
+---
+
+## **Rumors and Anomalies**
+
+- **Some say she cannot be harmed by fire, but screams in her sleep from its memory.**
+    
+- **No divine scryer has ever seen her future—only a wall of white petals.**
+    
+- **It is whispered that she died once, and Ilmater sent her back with a broken piece of his own burden.**
+    
+- **Once healed a dying Reaver by touching his chest—and broke every bone in her arm doing so.**

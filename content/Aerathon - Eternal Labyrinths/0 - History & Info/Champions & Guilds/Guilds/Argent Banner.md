@@ -4,90 +4,104 @@
 ## **Overview: The Argent Banner**
 
 **Motto:** _"For Gold, Glory, and the Grand Story."_  
-**Headquarters:** **Halvask, The Silver Hall (Central District, Noble Quarter)**  
-**Guild Type:** Elite-Sponsored Delvers, Noble-Backed Adventurers, Prestige-Seeking Glory Hounds  
+**Headquarters:** **Silverspire Hall, in the capital city of Oria**  
+**Guild Type:** Elite-Sponsored Delvers, Noble-Backed Icons, Prestige-Driven Relic Hunters  
 **Notable Members:**
 
 - **Ser Victor Kordane** (Guildmaster)
+    
 - **Lydia Velmire** (S-Ranked Duelist & Livecast Celebrity)
+    
 - **Edris Valcayne** (Master Tactician & Strategic Commander)
+    
 
-The Argent Banner is the most prestigious, well-funded, and politically influential Delver guild in Aerathon, known for producing the most famous (and marketable) adventurers in history.
+The Argent Banner is the most lavishly-funded and culturally dominant Delver guild in the known world. Their expeditions are **staged events**, their relics **sold before they are claimed**, and their members **as much celebrities as warriors**.
 
-It is backed by noble patrons, powerful merchant lords, and corporate sponsors, ensuring that its members have the best training, the finest weapons, and guaranteed livecasting exposure.
+Backed by old noble lines from the Age of Crowns and cutting-edge sponsors from the Age of Spectacle, the Argent Banner is a machine of prestige, built to thrive in a world where performance matters more than purity.
 
-- **The Best of the Best:** Only the most elite Delvers are accepted, with recruitment standards that rival royal knightly orders.
-- **Built for the Spotlight:** Every expedition is meticulously planned for maximum efficiency and dramatic spectacle—ensuring their Delvers always look good on Livecast.
-- **A Legacy of Legends:** Some of the greatest Delvers in history came from the Argent Banner. Many of their names are etched in the halls of the Silver Hall, immortalized as heroes.
+- **Exclusivity & Elite Standards:** Only the top percentile of Delvers are invited, most from bloodlines or elite military corps.
+    
+- **Story-Driven Delving:** Expeditions are designed as spectacles—carefully edited, Livecast-approved, and choreographed for audience reaction.
+    
+- **A Museum of Legends:** The Silver Hall itself contains relics too powerful to be used, kept for display and political leverage.
+    
 
 ---
 
 ## **Structure & Leadership**
 
-The Argent Banner operates with strict military discipline, ensuring every member understands their place in the grand hierarchy.
+The Argent Banner is managed like a noble house—strict, hierarchical, and image-focused. The High Council ensures every action reinforces the guild's legend.
 
 ### **The High Council of the Argent Banner (Executive Leadership)**
 
-A council of five elite commanders oversees every aspect of the guild, ensuring its continued dominance.
-
 |**Title**|**Name**|**Responsibility**|
 |---|---|---|
-|**Guildmaster**|**Ser Victor Kordane**|Supreme commander, final authority on expeditions.|
-|**Master of War & Strategy**|**Edris Valcayne**|Oversees expedition planning, team compositions, and tactics.|
-|**Grand Steward of Finances**|**Lady Celestine Daeloris**|Handles noble sponsorships, corporate deals, and Livecast contracts.|
-|**Marshal of Training & Selection**|**Lord Rhenard Velmire**|Enforces recruitment standards and combat evaluations.|
-|**Warden of Honor & Tradition**|**Sir Orian Halcrest**|Ensures guild prestige, punishes failures, and expels the unworthy.|
+|**Guildmaster**|**Ser Victor Kordane**|Leads all operations, maintains prestige and image.|
+|**Master of War & Strategy**|**Edris Valcayne**|Controls delve planning, team formations, and labyrinth targeting.|
+|**Grand Steward of Finances**|**Lady Celestine Daeloris**|Manages sponsorships, artifact auctions, and political ties.|
+|**Marshal of Training & Selection**|**Lord Rhenard Velmire**|Enforces grueling recruitment and brand-compatible standards.|
+|**Warden of Honor & Tradition**|**Sir Orian Halcrest**|Preserves guild mythos, controls internal discipline and trials.|
 
 ---
 
 ## **What the Argent Banner Offers**
 
-Being part of the Argent Banner is a dream for many, but a privilege for few. Those who make it enjoy power, wealth, and status beyond compare.
-
 ### **Guild Benefits**
 
-- **Full Noble Sponsorship** – Members receive personal backers from wealthy families, ensuring they never lack funding or equipment.
-- **Guaranteed Livecasting Exposure** – Every expedition is recorded, ensuring that members gain fame, fortune, and fan followings.
-- **Top-Tier Equipment & Training** – The guild provides custom-forged weapons, legendary artifacts, and access to the best magical gear available.
-- **Expeditions Planned for Success** – Unlike smaller guilds that take high-risk missions blindly, the Argent Banner pre-plans every operation for maximum advantage.
-- **Personal Retainers & Attendants** – High-ranked members receive personal squires, scribes, and aides, ensuring they always appear regal and composed.
+- **Noble Backing** – Relic acquisition is pre-funded; guild members are rarely in want.
+    
+- **Guaranteed Livecast Coverage** – Scry-net deals ensure maximum exposure.
+    
+- **Designer Equipment** – Custom armor, tuned magic, and relic-grade cosmetics for consistency of image.
+    
+- **Curated Delves** – Expeditions are scouted weeks in advance to ensure narrative compatibility.
+    
+- **Personal Staff** – Members above A-Rank are provided with handlers, makeup artists, and speech coaches.
+    
 
-Of course, such luxury comes with an expectation—to maintain the Argent Banner’s pristine reputation at all costs.
+Success, however, is not optional. A single misstep could lead to demotion or scripted retirement.
 
 ---
 
 ## **Who Joins the Argent Banner?**
 
-The Argent Banner does not accept just anyone—its members are handpicked from the best warriors, tacticians, and spellcasters in Aerathon.
+The guild prefers candidates who are not only skilled, but "camera-ready."
 
-- **Noble Scions & Aristocratic Duelists** – Wealthy families send their heirs to prove their worth in battle.
-- **Livecast-Born Heroes** – Some members are recruited based on audience appeal, ensuring they "fit the role" of a legendary Delver.
-- **Handpicked Military Veterans** – Former knights, commanders, and battle-hardened soldiers seeking glory beyond war.
-- **Handsome, Charismatic, and Marketable** – Members are often chosen based on appearance, speechcraft, and how well they captivate an audience.
+- **Aristocratic Lineage** – The old blood, now reborn as brands.
+    
+- **Audience Favorites** – Delvers with natural charisma and broadcast charm.
+    
+- **Battlefield Veterans** – Tacticians with high success rates who can be molded.
+    
+- **Image-Conscious Warriors** – Those who see performance as part of battle.
+    
 
-Despite its combat excellence, the Argent Banner is also a carefully curated image—and anyone who does not fit that image is removed.
+Those who falter in elegance, moral ambiguity, or narrative appeal are often reassigned or quietly removed.
 
 ---
 
 ## **Relationship with Other Governing Bodies**
 
-### **Strong Alliance with the Halvaskian Delving Authority (HDA)**
+### **The Oria Delver Authority (ODA)**
 
-- The Argent Banner works closely with the HDA, ensuring priority access to high-profile Labyrinth expeditions.
-- Certain Argent Banner members receive “exclusive contracts”, granting them the first claim to dangerous discoveries before other guilds.
-- The HDA often ignores missteps from Argent Banner Delvers, allowing them to act above certain regulations.
+- Provides the Argent Banner with exclusive first-access rights to high-profile labyrinth events.
+    
+- Protects the guild legally during controversial broadcasted encounters.
+    
 
-### **Strategic Partnership with the Grand Scrying Network (GSN)**
+### **The Grand Scrying Network (GSN)**
 
-- The GSN promotes the Argent Banner more than any other guild, ensuring their Delvers are always at the forefront of public fascination.
-- Certain expeditions are rumored to be “arranged” for dramatic effect, ensuring that Argent Banner victories are seen as legendary.
-- The ABA works with the Argent Banner to control certain narratives, ensuring that failures are quietly erased, while victories are immortalized.
+- The GSN tailors entire weekly segments around the Argent Banner.
+    
+- Audience polls often influence which members receive relic trials or screen time.
+    
 
-### **Rivalry with the Free Company of Stalwart Souls**
+### **The Free Company of Stalwart Souls (Rivalry)**
 
-- The Free Company despises the Argent Banner, seeing them as privileged frauds who never fight unless victory is guaranteed.
-- Argent Banner members look down on the Free Company, seeing them as "expendable, desperate misfits unworthy of true recognition."
-- Certain heated duels between members of both guilds have escalated into serious conflicts, leading to HDA-mandated peace treaties.
-
+- The Free Company sees the Argent Banner as shallow, privileged, and cowardly.
+    
+- The Argent Banner views the Free Company as uncouth and market-toxic.
+    
+- Duels, sabotage, and staged debates between the two are frequent—and wildly popular.
 ____
 _Prepared by the Halvaskian Ministry of Delving Oversight & The Grand Scrying Network_  
