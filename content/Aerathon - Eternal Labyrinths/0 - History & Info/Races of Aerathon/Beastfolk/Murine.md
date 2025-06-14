@@ -1,110 +1,106 @@
-> “My friend and I went on a double date with two mouse boys once. They were nice, but I think they were talking to each other the whole time.”
-	*-Bentley, possum delver*
+> *“My friend and I went on a double date with two mouse boys once. They were nice, but I think they were talking to each other the whole time.”*
+
 ___
 
 ![[{64E2E152-115C-4F1E-89B2-682466752BB2}.png]]
-## Overview
+## **Overview**
 
-The murine species walks tall and proud, albeit often between the legs of larger species. The mice
-are the masters of Arneria’s Causeway, while their rat cousins have spread out to fill the little corners of every homeland.
+The murine species walks tall and proud—though often between the legs of larger beasts. Their legacy runs deep through Arneria and beyond, with mice serving as silent tacticians and rats as outspoken revolutionaries. Despite their size, murines wield cultural might in ways few expect.
 
-Murine mice have the uncanny ability to com- municate without a sound. They can speak with their own kind through facial tics and eye movements too subtle for others to even notice without immersed, dedicated study. A room full of mice is somewhat unnerving—background chatter goes on in complete silence.
+Mice are the masters of nonverbal communication. Entire conversations pass silently between them through minute facial twitches and eye movements. Outsiders can scarcely perceive it, much less understand. It’s said that each mouse carries two selves: one for the world, and one only their kind can see.
 
-Perhaps because of this, mice are one of the most insular species. It’s said that each has two
-distinct identities: one they present for outsiders in normal speech, and one for other mice. They often struggle to reach out to other species, especially in their younger years. While a mouse might be renowned in their own circles for quick wit, to their non-mouse friends they might seem soft-spoken and aloof.
+By contrast, rats lost this gift long ago. A calamity centuries past stole their silent speech—but in its place bloomed something just as powerful. Rats possess uncanny survival instincts and a knack for finding exactly what they need, be it a scrap of food or a hidden escape tunnel. Their adaptability, independence, and flair for community journalism have earned them an outsized place in the Beast World.
 
-Rats were once also blessed with silent speech. However, a tragedy centuries ago robbed them of the ability to discern it, spurring an adaptation in the opposite direction of collective mouse society
-in Arneria.
+Though their cultures diverged, mice and rats remain united by blood and circumstance. Both are small, but neither are to be underestimated.
 
-Filling the space left behind by this stolen gift of nature, rats have an intuitive sense of where to find what they need. A starving rat will discover their next meal in a place that’d be dumb luck to anyone else. This knack for adaptation has even changed their physical bodies over time. While
-almost all mice are under 4 feet and Small size, rats can be Small or Medium, and grow to six feet
-or taller.
+---
 
-Hardly any rats live in Arneria. In the early days after their departure from the homeland, they
-were determined to stay in touch and share news from their new homes with loved ones they left
-behind. The letters they sent evolved over time and eventually the publications spread out of murine circles. Today, rats operate the Beast World’s first independent newspapers, and ratprint brings the written word to people in every homeland. With cooperative effort between the homelands, rats have devised a way to set lettering into a machine that prints thousands of papers a day. As the world changes, rats have ensured that everyone knows
-about it.
+## **Murine Traits**
 
-___
+**Creature Type.** You are a Humanoid.
 
-## Murine Traits
+**Ability Score Increase.** Your Dexterity score increases by 2.
 
-***Creature Type***. You are a Humanoid.
+**Speed.** Your walking speed is 30 feet.
 
-***Ability Score Increase.*** Your Dexterity score increases by 2.
+**Mazeproof.** You never become lost retracing any path you’ve consciously traveled within the last 7 days. Additionally, you are treated as a minotaur for the purposes of the _maze_ spell.
 
-***Speed.*** Your walking speed is 30 feet.
+**Low-Light Vision.** You treat dim light as bright light.
 
-***Mazeproof.*** You never become lost retracing any path you’ve traveled while conscious in the past 7
-days. Additionally, you are treated as a minotaur for the purposes of the maze spell.
+---
 
-***Low-Light Vision***. Murines see very well in the dark, though not as well as species that live
-underground or at night. Dim light is bright light for you.
+### **Mouse**
 
-### Mouse
+**Ability Score Increase.** Your Charisma score increases by 1.
 
-***Ability Score Increase.*** Your Charisma score increases by 1.
+**Size.** You are Small. Most mice stand between 3'4" and 3'8" tall.
 
-***Size.*** The average mouse is the smallest of the Beast World species. Most stand between 3’4” and 3’8” tall. Your size is Small.
+**Voiceless Speech.** You can silently communicate with any mouse who can see your face, and vice versa. These conversations are undetectable to other species without special training or magic.
 
-***Voiceless Speech.*** Mice have an innate connection among themselves that allows them to
-communicate using facial tics and mannerisms too subtle for other species to detect. You can communicate silently with any mouse who can see your face, and vice versa.
+**Collective Magic.** As a reaction, when a creature within 60 ft loses concentration on a spell, you may expend a spell slot equal to or higher than its level to sustain it. The spell continues for its full remaining duration.
 
-***Collective Magic.*** As a reaction to another creature within 60 feet of you that you can see losing
-concentration on a spell (because of disruption on the end of its duration), you can expend a spell slot of at least the spell’s level to allow it to continue. Its duration is extended by its normal maximum.
+---
 
-### Rat
+### **Rat**
 
-***Ability Score Increase.*** Your Wisdom score increases by 1.
+**Ability Score Increase.** Your Wisdom score increases by 1.
 
-***Size.*** Rats vary widely in stature; most stand anywhere from 3’9” to 5’9” tall. Your size is Small or Medium (your choice).
+**Size.** You are Small or Medium (your choice). Most rats stand between 3'9" and 5'9" tall.
 
-***Leftover Magic.*** Rats can make do with leftovers, and this extends even into the arcane. As a
-reaction to a spell being cast on a creature you can see within 60 feet of you, if the spell’s level is lower than or equal to your level divided by 3 (minimum 1st-level), you can cause the spell to additionally affect you as if you were the target. Once you use this ability you can’t use it again until you finish a long rest.
+**Leftover Magic.** When a creature within 60 ft casts a spell of a level less than or equal to your level ÷ 3 (minimum 1st), you can use your reaction to gain its benefits as if you were also targeted. Usable once per long rest.
 
-***Survivable.*** Rats persevere. You can survive twice as long as normal without eating or drinking.
+**Survivable.** You can survive twice as long without food or water.
 
 ____
-## Homeland Traits
 
 ![[{E42B53AE-1865-4FB8-A998-20FF607D7CAD}.png]]
-### Allemance
+## **Homeland Traits**
 
-Allemagnian nobles are eager to recruit mouse fighters for the tactical advantage of their small bodies, and nearly all able-bodied mice in the kingdom are drafted into their barony’s guard for a few years. They compensate for their shorter stature with a culture of clever riding, even on an ally’s back. Alley mice have also found their niche using a courtly weapon that aids this style of combat.
+### **Allemance**
 
-***Versatile Rider.*** As a bonus action while mounted, you can position your body to prepare yourself for an emergency dismount. After taking this action, you can dismount into an unoccupied space within 5 feet as a reaction to being hit by an attack. Additionally, mounting a bipedal creature costs 5 feet of your movement.
+Murine youth in Allemance are almost all conscripted into the barony guard for a few years. Nobles value their small size and clever riding skills. Mouse cavalry units are trained in emergency dismounts and swift retreats, sometimes perched atop allies many times their size.
 
-***Royal Lancer.*** You are proficient with the lance. While mounted, you ignore the property of the lance that imposes disadvantage on attack rolls against creatures within 5 feet of you.
-### Oria
+**Versatile Rider.** As a bonus action while mounted, prepare for an emergency dismount. If hit by an attack, you can use your reaction to dismount into a nearby space. Mounting a bipedal creature costs only 5 ft. of movement.
 
-As in Allemance, northern mice thrive in the deep snow with disciplined riding. Oric mice have a longstanding rivalry with their southern cousins centered on whose ridership tactics are superior. Mice are usually surrounded by bigger beasts and brethren, but doubly so among Orians. However, Orians use this to their advantage.
+**Royal Lancer.** You are proficient with the lance. While mounted, you ignore the lance's usual disadvantage when attacking targets within 5 ft.
 
-***Versatile Rider.*** As a bonus action while mounted, you can position your body to prepare yourself for an emergency dismount. After taking this action, you can dismount into an unoccupied space within 5 feet as a reaction to being hit by an attack. Additionally, mounting a bipedal creature costs 5 feet of your movement.
+---
 
-***Mouse Among Giants.*** If a creature at least one size category larger would grant you half cover, you have three-quarters cover instead.
+### **Oria**
 
-### Vinyot
+Snowbound mice in Oria developed mounted techniques adapted to icy plains. They are strategic, brave, and masters of making use of cover—especially when that cover is a wooly ally twice their size.
 
-Southern mice work in groups to tend the vine-yards of the homeland’s harsher regions. Working with Vinyotian sails sparked an idea in one ingenious mouse that rippled through murine culture and changed the way they travel overland.
+**Versatile Rider.** (Same as Allemance.)
 
-***Drifting Drop.*** With 1 minute of preparation, you can tie a sail (or another square cloth at least 10 feet on a side) to your ankles. When wearing this cloth and holding the other two corners with both hands, you fall 60 feet per round and don’t take fall damage. You can remove the cloth with an action.
+**Mouse Among Giants.** If a creature at least one size category larger would provide half cover, you instead benefit from three-quarters cover.
 
-***Gliding Descent***. While using the Drifting Drop trait in moderate or stronger wind, you can move up to your speed in its direction at no movement cost to you. In strong wind, you can also choose a falling speed between 0 and 60 feet per round.
+---
 
-### Arneria
+### **Vinyot**
 
-Arneria is the domain of mice. The east has oft been ruled by a murine Bey, and there are as many mouse datus as any other species in the Bat’yan. An engraving on the last stone laid in the Causeway reads, “In Silence Built, In Friendship Standing.” The secrets of voiceless speech have historically belonged only to mice, but recent breakthroughs have made it possible for them to educate someone patient enough for the lessons.
+Southern mice are vineworkers, treetop wanderers, and wind-riders. One enterprising mouse designed a technique to drift down from high places with sailcloth—transforming how mice navigate vertical spaces, and founding a new tradition of murine aerialists.
 
-***Twitch Literacy.*** With 30 days of practicing at least 2 hours a day, you can teach a creature who shares at least one spoken language with you to understand your voiceless speech. If you are under the shared effects of a telepathic bond spell, you can teach this skill in 2 hours instead.
+**Drifting Drop.** With 1 minute of prep, tie a sail or 10x10 cloth to your ankles and grip the corners. While falling, you descend at 60 ft. per round and take no fall damage. You can release it as an action.
 
-***Collective Effort.*** You can use the Help action to aid any creature that can understand your voice-less speech and see your face (such as another mouse or a creature you have used the Twitch Literacy trait to teach).
+**Gliding Descent.** While using Drifting Drop in moderate or strong wind, you can move up to your speed in the wind’s direction with no movement cost. In strong wind, choose a fall speed between 0–60 ft per round.
 
-### Al'Ar
+---
 
-After sailcloth drifting caught on in Vinyot, murine voyagers to Al’ar devised their own techniques using airborne travel. If pirates existed in Al’ar, they might see the value in using such skills to board enemy vessels. 
+### **Arneria**
 
-***Drifting Drop.*** With 1 minute of preparation, you can tie a sail (or another square cloth at least 10 feet on a side) to your ankles. When wearing this cloth and holding the other two corners with both hands, you fall 60 feet per round and don’t take fall damage. You can remove the cloth with an action.
+The spiritual homeland of the mice, Arneria is where voiceless speech was first born. Mice here build tight-knit communities bound by tradition and loyalty. Some now teach their subtle language to outsiders—a long process, but a powerful gift.
 
-***Pirate Drop.*** You can hold a weapon in one hand while using the Drifting Drop trait, and you can make a melee weapon attack against a creature immediately after falling at least 10 feet this way.
+**Twitch Literacy.** You can teach a creature who shares a spoken language to understand voiceless speech after 30 days of 2-hour daily practice. If linked via _telepathic bond_, the training takes only 2 hours.
 
+**Collective Effort.** You can use the Help action to assist any creature who understands your voiceless speech and can see your face.
+
+---
+
+### **Al'Ar**
+
+In the Feline Isles, murine inventors adapted Vinyotian air-gliding into daring new boarding tactics. If Al'ar had pirates (which it absolutely does not), these would be the tools they used. These mice are daring, resourceful, and just a little showy.
+
+**Drifting Drop.** With 1 minute of prep, tie a sail or 10x10 cloth to your ankles and grip the corners. While falling, you descend at 60 ft. per round and take no fall damage. You can release it as an action.
+
+**Pirate Drop.** While using Drifting Drop, you can wield a weapon in one hand. After falling at least 10 feet, make a melee attack against a creature you pass.
 ____

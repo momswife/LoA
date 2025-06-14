@@ -1,53 +1,53 @@
-> “Your Majesty, my brain is magical and special, but it still likes shiny things as much as yours does.”
-> 	*-Zip, kobold, failing to defend himself before a Vinyotian judge*
+> *“Your Majesty, my brain is magical and special, but it still likes shiny things as much as yours does.”*
 ___
 
 ![[{7551C6A6-BA7D-405B-BB0B-3130BEEC4F55}.png]]
-## Overview
+## **Overview**
 
-After their creation, kobolds were not supposed to escape the captivity of Ancestral Homeland dragons. Furthermore, none were supposed to escape to the Beast World. Even in the Beast World, none of the intruders were intended to be willful creatures.
+_Kobolds_ were never meant to exist in the Beast World—not like this. Born as mindless thralls under the dragons of the Ancestral Homeland, most kobolds remain barely sapient. They chatter, they hoard, they skitter through forgotten corners of dungeons—but they do not _think_. At least, not until something strange happens.
 
-### Stolen Actualization 
+Sometimes, amidst the clattering mass of clawed feet and glint-hungry eyes, one kobold becomes something more. It names itself. It sees itself. It becomes willful.
 
-Most kobolds in the Beast World are akin to grubby little automatons. They eat, hoard shiny things, and reproduce. None of these kobolds are aware of their individual selves, nor are they motivated beyond what instinct wants. There’s a spark of intelligence when enough of them get together, but they are almost never anything more than animals that can speak a few phrases.
+These rare _named kobolds_ are not merely smarter—they are _aware_. Their minds have stolen the spark of consciousness, rising like a single flame above the swarm. In the Beast World, where such willful kobolds number fewer than a thousand, each is an oddity, a marvel, and a headache waiting to happen.
 
-When enough kobolds gather in the same place, their cooperative intellect sometimes causes something strange to happen. Their minds sit on each other’s shoulders, and the one at the very top of the tower plucks something truly precious straight from the grasp of the gods: will. Get enough kobolds together and one of them realizes who they are, and starts referring to themselves by name. Such a kobold ceases to be an “it,” and becomes a “they.” Defying the basic natural order is just another way kobolds get into things others try to keep them from.
+Named kobolds wrestle with a strange duality: surrounded by their unthinking kin, yet profoundly alone. Some cherish their vacant-eyed cousins as kin to protect. Others flee from their origins, trying to prove they are more than a mimicry of sentience. Either way, most people in the Beast World aren’t sure whether to pet them, imprison them, or invite them over for tea.
 
-### Quiet-Minded Kinship
+But everyone agrees on one thing: when a kobold starts talking philosophy, _hide your cutlery._
 
-A willful member of the species is also called a named kobold. Named kobolds are capable of the same things all willful creatures are. They can shape a worldview from their experiences, and they seek to improve themselves. A named kobold has an inner life that is absent in their siblings and cousins.
+---
 
-Given the astounding rarity of willful kobolds (most believe there are fewer than one thousand in the Beast World), their lives can be lonely. Some feel a special bond with their vacant-eyed families and feel responsible to protect them from harm. Others resent their unenlightened origins and distance themselves from other kobolds so as not to be mistaken for a “chicken-brain.”
+## **Kobold Traits**
 
-Other species of the Beast World aren’t sure what to make of named kobolds. Many assume that the self-awareness is a trick the kobolds have devised to attract sympathy. Most folks are willing to give them the benefit of the doubt, though, and enjoy having their big personalities around to chat with.
+**Creature Type.** You are a Humanoid.
 
-____
+**Ability Score Increase.** Your Dexterity score increases by 2, and one other ability score (excluding Intelligence) increases by 1.
 
-## Kobold Traits
+**Size.** You are Small. Most kobolds stand between 3’2” and 3’10”.
 
-***Creature Type.*** You are a Humanoid.
+**Speed.** Your walking speed is 30 feet.
 
-***Ability Score Increase.*** Your Dexterity score increases by 2, and another score of your choice (except Intelligence) increases by 1.
+**Escaper’s Keepers.** You are proficient in the Sleight of Hand skill. As a reaction to being targeted by an opportunity attack, you can make a Dexterity (Sleight of Hand) check contested by the attacker’s Wisdom (Perception). On a success, the attack misses, and you can snatch a worn or carried item (not held, max 5 lbs) without being noticed. Creatures that witness this become immune to it for 24 hours.
 
-***Size.*** Kobolds are the optimal size to get into places they don’t belong. Most stand between 3’2” and 3’10” tall. Your size is Small.
+**Clumsy Competence.** You gain a +1 bonus on any ability check on which you do not add a bonus from proficiency, features, or magic—only your raw ability score. This bonus becomes +2 if your Intelligence is 9 or lower.
 
-***Speed.*** Your walking speed is 30 feet.
+**Stackable Intellect.** When other kobolds are near, you think clearer. Gain a bonus on ability checks based on the number of kobolds within 60 feet of you:
 
-***Escaper’s Keepers.*** You are proficient in the Sleight of Hand skill. As a reaction to being targeted by an opportunity attack, you can make a Dexterity (Sleight of Hand) check contested by the attacking creature’s Wisdom (Perception) check. If you succeed, the attack misses, and you can take an object worn or carried by the attacker (but not one they are holding) without them noticing. The object must fit in one hand and weigh no more than 5 pounds. Either way, after using this ability any creature that can see you (including the target) is immune to this ability for 24 hours.
-
-***Clumsy Competence.*** Unburdened by the paralyzing effects of analytical thinking, Kobolds have a way of getting to the solution they seek (even more so if unburdened by intellect). You have a +1 bonus to any ability check you make on which you don’t have a bonus other than from your ability modifier, or from the Stackable Intellect trait (see below). This bonus is +2 instead if your Intelligence score is 9 or lower.
-
-***Stackable Intellect.*** You gain a bonus to ability checks based on the number of kobolds within 60 feet of you. The bonus is determined by the Kobold Stacking table below.
-
-Kobold Stacking
-
-| Number of Kobolds | Ability Check Bonus |
-| ----------------- | ------------------- |
-| 2                 | +1                  |
-| 4                 | +2                  |
-| 8                 | +3                  |
-| 16                | +4                  |
-| 32+               | +5                  |
-
+|Number of Kobolds|Ability Check Bonus|
+|---|---|
+|2|+1|
+|4|+2|
+|8|+3|
+|16|+4|
+|32+|+5|
 
 ____
+
+## **Homeland Traits**
+
+_Kobolds don’t hail from traditional homelands. Most dwell in labyrinth margins, abandoned tunnels, or cluttered warrens hidden beneath proper cities. However, named kobolds adopt homes—sometimes warmly, sometimes explosively._
+
+**Hoarder's Luck.** You’ve spent your life collecting baubles, dodging boots, and escaping broom-wielding shopkeeps. You have advantage on checks made to locate small, hidden, or valuable objects (such as gems, keys, or trap triggers), and can use Sleight of Hand in place of Arcana or Investigation when identifying magical objects or deciphering runes if you’ve touched the item.
+
+**Squatters of the Forgotten.** If you spend at least 8 hours in a ruin, sewer, or similar abandoned structure, you can identify all natural paths of entry and exit, detect the nearest active Arcana within 30 feet (as if by _detect magic_), and learn whether the structure was once sacred, arcane, or mundane in nature.
+
+You may choose one homeland trait from any other species to reflect where you emerged from as a named kobold.

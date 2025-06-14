@@ -1,123 +1,110 @@
-> “Of course. Please turn the platter toward me. A 270 degree angle would be enough, except I’d also like some of the potatoes. It may be more efficient to let me take over the rotation after a 135 degree turn to bring them facing me. Then again, a slow, consistent rate would be less transitional work. Let me consult my average serving times. Honey, could you grab my notebook? I want to check something.”
-	*-Arlen, ferret engineer, after being asked if he’d like to serve himself at a friend’s dinner party*
+> *“Of course. Please turn the platter toward me. A 270 degree angle would be enough, except I’d also like some of the potatoes. It may be more efficient to let me take over the rotation after a 135 degree turn to bring them facing me. Then again, a slow, consistent rate would be less transitional work. Let me consult my average serving times. Honey, could you grab my notebook? I want to check something.”*
+
 ___
 
 ![[{2C971D64-D0B3-46B6-888A-4D436FD8A24E}.png]]
-## Overview
+## **Overview**
 
-Laetine (LAYteen) is the species shared by ferrets and otters, their aquatic counterparts. They consider themselves two parts of the same whole because of their long, small bodies and peculiar thinking patterns. As one of the Small species awakened by Pirhoua, laetines often disappear under the sightline of the Beast World. However, they attract plenty of attention in other ways. Their electric intellect and unique problem solving skills make an impression on anyone they meet. Attending a laetine family function as a guest can be a frustrating affair. Relatives are often the only people who truly comprehend the moment- to-moment paths a laetine mind walks. Their conversations are a labyrinth of inside references, technically precise descriptions of past events, and long journeys from the topic at hand. Some wizards get on especially well with laetines. Conjurers, tinkerers, and construct builders exercise the same critical thinking laetines apply to every interaction in life.
+Laetines (LAY-teen), the clever kin of _ferrets_ and _otters_, are defined by their winding thoughts and noodle-like frames. Though physically small, their minds are relentless—teasing out puzzles, patterns, and engineering innovations that leave larger species dazzled.
 
-Laetines are curious and inventive, and there’s no better place to flex one’s ingenuity than in the Dungeon. The most common motivation for new laetine adventurers is hearing of a new delver innovation. As a popular ferret story goes, when Penelope Clearwater invented the spring-loaded ladder in 1358, one in ten able-bodied noodles started lacing their first delving boots. When it comes to the dungeon’s puzzles and maze-like cor- ridors, a laetine mind can be a lifesaving addition to the crew’s kit. As an added bonus, their pliable bodies can help out-of-reach treasures find their rightful home in the crew’s loot sack. 
+Their species is known for eccentric speech, rapid intellectual leaps, and a tendency to meander through concepts at a pace that bewilders most. Few conversations with a laetine are brief, and none are simple. Yet, their ingenuity makes them invaluable—from constructing arcane engines to wriggling through collapsed dungeon hallways.
 
-___
-## Laetine Traits
+In delving crews, laetines often serve as problem-solvers, inventors, or navigators. They are natural tinkerers and subtle mages, more interested in clever solutions than brute force. Whether planning a pulley trap mid-battle or slipping through a pipe to flip a distant lever, a laetine’s presence is often the difference between a grim end and an elegant escape.
 
-***Creature Type.*** You are a Humanoid.
+---
 
-***Ability Score Increase.*** Your Intelligence score increases by 2.
+## **Overview**
 
-***Speed***. Your walking speed is 30 feet.
+Laetines (LAY-teen), the clever kin of _ferrets_ and _otters_, are defined by their winding thoughts and noodle-like frames. Though physically small, their minds are relentless—teasing out puzzles, patterns, and engineering innovations that leave larger species dazzled.
 
-***Noodle Body.*** Your long and flexible body can squeeze into tighter spaces than anyone else—one
-can almost imagine pouring you into a teacup. You are treated as Tiny when determining what your body can fit into. For instance, you can squeeze through any hole your head can fit through (usually about 6 inches). Additionally, you can move through the space of any creature at least one size category larger than you, which costs you no extra movement.
+Their species is known for eccentric speech, rapid intellectual leaps, and a tendency to meander through concepts at a pace that bewilders most. Few conversations with a laetine are brief, and none are simple. Yet, their ingenuity makes them invaluable—from constructing arcane engines to wriggling through collapsed dungeon hallways.
 
-***Slippery Thoughts.*** You have resistance to psychic damage, and you are immune to the detect thoughts spell unless it was cast by another laetine.
+In delving crews, laetines often serve as problem-solvers, inventors, or navigators. They are natural tinkerers and subtle mages, more interested in clever solutions than brute force. Whether planning a pulley trap mid-battle or slipping through a pipe to flip a distant lever, a laetine’s presence is often the difference between a grim end and an elegant escape.
 
-### Otter
+---
 
-***Ability Score Increase.*** Your Wisdom score increases by 1.
+## **Laetine Traits**
 
-***Size.*** Most otters stand between 3 and 4 feet tall. Your size is Small.
+**Creature Type.** You are a Humanoid.
 
-***Swim.*** You have a swimming speed equal to your walking speed, and you can hold your breath for up to 15 minutes.
+**Ability Score Increase.** Your Intelligence score increases by 2.
 
-***A Head For Knots***. Otters can easily visualize a ship’s rigging. Your proficiency bonus is doubled for any Dexterity or Intelligence check you make to use rope.
-### Ferret
+**Speed.** Your walking speed is 30 feet.
 
-***Ability Score Increase.*** Your Dexterity score increases by 1.
+**Noodle Body.** You are treated as _Tiny_ for the purposes of fitting into spaces. You can move through the space of any creature at least one size larger than you without expending extra movement.
 
-***Size.*** Most ferrets stand between 3’4” and 4’0”. Your size is Small.
+**Slippery Thoughts.** You have resistance to psychic damage, and are immune to the _detect thoughts_ spell unless it is cast by another laetine.
 
-***Malleable Mind.***  You can take control of instincts that are automatic to most people, and
-with focus and deliberation you can prime your mind for a task. At the end of a long rest, choose one of the following skills: Insight, Investigation, Perception, or Survival. You are proficient in that skill until you choose a different one.
+---
+
+### **Otter**
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** You are Small. Most otters stand between 3 and 4 feet tall.
+
+**Swim.** You have a swimming speed equal to your walking speed and can hold your breath for up to 15 minutes.
+
+**A Head for Knots.** Your proficiency bonus is doubled for Dexterity or Intelligence checks made to use rope.
+
+---
+
+### **Ferret**
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** You are Small. Most ferrets stand between 3'4" and 4'0".
+
+**Malleable Mind.** At the end of a long rest, choose one: Insight, Investigation, Perception, or Survival. You are proficient in that skill until you choose a different one after your next long rest.
 
 ____
 
 ![[{389F0DA3-17B5-431B-A247-C9C9DF9B89FC}.png]]
-## Homeland Traits
+### **Allemance**
 
-### Allemance
+Allemance’s cities thrum with the click of gears and the buzz of enchanted dynamos—most of which have a laetine hand behind them. Ferrets and otters are prized inventors and troubleshooters in the homeland, often responsible for maintaining bell towers, sewer systems, and arcane mills. Alley artisans and nobles have come to expect the occasional eccentric blueprint doodled into an invoice or engineering notes that read like a family saga.
 
-Thanks to laetines, every city in Allemance uses mechanical wonders to serve the needs of its
-people. There’s a gear-headed laetine in the belfry of every Alley clocktower, and more artisans than ever are letting ferrets with outlandish schematics run wild in their workshops.
+**Court Tinkers.** You have proficiency with tinker’s tools. With 1 minute of study, you can discern the trigger or function of any handheld device or mechanism whose moving parts are visible.
 
-Alley laetines are (a little) less fastidious and scatterbrained than their cousins in other home-
-lands. Teams of ferrets or otter builders are often overseen by an Allemagnian to prevent infighting and feuds when a debate about proper blueprint notation turns hostile.
+---
 
-***Court Tinkers.*** You have proficiency with tinker’s tools. With 1 minute of study, you can discern the
-trigger or means of operating any device that you can hold or whose primary moving parts you can see.
+### **Oria**
 
-### Oria
+The rare laetine who makes their way into Oria finds a people who value ingenuity—but demand results. Lodge House leaders have learned to respect the engineering prowess of these peculiar guests, and though they are few, their contributions can be seen in spiral heating flues, self-locking doorbars, and auto-fed reindeer troughs. The Oric Barnraising Circle is their famous club, where new inventions are shared through rotating chain-letters.
 
-The eccentric plans of laetine engineering are valued in Oria, especially when expanding an
-already-sprawling lodge house to accommodate a new family. There aren’t many laetines north of the Mantle, but some noodles venture north to tackle
-the challenge of winter-proofing a house the size of a small town.
+**Schematic Sense.** As a bonus action, roll Intelligence (Perception) against a structure's DC. On a success, either double your damage to a 5-foot wall section, or cause a collapse that fills a 5-foot cube with debris, dealing 3d6 bludgeoning damage plus 1d6 per 10 ft fallen. You may not attempt again on failure.
 
-The Oric Barnraising Circle is a loose organization of laetines who exchange chain letters
-outlining their discoveries in engineering and architecture. Every newsletter is a cherished
-treasure to the club’s members, but almost incomprehensible to anyone else.
+**Example DCs:** Barn (10), House (12), Lodge (15), Dungeon (18).
 
-***Schematic Sense.*** As a bonus action, you can roll an Intelligence (Perception) check to determine a weak point in an artificial structure you can see. The DC is equal to the result of the artisan’s tools check rolled to erect the structure. Some example DCs are given below. On a successful check, choose one of the following effects:
-• You deal double damage to a 5-foot section of the structure’s wall you can see.
-• If you break a section of the ceiling, support beam, or column, you can cause a collapse that fills a space you choose within 60 feet of you with a pile of debris roughly 5 feet on each side. The debris leaves a hole in the ceiling, and causes 3d6 bludgeoning damage to any creature in the space, plus an extra 1d6 for every 10 feet it falls. On a failed check, you can’t roll to perceive flaws in the same structure again.
+---
 
-### Schematic Sense Examples
+### **Vinyot**
 
-| Structure            | Perception DC |
-| -------------------- | ------------- |
-| Barn or Hovel        | 10            |
-| House                | 12            |
-| Lodge House or Manor | 15            |
-| Castle or Dungeon    | 18            |
+Southern cities love two things: fashion and function. And Vinyotian laetines offer both, tailoring ingenious fixes for ship rigging, kitchen contraptions, and trade carts. They can often be found whispering with raccoons over black coffee in backroom shops or haggling for bizarre new components on the wharf. Their “Jury-Rig” packs are legendary tools of mercantile mischief and streetwise magic.
 
-### Vinyot
+**Jury-Rig.** You carry a kit of odd tools. With 1 minute and an Intelligence check, perform effects from the Jury-Rig Table:
 
-Otters’ elastic bodies are well-suited to fixing up hard-to-reach places, and they’re known for their common role maintaining Vinyot’s trade ships. Meanwhile, ferrets dart between the stacks of every Vinyotian library. Laetines live in other homelands as well, but the south has a unique patience for their lateral sort of creativity. Vinyotians’ love of patterns and efficiency is a natural fit for their inborn sensibilities. Members of the species take on leadership roles in other homelands extremely rarely, but there are a dozen or more laetine trade lords. Their ability to adapt in the moment is invaluable to the businesses of which they are stewards.
+|Effect|DC|
+|---|---|
+|Create spring-trap in door (1d6 dmg, hidden)|12|
+|Waterproof Huge vehicle for 24 hrs|15|
+|Increase object's break DC by 2d4|15|
+|First hit vs. construct is a crit|20|
 
-***Jury-Rig.*** You can improvise solutions to mechanical problems and adapt as a situation changes.
-You carry a kit of invaluable tools that seems like a pack of junk to anyone else. With 1 minute of studious work, you can roll an Intelligence check to perform one of the following effects. The DC of each effect is given in the Jury-Rig table below.
+---
 
-### Jury-Rig Table
+### **Arneria**
 
-| Effect                                                                                                                                                                                                        | DC  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Opening a door or hatch springs a trap that deals<br>1d6 bludgeoning, piercing, or slashing damage<br>(your choice). The DC to detect or disarm the trap<br>is equal to the result of the Intelligence check. | 12  |
-| Waterproof a modified Huge or smaller vehicle for<br>24 hours, allowing it to float on water.                                                                                                                 | 15  |
-| Increase the break DC of a modified Large or<br>smaller object by 2d4 for 1 hour.                                                                                                                             | 15  |
-| The first hit with an attack made with a modified<br>weapon against a construct in the next hour is<br>treated as a critical hit.                                                                             | 20  |
+Laetines are not rare in the Causeway’s cities—but those who come to Broadgate University often stay for life. They thrive in dense academic environments and quiet offices packed with scrolls and gears. Outside the cities, they are known as precise appraisers and sought-after gem evaluators, with sloths and ferrets forming a particularly wholesome cultural friendship in the deepest Bat’yan barangays.
 
-### Arneria
+**Lens Master.** You have proficiency with glassblower’s and jeweler’s tools. You can appraise the market value of nonmagical gems/plants as an action. With 1 minute of study, you identify magic items involving gems, glass, or lenses, and may attune to them (or aid an ally) in just 1 minute.
 
-Watch your step while walking through the halls
-of Broadgate University, as Arnerian laetines tend
-to read while walking, and most spend at least a
-year or two studying there. The university’s desert
-vulpine mathematicians are famously impatient
-with ferrets’ tendency to leave their offices in
-total disarray. That said, the two species are close
-colleagues.
+---
 
-Beyond the walls of a university, Arnerian laetines are valued craftspeople and appraisers. They dwell in the back rooms of jewelers and the offices of Causeway city planners, always looking for some new challenge for their racing minds. The people of the deepest Bat’yan rainforest have a uniquely stereotypical image of laetines. Within the most remote barangays, sloths and fer- rets are well-known, inseparable pals. One might describe Bat’yan culture as the ideal catalyst for these two reagents, and its laetines are distinctly sloth-like: easygoing, ponderous folks.
+### **Al’Ar**
 
-***Lens Master.*** You have proficiency with glass- blower’s tools and jeweler’s tools. As an action, you can accurately appraise the market value of any non-magical plant or gem. With 1 minute of study, you can also identify any magic item that prominently features a gemstone, glass, or lens (such as a staff or weapon with an inset gem). You can also attune yourself or an ally within 10 feet to such magic items with 1 minute of observation, instead of the normal 1 hour.
+Al’ari laetines are dreamers of the deep. Few in number, but unmistakable in passion, they are netweavers, buoyancers, and tinkerers of tide and storm. Their strange contraptions fill the storage sheds of docks and reefs alike, and their fascination with aquatic megafauna has made them some of the world’s best monster-trackers—especially when tangled nets are involved.
 
-### Al'Ar
-
-Already a relatively uncommon species, laetines are a novelty worthy of notice in the Feline Isles.
-Most families living on the islands have an ancestor who had some exceptional reason for leaving Vinyot, and a nosy Al’ari will ask a native laetine about the story.
-
-Surrounded by it on all sides, Al’ari laetines are fascinated by the sea and what lives in it. The sturdy and specialized nets they craft are in high demand all over the islands. Their operation usually requires knowledge of some weird buoy or counterweight, so folks tend to let their creators handle them.
-
-***Netfisher Noodle.*** You have proficiency with the net. You can spend 15 gp and 8 hours to improve a net’s function, making it more difficult to escape and harder to destroy. Its escape DC increases to 15, and a creature must deal 10 slashing damage to the net (AC 15) to free itself.
+**Netfisher Noodle.** You have proficiency with nets. After 8 hours and 15 gp, you can reinforce one: its escape DC becomes 15, and it has AC 15 and 10 HP.
 
 ___

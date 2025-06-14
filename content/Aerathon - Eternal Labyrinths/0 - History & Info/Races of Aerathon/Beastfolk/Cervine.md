@@ -1,105 +1,100 @@
->“We elk aren’t withdrawn and we aren’t cold. We wait until there’s something worth saying, and someone worth loving. Once we find them, we do more of both than anyone else.”
-	*-Berendey Torsten, ruler of Oria*
+>*“We elk aren’t withdrawn and we aren’t cold. We wait until there’s something worth saying, and someone worth loving. Once we find them, we do more of both than anyone else.”*
 
 ___
 
 
 ![[{09854EBB-A340-42C6-A5F7-A901CAA03CCE}.png]]
-## Overview
+## ## **Overview**
 
-The cervine elk embody the northern mountains they originate from: their stature, endurance, and
-their chilly exteriors. Some are nearly eight feet tall, and most have broad shoulders and powerful arms. Those with antlers cast an even longer, broader shadow.
- 
-By appearances, one might assume cervines to be brutish barbarians from the north. While plenty fit that description, the species runs deeper than raw muscle. Just as a wizard’s staff empowers them, a cervine’s physical body anchors them to the Arcana. Elk of every homeland share a cultural curiosity about the mysteries of magic.
+Cervines—especially elk and deer—are mighty and mystical denizens of the north. Their long limbs, broad shoulders, and regal antlers are matched only by their enduring bond with magic and tradition. Often mistaken as aloof or withdrawn, cervines are careful with their words and guarded with their trust—but fiercely loyal once earned.
 
-Perhaps because of their size or a lingering influence of their origin species, others know cervines to be cautious and to keep their distance in social gatherings. Most cervines are less-than-forthcoming with new people, but it’s not impossible to form close relationships with them. Their curiosity has driven them to travel around the world despite their suspicion of strangers. While they are impatient with idle chatter (especially that of wolves), any beast or brethren who can find common ground with an elk makes a devoted friend.
+Their massive presence makes them pillars in any delving party, whether through brute strength, protective resolve, or arcane might. Some whisper that every elk carries a spark of ancient mountain sorcery in their blood—and the glow in their antlers proves it.
 
-The most famous military force in the Beast World is also its most secretive: the Oric War Mages. The sharpest wizards and strongest fighters in Oria dwell in a hidden stronghold, where they study and train together. While every- one knows about their existence, their identities are a closely guarded secret. Elk are the typical person’s image of a War Mage, and cervine delvers who travel beyond the Oric border inevitably face excited questions about the order. Foreigners wonder if they’ve spotted a War Mage whenever they see an elk with a heavy weapon or one casting arcane spells.
+---
 
-___
+## **Cervine Traits**
 
-## Cervine Traits
+**Creature Type.** You are a Humanoid.
 
-***Creature Type.*** You are a Humanoid.
+**Ability Score Increase.** Your Strength score increases by 2.
 
-***Ability Score Increase***. Your Strength score increases by 2.
+**Speed.** Your walking speed is 30 feet.
 
-***Speed.*** Your walking speed is 30 feet.
+**Armaments of the First.** You possess natural weapons: a hoof stomp (bludgeoning) and a gore attack (piercing, if you choose to have antlers). These deal 1d6 + Strength modifier damage.
 
-***Armaments of the First.*** All cervines are gifted with one of their forebears’ natural weapons. You have a hoof stomp and a gore attack (if you have antlers, which is your choice). These attacks deal 1d6 damage plus your Strength modifier. The hoof stomp deals bludgeoning damage, and the gore attack deals piercing damage. 
+**March on Hooves.** You have advantage on saving throws to avoid exhaustion from forced marches.
 
-***March on Hooves.*** You have advantage on saving throws you make to avoid suffering exhaustion from a forced march.
+**Powerful Build.** You count as one size larger when determining carrying capacity and lift/push/drag limits.
 
-***Powerful Build.***  You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+---
 
-### Deer
+### **Deer**
 
-_**Ability Score Increase.**_ Your Wisdom score increases by 1.
+**Ability Score Increase.** Your Wisdom score increases by 1.
 
-_**Size.**_ Deerfolk are graceful and long-limbed, standing between 5’10” and 7’ tall, with their antlers adding further height and elegance. Your size is Medium.
+**Size.** You are Medium, standing between 5’10” and 7’ tall.
 
-_**Still as the Grove.**_ Deerfolk move with the silence of twilight and the awareness of prey that has learned how to survive. When you take the Hide action in natural terrain, you can attempt to hide even when only lightly obscured by foliage, mist, or shadow. Additionally, you have advantage on Wisdom (Perception) checks that rely on hearing.
+**Still as the Grove.** When hiding in natural terrain, you can attempt to hide when only lightly obscured. You have advantage on Wisdom (Perception) checks that rely on hearing.
 
-_**Season-Touched.**_ Your ancestors once followed the ancient migrations tied to the turning of the seasons. As a reflection of this primal rhythm, you gain resistance to either cold or fire damage (your choice when you finish a long rest). You can change this choice with each rest, as your spirit shifts with the seasons.
-### Elk
+**Season-Touched.** When you finish a long rest, choose resistance to cold or fire damage until your next rest.
 
-***Ability Score Increase.*** Your Constitution score increases by 1.
+---
 
-***Size.*** Elk are some of the tallest inhabitants of the Beast World, with most standing somewhere between 6’4” and 7’6” tall before accounting for antlers. Your size is Medium.
+### **Elk**
 
-***Nature’s Conduit.*** Animal ancestors of the elk roamed the mountains before the Beast World’s
-creation. The old world’s magic still shimmers in the expanse that became Oria.
-Your legacy still manifests as a faint glow in your eyes or pinpricks of light at the points of your antlers. You can use this part of your body in place of any spellcasting focus. Additionally, you can attune to a maximum of four magic items.
+**Ability Score Increase.** Your Constitution score increases by 1.
 
-***Unshakable Guard.*** Cervines are stout and wide, and their stature enables them to plant their
-feet and endure. When an effect would knock you prone, you can use your reaction to remain standing. Once you use this ability, you can’t use it again until you finish a short or long rest.
+**Size.** You are Medium, standing 6’4” to 7’6” before counting antlers.
+
+**Nature’s Conduit.** Your antlers or eyes may be used as a spellcasting focus. You can attune to 4 magic items instead of 3.
+
+**Unshakable Guard.** When an effect would knock you prone, you may use your reaction to remain standing. Once per short or long rest.
 
 
 ___
 
-## Homeland Traits
+## **Homeland Traits**
 
-### Allemance
+### **Allemance**
 
-Cervines in Allemance are often from lodge houses captured during the Mantle War generations ago. Most dwell just south of its mountainous border with Oria, among other species from the far north. Their lifestyle is a blend of north and south, small Alley houses clutching the customs from before their annexation. While the war displaced many Orians, the most fervent protectors of their stolen culture are cervines.
+Formerly of Oria, cervines in Allemance fiercely protect their heritage. Many remain in cultural enclaves where traditions are preserved.
 
-***Holders of History.*** You have proficiency in the History skill. You roll Intelligence (History)
-checks with advantage when attempting to discern the family lineage of an Orian, an Allemagnian,
-or a cervine. If you succeed on that check, you roll Charisma checks against that creature with advantage for the next hour.
+**Holders of History.** You have proficiency in History. You roll History checks with advantage when discerning the lineage of an Orian, Allemagnian, or cervine. On a success, you also gain advantage on Charisma checks against that creature for 1 hour.
 
-### Oria
+---
 
-Elk are the emblematic species of the Houses of Oria. The cervine inheritance is the way of the
-maester hammering powerful magic into their creations. Your inheritance is the way of the mammoth hunter on the tundra plains, stalking northern wooly giants. While you may not be a maester or hunter yourself, the lessons of child- hood remain with you.
+### **Oria**
 
-***Forge Bequeathed.*** You can cast spells with expensive components with materials 20% less
-than is normally required. You roll any ability check used to create a magic item with advantage, and the gold material cost to do so is 20% lower.
+Elk are iconic in Oria, where they train as warriors, maesters, or silent sentinels of arcane might. The elk of Oria carry power passed down from both forge and tundra.
 
-***Tusk Bequeathed.*** If you hit a creature at least one size category larger than you with an attack on the first turn of combat, the attack deals an extra 2d6 damage to the creature. You can use this trait only once per combat.
+**Forge Bequeathed.** When casting spells with expensive material components, the gold cost is reduced by 20%. You also roll checks to create magic items with advantage and spend 20% less gold to do so.
 
-### Vinyot
+**Tusk Bequeathed.** On the first round of combat, if you hit a creature at least one size larger than you, deal an extra 2d6 damage. Once per combat.
 
-Savvy shipwrights brought cervines to Vinyot to aid in fortifying their fleets. While Vinyotian ships
-are larger and capable of longer voyages, Orians hold the secrets of constructing massive, stalwart vessels of ice-breaking iron. Today these families work alongside the common species of the south. They combine their durable designs with the experimental schematics of laetine engineers.
+---
 
-***The Oric Shipbuilding Tradition.*** When you build a vehicle or supervise the construction of one, you ensure it has a sturdy, holistic frame. Whenever the vehicle collides with a creature or object while moving, the damage it takes is reduced by 3d6. The struck creature or object takes bludgeoning damage equal to the amount of damage prevented this way.
+### **Vinyot**
 
-### Arneria
+Northern shipbuilders migrated south to reinforce Vinyot’s growing fleets. Their cervine designs now blend with laetine innovation.
 
-The earliest records of the Oric cervines contain stories about the “snow-whisperers,” wielders of profane magic against their own kin. Cast out for the practice, they settled in the Beylik desert. While their traditions are a forgotten sin, their lasting influence is the “Sand Whisper.” Arnerian elk combine this cutting tongue into their martial training.
+**The Oric Shipbuilding Tradition.** When building or supervising the construction of a vehicle, its collision damage taken is reduced by 3d6. The struck creature or object instead takes that damage.
 
-***Sand-Whispering Outcasts.*** You know the vicious mockery cantrip. Charisma is your spell-
-casting ability for the spell. When you take the Attack action on your turn, you can cast vicious mockery as a bonus action. You can use this trait to cast the cantrip as a bonus action a number of times equal to your Charisma bonus, and you regain all expended uses when you finish a long rest.
+---
 
-### Al'Ar
+### **Arneria**
 
-Cervine families in other homelands can trace their lineage back to great Oric lodge houses.
-Even a third-generation Al’ari grows up hearing the history of the northerners who bore her family name. The fastest way to a cervine’s heart is to ask about these stories.
+Outcast elk once fled to Arneria, carrying a secret art—the Sand Whisper—with them. Their legacy survives in sharp tongues and sharper blades.
 
-Generations ago, Al’ari cervines arrived as cultural ambassadors looking to spread their art and music. In exchange for the spirited northern culture, the islands taught the elk a natural combat style that is distinctly feline.
+**Sand-Whispering Outcasts.** You know the _vicious mockery_ cantrip. Charisma is your casting ability for it. When you take the Attack action, you may cast _vicious mockery_ as a bonus action, up to a number of times equal to your Charisma modifier per long rest.
 
-***Mountain to the Isles.*** You have proficiency with two artisan’s tools, two musical instruments, or a combination of both.
+---
 
-***Pounce of the North.*** If you move at least 20 feet in a straight line toward a creature and then hit with the natural weapon attack from your Armaments of the First trait on the same turn, the target must succeed on a Strength saving throw with a DC of 8 + your proficiency bonus + your Strength modifier or be knocked prone. If the target is already prone, you can instead make the natural attack as a bonus action.
+### **Al’Ar**
 
-___
+Generations of Al’ari cervines still honor their ancestral roots while adopting local feline traditions. They become artists, warriors, and bridges between cultures.
+
+**Mountain to the Isles.** You gain proficiency with any combination of two artisan’s tools and/or musical instruments.
+
+**Pounce of the North.** If you move 20 feet straight toward a creature and hit with a natural weapon, the target must make a Strength save (DC = 8 + your proficiency + Strength mod) or be knocked prone. If already prone, the attack may be used again as a bonus action.
+
+---

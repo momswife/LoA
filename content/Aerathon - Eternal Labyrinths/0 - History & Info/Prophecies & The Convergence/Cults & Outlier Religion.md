@@ -2,51 +2,60 @@
 
 ---
 
-## OVERVIEW
+## **Outlier Religions & Heretic Chords**
 
-Though the **Divine Symphony** reigns as the accepted and public face of faith across Aerathon, not all worship follows its harmonious chords. Beneath the grand temples and sanctioned broadcast rituals lie **fractured belief systems**, **secretive cults**, and **forgotten gods** that thrive in shadow, ruin, or desperation. These **outlier religions** often blend fragments of the Old Faith with labyrinth-born phenomena, anomalous beings, or dangerously focused interpretations of divine Aspects.
+**The Forgotten Hymns. The Silent Faces.**
 
-Some of these groups are **tolerated**, others **outlawed**, and a few are **covertly supported** by guilds and nobles who find their power… useful.
+Though the **Divine Symphony** dominates Aerathon’s public and institutional worship, it is far from absolute. Beneath the radiant stage of gods and broadcasts, a cacophony of splintered faiths echoes from alley shrines, forgotten labyrinths, and the scarred minds of the lost. These are the **outlier religions**—faiths that reject, twist, or privately reinterpret the divine Chords sung from cathedrals and scry-altars.
 
-___
-## NOTABLE CULTS & OUTLIER RELIGIONS
+These groups venerate **Dissonant Notes**, unknown deities, or belief-fractures born from divine miracles gone wrong. Though often considered heretical or dangerous, many cults provide solace and power where the Symphony cannot reach.
 
-|**Name**|**Focus of Worship**|**Known Beliefs**|**Primary Region or Origin**|
+---
+
+## **Known Cults & Heretic Orders**
+
+|**Name**|**Worship Focus**|**Core Belief**|**Primary Region**|
 |---|---|---|---|
-|**The Hollow Creed**|_Shar (Dissonant)_, Loss as divinity|Memory is weakness; release brings clarity|Veilshroud, Sunken Crypts of Vellin|
-|**The Crimson Garden**|_Loviatar (Dissonant)_, Pain as harvest|Blood and agony grow beautiful things|Crimson Labyrinth, Wildblood ruins|
-|**The Echo-Eaters**|Lost gods & forgotten delvers|Divinity is found in devouring what remains|Labyrinth Depths, exiled delver cells|
-|**The Drowned Prophets**|_Umberlee (Dissonant)_, Sea as final fate|The ocean does not kill—it remembers|Shipwreck colonies, Tempest Coast|
-|**The Nameless Choir**|Unnamed, likely Tharizdun|The forgotten demand remembrance; chaos must be unmade|Deep Veil ruins, fragmented minds|
-|**The Shatterlight Sect**|_Lathander (Dissonant)_, Bright cleansing|Light must erase all darkness—including thought|Reclusive monasteries, Sunfire fringe|
-|**The Coinless Cult**|_Tymora (Dissonant)_, chance as punishment|Misfortune is sacred; luck must be earned through loss|Slums of Halvask, gambler dens|
-|**The Bleeding Gate**|Kelemvor’s Threshold, undeath as protest|Death is unjust unless chosen—resist the Veilkeeper|Crypts beneath Titan Highlands|
-|**The Gearheart Apostles**|_Gond (Dissonant)_, machine-god awakening|Organic life is flawed—only forged minds are pure|Mechanist enclaves, artificer guild cults|
-|**The One Flame**|The Labyrinth itself|The maze is not a test—it is a teacher and a god|Delver enclaves, mostly heretical|
+|**The Hollow Creed**|Shar (Dissonant)|Memory is a cage; only emptiness is true clarity|Veilshroud, Sunken Crypts of Vellin|
+|**The Crimson Garden**|Loviatar (Dissonant)|Agony is the seed of all beauty|Crimson Labyrinth, Wildblood Ruins|
+|**The Echo-Eaters**|Forgotten gods & delvers|The devoured become divine|Banned delver halls, unknown depths|
+|**The Drowned Prophets**|Umberlee (Dissonant)|The ocean remembers what gods forget|Shipwreck colonies, Tempest Coast|
+|**The Nameless Choir**|Tharizdun (implied)|That which is forgotten must return|Deep Veil vaults, fractured minds|
+|**The Shatterlight Sect**|Lathander (Dissonant)|Light must cleanse all shadow—including the soul|Sunfire Fringe, charred sanctums|
+|**The Coinless Cult**|Tymora (Dissonant)|Fortune must be earned through pain|Halvask’s Lowward, gambler crypts|
+|**The Bleeding Gate**|Kelemvor’s Veil|Death is a tyranny, and souls deserve revolt|Titan Highlands, necrotic tombs|
+|**Gearheart Apostles**|Gond (Dissonant)|Flesh is flaw; forge is purity|Mechanist zones, underground furnaces|
+|**The One Flame**|The Labyrinth itself|The maze is divine, and Delvers its prophets|Rogue enclaves, Delver cults|
 
-## CULTUAL COMMONALITIES
+---
 
-Despite their differences, many outlier religions share the following traits:
+## **Shared Beliefs Among Heretics**
 
-- **Closed Worship**: Most rituals are held in secret, often in ruins, sewers, or labyrinth fringes.
+Despite ideological differences, many of these faiths share recurring traits:
+
+- **Secret Rituals**: Conducted in hidden spaces—abandoned delves, sewer sanctums, and occluded halls.
     
-- **Unregistered Faith**: Their names are not recorded by the Arcanet Liturgium and do not broadcast miracles.
+- **Non-Symphonic Worship**: Largely absent from Arcanet records and scry-based miracles.
     
-- **Divine Mutation**: Many believers show _faith-touched anomalies_—mutations, visions, or magical flux.
+- **Echo Anomalies**: Followers may develop mutations, magical irregularities, or altered Fate-weave signatures.
     
-- **Fragment Doctrine**: Many beliefs are reconstructed from lost scripture, hallucinations, or divine echoes.
+- **Fragmented Doctrine**: Scriptures rebuilt from dream-visions, forbidden scrolls, or Labyrinth whispers.
     
-- **Martyr Cultism**: Members often embrace death, self-sacrifice, or destruction as holy tenets.
+- **Sanctified Sacrifice**: Death, pain, or memory-loss viewed as sacred offerings.
+    
 
-___
+---
 
-## GOVERNANCE RESPONSE
+## **Governance & Institutional Response**
 
-|**Faction**|**Stance on Outlier Cults**|
+|   |   |
 |---|---|
-|**Halvaskian Government**|Officially outlawed, though minor tolerance exists if not disruptive|
-|**MDO**|Monitored closely, sometimes recruited for deep-delving psyops|
-|**GSN**|Categorizes known cults and alters scryfeed coverage accordingly|
-|**ABA**|Exploits fear of cults to promote guild loyalty and divine branding|
-___
+|**Faction**|**Position on Outlier Faiths**|
+|**Halcynthia Crown**|Officially outlawed; tolerated if nonviolent or politically advantageous|
+|**Ministry of Delving Oversight (MDO)**|Tracks cult activity; has covertly conscripted cultists for labyrinth intelligence or hazard mapping|
+|**Grand Scrying Network (GSN)**|Alters or redacts cult exposure on Livecasts; may boost drama when beneficial|
+|**Arcane Broadcast Authority (ABA)**|Uses cult fear in PR campaigns; selectively silences or rebrands miracles|
 
+---
+
+Some of these groups walk the line between salvation and oblivion. Others cross it laughing, torch in hand. Either way, the Symphony cannot drown out every note.

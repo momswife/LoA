@@ -1,59 +1,64 @@
 > _“When the gods made us, they sang. Now we sing back—with steel, blood, and stories. The Convergence is not their victory. It is ours.”_
 ---
-## OVERVIEW
+## **The Convergence Prophecy**
 
-The **Convergence Prophecy** is the most widely circulated and hotly debated prophetic text in Aerathon’s recorded history. Appearing in fragments across ancient ruins, Labyrinth glyph-clusters, and divine trances, the prophecy foretells a **singular epochal event**—_The Convergence_—in which **the divine and the mortal will no longer remain separate entities.** According to most interpretations, this event marks a moment where **the gods descend or are supplanted**, **mortals ascend**, or **reality itself fractures**, fusing the sacred and the profane into one existence.
+**The Fractured Song. The Rising Voice.**
 
-Though dismissed by pragmatists and officially classified as “symbolic doctrine” by the Halvaskian Ministry of Orthodoxy, nearly **every major faith, cult, and guild** has an opinion on the Convergence. Some prepare for it. Others seek to prevent it. A few claim it has already begun.
+The **Convergence Prophecy** is the most enigmatic and debated divine revelation in all of Aerathon. Its origins are obscure, found etched in shattered glyph-arches, muttered during trance-induced oracles, or burned into relics discovered on deep labyrinth floors. It speaks not of the end—but of a transformation: a merging of the divine and the mortal, where **the gods fall, rise, or are rewritten**, and the boundaries between truth, myth, and flesh collapse.
 
----
-
-## ✦ CORE VERSE (Translated Fragment)
-
-> _“When the veil grows thin and twelve false echoes fall,  
-> The Labyrinth shall open inward.  
-> Gods will bleed. Mortals will ascend.  
-> And the song shall no longer be sung,  
-> But screamed into being by those who survive.”_  
-> — _Carved on the Unfinished Arch of Titan’s Reach_
-
-This passage is the **most complete and consistent** rendition of the Convergence Prophecy. While the original language has never been fully identified, it resonates with both divine speech and deep-labyrinth sigil structures.
+Though publicly dismissed by institutions such as the Halcynthia Crown and the Arcane Broadcast Authority as metaphor or heresy, nearly **every major religion, delver guild, and cult** has reacted to its verses—some preparing for transcendence, others stockpiling for calamity, and a few quietly insisting the Convergence is already underway.
 
 ---
 
-## ✦ INTERPRETIVE FACTIONS
+## **Core Verse Fragment**
+
+> _“When the veil grows thin and twelve false echoes fall,__The Labyrinth shall open inward.__Gods will bleed. Mortals will ascend.__And the song shall no longer be sung,__But screamed into being by those who survive.”_  
+> — Inscribed upon the Unfinished Arch of Titan’s Reach
+
+This fragment, traced to multiple translations and dream-echoes, resonates with divine and labyrinthine aether alike. It is often called **Verse Zero** by Fatesworn interpreters.
+
+---
+
+## **Interpretive Factions & Theological Positions**
 
 |**Faction / Faith**|**Belief Regarding the Convergence**|
 |---|---|
-|**The Radiant Covenant**|A holy end-times moment in which only the worthy ascend to join the gods; all others are judged.|
-|**The Gilded Pantheon**|An opportunity to claim divinity through wealth, dominance, and the control of Labyrinthic relics.|
-|**The Fatesworn Mystics**|A predestined recalibration of reality, inevitable and cosmic, guided by the Arcanet Core’s design.|
-|**The Veilborn Theocracy**|A collapse of the boundary between life and death; spirits shall flood the living world.|
-|**The Audience Eternal**|The final season—only those with enough favor, drama, and devotion shall survive and rewrite fate.|
-|**The Hollow Creed**|An opportunity to erase the gods entirely and return the world to silent peace through loss.|
-|**The Delver Guilds**|A theoretical event, often used as justification for deep-floor expeditions and artifact harvesting.|
-___
-## SIGNS OF APPROACHING CONVERGENCE
+|**Radiant Covenant**|A divine reckoning where Radiant Faces choose their champions for ascension.|
+|**Gilded Pantheon**|The gods are vulnerable; wealth and relics will determine who ascends in their place.|
+|**Fatesworn Mystics**|The Convergence is inevitable—a design seeded by the Arcanet Core itself.|
+|**Veilborn Theocracy**|Life and death will shatter—spirits will walk freely, and memory will become truth.|
+|**Audience Eternal**|A final broadcast—where only the most adored, watched, and remembered survive.|
+|**Hollow Creed**|An end to all gods—where silence becomes salvation.|
+|**The Delver Guilds**|A prophecy used as justification for the deepest and most reckless expeditions.|
 
-Diviners and prophetic scholars maintain a growing list of **possible precursors**:
+---
 
-- The collapse of divine Aspects into singular, unstable forms
-    
-- Broadcast anomalies that invoke unknown gods or repeat “lost” footage
-    
-- The birth of mortals who channel divine power without pact, prayer, or lineage
-    
-- The death or silence of one of the major gods’ Aspects across all shrines
-    
-- Appearance of the **Inward Labyrinth**, theorized to be a Labyrinth that _descends into the soul rather than the earth_
-    
-- Sudden failure of resurrection magic, accompanied by hallucinated music
+## **Known Omens and Prophetic Triggers**
 
-___
-## PROPHECY CLASSIFICATION
+Scry-prophets and faithbound analysts monitor several growing anomalies that may signal the prophecy’s unfolding:
 
-|**Codename**|**Event Type**|**Divine Threat Level**|**Scrying Stability**|**Scholastic Consensus**|
+- **Collapse of Aspectual Identity** — Radiant and Dissonant Faces of gods appearing simultaneously or vanishing altogether.
+    
+- **Echo-Reversal in Livecasts** — Broadcasts that loop, feature impossible phenomena, or show forgotten gods.
+    
+- **Aetherborn Mortals** — Individuals wielding divine power without known pacts, faith, or relic attunement.
+    
+- **Shrine Silence** — Locations once teeming with divine resonance now yielding only stillness or false miracles.
+    
+- **Emergence of the Inward Labyrinth** — A theorized delve into one’s own soul, history, or fate.
+    
+- **Resurrection Collapse** — Dead Delvers returning wrong—or not at all—with music echoing behind their eyes.
+    
+
+---
+
+## **Threat Codex Classification**
+
+|   |   |   |   |   |
 |---|---|---|---|---|
-|CONVERGENCE-001|World-Scale Ascension/Reversal|CRIMSON|Fractured / Unstable|Hotly Disputed / Deeply Feared|
-_Note: Attempts to simulate the Convergence through Arcanet ritual or divine matrix have resulted in thaumic feedback, minor demigod births, or insanity in lead casters._
+|**Codename**|**Event Type**|**Divine Threat Level**|**Scrying Stability**|**Scholarly Consensus**|
+|CONVERGENCE-001|World-Scale Reality Shift|CRIMSON|Inconsistent / Recursive|Fiercely Debated / Universally Feared|
 
+> _Attempts to simulate the Convergence via Arcanet simulation or divine-loop ritual have resulted in cascade failures, rogue ascensions, and unsanctioned sainthood._
+
+The song is changing. And for once—it may not be the gods conducting it.

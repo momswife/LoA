@@ -1,73 +1,77 @@
-> “We talk about a lot of things. I’ve found I can get them to express their feelings about anything, if I can put it in terms of walking around, how annoying flies are, or the taste of oats and apples.”
-	*-Dorian, ovine delver, when asked about chatting with his crew’s horses*
+> *“We talk about a lot of things. I’ve found I can get them to express their feelings about anything, if I can put it in terms of walking around, how annoying flies are, or the taste of oats and apples.”*
+
 ____
 
 ![[{5D247DAC-62DB-4321-877E-6E39F8A52A0F}.png]]
-## Overview
+## **Overview**
 
-Wherever there are interesting animals to talk to, you’ll find a sheep somewhere nearby making conversation. These gentle and uncomplicated folks are equally common in every homeland. Sheep are born with a unique blessing from the goddess Pirhoua: the ability to communicate with animals. Most sheep keep faithful pets as friends and conversation partners throughout their lives. The most common pet is a pig, whose minds can absorb and retain more ideas than some other potential companions.
+Wherever there are interesting animals to talk to, you’ll find a sheep somewhere nearby making conversation. Ovines are calm-hearted wanderers, revered not for flash or strength, but for a deep-rooted clarity few others understand. Though soft-spoken, their thoughts run rich and earthy—anchored in the world, in the soil, and in the company of beasts.
 
-Ovines invented the term “quiet-minded beasts” to describe the animals of the world. The term comes from the simple, quiet thoughts that animals express. Creatures driven by instinct don’t have the same elaborate motivations and nuanced thoughts as their willful counterparts. Sheep recognize the value of their freedom from strife and anxiety, and have great respect for animal life.
+Each sheep is born with a gift from Pirhoua: the ability to speak with animals. This innate connection fosters not only companionship with quiet-minded beasts, but a philosophy of harmony and gentleness. To the ovine, a forest full of chirping sparrows and snuffling pigs is a choir of daily wisdom. They are known across the Beast World as caretakers, shepherds, and listeners.
 
-Ovines are tuned into a reality most only have a passing awareness of, but impatient folks might think them dull-witted. A sheep’s priorities rarely include formal learning and intellectual study. Their love for peaceful life among the herd is incompatible with the conniving of Allemagnian street hustlers or savvy Vinyotian trade moguls. But sheep aren’t stupid! Their patience affords them wisdom and perception of the world around them.
+Sheep possess a quiet insight that earns them friendships with ligonines and druids alike. Some mistake their deliberateness for dullness—but sheep often observe truths others overlook. Whether guiding a stubborn delver through rough terrain, tending a field with whispered songs to the weeds, or simply providing a shoulder and a slow blink of understanding, an ovine’s presence is a balm.
 
-Their gentle nature and tendency to take things slow makes them the friends of the eccentric ligonines. In particular, sheep and sloths tend to meet for the first time just as one might chatter with an old friend. In the opposite manner, laetines are sometimes impatient with ovines on their crew. A ferret’s mind races in a dozen directions, and they find sheep impossible to drag along on their mental tangents.
+Many take up the call of delving not for glory or treasure, but to protect what remains untouched. Their kinship with animals gives them reason to challenge the growing scar of the Labyrinths. Some serve as crew mediators, others as wilderness experts—but all see their bond with the natural world as sacred.
 
-Appropriately, sheep have unrivaled shepherding skills. A flock is well-understood and obedient in the care of an ovine rancher. They also enjoy work as shopkeepers or any other job with ample opportunities for long, thoughtful gazes into the distance.
+---
 
-Wooly delvers often have a close relationship to nature or practice druidic magic. Indeed, sheep druids are gravely concerned about the Dungeon’s effects on the natural world. They ally themselves with crews to seek any possible way to reverse the blight an entrance might inflict on local flora and fauna.
+## **Ovine Traits**
 
-___
+**Creature Type.** You are a Humanoid.
 
-## Ovine Traits
+**Ability Score Increase.** Your Wisdom score increases by 2.
 
-***Creature Type.*** You are a Humanoid.
+**Speed.** Your walking speed is 30 feet.
 
-***Ability Score Increase.*** Your Wisdom score increases by 2.
+**March on Hooves.** You have advantage on saving throws to avoid exhaustion from forced marches.
 
-***Speed.*** Your walking speed is 30 feet.
+**Efficient Metabolism.** You can sustain yourself indefinitely on any green vegetation.
 
-***March on Hooves.*** You have advantage on saving throws you make to avoid suffering exhaustion from a forced march.
+**Mind for Beasts.** You can comprehend and verbally communicate with Beasts. They offer insights limited by their intelligence, but will always share basic observations from the last 24 hours. Once per long rest, you can cast _animal messenger_ at 2nd level without expending a spell slot. Wisdom is your spellcasting ability.
 
-***Efficient Metabolism.*** Ovines can eat a wide variety of foods that are unpalatable to other species. You can (joyfully!) sustain yourself indefinitely on any green vegetation.
-
-**Mind for Beasts.** You can comprehend and verbally communicate with all Beasts. Their knowledge and awareness is limited by their intelligence, but at minimum, animals can give information about what they’ve seen within the past 24 hours. You might also be able to persuade a Beast to perform a small favor for you, at the GM’s discretion. Additionally, you can cast the animal messenger spell as a 2nd-level spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for it.
-
-***Shepherd Step.*** The steep hills of the world have been your playground since you took your first steps. On anything other than a sheer vertical surface, you have a climbing speed of 15 feet, and your hands remain free while you do so.
+**Shepherd Step.** You have a climbing speed of 15 feet on non-sheer surfaces, and do not require your hands to climb this way.
 
 ___
 
-## Homeland Traits
+## **Homeland Traits**
 
-### Allemance
+### **Allemance**
 
-In the wilderness of Allemance it’s easy to get lost, but also to hide one’s misdeeds. The crown has trained any willing ovine in martial skills to protect native wildlife. They learn to punish poachers with unique maneuvers and long-hafted weapons. Beware—the sleepy bundle of wool watching over her flock can likely lay out an attacker in seconds.
+Ovines in Allemance are quiet wardens of the wilds. Drafted as wilderness sentinels, they master reach weapons and battlefield control to defend the woods and its denizens. Poachers beware: the sleepy-eyed shepherd on the hill might send you rolling down it.
 
-***Shepherds on the Green.*** Once per turn, when you hit a creature with an attack using a weapon with the reach property and roll the maximum value on any of the weapon’s damage dice, you can also attempt to knock the target down. If the target is Large or smaller, it must make a Strength or Dexterity saving throw (its choice) with a DC equal to 8 + your attack bonus with the weapon. On a failed save, you knock the target prone.
+**Shepherds on the Green.** Once per turn, when you hit with a reach weapon and roll max on any damage die, you may force the target (Large or smaller) to make a Strength or Dexterity saving throw (DC = 8 + your weapon attack bonus) or be knocked prone.
 
-### Oria
+---
 
-Oric sheep have been cherished for centuries by the Houses of Oria for their role as scouts and watchers in the night. When the doors of a lodge house close for the colder months, some sheep stay on the outside. Orians abstain from shearing their thick wool until spring, which protects from the cold. When the sun sets, they teach each new generation how to find the scarce remaining wildlife to enlist help watching for winter dangers.
+### **Oria**
 
-***Self-Sufficient Herder.*** You automatically succeed on Constitution saving throws made to survive in extreme cold weather. Additionally, you have proficiency in Survival, and you know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it.
+In the bitter cold beyond the Mantle, sheep are seen as vigilant souls who weather storms and watch over lodge houses from outside their doors. Their wool is kept thick until spring, and their ways—though rustic—are deeply wise. Few survive winter better than an Oric herder.
 
-### Vinyot
+**Self-Sufficient Herder.** You are immune to extreme cold. You gain proficiency in Survival, and learn one cantrip from the druid spell list (Wisdom is your casting stat).
 
-The typical ovine is content to let the business machine of Vinyot churn past them as they attend to other things. However, they still show a glimmer of the homeland’s culture of wit and wiles. Enterprising foxes and possums often take sheep to be easy marks when selling their wares or playing their confidence tricks. Keep an eye on a Vinyotian sheep; they know their reputation for dopiness and will turn the tables on one trying to play them for a fool.
+---
 
-***Underestimated.*** Whenever you make a Charisma (Deception) check against a creature with an Intelligence score of 13 or more, you are treated as proficient and your proficiency bonus is doubled for the check.
+### **Vinyot**
 
-### Arneria
+In the bustling streets and bustling markets of Vinyot, sheep stroll slow and blink deep. Often dismissed as easy marks, they play to that reputation—and sometimes fleece the fox who thought to fleece them. Their unassuming wisdom masks a knack for playful misdirection.
 
-In some sense, the Bat’yan and Beylik are very much the opposite sort of place for a sheep. The rainforest is teeming with a thousand potential conversations every day, crawling along underfoot and chirping in every tree. In the Beylik, however, such opportunities are few and far between. Whichever side of the Attamek they’re from, Arnerian sheep are the chattiest of their kind. They enjoy spending hours listening to the ongoing quiet-minded drama around them, and they have a knack for finding the juiciest gossip, even in the scorching eastern desert.
+**Underestimated.** When making a Charisma (Deception) check against a creature with Intelligence 13 or higher, you are considered proficient and double your proficiency bonus.
 
-***Find a Friend in Fauna.*** If you spend 1 minute studying your surroundings, you can discern the type and number of the highest CR Beast within 1 mile, as well as the direction to their location. You also know whether the creatures were forced to move unexpectedly, such as to flee a predator or intruder. Once you use this trait, you can’t use it again until you finish a long rest.
+---
 
-### Al'Ar
+### **Arneria**
 
-The solitary curiosity of Al’ari felines has drawn a playful streak out of the ovines who live in the region. Island sheep are pranksters and trouble-makers who grow up watching the fishers from the docks of their hometowns. Each island’s ovines have their own set of good-natured tricks, which often leave everyone laughing at the end. A common tool of this “trade” is their ability to split their innate gift with animals between several aquatic accomplices at once.
+In Arneria’s jungle and desert alike, sheep are chatty observers of the natural world. They listen to the gossip of birds and insects, learn the rhythms of desert migrations, and quietly become experts on the region’s wild patterns. Their Beast-friends are many—and they know how to find them.
 
-***School Teacher.*** When you cast the spell animal messenger on creatures that live in water, you can affect a number of creatures with the spell equal to your proficiency bonus. You can specify a different message and destination for each creature affected this way.
+**Find a Friend in Fauna.** With 1 minute of observation, you learn the type, number, and direction of the highest-CR Beast within 1 mile. You also know if that creature fled something unnatural. Once per long rest.
+
+---
+
+### **Al'Ar**
+
+Al'ari sheep are playful tricksters of the shore, pranksters of the reef, and jokers of the wharf. Raised among curious felines and clever fishers, they embrace mischief and community alike. Their mastery over animal communication extends to whole pods of aquatic friends.
+
+**School Teacher.** When you cast _animal messenger_ on aquatic Beasts, you may target a number of creatures equal to your proficiency bonus. Each may carry a different message to a different destination.
 
 
 ___

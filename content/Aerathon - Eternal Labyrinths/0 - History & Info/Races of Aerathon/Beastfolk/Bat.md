@@ -1,52 +1,53 @@
-> “History is a bunch of trivia. They tell you it’s important to convince you to hold a grudge against someone you don’t know.”
-> 	*-Kizzip, bat*
+> *“History is a bunch of trivia. They tell you it’s important to convince you to hold a grudge against someone you don’t know.”*
 ___
 
-## Overview
+![[{D5465C94-B85C-4806-BD10-2185E8A55FF4}.png]]
+## **Overview**
 
-Bats are anomalies, outsiders, and asterisks in the cosmic ledger. They come from the Astral Sea, previously understood to be little more than space between worlds. In its blue expanse, they weave matter from thin air and flit about their own world without a care. In the Astral, they enjoy a life of infinite space and limitless resources. 
+Bats are anomalies, outsiders, and asterisks in the cosmic ledger. They hail from the **Astral Sea**, once thought to be a formless space between worlds, now known to be a boundless realm of potential—and home to a civilization unlike any other.
 
-### Astralborn
+### **Astralborn**
 
-Bats are the only known willful species who call the Astral Sea their home (for more information on the Astral Sea, see page 188). Its unlimited space is teeming with their free-floating towns, yet their relatively tiny footprint on the place hid them from the Beast World until now. They have their own society separate from the Beast World, the Broken World, the Ancestral Homeland, or any other.
+Bats are the only known self-aware species to have evolved entirely within the Astral Sea. Its infinite, mutable expanse is teeming with their glittering, gravity-optional sanctuaries, each built through **astralcraft**—a process by which bats reshape raw **astra** with sheer will. They eat it, mold it, and use it as a fundamental source of both sustenance and creation.
 
-In the Astral, bats are natural masters of astralcraft. By exerting one’s will on the murky astra that drifts all around the Astral Sea, one can shape any tangible objects they can imagine. Everything tangible there is either brought in from elsewhere or made of astra. Bats are born surrounded by it and live among it. Astra sustains a bat (though they can also digest Beast World food, with a few days of initial bellyaches). For a bat, willing an object into existence is second nature.
+Though they can digest Beast World food (with some temporary gastrointestinal protest), bats are largely sustained by their native environment. Their relationship with the astral medium is so intimate that most of them carry a pocket of it—**cheiropockets**—even when venturing into other worlds.
 
-### Bat Towns
+### **Bat Towns & Culture**
 
-Bat homes are clustered together in a loose arrangement of bizarre astralcraft constructions. Their homes serve more as ongoing art installations; the Astral Sea has no weather to protect oneself from. Bats build sprawling mansions, gigantic representations of tiny objects, and anything else they can dream of. They spend their lives inventing new ways to stretch and shape their own world.
+Bat enclaves are surreal and ever-shifting, populated with dreamlike structures, floating art, and impossible architecture. These towns have no weather, gravity, or enemies—and therefore no concept of scarcity or conflict. Each town is more of a collaborative canvas than a structured society.
 
-### Bat History
+They value **creation over continuity**, preferring improvisation to tradition. Most have little to no interest in history, legacy, or fixed dogma. As a result, bats do not revere gods in the traditional sense—but some cults have begun forming among Astralborn delvers fascinated by the Divine Symphony's Radiant Faces.
 
-Bat culture has no notion of the ideas of history, legacy, or memory beyond one’s own lifetime. Bats know and love their own families, they make friends, and they create art for those around them. They learn everything they need from the lessons of their parents and peers. Everything beyond these things is irrelevant.
+### **The Delving Age Awakens**
 
-Bat towns have floated in the infinite blue of the Astral Sea for as long as any of them can remember. Their lack of historical record makes it impossible to determine anything about their origins or creation. Even their general number is unknown; scholars guess that there are over a million bats in the Astral, but there’s no way to know for sure. Bats are unbothered by this ignorance of the past. They value firsthand experience more than any secondhand account. Needless to say, this has vexed curious scholars and arcanists since their appearance in the Beast World.
+Since the Labyrinths began intersecting with deep planar threads, a surprising number of bats have emerged in Aerathon. Some arrived through sanctioned Astral Gates maintained by the Halvaskian Crown, while others arrived by accident—or curious instinct. These bats now serve as scouts, dream-crafters, and spell-crafters in delving guilds, their unique abilities deeply valued.
 
-____
+Among the Divine Symphony, most bats resonate faintly with gods like **Leira**, **Mystra**, or **Oghma**, though they rarely worship. Others see in **Selûne’s Lady of Lanterns** a symbol of their own dual-world nature. A small number follow a rising heresy known as the **Unwritten Chord**—a belief that bats are divine echoes yet to awaken.
 
-## Bat Traits
+---
 
-***Creature Type.*** You are a Humanoid.
+## **Bat Traits**
 
-***Ability Score Increase.*** Your Charisma score increases by 2, and your Dexterity score increases by 1.
+**Creature Type.** You are a Humanoid.
 
-***Size.*** Most bats stand between 4’7” and 5’7” tall. Your size is Medium.
+**Ability Score Increase.** Your Charisma score increases by 2, and your Dexterity score increases by 1.
 
-***Speed.*** Your walking speed is 30 feet.
+**Size.** Most bats stand between 4’7” and 5’7”. Your size is Medium.
 
-***Cheiropocket.*** Every bat carries a connection to the Astral Sea while in another world. This cheiropocket is an extraplanar space accessible through the inner membrane of their wings. As a bonus action, you can touch the inside of your wing to open your cheiropocket or close it again. While it’s open, your wings emanate the glow of the Astral Sea, and you can stow or retrieve an item as an action.
+**Speed.** Your walking speed is 30 feet.
 
-Your cheiropocket can hold cubic feet of nonliving material up to 12 x your Intelligence modifier (minimum 12 cubic feet). If you attempt to stow living material, or an item that’s too large, it passes through your wing and falls to the ground behind you. You take any damage that the pocket’s contents deal to its interior. If you fall to 0 hit points or die, the pocket’s contents spill forth, unharmed. The space of your cheiropocket cannot exist in the Astral Sea when your body is also present there. Traveling to the Astral collapses your cheiropocket and leaves its contents behind in your space the moment you cross over.
+**Cheiropocket.** You maintain a tethered pocket of the Astral Sea linked to your wing membrane. As a bonus action, you can open or close this **cheiropocket**, allowing you to stow or retrieve an item as an action. It can hold up to 12 x your Intelligence modifier (minimum 12) cubic feet of nonliving material. Living creatures or oversized items pass through harmlessly. The pocket collapses and spills its contents if you drop to 0 HP or enter the Astral Sea.
 
-***Wings.*** While a bat’s wings don’t allow for flight outside of the Astral Sea, they can still make an otherwise deadly descent into a breezy float downward. While your arms are free and you are not wearing heavy armor, you can extend your wings to fall at a speed of 30 feet per round. For every foot you descend, you can also move a foot horizontally (this costs movement as normal). You do not take falling damage while gliding. While in the Astral Sea, bats have a flying speed of 40 feet regardless of armor worn, and can hover.
+**Wings.** While not flight-capable outside the Astral Sea, your wings allow you to glide. While unencumbered and not wearing heavy armor, you can fall 30 feet per round without damage and move 1 foot horizontally per foot descended. While in the Astral Sea, you gain a flying speed of 40 feet and can hover.
 
-***Astral Echoes.*** A bat’s voice resonates on two worlds at once, and they can speak in Astral tones to listen for what echoes back. As a bonus action, you can emit a sound that’s silent in the Beast World, but a loud shriek in the Astral Sea. Anything in the part of the Astral Sea that crosses within 120 feet of you (such as a creature using the etherealness spell) becomes visible to you until the end of your next turn. While in the Astral Sea, this ability gives you blindsense out to a range of 120 feet instead. You can use this ability a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Astral Echoes.** Your voice resonates across planar veils. As a bonus action, you can emit an **astral tone** silent in this world but thunderous in the Astral. Any creature or object currently phasing into the Astral Plane within 120 feet becomes visible to you until the end of your next turn. While in the Astral Sea, this grants **blindsight** to 120 feet. Usable a number of times equal to your proficiency bonus per long rest.
 
-____
+---
 
-## Homeland Traits
+## **Homeland Trait: Astral Space**
 
-### Astral Space
+**Practiced Astralcrafter.** You have honed your will against the infinite. Add your proficiency bonus to Intelligence checks made to manipulate **astra** or perform astralcrafting, especially when within the Astral Sea or interacting with astral-infused materials in Aerathon.
 
-***Practiced Astralcrafter.*** The pale blue astra that fills every corner of the Astral Sea is the indefinite stuff that holds every thing in every world. All willful creatures have some rudimentary power to manipulate astra, but bats raised in its light are the true masters of the craft. You can add your proficiency bonus to Intelligence checks to perform astralcrafting. 
+---
 
+The bats are here—and though they don’t always understand the song of this world, they’ve started humming along. Sometimes off-key. Often on purpose.
