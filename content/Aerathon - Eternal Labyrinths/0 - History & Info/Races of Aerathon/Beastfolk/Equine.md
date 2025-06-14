@@ -1,5 +1,5 @@
 > “Be safe. Be timely. Kick the world behind you every day.”
-> 	- *Motto of the Donkey Post mail deliverers*
+> 	-*Motto of the Donkey Post mail deliverers*
 
 ___
 
