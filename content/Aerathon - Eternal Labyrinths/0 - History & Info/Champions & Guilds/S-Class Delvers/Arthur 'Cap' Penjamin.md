@@ -4,7 +4,7 @@ ___
 
 ## **Overview**
 
-**Arthuer “Cap” Penjamin** was one of Aerathon’s most dependable and battle-hardened frontline delvers—a Barbarian famed not for rage or recklessness, but for **unyielding protection**. Wielding a tower shield forged from labyrinth-wrought adamantine, Cap was the anchor of countless delve parties, standing fast against horrors that would turn most to dust.
+**Arthur “Cap” Penjamin** was one of Aerathon’s most dependable and battle-hardened frontline delvers—a Barbarian famed not for rage or recklessness, but for **unyielding protection**. Wielding a tower shield forged from labyrinth-wrought adamantine, Cap was the anchor of countless delve parties, standing fast against horrors that would turn most to dust.
 
 He earned the name “Cap” not just for his leadership, but because **he never charged first**—he held the line, drew the blows, and let others shine. A favorite among healers, squires, and civilians, Cap was the embodiment of reliability. Until he picked up **the Stormhowler.**
 
