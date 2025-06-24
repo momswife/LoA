@@ -27,7 +27,7 @@ Jackals are not bound by the Beast World’s timelines. Their lifespans stretch 
 
 **Obscuring Dream.** You can cast the _dream_ spell once per long rest without expending a spell slot. When using this trait, you may instead alter a target's memory of an encounter from the last 7 days, causing them to forget your presence (DC = 8 + your proficiency bonus + Intelligence modifier). If the target has an Intelligence score lower than yours, they automatically fail. You may cast _dream_ using spell slots as normal.
 
-**Life’s Passion.** You gain proficiency with one artisan’s tool and one skill from the following: Arcana, History, Medicine, Nature, or Religion. Your proficiency bonus is doubled for these checks. You also gain proficiency with one martial melee weapon (without the heavy property); for you, it counts as finesse and thrown (range 20/60).
+**Life’s Passion.** You gain proficiency with one artisan’s tool and one skill from the following: Arcana, Investigation, Medicine, Nature, Religion or Survival. Your proficiency bonus is doubled for these checks. You also gain proficiency with one martial melee weapon (without the heavy property); for you, it counts as finesse and thrown (range 20/60).
 
 **Birthmates of the Arcana.** You know the _eldritch blast_ cantrip. Choose two 1st-level ritual spells from the wizard list. You can cast each once per long rest without material components. You can also cast them with spell slots as normal. Intelligence is your spellcasting ability for these spells.
 

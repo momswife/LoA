@@ -48,6 +48,4 @@ Among the Divine Symphony, most bats resonate faintly with gods like **Leira**, 
 
 **Practiced Astralcrafter.** You have honed your will against the infinite. Add your proficiency bonus to Intelligence checks made to manipulate **astra** or perform astralcrafting, especially when within the Astral Sea or interacting with astral-infused materials in Aerathon.
 
----
-
 The bats are here—and though they don’t always understand the song of this world, they’ve started humming along. Sometimes off-key. Often on purpose.
