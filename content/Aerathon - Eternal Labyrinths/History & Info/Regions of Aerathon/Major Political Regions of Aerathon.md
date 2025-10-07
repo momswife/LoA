@@ -63,7 +63,7 @@ Oria is a realm carved by wind and will. The delvers of the north do not chase f
 
 ---
 
-### ⚔️ Beyond the Five
+### ⚔️ Beyond the Five with Influence
 
 ### **The Astral Sea** — _Mirror of the Realms_
 

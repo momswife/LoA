@@ -53,7 +53,6 @@ Minor guilds lack the prestige, funding, and international contracts of the majo
 - **The Nine-Needle Tailors** – Seamstress-delvers who map fabric-based anomalies and weave thread-scroll relics.
     
 - **The Bone Choir** – Feline bards who believe Labyrinths hum; they resonate back with song-crafted sigils.
-### Oria
 
 ### **Oria**
 
