@@ -1,4 +1,4 @@
----
+npx---
 title:  The Lorevault of Aerathon - Welcome!
 ---
 
@@ -7,7 +7,7 @@ title:  The Lorevault of Aerathon - Welcome!
 > *“Through ink and memory, we preserve what sword and spell cannot.”*
 >**— High Maester Arcanthil, Keeper of the Twelfth Seal**
 
-Welcome - **delver**.
+Welcome, **Delver**.
 
 You now stand at the threshold of the *Lorevault of Aerathon*, the ever-expanding chronicle of our world’s deepest mysteries and most daring champions. Compiled by generations of Maesters, Archivists, and Spiritbound Scribes, this public archive is open to all — whether you are a wandering scholar, a Labyrinth-bound warrior, or simply a curious soul seeking truth in the age of Convergence.
 
@@ -19,16 +19,52 @@ Today, the Labyrinths are more than a threat — they are a spectacle. Through a
 What You’ll Discover in This Vault
 ---
 
-**Champions & Guilds** – Meet the adventurers who walk the Labyrinths and the guilds that back them. From historic duels to modern-day rivalries, discover how glory—and power—is earned.
+## I. Annals & Antiquities
 
-**Livecasting & Diving Oculi** – Dive into the enchantment of the Divine Oculi network. Learn how magic allows audiences to watch, wager, and even influence the outcome of Trials across Aerathon.
+**Division Mandate:** Historical, cultural, and arcane record-keeping.
 
-**Living World of Aerathon** – Explore how the Trials have reshaped society—from the collapse of monarchies to the rise of meritocratic guilds. Includes maps, cultural notes, festivals, and lore from everyday life.
+This section houses high-grade reconstructions of cities, artifacts, peoples, and mythic events linked to the Labyrinth Network. Expect formal dossiers, chronicle-pages, restored excerpts, and Ministerial commentary.
 
-**Magic & Relics** – Detailed entries on relics recovered from the Trials, lost spellforms, cursed items, and the evolving magical systems of Aerathon since the first Convergence breach.
+**Includes:**
+- Historical cities and strongholds  
+- Legendary delvers and notable figures  
+- Arcane relic briefs and artifact records  
+- Cultural and geopolitical histories
 
-**Prophecies & The Convergence** – Study the symbols, dreams, and warnings whispered from the depths. Track the growing momentum of the Eternal Convergence and what it may bring when all Trials are complete.
+---
 
-**The Eternal Labyrinths** – Discover the origins of these legendary trials, the myths surrounding their creators, and the ongoing debate among scholars and adventurers alike.
+## II. The Living Atlas
 
+**Division Mandate:** Modern-world documentation and monitoring.
+
+The Living Atlas outlines the current state of Aerathon—its economies, guilds, infrastructure, and delver-facing regulations maintained by the MDO.
+
+**Includes:**
+- Modern maps and travel advisories  
+- Guild structures and delver licensing  
+- Political movements and faction briefs  
+- Magitech integration and hazard updates
+
+---
+
+## III. Monthly Ledger
+
+**Division Mandate:** Field reports, sightings, and real-time intelligence.
+
+Compiled by the Public Observation & Field Intelligence Division, the Monthly Ledger issues active summaries of threats, anomalies, and confirmed incidents across the Labyrinth Network.
+
+**Includes:**
+- Loose monster alerts and bounties  
+- Breach instability reports  
+- Field intelligence and verified rumors  
+- Delver casualty and recovery notices  
+
+---
+
+## Access Notes
+
+All documents in this archive are **MDO-verified** and carry appropriate Divisional certification.  
+Unauthorized redistribution, alteration, or concealment of Ministerial records violates Charter §5-B (Archive Integrity) and §7-F (Labyrinth Safety Enforcement).
+
+Proceed with caution, and may your steps be recorded true.
 

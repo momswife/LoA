@@ -18,10 +18,13 @@
 
 ## **I. Overview**
 
-The **Free Company of Louvain** is the **sole S-Class guild directly sponsored by the Ministry of Delving Operations**, founded to turn chaos into discipline and desperation into doctrine.  
-Operating from the **Hall of Orientation** in Louvain, it trains thousands of new delvers each cycle—yet its true heart beats far from the marble halls, in a soot-stained refuge on the outskirts of Oria: **the Rusted Lodge**, home of the **Stalwart Souls**.
+The **Free Company of Louvain** is Aerathon’s **only S-Class guild directly sponsored by the Ministry of Delving Operations**, founded as a beacon for the lost, the unclaimed, and the unredeemed.  
+From its polished halls in Louvain’s **Hall of Orientation**, it trains and licenses the majority of the realm’s novice delvers.
 
-Where the upper Company represents the Ministry’s order, the Lodge represents its conscience—a sanctuary for the failed, the forgotten, and the unrecorded.
+Yet the soul of the Company is not in its marble corridors, but in a battered refuge on the outskirts of Oria—the **Rusted Lodge**, home of the **Stalwart Souls**, where those who have nowhere left to go find one final chance.
+
+Where the Hall teaches discipline, the Lodge teaches survival.  
+Where the Hall enforces order, the Lodge remembers mercy.
 
 ---
 
@@ -32,9 +35,9 @@ Where the upper Company represents the Ministry’s order, the Lodge represents 
 | **Headquarters** | Hall of Orientation (Louvain) / Rusted Lodge (Oria Outer Ward) |  
 | **Commandant** | **Marshal Ysella Brant** |  
 | **Stalwart Overseer** | **Quartermaster Keldrin “Half-Dead” Rusk** |  
-| **Active Members** | 1 200 Licensed Delvers / 300 Support / ~200 Unaffiliated Stalwarts |  
+| **Active Members** | ~1,150 Licensed Delvers / 320 Support Staff / ~200 Stalwarts |  
 | **Primary Function** | Training, Rescue, Rehabilitation |  
-| **Annual Funding** | 18 million G (Ministry allocation + donations) |
+| **Annual Funding** | 18 million G (Ministry allocation + private donations) |
 
 ---
 
@@ -42,17 +45,41 @@ Where the upper Company represents the Ministry’s order, the Lodge represents 
 
 ### **1. The Concordant Corps**
 
-The public, orderly face of the Free Company. Instructors, officers, and expeditionary teams operate under Ministry law, embodying the creed _“Light in Descent, Duty in Return.”_
+The formal, regulated, and fully Ministry-sanctioned arm.  
+They oversee:
+
+- Delver licensing
+    
+- Safety doctrine
+    
+- Expedition standards
+    
+- Public relations
+    
+
+Their creed:  
+_“Light in Descent, Duty in Return.”_
 
 ### **2. The Stalwart Branch**
 
-An unofficial network tolerated by the Ministry but seldom acknowledged. The Stalwart Souls take in exiles, maimed delvers, and those deemed “unfit” for service—granting them one last chance beneath the Company’s protection.
+Unofficial. Unfunded. Unspoken of in public reports.  
+The Stalwart Souls offer sanctuary to:
 
-Their motto:
+- Disgraced delvers
+    
+- Maimed survivors
+    
+- Exiles from broken guilds
+    
+- Those whose lives have unraveled in the labyrinths
+    
+
+Their creed is simpler:
 
 > _“We go together, or we don’t go at all.”_
 
-The Ministry lists them as a “rehabilitative extension.” The delvers know better: it’s the part of the Free Company that still remembers _why_ people descend.
+The Ministry calls it a “rehabilitative adjunct.”  
+The delvers call it **home**.
 
 ---
 
@@ -60,44 +87,44 @@ The Ministry lists them as a “rehabilitative extension.” The delvers know be
 
 ### **High Command**
 
-| **Title**                        | **Name**           | **Role**                                           |
-| -------------------------------- | ------------------ | -------------------------------------------------- |
-| **Marshal Ysella Brant**         | Human              | Oversees all Company operations; Ministry liaison. |
-| **Captain Solaris Antell**       | Feline Beastfolk   | Expeditionary commander                            |
-| **Chief Instructor Yyna Balval** | Ursine Beastfolk   | Head of training ethics and survival doctrine.     |
-| **Quartermaster Antekhotep**     | Jackal Fey-Blooded | Handles relic containment and supply logistics.    |
-| **Chaplain Avel Marin**          | Human Cleric       | Maintains Faithfield integrity and memorial rites. |
-### **The Council of Elders (Stalwart Branch)**
+|**Title**|**Name**|**Role**|
+|---|---|---|
+|**Marshal Ysella Brant**|Human|Guild commander; Ministry liaison.|
+|**Captain Liora Dane**|Elf|Oversees expedition teams; tactical doctrine lead.|
+|**Chief Instructor Ruzan Brokk**|Dwarven|Head of delver training, survival, and certifications.|
+|**Quartermaster Thesk Ulrathi**|Lizardfolk|Controls supplies, rations, and relic storage.|
+|**Chaplain Merindel Farseer**|Aasimar|Handles rites, Faithfield tuning, and memorial services.|
+### **Council of the Stalwart Lodge**
 
 |**Title**|**Name**|**Function**|
 |---|---|---|
-|**Quartermaster**|**Keldrin “Half-Dead” Rusk**|Maintains the armory and survival stores.|
-|**Expedition Coordinator**|**Darla “Iron-Fangs” Velmire**|Assigns delves, tracks missing delvers.|
-|**Vault-Keeper**|**Hargun “Coin-Cutter” Fisk**|Oversees shares, debts, and fair division.|
-|**Scribe of the Lost**|**Jessa the Silent**|Keeps the Namesong Ledger of the Fallen.|
+|**Overseer**|**Keldrin “Half-Dead” Rusk**|Keeps weapons sharp and spirits sharpers.|
+|**Expedition Coordinator**|**Darla “Iron-Fangs” Velmire**|Assigns delves; tracks the missing and the lost.|
+|**Vault-Keeper**|**Hargun “Coin-Cutter” Fisk**|Ensures fair shares; manages debts and payouts.|
+|**Scribe of the Lost**|**Jessa the Silent**|Maintains the Namesong Ledger—every fallen name.|
 ___
 ## **V. Membership & Philosophy**
 
-### **Who Joins the Company**
+### **Who Joins the Free Company**
 
-- Cadets from every province seeking official license.
+- Cadets seeking Ministry licensure
     
-- Veterans of collapsed guilds seeking structure.
+- Veterans tired of profit-driven guilds
     
-- Ex-criminals and deserters seeking redemption.
+- Former criminals seeking honest redemption
     
-- Beastfolk and Brethren who refuse species-segregated orders.
+- Beastfolk who refuse segregationist factions
     
-- The traumatized and broken who simply want **one more try**.
+- The traumatized or broken seeking a last chance
     
 
 ### **Core Beliefs**
 
-- **Unity Through Struggle:** No one delves alone.
+- **Unity Over Glory:** A single survivor is not a victory.
     
-- **Forged in Failure:** Scars teach more than medals.
+- **Lessons in Failure:** Wounds teach more than triumphs.
     
-- **Legacy of the Lost:** The fallen are remembered by name, not number.
+- **Debt to the Fallen:** Names are carved, not forgotten.
     
 
 ---
@@ -106,25 +133,39 @@ ___
 
 ### **The Hall of Orientation (Louvain)**
 
-A cathedral-fortress housing classrooms, dormitories, and the Eternal Flame—source of every initiation torch.
+A grand fortress-school of marble, quartz, and auric inlays.  
+Contains:
 
-### **The Rusted Lodge (Oria Outer Ward)**
+- Classrooms
+    
+- Training rings
+    
+- Delver barracks
+    
+- The Eternal Flame (used for initiation torches)
+    
 
-A weather-beaten barracks turned hospice and guildhall. Beds for fifty, tables for hundreds. A place where delvers share rations, stories, and guilt without judgment.
+### **The Rusted Lodge (Oria)**
 
-> _“They call it rust. We call it red from the hands that built it.”_ — Darla Velmire
+A reclaimed barracks of timber and iron, stained by age and smoke.  
+More hearth than hall—long tables, battered bunks, and walls covered in memorial plates.
+
+> _“They call it rust. We call it red from the hands that built it.”_  
+> — Darla Velmire
 
 ---
 
 ## **VII. Operations**
 
-- **Education & Certification:** Licenses 70 % of Aerathon’s active delvers.
+The Free Company is responsible for:
+
+- **Training:** Certifying 70% of Aerathon’s active delvers
     
-- **Rescue & Recovery:** Responds to labyrinth collapses and missing parties.
+- **Rescue:** Responding to labyrinth collapses and vanishing parties
     
-- **Field Mentorship:** Assigns veterans to novice teams for first delves.
+- **Field Mentorship:** Senior delvers guide first-timers
     
-- **Memorial Maintenance:** Engraves every fallen name upon the Hall’s mirrored walls.
+- **Memorial Keeping:** Honoring the fallen without discrimination
     
 
 ---
@@ -133,35 +174,38 @@ A weather-beaten barracks turned hospice and guildhall. Beds for fifty, tables f
 
 |**Guild**|**Relationship**|**Context**|
 |---|---|---|
-|**Argent Banner**|Competitive / Ideological Conflict|Fame vs. duty. Cooperative rescues staged for PR.|
-|**Crimson Reavers**|Hostile / Containment Target|Company patrols secure trade routes from Reaver raids.|
-|**Verdant Collision**|Allied / Technical Support|Shares engineering and medical innovations.|
-___
+|**Argent Banner**|Competitive / Ideological|Fame-driven vs. service-driven missions.|
+|**Crimson Reavers**|Hostile|Counter-raids and trade-route protection.|
+|**Verdant Collision**|Allied|Shares healing, engineering, and safety research.|
+____
 ## **IX. Relationship with the Ministry**
 
-The Free Company acts as the Ministry’s **hand of public service** and **shield of legitimacy**.  
-Yet internal reports show growing philosophical strain.  
-Younger instructors question bureaucratic interference; others warn of “moral ossification.”  
-Marshal Brant’s memo to Director Drauve reads:
+The Free Company is the Ministry’s **public face of stability**.  
+Yet internal memos show tension between duty and bureaucracy.
+
+Marshal Brant once wrote to Director Drauve:
 
 > _“We serve the Charter, not its accountants.”_
+
+There is a quiet fear within the Ministry that the Stalwart Branch may someday become **too independent**, turning conscience into revolution.
 
 ---
 
 ## **X. Public Image**
 
-|**Aspect**|**Perception**|
+|**Group**|**Perception**|
 |---|---|
-|**Common Folk**|Guardians and mentors; “the light that returns.”|
-|**Private Guilds**|Overregulated idealists.|
-|**Spectacle Audience**|Wholesome relief from Reaver carnage—yet less profitable ratings.|
-Their uncut delves on the Grand Scrying Network rarely draw mass viewership, yet every rescue broadcast sparks donation surges.
+|**Common Folk**|Protectors; educators; the “lanterns in the labyrinth.”|
+|**Private Guilds**|Idealists who follow too many rules.|
+|**Grand Scrying Network Audience**|Heartwarming but low-drama; less profitable than combat spectacles.|
+
+Despite modest ratings, their rescue broadcasts receive overwhelming donation spikes.
 
 ---
 
 ## **XI. Symbolism**
 
-- **Emblem:** An **ankh surrounded by multi-colored star** to represent the 'breath of all lives'.
+- **Emblem:** An **ankh encircled by a multicolored star**, representing the breath of all lives.
     
 - **Colors:** Verdant green and ivory.
     
@@ -172,21 +216,21 @@ Their uncut delves on the Grand Scrying Network rarely draw mass viewership, yet
     - _“Light in Descent, Duty in Return.”_
         
 
-The two phrases are used interchangeably: one for recruits, the other for heroes.
+The first for the Lodge.  
+The second for the Hall.
 
 ---
 
 ## **XII. Outlook**
 
-Analysts forecast that the Free Company will remain the Ministry’s stabilizing force—unless its Stalwart Branch grows too independent.  
-If the Lodge ever formalizes into a self-governing guild, the Ministry would lose both its heart and its conscience.
+Analysts predict the Free Company will remain the Ministry’s stabilizing force for generations.  
+But if the Stalwart Branch gains autonomy, the Ministry risks losing its most humanizing arm.
 
 > _“We are the light they hold up to prove the darkness is manageable.  
 > One day, perhaps, we’ll remind them that light burns too.”_  
 > — Jessa the Silent
 
 ---
-
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
