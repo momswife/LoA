@@ -1,4 +1,4 @@
-npx---
+---
 title:  The Lorevault of Aerathon - Welcome!
 ---
 
