@@ -22,7 +22,7 @@ Here, trade is worship, currency is language, and even love is negotiated in fin
 
 The Ministry classifies Vinyot as an **Economic Power of Prime Rank**: politically unstable, culturally magnetic, and indispensable to every nation that values food, relics, or airships.
 
-**Capital:** _Vinyot Prime_ (The Gilded Delta)  
+**Capital:** Dole  
 **Regional Symbol:** An open hand clutching a coin stamped with an eye.  
 **Cultural Motto:** _“Every promise costs something.”_
 

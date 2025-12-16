@@ -7,7 +7,7 @@
 
 ### _The Isles of Claw and Flame — “Beauty Is a Blade That Never Rusts.”_
 
-**Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Charter Counsel Office)_  
+**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Charter Counsel Office)_  
 **Primary Compiler:** Magistrate Talar Shellmark (Counselor General & Keeper of Canon Articles)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Historian of Echo-Law)  
 **Date of Filing:** **8th Cycle, 3097 A.D.**  
@@ -17,8 +17,7 @@
 
 ## **I. Overview**
 
-Scattered across Aerathon’s southeastern sea, the **Isles of Al’ar** shimmer like broken glass upon an endless tempest.  
-It is a region of volcanic jungles, sky-bridged cliffs, and perpetual storms—each flash of lightning illuminating artistry, danger, and defiance.
+Scattered across Aerathon’s southeastern sea, the **Isles of Al’ar** shimmer like broken glass upon an endless tempest.  It is a region of volcanic jungles, sky-bridged cliffs, and perpetual storms—each flash of lightning illuminating artistry, danger, and defiance.
 
 The people of Al’ar live by one truth: _if the world is chaos, then we must learn to dance with it._  
 Art, survival, and worship all blur together into one radiant performance.  
