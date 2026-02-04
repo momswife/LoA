@@ -1,19 +1,22 @@
-> *“Is anything more irritating than when someone needs everyone to like them?”*
-
-___
-
-![[{0257CD77-39B1-4FC7-AB70-C9967665E4E0}.png]]
-## **Overview**
-
-From the Allemagnian royal family to the shepherd dogs roaming icy Oric plains, **canines** are a flexible species who thrive in any environment. Dogs and wolves alike possess an innate social spark—gregarious, excitable, and fiercely loyal, they find their place in guilds, courts, caravans, and back-alley games with equal ease.
-
-They sulk when alone, laugh the loudest when surrounded by friends, and—if given a stage—will take it without hesitation. Canines are loved across Aerathon for their courage, but also distrusted by those who fear their need to be seen.
-
-Canine delvers are common among broadcast parties. Their flair, teamwork, and flair for the dramatic make them crowd favorites. And, as some ABA commentators note: _"The Labyrinths never run short on dogs looking for an audience."_
+**Ministry of Delving Operations — Annals & Antiquities**  
+**Species Classification:** Beastfolk (Canine Lineage)  
+**Registry Scope:** Environmental & Cultural Studies  
+**Recognition Status:** Full Delver Eligibility  
+**Date of Filing:** 3096 A.E.
 
 ---
 
-## **Canine Traits**
+## **I. Racial Overview**
+
+Canines are among the most socially adaptive peoples in Aerathon. From royal courts to shepherd camps, from caravans and docks to labyrinth broadcast crews, canines thrive anywhere cooperation, recognition, and shared momentum are rewarded. Dogs and wolves alike possess an innate social spark—gregarious, expressive, and fiercely loyal once bonds are formed.
+
+This same need for connection defines both their greatest strength and their most visible vulnerability. Canines flourish in groups and wither in isolation. They celebrate loudly, sulk openly, and—if given a stage—rarely refuse it. Their courage and emotional transparency earn widespread affection, though critics often mistake this openness for attention-seeking.
+
+Among delvers, canines are disproportionately represented in broadcast parties and leadership roles. Their instinctive grasp of group dynamics, morale, and pacing makes them reliable companions in both labyrinth and city alike.
+
+---
+
+## **II. Core Canine Traits**
 
 **Creature Type.** You are a Humanoid.
 
@@ -21,9 +24,17 @@ Canine delvers are common among broadcast parties. Their flair, teamwork, and fl
 
 **Speed.** Your walking speed is 30 feet.
 
-**Scent Tracking.** You have advantage on Wisdom (Survival) checks to track a creature if you have something it carried or wore in the past seven days.
+**Scent Tracking.**  
+You have advantage on Wisdom (Survival) checks to track a creature if you have something it carried or wore within the past seven days.
 
-**Hardy Stomach.** You have advantage on saving throws to resist ingested poisons.
+**Hardy Stomach.**  
+You have advantage on saving throws to resist ingested poisons.
+
+---
+
+## **III. Canine Subraces**
+
+The Canine lineage expresses several instinctive pack roles. These subraces reflect behavioral specialization rather than rank or ancestry.
 
 ---
 
@@ -31,11 +42,23 @@ Canine delvers are common among broadcast parties. Their flair, teamwork, and fl
 
 **Ability Score Increase.** Your Strength score increases by 1.
 
-**Size.** Wolves typically range from 5’10” to 6’6”. Your size is Medium.
+**Size.** Medium  
+**Typical Height.** 5’10” – 6’6”
 
-**Unit Tactics.** You have advantage on an attack roll if at least two allies are within 5 feet of your target and aren’t incapacitated.
+**Unit Tactics.**  
+You have advantage on an attack roll if at least two allies are within 5 feet of your target and aren’t incapacitated.
 
-**Better With an Audience.** If three or more allies you can see are within 30 feet, you gain a +2 bonus to Charisma checks.
+**Better With an Audience.**  
+If three or more allies you can see are within 30 feet, you gain a +2 bonus to Charisma checks.
+
+**Racial Quirks**
+
+- Strong sense of responsibility for group outcomes
+    
+- Thrives in structured teams and hierarchies
+    
+- Internalizes failure, even when not at fault
+    
 
 ---
 
@@ -43,53 +66,107 @@ Canine delvers are common among broadcast parties. Their flair, teamwork, and fl
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
-**Size.** Dogs stand between 4’7” and 6’3”. Your size is Medium.
+**Size.** Medium  
+**Typical Height.** 4’7” – 6’3”
 
-**Herding Tactics.** You have advantage on attack rolls against a creature if one of its allies is within 5 feet of it and isn’t incapacitated.
+**Herding Tactics.**  
+You have advantage on attack rolls against a creature if one of its allies is within 5 feet of it and isn’t incapacitated.
 
-**Ears Toward Danger.** You have advantage on saving throws to resist magical traps or spells cast on you while surprised. You also add 1d4 to your initiative rolls.
-____
+**Ears Toward Danger.**  
+You have advantage on saving throws to resist magical traps or spells cast on you while surprised. You also add 1d4 to your initiative rolls.
 
-![[{9B0202CA-3101-4C74-A084-3CE6183872F6}.png]]
+**Racial Quirks**
 
-## **Homeland Traits**
+- Highly attuned to emotional shifts
+    
+- Strong protective instincts toward noncombatants
+    
+- Difficulty disengaging once danger is perceived
+    
+
+---
+
+### **Hound**
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Medium  
+**Typical Height.** 5’4” – 6’4”
+
+**Relentless Pursuit.**  
+When you hit a creature you are tracking using Scent Tracking, your movement does not provoke opportunity attacks from that creature until the end of your turn.
+
+**Long Haul.**  
+When you succeed on a Constitution saving throw to resist exhaustion, you may treat the result as if you had rolled a natural 20 for determining additional effects.
+
+**Racial Quirks**
+
+- Single-minded once a goal is chosen
+    
+- Calm, focused demeanor under pressure
+    
+- Values completion and follow-through above recognition
+    
+
+---
+
+## **IV. Regional Variance (Homeland Traits)**
+
+While canines adapt easily to most cultures, regional upbringing still leaves a lasting mark.
+
+---
 
 ### **Allemance**
 
-Known as the **Lupine Throne**, Allemance is the ancestral homeland of wolves. While all canines are welcome in its courts and caravans, it is the wolf that carries the crown—and often, the burden of its reputation.
+Known as the **Lupine Throne**, Allemance is the ancestral seat of wolf leadership, though all canines are welcome within its courts and caravans.
 
-**Insistent Strike.** Once per round when you miss with a melee weapon attack, you deal 1d4 damage of the weapon’s type to the target. You can’t use this against the same target again until you hit it with a melee attack.
+**Insistent Strike.**  
+Once per round when you miss with a melee weapon attack, you deal 1d4 damage of the weapon’s type to the target. You can’t use this against the same target again until you hit it with a melee attack.
 
 ---
 
 ### **Oria**
 
-Canines in Oria carry an invisible weight—memories of the **Mantle War** linger, and trust is earned slowly. Yet many find kinship among outsiders, building bridges with the unloved and unseen.
+Canines in Oria carry the quiet weight of old conflicts, forming bonds most easily with other outsiders.
 
-**Charm with Outsiders.** You have advantage on Charisma (Persuasion) checks made with non-cervine people from Oria, and with cervines not native to Oria.
+**Charm with Outsiders.**  
+You have advantage on Charisma (Persuasion) checks made with non-cervine people from Oria, and with cervines not native to Oria.
 
 ---
 
 ### **Vinyot**
 
-Dogs in Vinyot are storytellers, sailors, and shameless entertainers. Their versatility finds them managing shops, singing sea shanties, and winning over raccoons and possums in smoky alley games.
+In Vinyot, canines dominate storytelling, trade, and spectacle.
 
-**Sniffing Out Deals.** You have advantage on Intelligence (Investigation) checks to find the best price on nonmagical goods in any city with more than 10,000 people.
+**Sniffing Out Deals.**  
+You have advantage on Intelligence (Investigation) checks to find the best price on nonmagical goods in any city with more than 10,000 people.
 
 ---
 
 ### **Arneria**
 
-Among the thousand-mile roads of the Beylik and Bat’yan, dogs thrive as the **Causeway’s Species**—an eclectic, mongrel-hearted mix of street wisdom and unbreakable grit.
+Along the Beylik’s endless roads, dogs thrive as resilient travelers and scouts.
 
-**Strafing Strike.** When you hit with a light weapon, increase the weapon’s damage die to the next size (up to d12). You can’t use this again until you move at least 10 feet.
+**Strafing Strike.**  
+When you hit with a light weapon, increase the weapon’s damage die to the next size (up to d12). You can’t use this again until you move at least 10 feet.
 
 ---
 
 ### **Al’Ar**
 
-On the storm-tossed docks and hidden islands of Al’Ar, dogs serve as the grease in the social gears. They mediate, harmonize, and herd even the proudest cats into collaboration.
+Among Al’Ar’s shifting alliances, canines often serve as mediators and coordinators.
 
-**Like Herding Cats.** If two allies use the Help action to assist you on the same skill check, you can reroll one of the d20s used to make that check.
+**Like Herding Cats.**  
+If two allies use the Help action to assist you on the same skill check, you can reroll one of the d20s used to make that check.
 
-___
+---
+
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━  
+**Filed & Authenticated**  
+**Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)**  
+**Document Class:** Regional Record / Grade-I Authenticity  
+**Primary Compilation:** Keeper Aeska Mourn-Wind  
+**Cross-Verification:** Lt. Salvia Korrin (Arc. Scriv.), Researcher Falyn Onarra (Sociology Unit)  
+— Certified under Charter §§ 2-B, 5-E, and 9-I.  
+— Unauthorized exploitation, coercive conditioning, or enforced breeding of registered Canine populations constitutes a **Class-2 Sociocultural Violation** under Ministry Law.  
+**——— ⭕ END OF FILE ⭕ ———**

@@ -1,173 +1,215 @@
-> _“In Oria, even the wind kneels before the patient.”_  
-> — **Archivist Yelna Stonevoice**, _Songs of the Stormwall_
+### _The Hammerlands of the North — “The House Endures.”_
 
----
-
-# **Oria**
-
-### _The Realm of Storm and Stone — “We Endure, Therefore We Prevail.”_
-
-**Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Cultural Geography & Infrastructure Bureau)_  
-**Primary Compiler:** **Professor Arav Dhal-Senn** (Metallurgical Records & Forge-History Archivist)  
-**Advisory Editors:** **Lt. Salvia Korrin** (Arc. Scriv., Breach Verification), **Archivist Yelna Stonevoice** (Echo-Law & Oral Harmonies)  
-**Date of Filing:** **3rd Cycle, 3092 A.D.**  
-**Document Class:** _Regional Record / Grade-I Authenticity_
+**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Confederations)_  
+**Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Oric Civic Lineages)  
+**Advisory Editors:** **Professor Arav Dhal-Senn** (Infrastructure & Settlement Stability), **Lt. Salvia Korrin** (Arc. Scriv., Verification)  
+**Date of Filing:** **4th Cycle, 3160 A.D.**  
+**Document Class:** _National Record / Grade-I Authenticity_
 
 ---
 
 ## **I. Overview**
 
-The northern frontier of Aerathon, **Oria** is a land of peaks, forges, and storms that never rest.  
-Carved between mountain and cloud, it serves as the continent’s **shield and anvil** — a kingdom of Beastfolk artisans and Brethren smiths whose loyalty is measured not in words, but in what they build to outlast them.
+**Oria** is not a kingdom, republic, or empire. It is a **confederation of autonomous city-states**, each governed by its own **House**, bound together by necessity, shared geography, and an unspoken agreement: **no House rules another**.
 
-The Ministry calls Oria _“The Unshaken Province.”_  
-Its people simply call it **home**, and mean it with the weight of stone.
+In Oric custom:
 
-**Capital:** _Malric Hold_, the City of Wind and Iron  
-**Regional Symbol:** A hammer striking an anvil beneath a stormcloud  
-**Cultural Motto:** _“Strength is the silence after the thunder.”_
+- The **House** bears the **name of the city it governs**.
+    
+- The **Seat** is the **family entrusted with stewardship** of that House.
+    
+- Authority is conditional, revocable, and judged solely by whether the city continues to function.
+    
+
+Oria has **no capital**, no central throne, and no permanent council. Coordination exists only where survival demands it.
+
+To rule Oria from a single hall would be a contradiction in terms.
+
+**Capital:** _None_  
+**Government Type:** Confederation of House-ruled city-states  
+**Cultural Maxim:** _“The House endures. The seat must be earned.”_
 
 ---
 
 ## **II. Geography & Climate**
 
-- **The Stormwall Peaks:** A titanic mountain range encircling Oria’s heartlands. Winds strong enough to tear banners from the air.
+Oria occupies Aerathon’s northern reaches, defined by **mountains, ice seas, and engineered survival**.
+
+Key geographic features include:
+
+- **The Stormwall & Grensa Mountains** — natural barriers pierced only by engineered passages
     
-- **The Ironlow Vale:** Fertile lowlands where foundries and forges burn day and night.
+- **The Malenkean Sea** — ice-choked waters requiring constant naval intervention
     
-- **The Hailreach Tundra:** Frozen plains dotted with ancient labyrinth ruins and massive standing stones that hum with magnetic energy.
+- **Subterranean Stone Belts** — frozen mountain strata carved into habitable depth-cities
+    
+- **Northern Threshold Zones** — regions where climate, time, and arcana destabilize
     
 
-Climate: subarctic, storm-heavy, and mineral-rich.  
-Lightning frequently strikes the same peaks, believed to “recharge” the region’s relic veins.
+The land is unforgiving by default. Oria survives not by taming it, but by **building correctly within it**.
 
 ---
 
-## **III. History & Founding**
+## **III. Political Structure: The Houses**
 
-Oria’s origin lies in **the Age of Collapse**, when Beastfolk clans fled north from the burning southlands and took shelter within the mountains.  
-They were joined by dwarven refugees and human smiths who forged the **First Pact of Iron** — a promise to share craft and labor without hierarchy.
+Oria is governed through its **Houses**, each one synonymous with its city.
 
-This pact became Oria’s national ethos: _strength through cooperation, mastery through patience._  
-Though the Ministry oversees its infrastructure, Oria governs itself through **Guild-Keeps** — fortresses that serve as both citadels and trade communes.
+There is **no hierarchy of Houses**. Influence flows from function, not decree:
 
-Each Keep houses a **Forge-Charter**, an artifact binding the oaths of every craftsman sworn to the region’s defense.
+- Tunnel control demands deference
+    
+- Naval survival demands obedience
+    
+- Hazard proximity demands restraint
+    
+
+Inter-House matters are negotiated through temporary accords, seasonal pacts, and emergency understandings. These arrangements dissolve once their purpose is fulfilled.
+
+### **Recognized Houses of Oria**
+
+|House (City)|Seat (Steward Family)|Civic Function|
+|---|---|---|
+|**House Edelstann**|Vanlig|Maritime trade & eastern access|
+|**House Frostguarde**|Stonewarden|Threshold stewardship & hazard watch|
+|**House Heltenlave**|Skjoldhrafn|Martial culture & elite training|
+|**House Jegervalt**|Roetvald|Continental tunnel control|
+|**House Podgorod**|Bronzemolev|Subterranean industry & agriculture|
+|**House Priozhevsky**|Medvednaya|Medical & scholarly authority|
+|**House Severport**|Severinhald|Northern naval defense|
+
+(Full governance details are maintained on individual city pages.)
 
 ---
 
-## **IV. People & Heritage**
+## **IV. Oric Law & Custom**
 
-### **Dominant Lineages**
+Oric law is **functional**, not ideological.
 
-Ursine and leonine Beastfolk, dwarves, and humans of hardy mountain stock.
+Common principles across all Houses include:
 
-### **Cultural Traits**
-
-- **Work as Worship:** The act of crafting, forging, or repairing is a sacred ritual.
+- **Failure removes authority**
     
-- **Oath-Forging:** Every significant promise is hammered into a metal band or plate, kept for life.
+- **Negligence is worse than malice**
     
-- **Storm Communion:** Many practice meditation beneath thunder, believing it purifies the mind.
+- **Survival outweighs pride**
     
 
-### **Racial Affinities**
+Punishment favors restitution and removal over imprisonment. A steward who endangers the city does not face trial—they are **replaced**.
 
-- **Beastfolk:** +1 to physical endurance checks; resistance to cold environments.
-    
-- **Dwarves / Humans:** Craftsmanship bonuses, advantage on checks involving tools, masonry, or forging.
-    
+Written law exists, but **precedent and recorded failure** carry equal weight.
 
 ---
 
-## **V. Society & Governance**
+## **V. People & Cultural Identity**
 
-Oria operates as a **Guild-Fort Confederation**, led by the **Council of Hammers** — one representative from each major Keep.  
-There are no kings, only elected **Forge-Lords**, each serving until their hands can no longer lift a hammer.
+Oric identity is **House-first**.
 
-Law emphasizes restitution over punishment. A thief repays in labor, not coin. A liar reforges their words in metal and wears them as a burden.
+An Oric does not say “I am from Oria” unless speaking to an outsider. They say:
 
-> _“No sin endures longer than its correction.”_ — Oric Proverb
+- “I am of Edelstann.”
+    
+- “I am Podgorod-born.”
+    
+- “I serve Severport.”
+    
+
+Shared cultural traits include:
+
+- Reverence for craft, maintenance, and repair
+    
+- Distrust of centralized authority
+    
+- Acceptance that comfort is optional, failure is not
+    
+
+Lineage matters less than **competence**, though steward families are expected to exemplify both.
 
 ---
 
-## **VI. Faith & Philosophy**
+## **VI. Economy & Trade**
 
-Faith in Oria centers around **Moradin**, **Gond**, and **Kord** — gods of creation, labor, and storm.  
-However, the most common devotion is to the **Hand Unbroken**, a secular creed stating that “divinity is the patience to make.”
+Oria exports **reliability**.
 
-Shrines are built from forge ash and cooled slag; prayers are muttered rhythmically with hammer strikes.
+**Primary Exports**
 
-> _“We do not pray for strength. We make it.”_
+- Metals, machinery, and infrastructure components
+    
+- Naval services and ice-escort contracts
+    
+- Medical expertise and alchemical treatments
+    
+
+**Primary Imports**
+
+- Foodstuffs (primarily from Allemance)
+    
+- Limited luxuries
+    
+- Specialized reagents
+    
+
+Trade is negotiated **House by House**. No external power is permitted to control Oria’s supply chain in full.
 
 ---
 
-## **VII. Economy & Trade**
+## **VII. Faith & Philosophy**
 
-### **Exports:**
+Faith in Oria is restrained and practical.
 
-Weapons, heavy machinery, refined ores, mechanical prosthetics, rune-etched armor, thundersteel.
+Gods are respected, but not begged. Shrines are built into load-bearing walls. Prayer often takes the form of work done correctly.
 
-### **Imports:**
+Commonly honored figures include **Moradin**, **Gond**, and **Kord**, alongside the secular Oric creed known as **The Hand Unbroken**:
 
-Food and fabrics from Allemance, luxuries from Vinyot, sacred minerals from Arneria.
-
-**Currency:** The _Hammermark_ — rectangular coin bars traded by weight, often engraved with personal maker’s marks.  
-The Ministry contracts Oria for the production of delver gear, containment devices, and breach stabilizers.
+> _“Divinity is the patience to make.”_
 
 ---
 
 ## **VIII. Delving Culture**
 
-In Oria, delving is seen as **trial by craft** — not conquest, but endurance.  
-Labyrinths in the Stormwall often feature magnetic distortions and shifting stone corridors that require constant adaptation.
+Oria treats delving as **structural stress testing**.
 
-Delvers train under **Forge-Mentors**, learning to modify gear mid-delving.  
-Common practices include:
+- Equipment is expected to be modified mid-delve
+    
+- Relics are reforged rather than revered
+    
+- Survival is valued over spectacle
+    
 
-- **Stormbond Trials:** Entering labyrinths during peak lightning season for blessings of courage.
-    
-- **Relic Tempering:** Returning relics to the forge to “test their patience.”
-    
-- **Thunder Oaths:** Pre-delving rituals spoken during thunderclaps, believed to seal fates audibly to the gods.
-    
+Many delvers trained in Oria are sought after for labyrinths involving shifting terrain, magnetic anomalies, or environmental collapse.
 
 ---
 
 ## **IX. Relations with Other Regions**
 
-|**Region**|**Relationship**|**Summary**|
+|Region|Relationship|Summary|
 |---|---|---|
-|**Allemance**|Strong Alliance|Mutual trade in food and craftsmanship.|
-|**Vinyot**|Industrial Tension|Constant negotiations over tariffs and labor rights.|
-|**Arneria**|Spiritual Rivalry|Faith vs. endurance; mutual respect in warfare.|
-|**Al’ar**|Trade Alliance|Imports skycraft and glass forges; exports thundersteel.|
-___
-## **X. Cultural Identity & Legacy**
+|**Allemance**|Strong Alliance|Food for metal|
+|**Vinyot**|Transactional|Industry & contracts|
+|**Arneria**|Ideological Rival|Faith vs endurance|
+|**Al’Ar**|Trade Partner|Elemental materials|
+|**MDO**|Fragmented|Negotiated per House|
 
-Oria stands as Aerathon’s anvil — the foundation upon which the world’s craft, courage, and infrastructure rest.  
-Its storms forge unity, not ruin.  
-Every delver who returns alive from the north carries a piece of its discipline, if not its metal.
-
-To endure is to belong.  
-To build is to believe.  
-To weather the storm is to remember why the fire matters.
+The Ministry does not “govern” Oria. It **coordinates with it**, one House at a time.
 
 ---
 
-### **Regional Feature: Ironheart Endurance**
+## **X. National Character**
 
-_Any character native to Oria gains the following cultural boon:_
+Oria does not seek unity.  
+It seeks **function**.
 
-> **Ironheart Endurance:** Once per long rest, when you are reduced to 0 hit points but not killed outright, you may remain standing at 1 hit point. Until the end of your next turn, you gain resistance to bludgeoning, cold, and lightning damage.
+A crown would crack under this weight.  
+A capital would become a liability.
+
+Instead, Oria distributes authority like load across an arch—each House bearing its share, none allowed to dominate, all required to hold.
+
+> _“Stone remembers who did the work.”_
 
 ---
 
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
-> **Ministry of Delving Operations — Annals & Antiquities (Cultural Geography & Infrastructure Bureau)**  
-> **Document Class:** _Regional Record / Grade-I Authenticity_  
-> **Primary Compilation:** _Professor Arav Dhal-Senn_  
-> **Cross-Verification:** _Lt. Salvia Korrin (Arc. Scriv.), Archivist Yelna Stonevoice (Echo-Law)_  
-> _— Certified under Charter §§ 2-B, 3-C, and 9-I. Unauthorized extraction of thundersteel or interference with Forge-Charter sites constitutes Class-2 Industrial Contamination._  
-> ——— ⭕ END OF FILE ⭕ ———
+> **Ministry of Delving Operations — The Living Atlas**  
+> **Verification Seal:** Archivist Yelna Stonevoice  
+> _— Oria confirmed as a non-centralized House Confederation. No capital recognized. House authority defined strictly by city governance records. Legacy references implying central rule are hereby deprecated._

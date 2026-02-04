@@ -1,19 +1,22 @@
-> *“To stay alive Down here, you have to be able to see cause and effect. For example, the boulder that’s about to roll over you would be caused by that tripwire against your shin.”*
-
-___
-
-![[{27EFADFD-ECCD-4AAE-8E0D-AEDE4DD68B1A}.png]]
-## **Overview**
-
-Vulpines—desert foxes and tradewinds—are the Beast World’s natural navigators. With eyes always forward and minds wired to detect cause and consequence, their species is famed for pattern recognition, deduction, and long games of advantage. While some claim it’s a divine instinct, others believe their insight is a rare natural evolution of their uplift.
-
-These foxes are as common in the sun-blasted Beylik as in the salt-swept coasts of Vinyot. Tradewinds are red-furred harbor nobles and wily seafarers; desert foxes are shrewd caravan guides and innkeepers with ears sharp enough to hear the desert sigh. They share a sacred calling to connect others—through trade, magic, or discovery.
-
-Vulpines are excellent delvers, often working the front or back of a crew: charming leads from locals, guiding a safe path, or casting protective spells while others charge ahead. They read signs, traps, and social cues with equal ease. When something goes wrong, a fox usually knew it would—though they might have waited to see how it played out.
+**Ministry of Delving Operations — Annals & Antiquities**  
+**Species Classification:** Beastfolk (Vulpine Lineage)  
+**Registry Scope:** Predictive Cognition & Navigational Cultures  
+**Recognition Status:** Full Delver Eligibility  
+**Date of Filing:** 3096 A.E.
 
 ---
 
-## **Vulpine Traits**
+## **I. Racial Overview**
+
+Vulpines—desert foxes and tradewinds—are the Beast World’s natural navigators. Their minds are attuned to **cause and effect**, reading the invisible threads that connect action to outcome. To a fox, a snapped twig, a shifted stone, or a hesitation in speech is not noise but signal.
+
+This insight is not prophecy. Vulpines do not _see the future_—they infer it. Their culture prizes preparation, contingency, and the quiet confidence of someone who already knows how things will unfold. Whether guiding caravans across the Beylik or managing dockside fortunes in Vinyot, foxes act as connectors: of people, of ideas, of safe paths through danger.
+
+Among delvers, vulpines are invaluable. They spot traps before they trigger, read rooms before blades are drawn, and keep spells alive longer than should be possible. When a plan collapses, a fox usually isn’t surprised—they were already watching to see _how_ it would fail.
+
+---
+
+## **II. Core Vulpine Traits**
 
 **Creature Type.** You are a Humanoid.
 
@@ -21,11 +24,20 @@ Vulpines are excellent delvers, often working the front or back of a crew: charm
 
 **Speed.** Your walking speed is 30 feet.
 
-**Polar Sense.** You always know magnetic north. You unconsciously arrange objects north-south and sleep with your head pointing north unless prevented.
+**Polar Sense.**  
+You always know magnetic north. You unconsciously arrange objects north–south and sleep with your head oriented north unless prevented.
 
-**Prolonging Focus.** When concentrating on a spell with a duration of 1 hour or more, you can attempt to prolong it. At the end of the normal duration, make a DC 10 Intelligence saving throw. On a success, it continues. Each 10 minutes afterward, repeat the save with +2 to the DC per interval. The spell ends if you take damage or fail a check.
+**Prolonging Focus.**  
+When you concentrate on a spell with a duration of 1 hour or longer, you may attempt to prolong it. At the end of the spell’s normal duration, make a DC 10 Intelligence saving throw. On a success, the spell continues. Every 10 minutes thereafter, repeat the save with the DC increasing by 2. The spell ends if you take damage or fail a save.
 
-**Vulpine Deduction.** As an action, make a DC 10 Intelligence check related to a closed-ended choice (e.g. which path to take, who is lying, or which object is cursed). On a success, the GM provides a useful insight or warning. Once used, you can’t use this again until after a long rest.
+**Vulpine Deduction.**  
+As an action, make a DC 10 Intelligence check related to a closed-ended question (e.g., which path is safer, which object is cursed, who is lying). On a success, the DM provides a useful warning or insight. Once used, you can’t use this feature again until you finish a long rest.
+
+---
+
+## **III. Vulpine Subraces**
+
+Vulpine lineage manifests primarily through two ancestral expressions, shaped by climate and trade.
 
 ---
 
@@ -33,9 +45,19 @@ Vulpines are excellent delvers, often working the front or back of a crew: charm
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
 
-**Size.** You are Medium.
+**Size.** Medium
 
-**Preternatural Sense.** You can use a bonus action to inspect an object for illusions. You have advantage on Intelligence (Investigation) checks to detect illusions. Once per long rest, you may substitute an Intelligence saving throw for a Dexterity saving throw.
+**Preternatural Sense.**  
+As a bonus action, you may inspect an object for illusions. You have advantage on Intelligence (Investigation) checks to detect illusions. Once per long rest, you may substitute an Intelligence saving throw for a Dexterity saving throw.
+
+**Racial Quirks**
+
+- Courtly confidence and dry humor
+    
+- Enjoys layered plans and subtle leverage
+    
+- Collects favors like currency
+    
 
 ---
 
@@ -43,55 +65,72 @@ Vulpines are excellent delvers, often working the front or back of a crew: charm
 
 **Ability Score Increase.** Your Constitution score increases by 1.
 
-**Size.** You are Medium.
+**Size.** Medium
 
-**Vigilant Senses.** If you remain in place for 1 hour, you are aware of any creature that enters a 90-foot radius around you, and its size. This sense awakens you if asleep and ends when you move.
+**Vigilant Senses.**  
+If you remain in place for 1 hour, you become aware of any creature that enters a 90-foot radius around you and learn its size. This sense awakens you if asleep and ends when you move.
 
-____
+**Racial Quirks**
 
-![[{495FB63D-BB44-4297-83B1-33B85FA71C25}.png]]
+- Patient, observant stillness
+    
+- Comfortable with extremes of heat and silence
+    
+- Prefers decisive action after long observation
+    
 
-## **Homeland Traits**
+---
+
+## **IV. Regional Variance (Homeland Traits)**
+
+Vulpine culture adapts strongly to regional trade patterns and magical environments.
+
+---
 
 ### **Allemance**
 
-Foxes in Allemance are the confidants of barons and dukes, carefully watching for lies, loopholes, and the subtle poison of diplomacy. They often act as spies, advisors, or speechwriters. The cut-throat politics of the court have sharpened their already keen senses into razors.
-
-**Sense for Betrayers.** You gain proficiency in Deception. You have advantage on Insight checks to detect hostile motives. After spending 8 hours with someone, you gain advantage on Insight checks to detect hostile intentions against them for the next 24 hours.
+**Sense for Betrayers.**  
+You gain proficiency in Deception. You have advantage on Insight checks to detect hostile motives. After spending 8 hours with a creature, you gain advantage on Insight checks to detect hostile intent against that creature for the next 24 hours.
 
 ---
 
 ### **Oria**
 
-The foxes of Oria’s snowy peaks are wrapped in mysticism. Their proximity to visible leylines and the radiant northern auroras enhances their magical instincts. Cloaked in white fur, they walk ancient volcanic paths and track subtle movements in magic like a hunter watches the wind.
-
-**The Aurora Tradition.** You automatically learn the school of any spell cast within 60 feet if you can see or hear its casting. Once per long rest, when casting a spell, you can treat it as being from any other school of magic.
+**The Aurora Tradition.**  
+You automatically learn the school of any spell cast within 60 feet if you can see or hear its casting. Once per long rest, when you cast a spell, you may treat it as if it belonged to a different school of magic.
 
 ---
 
 ### **Vinyot**
 
-In the south, foxes run the show. Whether ruling over trade cartels or subtly shifting the tide of elections, their hand is always in the pot. Vinyotian vulpines are masters of contingency planning and persuasive flair—and they’re never caught broke.
+**Stashed in a Foxhole.**  
+If separated from your wealth (robbed, imprisoned, or otherwise cut off), you can recover coins or valuables equal to twice your level. This amount is deducted from your total wealth. Once used, you can’t use this feature again until you regain access to your assets.
 
-**Stashed in a Foxhole.** If you’re separated from your wealth (e.g., mugged, robbed, imprisoned), you can recover coins or valuables equal to twice your level. This is deducted from your total gold. Once used, this trait can’t be used again until you regain access to your wealth.
-
-**Position of Strength.** You can negotiate costs using any skill check you can justify. Example: Use Athletics to haggle if showing off your lifting technique to a shopkeeper.
+**Position of Strength.**  
+You may negotiate costs using any skill check you can reasonably justify.
 
 ---
 
 ### **Arneria**
 
-Fennec foxes of the Beylik have adapted to extremes—desert heat, social strife, and arcane war. From desert bazaars to quiet study under sandstone arches, they wield tactical grace and magical bite. Their battlecasters strike hard and vanish, leaving enemies cursing their precision.
-
-**Dune Dagger.** After casting a 1st-level spell or higher on your turn, you may immediately make a weapon attack with a dagger as a bonus action.
+**Dune Dagger.**  
+After casting a spell of 1st level or higher on your turn, you may immediately make a dagger attack as a bonus action.
 
 ---
 
 ### **Al’Ar**
 
-On the Feline Isles, foxes were the first to greet the cats and the last to leave their side. Al’ari foxes are seafarers, scouts, and fishers by nightfall, casting tridents into the sea with preternatural aim. Their magnetic instinct makes them the best spearfishers in the isles (not that any cat will say so).
+**Cats Stuck in the Family Tree.**  
+You have advantage on Athletics checks to swim and are proficient with the trident. When attacking with a trident against a creature you cannot see, you do not suffer disadvantage.
 
-**Cats Stuck in the Family Tree.** You have advantage on Athletics checks to swim. You are proficient with the trident. When making a trident attack against a target you cannot see, you don’t have disadvantage.
+---
 
-____
-
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━  
+**Filed & Authenticated**  
+**Ministry of Delving Operations — Annals & Antiquities (Predictive Cognition & Cultural Studies)**  
+**Document Class:** Regional Record / Grade-I Authenticity  
+**Primary Compilation:** Keeper Aeska Mourn-Wind  
+**Cross-Verification:** Lt. Salvia Korrin (Arc. Scriv.), Researcher Falyn Onarra (Sociology Unit)  
+— Certified under Charter §§ 2-B, 5-E, and 9-I.  
+— Coercive exploitation of vulpine predictive labor or navigational expertise constitutes a **Class-2 Sociocultural Violation** under Ministry Law.  
+**——— ⭕ END OF FILE ⭕ ———**

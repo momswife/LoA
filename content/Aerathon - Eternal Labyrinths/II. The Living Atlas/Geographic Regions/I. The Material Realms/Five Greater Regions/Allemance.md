@@ -1,192 +1,192 @@
-> _“If Louvain is the crown of civilization, then Allemance is its beating heart.  
-> No matter where a delver is born, they always find their way home by the smell of bread.”_  
-> — **Archivist Yelna Stonevoice**, _Annals of Hearth and Song_
-
----
-
-# **Allemance**
-
 ### _The Hearthlands of Fellowship — “Where Flame Begets Family.”_
 
-**Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Bureau)_  
-**Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law & Cultural Memory)  
-**Advisory Editors:** Lt. Salvia Korrin (Arc. Scriv. & Field Verification), Chronicler Ione Aurel (Dynastic Histories)  
+**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
+**Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Cultural Memory)  
+**Advisory Editors:** **Lt. Salvia Korrin** (Arcane Scrivener, Field Verification), **Magistrate Talar Shellmark** (Charter Counsel)  
 **Date of Filing:** **3rd Cycle, 3099 A.D.**  
-**Document Class:** _Regional Record / Grade-I Authenticity_
+**Document Class:** _National Registry / Grade-I Structural Archive_
 
 ---
 
 ## **I. Overview**
 
-Nestled in the central plains of Aerathon, **Allemance** is the world’s cultural hearth — a land of lantern-lit cities, music-filled taverns, and long memory.  
-Known as the **Hearthlands**, it is a place where feasts last as long as wars elsewhere, and laughter counts as legal tender.
+**Allemance** is the cultural hearth of Aerathon—a nation defined not by conquest or spectacle, but by **continuity**. Roads here are older than most crowns. Songs outlast dynasties. Bread is treated with the same reverence elsewhere reserved for relics.
 
-While the Ministry classifies it as a “low-threat” region, its importance to Aerathon’s unity cannot be overstated. Every Guild, every Charter, and every feast-day begins here — in the same halls that first sheltered the post-Collapse survivors.
+Where other regions pursue power, Allemance preserves **belonging**.
 
-**Capital:** Louvain, City of Glass and Brass  
-**Regional Symbol:** A torch burning within a ring of clasped hands  
-**Cultural Motto:** _“May our table always have room for one more.”_
+Though many nations boast capitals, **Louvain** stands as Allemance’s undisputed seat of governance, memory, and Ministry authority. From its Eternal Flame flow the charters, guild licenses, and laws that bind modern Aerathon together.
+
+**Capital:** **Louvain**  
+**Government Type:** Concordian Republic with Baronial Holdings  
+**National Symbol:** A torch within a ring of clasped hands  
+**Cultural Maxim:** _“May our table always have room for one more.”_
 
 ---
 
-## **II. Geography & Climate**
+## **II. Geography & Sub-Regions**
 
-The land rolls with golden hills, vine-wrapped ruins, and farmlands fed by ancient irrigation relics.
+Allemance occupies Aerathon’s central plains, blessed with forgiving soil, navigable rivers, and long-settled roads.
 
-- **Southern Allemance:** Known for its orchards, wines, and poetic academies.
-    
-- **Northern Allemance:** Trade hub dotted with watchtowers and minor labyrinth entrances.
-    
-- **Western Ridge:** Where the Ministry’s **Hall of Orientation** and several MDO archives reside.
-    
+### **Core Hearthlands**
 
-Winters are gentle, summers generous. Travelers say the land itself “forgives footsteps.”
+Rolling farmland, river valleys, and trade roads form the political and agricultural heart of the nation. Most population density and civic infrastructure lies here.
+
+### **Glasrún — The Greenwood Without Lords**
+
+To the northeast lies **Glasrún**, a vast old-growth forest region formally claimed by Allemance yet **deliberately left unruled** under the ancient **Glasrún Pact**. No noble levies cross its southern boundary, and no permanent Ministry authority is enforced within its depths.
+
+Glasrún is not lawless—it is **unchartered**, governed by memory, custom, and communal restraint rather than decree
+
+.
 
 ---
 
 ## **III. History & Founding**
 
-Allemance rose from the **First Concord**, the ancient alliance between Brethren survivors after the Collapse.  
-Where the rest of the world fought to claim relics, Allemance fought to **rebuild community**. Its founders built **Hearth-Circles**—communal halls where food, stories, and relic-light were shared freely.
+Allemance emerged from the **First Concord**, when post-Collapse survivors chose cooperation over domination. Rather than building walls, they built **hearth-circles**—shared halls where food, stories, and decisions were exchanged openly.
 
-These circles evolved into the first Guild Halls and later inspired the **Ministry’s own architecture**.  
-Every delver license still bears the Allemantic seal: an open flame above a loaf of bread.
+These circles became the foundation of:
+
+- Guild culture
+    
+- Ministry bureaucracy
+    
+- Modern delver law
+    
+
+Allemance did not expand by the sword. It expanded by becoming **indispensable**.
 
 ---
 
-## **IV. People & Heritage**
+## **IV. People & Cultural Identity**
 
-### **Dominant Lineages:**
+Allemance is ethnically diverse, culturally unified.
 
-Humans, Halflings, Elves, and a growing Beastfolk minority.
+### **Common Traits**
 
-### **Cultural Traits:**
-
-- **Fellowship:** Allemancers treat hospitality as law; denying shelter to a traveler is a civic offense.
+- **Hospitality as Law:** Denying shelter is a civic offense in many regions
     
-- **Feastcraft:** Culinary alchemy thrives here; entire religions are built around the preparation of bread and wine.
+- **Memory as Authority:** Precedent and story carry legal weight
     
-- **Song-Magic:** Bards, clerics, and chroniclers practice _Echo-Law Hymns_, using melody to record memory.
+- **Feastcraft:** Cooking, brewing, and preservation are respected arcane-adjacent disciplines
     
 
-### **Racial Affinities:**
-
-- **Humans:** Diplomatic flexibility; gain increased rapport and morale bonuses.
-    
-- **Halflings:** Resilience and empathy; often serve as mediators and quartermasters.
-    
-- **Beastfolk:** Find social sanctuary; prejudice is nearly nonexistent within Allemantic borders.
-    
+To be “Allemancer-born” is widely understood to mean **trustworthy**.
 
 ---
 
-## **V. Economy & Trade**
+## **V. Government & Civic Structure**
 
-While not the richest region, Allemance is **the world’s market of goodwill**.  
-Its exports are cultural rather than material: stories, art, wine, and education.
+Allemance is governed through layered consensus:
 
-### **Primary Exports:**
-
-- Fine textiles, agricultural goods, ale, enchanted instruments.
+- **The High Table of Louvain** oversees national policy
     
-- Song-scrolls imbued with emotional resonance.
+- **Baronial Cities** manage regional administration
     
-- Delver training contracts via the **Free Company of Louvain.**
+- **Guild Delegates** and **Faith Representatives** hold equal standing
     
 
-### **Imports:**
-
-- Industrial materials from Arneria and Oria.
-    
-- Scrying crystals and relic components from Al’ar.
-    
-
-**Currency:** The _Crownflame_—a coin with one side always faintly warm to the touch.
+Major decisions are debated publicly and ratified only after ritual feasting—because one cannot rule those one refuses to break bread with.
 
 ---
 
-## **VI. Government & Society**
+## **VI. Included Cities of Allemance**
 
-Allemance is a **Concordian Republic**, led by a council of Guild Delegates, Clerics, and MDO observers.  
-The **High Table of Louvain** meets beneath the Eternal Flame, an artifact said to have burned continuously since the First Concord.
+At present, the following cities are formally indexed within this national entry:
 
-Decisions are made communally—voted upon after debate and ritual feasting, where disagreement must be tempered by shared food.
+### **Baritte**
 
-> _“If they can’t eat together, they can’t rule together.”_ — Local proverb
+A hardened civic city on the edge of Glasrún’s influence, Baritte functions as a **logistical and defensive anchor** between the Hearthlands and the Greenwood. Its people are known for endurance, labor discipline, and deep suspicion of empty authority.
 
----
+### **Riverbed City**
 
-## **VII. Religion & Belief**
+Situated along a major river artery, Riverbed City serves as Allemance’s **circulatory hub**—where grain, people, and information flow outward. Its markets feed both countryside and capital, and its docks are rarely quiet.
 
-Faith in Allemance takes gentle forms.  
-The gods are worshipped less as rulers, more as guests—each shrine bearing an extra seat and meal setting “for when they return.”
+### **Sourisport**
 
-Prominent deities include:
+A coastal trade port defined by resilience rather than glamour. Sourisport connects Allemance to maritime routes while retaining a distinctly Allemantic character: practical, communal, and stubbornly independent.
 
-- **Pelor**, the Hearthfire.
-    
-- **Chauntea**, the Earthmother.
-    
-- **Oghma**, the Scribe.
-    
-
-Many delvers swear by the **Table Oath**, a promise never to betray those they’ve shared bread with.
+(Additional cities exist within Allemance but are catalogued under separate regional or thematic records.)
 
 ---
 
-## **VIII. Delving Culture**
+## **VII. Economy & Trade**
 
-Though not as perilous as other regions, Allemance contains **dozens of shallow labyrinths**, used for Ministry training and controlled expeditions.
+Allemance exports stability.
 
-Common delving practices include:
+**Primary Outputs**
 
-- **Communal Mapping:** All delvers share labyrinth routes freely—maps are public property by law.
+- Grain, ale, preserved foods
     
-- **Hearthmark Trials:** Annual competitions where young delvers race to retrieve relics that can help the community.
+- Textiles and artisan goods
     
-- **Hospitality Wards:** Magical protections preventing ambush within recognized rest zones.
+- Education, guild training, and delver certification
     
 
-The Ministry maintains its largest **Arcane Breach Division** field base here, commanded by Lt. Korrin herself.
+**Imports**
+
+- Industrial materials
+    
+- Exotic reagents
+    
+- Cultural works and relic components
+    
+
+Coinage is respected, but **reputation and obligation** often matter more.
 
 ---
 
-## **IX. Relations with Other Regions**
+## **VIII. Faith & Belief**
 
-|**Region**|**Relationship**|**Notes**|
+Religion in Allemance is **welcoming, not domineering**.
+
+Gods are honored as guests, not masters. Shrines often include an empty seat “should they arrive unannounced.” Commonly revered deities include **Pelor**, **Chauntea**, and **Oghma**, though personal devotion varies widely.
+
+The **Table Oath**—never to betray those you have shared bread with—is considered sacred across all faiths.
+
+---
+
+## **IX. Delving Culture**
+
+Allemance treats delving as **responsibility before glory**.
+
+- Many shallow labyrinths are used for training
+    
+- Maps are considered public property
+    
+- Rest zones are legally protected
+    
+
+The Ministry’s largest orientation and archival facilities operate here, ensuring Allemance remains the moral and procedural baseline for delvers worldwide.
+
+---
+
+## **X. Relations with Other Regions**
+
+|Region|Relationship|Summary|
 |---|---|---|
-|**Arneria**|Allied / Religious Exchange|Supplies ritual materials and trade priests.|
-|**Vinyot**|Economic Partner|Mutual trade and shared bureaucracy.|
-|**Oria**|Defensive Alliance|Stormfront Pact guards northern borders.|
-|**Al’ar**|Cultural Rivalry|Artistic exchange mixed with healthy competition.|
-____
-
-## **X. Cultural Influence & Legacy**
-
-Allemance is considered the **moral and emotional capital of Aerathon**.  
-Songs born here are sung from the northern mountains to the southern coast.  
-The phrase _“Allemancer-born”_ is synonymous with _“trustworthy.”_
-
-Even delvers who never return from the labyrinths are said to “go home to the hearth” when their names are read aloud during the **Festival of Lights**—a national holiday when every house leaves a window candle for the lost.
+|**Vinyot**|Economic Partner|Trade & administration|
+|**Oria**|Defensive Ally|Border security|
+|**Arneria**|Religious Exchange|Faith materials & rites|
+|**Al’Ar**|Cultural Rival|Art vs hearth|
+|**MDO**|Foundational|Administrative core|
 
 ---
 
-### **Regional Feature: The Hearthbond**
+## **XI. National Legacy**
 
-_Any character native to Allemance gains a minor racial / cultural boon:_
+Allemance does not shine the brightest.  
+It burns the longest.
 
-> **Hearthbond:** Once per long rest, when you share a meal or drink with allies, you may remove one level of exhaustion or grant a +1 bonus to all saving throws for 1 hour to all participants.
+When empires fracture and storms reshape the coast, it is Allemance that remembers names, laws, and promises. It is the place delvers retire to, refugees rebuild in, and histories are kept when the world grows tired of spectacle.
+
+> _“All roads eventually learn their way back to the hearth.”_
 
 ---
 
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
-> **Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Bureau)**  
-> **Document Class:** _Regional Record / Grade-I Authenticity_  
-> **Primary Compilation:** _Archivist Yelna Stonevoice_  
-> **Cross-Verification:** _Lt. Salvia Korrin (Arc. Scriv.), Chronicler Ione Aurel (Dynastic Histories)_  
-> _— Certified under Charter §§5-E and 9-I. Unauthorized tampering with registered cultural archives constitutes Class-2 Heritage Fraud._  
-> ——— ⭕ END OF FILE ⭕ ———
-
----
+> **Ministry of Delving Operations — The Living Atlas**  
+> **Verification Seal:** Archivist Yelna Stonevoice  
+> _— Glasrún status reaffirmed as sub-geographic region under the Glasrún Pact. Capital authority verified as Louvain. Conflicting legacy entries deprecated._

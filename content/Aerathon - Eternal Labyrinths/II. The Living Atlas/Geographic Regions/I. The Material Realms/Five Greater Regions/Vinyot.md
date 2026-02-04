@@ -1,173 +1,236 @@
-> _“No one rules Vinyot. We simply owe each other too much to stop cooperating.”_  
-> — **Director Halin Drauve**, _Economies of Faith and Coin_
+### _The League of Coin — “Every Promise Has a Price.”_
 
----
+**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Economic Powers & Sovereign Leagues)_  
+**Primary Compiler:** **Director Halin Drauve** (Guild Economics & Trade Regulation)
 
-# **Vinyot**
-
-### _The League of Coin — “The World Runs on Promises Paid in Gold.”_
-
-**Filed Division:** Ministry of Delving Operations — Living Atlas Division (Economic & Political Bureau)**  
-**Primary Compiler:** Director Halin Drauve  
-**Advisory Editors:** Investigator Lokk Marren (Political Movements), Lt. Salvia Korrin (Arc. Scriv.)  
-**Date of Filing:** 1424 A.D. (Age of Spectacle)**  
-**Document Class:** _Regional Record / Grade-I Authenticity_
+  
+**Advisory Editors:** **Investigator Lokk Marren** (Political Movements), **Lt. Salvia Korrin** (Arcane Scrivener, Verification)  
+**Date of Filing:** **8th Cycle, 3168 A.D.**  
+**Document Class:** _National Record / Grade-I Authenticity_
 
 ---
 
 ## **I. Overview**
 
-Southern Aerathon’s shimmering delta region, **Vinyot**, is both republic and marketplace — a chain of city-states bound by coin, oath, and convenience.  
-Here, trade is worship, currency is language, and even love is negotiated in fine print.
+**Vinyot** is Aerathon’s beating economic heart—a mercantile league of cities bound not by blood or banner, but by **contracts, coin, and mutual debt**. Where other nations are shaped by faith, lineage, or endurance, Vinyot is shaped by **flow**: of goods, of people, of money, of obligation.
 
-The Ministry classifies Vinyot as an **Economic Power of Prime Rank**: politically unstable, culturally magnetic, and indispensable to every nation that values food, relics, or airships.
+Though fiercely decentralized in practice, Vinyot maintains a recognized capital in **Dole**, from which national policy, taxation frameworks, and external diplomacy are enforced. This arrangement is tolerated—rather than loved—by the wider League, but persists because it functions.
 
-**Capital:** Dole  
-**Regional Symbol:** An open hand clutching a coin stamped with an eye.  
-**Cultural Motto:** _“Every promise costs something.”_
+Vinyot does not pretend to unity.  
+It simply ensures that breaking away is more expensive than staying.
 
----
-
-## **II. Geography & Climate**
-
-A vast delta webbed with canals and terraced ports.
-
-- **Golden Delta:** Merchant palaces, auction temples, and the Council of Scales.
-    
-- **Copper Canals:** Smoke-lit manufactories producing relic components and minting coinage.
-    
-- **The Outer Isles:** Independent trading colonies ruled by maritime Beastfolk families.
-    
-
-Warm, briny air and monsoon mists mix with the scent of oil, citrus, and old parchment.
+**Capital:** **Dole**  
+**Government Type:** Mercantile League with Baronic Capital  
+**Regional Maxim:** _“Every promise costs something.”_
 
 ---
 
-## **III. History & Founding**
+## **II. Geography & Trade Routes**
 
-Vinyot was forged from rebellion rather than conquest.  
-When the Arnerian dynasties collapsed, freed Beastfolk merchants organized the **Nine Pacts of Silver** — trade accords guaranteeing mutual profit and neutrality.  
-Over time, these evolved into the **League of Coin**, a mercantile alliance where political office is purchased, not inherited.
+Vinyot occupies Aerathon’s warm southern reaches: river deltas, estuaries, and long coastlines shaped for commerce.
 
-The **Concord of Scales (1287 A.D.)** formally recognized Vinyot as sovereign; since then, it has financed nearly every major Ministry expedition.
+### **Key Geographic Features**
+
+- **The Golden Delta:** Interlaced rivers feeding the League’s interior markets
+    
+- **Southern Long Sea Coast:** Maritime routes to Arneria, Al’Ar, and beyond
+    
+- **Inland Canal Systems:** Artificial lifelines enabling bulk transport
+    
+- **Pilgrimage & Trade Corridors:** Roads where faith, coin, and rumor mix freely
+    
+
+Climate is humid, fertile, and unforgiving to neglect—ideal for trade, agriculture, and rapid urban growth.
 
 ---
 
-## **IV. People & Heritage**
+## **III. Political Structure & Governance**
 
-### **Dominant Lineages**
+Vinyot is governed through **economic authority rather than territorial rule**.
 
-Beastfolk (vulpine, mustelid, and avian traders) with smaller Brethren enclaves of scholars and scribes.
+### **The League of Coin**
 
-### **Cultural Traits**
+A loose alliance of cities, guilds, and corporate bodies bound by trade pacts, mutual insurance, and shared currency standards.
 
-- **Contractual Wit:** Every Vinyoti is trained to read loopholes before they can read stories.
+### **The Capital: Dole**
+
+Dole serves as Vinyot’s administrative and diplomatic center. Its baronial authority enforces League-wide policy, taxation thresholds, and external agreements—often with harsh efficiency.
+
+The capital is **clean, controlled, and deeply resented** by cities that generate the wealth it collects.
+
+### **Councils & Power Centers**
+
+- **Council of Scales:** Merchant-princes and trade magnates
     
-- **Guildborn Loyalty:** Citizenship is tied to guild membership; betrayal voids identity and protection.
+- **Guild Accords:** Binding economic treaties
     
-- **Market Honor:** Duels of debate and auction replace physical combat; insults are settled in bids.
+- **Corporate Boards:** De facto rulers in industrial cities
     
 
-### **Racial Affinities**
-
-- **Beastfolk:** Gain keen insight and “read the room” intuition; advantage on commerce or deception rolls.
-    
-- **Brethren:** Known for education and lawcraft, bridging Ministry correspondence.
-    
+Power in Vinyot flows upward with coin—and outward with consequences.
 
 ---
 
-## **V. Government & Law**
+## **IV. Major Cities of Vinyot**
 
-The League is ruled by the **Council of Scales**, a senate of nine Merchant-Princes who purchase their seats every five years.  
-Laws are enforced by **Ledger-Keepers**, bureaucrat-priests devoted to **Abadar**, god of contracts.  
-Oaths are magically binding; false testimony ignites a silver brand upon the liar’s tongue.
+Vinyot’s identity is defined by its cities, each a different expression of commerce, survival, or belief:
 
-**National Maxim:**
+- **Dole** — Capital city and baronic seat; administrative control and fiscal enforcement
+    
+- **Bella Madre** — Cultural capital and performance hub
+    
+- **Landbridge** — Inland lock city controlling freshwater trade
+    
+- **Malarthain Stronghold** — Forge city and beastfolk cultural bastion
+    
+- **Porta Strega** — Managed liminal city of mirrors and ritual regulation
+    
+- **Porta Ventura** — Discreet luxury port and arbitration gateway
+    
+- **Ruby Bay** — Post-crisis settlement city still defining itself
+    
+- **Southwinds** — Major maritime port marked by occupation and recovery
+    
+- **Springbok’s Flight** — Sacred pilgrimage city of dual faith
+    
+
+Each city retains internal autonomy—but none escape League obligation.
+
+---
+
+## **V. Law, Coin, & Contract**
+
+Law in Vinyot is **transactional**.
+
+- Contracts are magically binding
+    
+- False oaths carry physical and social penalties
+    
+- Debt is enforceable across city boundaries
+    
+
+Citizenship is often tied to **guild membership**. To lose one’s guild is to lose protection, credit, and standing.
+
+The League’s unspoken rule:
 
 > _“Freedom ends where the contract begins.”_
 
 ---
 
-## **VI. Economy & Trade**
+## **VI. People & Cultural Identity**
 
-Vinyot’s ports move 60 % of Aerathon’s liquid currency and nearly all licensed relic trade.
+Vinyoti culture prizes:
 
-**Exports:** processed relic components, textiles, refined sugar, spell-paper, luxury glasswork.  
-**Imports:** raw relics, ore, and mercenary labor.  
-**Currency:** The Crown-Mark — a hexagonal coin bearing shifting runes that register ownership magically.
+- Wit over strength
+    
+- Leverage over loyalty
+    
+- Presentation over sincerity
+    
 
-Trade is conducted through **Oath-Notes**, small enchanted contracts that vanish upon payment.
+Common traits include:
+
+- Early literacy in numbers and law
+    
+- Public charm paired with private calculation
+    
+- Comfort with moral ambiguity, provided it is profitable
+    
+
+Hospitality exists—but is never free.
 
 ---
 
-## **VII. Religion & Philosophy**
+## **VII. Economy & Influence**
 
-Faith here is transactional.  
-Temples double as banks; offerings are treated as investment portfolios for divine favor.  
-Most citizens revere:
+Vinyot moves a majority of Aerathon’s liquid wealth.
 
-- **Abadar** — the Lawgiver, god of contracts.
+**Primary Exports**
+
+- Processed relic components
     
-- **Waukeen** — Lady of Commerce.
+- Textiles, glasswork, spell-paper
     
-- **Mask** — patron of quiet negotiation.
+- Financial services and trade arbitration
     
 
-The spiritual ideal is **Equilibrium of Exchange**: to owe nothing and cheat no one — publicly.
+**Primary Imports**
+
+- Raw materials
+    
+- Food and labor
+    
+- High-risk salvage
+    
+
+The League’s true export is **dependence**.
 
 ---
 
-## **VIII. Delving Culture**
+## **VIII. Faith & Philosophy**
 
-Unlike Allemance’s communal delving, Vinyot treats expeditions as **investment portfolios**.
+Faith in Vinyot is pragmatic.
 
-- **Registered Delves:** Sponsored by merchant guilds, insured through relic bonds.
+Gods are treated as:
+
+- Investors
     
-- **Private Delves:** Illegal but frequent; success stories become stock fables.
+- Witnesses
     
-- **Relic Auctions:** Held weekly in Vinyot Prime; the Ministry monitors 30 % of transactions, guesses at the rest.
+- Contractual entities
     
 
-Common local saying:
+Commonly revered figures include **Abadar**, **Waukeen**, and **Mask**, though devotion rarely outweighs profit.
 
-> _“If you can’t buy safety, you don’t deserve it.”_
+Temples double as banks. Prayer is often indistinguishable from negotiation.
 
 ---
 
-## **IX. Relations with Other Regions**
+## **IX. Delving & Risk Culture**
 
-|**Region**|**Relationship**|**Summary**|
+Vinyot treats delving as **speculation**.
+
+- Registered delves function as investment ventures
+    
+- Private delves skirt legality
+    
+- Relic auctions are cultural events
+    
+
+Failure is tolerated—provided the paperwork is sound.
+
+---
+
+## **X. Relations with Other Regions**
+
+|Region|Relationship|Summary|
 |---|---|---|
-|**Allemance**|Symbiotic|Moral heart meets fiscal brain; constant negotiation.|
-|**Arneria**|Strategic|Mutual funding of excavation projects.|
-|**Oria**|Competitive|Industrial rivalry; tariffs on heavy machinery.|
-|**Al’ar**|Cultural|Shared taste for spectacle and performance contracts.|
-____
-## **X. Cultural Legacy & Character**
+|**Allemance**|Symbiotic|Food, labor, moral tension|
+|**Arneria**|Strategic|Faith-for-coin exchange|
+|**Oria**|Competitive|Industry & tariffs|
+|**Al’Ar**|Cultural|Performance & maritime trade|
+|**MDO**|Embedded|Oversight, not control|
 
-To live in Vinyot is to walk the balance between brilliance and ruin.  
-Every citizen is a negotiator; every child can appraise an artifact by ten.  
-Even the poorest carry ledgers — if only to keep track of who owes them hope.
-
-Visitors find it exhausting. Residents find it exhilarating. The Ministry finds it profitable.
+The Ministry monitors Vinyot closely—not to restrain it, but to survive its ripple effects.
 
 ---
 
-### **Regional Feature: Silver Tongue**
+## **XI. National Character**
 
-_Characters native to Vinyot gain the following minor cultural boon:_
+Vinyot does not promise safety.  
+It promises **opportunity**—and the bill afterward.
 
-> **Silver Tongue:** Once per long rest, you may treat a failed Persuasion, Insight, or Deception check as a 10 + your Charisma modifier, representing quick verbal recovery or contractual redirection.
+It is a nation where everything has a price, including silence, loyalty, and hope. Those who thrive call it freedom. Those who fail call it theft.
+
+Both are correct.
+
+> _“The world runs on promises paid in gold.”_
 
 ---
 
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
-> **Ministry of Delving Operations — Living Atlas Division (Economic & Political Bureau)**  
-> **Document Class:** _Regional Record / Grade-I Authenticity_  
-> **Primary Compilation:** _Director Halin Drauve_  
-> **Cross-Verification:** _Lt. Salvia Korrin (Arc. Scriv.), Investigator Lokk Marren (Political Movements)_  
-> _— Certified under Charter §§ 3-C and 6-F. Forgery of contracts bearing League sigils constitutes Class-1 Economic Treason under Ministry law._  
-> ——— ⭕ END OF FILE ⭕ ———
+> **Ministry of Delving Operations — The Living Atlas**  
+> **Verification Seal:** **Director Halin Drauve**  
+> _— Capital verified as Dole. Vinyot classified as a Prime Economic Power. Contract law supremacy affirmed. Non-League interference constitutes **Class-I Economic Destabilization**._

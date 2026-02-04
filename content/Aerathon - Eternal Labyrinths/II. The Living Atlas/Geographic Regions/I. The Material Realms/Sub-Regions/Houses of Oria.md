@@ -1,265 +1,175 @@
-### _The Hammered Lands — “Stone Holds Because It Is Struck.”_
+### _“The House endures. The seat must be earned.”_
 
-**Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Environmental & Civic Studies)_  
-**Primary Compiler:** **Professor Arav Dhal-Senn** (Forge-Geography & Metallurgical History)  
-**Advisory Editors:** **Archivist Yelna Stonevoice** (Echo-Law & Civic Memory), **Lt. Salvia Korrin** (Arc. Scriv., Field Verification)  
+**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Oric Governance & City-State Structures)_  
+**Primary Compiler:** **Archivist Yelna Stonevoice** (Oric Civic Lineages & Echo-Law)  
+**Advisory Editors:** **Professor Arav Dhal-Senn** (Infrastructure & Settlement Stability), **Lt. Salvia Korrin** (Arc. Scriv., Verification)  
 **Date of Filing:** **4th Cycle, 3160 A.D.**  
-**Document Class:** _Geographic Record / Grade-I Authenticity_
+**Document Class:** _Governance Index / Grade-I Authenticity_
 
 ---
 
 ## **I. Overview**
 
-**Oria** is not a continuous nation of fields and borders.  
-It is a land of **stone-bound city-states**, each rooted to a mountain face, canyon wall, or forge-valley. These city-states are known collectively as the **Houses of Oria**.
+**Oria** is not a unified nation-state with a capital, throne, or centralized legislature. It is a **confederation of independent city-states**, each governed by its own **House**. In Oric custom, the **House takes the name of the city it governs**, and the **seat of stewardship** is held by a family line entrusted with rule.
 
-Each House is a self-contained civic entity:  
-its own laws, its own traditions, its own relationship to the surrounding land. Together, they form a loose confederation bound by shared craft-ethos and mutual defense rather than centralized rule.
+Outsiders frequently confuse **House** with **family**. Orians do not.
 
-To travel Oria is to pass from **House to House**, not town to town.
+- **The House** is the civic body: the lodge, its charters, its rites, its obligations, its continuity.
+    
+- **The Seat** is the steward line: the family currently trusted to bear authority.
+    
 
-**Associated Region:** Oria  
-**Dominant Terrain:** Mountains, deep valleys, volcanic stone  
-**Regional Symbol:** Seven interlocked hammers  
-**Common Saying:** _“No House stands alone. No House kneels.”_
+Authority is not “owned.” It is **carried**—and dropped the moment it fails its civic purpose.
 
 ---
 
-## **II. Geography & Distribution**
+## **II. Confederation Without Capital**
 
-The Houses of Oria are geographically isolated by design.
+There is **no capital** in Oria. Inter-city coordination occurs through temporary accords and functional necessity:
 
-- Cities are carved directly into stone
+- shared passage rights
     
-- Travel between Houses requires traversing high passes, tunnels, or engineered roads
+- winter supply pacts
     
-- Surrounding land is often left deliberately harsh to discourage invasion
+- defense coordination
+    
+- delver and artifact transit standards
     
 
-This separation reinforces civic independence while making conquest prohibitively costly.
+No House holds lawful supremacy over another. Deference is granted only where function demands it (tunnel control, naval survival, hazard proximity).
 
 ---
 
-## **III. Formation of the Houses**
+## **III. Canon Houses & Seats**
 
-The Houses emerged from early Oric settlements clustered around:
-
-- Ore veins
-    
-- Geothermal vents
-    
-- Defensible stone formations
-    
-
-As these settlements grew, each developed its own **craft specialty** and civic doctrine. Rather than unify under a crown, the Houses formalized coexistence through the **First Pact of Iron**, agreeing to mutual defense while preserving sovereignty.
+Below are the **recognized Houses of Oria**, standardized to match the governance language of their **city pages**, with House names aligned to the **city** and the ruling seats aligned to the **steward families**.
 
 ---
 
-## **IV. The Major Houses of Oria**
+### **House Edelstann**
 
-Each House functions as a **city-state**, defined as much by its surrounding geography as by its people.
+**City:** Edelstann  
+**Seat (Steward Family):** **Vanlig**  
+**Structure:** Lodge authority with batko district representation; port captains answer directly to the Lodge.
+
+- **High Lodge-Bearer** (Vanlig line) presides from the Great Lodge.
+    
+- A **council of batko representatives** advises on civic and military matters.
+    
+- **Port authorities and naval captains** report to the Lodge, reflecting Edelstann’s strategic maritime role.
+    
 
 ---
 
-### **House Anvyr**
+### **House Frostguarde**
 
-**Seat:** Anvyr Hold  
-**Landscape:** Sheer cliff-fortress overlooking wind-scoured highlands
+**City:** Frostguarde City  
+**Seat (Steward Family):** **Stonewarden**  
+**Structure:** Formal dual authority (House + MDO); governance constrained by doctrine to prevent expansion.
 
-Anvyr is the oldest House, its city layered with centuries of reinforcement.
-
-- Known for massive walls and defensive engineering
+- **Warden-Regent** appointed from the Stonewarden line (or proven successor).
     
-- Streets are narrow, steep, and deliberately confusing
+- Term is **strictly limited to ten years**, regardless of performance.
     
-- Expansion is rare; reinforcement is constant
+- Civic power is split by necessity:
     
-
-Anvyr’s land teaches endurance. Nothing here is built to move—only to last.
+    - **House Frostguarde (Stonewarden line):** civic order, labor, fortifications, Emberward systems
+        
+    - **MDO:** anomaly surveillance, labyrinth research, evacuation doctrine, existential assessment
+        
 
 ---
 
-### **House Belkor**
+### **House Heltenlave**
 
-**Seat:** Belkor Forge-City  
-**Landscape:** Volcanic basin threaded with lava channels and steam vents
+**City:** Heltenlave  
+**Seat (Steward Family):** **Skjoldhrafn**  
+**Structure:** Leadership justified continuously; authority can be formally challenged.
 
-Belkor is Oria’s most visibly altered landscape.
-
-- Geothermal forges dominate the skyline
+- **Lodge-Bearer** typically of the Skjoldhrafn line.
     
-- Stone is reshaped constantly through innovation
+- **Speaker Circle** advises and may openly challenge decisions.
     
-- Magitech infrastructure is common and carefully regulated
+- Any sworn member may invoke a **Formal Challenge of Competence**; failure ends authority immediately and publicly.
     
-
-Belkor treats land as a problem to be solved—but never without respect for consequence.
 
 ---
 
-### **House Kharum**
+### **House Jegervalt**
 
-**Seat:** Kharum Bastion  
-**Landscape:** High mountain saddle with wide training terraces
+**City:** Jegervalt  
+**Seat (Steward Family):** **Roetvald**  
+**Structure:** Operational governance; emergency authority centralizes instantly under structural threat.
 
-Kharum’s city is built for movement and visibility.
-
-- Broad plazas double as drill grounds
+- **High Gatewarden** (Roetvald line) commands tunnel operations and civic stability.
     
-- Structures emphasize strength and function
+- **Layer Councils** manage resource distribution and disputes within vertical strata.
     
-- Little ornamentation beyond victory marks
+- During tunnel instability, siege, or structural threat: authority **centralizes without appeal** until stability is restored.
     
-
-The land here is open, cold, and exposed—mirroring Kharum’s belief that strength should never hide.
 
 ---
 
-### **House Vel Tross**
+### **House Podgorod**
 
-**Seat:** Vel Tross Exchange  
-**Landscape:** Deep valley junction connecting multiple passes
+**City:** Podgorod  
+**Seat (Steward Family):** **Bronzemolev**  
+**Structure:** Systems-first governance; leadership proven through mastery and failure analysis.
 
-Vel Tross sits where routes converge.
-
-- Warehouses, counting halls, and caravan yards dominate
+- **Prime Mechanarch** (Bronzemolev line) governs infrastructure: power, water, ventilation, transit, automation.
     
-- Architecture favors access over defense
+- **Layer-Engineers** govern strata and are accountable for mechanical integrity.
     
-- Roads are meticulously maintained
+- Leadership transitions occur via **failure analysis**; collapse removes leadership without ceremony or debate.
     
-
-The surrounding land made Vel Tross inevitable. Control the valley, and you control trade.
 
 ---
 
-### **House Dornak**
+### **House Priozhevsky**
 
-**Seat:** Dornak Deep  
-**Landscape:** Subterranean city spiraling downward into the mountain
+**City:** Priozhevsky  
+**Seat (Steward Family):** **Medvednaya**  
+**Structure:** Stewardship governance; councils regulate standards; external ties require approval.
 
-Dornak is felt more than seen.
-
-- Entire districts lie below the surface
+- **High Curator** (Medvednaya line) oversees archives, charters, and long-term civic policy.
     
-- Air is thick with dust and heat
+- **Scholastic Councils** govern ethics, accreditation, and research standards.
     
-- Vertical shafts define civic space
+- **External funding and partnerships** require Curatorial approval.
     
-
-Life here is shaped by pressure and darkness. The land teaches caution and accountability.
+- Current High Curator / batko: **Oleg the Bold Doctor**.
+    
 
 ---
 
-### **House Sereth**
+### **House Severport**
 
-**Seat:** Sereth Archive-Keep  
-**Landscape:** Stone plateau isolated by ravines
+**City:** Severport  
+**Seat (Steward Family):** **Severinhald**  
+**Structure:** Naval-command governance; winter authority expands to fleet captains.
 
-Sereth’s city is austere and quiet.
-
-- Built to preserve, not expand
+- **High Admiral-Batko** (Severinhald line) rules the city and commands the northern fleet.
     
-- Records are etched into stone rather than parchment
+- In winter months, **fleet captains** gain expanded civic authority (requisition labor, redirect resources, enforce emergency measures).
     
-- Few outsiders are permitted beyond the outer halls
+- **Civil councils** manage fair-season life but defer instantly to naval priority in crisis.
     
-
-The surrounding emptiness reinforces Sereth’s belief that memory must be protected from noise.
 
 ---
 
-## **V. Peoples & Settlement Patterns**
+## **IV. Oric Rule, In One Sentence**
 
-Populations vary by House, but share common traits:
+Across all Houses, the pattern holds:
 
-- High civic pride tied to birthplace
-    
-- Lifelong specialization in craft or role
-    
-- Limited inter-House migration
-    
-
-Leaving one’s House is possible—but returning carries expectation. Identity is carved early and rarely shed.
-
----
-
-## **VI. Society & Cultural Character**
-
-Oric culture values:
-
-- Labor as virtue
-    
-- Mastery over speed
-    
-- Contribution over charisma
-    
-
-Festivals are work-celebrations. Art is functional. Songs recount construction, failure, and repair.
-
-> _“We honor what we build by fixing it.”_
-
----
-
-## **VII. Economy & Resources**
-
-Each House controls its own resources, contributing surplus to confederate need.
-
-**Shared Outputs**
-
-- Metal and alloy
-    
-- Stonework and fortifications
-    
-- Weapons and heavy tools
-    
-
-Trade between Houses is ritualized and recorded, ensuring no House grows dependent on another.
-
----
-
-## **VIII. Delving & Anomalies**
-
-Oria’s deep stone makes it prone to:
-
-- Sealed labyrinthic heat pockets
-    
-- Pre-Collapse vaults
-    
-- Structural echoes mistaken for magic
-    
-
-Delving is permitted but tightly controlled, often treated as an extension of mining rather than adventure.
-
----
-
-## **IX. Relations with Other Regions**
-
-|**Region**|**Relationship**|**Summary**|
-|---|---|---|
-|**Vinyot**|Transactional|Trade and contracts|
-|**Allemance**|Respectful|Shared restraint|
-|**Arneria**|Limited|Cultural distance|
-|**MDO**|Fragmented|Negotiated House-by-House|
-
----
-
-## **X. Regional Identity & Legacy**
-
-Oria endures not because it is united—but because it is **balanced**.
-
-Each House holds a different truth about stone, labor, and survival. Together, they form a land that cannot be ruled from one seat, nor broken by a single failure.
-
-The Ministry classifies Oria as **structurally resilient, politically diffuse**, and hostile to centralization.
-
-> _“A single hammer shatters. Seven shape the world.”_
+> The **House** is permanent.  
+> The **seat** is conditional.  
+> Authority is **earned continually**, and lost the moment the city’s function fails.
 
 ---
 
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
-> **Ministry of Delving Operations — Annals & Antiquities (Environmental & Civic Studies)**  
-> **Document Class:** _Geographic Record / Grade-I Authenticity_  
-> _— Certified under Charter §§ 1-D, 4-A, and 7-K. Attempts to centralize Oria constitute **Class-2 Structural Breach**._  
-> ——— ⭕ **END OF FILE** ⭕ ———
+> **Ministry of Delving Operations — The Living Atlas**  
+> **Verification Seal:** Archivist Yelna Stonevoice  
+> _— House names standardized to city-governance convention. Seats verified as steward families per city filings. Any non-city “House” classifications are deprecated._

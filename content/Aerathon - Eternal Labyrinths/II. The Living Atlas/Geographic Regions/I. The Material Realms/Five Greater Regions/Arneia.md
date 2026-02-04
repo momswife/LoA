@@ -1,185 +1,203 @@
-> _“Arneria does not worship the gods. It bargains with them in fire.”_  
-> — **Magistrate Talar Shellmark**, _Commentary on the Oathlands_
+### _The Oathlands of Flame and Sky — “What Is Sworn Must Be Survived.”_
 
----
-
-# **Arneria**
-
-### _The Divided Sands — “Faith Is the Flame That Survives Its Own Fire.”_
-
-**Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Political Geography & Faith Systems)_  
-**Primary Compiler:** Priest-Analyst Thera Daan (Faithfield Theorist & Ritual Systems Archivist)  
-**Advisory Editors:** Magistrate Talar Shellmark (Charter Counsel & Canon Law Oversight), Lt. Salvia Korrin (Arc. Scriv. & Breach Verification)  
+**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
+**Primary Compiler:** **Priest-Analyst Thera Daan** (Faith Systems & Rite-States)  
+**Advisory Editors:** **Magistrate Talar Shellmark** (Charter Counsel), **Lt. Salvia Korrin** (Arcane Scrivener, Breach Verification)  
 **Date of Filing:** **6th Cycle, 3104 A.D.**  
-**Document Class:** _Regional Record / Grade-I Authenticity_
+**Document Class:** _National Registry / Grade-I Structural Archive_
 
 ---
 
 ## **I. Overview**
 
-The **Kingdom of Arneria**, often called _the Divided Sands_, stretches across Aerathon’s central deserts and volcanic plateaus.  
-It is a realm of radiant conviction — half-holy land, half-powder keg — where the air itself hums with prayer, heat, and discipline.
+**Arneria** is a land where belief is not abstract—it is **engineered, reforged, and enforced**. Stretching across scorched plains, volcanic highlands, and humid western jungles, the nation exists in a constant state of ritual maintenance. Faith here is not comfort. It is **infrastructure**.
 
-Faith, law, and metallurgy are indistinguishable here.  
-The people burn their oaths into the earth, inscribing molten runes that shine for centuries.  
-To outsiders, Arneria is harsh; to its citizens, it is **proof that belief can outlast stone.**
+Where other realms pray, Arneria **binds**.
 
-**Capital:** _Saren-Kesh_, the City of Thousand Altars  
-**Regional Symbol:** A radiant sunburst enclosed in a circle of black glass  
-**Cultural Motto:** _“Only through heat do we remember who we are.”_
+The nation is governed from **Tilkisan**, a capital of controlled beauty and inherited authority, while vast regions beyond the Causeway operate under looser, older compacts of survival and oath.
 
----
-
-## **II. Geography & Climate**
-
-- **The Searing Expanse:** Endless dunes and obsidian flats broken by ancient temple-ruins.
-    
-- **The Glass Range:** Volcanic mountains that glow at night; home to relic-forges and oath mines.
-    
-- **The Drowned Wastes:** Salt basins where ancient rivers once ran; now pilgrimage grounds.
-    
-
-Rain is rare; lightning is law. The wind carries whispers — some say divine, some say echoes of the Wanehollow below.
+**Capital:** **Tilkisan**  
+**Government Type:** Beylik Theocratic State (Federalized City-Regions)  
+**National Symbol:** A sun-disc fractured by a descending flame  
+**Cultural Maxim:** _“Endure the fire, or be reshaped by it.”_
 
 ---
 
-## **III. History & Founding**
+## **II. Geography & Sub-Regions**
 
-Long before the Collapse, Arneria was the center of divine experimentation.  
-When the old pantheons fell silent, its priest-smiths bound fragments of divinity into metal, creating the first **Faith-Bound Relics**.
+Arneria is divided less by borders than by **ritual climates**—zones where land, faith, and danger overlap differently.
 
-Civil war followed between two orders:
+### **The Central Oathlands**
 
-- The **Covenant of Glass**, who believed the gods must be reforged through mortal will.
-    
-- The **Order of the Breath**, who insisted the divine must be left to heal on its own.
-    
+Arid plateaus and volcanic stonefields dominate the heart of Arneria. This region contains the capital, major Causeway routes, relic forges, and the densest concentration of Flame-Throne authority.
 
-The conflict shattered the nation into independent city-states, each ruled by a _Flame-Throne_ — sovereigns who wield both political and spiritual power.
+### **Bat’yan — The Living Canopy**
 
-The Ministry maintains only partial jurisdiction, relying on negotiated “Faithfield Charters” renewed every decade.
+To the west lies **Bat’yan**, a vast rainforest sub-region where rigid Arnerian control gives way to adaptation, ancestry, and motion. Settlements here are fluid, seasonal, and deeply tied to land memory rather than decree.
 
----
+Above Bat’yan, uniquely, **the Astral Sea presses close to the world**.
 
-## **IV. People & Heritage**
+Not metaphorically.
 
-### **Dominant Lineages**
+In Bat’yan, the sky thins.
 
-Brethren (humans, elves, aasimar) and elemental-touched bloodlines. Beastfolk are present as soldiers and pilgrims.
+Stars appear wrong. Dreams travel farther than bodies. Certain heights, clearings, and storms are known to brush the Astral directly, producing visions, disappearances, and impossible navigation phenomena. This proximity is widely accepted by Bat’yan inhabitants and cautiously documented by the MDO
 
-### **Cultural Traits**
-
-- **Ritual Discipline:** Every act — from trade to battle — is formalized as an oath.
-    
-- **Heatforging:** Craftsmen shape metal through divine prayer, producing weapons that “sing” when unsheathed.
-    
-- **Sand Oaths:** Written in salt, sealed in fire, immutable once cooled.
-    
-
-### **Racial Affinities**
-
-- **Aasimar / Humans:** Radiant resilience; advantage on saving throws vs. fire or radiant damage.
-    
-- **Elemental-touched:** Minor pyromancy; can kindle light or warmth at will.
-    
+.
 
 ---
 
-## **V. Governance & Law**
+## **III. History & Formation**
 
-Arneria’s rule is **theocratic-federal** — dozens of city-states unified under the _Conclave of the Flame-Thrones_.  
-Each throne’s legitimacy is proven through possession of a relic known as a **Divine Spark**, fragments of the original god-metals.
+Arneria rose where other nations collapsed inward.
 
-Law is spoken, not written: trials are public recitations called **Sands of Judgement**.  
-Punishments are ritualized — exile branded by glass sigil, or “Ash-Penance,” walking the desert until the sun forgives.
+In the aftermath of divine withdrawal, Arnerian priest-smiths refused to accept silence. They salvaged fragments of faith—**god-metals, rites, and oaths**—and reforged them into systems that could function without divine oversight.
 
-> _“The gods may not watch, but the sand remembers.”_
+This act birthed Arneria’s defining tension:
+
+- **Faith as inheritance**
+    
+- **Faith as obligation**
+    
+
+Civil wars followed. The survivors reorganized into city-states bound by relic authority and overseen by Flame-Thrones. Over time, these consolidated into the modern Beylik structure, centered on Tilkisan.
+
+Arneria remembers its gods not as saviors—but as **materials**.
 
 ---
 
-## **VI. Religion & Philosophy**
+## **IV. People & Cultural Identity**
 
-Arnerian faith centers around **The Nine Flames**, abstract aspects of divinity (Valor, Mercy, Diligence, Despair, etc.), each worshipped as an element of the lost gods.
+Arnerians are defined by **discipline and endurance**.
 
-Temples double as forges and courts. Priests are blacksmiths; sermons are sparks.  
-Magic manifests through **Rite-Forging**, a hybrid of divine prayer and transmutation art.
+### **Common Traits**
 
-Major cults include:
-
-- **The Ember Saints:** Ascetics who burn their names to shed ego.
+- Oaths are binding beyond law
     
-- **The Choir of Iron:** Warrior-monks forging relic armor to “contain the voice of gods.”
+- Pain is instructional, not shameful
     
-- **The Glass Pilgrims:** Fire-blind mystics who wander by scent of ozone alone.
+- Beauty is proof of control, not indulgence
     
+
+Elemental-touched bloodlines, Brethren ancestries, and ritual-adapted beastfolk are common. Identity is shaped more by **rite participation** than lineage.
 
 ---
 
-## **VII. Economy & Trade**
+## **V. Governance & Power**
 
-### **Exports:**
+Arneria operates as a **federal theocratic state**.
 
-Sacred metals, faith-bound relics, gemstones, alchemical glass, desert spices.
+- **The Bey of Arneria** rules from Tilkisan
+    
+- **Flame-Thrones** govern major cities and regions
+    
+- **Ritual Councils** interpret and maintain oath-law
+    
 
-### **Imports:**
-
-Grain from Allemance, fabrics from Vinyot, labor and timber from Oria.  
-Currency is marked in **Carats** — weighed gems whose value shifts with moonlight, a symbolic tie between wealth and divine favor.
-
-Relic smuggling is rampant; half the world’s “blessed weapons” began life in Arnerian vaults.
+Authority flows from **relic legitimacy**. Those who cannot maintain their oaths lose power—sometimes publicly.
 
 ---
 
-## **VIII. Delving Culture**
+## **VI. The Capital: Tilkisan**
 
-Arnerian delvers treat labyrinths as **living trials**—punishments sent by gods to measure mortal endurance.
+**Tilkisan** is Arneria’s unquestioned capital: administrative, ceremonial, and symbolic. Its architecture enforces hierarchy through elevation, sightlines, and access. Wealth flows upward; labor flows beneath.
 
-Common practices:
+The city’s beauty is intentional—a reminder that order must be visible to endure
 
-- **Flame-Marks:** Tattoos that ignite when relic resonance is near.
-    
-- **Pilgrim Contracts:** Written vows of survival shared before descent.
-    
-- **The Ember Burden:** A relic-based trial requiring delvers to bear flame continuously within the labyrinth; if it dies, so does their license.
-    
+.
 
-The Ministry maintains a fragile truce with the Flame-Thrones, permitted to operate only in non-sacred labyrinths.
+No other city disputes Tilkisan’s status. Some simply resent it.
 
 ---
 
-## **IX. Relations with Other Regions**
+## **VII. Faith & Philosophy**
 
-|**Region**|**Relationship**|**Summary**|
+Arnerian faith centers on the **Nine Flames**, abstract aspects of divinity treated as forces to be shaped and contained.
+
+Temples double as:
+
+- Forges
+    
+- Courts
+    
+- Training halls
+    
+
+Priests are smiths. Sermons are rites. Failure is recorded.
+
+In Bat’yan, faith is quieter—woven into daily survival and ancestral memory rather than spectacle. The Astral Sea’s nearness has produced unique beliefs regarding dreams, wandering souls, and sky-spirits that are tolerated but not codified.
+
+---
+
+## **VIII. Economy & Trade**
+
+Arneria exports **conviction made material**.
+
+**Exports**
+
+- Faith-bound relics
+    
+- Sacred metals and glasswork
+    
+- Desert spices and alchemical components
+    
+
+**Imports**
+
+- Grain (primarily from Allemance)
+    
+- Timber and labor
+    
+- Administrative expertise
+    
+
+Trade routes are tightly controlled; generosity is strategic.
+
+---
+
+## **IX. Delving Culture**
+
+Delving in Arneria is considered **trial by ordeal**.
+
+- Licenses often require ritual vows
+    
+- Failure carries spiritual as well as legal consequence
+    
+- Certain labyrinths are declared sacred and off-limits
+    
+
+Bat’yan delvers operate differently—guided by land, dreams, and Astral phenomena rather than centralized authority.
+
+---
+
+## **X. Relations with Other Regions**
+
+|Region|Relationship|Summary|
 |---|---|---|
-|**Allemance**|Religious / Cultural Ally|Mutual aid through faith and food.|
-|**Vinyot**|Strategic Trade Partner|Funds relic forges; constant debt rivalry.|
-|**Oria**|Occasional Rival|Disputes over border relic sites.|
-|**Al’ar**|Pilgrimage Exchange|Fire-dancers and elemental scholars cross between regions.|
-___
-## **X. Cultural Identity & Legacy**
-
-Arnerians live by the creed that faith is not belief — it is **maintenance**.  
-Every prayer sharpens a weapon; every forge tempers a soul.  
-Outsiders call them zealots; they call themselves **custodians of flame**.
-
-Delvers trained in Arneria are prized for endurance, discipline, and the ability to keep hope alive in unbearable heat.
+|**Allemance**|Competitive Ally|Faith vs hearth|
+|**Vinyot**|Strategic Rival|Trade and influence|
+|**Oria**|Uneasy Neighbor|Border relic disputes|
+|**Al’Ar**|Cultural Exchange|Elemental philosophy|
+|**MDO**|Conditional|Operates by charter|
 
 ---
 
-### **Regional Feature: Flame-Forger’s Conviction**
+## **XI. National Legacy**
 
-_Any character native to Arneria gains the following cultural boon:_
+Arneria believes the world survives because **someone is willing to suffer for its order**.
 
-> **Flame-Forger’s Conviction:** Once per long rest, when you fail a saving throw or ability check, you may instead reroll it and take fire or radiant damage equal to your proficiency bonus — proof that strength is paid in pain.
+Whether that belief is truth or self-justification is debated everywhere except within its borders.
+
+From the polished stone of Tilkisan to the living canopy of Bat’yan—where the Astral Sea watches too closely—Arneria endures by refusing to let faith go unanswered.
+
+> _“The gods may be gone.”_  
+> _“The fire remains.”_
 
 ---
 
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
-> **Ministry of Delving Operations — Annals & Antiquities (Political Geography & Faith Systems)**  
-> **Document Class:** _Regional Record / Grade-I Authenticity_  
-> **Primary Compilation:** _Priest-Analyst Thera Daan_  
-> **Cross-Verification:** _Lt. Salvia Korrin (Arc. Scriv.), Magistrate Talar Shellmark (Charter Counsel)_  
-> _— Certified under Charter §§ 5-E and 9-I. Unauthorized excavation of faith-bound relics within Arnerian borders constitutes Class-1 Divine Misconduct under Ministry Charter._  
-> ——— ⭕ END OF FILE ⭕ ———
+> **Ministry of Delving Operations — The Living Atlas**  
+> **Verification Seal:** Priest-Analyst Thera Daan  
+> _— Capital authority verified as Tilkisan. Bat’yan reaffirmed as sub-geographic region with documented Astral proximity anomalies. Conflicting legacy entries deprecated._

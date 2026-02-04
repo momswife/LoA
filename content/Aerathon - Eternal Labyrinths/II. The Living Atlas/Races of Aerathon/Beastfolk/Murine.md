@@ -1,21 +1,24 @@
-> *“My friend and I went on a double date with two mouse boys once. They were nice, but I think they were talking to each other the whole time.”*
-
-___
-
-![[{64E2E152-115C-4F1E-89B2-682466752BB2}.png]]
-## **Overview**
-
-The murine species walks tall and proud—though often between the legs of larger beasts. Their legacy runs deep through Arneria and beyond, with mice serving as silent tacticians and rats as outspoken revolutionaries. Despite their size, murines wield cultural might in ways few expect.
-
-Mice are the masters of nonverbal communication. Entire conversations pass silently between them through minute facial twitches and eye movements. Outsiders can scarcely perceive it, much less understand. It’s said that each mouse carries two selves: one for the world, and one only their kind can see.
-
-By contrast, rats lost this gift long ago. A calamity centuries past stole their silent speech—but in its place bloomed something just as powerful. Rats possess uncanny survival instincts and a knack for finding exactly what they need, be it a scrap of food or a hidden escape tunnel. Their adaptability, independence, and flair for community journalism have earned them an outsized place in the Beast World.
-
-Though their cultures diverged, mice and rats remain united by blood and circumstance. Both are small, but neither are to be underestimated.
+**Ministry of Delving Operations — Annals & Antiquities**  
+**Species Classification:** Beastfolk (Murine Lineage)  
+**Registry Scope:** Micro-Societal Dynamics & Emergent Communication  
+**Recognition Status:** Full Delver Eligibility  
+**Date of Filing:** 3096 A.E.
 
 ---
 
-## **Murine Traits**
+## **I. Racial Overview**
+
+Murines walk tall and proud—often between the legs of larger folk. Though small in stature, they possess an outsized cultural presence across Aerathon, particularly in Arneria and the great southern cities. Their influence is quiet, persistent, and deeply rooted in community.
+
+Murine lineage diverges sharply between mice and rats. Mice are masters of nonverbal communication, conducting entire conversations through subtle shifts of expression that outsiders rarely notice. It is said each mouse carries two selves: one visible to the world, and one shared only with their kind.
+
+Rats, by contrast, lost this silent language centuries ago in a poorly understood calamity. In its place arose something just as potent—an instinctive resilience and uncanny adaptability. Rats are outspoken, pragmatic, and often politically active, forming networks of mutual aid, underground journalism, and rapid response where institutions fail.
+
+Despite these differences, mice and rats remain bound by blood and circumstance. Both understand what it means to be overlooked. Neither should be underestimated.
+
+---
+
+## **II. Core Murine Traits**
 
 **Creature Type.** You are a Humanoid.
 
@@ -23,9 +26,17 @@ Though their cultures diverged, mice and rats remain united by blood and circums
 
 **Speed.** Your walking speed is 30 feet.
 
-**Mazeproof.** You never become lost retracing any path you’ve consciously traveled within the last 7 days. Additionally, you are treated as a minotaur for the purposes of the _maze_ spell.
+**Mazeproof.**  
+You never become lost while retracing any path you have consciously traveled within the last 7 days. Additionally, you are treated as a minotaur for the purposes of the _maze_ spell.
 
-**Low-Light Vision.** You treat dim light as bright light.
+**Low-Light Vision.**  
+You treat dim light as bright light.
+
+---
+
+## **III. Murine Subraces**
+
+Murine lineage expresses itself through two dominant cultural and physiological forms.
 
 ---
 
@@ -33,11 +44,23 @@ Though their cultures diverged, mice and rats remain united by blood and circums
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
-**Size.** You are Small. Most mice stand between 3'4" and 3'8" tall.
+**Size.** Small  
+**Typical Height.** 3’4” – 3’8”
 
-**Voiceless Speech.** You can silently communicate with any mouse who can see your face, and vice versa. These conversations are undetectable to other species without special training or magic.
+**Voiceless Speech.**  
+You can silently communicate with any mouse who can see your face, and vice versa. These conversations are undetectable to other species without special training or magic.
 
-**Collective Magic.** As a reaction, when a creature within 60 ft loses concentration on a spell, you may expend a spell slot equal to or higher than its level to sustain it. The spell continues for its full remaining duration.
+**Collective Magic.**  
+As a reaction, when a creature within 60 feet loses concentration on a spell, you may expend a spell slot equal to or higher than its level to sustain it. The spell continues for its full remaining duration.
+
+**Racial Quirks**
+
+- Expressive micro-gestures
+    
+- Strong communal loyalty
+    
+- Rarely wastes words when silence will do
+    
 
 ---
 
@@ -45,62 +68,96 @@ Though their cultures diverged, mice and rats remain united by blood and circums
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
-**Size.** You are Small or Medium (your choice). Most rats stand between 3'9" and 5'9" tall.
+**Size.** Small or Medium (your choice)  
+**Typical Height.** 3’9” – 5’9”
 
-**Leftover Magic.** When a creature within 60 ft casts a spell of a level less than or equal to your level ÷ 3 (minimum 1st), you can use your reaction to gain its benefits as if you were also targeted. Usable once per long rest.
+**Leftover Magic.**  
+When a creature within 60 feet casts a spell of a level less than or equal to your level ÷ 3 (minimum 1st), you can use your reaction to gain its benefits as if you were also targeted. Usable once per long rest.
 
-**Survivable.** You can survive twice as long without food or water.
+**Survivable.**  
+You can survive twice as long without food or water.
 
-____
+**Racial Quirks**
 
-![[{E42B53AE-1865-4FB8-A998-20FF607D7CAD}.png]]
-## **Homeland Traits**
+- Blunt honesty
+    
+- Strong survival instincts
+    
+- Deep suspicion of centralized authority
+    
+
+---
+
+## **IV. Regional Variance (Homeland Traits)**
+
+Murine cultures adapt strongly to regional pressures, often developing techniques that leverage their size, coordination, and ingenuity.
+
+---
 
 ### **Allemance**
 
-Murine youth in Allemance are almost all conscripted into the barony guard for a few years. Nobles value their small size and clever riding skills. Mouse cavalry units are trained in emergency dismounts and swift retreats, sometimes perched atop allies many times their size.
+Murine youth are commonly conscripted into baronial service, prized for mobility and mounted tactics.
 
-**Versatile Rider.** As a bonus action while mounted, prepare for an emergency dismount. If hit by an attack, you can use your reaction to dismount into a nearby space. Mounting a bipedal creature costs only 5 ft. of movement.
+**Versatile Rider.**  
+As a bonus action while mounted, prepare for an emergency dismount. If hit by an attack, you can use your reaction to dismount into a nearby space. Mounting a bipedal creature costs only 5 feet of movement.
 
-**Royal Lancer.** You are proficient with the lance. While mounted, you ignore the lance's usual disadvantage when attacking targets within 5 ft.
+**Royal Lancer.**  
+You are proficient with the lance. While mounted, you ignore the lance’s disadvantage against targets within 5 feet.
 
 ---
 
 ### **Oria**
 
-Snowbound mice in Oria developed mounted techniques adapted to icy plains. They are strategic, brave, and masters of making use of cover—especially when that cover is a wooly ally twice their size.
+Snowbound murines master cover-based warfare amid towering allies.
 
-**Versatile Rider.** (Same as Allemance.)
+**Versatile Rider.** _(As above.)_
 
-**Mouse Among Giants.** If a creature at least one size category larger would provide half cover, you instead benefit from three-quarters cover.
+**Mouse Among Giants.**  
+If a creature at least one size larger than you would provide half cover, you instead gain three-quarters cover.
 
 ---
 
 ### **Vinyot**
 
-Southern mice are vineworkers, treetop wanderers, and wind-riders. One enterprising mouse designed a technique to drift down from high places with sailcloth—transforming how mice navigate vertical spaces, and founding a new tradition of murine aerialists.
+Southern murines pioneered aerial descent techniques among vines and towers.
 
-**Drifting Drop.** With 1 minute of prep, tie a sail or 10x10 cloth to your ankles and grip the corners. While falling, you descend at 60 ft. per round and take no fall damage. You can release it as an action.
+**Drifting Drop.**  
+With 1 minute of preparation, tie a sail or 10×10 cloth to your ankles and grip the corners. While falling, you descend at 60 feet per round and take no fall damage. You can release the cloth as an action.
 
-**Gliding Descent.** While using Drifting Drop in moderate or strong wind, you can move up to your speed in the wind’s direction with no movement cost. In strong wind, choose a fall speed between 0–60 ft per round.
+**Gliding Descent.**  
+While using Drifting Drop in moderate or strong wind, you can move up to your speed in the wind’s direction without spending movement. In strong wind, choose a fall speed between 0–60 feet per round.
 
 ---
 
 ### **Arneria**
 
-The spiritual homeland of the mice, Arneria is where voiceless speech was first born. Mice here build tight-knit communities bound by tradition and loyalty. Some now teach their subtle language to outsiders—a long process, but a powerful gift.
+Arneria is the spiritual homeland of the mice and the birthplace of voiceless speech.
 
-**Twitch Literacy.** You can teach a creature who shares a spoken language to understand voiceless speech after 30 days of 2-hour daily practice. If linked via _telepathic bond_, the training takes only 2 hours.
+**Twitch Literacy.**  
+You can teach a creature who shares a spoken language to understand voiceless speech after 30 days of 2-hour daily practice. If linked via _telepathic bond_, the training takes only 2 hours.
 
-**Collective Effort.** You can use the Help action to assist any creature who understands your voiceless speech and can see your face.
+**Collective Effort.**  
+You can use the Help action to assist any creature who understands your voiceless speech and can see your face.
 
 ---
 
-### **Al'Ar**
+### **Al’Ar**
 
-In the Feline Isles, murine inventors adapted Vinyotian air-gliding into daring new boarding tactics. If Al'ar had pirates (which it absolutely does not), these would be the tools they used. These mice are daring, resourceful, and just a little showy.
+In the Feline Isles, murine inventors refined aerial descent into aggressive boarding tactics.
 
-**Drifting Drop.** With 1 minute of prep, tie a sail or 10x10 cloth to your ankles and grip the corners. While falling, you descend at 60 ft. per round and take no fall damage. You can release it as an action.
+**Drifting Drop.** _(As above.)_
 
-**Pirate Drop.** While using Drifting Drop, you can wield a weapon in one hand. After falling at least 10 feet, make a melee attack against a creature you pass.
-____
+**Pirate Drop.**  
+While using Drifting Drop, you can wield a weapon in one hand. After falling at least 10 feet, make a melee attack against a creature you pass.
+
+---
+
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━  
+**Filed & Authenticated**  
+**Ministry of Delving Operations — Annals & Antiquities (Micro-Societal Dynamics & Cultural Studies)**  
+**Document Class:** Regional Record / Grade-I Authenticity  
+**Primary Compilation:** Keeper Aeska Mourn-Wind  
+**Cross-Verification:** Lt. Salvia Korrin (Arc. Scriv.), Researcher Falyn Onarra (Sociology Unit)  
+— Certified under Charter §§ 2-B, 5-E, and 9-I.  
+— Suppression, experimentation, or eradication of murine communities constitutes a **Class-2 Sociocultural Violation** under Ministry Law.  
+**——— ⭕ END OF FILE ⭕ ———**
