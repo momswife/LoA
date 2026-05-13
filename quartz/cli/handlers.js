@@ -48,7 +48,7 @@ function resolveContentPath(contentPath) {
  */
 export async function handleCreate(argv) {
   console.log()
-  intro(styleText(["bgGreen", "black"], ` Quartz v${version} `))
+  intro(styleText(["bgGreen", "black"], ` Lore Vault v${version} `))
   const contentFolder = resolveContentPath(argv.directory)
   let setupStrategy = argv.strategy?.toLowerCase()
   let linkResolutionStrategy = argv.links?.toLowerCase()
@@ -237,7 +237,7 @@ export async function handleBuild(argv) {
     argv.watch = true
   }
 
-  console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
+  console.log(`\n${styleText(["bgGreen", "black"], ` Lore Vault v${version} `)} \n`)
   const ctx = await esbuild.context({
     entryPoints: [fp],
     outfile: cacheFile,
@@ -492,7 +492,7 @@ export async function handleBuild(argv) {
  */
 export async function handleUpdate(argv) {
   const contentFolder = resolveContentPath(argv.directory)
-  console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
+  console.log(`\n${styleText(["bgGreen", "black"], ` Lore Vault v${version} `)} \n`)
   console.log("Backing up your content")
   execSync(
     `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
@@ -553,7 +553,7 @@ export async function handleRestore(argv) {
  */
 export async function handleSync(argv) {
   const contentFolder = resolveContentPath(argv.directory)
-  console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)}\n`)
+  console.log(`\n${styleText(["bgGreen", "black"], ` Lore Vault v${version} `)}\n`)
   console.log("Backing up your content")
 
   if (argv.commit) {

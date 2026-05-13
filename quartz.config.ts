@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://momswife.github.io/LoA/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "momswife.github.io/LoA",
+    ignorePatterns: ["private/**", "templates/**", ".obsidian/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,8 +29,8 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light:"#ffffff",
-          lightgray:"#f2f1ed",
+          light: "#ffffff",
+          lightgray: "#f2f1ed",
           gray: "#aaa8a0",
           darkgray: "#3d3c39",
           dark: "#121212",
@@ -40,8 +40,8 @@ const config: QuartzConfig = {
           textHighlight: "#fff3da",
         },
         darkMode: {
-          light:"#161615",
-          lightgray:"#2a2a28",
+          light: "#161615",
+          lightgray: "#2a2a28",
           gray: "#5e5b54",
           darkgray: "#c9c4b6",
           dark: "#f1efe8",
@@ -88,8 +88,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Per-page social images are useful but slow. Re-enable when the publishing flow needs them.
+      // Plugin.CustomOgImages(),
     ],
   },
 }

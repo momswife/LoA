@@ -1,21 +1,27 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "lore-vault",
+  "description": "The Lore Vault of Aerathon, an Obsidian-authored D&D wiki published with a vendored Quartz engine.",
   "private": true,
-  "version": "4.5.2",
+  "version": "0.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "momswife",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://momswife.github.io/LoA/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/momswife/LoA.git"
   },
   "scripts": {
-    "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
+    "quartz": "node ./quartz/bootstrap-cli.mjs",
+    "build": "node ./quartz/bootstrap-cli.mjs build",
+    "build:ci": "node ./quartz/bootstrap-cli.mjs build --bundleInfo",
+    "serve": "node ./quartz/bootstrap-cli.mjs build --serve",
+    "docs:serve": "node ./quartz/bootstrap-cli.mjs build --serve -d docs",
+    "typecheck": "tsc --noEmit",
+    "format:check": "prettier --check package.json package-lock.json README.md CONTENT_GUIDE.md quartz.config.ts quartz.layout.ts quartz/cli/constants.js quartz/cli/handlers.js quartz/components/Footer.tsx quartz/styles/custom.scss \".github/**/*.{yml,yaml,md}\" \"content/templates/**/*.md\"",
+    "check": "npm run typecheck && npm run format:check",
+    "format": "prettier --write package.json package-lock.json README.md CONTENT_GUIDE.md quartz.config.ts quartz.layout.ts quartz/cli/constants.js quartz/cli/handlers.js quartz/components/Footer.tsx quartz/styles/custom.scss \".github/**/*.{yml,yaml,md}\" \"content/templates/**/*.md\"",
+    "content:check": "node ./quartz/bootstrap-cli.mjs build --bundleInfo",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
@@ -24,12 +30,14 @@
     "node": ">=22"
   },
   "keywords": [
+    "aerathon",
+    "dnd",
+    "wiki",
+    "obsidian",
     "site generator",
     "ssg",
     "digital-garden",
-    "markdown",
-    "blog",
-    "quartz"
+    "markdown"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
