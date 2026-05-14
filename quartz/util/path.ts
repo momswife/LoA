@@ -54,7 +54,7 @@ export function getFullSlug(window: Window): FullSlug {
   return res
 }
 
-function sluggify(s: string): string {
+function legacySluggify(s: string): string {
   return s
     .split("/")
     .map((segment) =>
@@ -69,7 +69,18 @@ function sluggify(s: string): string {
     .replace(/\/$/, "")
 }
 
-export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
+function sluggify(s: string): string {
+  return legacySluggify(s)
+    .split("/")
+    .map((segment) => segment.replace(/-+/g, "-").replace(/^-|-$/g, ""))
+    .join("/")
+}
+
+function _slugifyFilePath(
+  fp: FilePath,
+  excludeExt: boolean | undefined,
+  slugger: (s: string) => string,
+): FullSlug {
   fp = stripSlashes(fp) as FilePath
   let ext = getFileExtension(fp)
   const withoutFileExt = fp.replace(new RegExp(ext + "$"), "")
@@ -77,7 +88,7 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
     ext = ""
   }
 
-  let slug = sluggify(withoutFileExt)
+  let slug = slugger(withoutFileExt)
 
   // treat _index as index
   if (endsWith(slug, "_index")) {
@@ -85,6 +96,14 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
   }
 
   return (slug + ext) as FullSlug
+}
+
+export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
+  return _slugifyFilePath(fp, excludeExt, sluggify)
+}
+
+export function legacySlugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
+  return _slugifyFilePath(fp, excludeExt, legacySluggify)
 }
 
 export function simplifySlug(fp: FullSlug): SimpleSlug {

@@ -1,4 +1,11 @@
-import { FullSlug, isRelativeURL, resolveRelative, simplifySlug } from "../../util/path"
+import {
+  FilePath,
+  FullSlug,
+  isRelativeURL,
+  legacySlugifyFilePath,
+  resolveRelative,
+  simplifySlug,
+} from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -7,8 +14,16 @@ import path from "path"
 
 async function* processFile(ctx: BuildCtx, file: VFile) {
   const ogSlug = simplifySlug(file.data.slug!)
+  const aliases = [...(file.data.aliases ?? [])]
 
-  for (const aliasTarget of file.data.aliases ?? []) {
+  if (file.data.relativePath) {
+    const legacySlug = legacySlugifyFilePath(file.data.relativePath as FilePath)
+    if (legacySlug !== file.data.slug) {
+      aliases.push(legacySlug)
+    }
+  }
+
+  for (const aliasTarget of aliases) {
     const aliasTargetSlug = (
       isRelativeURL(aliasTarget)
         ? path.normalize(path.join(ogSlug, "..", aliasTarget))

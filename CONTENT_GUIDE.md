@@ -20,6 +20,7 @@ aliases:
   - Alternate Name
 tags:
   - living-atlas
+breadcrumbTitle: Short Label
 draft: false
 ---
 ```
@@ -27,6 +28,7 @@ draft: false
 Recommended fields:
 
 - `title` - public display title when the filename is not enough.
+- `breadcrumbTitle` - shorter label for breadcrumbs when `title` is too long.
 - `aliases` - alternate names, old names, or common abbreviations.
 - `tags` - broad index topics such as `city`, `bestiary`, `guild`, or `timeline`.
 - `draft` - set to `true` to exclude from publication.
@@ -37,6 +39,7 @@ Recommended fields:
 - Use aliases when link text should read naturally: `[[Dole (Capital)|Dole]]`.
 - Use embeds for local images: `![[image-name.png]]`.
 - Add links intentionally; backlinks and graph view are most useful when major people, places, factions, and events are connected.
+- Published URLs normalize repeated hyphens, so readable Obsidian names such as `Guilds & Delvers` publish as `Guilds-and-Delvers`.
 
 ## Images
 

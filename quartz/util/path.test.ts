@@ -120,8 +120,22 @@ describe("transforms", () => {
         ["test/special chars?.md", "test/special-chars"],
         ["test/special chars #3.md", "test/special-chars-3"],
         ["cool/what about r&d?.md", "cool/what-about-r-and-d"],
+        ["Aerathon - Eternal Labyrinths/index.md", "Aerathon-Eternal-Labyrinths/index"],
+        ["Guilds & Delvers/Guild Archive.md", "Guilds-and-Delvers/Guild-Archive"],
       ],
       path.slugifyFilePath,
+      path.isFilePath,
+      path.isFullSlug,
+    )
+  })
+
+  test("legacySlugifyFilePath", () => {
+    asserts(
+      [
+        ["Aerathon - Eternal Labyrinths/index.md", "Aerathon---Eternal-Labyrinths/index"],
+        ["Guilds & Delvers/Guild Archive.md", "Guilds--and--Delvers/Guild-Archive"],
+      ],
+      path.legacySlugifyFilePath,
       path.isFilePath,
       path.isFullSlug,
     )

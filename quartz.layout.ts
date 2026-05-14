@@ -1,6 +1,31 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const siteBreadcrumbOptions = {
+  hideTopLevelFolder: true,
+  disableFolderLinks: true,
+  maxItems: 5,
+  itemsBeforeCollapse: 1,
+  itemsAfterCollapse: 3,
+  labelMap: {
+    "Aerathon Eternal Labyrinths": "Aerathon",
+    "Aerathon - Eternal Labyrinths": "Aerathon",
+    "II. The Living Atlas": "Living Atlas",
+    "Cities, Isles & Towns": "Settlements",
+    "Major Cities": "Cities",
+  },
+}
+
+const siteBreadcrumbs = Component.Breadcrumbs({
+  ...siteBreadcrumbOptions,
+  showCurrentPage: false,
+})
+
+const siteListBreadcrumbs = Component.Breadcrumbs({
+  ...siteBreadcrumbOptions,
+  showCurrentPage: true,
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -18,7 +43,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: siteBreadcrumbs,
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
@@ -45,7 +70,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [siteListBreadcrumbs, Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
