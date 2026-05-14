@@ -9,6 +9,7 @@ export interface Options {
   minEntries: number
   showByDefault: boolean
   collapseByDefault: boolean
+  filter: "all" | "romanNumeralSections"
 }
 
 const defaultOptions: Options = {
@@ -16,6 +17,7 @@ const defaultOptions: Options = {
   minEntries: 1,
   showByDefault: true,
   collapseByDefault: false,
+  filter: "all",
 }
 
 interface TocEntry {
@@ -25,6 +27,9 @@ interface TocEntry {
 }
 
 const slugAnchor = new Slugger()
+const romanNumeralHeading = /^(?=[IVX]+\b)[IVX]+\.\s+/i
+const decorativeHeading = /^[\s━─—\-⭕⦿]+$/u
+
 export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
@@ -38,15 +43,39 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
               slugAnchor.reset()
               const toc: TocEntry[] = []
               let highestDepth: number = opts.maxDepth
+              let activeRomanSectionDepth: number | undefined
               visit(tree, "heading", (node) => {
                 if (node.depth <= opts.maxDepth) {
                   const text = toString(node)
-                  highestDepth = Math.min(highestDepth, node.depth)
-                  toc.push({
+                  const entry = {
                     depth: node.depth,
                     text,
                     slug: slugAnchor.slug(text),
-                  })
+                  }
+
+                  if (decorativeHeading.test(text)) {
+                    return
+                  }
+
+                  if (opts.filter === "romanNumeralSections") {
+                    const startsRomanSection = romanNumeralHeading.test(text)
+
+                    if (startsRomanSection) {
+                      activeRomanSectionDepth = node.depth
+                    } else if (
+                      activeRomanSectionDepth !== undefined &&
+                      node.depth <= activeRomanSectionDepth
+                    ) {
+                      activeRomanSectionDepth = undefined
+                    }
+
+                    if (!startsRomanSection && activeRomanSectionDepth === undefined) {
+                      return
+                    }
+                  }
+
+                  highestDepth = Math.min(highestDepth, node.depth)
+                  toc.push(entry)
                 }
               })
 

@@ -28,11 +28,11 @@ article {
 
 @media all and ($desktop) {
   .page {
-    max-width: min(100vw, 1760px);
+    max-width: min(100vw, 1640px);
   }
 
   .page > #quartz-body {
-    grid-template-columns: minmax(18rem, 21rem) minmax(0, 1fr) minmax(17rem, 20rem);
+    grid-template-columns: minmax(18rem, 22rem) minmax(0, 1fr) minmax(17rem, 21rem);
     column-gap: 1rem;
 
     & .sidebar {

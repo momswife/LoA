@@ -47,13 +47,36 @@ ul.toc-content.overflow {
   overscroll-behavior: contain;
   list-style: none;
 
+  & > li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.35rem;
+  }
+
+  & > li.unnumbered::before {
+    content: "-";
+    flex: 0 0 auto;
+    color: var(--dark);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+
+  & > li.unnumbered:has(> a.in-view)::before {
+    opacity: 0.75;
+  }
+
   & > li > a {
     color: var(--dark);
-    opacity: 0.35;
+    opacity: 0;
     transition:
       0.5s ease opacity,
       0.3s ease color;
+
     &.in-view {
+      opacity: 0.75;
+    }
+
+    &:focus-visible {
       opacity: 0.75;
     }
   }

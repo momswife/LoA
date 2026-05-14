@@ -17,6 +17,8 @@ const defaultOptions: Options = {
   layout: "modern",
 }
 
+const ordinalHeading = /^\s*(?:(?:\d+(?:\.\d+)*)|(?:[IVX]+))[.)]\s+/i
+
 let numTocs = 0
 export default ((opts?: Partial<Options>) => {
   const layout = opts?.layout ?? defaultOptions.layout
@@ -60,7 +62,12 @@ export default ((opts?: Partial<Options>) => {
           class={fileData.collapseToc ? "collapsed toc-content" : "toc-content"}
         >
           {fileData.toc.map((tocEntry) => (
-            <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
+            <li
+              key={tocEntry.slug}
+              class={`depth-${tocEntry.depth} ${
+                ordinalHeading.test(tocEntry.text) ? "numbered" : "unnumbered"
+              }`}
+            >
               <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
                 {tocEntry.text}
               </a>
@@ -85,7 +92,12 @@ export default ((opts?: Partial<Options>) => {
         </summary>
         <ul>
           {fileData.toc.map((tocEntry) => (
-            <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
+            <li
+              key={tocEntry.slug}
+              class={`depth-${tocEntry.depth} ${
+                ordinalHeading.test(tocEntry.text) ? "numbered" : "unnumbered"
+              }`}
+            >
               <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
                 {tocEntry.text}
               </a>
