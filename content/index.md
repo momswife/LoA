@@ -1,5 +1,5 @@
 ---
-title: The Lorevault of Aerathon — Welcome
+title: The Lorevault of Aerathon
 ---
 
 *An Open Archive of the Eternal Labyrinths*

@@ -11,7 +11,21 @@ const observer = new IntersectionObserver((entries) => {
       }
     }
   }
+  showFirstTocEntryWhenEmpty()
 })
+
+function showFirstTocEntryWhenEmpty() {
+  for (const toc of document.getElementsByClassName("toc")) {
+    const content = toc.querySelector(".toc-content")
+    if (!content) continue
+
+    const visibleEntries = content.querySelectorAll("a.in-view")
+    if (visibleEntries.length > 0) continue
+
+    const firstEntry = content.querySelector("li:not(.overflow-end) > a")
+    firstEntry?.classList.add("in-view")
+  }
+}
 
 function toggleToc(this: HTMLElement) {
   this.classList.toggle("collapsed")
@@ -41,4 +55,5 @@ document.addEventListener("nav", () => {
   observer.disconnect()
   const headers = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]")
   headers.forEach((header) => observer.observe(header))
+  showFirstTocEntryWhenEmpty()
 })

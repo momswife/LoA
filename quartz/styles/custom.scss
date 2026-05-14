@@ -41,13 +41,13 @@ article {
     }
 
     & .sidebar.left {
-      padding-left: clamp(0.75rem, 1.25vw, 1.25rem);
-      padding-right: 0.75rem;
+      padding-left: clamp(0.5rem, 1vw, 1rem);
+      padding-right: 0.5rem;
     }
 
     & .sidebar.right {
-      padding-left: 0.75rem;
-      padding-right: clamp(0.75rem, 1.25vw, 1.25rem);
+      padding-left: 0.5rem;
+      padding-right: clamp(0.5rem, 1vw, 1rem);
     }
   }
 }
