@@ -11,7 +11,18 @@ document.addEventListener("nav", () => {
   const switchReaderMode = () => {
     isReaderMode = !isReaderMode
     const newMode = isReaderMode ? "on" : "off"
-    document.documentElement.setAttribute("reader-mode", newMode)
+    const root = document.documentElement
+    root.setAttribute("reader-mode", newMode)
+
+    if (isReaderMode) {
+      root.classList.add("reader-mode-just-enabled")
+      const allowHoverReveal = () => root.classList.remove("reader-mode-just-enabled")
+      window.setTimeout(allowHoverReveal, 500)
+      document.addEventListener("pointermove", allowHoverReveal, { once: true })
+    } else {
+      root.classList.remove("reader-mode-just-enabled")
+    }
+
     emitReaderModeChangeEvent(newMode)
   }
 

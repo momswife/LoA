@@ -26,9 +26,12 @@
   & .sidebar.right {
     opacity: 0;
     transition: opacity 0.2s ease;
+  }
 
-    &:hover {
-      opacity: 1;
-    }
+  &:not(.reader-mode-just-enabled) .sidebar.left:hover,
+  &:not(.reader-mode-just-enabled) .sidebar.right:hover,
+  & .sidebar.left:focus-within,
+  & .sidebar.right:focus-within {
+    opacity: 1;
   }
 }
