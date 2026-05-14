@@ -5,7 +5,11 @@
 // Quartz engine styles in the component/base files unless the engine changes.
 
 :root {
-  --lorevault-divider: color-mix(in srgb, var(--secondary) 36%, transparent);
+  --lorevault-divider: color-mix(in srgb, var(--secondary) 48%, var(--lightgray));
+}
+
+:root[saved-theme="dark"] {
+  --lorevault-divider: color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
 }
 
 body {
@@ -18,12 +22,16 @@ body {
 
 article {
   hr {
-    border-color: var(--lorevault-divider);
+    background-color: var(--lorevault-divider);
   }
 
   blockquote {
     border-color: var(--secondary);
   }
+}
+
+.center > hr {
+  background-color: var(--lorevault-divider);
 }
 
 @media all and ($desktop) {

@@ -28,10 +28,13 @@
     transition: opacity 0.2s ease;
   }
 
-  & .sidebar.left:hover,
   & .sidebar.left:focus-within,
-  & .sidebar.right:hover,
   & .sidebar.right:focus-within {
     opacity: 1;
   }
+}
+
+:root[reader-mode="on"][reader-mode-gutter="left"] .sidebar.left,
+:root[reader-mode="on"][reader-mode-gutter="right"] .sidebar.right {
+  opacity: 1;
 }
