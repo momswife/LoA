@@ -44,6 +44,7 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
               const toc: TocEntry[] = []
               let highestDepth: number = opts.maxDepth
               let activeRomanSectionDepth: number | undefined
+              let activeRomanChildBaseDepth: number | undefined
               visit(tree, "heading", (node) => {
                 if (node.depth <= opts.maxDepth) {
                   const text = toString(node)
@@ -62,16 +63,27 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
 
                     if (startsRomanSection) {
                       activeRomanSectionDepth = node.depth
+                      activeRomanChildBaseDepth = undefined
+                      toc.push({ ...entry, depth: 0 })
+                      return
                     } else if (
                       activeRomanSectionDepth !== undefined &&
                       node.depth <= activeRomanSectionDepth
                     ) {
                       activeRomanSectionDepth = undefined
+                      activeRomanChildBaseDepth = undefined
                     }
 
-                    if (!startsRomanSection && activeRomanSectionDepth === undefined) {
+                    if (activeRomanSectionDepth === undefined) {
                       return
                     }
+
+                    activeRomanChildBaseDepth = Math.min(
+                      activeRomanChildBaseDepth ?? node.depth,
+                      node.depth,
+                    )
+                    toc.push({ ...entry, depth: node.depth - activeRomanChildBaseDepth + 1 })
+                    return
                   }
 
                   highestDepth = Math.min(highestDepth, node.depth)
@@ -80,10 +92,13 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
               })
 
               if (toc.length > 0 && toc.length > opts.minEntries) {
-                file.data.toc = toc.map((entry) => ({
-                  ...entry,
-                  depth: entry.depth - highestDepth,
-                }))
+                file.data.toc =
+                  opts.filter === "romanNumeralSections"
+                    ? toc
+                    : toc.map((entry) => ({
+                        ...entry,
+                        depth: entry.depth - highestDepth,
+                      }))
                 file.data.collapseToc = opts.collapseByDefault
               }
             }
