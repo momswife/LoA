@@ -22,16 +22,11 @@
 }
 
 :root[reader-mode="on"] {
-  & .sidebar.left,
-  & .sidebar.right {
+  & .explorer,
+  & .toc {
     opacity: 0;
+    pointer-events: none;
     transition: opacity 0.2s ease;
-  }
-
-  &:not(.reader-mode-just-enabled) .sidebar.left:hover,
-  &:not(.reader-mode-just-enabled) .sidebar.right:hover,
-  & .sidebar.left:focus-within,
-  & .sidebar.right:focus-within {
-    opacity: 1;
+    visibility: hidden;
   }
 }
