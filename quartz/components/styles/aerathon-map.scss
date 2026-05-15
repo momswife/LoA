@@ -1,0 +1,532 @@
+.aerathon-map {
+  margin: 1.5rem 0;
+  width: 100%;
+}
+
+.aerathon-map__viewport {
+  position: relative;
+  height: var(--aerathon-map-height, min(78vh, 760px));
+  min-height: 24rem;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--secondary) 30%, var(--lightgray));
+  border-radius: 8px;
+  background: var(--lightgray);
+  touch-action: none;
+  cursor: grab;
+}
+
+.aerathon-map__controls {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 3;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  padding: 0.35rem;
+  border: 1px solid color-mix(in srgb, var(--dark) 14%, transparent);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 88%, transparent);
+  box-shadow: 0 0.35rem 1rem color-mix(in srgb, var(--dark) 18%, transparent);
+  cursor: default;
+}
+
+.aerathon-map__pins-toggle {
+  display: none;
+  width: auto;
+}
+
+.aerathon-map.is-editing .aerathon-map__pins-toggle {
+  display: inline-block;
+}
+
+.aerathon-map__control {
+  min-width: 2rem;
+  height: 2rem;
+  padding: 0 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--darkgray);
+  cursor: pointer;
+  font: 700 0.85rem/1 var(--bodyFont);
+}
+
+.aerathon-map__control:hover,
+.aerathon-map__control:focus-visible {
+  border-color: var(--secondary);
+  outline: 2px solid var(--textHighlight);
+  outline-offset: 2px;
+}
+
+.aerathon-map__legend {
+  position: absolute;
+  top: 3.7rem;
+  right: 0.75rem;
+  z-index: 3;
+  width: min(15rem, calc(100% - 1.5rem));
+  border: 1px solid color-mix(in srgb, var(--dark) 14%, transparent);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 90%, transparent);
+  box-shadow: 0 0.35rem 1rem color-mix(in srgb, var(--dark) 16%, transparent);
+  color: var(--darkgray);
+  cursor: default;
+}
+
+.aerathon-map__legend summary {
+  padding: 0.55rem 0.7rem;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.aerathon-map__legend ul {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0 0.7rem 0.7rem;
+  list-style: none;
+}
+
+.aerathon-map__legend li {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.85rem;
+  line-height: 1.25;
+}
+
+.aerathon-map__legend-dot {
+  width: 0.45rem;
+  height: 0.45rem;
+  border: 1px solid var(--light);
+  border-radius: 999px;
+  background: var(--aerathon-marker-color, var(--secondary));
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--dark) 35%, transparent);
+}
+
+.aerathon-map__viewport:active {
+  cursor: grabbing;
+}
+
+.aerathon-map__stage {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 100%;
+  transform-origin: 0 0;
+  will-change: transform;
+}
+
+.aerathon-map__image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.aerathon-map__pins {
+  position: absolute;
+  inset: 0;
+}
+
+.aerathon-map__pin {
+  position: absolute;
+  width: 0.42rem;
+  height: 0.42rem;
+  padding: 0;
+  border: 1px solid var(--light);
+  border-radius: 999px;
+  background: var(--aerathon-marker-color, var(--secondary));
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--dark) 42%, transparent),
+    0 0.15rem 0.35rem color-mix(in srgb, var(--dark) 32%, transparent);
+  color: var(--light);
+  cursor: pointer;
+  transform: translate(-50%, -50%);
+}
+
+.aerathon-map__pin--draft {
+  outline: 2px dashed color-mix(in srgb, var(--aerathon-marker-color, var(--secondary)) 72%, white);
+  outline-offset: 4px;
+}
+
+.aerathon-map__pin::after {
+  position: absolute;
+  inset: -0.6rem;
+  border-radius: inherit;
+  content: "";
+}
+
+.aerathon-map__pin:hover,
+.aerathon-map__pin:focus-visible,
+.aerathon-map__pin[aria-expanded="true"] {
+  outline: 2px solid color-mix(in srgb, var(--aerathon-marker-color, var(--secondary)) 72%, white);
+  outline-offset: 4px;
+}
+
+.aerathon-map__pin[data-type="country"],
+.aerathon-map__legend-dot[data-type="country"] {
+  --aerathon-marker-color: #d94f45;
+}
+
+.aerathon-map__pin[data-type="city"],
+.aerathon-map__legend-dot[data-type="city"] {
+  --aerathon-marker-color: #ff8f3d;
+}
+
+.aerathon-map__pin[data-type="town"],
+.aerathon-map__legend-dot[data-type="town"] {
+  --aerathon-marker-color: #f2c94c;
+}
+
+.aerathon-map__pin[data-type="isle"],
+.aerathon-map__legend-dot[data-type="isle"] {
+  --aerathon-marker-color: #53a6d8;
+}
+
+.aerathon-map__pin[data-type="geographic-region"],
+.aerathon-map__legend-dot[data-type="geographic-region"] {
+  --aerathon-marker-color: #69b36d;
+}
+
+.aerathon-map__pin[data-type="geographic-landmark"],
+.aerathon-map__legend-dot[data-type="geographic-landmark"] {
+  --aerathon-marker-color: #9b7ad9;
+}
+
+.aerathon-map__pin[data-type="notable-location"],
+.aerathon-map__legend-dot[data-type="notable-location"] {
+  --aerathon-marker-color: #d97ab3;
+}
+
+.aerathon-map__pin[data-type="labyrinth"],
+.aerathon-map__legend-dot[data-type="labyrinth"] {
+  --aerathon-marker-color: #202124;
+}
+
+.aerathon-map__popup {
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 2;
+  width: min(22rem, calc(100% - 2rem));
+  padding: 0.85rem 1rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 94%, transparent);
+  box-shadow: 0 0.8rem 2rem color-mix(in srgb, var(--dark) 20%, transparent);
+  color: var(--darkgray);
+  cursor: default;
+}
+
+.aerathon-map__popup[hidden],
+.aerathon-map__popup-meta[hidden],
+.aerathon-map__popup-summary[hidden],
+.aerathon-map__popup-link[hidden] {
+  display: none;
+}
+
+.aerathon-map__popup-title {
+  margin: 0;
+  padding-right: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.25;
+}
+
+.aerathon-map__popup-meta {
+  margin: 0.2rem 0 0;
+  color: var(--secondary);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.aerathon-map__popup-summary {
+  margin: 0.55rem 0 0;
+  line-height: 1.45;
+}
+
+.aerathon-map__popup-link {
+  display: inline-block;
+  margin-top: 0.65rem;
+  font-weight: 700;
+}
+
+.aerathon-map__popup-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--darkgray);
+  cursor: pointer;
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.aerathon-map__popup-close:hover,
+.aerathon-map__popup-close:focus-visible {
+  background: var(--lightgray);
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+.aerathon-map__editor {
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  z-index: 3;
+  width: min(21rem, calc(100% - 2rem));
+  padding: 0.85rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 95%, transparent);
+  box-shadow: 0 0.8rem 2rem color-mix(in srgb, var(--dark) 20%, transparent);
+  color: var(--darkgray);
+  cursor: default;
+}
+
+.aerathon-map__editor,
+.aerathon-map__editor * {
+  box-sizing: border-box;
+}
+
+.aerathon-map__editor[hidden] {
+  display: none;
+}
+
+.aerathon-map__editor h3 {
+  margin: 0 0 0.65rem;
+  padding-right: 2rem;
+  font-size: 1rem;
+}
+
+.aerathon-map__editor-close {
+  position: absolute;
+  top: 0.45rem;
+  right: 0.45rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--darkgray);
+  cursor: pointer;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.aerathon-map__editor-close:hover,
+.aerathon-map__editor-close:focus-visible {
+  background: var(--lightgray);
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+.aerathon-map__editor label {
+  display: grid;
+  gap: 0.25rem;
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.aerathon-map__editor input,
+.aerathon-map__editor select,
+.aerathon-map__editor textarea {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0.38rem 0.45rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--darkgray);
+  font: 400 0.85rem/1.25 var(--bodyFont);
+}
+
+.aerathon-map__editor input {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.aerathon-map__editor textarea {
+  min-height: 4rem;
+  resize: vertical;
+}
+
+.aerathon-map__editor input[type="color"] {
+  height: 2rem;
+  padding: 0.15rem;
+}
+
+.aerathon-map__editor-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 0.5rem;
+}
+
+.aerathon-map__editor-grid label {
+  min-width: 0;
+}
+
+.aerathon-map__editor-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.7rem;
+}
+
+.aerathon-map__editor-actions button {
+  padding: 0.4rem 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--darkgray);
+  cursor: pointer;
+  font: 700 0.78rem/1 var(--bodyFont);
+}
+
+.aerathon-map__editor-actions button:hover,
+.aerathon-map__editor-actions button:focus-visible {
+  border-color: var(--secondary);
+  outline: 2px solid var(--textHighlight);
+  outline-offset: 2px;
+}
+
+.aerathon-map__pins-panel {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  z-index: 3;
+  width: min(26rem, calc(100% - 2rem));
+  padding: 0.8rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 95%, transparent);
+  box-shadow: 0 0.8rem 2rem color-mix(in srgb, var(--dark) 20%, transparent);
+  color: var(--darkgray);
+  cursor: default;
+}
+
+.aerathon-map__pins-panel,
+.aerathon-map__pins-panel * {
+  box-sizing: border-box;
+}
+
+.aerathon-map__pins-panel[hidden] {
+  display: none;
+}
+
+.aerathon-map__pins-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.55rem;
+  padding-right: 2rem;
+}
+
+.aerathon-map__pins-panel h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.aerathon-map__pins-panel button {
+  padding: 0.4rem 0.6rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--darkgray);
+  cursor: pointer;
+  font: 700 0.78rem/1 var(--bodyFont);
+}
+
+.aerathon-map__pins-panel .aerathon-map__pins-close {
+  position: absolute;
+  top: 0.45rem;
+  right: 0.45rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--darkgray);
+  cursor: pointer;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.aerathon-map__pins-panel .aerathon-map__pins-close:hover,
+.aerathon-map__pins-panel .aerathon-map__pins-close:focus-visible {
+  background: var(--lightgray);
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+.aerathon-map__pins-panel textarea {
+  width: 100%;
+  max-width: 100%;
+  min-height: 10rem;
+  max-height: 18rem;
+  padding: 0.5rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 96%, var(--dark) 4%);
+  color: var(--dark);
+  font: 400 0.78rem/1.35 var(--codeFont);
+  resize: vertical;
+}
+
+.right.sidebar > .aerathon-map__legend--sidebar {
+  position: sticky;
+  top: 5.5rem;
+  right: auto;
+  z-index: 0;
+  width: 100%;
+  margin-bottom: 1rem;
+  box-shadow: none;
+}
+
+@media all and (max-width: 700px) {
+  .aerathon-map__viewport {
+    height: min(72vh, 34rem);
+    min-height: 20rem;
+  }
+
+  .aerathon-map__popup {
+    right: 0.75rem;
+    bottom: 0.75rem;
+    width: calc(100% - 1.5rem);
+  }
+
+  .aerathon-map__editor {
+    left: 0.75rem;
+    bottom: 0.75rem;
+    width: calc(100% - 1.5rem);
+  }
+
+  .aerathon-map__controls {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+
+  .aerathon-map__legend {
+    top: 3.35rem;
+    right: 0.5rem;
+  }
+
+  .aerathon-map__pins-panel {
+    top: auto;
+    bottom: 0.75rem;
+    left: 0.75rem;
+    width: calc(100% - 1.5rem);
+  }
+}

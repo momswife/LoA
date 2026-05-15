@@ -2,9 +2,9 @@
 title: The Lorevault of Aerathon
 ---
 
-*An Open Archive of the Eternal Labyrinths*
+_An Open Archive of the Eternal Labyrinths_
 
-> *“Through ink and memory, we preserve what sword and spell cannot.”*  
+> _“Through ink and memory, we preserve what sword and spell cannot.”_  
 > **— High Maester Arcanthil, Keeper of the Twelfth Seal**
 
 ---
@@ -47,31 +47,32 @@ The Lorevault is divided into three primary sections. Each reflects a different 
 ## I. Annals & Antiquities
 
 **Division Mandate:**  
-*Historical, cultural, and foundational record-keeping.*
+_Historical, cultural, and foundational record-keeping._
 
 This division contains the deep memory of Aerathon: accounts of ages long ended, civilizations reduced to fragments, and institutions whose influence persists only through legacy and ruin. These records are assembled from damaged texts, translated relics, oral survivals, and post-event reconstruction.
 
 Included here are early cosmological models, archaic magical frameworks, and first-contact labyrinth hypotheses—preserved alongside cultural history and material record. None are treated as definitive; all are subject to later challenge or revision.
 
-Entries in *Annals & Antiquities* represent the most rigorous reconstructions available at the time of compilation and may conflict with modern observation, doctrine, or lived experience.
+Entries in _Annals & Antiquities_ represent the most rigorous reconstructions available at the time of compilation and may conflict with modern observation, doctrine, or lived experience.
 
 **Includes:**
-- Ancient peoples, cultures, and extinct civilizations  
-- Old nations, fallen empires, and lost territories  
-- Historic institutions and proto-ministries  
-- Eras, timelines, and disputed chronologies  
-- Wars, calamities, and extinction-level events  
-- Relics, artifacts, and verified antiquities  
-- Early cosmological models and creation accounts  
-- Archaic magic systems and extinct disciplines  
-- Initial labyrinth theories and proto-mapping efforts  
+
+- Ancient peoples, cultures, and extinct civilizations
+- Old nations, fallen empires, and lost territories
+- Historic institutions and proto-ministries
+- Eras, timelines, and disputed chronologies
+- Wars, calamities, and extinction-level events
+- Relics, artifacts, and verified antiquities
+- Early cosmological models and creation accounts
+- Archaic magic systems and extinct disciplines
+- Initial labyrinth theories and proto-mapping efforts
 
 ---
 
 ## II. The Living Atlas
 
 **Division Mandate:**  
-*Modern-world documentation and active institutional reference.*
+_Modern-world documentation and active institutional reference._
 
 The Living Atlas records Aerathon as it exists now: mapped, governed, regulated, and contested. Maintained primarily by the Ministry of Delving Operations, this section supports governance, infrastructure planning, delver oversight, and public safety.
 
@@ -80,23 +81,24 @@ Unlike the Annals, the Living Atlas is not static. Its entries are revised as bo
 Where the past is reconstructed, the present is monitored.
 
 **Includes:**
-- Geographic regions, cities, isles, and settlements  
-- Government entities and ruling authorities  
-- Guild structures, delver ranks, and sponsorship systems  
-- Modern geopolitics and active power blocs  
-- Economy, trade networks, and everyday civilian life  
-- Magic & technology integration and regulatory frameworks  
-- Religion, worship, and active belief systems  
-- Races of Aerathon and current political status  
-- Bestiary and recognized threat classifications  
-- Delving doctrine, regulations, and survival protocols  
+
+- Geographic regions, cities, isles, and settlements
+- Government entities and ruling authorities
+- Guild structures, delver ranks, and sponsorship systems
+- Modern geopolitics and active power blocs
+- Economy, trade networks, and everyday civilian life
+- Magic & technology integration and regulatory frameworks
+- Religion, worship, and active belief systems
+- Races of Aerathon and current political status
+- Bestiary and recognized threat classifications
+- Delving doctrine, regulations, and survival protocols
 
 ---
 
 ## III. Monthly Ledger
 
 **Division Mandate:**  
-*Time-sensitive intelligence, field observation, and active reporting.*
+_Time-sensitive intelligence, field observation, and active reporting._
 
 The Monthly Ledger is the most volatile section of the Lorevault. Compiled by the Public Observation & Field Intelligence Division, it records developments as they occur—often under conditions of uncertainty, contradiction, or deliberate misinformation.
 
@@ -106,14 +108,21 @@ This division does not describe the world as it is understood.
 It records the world as it is moving.
 
 **Includes:**
-- Headlines, official statements, and circulating rumors  
-- Active bounties, contracts, and mission postings  
-- Scheduled events, rituals, and forecasted phenomena  
-- Observed faction movements and power plays  
-- Market rotations and artifact valuation shifts  
-- Political climate monitoring and instability warnings  
-- Travel advisories, restricted zones, and breach alerts  
-- Missing persons and unresolved disappearances  
+
+- Headlines, official statements, and circulating rumors
+- Active bounties, contracts, and mission postings
+- Scheduled events, rituals, and forecasted phenomena
+- Observed faction movements and power plays
+- Market rotations and artifact valuation shifts
+- Political climate monitoring and instability warnings
+- Travel advisories, restricted zones, and breach alerts
+- Missing persons and unresolved disappearances
+
+---
+
+## Explore Locations
+
+[[Aerathon - Eternal Labyrinths/Explore Locations|Open the interactive map of Aerathon.]]
 
 ---
 
@@ -121,7 +130,7 @@ It records the world as it is moving.
 
 All documents contained within the Lorevault are **MDO-verified** and bear appropriate Divisional certification.
 
-Unauthorized redistribution, alteration, suppression, or concealment of Ministerial records constitutes a violation of Charter §5-B (*Archive Integrity*) and §7-F (*Labyrinth Safety Enforcement*).
+Unauthorized redistribution, alteration, suppression, or concealment of Ministerial records constitutes a violation of Charter §5-B (_Archive Integrity_) and §7-F (_Labyrinth Safety Enforcement_).
 
 Proceed with caution.
 
