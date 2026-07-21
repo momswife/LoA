@@ -18,7 +18,7 @@ configuration:
     typography:
       header: IM Fell Great Primer SC
       body: Lora
-      code: Merienda
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#ffffff"
@@ -109,7 +109,7 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: true
+    enabled: false
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -158,7 +158,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -171,7 +171,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -268,7 +268,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
