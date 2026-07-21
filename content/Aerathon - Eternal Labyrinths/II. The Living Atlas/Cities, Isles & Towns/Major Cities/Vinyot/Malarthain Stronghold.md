@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-### _The Anvil of the Beastlord — “Steel Endures. The Hunt Remembers.”_
-
-**Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Industrial Cities & Cultural Strongholds)_  
-**Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Beastfolk Lineage)  
-**Advisory Editors:** **Curator Rook-of-Rings** (Relics & Tharos Rings), **Lt. Salvia Korrin** (Arc. Scriv., Field Verification), **Professor Arav Dhal-Senn** (Metallurgy & Mountain Industry)  
-**Date of Filing:** **12th Cycle, 3164 A.D.**  
-**Document Class:** _City Record / Grade-I Authenticity_
-=======
 ### __The Anvil of the Beastlord — “Steel Endures. The Hunt Remembers.”__
 
 **Filed Division:** __Ministry of Delving Operations — Living Atlas Division (Industrial Cities & Cultural Strongholds)__
@@ -20,29 +11,11 @@
 **Document Class:** __City Record / Grade-I Authenticity__
 
 **Addendum Status:** __Under-Crucible references amended by later Ministry chronology. Public records describe the site as resolved after 3509 A.D.; Cardwell family records remain sealed.__
->>>>>>> v5
 
 ---
 
 ## **I. Overview**
 
-<<<<<<< HEAD
-**Malarthain Stronghold** is a walled forge-city of **northwestern Vinyot**, set among the **Fortunata Hills** near the **Betemere Mountains**. It is the last great urban bastion of **orthodox Beastfolk tradition** in Aerathon and the preeminent **forge capital** of the northern ranges.
-
-The city operates under a **dual authority**:
-
-- the **Inner Stronghold**, ruled by **Lord Elias Cardwell**, steward of tradition and faith, and
-    
-- the **Outer City**, governed by the **Council of Rings**, a coalition of master forges, guilds, and industrial houses regulated by the MDO.
-    
-
-This balance—steel and scripture, industry and inheritance—has kept Malarthain prosperous, insular, and stable through centuries of upheaval.
-
-**Population:** ~4,800 (Inner Stronghold ~1,300; Outer City ~3,500)  
-**City Type:** Walled Forge City / Cultural Stronghold  
-**Primary Renown:** Armscraft, relic metallurgy, orthodox Malar tradition  
-**Civic Saying:** _“What is tempered lasts.”_
-=======
 **Malarthain Stronghold** is a reclusive walled city in **northwestern Vinyot**, set among the **Fortunata Hills** near the **Betemere Mountains**. Built of dark mountain stone and iron-banded gates, the stronghold stands where harsh plains rise toward coal seams, ore veins, and old beastfolk memory.
 
 The city is almost entirely beastfolk and maintains a population of **under five thousand**. Its wealth comes not from fertile land, but from what can be cut, quarried, trapped, dried, forged, and defended.
@@ -62,44 +35,11 @@ Malarthain is not large enough to dominate Vinyot by population, but it is diffi
 Despite its reclusive culture, Malarthain serves as the primary hub for the **western sect of Vinyot**. This importance comes less from hospitality than infrastructure: the stronghold controls the safest rail-linked passage through the Betemere Mountains, connecting western Vinyot’s mines, forge towns, and hill settlements to **Louvain** and the broader continental trade network.
 
 Malarthain also functions as western Vinyot’s most reliable security provider. Its knights and guards are contracted, requested, or politically expected to protect trade roads, rail-linked supply lines, mining routes, and frontier caravans throughout the region. This gives the city influence far beyond its population, even among settlements that dislike its insularity.
->>>>>>> v5
 
 ---
 
 ## **II. Geography & Architecture**
 
-<<<<<<< HEAD
-Malarthain is carved into a high stone shelf overlooking harsh plains and cold winds.
-
-### **The Walls**
-
-- Tall basalt ramparts reinforced with iron bands
-    
-- Few gates, heavily watched
-    
-- Siege-resistant, not ornamental
-    
-
-### **Inner Stronghold**
-
-- Ancient stone keeps and sanctuaries
-    
-- Low, heat-retentive architecture
-    
-- Shrines and halls aligned to ritual pathways
-    
-
-### **Outer City**
-
-- Dense forge districts, slag channels, and foundries
-    
-- Chimney forests venting constant smoke
-    
-- Modular workshops expanded as guilds grow
-    
-
-Small farms cling to the outskirts, producing barely enough to supplement imported food.
-=======
 Malarthain sits on a hard stone shelf overlooking cold plains and broken hill country. The land surrounding it is difficult to farm. A few small farms cling to the outside of the walls, but they produce barely enough to supplement the city’s needs. Most food security comes from preserved meats, trade agreements, and disciplined rationing during winter and siege seasons.
 
 ### **The Fortunata Hills**
@@ -135,159 +75,11 @@ The oldest district contains the lord’s manor, council chambers, ancestral hal
 Outside the oldest civic core is the industrial shell that grew around the original walls: forge lanes, smokehouses, tanneries, rail yards, supply depots, miner barracks, worker housing, cheap taverns, and workshops that keep the city alive. These districts are more practical than sacred, though nearly every forge still keeps a token mark to the Beastlord.
 
 The Outer Shell is poorer, smokier, and more crowded than the Inner Stronghold, but it is not merely a slum. It is where Malarthain’s laboring families live, argue, drink, organize, and keep the city’s economy breathing. The Inner Stronghold often claims to preserve Malarthain; the Outer Shell believes it **is** Malarthain.
->>>>>>> v5
 
 ---
 
 ## **III. History**
 
-<<<<<<< HEAD
-Malarthain predates modern guild structures, founded as a **beastfolk redoubt** in an age when survival demanded unity of hunt and craft.
-
-Over centuries, the city became renowned for metallurgy drawn from the Betemere Mountains—coal, iron, and rare alloys shaped by hands trained through lineage rather than apprenticeship alone.
-
-The marriage of **Elias Cardwell**, an elk of Allemantic lineage, to **Lady Neve Malarthain-Cardwell**, a vulpine bearer of ancient beastfolk blood, marked a turning point. Elias forsook his former lineage and adopted the city’s traditions fully, anchoring his rule in continuity rather than conquest.
-
-Lady Neve’s death in childbirth left behind **Princess Lyla**, now the sole living bridge between ancient lineage and present rule. Since that loss, Lord Cardwell has withdrawn from public life, ruling through council and rite.
-
-### **Key Historical Events**
-
-- **Pre-900 A.D.** — Establishment of Malarthain as a fortified beastfolk forge-city.
-    
-- **1342 A.D.** — Formal codification of forge rites and lineage craft laws.
-    
-- **3027 A.D.** — Marriage of Elias and Neve Malarthain-Cardwell unifies secular and sacred authority.
-    
-- **3159 A.D.** — Opening of the **Under-Crucible**, a regulated Labyrinth interface beneath the Outer City.
-    
-
----
-
-## **IV. Governance**
-
-Malarthain’s governance is **intentionally bifurcated**.
-
-### **Inner Stronghold**
-
-- Ruled by **Lord Elias Cardwell**
-    
-- Advised by a council of guards and elders
-    
-- Authority grounded in tradition and stewardship
-    
-
-### **Outer City**
-
-- Governed by the **Council of Rings**
-    
-- Each Ring represents a major forge or guild
-    
-- Decisions made by weighted consensus
-    
-
-Neither authority may overrule the other outright. Stability lies in restraint.
-
----
-
-## **V. Economy**
-
-Malarthain is a **forge economy**.
-
-**Primary Outputs**
-
-- Weapons and armor of exceptional durability
-    
-- Industrial components and tools
-    
-- Relic-compatible alloys
-    
-
-Trade is carefully regulated. The Inner Stronghold engages minimally, while the Outer City handles export under MDO oversight.
-
----
-
-## **VI. Faith & Culture**
-
-Malarthain is the last major city to practice **orthodox worship of Malar**, the Beastlord.
-
-- Malar is revered as **hunt, instinct, resilience**, not savagery
-    
-- Zealotry is rejected
-    
-- Rituals emphasize discipline and restraint
-    
-
-Outer districts practice syncretic craft faiths; the Inner Stronghold preserves the old ways unchanged.
-
-> _“The hunt teaches. The forge proves.”_
-
----
-
-## **VII. Law & Defense**
-
-Defense is uncompromising.
-
-- Standing city watch under Cardwell command
-    
-- Forge militias trained for siege response
-    
-- Severe penalties for sabotage or relic theft
-    
-
-Malarthain does not posture—it prepares.
-
----
-
-## **VIII. Relationships to the Labyrinths**
-
-The **Under-Crucible** lies beneath the Outer City.
-
-- Operated under strict MDO regulation
-    
-- Delving framed as **trial**, not commerce
-    
-- Inner Stronghold involvement is philosophical, not logistical
-    
-
-The city accepts the Labyrinths as a test of worth—not a source of fortune.
-
----
-
-## **IX. Inter-Regional Influence**
-
-|Region|Relationship|Summary|
-|---|---|---|
-|**Vinyot**|Central|Industrial pillar|
-|**Oria**|Respectful|Metallurgical exchange|
-|**Allemance**|Cautious|Historical ties|
-|**Arneria**|Limited|Arms trade|
-|**MDO**|Embedded|Regulation & verification|
-
-Malarthain influences Aerathon through **what it forges**, not what it says.
-
----
-
-## **X. Cultural Identity & Legacy**
-
-Malarthain believes civilization survives by remembering what made it strong.
-
-Its people do not rush to innovate. They refine. They temper. They wait until a thing is worthy of being kept.
-
-> _“Steel forgets nothing.”_
-
----
-
-## **XI. Quirky Natures**
-
-- Smiths greet with calloused forearms, not hands
-    
-- Fires are never fully extinguished
-    
-- Children learn hammer balance before letters
-    
-- The Inner Stronghold grows quieter each year
-    
-=======
 Malarthain began as a fortified beastfolk redoubt built around mine access, hunting routes, and sacred devotion to Malar. In its earliest form, the stronghold was less a city than a vow: a place where beastfolk could hold stone, bloodline, craft, and instinct together against a world that often misunderstood them.
 
 The modern history of Malarthain is inseparable from **House Cardwell**, a ruling line marked by contested succession, military defense, weakened faith, restored tradition, and grief.
@@ -605,18 +397,11 @@ Lord Cardwell wants to preserve the past, the Outer Shell wants recognition for 
 - A guest who wastes meat is judged more harshly than one who wastes coin.
 
 - The Inner Stronghold grows quieter each year.
->>>>>>> v5
 
 ---
 
 ### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
-<<<<<<< HEAD
-> **Filed & Authenticated**  
-> **Ministry of Delving Operations — Living Atlas Division**  
-> **Document Class:** _City Record / Grade-I Authenticity_  
-> _— Malarthain Stronghold certified as a Dual-Authority City under Charter §§ 2-E, 6-A, and 9-D. Unauthorized interference with Inner Stronghold rites constitutes a **Class-III Cultural Violation**._  
-=======
 > **Filed & Authenticated**
 
 > **Ministry of Delving Operations — Living Atlas Division**
@@ -625,5 +410,4 @@ Lord Cardwell wants to preserve the past, the Outer Shell wants recognition for 
 
 > __— Malarthain Stronghold certified as a culturally protected Beastfolk Stronghold under Charter §§ 2-E, 6-A, and 9-D. Unauthorized interference with Malarite civic rites, sealed mine sites, or Cardwell succession records constitutes a_ **Class-III Cultural Violation**_.__
 
->>>>>>> v5
 > ——— ⭕ **END OF FILE** ⭕ ———
