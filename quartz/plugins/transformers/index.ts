@@ -1,18 +1,4 @@
-<<<<<<< HEAD
-export { FrontMatter } from "./frontmatter"
-export { GitHubFlavoredMarkdown } from "./gfm"
-export { Citations } from "./citations"
-export { CreatedModifiedDate } from "./lastmod"
-export { Latex } from "./latex"
-export { Description } from "./description"
-export { CrawlLinks } from "./links"
-export { ObsidianFlavoredMarkdown } from "./ofm"
-export { OxHugoFlavouredMarkdown } from "./oxhugofm"
-export { SyntaxHighlighting } from "./syntax"
-export { TableOfContents } from "./toc"
-export { HardLineBreaks } from "./linebreaks"
-export { RoamFlavoredMarkdown } from "./roam"
-export { AerathonMap } from "./aerathonMap"
-=======
+// Quartz v5 loads transformers declared in quartz.config.yaml at runtime.
+// Keep this barrel module present for the built-in plugin index, but do not
+// re-export the Quartz v4 transformer modules that were removed in the v5 migration.
 export {}
->>>>>>> v5

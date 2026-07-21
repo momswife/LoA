@@ -107,13 +107,8 @@ async function _navigate(url: URL, isBack: boolean = false) {
   announcer.dataset.persist = ""
   html.body.appendChild(announcer)
 
-<<<<<<< HEAD
-  // morph body
-  await micromorph(document.body, html.body)
-=======
   document.querySelector(".navigation-progress")?.remove()
   micromorph(document.body, html.body)
->>>>>>> v5
 
   // scroll into place and add history
   if (!isBack) {

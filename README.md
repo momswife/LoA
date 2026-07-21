@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # Lore Vault of Aerathon
-=======
-# Quartz v5
->>>>>>> v5
 
 The Lore Vault is a D&D campaign wiki for Aerathon. The writing source of truth is the Obsidian-style Markdown vault in `content/`, and the site is published to GitHub Pages as a static website.
 
-This repository is an owned fork of Quartz v4. The Quartz engine remains vendored in `quartz/`, but the project metadata, workflows, and documentation belong to the Lore Vault site.
+This repository is an owned fork of Quartz v5. The Quartz engine remains vendored in `quartz/`, but the project metadata, workflows, and documentation belong to the Lore Vault site.
 
 ## Repository Layout
 
@@ -14,8 +10,8 @@ This repository is an owned fork of Quartz v4. The Quartz engine remains vendore
 - `content/index.md` - public homepage.
 - `content/templates/` - authoring templates ignored by Quartz publishing.
 - `quartz/` - vendored Quartz static-site engine.
-- `quartz.config.ts` - site configuration, theme, plugins, publishing behavior.
-- `quartz.layout.ts` - page layout, sidebars, footer, and shared components.
+- `quartz.config.yaml` - site configuration, theme, plugins, layout, and publishing behavior.
+- `quartz.lock.json` - locked community-plugin revisions used for reproducible builds.
 - `public/` - generated site output. Do not edit by hand.
 - `.quartz-cache/` and `node_modules/` - local generated/dependency folders.
 
@@ -25,6 +21,7 @@ Use Node 22 and npm.
 
 ```sh
 npm ci
+npx quartz plugin install
 ```
 
 The repository includes `.node-version` for local version managers.
@@ -52,7 +49,7 @@ npm test
 
 ## Publishing
 
-GitHub Pages is deployed from branch `v4` by `.github/workflows/deploy.yml`.
+GitHub Pages is deployed from branch `master` by `.github/workflows/deploy.yml`.
 
 The workflow installs dependencies with `npm ci`, builds the site with `npm run build`, uploads `public/`, and deploys through GitHub Pages.
 

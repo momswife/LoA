@@ -120,10 +120,8 @@ describe("transforms", () => {
         ["test/special chars?.md", "test/special-chars"],
         ["test/special chars #3.md", "test/special-chars-3"],
         ["cool/what about r&d?.md", "cool/what-about-r-and-d"],
-<<<<<<< HEAD
-        ["Aerathon - Eternal Labyrinths/index.md", "Aerathon-Eternal-Labyrinths/index"],
-        ["Guilds & Delvers/Guild Archive.md", "Guilds-and-Delvers/Guild-Archive"],
-=======
+        ["Aerathon - Eternal Labyrinths/index.md", "aerathon---eternal-labyrinths/index"],
+        ["Guilds & Delvers/Guild Archive.md", "guilds--and--delvers/guild-archive"],
         // Obsidian "Folder Notes" convention: folder/folder.md is the folder's landing page
         ["characters/characters.md", "characters/index"],
         ["fiction/books/books.md", "fiction/books/index"],
@@ -136,7 +134,6 @@ describe("transforms", () => {
         // Folder literally named "index" is unaffected by the rewrite
         ["index/index.md", "index/index"],
         ["docs/index/index.md", "docs/index/index"],
->>>>>>> v5
       ],
       path.slugifyFilePath,
       path.isFilePath,
@@ -144,7 +141,6 @@ describe("transforms", () => {
     )
   })
 
-<<<<<<< HEAD
   test("legacySlugifyFilePath", () => {
     asserts(
       [
@@ -155,7 +151,8 @@ describe("transforms", () => {
       path.isFilePath,
       path.isFullSlug,
     )
-=======
+  })
+
   test("slugifyFilePath + simplifySlug end-to-end canonicalization", () => {
     // Both folder-note conventions must produce identical user-facing URLs.
     const indexStyle = path.simplifySlug(path.slugifyFilePath("characters/index.md" as any))
@@ -164,7 +161,6 @@ describe("transforms", () => {
     )
     assert.strictEqual(indexStyle, folderNameStyle)
     assert.strictEqual(indexStyle, "characters/")
->>>>>>> v5
   })
 
   test("transformInternalLink", () => {

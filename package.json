@@ -23,9 +23,7 @@
     "format": "prettier --write package.json package-lock.json README.md CONTENT_GUIDE.md quartz.config.ts quartz.layout.ts quartz/cli/constants.js quartz/cli/handlers.js quartz/components/Footer.tsx quartz/styles/custom.scss \".github/**/*.{yml,yaml,md}\" \"content/templates/**/*.md\"",
     "content:check": "node ./quartz/bootstrap-cli.mjs build --bundleInfo",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "engines": {
     "npm": ">=10.9.2",

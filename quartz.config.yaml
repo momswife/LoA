@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Lore Vault
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: IM Fell Great Primer SC
+      body: Lora
+      code: Merienda
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#ffffff"
+        lightgray: "#f2f1ed"
+        gray: "#aaa8a0"
+        darkgray: "#3d3c39"
+        dark: "#121212"
+        secondary: "#ca5c1a"
+        tertiary: "#e1873c"
+        highlight: rgba(173, 147, 100, 0.64)
+        textHighlight: "#fff3da"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#161615"
+        lightgray: "#2a2a28"
+        gray: "#5e5b54"
+        darkgray: "#c9c4b6"
+        dark: "#f1efe8"
+        secondary: "#f58b40"
+        tertiary: "#ffb066"
+        highlight: rgba(172, 135, 100, 0.36)
+        textHighlight: "#fff9e2"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -141,7 +141,7 @@ plugins:
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -209,6 +209,8 @@ plugins:
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
+    options:
+      showCurrentPage: false
     layout:
       position: beforeBody
       priority: 5
@@ -225,8 +227,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/momswife/LoA
+        Quartz Engine: https://quartz.jzhao.xyz/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
