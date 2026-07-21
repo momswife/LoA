@@ -2,11 +2,7 @@
   "name": "lore-vault",
   "description": "The Lore Vault of Aerathon, an Obsidian-authored D&D wiki published with a vendored Quartz engine.",
   "private": true,
-<<<<<<< HEAD
   "version": "0.1.0",
-=======
-  "version": "5.0.0",
->>>>>>> v5
   "type": "module",
   "author": "momswife",
   "license": "MIT",
