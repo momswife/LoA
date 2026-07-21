@@ -1,11 +1,42 @@
-import { slug as slugAnchor } from "github-slugger"
-import type { Element as HastElement } from "hast"
-import { clone } from "./clone"
+// Re-export shared path utilities from @quartz-community/utils
+export {
+  isFilePath,
+  isFullSlug,
+  isSimpleSlug,
+  isRelativeURL,
+  isAbsoluteURL,
+  getFullSlug,
+  slugifyFilePath,
+  simplifySlug,
+  joinSegments,
+  endsWith,
+  trimSuffix,
+  stripSlashes,
+  getFileExtension,
+  isFolderPath,
+  getAllSegmentPrefixes,
+  pathToRoot,
+  resolveRelative,
+  splitAnchor,
+  slugTag,
+  transformInternalLink,
+  transformLink,
+  normalizeHastElement,
+} from "@quartz-community/utils"
 
-// this file must be isomorphic so it can't use node libs (e.g. path)
+export type {
+  FilePath,
+  FullSlug,
+  SimpleSlug,
+  RelativeURL,
+  TransformOptions,
+} from "@quartz-community/utils"
+
+// --- v5-specific exports below ---
 
 export const QUARTZ = "quartz"
 
+<<<<<<< HEAD
 /// Utility type to simulate nominal types in TypeScript
 type SlugLike<T> = string & { __brand: T }
 
@@ -127,6 +158,8 @@ export function transformInternalLink(link: string): RelativeURL {
   return res
 }
 
+=======
+>>>>>>> v5
 // from micromorph/src/utils.ts
 // https://github.com/natemoo-re/micromorph/blob/main/src/utils.ts#L5
 const _rebaseHtmlElement = (el: Element, attr: string, newBase: string | URL) => {
@@ -134,204 +167,10 @@ const _rebaseHtmlElement = (el: Element, attr: string, newBase: string | URL) =>
   el.setAttribute(attr, rebased.pathname + rebased.hash)
 }
 export function normalizeRelativeURLs(el: Element | Document, destination: string | URL) {
-  el.querySelectorAll('[href=""], [href^="./"], [href^="../"]').forEach((item) =>
-    _rebaseHtmlElement(item, "href", destination),
-  )
-  el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) =>
-    _rebaseHtmlElement(item, "src", destination),
-  )
-}
-
-const _rebaseHastElement = (
-  el: HastElement,
-  attr: string,
-  curBase: FullSlug,
-  newBase: FullSlug,
-) => {
-  if (el.properties?.[attr]) {
-    if (!isRelativeURL(String(el.properties[attr]))) {
-      return
-    }
-
-    const rel = joinSegments(resolveRelative(curBase, newBase), "..", el.properties[attr] as string)
-    el.properties[attr] = rel
-  }
-}
-
-export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newBase: FullSlug) {
-  const el = clone(rawEl) // clone so we dont modify the original page
-  _rebaseHastElement(el, "src", curBase, newBase)
-  _rebaseHastElement(el, "href", curBase, newBase)
-  if (el.children) {
-    el.children = el.children.map((child) =>
-      normalizeHastElement(child as HastElement, curBase, newBase),
-    )
-  }
-
-  return el
-}
-
-// resolve /a/b/c to ../..
-export function pathToRoot(slug: FullSlug): RelativeURL {
-  let rootPath = slug
-    .split("/")
-    .filter((x) => x !== "")
-    .slice(0, -1)
-    .map((_) => "..")
-    .join("/")
-
-  if (rootPath.length === 0) {
-    rootPath = "."
-  }
-
-  return rootPath as RelativeURL
-}
-
-export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
-  const res = joinSegments(pathToRoot(current), simplifySlug(target as FullSlug)) as RelativeURL
-  return res
-}
-
-export function splitAnchor(link: string): [string, string] {
-  let [fp, anchor] = link.split("#", 2)
-  if (fp.endsWith(".pdf")) {
-    return [fp, anchor === undefined ? "" : `#${anchor}`]
-  }
-  anchor = anchor === undefined ? "" : "#" + slugAnchor(anchor)
-  return [fp, anchor]
-}
-
-export function slugTag(tag: string) {
-  return tag
-    .split("/")
-    .map((tagSegment) => sluggify(tagSegment))
-    .join("/")
-}
-
-export function joinSegments(...args: string[]): string {
-  if (args.length === 0) {
-    return ""
-  }
-
-  let joined = args
-    .filter((segment) => segment !== "" && segment !== "/")
-    .map((segment) => stripSlashes(segment))
-    .join("/")
-
-  // if the first segment starts with a slash, add it back
-  if (args[0].startsWith("/")) {
-    joined = "/" + joined
-  }
-
-  // if the last segment is a folder, add a trailing slash
-  if (args[args.length - 1].endsWith("/")) {
-    joined = joined + "/"
-  }
-
-  return joined
-}
-
-export function getAllSegmentPrefixes(tags: string): string[] {
-  const segments = tags.split("/")
-  const results: string[] = []
-  for (let i = 0; i < segments.length; i++) {
-    results.push(segments.slice(0, i + 1).join("/"))
-  }
-  return results
-}
-
-export interface TransformOptions {
-  strategy: "absolute" | "relative" | "shortest"
-  allSlugs: FullSlug[]
-}
-
-export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
-  let targetSlug = transformInternalLink(target)
-
-  if (opts.strategy === "relative") {
-    return targetSlug as RelativeURL
-  } else {
-    const folderTail = isFolderPath(targetSlug) ? "/" : ""
-    const canonicalSlug = stripSlashes(targetSlug.slice(".".length))
-    let [targetCanonical, targetAnchor] = splitAnchor(canonicalSlug)
-
-    if (opts.strategy === "shortest") {
-      // if the file name is unique, then it's just the filename
-      const matchingFileNames = opts.allSlugs.filter((slug) => {
-        const parts = slug.split("/")
-        const fileName = parts.at(-1)
-        return targetCanonical === fileName
-      })
-
-      // only match, just use it
-      if (matchingFileNames.length === 1) {
-        const targetSlug = matchingFileNames[0]
-        return (resolveRelative(src, targetSlug) + targetAnchor) as RelativeURL
-      }
-    }
-
-    // if it's not unique, then it's the absolute path from the vault root
-    return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
-  }
-}
-
-// path helpers
-export function isFolderPath(fplike: string): boolean {
-  return (
-    fplike.endsWith("/") ||
-    endsWith(fplike, "index") ||
-    endsWith(fplike, "index.md") ||
-    endsWith(fplike, "index.html")
-  )
-}
-
-export function endsWith(s: string, suffix: string): boolean {
-  return s === suffix || s.endsWith("/" + suffix)
-}
-
-export function trimSuffix(s: string, suffix: string): string {
-  if (endsWith(s, suffix)) {
-    s = s.slice(0, -suffix.length)
-  }
-  return s
-}
-
-function containsForbiddenCharacters(s: string): boolean {
-  return s.includes(" ") || s.includes("#") || s.includes("?") || s.includes("&")
-}
-
-function _hasFileExtension(s: string): boolean {
-  return getFileExtension(s) !== undefined
-}
-
-export function getFileExtension(s: string): string | undefined {
-  return s.match(/\.[A-Za-z0-9]+$/)?.[0]
-}
-
-function isRelativeSegment(s: string): boolean {
-  return /^\.{0,2}$/.test(s)
-}
-
-export function stripSlashes(s: string, onlyStripPrefix?: boolean): string {
-  if (s.startsWith("/")) {
-    s = s.substring(1)
-  }
-
-  if (!onlyStripPrefix && s.endsWith("/")) {
-    s = s.slice(0, -1)
-  }
-
-  return s
-}
-
-function _addRelativeToStart(s: string): string {
-  if (s === "") {
-    s = "."
-  }
-
-  if (!s.startsWith(".")) {
-    s = joinSegments(".", s)
-  }
-
-  return s
+  el.querySelectorAll('[href=""], [href^="./"], [href^="../"]').forEach((item) => {
+    _rebaseHtmlElement(item, "href", destination)
+  })
+  el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) => {
+    _rebaseHtmlElement(item, "src", destination)
+  })
 }

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Lore Vault of Aerathon
+=======
+# Quartz v5
+>>>>>>> v5
 
 The Lore Vault is a D&D campaign wiki for Aerathon. The writing source of truth is the Obsidian-style Markdown vault in `content/`, and the site is published to GitHub Pages as a static website.
 

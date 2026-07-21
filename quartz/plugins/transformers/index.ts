@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export { FrontMatter } from "./frontmatter"
 export { GitHubFlavoredMarkdown } from "./gfm"
 export { Citations } from "./citations"
@@ -12,3 +13,6 @@ export { TableOfContents } from "./toc"
 export { HardLineBreaks } from "./linebreaks"
 export { RoamFlavoredMarkdown } from "./roam"
 export { AerathonMap } from "./aerathonMap"
+=======
+export {}
+>>>>>>> v5
