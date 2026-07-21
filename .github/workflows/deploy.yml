@@ -3,7 +3,7 @@ name: Deploy Lore Vault to GitHub Pages
 on:
   push:
     branches:
-      - v4
+      - master
 
 permissions:
   contents: read
