@@ -196,9 +196,14 @@ footer {
       padding-left: 0;
       padding-right: clamp(1rem, 2vw, 2rem);
 
-      // Match the TOC's first row to the Explorer below the title and controls.
-      & > .toc {
-        margin-top: 7.2rem;
+      & .flex-component {
+        justify-content: flex-start;
+      }
+
+      // Keep the TOC aligned with the Explorer while using the open space
+      // above it for the appearance controls.
+      & .toc {
+        margin-top: 4rem;
       }
     }
   }

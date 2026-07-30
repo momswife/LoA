@@ -59,15 +59,26 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        { Component: Component.MobileOnly(Component.Darkmode()) },
+        { Component: Component.MobileOnly(Component.ReaderMode()) },
       ],
     }),
     Component.Explorer({
       folderClickBehavior: "collapse",
     }),
   ],
-  right: [Component.DesktopOnly(Component.TableOfContents())],
+  right: [
+    Component.DesktopOnly(
+      Component.Flex({
+        components: [
+          { Component: Component.Darkmode(), align: "start", justify: "start" },
+          { Component: Component.ReaderMode(), align: "start", justify: "start" },
+        ],
+        gap: "0.5rem",
+      }),
+    ),
+    Component.DesktopOnly(Component.TableOfContents()),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
