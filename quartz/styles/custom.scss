@@ -156,7 +156,13 @@ article {
 .explorer-content a,
 .explorer-content .folder-container span,
 ul.toc-content.overflow > li > a {
+  font-family: var(--bodyFont);
   font-size: 0.88rem;
+}
+
+.explorer .desktop-explorer,
+.toc .toc-header {
+  min-height: 1.4rem;
 }
 
 footer {
@@ -189,6 +195,11 @@ footer {
     & .sidebar.right {
       padding-left: 0;
       padding-right: clamp(1rem, 2vw, 2rem);
+
+      // Match the TOC's first row to the Explorer below the title and controls.
+      & > .toc {
+        margin-top: 7.2rem;
+      }
     }
   }
 }
