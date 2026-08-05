@@ -26,6 +26,7 @@ type RawMapPin = {
   status?: unknown
   summary?: unknown
   description?: unknown
+  plot?: unknown
   link?: unknown
   x?: unknown
   y?: unknown
@@ -57,6 +58,7 @@ type MapPin = {
   status?: string
   summary?: string
   description?: string
+  plot?: string
   link?: RelativeURL
   sourceLink?: string
   x?: number
@@ -218,6 +220,7 @@ function normalizeDatasetLocation(
     status: isString(location.status) ? location.status : undefined,
     summary: isString(location.summary) ? location.summary : undefined,
     description: isString(location.description) ? location.description : undefined,
+    plot: isString(location.plot) ? location.plot : undefined,
     ...normalizeLink(location.link, currentSlug, allSlugs),
     x: hasPosition ? clamp(x, 0, 100) : undefined,
     y: hasPosition ? clamp(y, 0, 100) : undefined,
@@ -372,6 +375,7 @@ function renderMap(
       <h3 class="aerathon-map__popup-title"></h3>
       <p class="aerathon-map__popup-meta"></p>
       <p class="aerathon-map__popup-summary"></p>
+      <p class="aerathon-map__popup-plot" hidden></p>
       <a class="aerathon-map__popup-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Open record</a>
     </section>
     <section class="aerathon-map__editor" hidden aria-label="Map location editor">
@@ -386,6 +390,7 @@ function renderMap(
       <label>Link <input data-map-field="sourceLink" /></label>
       <label>Summary <textarea data-map-field="summary"></textarea></label>
       <label>Description <textarea data-map-field="description"></textarea></label>
+      <label>Plot <textarea data-map-field="plot" placeholder="DM-only plot notes"></textarea></label>
       <div class="aerathon-map__editor-grid">
         <label>X <input data-map-field="x" inputmode="decimal" /></label>
         <label>Y <input data-map-field="y" inputmode="decimal" /></label>

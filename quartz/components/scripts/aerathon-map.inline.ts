@@ -7,6 +7,7 @@ type MapPin = {
   status?: string
   summary?: string
   description?: string
+  plot?: string
   link?: string
   sourceLink?: string
   x?: number
@@ -81,6 +82,7 @@ function initAerathonMap(map: HTMLElement) {
   const popupTitle = map.querySelector<HTMLElement>(".aerathon-map__popup-title")
   const popupMeta = map.querySelector<HTMLElement>(".aerathon-map__popup-meta")
   const popupSummary = map.querySelector<HTMLElement>(".aerathon-map__popup-summary")
+  const popupPlot = map.querySelector<HTMLElement>(".aerathon-map__popup-plot")
   const popupLink = map.querySelector<HTMLAnchorElement>(".aerathon-map__popup-link")
   const closeButton = map.querySelector<HTMLButtonElement>(".aerathon-map__popup-close")
   const zoomInButton = map.querySelector<HTMLButtonElement>('[data-map-zoom="in"]')
@@ -167,11 +169,24 @@ function initAerathonMap(map: HTMLElement) {
 
   const normalizePin = (pin: MapPin): MapPin => {
     const type = pin.type ?? (datasetMode ? "unassigned" : "notable-location")
+    const descriptionHasPlotFlag = pin.description?.includes("(!)") ?? false
+    const summary = descriptionHasPlotFlag
+      ? pin.summary
+        ? pin.summary.includes("(!)")
+          ? pin.summary
+          : `${pin.summary} (!)`
+        : "(!)"
+      : pin.summary
+    const description = descriptionHasPlotFlag
+      ? pin.description?.replace(/\s*\(!\)/g, "").trim()
+      : pin.description
     const normalized = {
       ...pin,
       id: pin.id ?? `pin-${nextPinId++}`,
       type,
       typeLabel: markerLabels.get(type) ?? type,
+      summary,
+      description,
     }
     if (!hasPosition(normalized)) {
       delete normalized.x
@@ -304,6 +319,7 @@ function initAerathonMap(map: HTMLElement) {
       lines.push(`    category: ${yamlString(pin.type ?? "unassigned")}`)
       lines.push(`    summary: ${pin.summary ? yamlString(pin.summary) : "null"}`)
       if (pin.description) lines.push(`    description: ${yamlString(pin.description)}`)
+      lines.push(`    plot: ${pin.plot ? yamlString(pin.plot) : "null"}`)
       if (pin.status) lines.push(`    status: ${yamlString(pin.status)}`)
       if (pin.sourceLink || pin.link) {
         lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
@@ -519,6 +535,7 @@ function initAerathonMap(map: HTMLElement) {
     setEditorValue("sourceLink", pin.sourceLink ?? pin.link)
     setEditorValue("summary", pin.summary)
     setEditorValue("description", pin.description)
+    setEditorValue("plot", pin.plot)
     setEditorValue("x", hasPosition(pin) ? pin.x.toFixed(2) : undefined)
     setEditorValue("y", hasPosition(pin) ? pin.y.toFixed(2) : undefined)
     openEditorElement()
@@ -541,6 +558,7 @@ function initAerathonMap(map: HTMLElement) {
     const title = getField<HTMLInputElement>("title")?.value.trim() || undefined
     const summary = getField<HTMLTextAreaElement>("summary")?.value.trim() || undefined
     const description = getField<HTMLTextAreaElement>("description")?.value.trim() || undefined
+    const plot = getField<HTMLTextAreaElement>("plot")?.value.trim() || undefined
     return {
       ...editorDraft,
       title: datasetMode ? title : title || "Untitled Pin",
@@ -551,6 +569,7 @@ function initAerathonMap(map: HTMLElement) {
       link: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
       summary,
       description,
+      plot,
       x: readCoordinate("x", editorDraft.x),
       y: readCoordinate("y", editorDraft.y),
       incomplete: datasetMode ? !title || !summary : undefined,
@@ -569,6 +588,10 @@ function initAerathonMap(map: HTMLElement) {
     popupMeta.hidden = meta.length === 0
     popupSummary.textContent = pin.summary ?? ""
     popupSummary.hidden = !pin.summary
+    if (popupPlot) {
+      popupPlot.textContent = editMode && pin.plot ? `Plot: ${pin.plot}` : ""
+      popupPlot.hidden = !editMode || !pin.plot
+    }
 
     if (popupLink && pin.link) {
       popupLink.href = pin.link
