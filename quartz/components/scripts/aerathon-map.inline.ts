@@ -76,7 +76,6 @@ function initAerathonMap(map: HTMLElement) {
   const exportPanel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
   const exportField = map.querySelector<HTMLTextAreaElement>(".aerathon-map__pins-yaml")
   const exportCopyButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-copy")
-  const exportCloseButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-close")
   const exportToggleButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
   const locationsPanel = map.querySelector<HTMLElement>(".aerathon-map__locations-panel")
   const locationsList = map.querySelector<HTMLOListElement>(".aerathon-map__locations-list")
@@ -335,17 +334,13 @@ function initAerathonMap(map: HTMLElement) {
 
   const openExportPanel = () => {
     if (!exportPanel || !editMode) return
-    exportPanel.hidden = false
-    exportPanel.removeAttribute("hidden")
-    exportPanel.style.display = ""
+    if (exportPanel instanceof HTMLDetailsElement) exportPanel.open = true
     exportPanel.classList.add("is-open")
   }
 
   const closeExportPanel = () => {
     if (!exportPanel) return
-    exportPanel.hidden = true
-    exportPanel.setAttribute("hidden", "")
-    exportPanel.style.display = "none"
+    if (exportPanel instanceof HTMLDetailsElement) exportPanel.open = false
     exportPanel.classList.remove("is-open")
   }
 
@@ -936,15 +931,13 @@ function initAerathonMap(map: HTMLElement) {
         if (exportCopyButton) exportCopyButton.textContent = "Press Ctrl+C"
       })
   })
-  exportCloseButton?.addEventListener("click", (event) => {
-    event.preventDefault()
-    event.stopPropagation()
-    closeExportPanel()
-  })
   exportToggleButton?.addEventListener("click", (event) => {
     event.preventDefault()
     event.stopPropagation()
     updateExportPanel(true)
+  })
+  exportPanel?.addEventListener("toggle", () => {
+    if (exportPanel instanceof HTMLDetailsElement && exportPanel.open) updateExportPanel()
   })
   locationsToggleButton?.addEventListener("click", (event) => {
     event.preventDefault()

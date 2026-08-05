@@ -400,17 +400,17 @@ function renderMap(
         <button type="button" data-map-editor="delete">${dataset ? "Unplace" : "Delete"}</button>
       </div>
     </section>
-    <section class="aerathon-map__pins-panel" hidden aria-label="Export map data">
-      <button class="aerathon-map__pins-close" type="button" data-map-export="close" aria-label="Close exported map data">&times;</button>
+    <details class="aerathon-map__pins-panel" aria-label="Export map data">
+      <summary class="aerathon-map__pins-summary">${exportLabel}</summary>
       <div class="aerathon-map__pins-panel-header">
-        <h3>${exportLabel}</h3>
+        <h3>Complete replacement file</h3>
         <div class="aerathon-map__pins-panel-actions">
           <button class="aerathon-map__pins-copy" type="button" data-map-export="copy">Copy</button>
         </div>
       </div>
       ${dataset ? '<p class="aerathon-map__pins-status" data-state="draft">Copy everything below and replace the entire locations YAML file.</p>' : ""}
       <textarea class="aerathon-map__pins-yaml" data-map-export="yaml" readonly></textarea>
-    </section>
+    </details>
   </div>
 </div>`
 }

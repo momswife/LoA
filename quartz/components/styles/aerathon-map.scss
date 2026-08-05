@@ -720,10 +720,12 @@
 .aerathon-map__pins-panel {
   position: absolute;
   left: 1rem;
-  top: 1rem;
-  z-index: 3;
-  width: min(26rem, calc(100% - 2rem));
-  padding: 0.8rem;
+  bottom: 1rem;
+  z-index: 4;
+  display: none;
+  width: auto;
+  max-width: calc(100% - 2rem);
+  padding: 0;
   border: 1px solid color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
   border-radius: 8px;
   background: color-mix(in srgb, var(--light) 95%, transparent);
@@ -732,13 +734,45 @@
   cursor: default;
 }
 
+.aerathon-map.is-editing .aerathon-map__pins-panel {
+  display: block;
+}
+
+.aerathon-map__pins-panel[open] {
+  width: min(26rem, calc(100% - 2rem));
+  padding: 0.8rem;
+}
+
 .aerathon-map__pins-panel,
 .aerathon-map__pins-panel * {
   box-sizing: border-box;
 }
 
-.aerathon-map__pins-panel[hidden] {
+.aerathon-map__pins-summary {
+  padding: 0.55rem 0.7rem;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 700;
+  list-style: none;
+}
+
+.aerathon-map__pins-summary::-webkit-details-marker {
   display: none;
+}
+
+.aerathon-map__pins-summary::before {
+  display: inline-block;
+  margin-right: 0.4rem;
+  content: "▸";
+}
+
+.aerathon-map__pins-panel[open] > .aerathon-map__pins-summary {
+  margin: -0.8rem -0.8rem 0.7rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 32%, transparent);
+}
+
+.aerathon-map__pins-panel[open] > .aerathon-map__pins-summary::before {
+  content: "▾";
 }
 
 .aerathon-map__pins-panel-header {
@@ -747,7 +781,6 @@
   justify-content: space-between;
   gap: 0.75rem;
   margin-bottom: 0.55rem;
-  padding-right: 2rem;
 }
 
 .aerathon-map__pins-panel-actions {
@@ -777,29 +810,6 @@
   color: var(--gray);
   font-size: 0.76rem;
   line-height: 1.4;
-}
-
-.aerathon-map__pins-panel .aerathon-map__pins-close {
-  position: absolute;
-  top: 0.45rem;
-  right: 0.45rem;
-  width: 1.75rem;
-  height: 1.75rem;
-  padding: 0;
-  border: 0;
-  border-radius: 999px;
-  background: transparent;
-  color: var(--darkgray);
-  cursor: pointer;
-  font-size: 1.35rem;
-  line-height: 1;
-}
-
-.aerathon-map__pins-panel .aerathon-map__pins-close:hover,
-.aerathon-map__pins-panel .aerathon-map__pins-close:focus-visible {
-  background: var(--lightgray);
-  outline: 2px solid var(--secondary);
-  outline-offset: 2px;
 }
 
 .aerathon-map__pins-panel textarea {
