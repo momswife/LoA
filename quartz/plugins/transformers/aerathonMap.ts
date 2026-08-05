@@ -329,7 +329,7 @@ function renderMap(
         `<option value="${escapeAttribute(id)}">${escapeHtml(categoryLabel)}</option>`,
     )
     .join("")
-  const exportLabel = dataset ? "Save locations" : "Export pins"
+  const exportLabel = dataset ? "Export full YAML" : "Export pins"
 
   return `<div class="aerathon-map" style="--aerathon-map-height: ${escapeAttribute(
     height,
@@ -358,7 +358,7 @@ function renderMap(
         <h3>Locations</h3>
         <div class="aerathon-map__locations-meta">
           <span class="aerathon-map__locations-progress"></span>
-          <span class="aerathon-map__locations-save-state" data-state="draft">Browser draft only</span>
+          <span class="aerathon-map__locations-save-state" data-state="draft">Export required</span>
         </div>
       </div>
       <input class="aerathon-map__locations-search" type="search" placeholder="Search locations" aria-label="Search locations" />
@@ -396,7 +396,7 @@ function renderMap(
         <label>Y <input data-map-field="y" inputmode="decimal" /></label>
       </div>
       <div class="aerathon-map__editor-actions">
-        <button type="button" data-map-editor="save">Save</button>
+        <button type="button" data-map-editor="save">Save &amp; export YAML</button>
         <button type="button" data-map-editor="delete">${dataset ? "Unplace" : "Delete"}</button>
       </div>
     </section>
@@ -405,11 +405,10 @@ function renderMap(
       <div class="aerathon-map__pins-panel-header">
         <h3>${exportLabel}</h3>
         <div class="aerathon-map__pins-panel-actions">
-          ${dataset ? '<button class="aerathon-map__pins-file" type="button" data-map-export="file">Connect YAML</button>' : ""}
           <button class="aerathon-map__pins-copy" type="button" data-map-export="copy">Copy</button>
         </div>
       </div>
-      ${dataset ? '<p class="aerathon-map__pins-status" data-state="draft">Pin changes are browser drafts. Connect the repository YAML file to save them automatically.</p>' : ""}
+      ${dataset ? '<p class="aerathon-map__pins-status" data-state="draft">Copy everything below and replace the entire locations YAML file.</p>' : ""}
       <textarea class="aerathon-map__pins-yaml" data-map-export="yaml" readonly></textarea>
     </section>
   </div>

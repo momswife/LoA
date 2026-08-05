@@ -539,14 +539,6 @@
   text-transform: uppercase;
 }
 
-.aerathon-map__locations-save-state[data-state="saved"] {
-  color: #4e8b56;
-}
-
-.aerathon-map__locations-save-state[data-state="error"] {
-  color: #a43832;
-}
-
 .aerathon-map__locations-hint {
   color: var(--secondary);
   font-weight: 700;
@@ -785,14 +777,6 @@
   color: var(--gray);
   font-size: 0.76rem;
   line-height: 1.4;
-}
-
-.aerathon-map__pins-status[data-state="saved"] {
-  color: #4e8b56;
-}
-
-.aerathon-map__pins-status[data-state="error"] {
-  color: #a43832;
 }
 
 .aerathon-map__pins-panel .aerathon-map__pins-close {

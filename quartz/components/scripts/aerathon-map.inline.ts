@@ -34,26 +34,6 @@ type MapData = {
   dataset?: MapDataset
 }
 
-type WritableYamlFile = {
-  write(data: string | Blob): Promise<void>
-  close(): Promise<void>
-}
-
-type WritableYamlFileHandle = {
-  name: string
-  createWritable(): Promise<WritableYamlFile>
-}
-
-type FilePickerWindow = Window & {
-  showSaveFilePicker?: (options: {
-    suggestedName: string
-    types: Array<{
-      description: string
-      accept: Record<string, string[]>
-    }>
-  }) => Promise<WritableYamlFileHandle>
-}
-
 const clamp = (value: number, min: number, max: number) => Math.min(max, Math.max(min, value))
 const defaultMarkerTypes = [
   { id: "country", label: "Countries" },
@@ -96,15 +76,12 @@ function initAerathonMap(map: HTMLElement) {
   const exportPanel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
   const exportField = map.querySelector<HTMLTextAreaElement>(".aerathon-map__pins-yaml")
   const exportCopyButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-copy")
-  const exportFileButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-file")
-  const exportStatus = map.querySelector<HTMLElement>(".aerathon-map__pins-status")
   const exportCloseButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-close")
   const exportToggleButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
   const locationsPanel = map.querySelector<HTMLElement>(".aerathon-map__locations-panel")
   const locationsList = map.querySelector<HTMLOListElement>(".aerathon-map__locations-list")
   const locationsSearch = map.querySelector<HTMLInputElement>(".aerathon-map__locations-search")
   const locationsProgress = map.querySelector<HTMLElement>(".aerathon-map__locations-progress")
-  const locationsSaveState = map.querySelector<HTMLElement>(".aerathon-map__locations-save-state")
   const locationsHint = map.querySelector<HTMLElement>(".aerathon-map__locations-hint")
   const locationsToggleButton = map.querySelector<HTMLButtonElement>(
     ".aerathon-map__locations-toggle",
@@ -140,8 +117,6 @@ function initAerathonMap(map: HTMLElement) {
   let pendingPlacement: MapPin | null = null
   let selectedLocationId: string | null = null
   let locationFilter: "all" | "placed" | "unplaced" = "all"
-  let yamlFileHandle: WritableYamlFileHandle | null = null
-  let yamlWriteChain: Promise<void> = Promise.resolve()
   const pointers = new Map<number, PointerEvent>()
   let dragStart: { x: number; y: number; translateX: number; translateY: number } | null = null
   let pinDrag: {
@@ -343,97 +318,19 @@ function initAerathonMap(map: HTMLElement) {
       ? datasetToYaml()
       : `pins:\n${data.pins.filter(hasPosition).map(pinToYaml).join("\n")}\n`
 
-  const yamlFileName =
-    data.dataset?.source.split(/[\\/]/).at(-1) ?? `${mapId.replace(/[^a-z0-9-]/gi, "-")}.yaml`
-
-  const setExportStatus = (message: string, state: "draft" | "saved" | "error" = "draft") => {
-    if (!exportStatus) return
-    exportStatus.textContent = message
-    exportStatus.dataset.state = state
-    if (locationsSaveState) {
-      locationsSaveState.dataset.state = state
-      locationsSaveState.textContent =
-        state === "error"
-          ? "YAML save failed"
-          : yamlFileHandle
-            ? "YAML connected"
-            : state === "saved"
-              ? "YAML downloaded"
-              : "Browser draft only"
-    }
-  }
-
-  const writeConnectedYaml = async () => {
-    if (!yamlFileHandle || !datasetMode) return
-    const writable = await yamlFileHandle.createWritable()
-    await writable.write(exportedYaml())
-    await writable.close()
-    setExportStatus(
-      `Saved to ${yamlFileHandle.name}. Future pin changes will save automatically.`,
-      "saved",
-    )
-  }
-
-  const queueYamlWrite = () => {
-    if (!yamlFileHandle || !datasetMode) return
-    yamlWriteChain = yamlWriteChain.then(writeConnectedYaml).catch((error: unknown) => {
-      const message = error instanceof Error ? error.message : "Could not update the YAML file."
-      setExportStatus(message, "error")
-    })
-  }
-
   const persistPins = () => {
     localStorage.setItem(storageKey, JSON.stringify(data.pins.map(normalizePin)))
-    queueYamlWrite()
   }
 
-  const downloadYaml = () => {
-    const url = URL.createObjectURL(new Blob([exportedYaml()], { type: "application/yaml" }))
-    const link = document.createElement("a")
-    link.href = url
-    link.download = yamlFileName
-    document.body.append(link)
-    link.click()
-    link.remove()
-    window.setTimeout(() => URL.revokeObjectURL(url), 0)
-    setExportStatus(
-      `Downloaded ${yamlFileName}. Replace the repository copy with this file.`,
-      "saved",
-    )
-  }
-
-  const connectYamlFile = async () => {
-    const pickerWindow = window as FilePickerWindow
-    if (!pickerWindow.showSaveFilePicker) {
-      downloadYaml()
+  const copyText = async (text: string) => {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text)
       return
     }
-
-    try {
-      yamlFileHandle = await pickerWindow.showSaveFilePicker({
-        suggestedName: yamlFileName,
-        types: [
-          {
-            description: "YAML location data",
-            accept: {
-              "application/yaml": [".yaml", ".yml"],
-              "text/yaml": [".yaml", ".yml"],
-            },
-          },
-        ],
-      })
-      await writeConnectedYaml()
-      if (exportFileButton) exportFileButton.textContent = "YAML connected"
-    } catch (error) {
-      if (error instanceof DOMException && error.name === "AbortError") return
-      const message = error instanceof Error ? error.message : "Could not connect the YAML file."
-      setExportStatus(message, "error")
-    }
-  }
-
-  const copyText = (text: string) => {
-    console.info(text)
-    void navigator.clipboard?.writeText(text).catch(() => undefined)
+    if (!exportField) return
+    exportField.focus()
+    exportField.select()
+    document.execCommand("copy")
   }
 
   const openExportPanel = () => {
@@ -994,12 +891,8 @@ function initAerathonMap(map: HTMLElement) {
   saveButton?.addEventListener("click", (event) => {
     event.preventDefault()
     event.stopPropagation()
-    const needsYamlConnection = datasetMode && !yamlFileHandle
     saveActivePinFromEditor()
-    if (needsYamlConnection) {
-      updateExportPanel(true)
-      if ((window as FilePickerWindow).showSaveFilePicker) void connectYamlFile()
-    }
+    updateExportPanel(true)
   })
   cancelButton?.addEventListener("click", (event) => {
     event.preventDefault()
@@ -1028,11 +921,20 @@ function initAerathonMap(map: HTMLElement) {
   })
   exportCopyButton?.addEventListener("click", () => {
     updateExportPanel()
-    if (exportField) copyText(exportField.value)
-  })
-  exportFileButton?.addEventListener("click", () => {
-    updateExportPanel()
-    void connectYamlFile()
+    if (!exportField) return
+    void copyText(exportField.value)
+      .then(() => {
+        if (!exportCopyButton) return
+        exportCopyButton.textContent = "Copied"
+        window.setTimeout(() => {
+          exportCopyButton.textContent = "Copy"
+        }, 1500)
+      })
+      .catch(() => {
+        exportField.focus()
+        exportField.select()
+        if (exportCopyButton) exportCopyButton.textContent = "Press Ctrl+C"
+      })
   })
   exportCloseButton?.addEventListener("click", (event) => {
     event.preventDefault()
@@ -1118,9 +1020,8 @@ function initAerathonMap(map: HTMLElement) {
       renderAllPins()
       renderLocationList()
       syncExportPanel()
-      queueYamlWrite()
     } catch {
-      setExportStatus("Another tab sent invalid pin data; this tab was not changed.", "error")
+      console.warn("Another tab sent invalid pin data; this tab was not changed.")
     }
   }
   window.addEventListener("storage", handleStorage)
@@ -1133,12 +1034,6 @@ function initAerathonMap(map: HTMLElement) {
 
   movePanelsToSidebar()
   if (editMode && datasetMode) openLocationsPanel()
-  if (datasetMode && !(window as FilePickerWindow).showSaveFilePicker) {
-    if (exportFileButton) exportFileButton.textContent = "Download YAML"
-    setExportStatus(
-      "This browser cannot update a local file directly. Download the YAML after editing and replace the repository copy.",
-    )
-  }
   renderLocationList()
   syncExportPanel()
   applyTransform()
