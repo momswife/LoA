@@ -722,6 +722,13 @@
   padding-right: 2rem;
 }
 
+.aerathon-map__pins-panel-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.35rem;
+}
+
 .aerathon-map__pins-panel h3 {
   margin: 0;
   font-size: 1rem;
@@ -735,6 +742,21 @@
   color: var(--darkgray);
   cursor: pointer;
   font: 700 0.78rem/1 var(--bodyFont);
+}
+
+.aerathon-map__pins-status {
+  margin: 0 0 0.55rem;
+  color: var(--gray);
+  font-size: 0.76rem;
+  line-height: 1.4;
+}
+
+.aerathon-map__pins-status[data-state="saved"] {
+  color: #4e8b56;
+}
+
+.aerathon-map__pins-status[data-state="error"] {
+  color: #a43832;
 }
 
 .aerathon-map__pins-panel .aerathon-map__pins-close {

@@ -323,7 +323,7 @@ function renderMap(
         `<option value="${escapeAttribute(id)}">${escapeHtml(categoryLabel)}</option>`,
     )
     .join("")
-  const exportLabel = dataset ? "Export locations" : "Export pins"
+  const exportLabel = dataset ? "Save locations" : "Export pins"
 
   return `<div class="aerathon-map" style="--aerathon-map-height: ${escapeAttribute(
     height,
@@ -392,8 +392,12 @@ function renderMap(
       <button class="aerathon-map__pins-close" type="button" data-map-export="close" aria-label="Close exported map data">&times;</button>
       <div class="aerathon-map__pins-panel-header">
         <h3>${exportLabel}</h3>
-        <button class="aerathon-map__pins-copy" type="button" data-map-export="copy">Copy</button>
+        <div class="aerathon-map__pins-panel-actions">
+          ${dataset ? '<button class="aerathon-map__pins-file" type="button" data-map-export="file">Connect YAML</button>' : ""}
+          <button class="aerathon-map__pins-copy" type="button" data-map-export="copy">Copy</button>
+        </div>
       </div>
+      ${dataset ? '<p class="aerathon-map__pins-status" data-state="draft">Pin changes are browser drafts. Connect the repository YAML file to save them automatically.</p>' : ""}
       <textarea class="aerathon-map__pins-yaml" data-map-export="yaml" readonly></textarea>
     </section>
   </div>

@@ -515,16 +515,49 @@ locations:
 
   - id: "malarthain-071"
     number: 71
-    title: null
-    category: "unassigned"
-    summary: null
+    title: "Atticus's Estate"
+    category: "homes-taverns-social-life"
+    summary: "A spacious Goldclasp residence temporarily occupied by the delvers Atticus and Deena while they await the approval and signing of their new guild contract."
     position: null
-    incomplete: true
 
   - id: "malarthain-072"
     number: 72
-    title: null
-    category: "unassigned"
-    summary: null
+    title: "The Old Crown Theatre"
+    category: "homes-taverns-social-life"
+    summary: "An aging playhouse whose struggling company has begun performing an anonymous script that changes each night and reveals private details about members of the audience."
     position: null
-    incomplete: true
+
+  - id: "malarthain-073"
+    number: 73
+    title: "The Gilded Roost"
+    category: "trade-markets-food"
+    summary: "A prestigious auction house dealing in foreign art, antiquities, and recovered relics, currently plagued by thefts in which locked display cases remain perfectly sealed."
+    position: null
+
+  - id: "malarthain-074"
+    number: 74
+    title: "Brindlewick Conservatory"
+    category: "healing-gardens-public-welfare"
+    summary: "A glass-roofed botanical sanctuary cultivating rare medicinal plants, where several specimens have begun moving at night and arranging themselves into unfamiliar symbols."
+    position: null
+
+  - id: "malarthain-075"
+    number: 75
+    title: "The Unclaimed Hall"
+    category: "government-civic-records-public-authority"
+    summary: "A municipal repository for unidentified bodies, lost property, and abandoned inheritances, where a recently delivered trunk has been claimed by three unrelated families."
+    position: null
+
+  - id: "malarthain-076"
+    number: 76
+    title: "The Seventh Bell"
+    category: "faith-shrines-memorials"
+    summary: "A disused memorial belfry that has begun ringing shortly before unexplained deaths, despite its bell having been removed from the tower nearly forty years ago."
+    position: null
+    
+  - id: "malarthain-077"
+    number: 77
+    title: "The House of Borrowed Faces"
+    category: "homes-taverns-social-life"
+    summary: "A discreet maskmaker and costume house whose clients report being recognized for crimes, debts, and affairs committed while their commissioned masks were still locked inside the workshop."
+    position: null
