@@ -25,6 +25,7 @@ type RawMapPin = {
   category?: unknown
   status?: unknown
   summary?: unknown
+  description?: unknown
   link?: unknown
   x?: unknown
   y?: unknown
@@ -55,6 +56,7 @@ type MapPin = {
   typeLabel?: string
   status?: string
   summary?: string
+  description?: string
   link?: RelativeURL
   sourceLink?: string
   x?: number
@@ -215,6 +217,7 @@ function normalizeDatasetLocation(
     typeLabel: categories[category] ?? category,
     status: isString(location.status) ? location.status : undefined,
     summary: isString(location.summary) ? location.summary : undefined,
+    description: isString(location.description) ? location.description : undefined,
     ...normalizeLink(location.link, currentSlug, allSlugs),
     x: hasPosition ? clamp(x, 0, 100) : undefined,
     y: hasPosition ? clamp(y, 0, 100) : undefined,
@@ -350,7 +353,10 @@ function renderMap(
       <button class="aerathon-map__locations-close" type="button" data-map-locations="close" aria-label="Close locations">&times;</button>
       <div class="aerathon-map__locations-header">
         <h3>Locations</h3>
-        <span class="aerathon-map__locations-progress"></span>
+        <div class="aerathon-map__locations-meta">
+          <span class="aerathon-map__locations-progress"></span>
+          <span class="aerathon-map__locations-save-state" data-state="draft">Browser draft only</span>
+        </div>
       </div>
       <input class="aerathon-map__locations-search" type="search" placeholder="Search locations" aria-label="Search locations" />
       <div class="aerathon-map__locations-filters" aria-label="Filter locations">
@@ -379,6 +385,7 @@ function renderMap(
       <label>Status <input data-map-field="status" /></label>
       <label>Link <input data-map-field="sourceLink" /></label>
       <label>Summary <textarea data-map-field="summary"></textarea></label>
+      <label>Description <textarea data-map-field="description"></textarea></label>
       <div class="aerathon-map__editor-grid">
         <label>X <input data-map-field="x" inputmode="decimal" /></label>
         <label>Y <input data-map-field="y" inputmode="decimal" /></label>

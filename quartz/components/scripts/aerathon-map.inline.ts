@@ -6,6 +6,7 @@ type MapPin = {
   typeLabel?: string
   status?: string
   summary?: string
+  description?: string
   link?: string
   sourceLink?: string
   x?: number
@@ -101,6 +102,7 @@ function initAerathonMap(map: HTMLElement) {
   const locationsList = map.querySelector<HTMLOListElement>(".aerathon-map__locations-list")
   const locationsSearch = map.querySelector<HTMLInputElement>(".aerathon-map__locations-search")
   const locationsProgress = map.querySelector<HTMLElement>(".aerathon-map__locations-progress")
+  const locationsSaveState = map.querySelector<HTMLElement>(".aerathon-map__locations-save-state")
   const locationsHint = map.querySelector<HTMLElement>(".aerathon-map__locations-hint")
   const locationsToggleButton = map.querySelector<HTMLButtonElement>(
     ".aerathon-map__locations-toggle",
@@ -301,6 +303,7 @@ function initAerathonMap(map: HTMLElement) {
       lines.push(`    title: ${pin.title ? yamlString(pin.title) : "null"}`)
       lines.push(`    category: ${yamlString(pin.type ?? "unassigned")}`)
       lines.push(`    summary: ${pin.summary ? yamlString(pin.summary) : "null"}`)
+      if (pin.description) lines.push(`    description: ${yamlString(pin.description)}`)
       if (pin.status) lines.push(`    status: ${yamlString(pin.status)}`)
       if (pin.sourceLink || pin.link) {
         lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
@@ -331,6 +334,17 @@ function initAerathonMap(map: HTMLElement) {
     if (!exportStatus) return
     exportStatus.textContent = message
     exportStatus.dataset.state = state
+    if (locationsSaveState) {
+      locationsSaveState.dataset.state = state
+      locationsSaveState.textContent =
+        state === "error"
+          ? "YAML save failed"
+          : yamlFileHandle
+            ? "YAML connected"
+            : state === "saved"
+              ? "YAML downloaded"
+              : "Browser draft only"
+    }
   }
 
   const writeConnectedYaml = async () => {
@@ -504,6 +518,7 @@ function initAerathonMap(map: HTMLElement) {
     setEditorValue("status", pin.status)
     setEditorValue("sourceLink", pin.sourceLink ?? pin.link)
     setEditorValue("summary", pin.summary)
+    setEditorValue("description", pin.description)
     setEditorValue("x", hasPosition(pin) ? pin.x.toFixed(2) : undefined)
     setEditorValue("y", hasPosition(pin) ? pin.y.toFixed(2) : undefined)
     openEditorElement()
@@ -525,6 +540,7 @@ function initAerathonMap(map: HTMLElement) {
       (datasetMode ? "unassigned" : "notable-location")
     const title = getField<HTMLInputElement>("title")?.value.trim() || undefined
     const summary = getField<HTMLTextAreaElement>("summary")?.value.trim() || undefined
+    const description = getField<HTMLTextAreaElement>("description")?.value.trim() || undefined
     return {
       ...editorDraft,
       title: datasetMode ? title : title || "Untitled Pin",
@@ -534,6 +550,7 @@ function initAerathonMap(map: HTMLElement) {
       sourceLink: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
       link: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
       summary,
+      description,
       x: readCoordinate("x", editorDraft.x),
       y: readCoordinate("y", editorDraft.y),
       incomplete: datasetMode ? !title || !summary : undefined,
@@ -954,7 +971,12 @@ function initAerathonMap(map: HTMLElement) {
   saveButton?.addEventListener("click", (event) => {
     event.preventDefault()
     event.stopPropagation()
+    const needsYamlConnection = datasetMode && !yamlFileHandle
     saveActivePinFromEditor()
+    if (needsYamlConnection) {
+      updateExportPanel(true)
+      if ((window as FilePickerWindow).showSaveFilePicker) void connectYamlFile()
+    }
   })
   cancelButton?.addEventListener("click", (event) => {
     event.preventDefault()

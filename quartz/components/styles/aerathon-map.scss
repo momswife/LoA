@@ -503,12 +503,36 @@
   font-size: 1rem;
 }
 
+.aerathon-map__locations-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.55rem;
+}
+
 .aerathon-map__locations-progress,
 .aerathon-map__locations-hint {
   margin: 0.25rem 0 0;
   color: var(--gray);
   font-size: 0.78rem;
   line-height: 1.35;
+}
+
+.aerathon-map__locations-save-state {
+  margin-top: 0.25rem;
+  color: #9a6a22;
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.aerathon-map__locations-save-state[data-state="saved"] {
+  color: #4e8b56;
+}
+
+.aerathon-map__locations-save-state[data-state="error"] {
+  color: #a43832;
 }
 
 .aerathon-map__locations-hint {
