@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Lore Vault",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },

@@ -54,7 +54,14 @@ body {
   backdrop-filter: blur(14px);
 
   & > header {
+    display: flex;
+    width: 100%;
+    max-width: 100%;
     min-height: 3.25rem;
+    box-sizing: border-box;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
     margin: 0;
     gap: 0.65rem;
   }
