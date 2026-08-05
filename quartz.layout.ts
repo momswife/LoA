@@ -29,12 +29,18 @@ const siteListBreadcrumbs = Component.Breadcrumbs({
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.PageTitle(),
+    Component.Spacer(),
+    Component.Search(),
+    Component.SiteNav(),
+    Component.Darkmode(),
+    Component.ReaderMode(),
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/momswife/LoA",
-      "Quartz Engine": "https://quartz.jzhao.xyz/",
     },
   }),
 }
@@ -49,53 +55,24 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.HomeGateway(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.MobileOnly(Component.Darkmode()) },
-        { Component: Component.MobileOnly(Component.ReaderMode()) },
-      ],
-    }),
     Component.Explorer({
       folderClickBehavior: "collapse",
     }),
   ],
-  right: [
-    Component.DesktopOnly(
-      Component.Flex({
-        components: [
-          { Component: Component.Darkmode(), align: "start", justify: "start" },
-          { Component: Component.ReaderMode(), align: "start", justify: "start" },
-        ],
-        gap: "0.5rem",
-      }),
-    ),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [siteListBreadcrumbs, Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
     Component.Explorer({
       folderClickBehavior: "collapse",
     }),
