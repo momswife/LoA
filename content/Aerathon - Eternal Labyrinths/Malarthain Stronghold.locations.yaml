@@ -1,0 +1,530 @@
+schemaVersion: 1
+
+map:
+  id: "malarthain-stronghold"
+  label: "Malarthain Stronghold"
+  image: "Aerathon - Eternal Labyrinths/Malarthain Stronghold.png"
+  expectedLocationCount: 72
+  suppliedLocationCount: 70
+  incompleteLocationNumbers:
+    - 71
+    - 72
+
+categories:
+  government-civic-authority: "Government, Civic Records, and Public Authority"
+  trade-markets-food: "Trade, Markets, and Food"
+  freight-travel-gates: "Freight, Travel, and City Gates"
+  military-defense-remembrance: "Military, Defense, and Remembrance"
+  mining-heavy-industry: "Mining and Heavy Industry"
+  forges-artificers-magical-shops: "Forges, Artificers, and Magical Shops"
+  faith-shrines-memorials: "Faith, Shrines, and Memorial Places"
+  healing-gardens-public-welfare: "Healing, Gardens, and Public Welfare"
+  homes-taverns-social-life: "Homes, Taverns, and Social Life"
+  unassigned: "Unassigned"
+
+locations:
+  - id: "malarthain-001"
+    number: 1
+    title: "Blackcrest Keep"
+    category: "government-civic-authority"
+    summary: "Seat of House Cardwell and the political heart of Malarthain."
+    position: null
+
+  - id: "malarthain-002"
+    number: 2
+    title: "Cardwell Archive"
+    category: "government-civic-authority"
+    summary: "Secured repository for royal records, mining grants, family documents, and restricted correspondence."
+    position: null
+
+  - id: "malarthain-003"
+    number: 3
+    title: "Great Granary"
+    category: "trade-markets-food"
+    summary: "Malarthain’s largest protected reserve of imported grain and emergency food."
+    position: null
+
+  - id: "malarthain-004"
+    number: 4
+    title: "Maw Fountain"
+    category: "faith-shrines-memorials"
+    summary: "Old beast-shaped public fountain associated with the Balval family and local offerings."
+    position: null
+
+  - id: "malarthain-005"
+    number: 5
+    title: "Balval Forge"
+    category: "forges-artificers-magical-shops"
+    summary: "Yyna’s family smithy and a respected maker of practical Malarthian metalwork."
+    position: null
+
+  - id: "malarthain-006"
+    number: 6
+    title: "Twofold Anvil"
+    category: "forges-artificers-magical-shops"
+    summary: "Famous enchanted smithy established by twin brothers and known for paired weapons and armor."
+    position: null
+
+  - id: "malarthain-007"
+    number: 7
+    title: "Miners’ Union Hall"
+    category: "government-civic-authority"
+    summary: "Headquarters for labor organizing, accident records, worker disputes, and missing-miner advocacy."
+    position: null
+
+  - id: "malarthain-008"
+    number: 8
+    title: "Stonebreath Infirmary"
+    category: "healing-gardens-public-welfare"
+    summary: "Worker-supported hospital treating mining injuries, burns, lung damage, and magical exposure."
+    position: null
+
+  - id: "malarthain-009"
+    number: 9
+    title: "Ministry House"
+    category: "government-civic-authority"
+    summary: "Malarthain’s permanent MDO liaison office and administrative foothold."
+    position: null
+
+  - id: "malarthain-010"
+    number: 10
+    title: "Red Yard"
+    category: "freight-travel-gates"
+    summary: "Major wagon, cargo, and caravan staging yard near the eastern approach."
+    position: null
+
+  - id: "malarthain-011"
+    number: 11
+    title: "East Weighhouse"
+    category: "freight-travel-gates"
+    summary: "Official weighing station for ore, metalwork, and freight leaving Malarthain."
+    position: null
+
+  - id: "malarthain-012"
+    number: 12
+    title: "Antell House"
+    category: "homes-taverns-social-life"
+    summary: "Solaris’s family home, containing Maela’s workshop and the concealed Sunwarden legacy."
+    position: null
+
+  - id: "malarthain-013"
+    number: 13
+    title: "Hall of Rings"
+    category: "government-civic-authority"
+    summary: "Meeting hall of the Council of Rings and center of civic representation outside the keep."
+    position: null
+
+  - id: "malarthain-014"
+    number: 14
+    title: "The Daylight Tap"
+    category: "homes-taverns-social-life"
+    summary: "Solaris’s tavern and scrying hall, famous for public screenings of old delver runs."
+    position: null
+
+  - id: "malarthain-015"
+    number: 15
+    title: "Whitecoal House"
+    category: "homes-taverns-social-life"
+    summary: "Refined restaurant and private meeting place serving Malarthain’s wealthier residents."
+    position: null
+
+  - id: "malarthain-016"
+    number: 16
+    title: "Acolyte Houses"
+    category: "faith-shrines-memorials"
+    summary: "Residences and instructional halls for priests, attendants, and religious students."
+    position: null
+
+  - id: "malarthain-017"
+    number: 17
+    title: "Sealed Works Office"
+    category: "mining-heavy-industry"
+    summary: "Administrative office responsible for collapsed shafts, abandoned tunnels, and restricted mine access."
+    position: null
+
+  - id: "malarthain-018"
+    number: 18
+    title: "Reserve Warehouse Nine"
+    category: "mining-heavy-industry"
+    summary: "Ostensible military depot secretly used to store and disguise Deep Reserve materials."
+    position: null
+
+  - id: "malarthain-019"
+    number: 19
+    title: "Bread Exchange"
+    category: "trade-markets-food"
+    summary: "Covered trading hall where grain contracts, ration prices, and caravan deliveries are negotiated."
+    position: null
+
+  - id: "malarthain-020"
+    number: 20
+    title: "House of Tempered Oaths"
+    category: "military-defense-remembrance"
+    summary: "Headquarters, training hall, and ceremonial home of Malarthain’s knights."
+    position: null
+
+  - id: "malarthain-021"
+    number: 21
+    title: "Brass Scales"
+    category: "trade-markets-food"
+    summary: "Public weighhouse whose measurements are recognized in Malarthian trade disputes."
+    position: null
+
+  - id: "malarthain-022"
+    number: 22
+    title: "Three-Crust Market"
+    category: "trade-markets-food"
+    summary: "Large daily market selling bread, preserved meats, produce, cheese, and household goods."
+    position: null
+
+  - id: "malarthain-023"
+    number: 23
+    title: "Muster Yard"
+    category: "military-defense-remembrance"
+    summary: "Open assembly ground for guards, militia, patrols, and caravan escorts."
+    position: null
+
+  - id: "malarthain-024"
+    number: 24
+    title: "Oath Gate"
+    category: "freight-travel-gates"
+    summary: "Northwestern ceremonial and military entrance leading toward the Oathwalk."
+    position: null
+
+  - id: "malarthain-025"
+    number: 25
+    title: "Cinder Gate"
+    category: "freight-travel-gates"
+    summary: "Northern entrance used primarily by miners, coal wagons, and industrial traffic."
+    position: null
+
+  - id: "malarthain-026"
+    number: 26
+    title: "Ashroot Remedies"
+    category: "healing-gardens-public-welfare"
+    summary: "Practical potion and medicine shop serving miners, guards, forge workers, and laborers."
+    position: null
+
+  - id: "malarthain-027"
+    number: 27
+    title: "North Lamp Depot"
+    category: "mining-heavy-industry"
+    summary: "Supplier of lamps, oil, rope, masks, tools, and shift equipment for miners."
+    position: null
+
+  - id: "malarthain-028"
+    number: 28
+    title: "Red Tower"
+    category: "government-civic-authority"
+    summary: "Eastern customs tower, watch station, signal post, and inspection center."
+    position: null
+
+  - id: "malarthain-029"
+    number: 29
+    title: "Rail Factors’ Court"
+    category: "freight-travel-gates"
+    summary: "Offices for freight brokers, rail companies, and long-distance shipping agents."
+    position: null
+
+  - id: "malarthain-030"
+    number: 30
+    title: "Red Gate"
+    category: "freight-travel-gates"
+    summary: "Main eastern gate for official visitors, commercial traffic, and regional freight."
+    position: null
+
+  - id: "malarthain-031"
+    number: 31
+    title: "Quiet Runs"
+    category: "faith-shrines-memorials"
+    summary: "Wooded burial paths and memorial grounds used for contemplation and remembrance."
+    position: null
+
+  - id: "malarthain-032"
+    number: 32
+    title: "House of Red Water"
+    category: "healing-gardens-public-welfare"
+    summary: "Temple-connected healing hall combining divine care with traditional medicine."
+    position: null
+
+  - id: "malarthain-033"
+    number: 33
+    title: "Moss & Iron"
+    category: "healing-gardens-public-welfare"
+    summary: "Herbalist blending plant remedies, druidic practices, and protective metal charms."
+    position: null
+
+  - id: "malarthain-034"
+    number: 34
+    title: "Children’s Green"
+    category: "healing-gardens-public-welfare"
+    summary: "Public field where young beastfolk play, train, climb, and learn local traditions."
+    position: null
+
+  - id: "malarthain-035"
+    number: 35
+    title: "Shrine of the Last Hunt"
+    category: "faith-shrines-memorials"
+    summary: "Private memorial to Lady Neve within the Cardwell grounds."
+    position: null
+
+  - id: "malarthain-036"
+    number: 36
+    title: "Old War Hall"
+    category: "military-defense-remembrance"
+    summary: "Historic command chamber preserving records and relics from Malarthain’s past conflicts."
+    position: null
+
+  - id: "malarthain-037"
+    number: 37
+    title: "The Black Ribbon"
+    category: "forges-artificers-magical-shops"
+    summary: "Mourning house creating memorial jewelry, voice-lockets, enchanted portraits, and funeral pieces."
+    position: null
+
+  - id: "malarthain-038"
+    number: 38
+    title: "Winter Yards"
+    category: "freight-travel-gates"
+    summary: "Warehouses storing coal, timber, salt, lamp oil, and cold-season supplies."
+    position: null
+
+  - id: "malarthain-039"
+    number: 39
+    title: "Cold Road Caravanserai"
+    category: "freight-travel-gates"
+    summary: "Fortified lodging compound for mountain caravans and distant traders."
+    position: null
+
+  - id: "malarthain-040"
+    number: 40
+    title: "Sunken Acre"
+    category: "mining-heavy-industry"
+    summary: "Guarded site of the farm swallowed during the 3377 sinkhole disaster."
+    position: null
+
+  - id: "malarthain-041"
+    number: 41
+    title: "Low Lantern Market"
+    category: "trade-markets-food"
+    summary: "Late-night market serving miners and laborers traveling between shifts."
+    position: null
+
+  - id: "malarthain-042"
+    number: 42
+    title: "Hammer Row"
+    category: "mining-heavy-industry"
+    summary: "Street of respected smiths, armorers, metalworkers, and runecrafters."
+    position: null
+
+  - id: "malarthain-043"
+    number: 43
+    title: "Huntgarden"
+    category: "faith-shrines-memorials"
+    summary: "Sacred grove where worshippers leave antlers, teeth, feathers, stones, and broken weapons."
+    position: null
+
+  - id: "malarthain-044"
+    number: 44
+    title: "Emberhall"
+    category: "government-civic-authority"
+    summary: "Underhearth’s communal meeting hall, feast house, and informal neighborhood council."
+    position: null
+
+  - id: "malarthain-045"
+    number: 45
+    title: "Four-Pillar Forge"
+    category: "mining-heavy-industry"
+    summary: "Large dwarven-operated forge specializing in mining tools and structural metalwork."
+    position: null
+
+  - id: "malarthain-046"
+    number: 46
+    title: "Moonless Shelf"
+    category: "forges-artificers-magical-shops"
+    summary: "Underhearth bookshop specializing in spellbooks, scrolls, magical manuals, and delving journals."
+    position: null
+
+  - id: "malarthain-047"
+    number: 47
+    title: "The Quiet Measure"
+    category: "trade-markets-food"
+    summary: "Discreet banking, appraisal, and contract office used by wealthy families and merchants."
+    position: null
+
+  - id: "malarthain-048"
+    number: 48
+    title: "Brightstone & Vale"
+    category: "forges-artificers-magical-shops"
+    summary: "Prestigious gem-setter that enhances weapons, armor, jewelry, and holy symbols."
+    position: null
+
+  - id: "malarthain-049"
+    number: 49
+    title: "Siege Gate and Westwatch Bastion"
+    category: "military-defense-remembrance"
+    summary: "Fortified western entrance guarding old emergency routes and siege-era tunnels."
+    position: null
+
+  - id: "malarthain-050"
+    number: 50
+    title: "The Listening Stone"
+    category: "forges-artificers-magical-shops"
+    summary: "Divination shop examining cursed objects, strange ore, relics, and impressions held in stone or metal."
+    position: null
+
+  - id: "malarthain-051"
+    number: 51
+    title: "The Brass Burrow"
+    category: "forges-artificers-magical-shops"
+    summary: "Artificer workshop producing constructs, prosthetics, mining devices, and experimental delver equipment."
+    position: null
+
+  - id: "malarthain-052"
+    number: 52
+    title: "Griever’s Court"
+    category: "faith-shrines-memorials"
+    summary: "Memorial square for miners and travelers whose bodies were never recovered."
+    position: null
+
+  - id: "malarthain-053"
+    number: 53
+    title: "Nine-Seal Bookroom"
+    category: "forges-artificers-magical-shops"
+    summary: "High-end bookseller carrying histories, maps, theological works, and rare technical manuals."
+    position: null
+
+  - id: "malarthain-054"
+    number: 54
+    title: "South Granaries"
+    category: "trade-markets-food"
+    summary: "Secondary food stores supporting Apple Gate and the southern neighborhoods."
+    position: null
+
+  - id: "malarthain-055"
+    number: 55
+    title: "Harvest Gate, commonly Apple Gate"
+    category: "freight-travel-gates"
+    summary: "Southern entrance through which produce, livestock, and farm goods enter the city."
+    position: null
+
+  - id: "malarthain-056"
+    number: 56
+    title: "Gate Kitchens"
+    category: "trade-markets-food"
+    summary: "Communal kitchens providing inexpensive meals to travelers, laborers, and caravan crews."
+    position: null
+
+  - id: "malarthain-057"
+    number: 57
+    title: "Drovers’ Green"
+    category: "trade-markets-food"
+    summary: "Holding and inspection ground for livestock entering Malarthain."
+    position: null
+
+  - id: "malarthain-058"
+    number: 58
+    title: "Southern Liftworks"
+    category: "mining-heavy-industry"
+    summary: "Network of hoists, cranes, ramps, and platforms moving stone and ore through the southern district."
+    position: null
+
+  - id: "malarthain-059"
+    number: 59
+    title: "Emberglass House"
+    category: "forges-artificers-magical-shops"
+    summary: "Magical glassworks producing arcane lamps, scrying mirrors, lenses, and alchemical vessels."
+    position: null
+
+  - id: "malarthain-060"
+    number: 60
+    title: "Claw & Circlet"
+    category: "forges-artificers-magical-shops"
+    summary: "Luxury jeweler crafting horn bands, mane clasps, tail rings, tusk ornaments, and formal beastfolk jewelry."
+    position: null
+
+  - id: "malarthain-061"
+    number: 61
+    title: "The Open Maw"
+    category: "faith-shrines-memorials"
+    summary: "Malarthain’s principal open-air temple of Malar and the destination of the High Hunt."
+    position: null
+
+  - id: "malarthain-062"
+    number: 62
+    title: "Quarry Bell"
+    category: "mining-heavy-industry"
+    summary: "Massive alarm bell signaling shift changes, collapses, and mine emergencies."
+    position: null
+
+  - id: "malarthain-063"
+    number: 63
+    title: "Manyfire Temple"
+    category: "faith-shrines-memorials"
+    summary: "Shared sanctuary serving gods and faiths outside Malarthain’s dominant Malarite tradition."
+    position: null
+
+  - id: "malarthain-064"
+    number: 64
+    title: "Goldclasp Arcade"
+    category: "trade-markets-food"
+    summary: "Prestigious shopping crescent serving nobles, officers, wealthy merchants, and successful delvers."
+    position: null
+
+  - id: "malarthain-065"
+    number: 65
+    title: "The Foreign Hearth"
+    category: "freight-travel-gates"
+    summary: "Respectable inn commonly used by diplomats, merchants, MDO officers, and visiting delvers."
+    position: null
+
+  - id: "malarthain-066"
+    number: 66
+    title: "The Hollow Key"
+    category: "forges-artificers-magical-shops"
+    summary: "Specialist in magical locks, wards, seals, vaults, and tamper detection."
+    position: null
+
+  - id: "malarthain-067"
+    number: 67
+    title: "The Fallen Anvil"
+    category: "military-defense-remembrance"
+    summary: "Memorial honoring those lost during the Siege of 3371 and the disaster of 3377."
+    position: null
+
+  - id: "malarthain-068"
+    number: 68
+    title: "The Measured Plate"
+    category: "forges-artificers-magical-shops"
+    summary: "Elite armorer known for carefully fitted armor designed around each wearer’s body and movement."
+    position: null
+
+  - id: "malarthain-069"
+    number: 69
+    title: "The Velvet Fang"
+    category: "homes-taverns-social-life"
+    summary: "Licensed brothel, bathhouse, tavern, and discreet social club."
+    position: null
+
+  - id: "malarthain-070"
+    number: 70
+    title: "Claw & Candle"
+    category: "faith-shrines-memorials"
+    summary: "Shop selling Malarite charms, prayer candles, travel blessings, and household wards."
+    position: null
+
+  - id: "malarthain-071"
+    number: 71
+    title: null
+    category: "unassigned"
+    summary: null
+    position: null
+    incomplete: true
+
+  - id: "malarthain-072"
+    number: 72
+    title: null
+    category: "unassigned"
+    summary: null
+    position: null
+    incomplete: true

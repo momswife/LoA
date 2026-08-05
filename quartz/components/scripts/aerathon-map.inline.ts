@@ -1,22 +1,39 @@
 type MapPin = {
   id?: string
-  title: string
+  number?: number
+  title?: string
   type?: string
   typeLabel?: string
   status?: string
   summary?: string
   link?: string
   sourceLink?: string
-  x: number
-  y: number
+  x?: number
+  y?: number
+  incomplete?: boolean
+}
+
+type MapDataset = {
+  schemaVersion: number
+  source: string
+  map: {
+    id: string
+    label: string
+    image: string
+    expectedLocationCount: number
+    suppliedLocationCount: number
+    incompleteLocationNumbers: number[]
+  }
+  categories: Record<string, string>
 }
 
 type MapData = {
   pins: MapPin[]
+  dataset?: MapDataset
 }
 
 const clamp = (value: number, min: number, max: number) => Math.min(max, Math.max(min, value))
-const markerTypes = [
+const defaultMarkerTypes = [
   { id: "country", label: "Countries" },
   { id: "city", label: "Cities" },
   { id: "town", label: "Towns" },
@@ -27,8 +44,7 @@ const markerTypes = [
   { id: "labyrinth", label: "Labyrinths" },
 ]
 
-const markerLabels = new Map(markerTypes.map((type) => [type.id, type.label]))
-const escapeYaml = (value: string) => `"${value.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`
+const yamlString = (value: string) => JSON.stringify(value)
 let nextPinId = 0
 
 function initAerathonMap(map: HTMLElement) {
@@ -36,6 +52,7 @@ function initAerathonMap(map: HTMLElement) {
   map.dataset.initialized = "true"
 
   const data = JSON.parse(map.dataset.map ?? "{}") as MapData
+  const datasetMode = data.dataset !== undefined
   const viewport = map.querySelector<HTMLElement>(".aerathon-map__viewport")
   const stage = map.querySelector<HTMLElement>(".aerathon-map__stage")
   const pinLayer = map.querySelector<HTMLElement>(".aerathon-map__pins")
@@ -53,15 +70,39 @@ function initAerathonMap(map: HTMLElement) {
   const saveButton = map.querySelector<HTMLButtonElement>('[data-map-editor="save"]')
   const cancelButton = map.querySelector<HTMLButtonElement>('[data-map-editor="cancel"]')
   const deleteButton = map.querySelector<HTMLButtonElement>('[data-map-editor="delete"]')
-  const pinsCopyButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-copy")
-  const pinsCloseButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-close")
-  const pinsToggleButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
+  const exportPanel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
+  const exportField = map.querySelector<HTMLTextAreaElement>(".aerathon-map__pins-yaml")
+  const exportCopyButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-copy")
+  const exportCloseButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-close")
+  const exportToggleButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
+  const locationsPanel = map.querySelector<HTMLElement>(".aerathon-map__locations-panel")
+  const locationsList = map.querySelector<HTMLOListElement>(".aerathon-map__locations-list")
+  const locationsSearch = map.querySelector<HTMLInputElement>(".aerathon-map__locations-search")
+  const locationsProgress = map.querySelector<HTMLElement>(".aerathon-map__locations-progress")
+  const locationsHint = map.querySelector<HTMLElement>(".aerathon-map__locations-hint")
+  const locationsToggleButton = map.querySelector<HTMLButtonElement>(
+    ".aerathon-map__locations-toggle",
+  )
+  const locationsCloseButton = map.querySelector<HTMLButtonElement>(
+    ".aerathon-map__locations-close",
+  )
+  const locationFilterButtons = map.querySelectorAll<HTMLButtonElement>(
+    "[data-map-location-filter]",
+  )
   const editMode = new URLSearchParams(window.location.search).has("editPins")
-  const storageKey = `aerathon-map:${window.location.pathname}:pins`
+  const mapId = map.dataset.mapId ?? "default"
+  const storageKey = `aerathon-map:${window.location.pathname}:${mapId}:pins`
+
   map.classList.toggle("is-editing", editMode)
+  map.classList.toggle("has-location-dataset", datasetMode)
 
   if (!viewport || !stage || !pinLayer || !popup || !popupTitle || !popupMeta || !popupSummary) {
     return
+  }
+
+  const markerLabels = new Map(defaultMarkerTypes.map((type) => [type.id, type.label]))
+  for (const [id, label] of Object.entries(data.dataset?.categories ?? {})) {
+    markerLabels.set(id, label)
   }
 
   let scale = 1
@@ -70,6 +111,9 @@ function initAerathonMap(map: HTMLElement) {
   let activePin: HTMLElement | null = null
   let activeEditorPin: { pin: MapPin; button: HTMLButtonElement; isNew: boolean } | null = null
   let editorDraft: MapPin | null = null
+  let pendingPlacement: MapPin | null = null
+  let selectedLocationId: string | null = null
+  let locationFilter: "all" | "placed" | "unplaced" = "all"
   const pointers = new Map<number, PointerEvent>()
   let dragStart: { x: number; y: number; translateX: number; translateY: number } | null = null
   let pinDrag: {
@@ -86,25 +130,58 @@ function initAerathonMap(map: HTMLElement) {
     translateY: number
   } | null = null
 
+  const hasPosition = (pin: MapPin): pin is MapPin & { x: number; y: number } =>
+    typeof pin.x === "number" &&
+    Number.isFinite(pin.x) &&
+    typeof pin.y === "number" &&
+    Number.isFinite(pin.y)
+
+  const displayTitle = (pin: MapPin) =>
+    pin.title || (pin.number !== undefined ? `Location ${pin.number}` : "Untitled pin")
+
   const normalizePin = (pin: MapPin): MapPin => {
-    const type = pin.type ?? "notable-location"
-    return {
+    const type = pin.type ?? (datasetMode ? "unassigned" : "notable-location")
+    const normalized = {
       ...pin,
       id: pin.id ?? `pin-${nextPinId++}`,
       type,
-      typeLabel: markerLabels.get(type),
+      typeLabel: markerLabels.get(type) ?? type,
     }
+    if (!hasPosition(normalized)) {
+      delete normalized.x
+      delete normalized.y
+    }
+    return normalized
   }
 
+  const sourcePins = (data.pins ?? []).map(normalizePin)
   try {
     const savedPins = localStorage.getItem(storageKey)
     if (savedPins) {
-      data.pins = (JSON.parse(savedPins) as MapPin[]).map(normalizePin)
+      const saved = (JSON.parse(savedPins) as MapPin[]).map(normalizePin)
+      if (datasetMode) {
+        const savedById = new Map(saved.map((pin) => [pin.id, pin]))
+        data.pins = sourcePins.map((sourcePin) => {
+          const draft = savedById.get(sourcePin.id)
+          return normalizePin(
+            draft
+              ? {
+                  ...sourcePin,
+                  ...draft,
+                  id: sourcePin.id,
+                  number: sourcePin.number,
+                }
+              : sourcePin,
+          )
+        })
+      } else {
+        data.pins = saved
+      }
     } else {
-      data.pins = (data.pins ?? []).map(normalizePin)
+      data.pins = sourcePins
     }
   } catch {
-    data.pins = (data.pins ?? []).map(normalizePin)
+    data.pins = sourcePins
   }
 
   const persistPins = () => {
@@ -119,25 +196,27 @@ function initAerathonMap(map: HTMLElement) {
     const minX = Math.min(0, viewportRect.width - naturalWidth * scale)
     const minY = Math.min(0, viewportRect.height - naturalHeight * scale)
 
-    if (naturalWidth * scale <= viewportRect.width) {
-      translateX = (viewportRect.width - naturalWidth * scale) / 2
-    } else {
-      translateX = clamp(translateX, minX, 0)
-    }
-
-    if (naturalHeight * scale <= viewportRect.height) {
-      translateY = (viewportRect.height - naturalHeight * scale) / 2
-    } else {
-      translateY = clamp(translateY, minY, 0)
-    }
+    translateX =
+      naturalWidth * scale <= viewportRect.width
+        ? (viewportRect.width - naturalWidth * scale) / 2
+        : clamp(translateX, minX, 0)
+    translateY =
+      naturalHeight * scale <= viewportRect.height
+        ? (viewportRect.height - naturalHeight * scale) / 2
+        : clamp(translateY, minY, 0)
 
     stage.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`
   }
 
-  const moveLegendToSidebar = () => {
-    if (!legend) return
+  const movePanelsToSidebar = () => {
     const rightSidebar = document.querySelector<HTMLElement>(".right.sidebar")
-    if (rightSidebar && window.matchMedia("(min-width: 1200px)").matches) {
+    if (!rightSidebar || !window.matchMedia("(min-width: 1200px)").matches) return
+
+    if (editMode && datasetMode && locationsPanel) {
+      locationsPanel.classList.add("aerathon-map__locations-panel--sidebar")
+      rightSidebar.prepend(locationsPanel)
+      if (legend instanceof HTMLDetailsElement) legend.open = false
+    } else if (legend) {
       legend.classList.add("aerathon-map__legend--sidebar")
       rightSidebar.prepend(legend)
     }
@@ -148,61 +227,112 @@ function initAerathonMap(map: HTMLElement) {
 
   const pinToYaml = (pin: MapPin) => {
     const lines = [
-      `  - title: ${escapeYaml(pin.title || "New Pin")}`,
+      `  - title: ${yamlString(displayTitle(pin))}`,
       `    type: ${pin.type ?? "notable-location"}`,
     ]
-    if (pin.status) lines.push(`    status: ${escapeYaml(pin.status)}`)
-    lines.push(`    x: ${pin.x.toFixed(2)}`)
-    lines.push(`    y: ${pin.y.toFixed(2)}`)
+    if (pin.status) lines.push(`    status: ${yamlString(pin.status)}`)
+    if (hasPosition(pin)) {
+      lines.push(`    x: ${pin.x.toFixed(2)}`)
+      lines.push(`    y: ${pin.y.toFixed(2)}`)
+    }
     if (pin.sourceLink || pin.link)
-      lines.push(`    link: ${escapeYaml(pin.sourceLink ?? pin.link!)}`)
-    if (pin.summary) lines.push(`    summary: ${escapeYaml(pin.summary)}`)
+      lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
+    if (pin.summary) lines.push(`    summary: ${yamlString(pin.summary)}`)
     return lines.join("\n")
   }
 
+  const datasetToYaml = () => {
+    const dataset = data.dataset!
+    const ordered = [...data.pins].sort(
+      (a, b) => (a.number ?? Number.MAX_SAFE_INTEGER) - (b.number ?? Number.MAX_SAFE_INTEGER),
+    )
+    const incomplete = ordered.filter((pin) => pin.incomplete || !pin.title || !pin.summary)
+    const incompleteNumbers = incomplete
+      .map((pin) => pin.number)
+      .filter((number): number is number => number !== undefined)
+    const lines = [
+      `schemaVersion: ${dataset.schemaVersion}`,
+      "",
+      "map:",
+      `  id: ${yamlString(dataset.map.id)}`,
+      `  label: ${yamlString(dataset.map.label)}`,
+      `  image: ${yamlString(dataset.map.image)}`,
+      `  expectedLocationCount: ${dataset.map.expectedLocationCount}`,
+      `  suppliedLocationCount: ${ordered.length - incomplete.length}`,
+    ]
+
+    if (incompleteNumbers.length === 0) {
+      lines.push("  incompleteLocationNumbers: []")
+    } else {
+      lines.push("  incompleteLocationNumbers:")
+      for (const number of incompleteNumbers) lines.push(`    - ${number}`)
+    }
+
+    lines.push("", "categories:")
+    for (const [id, label] of Object.entries(dataset.categories)) {
+      lines.push(`  ${id}: ${yamlString(label)}`)
+    }
+
+    lines.push("", "locations:")
+    for (const pin of ordered) {
+      const isIncomplete = pin.incomplete || !pin.title || !pin.summary
+      lines.push(`  - id: ${yamlString(pin.id ?? `location-${pin.number ?? "unknown"}`)}`)
+      if (pin.number !== undefined) lines.push(`    number: ${pin.number}`)
+      lines.push(`    title: ${pin.title ? yamlString(pin.title) : "null"}`)
+      lines.push(`    category: ${yamlString(pin.type ?? "unassigned")}`)
+      lines.push(`    summary: ${pin.summary ? yamlString(pin.summary) : "null"}`)
+      if (pin.status) lines.push(`    status: ${yamlString(pin.status)}`)
+      if (pin.sourceLink || pin.link) {
+        lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
+      }
+      if (hasPosition(pin)) {
+        lines.push("    position:")
+        lines.push(`      x: ${pin.x.toFixed(2)}`)
+        lines.push(`      y: ${pin.y.toFixed(2)}`)
+      } else {
+        lines.push("    position: null")
+      }
+      if (isIncomplete) lines.push("    incomplete: true")
+      lines.push("")
+    }
+
+    return lines.join("\n").trimEnd() + "\n"
+  }
+
+  const exportedYaml = () =>
+    datasetMode
+      ? datasetToYaml()
+      : `pins:\n${data.pins.filter(hasPosition).map(pinToYaml).join("\n")}\n`
+
   const copyText = (text: string) => {
     console.info(text)
-    void navigator.clipboard?.writeText(text)
+    void navigator.clipboard?.writeText(text).catch(() => undefined)
   }
 
   const openExportPanel = () => {
-    const panel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
-    if (!panel || !editMode) return
-    panel.hidden = false
-    panel.removeAttribute("hidden")
-    panel.style.display = ""
-    panel.classList.add("is-open")
+    if (!exportPanel || !editMode) return
+    exportPanel.hidden = false
+    exportPanel.removeAttribute("hidden")
+    exportPanel.style.display = ""
+    exportPanel.classList.add("is-open")
   }
 
   const closeExportPanel = () => {
-    const panel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
-    if (!panel) return
-    panel.hidden = true
-    panel.setAttribute("hidden", "")
-    panel.style.display = "none"
-    panel.classList.remove("is-open")
-  }
-
-  const getPinsYamlField = () => map.querySelector<HTMLTextAreaElement>(".aerathon-map__pins-yaml")
-
-  const pinsToYaml = () => `pins:\n${data.pins.map(pinToYaml).join("\n")}`
-
-  const copyPinSnippet = (pin: MapPin) => {
-    const snippet = pinToYaml(pin)
-    console.info(snippet)
-    void navigator.clipboard?.writeText(snippet)
+    if (!exportPanel) return
+    exportPanel.hidden = true
+    exportPanel.setAttribute("hidden", "")
+    exportPanel.style.display = "none"
+    exportPanel.classList.remove("is-open")
   }
 
   const updateExportPanel = (showPanel = false) => {
-    const field = getPinsYamlField()
-    if (!field) return
-    field.value = pinsToYaml()
+    if (!exportField) return
+    exportField.value = exportedYaml()
     if (showPanel) openExportPanel()
   }
 
   const syncExportPanel = () => {
-    if (!editMode) return
-    updateExportPanel()
+    if (editMode) updateExportPanel()
   }
 
   const positionFromPointer = (event: PointerEvent) => {
@@ -235,10 +365,17 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const syncButton = (pin: MapPin, button: HTMLButtonElement) => {
+    if (!hasPosition(pin)) {
+      button.hidden = true
+      return
+    }
+    button.hidden = false
     button.style.left = `${pin.x}%`
     button.style.top = `${pin.y}%`
     button.dataset.type = pin.type ?? "notable-location"
-    button.setAttribute("aria-label", pin.title || "Untitled pin")
+    button.textContent = pin.number === undefined ? "" : String(pin.number)
+    const numberLabel = pin.number === undefined ? "" : `Location ${pin.number}: `
+    button.setAttribute("aria-label", `${numberLabel}${displayTitle(pin)}`)
     button.style.removeProperty("--aerathon-marker-color")
   }
 
@@ -264,78 +401,46 @@ function initAerathonMap(map: HTMLElement) {
     activeEditorPin = { pin, button, isNew }
     editorDraft = { ...pin }
     editor.dataset.pinId = pin.id
+    setEditorValue("number", pin.number)
     setEditorValue("title", pin.title)
-    setEditorValue("type", pin.type ?? "notable-location")
+    setEditorValue("type", pin.type ?? (datasetMode ? "unassigned" : "notable-location"))
     setEditorValue("status", pin.status)
     setEditorValue("sourceLink", pin.sourceLink ?? pin.link)
     setEditorValue("summary", pin.summary)
-    setEditorValue("x", pin.x.toFixed(2))
-    setEditorValue("y", pin.y.toFixed(2))
+    setEditorValue("x", hasPosition(pin) ? pin.x.toFixed(2) : undefined)
+    setEditorValue("y", hasPosition(pin) ? pin.y.toFixed(2) : undefined)
     openEditorElement()
+  }
+
+  const readCoordinate = (field: string, fallback: number | undefined) => {
+    const raw = getField<HTMLInputElement>(field)?.value.trim()
+    if (!raw) return fallback
+    const parsed = Number(raw)
+    return Number.isFinite(parsed) ? clamp(parsed, 0, 100) : fallback
   }
 
   const readEditorDraft = () => {
     const target = findEditorTarget()
     if (!editorDraft && target) editorDraft = { ...target.pin }
     if (!editorDraft) return null
-    const type = getField<HTMLSelectElement>("type")?.value || "notable-location"
+    const type =
+      getField<HTMLSelectElement>("type")?.value ||
+      (datasetMode ? "unassigned" : "notable-location")
+    const title = getField<HTMLInputElement>("title")?.value.trim() || undefined
+    const summary = getField<HTMLTextAreaElement>("summary")?.value.trim() || undefined
     return {
       ...editorDraft,
-      title: getField<HTMLInputElement>("title")?.value.trim() || "Untitled Pin",
+      title: datasetMode ? title : title || "Untitled Pin",
       type,
-      typeLabel: markerLabels.get(type),
+      typeLabel: markerLabels.get(type) ?? type,
       status: getField<HTMLInputElement>("status")?.value.trim() || undefined,
       sourceLink: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
       link: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
-      summary: getField<HTMLTextAreaElement>("summary")?.value.trim() || undefined,
-      x: clamp(Number(getField<HTMLInputElement>("x")?.value) || editorDraft.x, 0, 100),
-      y: clamp(Number(getField<HTMLInputElement>("y")?.value) || editorDraft.y, 0, 100),
+      summary,
+      x: readCoordinate("x", editorDraft.x),
+      y: readCoordinate("y", editorDraft.y),
+      incomplete: datasetMode ? !title || !summary : undefined,
     }
-  }
-
-  const previewActivePinFromEditor = () => {
-    const target = findEditorTarget()
-    if (!target) return
-    const draft = readEditorDraft()
-    if (!draft) return
-    syncButton(draft, target.button)
-    showPopup(draft, target.button)
-  }
-
-  const saveActivePinFromEditor = () => {
-    console.info("[Aerathon map] Save pin clicked")
-    const target = findEditorTarget()
-    try {
-      if (!target) return
-      const draft = readEditorDraft()
-      if (!draft) return
-      Object.assign(target.pin, draft, { id: target.pin.id })
-      target.button.classList.remove("aerathon-map__pin--draft")
-      syncButton(target.pin, target.button)
-      persistPins()
-      syncExportPanel()
-    } finally {
-      hidePopup()
-      closeEditor()
-      activeEditorPin = null
-      editorDraft = null
-    }
-  }
-
-  const cancelActivePinEdit = () => {
-    const target = findEditorTarget()
-    if (!target) return
-    if (target.isNew) {
-      data.pins = data.pins.filter((candidate) => candidate !== target.pin)
-      target.button.remove()
-      hidePopup()
-    } else {
-      syncButton(target.pin, target.button)
-      showPopup(target.pin, target.button)
-    }
-    closeEditor()
-    activeEditorPin = null
-    editorDraft = null
   }
 
   const showPopup = (pin: MapPin, button: HTMLElement) => {
@@ -343,8 +448,9 @@ function initAerathonMap(map: HTMLElement) {
     activePin = button
     button.setAttribute("aria-expanded", "true")
 
-    popupTitle.textContent = pin.title
-    const meta = [pin.typeLabel ?? pin.type, pin.status].filter(Boolean).join(" / ")
+    popupTitle.textContent = displayTitle(pin)
+    const number = pin.number === undefined ? undefined : `#${pin.number}`
+    const meta = [number, pin.typeLabel ?? pin.type, pin.status].filter(Boolean).join(" / ")
     popupMeta.textContent = meta
     popupMeta.hidden = meta.length === 0
     popupSummary.textContent = pin.summary ?? ""
@@ -358,6 +464,147 @@ function initAerathonMap(map: HTMLElement) {
     }
 
     popup.hidden = false
+  }
+
+  const renderLocationList = () => {
+    if (!datasetMode || !locationsList) return
+    const query = locationsSearch?.value.trim().toLocaleLowerCase() ?? ""
+    const ordered = [...data.pins].sort(
+      (a, b) => (a.number ?? Number.MAX_SAFE_INTEGER) - (b.number ?? Number.MAX_SAFE_INTEGER),
+    )
+    const placedCount = ordered.filter(hasPosition).length
+    if (locationsProgress) locationsProgress.textContent = `${placedCount}/${ordered.length} placed`
+    if (locationsHint) {
+      locationsHint.textContent = pendingPlacement
+        ? `Click the map to place #${pendingPlacement.number ?? "?"} ${displayTitle(pendingPlacement)}.`
+        : "Select an unplaced location, then click the map to position it. Drag placed pins to move them."
+    }
+
+    locationsList.replaceChildren()
+    for (const pin of ordered) {
+      const placed = hasPosition(pin)
+      if (locationFilter === "placed" && !placed) continue
+      if (locationFilter === "unplaced" && placed) continue
+      const searchable =
+        `${pin.number ?? ""} ${displayTitle(pin)} ${pin.typeLabel ?? pin.type ?? ""}`.toLocaleLowerCase()
+      if (query && !searchable.includes(query)) continue
+
+      const item = document.createElement("li")
+      const button = document.createElement("button")
+      const number = document.createElement("span")
+      const title = document.createElement("span")
+      const state = document.createElement("span")
+      button.type = "button"
+      button.className = "aerathon-map__location-button"
+      button.dataset.locationId = pin.id
+      button.dataset.placement = placed ? "placed" : "unplaced"
+      button.dataset.type = pin.type ?? "unassigned"
+      button.classList.toggle("is-selected", selectedLocationId === pin.id)
+      number.className = "aerathon-map__location-number"
+      number.textContent = pin.number === undefined ? "—" : String(pin.number)
+      title.className = "aerathon-map__location-title"
+      title.textContent = displayTitle(pin)
+      state.className = "aerathon-map__location-state"
+      state.textContent = pin.incomplete ? "Needs details" : placed ? "Placed" : "Unplaced"
+      button.append(number, title, state)
+      button.addEventListener("click", () => selectLocation(pin))
+      item.append(button)
+      locationsList.append(item)
+    }
+  }
+
+  const selectLocation = (pin: MapPin) => {
+    selectedLocationId = pin.id ?? null
+    if (!hasPosition(pin)) {
+      pendingPlacement = pin
+      hidePopup()
+      closeEditor()
+      activeEditorPin = null
+      editorDraft = null
+      map.classList.add("is-placing-location")
+    } else {
+      pendingPlacement = null
+      map.classList.remove("is-placing-location")
+      const button = pinLayer.querySelector<HTMLButtonElement>(`[data-pin-id="${pin.id}"]`)
+      if (button) {
+        showPopup(pin, button)
+        openEditor(pin, button)
+        button.focus()
+      }
+    }
+    renderLocationList()
+  }
+
+  const openLocationsPanel = () => {
+    if (!locationsPanel || !editMode || !datasetMode) return
+    locationsPanel.hidden = false
+    locationsPanel.removeAttribute("hidden")
+    locationsPanel.style.display = ""
+    locationsPanel.classList.add("is-open")
+    renderLocationList()
+  }
+
+  const closeLocationsPanel = () => {
+    if (!locationsPanel) return
+    locationsPanel.hidden = true
+    locationsPanel.setAttribute("hidden", "")
+    locationsPanel.style.display = "none"
+    locationsPanel.classList.remove("is-open")
+  }
+
+  const previewActivePinFromEditor = () => {
+    const target = findEditorTarget()
+    if (!target) return
+    const draft = readEditorDraft()
+    if (!draft) return
+    syncButton(draft, target.button)
+    showPopup(draft, target.button)
+  }
+
+  const saveActivePinFromEditor = () => {
+    const target = findEditorTarget()
+    try {
+      if (!target) return
+      const draft = readEditorDraft()
+      if (!draft) return
+      Object.assign(target.pin, draft, { id: target.pin.id, number: target.pin.number })
+      target.button.classList.remove("aerathon-map__pin--draft")
+      syncButton(target.pin, target.button)
+      persistPins()
+      renderLocationList()
+      syncExportPanel()
+    } finally {
+      hidePopup()
+      closeEditor()
+      activeEditorPin = null
+      editorDraft = null
+    }
+  }
+
+  const cancelActivePinEdit = () => {
+    const target = findEditorTarget()
+    if (!target) return
+    if (target.isNew) {
+      if (datasetMode) {
+        delete target.pin.x
+        delete target.pin.y
+        selectedLocationId = null
+      } else {
+        data.pins = data.pins.filter((candidate) => candidate !== target.pin)
+      }
+      target.button.remove()
+      hidePopup()
+      persistPins()
+    } else if (editorDraft) {
+      Object.assign(target.pin, editorDraft)
+      syncButton(target.pin, target.button)
+      showPopup(target.pin, target.button)
+    }
+    closeEditor()
+    activeEditorPin = null
+    editorDraft = null
+    renderLocationList()
+    syncExportPanel()
   }
 
   const zoomAt = (nextScale: number, clientX: number, clientY: number) => {
@@ -417,8 +664,10 @@ function initAerathonMap(map: HTMLElement) {
         suppressNextPinClick = false
         return
       }
+      selectedLocationId = pin.id ?? null
       showPopup(pin, button)
       openEditor(pin, button)
+      renderLocationList()
     })
     button.addEventListener("pointerdown", (event) => {
       if (!editMode) return
@@ -440,8 +689,15 @@ function initAerathonMap(map: HTMLElement) {
       if (!pinDrag || pinDrag.pointerId !== event.pointerId) return
       if (pinDrag.moved) {
         suppressNextPinClick = true
-        copyPinSnippet(pin)
-        openEditor(pin, button)
+        if (activeEditorPin?.pin === pin) {
+          setEditorValue("x", pin.x?.toFixed(2))
+          setEditorValue("y", pin.y?.toFixed(2))
+          if (editorDraft) editorDraft = { ...editorDraft, x: pin.x, y: pin.y }
+        }
+        persistPins()
+        renderLocationList()
+        syncExportPanel()
+        showPopup(pin, button)
       }
       pinDrag = null
     })
@@ -472,14 +728,27 @@ function initAerathonMap(map: HTMLElement) {
 
     data.pins.push(pin)
     const button = createPinButton(pin, true)
-    copyPinSnippet(pin)
     showPopup(pin, button)
     openEditor(pin, button, true)
   }
 
+  const placePendingLocation = (event: PointerEvent) => {
+    if (!pendingPlacement) return
+    const pin = pendingPlacement
+    const next = positionFromPointer(event)
+    pin.x = next.x
+    pin.y = next.y
+    pendingPlacement = null
+    map.classList.remove("is-placing-location")
+    const button = createPinButton(pin, true)
+    showPopup(pin, button)
+    openEditor(pin, button, true)
+    renderLocationList()
+  }
+
   pinLayer.replaceChildren()
-  for (const pin of data.pins ?? []) {
-    createPinButton(pin)
+  for (const pin of data.pins) {
+    if (hasPosition(pin)) createPinButton(pin)
   }
 
   viewport.addEventListener("wheel", (event) => {
@@ -491,14 +760,21 @@ function initAerathonMap(map: HTMLElement) {
   viewport.addEventListener("pointerdown", (event) => {
     if (
       (event.target as HTMLElement).closest(
-        ".aerathon-map__pin, .aerathon-map__popup, .aerathon-map__controls, .aerathon-map__legend, .aerathon-map__editor, .aerathon-map__pins-panel",
+        ".aerathon-map__pin, .aerathon-map__popup, .aerathon-map__controls, .aerathon-map__legend, .aerathon-map__editor, .aerathon-map__pins-panel, .aerathon-map__locations-panel",
       )
     ) {
       return
     }
     hidePopup()
 
-    if (editMode && event.button === 1) {
+    if (editMode && datasetMode && pendingPlacement && event.button === 0) {
+      event.preventDefault()
+      event.stopPropagation()
+      placePendingLocation(event)
+      return
+    }
+
+    if (editMode && !datasetMode && event.button === 1) {
       event.preventDefault()
       createDraftPin(event)
       return
@@ -524,7 +800,7 @@ function initAerathonMap(map: HTMLElement) {
     }
   })
   viewport.addEventListener("auxclick", (event) => {
-    if (editMode && event.button === 1) event.preventDefault()
+    if (editMode && !datasetMode && event.button === 1) event.preventDefault()
   })
 
   viewport.addEventListener("pointermove", (event) => {
@@ -585,49 +861,76 @@ function initAerathonMap(map: HTMLElement) {
     cancelActivePinEdit()
   })
   deleteButton?.addEventListener("click", () => {
-    console.info("[Aerathon map] Delete pin clicked")
     const target = findEditorTarget()
     if (!target) return
     const { pin, button } = target
-    data.pins = data.pins.filter((candidate) => candidate !== pin)
+    if (datasetMode) {
+      delete pin.x
+      delete pin.y
+      selectedLocationId = null
+    } else {
+      data.pins = data.pins.filter((candidate) => candidate !== pin)
+    }
     button.remove()
     hidePopup()
     closeEditor()
     activeEditorPin = null
     editorDraft = null
     persistPins()
+    renderLocationList()
     syncExportPanel()
   })
-  pinsCopyButton?.addEventListener("click", () => {
+  exportCopyButton?.addEventListener("click", () => {
     updateExportPanel()
-    const field = getPinsYamlField()
-    if (field) copyText(field.value)
+    if (exportField) copyText(exportField.value)
   })
-  pinsCloseButton?.addEventListener("click", (event) => {
+  exportCloseButton?.addEventListener("click", (event) => {
     event.preventDefault()
     event.stopPropagation()
     closeExportPanel()
   })
-
-  const handleExportToggle = (event: Event) => {
+  exportToggleButton?.addEventListener("click", (event) => {
     event.preventDefault()
     event.stopPropagation()
     updateExportPanel(true)
-    openExportPanel()
-  }
-
-  pinsToggleButton?.addEventListener("pointerdown", handleExportToggle)
-  pinsToggleButton?.addEventListener("click", handleExportToggle)
-  map.addEventListener("click", (event) => {
-    if ((event.target as HTMLElement).closest(".aerathon-map__pins-toggle")) {
-      handleExportToggle(event)
-    }
   })
+  locationsToggleButton?.addEventListener("click", (event) => {
+    event.preventDefault()
+    event.stopPropagation()
+    openLocationsPanel()
+  })
+  locationsCloseButton?.addEventListener("click", (event) => {
+    event.preventDefault()
+    event.stopPropagation()
+    closeLocationsPanel()
+  })
+  locationsSearch?.addEventListener("input", renderLocationList)
+  for (const button of locationFilterButtons) {
+    button.addEventListener("click", () => {
+      const filter = button.dataset.mapLocationFilter
+      if (filter === "all" || filter === "placed" || filter === "unplaced") {
+        locationFilter = filter
+      }
+      for (const filterButton of locationFilterButtons) {
+        filterButton.setAttribute(
+          "aria-pressed",
+          filterButton.dataset.mapLocationFilter === locationFilter ? "true" : "false",
+        )
+      }
+      renderLocationList()
+    })
+  }
 
   const handleDocumentKeydown = (event: KeyboardEvent) => {
     if (event.key === "Escape") {
       hidePopup()
       closeExportPanel()
+      if (pendingPlacement) {
+        pendingPlacement = null
+        selectedLocationId = null
+        map.classList.remove("is-placing-location")
+        renderLocationList()
+      }
     }
   }
   document.addEventListener("keydown", handleDocumentKeydown)
@@ -638,7 +941,9 @@ function initAerathonMap(map: HTMLElement) {
   resizeObserver.observe(stage)
   window.addCleanup(() => resizeObserver.disconnect())
 
-  moveLegendToSidebar()
+  movePanelsToSidebar()
+  if (editMode && datasetMode) openLocationsPanel()
+  renderLocationList()
   syncExportPanel()
   applyTransform()
 }

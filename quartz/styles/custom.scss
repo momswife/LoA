@@ -173,13 +173,16 @@ footer {
 
 @media all and ($desktop) {
   .page {
-    max-width: min(100vw, 1480px);
+    max-width: min(100vw, 1760px);
     margin: 0 auto;
   }
 
   .page > #quartz-body {
-    grid-template-columns: minmax(15rem, 18rem) minmax(0, 48rem) minmax(13rem, 16rem);
-    column-gap: clamp(1.5rem, 3vw, 3.25rem);
+    grid-template-columns:
+      minmax(15rem, 1fr)
+      minmax(0, clamp(48rem, 50vw, 56rem))
+      minmax(13rem, 1fr);
+    column-gap: clamp(1.25rem, 2vw, 2.5rem);
     justify-content: center;
 
     & .sidebar {
@@ -188,13 +191,13 @@ footer {
     }
 
     & .sidebar.left {
-      padding-left: clamp(1rem, 2vw, 2rem);
+      padding-left: clamp(0.5rem, 1vw, 1rem);
       padding-right: 0;
     }
 
     & .sidebar.right {
       padding-left: 0;
-      padding-right: clamp(1rem, 2vw, 2rem);
+      padding-right: clamp(0.5rem, 1vw, 1rem);
 
       & .flex-component {
         justify-content: flex-start;

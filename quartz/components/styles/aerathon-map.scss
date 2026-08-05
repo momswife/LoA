@@ -31,12 +31,14 @@
   cursor: default;
 }
 
-.aerathon-map__pins-toggle {
+.aerathon-map__pins-toggle,
+.aerathon-map__locations-toggle {
   display: none;
   width: auto;
 }
 
-.aerathon-map.is-editing .aerathon-map__pins-toggle {
+.aerathon-map.is-editing .aerathon-map__pins-toggle,
+.aerathon-map.is-editing .aerathon-map__locations-toggle {
   display: inline-block;
 }
 
@@ -108,6 +110,11 @@
   cursor: grabbing;
 }
 
+.aerathon-map.is-placing-location .aerathon-map__viewport,
+.aerathon-map.is-placing-location .aerathon-map__viewport:active {
+  cursor: crosshair;
+}
+
 .aerathon-map__stage {
   position: absolute;
   inset: 0 auto auto 0;
@@ -132,10 +139,12 @@
 
 .aerathon-map__pin {
   position: absolute;
-  width: 0.42rem;
-  height: 0.42rem;
+  display: grid;
+  width: 1.35rem;
+  height: 1.35rem;
+  place-items: center;
   padding: 0;
-  border: 1px solid var(--light);
+  border: 2px solid var(--light);
   border-radius: 999px;
   background: var(--aerathon-marker-color, var(--secondary));
   box-shadow:
@@ -143,7 +152,14 @@
     0 0.15rem 0.35rem color-mix(in srgb, var(--dark) 32%, transparent);
   color: var(--light);
   cursor: pointer;
+  font: 700 0.56rem/1 var(--bodyFont);
   transform: translate(-50%, -50%);
+}
+
+.aerathon-map__pin:empty {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-width: 1px;
 }
 
 .aerathon-map__pin--draft {
@@ -203,6 +219,56 @@
 .aerathon-map__pin[data-type="labyrinth"],
 .aerathon-map__legend-dot[data-type="labyrinth"] {
   --aerathon-marker-color: #202124;
+}
+
+.aerathon-map__pin[data-type="government-civic-authority"],
+.aerathon-map__legend-dot[data-type="government-civic-authority"] {
+  --aerathon-marker-color: #a43832;
+}
+
+.aerathon-map__pin[data-type="trade-markets-food"],
+.aerathon-map__legend-dot[data-type="trade-markets-food"] {
+  --aerathon-marker-color: #c9692b;
+}
+
+.aerathon-map__pin[data-type="freight-travel-gates"],
+.aerathon-map__legend-dot[data-type="freight-travel-gates"] {
+  --aerathon-marker-color: #b58b20;
+}
+
+.aerathon-map__pin[data-type="military-defense-remembrance"],
+.aerathon-map__legend-dot[data-type="military-defense-remembrance"] {
+  --aerathon-marker-color: #252525;
+}
+
+.aerathon-map__pin[data-type="mining-heavy-industry"],
+.aerathon-map__legend-dot[data-type="mining-heavy-industry"] {
+  --aerathon-marker-color: #795548;
+}
+
+.aerathon-map__pin[data-type="forges-artificers-magical-shops"],
+.aerathon-map__legend-dot[data-type="forges-artificers-magical-shops"] {
+  --aerathon-marker-color: #7651a8;
+}
+
+.aerathon-map__pin[data-type="faith-shrines-memorials"],
+.aerathon-map__legend-dot[data-type="faith-shrines-memorials"] {
+  --aerathon-marker-color: #4e8b56;
+}
+
+.aerathon-map__pin[data-type="healing-gardens-public-welfare"],
+.aerathon-map__legend-dot[data-type="healing-gardens-public-welfare"] {
+  --aerathon-marker-color: #357ca5;
+}
+
+.aerathon-map__pin[data-type="homes-taverns-social-life"],
+.aerathon-map__legend-dot[data-type="homes-taverns-social-life"] {
+  --aerathon-marker-color: #a95d82;
+}
+
+.aerathon-map__pin[data-type="unassigned"],
+.aerathon-map__legend-dot[data-type="unassigned"] {
+  --aerathon-marker-color: #77736b;
 }
 
 .aerathon-map__popup {
@@ -400,6 +466,229 @@
   outline-offset: 2px;
 }
 
+.aerathon-map__locations-panel {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 3;
+  display: flex;
+  width: min(22rem, calc(100% - 1.5rem));
+  max-height: calc(100% - 1.5rem);
+  flex-direction: column;
+  padding: 0.8rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 96%, transparent);
+  box-shadow: 0 0.8rem 2rem color-mix(in srgb, var(--dark) 20%, transparent);
+  color: var(--darkgray);
+  cursor: default;
+}
+
+.aerathon-map__locations-panel,
+.aerathon-map__locations-panel * {
+  box-sizing: border-box;
+}
+
+.aerathon-map__locations-panel[hidden] {
+  display: none;
+}
+
+.aerathon-map__locations-header {
+  position: relative;
+  padding-right: 2rem;
+}
+
+.aerathon-map__locations-header h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.aerathon-map__locations-progress,
+.aerathon-map__locations-hint {
+  margin: 0.25rem 0 0;
+  color: var(--gray);
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.aerathon-map__locations-hint {
+  color: var(--secondary);
+  font-weight: 700;
+}
+
+.aerathon-map__locations-close {
+  position: absolute;
+  top: -0.35rem;
+  right: -0.35rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--darkgray);
+  cursor: pointer;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.aerathon-map__locations-close:hover,
+.aerathon-map__locations-close:focus-visible {
+  background: var(--lightgray);
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+.aerathon-map__locations-search {
+  width: 100%;
+  margin-top: 0.65rem;
+  padding: 0.45rem 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--darkgray);
+  font: 400 0.85rem/1.25 var(--bodyFont);
+}
+
+.aerathon-map__locations-search:focus-visible {
+  border-color: var(--secondary);
+  outline: 2px solid var(--textHighlight);
+  outline-offset: 2px;
+}
+
+.aerathon-map__locations-filters {
+  display: flex;
+  gap: 0.35rem;
+  margin: 0.55rem 0;
+}
+
+.aerathon-map__locations-filters [data-map-location-filter] {
+  padding: 0.35rem 0.5rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 50%, transparent);
+  border-radius: 999px;
+  background: var(--light);
+  color: var(--darkgray);
+  cursor: pointer;
+  font: 700 0.72rem/1 var(--bodyFont);
+}
+
+.aerathon-map__locations-filters [data-map-location-filter][aria-pressed="true"] {
+  border-color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 14%, var(--light));
+  color: var(--secondary);
+}
+
+.aerathon-map__locations-list {
+  display: grid;
+  min-height: 0;
+  gap: 0.3rem;
+  margin: 0;
+  padding: 0.05rem 0.15rem 0.05rem 0;
+  overflow-y: auto;
+  list-style: none;
+  overscroll-behavior: contain;
+}
+
+.aerathon-map__location-item {
+  min-width: 0;
+}
+
+.aerathon-map__location-button {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1.8rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.42rem 0.5rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 32%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 96%, var(--dark) 4%);
+  color: var(--darkgray);
+  cursor: pointer;
+  text-align: left;
+}
+
+.aerathon-map__location-button:hover,
+.aerathon-map__location-button:focus-visible,
+.aerathon-map__location-button.is-selected {
+  border-color: var(--secondary);
+  outline: 2px solid var(--textHighlight);
+  outline-offset: 1px;
+}
+
+.aerathon-map__location-number {
+  display: grid;
+  width: 1.65rem;
+  height: 1.65rem;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--aerathon-marker-color, var(--secondary));
+  color: var(--light);
+  font: 700 0.68rem/1 var(--bodyFont);
+}
+
+.aerathon-map__location-title {
+  min-width: 0;
+  overflow: hidden;
+  font: 700 0.78rem/1.25 var(--bodyFont);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.aerathon-map__location-state {
+  color: var(--gray);
+  font: 700 0.68rem/1 var(--bodyFont);
+  text-transform: uppercase;
+}
+
+.aerathon-map__location-button[data-placement="unplaced"] {
+  border-style: dashed;
+}
+
+.aerathon-map__location-button[data-placement="unplaced"] .aerathon-map__location-number {
+  background: var(--gray);
+}
+
+.aerathon-map__location-button[data-placement="placed"] .aerathon-map__location-number {
+  background: var(--aerathon-marker-color, var(--secondary));
+}
+
+.aerathon-map__location-button[data-type="government-civic-authority"] {
+  --aerathon-marker-color: #a43832;
+}
+
+.aerathon-map__location-button[data-type="trade-markets-food"] {
+  --aerathon-marker-color: #c9692b;
+}
+
+.aerathon-map__location-button[data-type="freight-travel-gates"] {
+  --aerathon-marker-color: #b58b20;
+}
+
+.aerathon-map__location-button[data-type="military-defense-remembrance"] {
+  --aerathon-marker-color: #252525;
+}
+
+.aerathon-map__location-button[data-type="mining-heavy-industry"] {
+  --aerathon-marker-color: #795548;
+}
+
+.aerathon-map__location-button[data-type="forges-artificers-magical-shops"] {
+  --aerathon-marker-color: #7651a8;
+}
+
+.aerathon-map__location-button[data-type="faith-shrines-memorials"] {
+  --aerathon-marker-color: #4e8b56;
+}
+
+.aerathon-map__location-button[data-type="healing-gardens-public-welfare"] {
+  --aerathon-marker-color: #357ca5;
+}
+
+.aerathon-map__location-button[data-type="homes-taverns-social-life"] {
+  --aerathon-marker-color: #a95d82;
+}
+
 .aerathon-map__pins-panel {
   position: absolute;
   left: 1rem;
@@ -495,6 +784,17 @@
   box-shadow: none;
 }
 
+.right.sidebar > .aerathon-map__locations-panel--sidebar {
+  position: sticky;
+  top: 5.5rem;
+  left: auto;
+  z-index: 0;
+  width: 100%;
+  max-height: calc(100vh - 7rem);
+  margin-bottom: 1rem;
+  box-shadow: none;
+}
+
 @media all and (max-width: 700px) {
   .aerathon-map__viewport {
     height: min(72vh, 34rem);
@@ -528,5 +828,13 @@
     bottom: 0.75rem;
     left: 0.75rem;
     width: calc(100% - 1.5rem);
+  }
+
+  .aerathon-map__locations-panel {
+    top: 3.35rem;
+    right: 0.5rem;
+    left: 0.5rem;
+    width: auto;
+    max-height: calc(100% - 3.85rem);
   }
 }

@@ -122,7 +122,7 @@ It records the world as it is moving.
 
 ## Explore Locations
 
-[[Aerathon - Eternal Labyrinths/Explore Locations|Open the interactive map of Aerathon.]]
+[[Aerathon - Eternal Labyrinths/Explore Locations|Open the interactive map of Malarthain Stronghold.]]
 
 ---
 

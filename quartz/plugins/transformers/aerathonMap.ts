@@ -1,5 +1,7 @@
+import fs from "fs"
+import path from "path"
 import { Root, Code, Html } from "mdast"
-import yaml from "js-yaml"
+import YAML from "yaml"
 import { SKIP, visit } from "unist-util-visit"
 import { QuartzTransformerPlugin } from "../types"
 import {
@@ -16,35 +18,69 @@ import script from "../../components/scripts/aerathon-map.inline"
 import style from "../../components/styles/aerathon-map.scss"
 
 type RawMapPin = {
+  id?: unknown
+  number?: unknown
   title?: unknown
   type?: unknown
+  category?: unknown
   status?: unknown
   summary?: unknown
   link?: unknown
   x?: unknown
   y?: unknown
+  position?: unknown
+  incomplete?: unknown
 }
 
 type RawMapConfig = {
+  label?: unknown
   image?: unknown
   height?: unknown
+  locations?: unknown
   pins?: unknown
 }
 
+type RawLocationDataset = {
+  schemaVersion?: unknown
+  map?: unknown
+  categories?: unknown
+  locations?: unknown
+}
+
 type MapPin = {
-  title: string
+  id?: string
+  number?: number
+  title?: string
   type?: string
   typeLabel?: string
   status?: string
   summary?: string
   link?: RelativeURL
   sourceLink?: string
-  x: number
-  y: number
+  x?: number
+  y?: number
+  incomplete?: boolean
+}
+
+type MapDatasetMeta = {
+  schemaVersion: number
+  source: string
+  map: {
+    id: string
+    label: string
+    image: string
+    expectedLocationCount: number
+    suppliedLocationCount: number
+    incompleteLocationNumbers: number[]
+  }
+  categories: Record<string, string>
 }
 
 const clamp = (value: number, min: number, max: number) => Math.min(max, Math.max(min, value))
 const isString = (value: unknown): value is string => typeof value === "string" && value.length > 0
+const isRecord = (value: unknown): value is Record<string, unknown> =>
+  typeof value === "object" && value !== null && !Array.isArray(value)
+
 const markerTypes = [
   { id: "country", label: "Countries" },
   { id: "city", label: "Cities" },
@@ -105,68 +141,226 @@ function normalizeMarkerType(value: unknown) {
   return markerTypeAliases.get(value.trim().toLowerCase()) ?? markerTypeAliases.get("location")!
 }
 
-function normalizePin(pin: RawMapPin, currentSlug: FullSlug, allSlugs: FullSlug[]): MapPin | null {
+function normalizeCategories(value: unknown): Record<string, string> {
+  if (!isRecord(value)) {
+    return Object.fromEntries(markerTypes.map((type) => [type.id, type.label]))
+  }
+
+  return Object.fromEntries(
+    Object.entries(value).filter((entry): entry is [string, string] => isString(entry[1])),
+  )
+}
+
+function normalizeLink(
+  value: unknown,
+  currentSlug: FullSlug,
+  allSlugs: FullSlug[],
+): Pick<MapPin, "link" | "sourceLink"> {
+  if (!isString(value)) return {}
+  return {
+    link: transformLink(currentSlug, value, { strategy: "shortest", allSlugs }),
+    sourceLink: value,
+  }
+}
+
+function normalizeInlinePin(
+  pin: RawMapPin,
+  currentSlug: FullSlug,
+  allSlugs: FullSlug[],
+): MapPin | null {
   const x = toNumber(pin.x)
   const y = toNumber(pin.y)
   if (!isString(pin.title) || x === undefined || y === undefined) return null
   const markerType = normalizeMarkerType(pin.type)
 
   return {
+    id: isString(pin.id) ? pin.id : undefined,
+    number: toNumber(pin.number),
     title: pin.title,
     type: markerType.id,
     typeLabel: markerType.label,
     status: isString(pin.status) ? pin.status : undefined,
     summary: isString(pin.summary) ? pin.summary : undefined,
-    link: isString(pin.link)
-      ? transformLink(currentSlug, pin.link, { strategy: "shortest", allSlugs })
-      : undefined,
-    sourceLink: isString(pin.link) ? pin.link : undefined,
+    ...normalizeLink(pin.link, currentSlug, allSlugs),
     x: clamp(x, 0, 100),
     y: clamp(y, 0, 100),
   }
 }
 
-function renderMap(config: RawMapConfig, currentSlug: FullSlug, allSlugs: FullSlug[]) {
-  const image = isString(config.image) ? config.image : undefined
-  if (!image) return `<p><strong>Aerathon map error:</strong> missing image.</p>`
+function normalizeDatasetLocation(
+  location: RawMapPin,
+  categories: Record<string, string>,
+  currentSlug: FullSlug,
+  allSlugs: FullSlug[],
+): MapPin | null {
+  const number = toNumber(location.number)
+  const id = isString(location.id)
+    ? location.id
+    : number !== undefined
+      ? `location-${String(number).padStart(3, "0")}`
+      : undefined
+  if (!id) return null
+
+  const category = isString(location.category) ? location.category : "unassigned"
+  const position = isRecord(location.position) ? location.position : undefined
+  const x = toNumber(position?.x)
+  const y = toNumber(position?.y)
+  const hasPosition = x !== undefined && y !== undefined
+
+  return {
+    id,
+    number,
+    title: isString(location.title) ? location.title : undefined,
+    type: category,
+    typeLabel: categories[category] ?? category,
+    status: isString(location.status) ? location.status : undefined,
+    summary: isString(location.summary) ? location.summary : undefined,
+    ...normalizeLink(location.link, currentSlug, allSlugs),
+    x: hasPosition ? clamp(x, 0, 100) : undefined,
+    y: hasPosition ? clamp(y, 0, 100) : undefined,
+    incomplete:
+      location.incomplete === true || !isString(location.title) || !isString(location.summary),
+  }
+}
+
+function readLocationDataset(source: string, contentDirectory: string): RawLocationDataset {
+  const contentRoot = path.resolve(contentDirectory)
+  const absolutePath = path.resolve(contentRoot, source)
+  const relativePath = path.relative(contentRoot, absolutePath)
+  if (relativePath.startsWith("..") || path.isAbsolute(relativePath)) {
+    throw new Error("locations file must be inside the content directory")
+  }
+
+  const parsed = YAML.parse(fs.readFileSync(absolutePath, "utf8"))
+  if (!isRecord(parsed)) throw new Error("locations file must contain a YAML object")
+  return parsed as RawLocationDataset
+}
+
+function renderMap(
+  config: RawMapConfig,
+  currentSlug: FullSlug,
+  allSlugs: FullSlug[],
+  contentDirectory: string,
+) {
+  let rawDataset: RawLocationDataset | undefined
+  const locationsSource = isString(config.locations) ? config.locations : undefined
+  if (locationsSource) {
+    try {
+      rawDataset = readLocationDataset(locationsSource, contentDirectory)
+    } catch (error) {
+      const message = error instanceof Error ? error.message : "unknown locations error"
+      return `<p><strong>Map error:</strong> ${escapeHtml(message)}.</p>`
+    }
+  }
+
+  const rawDatasetMap = isRecord(rawDataset?.map) ? rawDataset.map : {}
+  const image = isString(config.image)
+    ? config.image
+    : isString(rawDatasetMap.image)
+      ? rawDatasetMap.image
+      : undefined
+  if (!image) return `<p><strong>Map error:</strong> missing image.</p>`
 
   const imageSlug = slugifyFilePath(image as FilePath)
   const imageUrl = resolveRelative(currentSlug, imageSlug)
-  const pins = Array.isArray(config.pins)
-    ? config.pins
-        .map((pin) => normalizePin(pin as RawMapPin, currentSlug, allSlugs))
-        .filter((pin): pin is MapPin => pin !== null)
-    : []
+  const label = isString(config.label)
+    ? config.label
+    : isString(rawDatasetMap.label)
+      ? rawDatasetMap.label
+      : "Map"
+  const categories = normalizeCategories(rawDataset?.categories)
+
+  const pins = rawDataset
+    ? Array.isArray(rawDataset.locations)
+      ? rawDataset.locations
+          .map((location) =>
+            normalizeDatasetLocation(location as RawMapPin, categories, currentSlug, allSlugs),
+          )
+          .filter((pin): pin is MapPin => pin !== null)
+      : []
+    : Array.isArray(config.pins)
+      ? config.pins
+          .map((pin) => normalizeInlinePin(pin as RawMapPin, currentSlug, allSlugs))
+          .filter((pin): pin is MapPin => pin !== null)
+      : []
+
+  const dataset: MapDatasetMeta | undefined = rawDataset
+    ? {
+        schemaVersion: toNumber(rawDataset.schemaVersion) ?? 1,
+        source: locationsSource!,
+        map: {
+          id: isString(rawDatasetMap.id) ? rawDatasetMap.id : imageSlug,
+          label,
+          image,
+          expectedLocationCount: toNumber(rawDatasetMap.expectedLocationCount) ?? pins.length,
+          suppliedLocationCount:
+            toNumber(rawDatasetMap.suppliedLocationCount) ??
+            pins.filter((pin) => !pin.incomplete).length,
+          incompleteLocationNumbers: Array.isArray(rawDatasetMap.incompleteLocationNumbers)
+            ? rawDatasetMap.incompleteLocationNumbers
+                .map(toNumber)
+                .filter((number): number is number => number !== undefined)
+            : pins
+                .filter((pin) => pin.incomplete && pin.number !== undefined)
+                .map((pin) => pin.number!),
+        },
+        categories,
+      }
+    : undefined
 
   const height = isString(config.height) ? config.height : "min(78vh, 760px)"
-  const mapData = escapeAttribute(JSON.stringify({ pins }))
-  const legend = markerTypes
+  const mapData = escapeAttribute(JSON.stringify({ pins, dataset }))
+  const mapId = dataset?.map.id ?? imageSlug
+  const legend = Object.entries(categories)
     .map(
-      (type) =>
-        `<li><span class="aerathon-map__legend-dot" data-type="${type.id}"></span>${type.label}</li>`,
+      ([id, categoryLabel]) =>
+        `<li><span class="aerathon-map__legend-dot" data-type="${escapeAttribute(id)}"></span>${escapeHtml(categoryLabel)}</li>`,
     )
     .join("")
+  const categoryOptions = Object.entries(categories)
+    .map(
+      ([id, categoryLabel]) =>
+        `<option value="${escapeAttribute(id)}">${escapeHtml(categoryLabel)}</option>`,
+    )
+    .join("")
+  const exportLabel = dataset ? "Export locations" : "Export pins"
 
   return `<div class="aerathon-map" style="--aerathon-map-height: ${escapeAttribute(
     height,
-  )}" data-map='${mapData}'>
-  <div class="aerathon-map__viewport" aria-label="Interactive Aerathon map">
-    <div class="aerathon-map__controls" aria-label="Map zoom controls">
+  )}" data-map='${mapData}' data-map-id="${escapeAttribute(mapId)}">
+  <div class="aerathon-map__viewport" aria-label="Interactive map of ${escapeAttribute(label)}">
+    <div class="aerathon-map__controls" aria-label="Map controls">
       <button class="aerathon-map__control" type="button" data-map-zoom="in" aria-label="Zoom in">+</button>
       <button class="aerathon-map__control" type="button" data-map-zoom="out" aria-label="Zoom out">-</button>
       <button class="aerathon-map__control" type="button" data-map-zoom="reset" aria-label="Reset map view">Reset</button>
-      <button class="aerathon-map__control aerathon-map__pins-toggle" type="button" data-map-export="toggle">Export pins</button>
+      <button class="aerathon-map__control aerathon-map__locations-toggle" type="button" data-map-locations="toggle">Locations</button>
+      <button class="aerathon-map__control aerathon-map__pins-toggle" type="button" data-map-export="toggle">${exportLabel}</button>
     </div>
-    <details class="aerathon-map__legend" open>
+    <details class="aerathon-map__legend">
       <summary>Map Key</summary>
       <ul>${legend}</ul>
     </details>
     <div class="aerathon-map__stage">
       <img class="aerathon-map__image" src="${escapeAttribute(
         imageUrl,
-      )}" alt="Map of Aerathon" draggable="false" />
+      )}" alt="Map of ${escapeAttribute(label)}" draggable="false" />
       <div class="aerathon-map__pins"></div>
     </div>
+    <section class="aerathon-map__locations-panel" hidden aria-label="Map locations">
+      <button class="aerathon-map__locations-close" type="button" data-map-locations="close" aria-label="Close locations">&times;</button>
+      <div class="aerathon-map__locations-header">
+        <h3>Locations</h3>
+        <span class="aerathon-map__locations-progress"></span>
+      </div>
+      <input class="aerathon-map__locations-search" type="search" placeholder="Search locations" aria-label="Search locations" />
+      <div class="aerathon-map__locations-filters" aria-label="Filter locations">
+        <button type="button" data-map-location-filter="all" aria-pressed="true">All</button>
+        <button type="button" data-map-location-filter="unplaced" aria-pressed="false">Unplaced</button>
+        <button type="button" data-map-location-filter="placed" aria-pressed="false">Placed</button>
+      </div>
+      <p class="aerathon-map__locations-hint">Select an unplaced location, then click the map to position it.</p>
+      <ol class="aerathon-map__locations-list"></ol>
+    </section>
     <section class="aerathon-map__popup" hidden aria-live="polite">
       <button class="aerathon-map__popup-close" type="button" aria-label="Close map pin details">&times;</button>
       <h3 class="aerathon-map__popup-title"></h3>
@@ -174,14 +368,13 @@ function renderMap(config: RawMapConfig, currentSlug: FullSlug, allSlugs: FullSl
       <p class="aerathon-map__popup-summary"></p>
       <a class="aerathon-map__popup-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Open record</a>
     </section>
-    <section class="aerathon-map__editor" hidden aria-label="Map pin editor">
-      <button class="aerathon-map__editor-close" type="button" data-map-editor="cancel" aria-label="Cancel editing pin">&times;</button>
-      <h3>Pin Editor</h3>
+    <section class="aerathon-map__editor" hidden aria-label="Map location editor">
+      <button class="aerathon-map__editor-close" type="button" data-map-editor="cancel" aria-label="Cancel editing location">&times;</button>
+      <h3>Location Editor</h3>
+      <label>Number <input data-map-field="number" inputmode="numeric" readonly /></label>
       <label>Title <input data-map-field="title" /></label>
-      <label>Type
-        <select data-map-field="type">
-          ${markerTypes.map((type) => `<option value="${type.id}">${type.label}</option>`).join("")}
-        </select>
+      <label>Category
+        <select data-map-field="type">${categoryOptions}</select>
       </label>
       <label>Status <input data-map-field="status" /></label>
       <label>Link <input data-map-field="sourceLink" /></label>
@@ -192,13 +385,13 @@ function renderMap(config: RawMapConfig, currentSlug: FullSlug, allSlugs: FullSl
       </div>
       <div class="aerathon-map__editor-actions">
         <button type="button" data-map-editor="save">Save</button>
-        <button type="button" data-map-editor="delete">Delete</button>
+        <button type="button" data-map-editor="delete">${dataset ? "Unplace" : "Delete"}</button>
       </div>
     </section>
-    <section class="aerathon-map__pins-panel" hidden aria-label="Export map pins">
-      <button class="aerathon-map__pins-close" type="button" data-map-export="close" aria-label="Close exported pins">&times;</button>
+    <section class="aerathon-map__pins-panel" hidden aria-label="Export map data">
+      <button class="aerathon-map__pins-close" type="button" data-map-export="close" aria-label="Close exported map data">&times;</button>
       <div class="aerathon-map__pins-panel-header">
-        <h3>Export Pins</h3>
+        <h3>${exportLabel}</h3>
         <button class="aerathon-map__pins-copy" type="button" data-map-export="copy">Copy</button>
       </div>
       <textarea class="aerathon-map__pins-yaml" data-map-export="yaml" readonly></textarea>
@@ -219,16 +412,19 @@ export const AerathonMap: QuartzTransformerPlugin = () => {
 
               let config: RawMapConfig
               try {
-                config = (yaml.load(node.value) ?? {}) as RawMapConfig
-              } catch (error) {
-                config = {
-                  image: undefined,
-                }
+                config = (YAML.parse(node.value) ?? {}) as RawMapConfig
+              } catch {
+                config = { image: undefined }
               }
 
               const htmlNode: Html = {
                 type: "html",
-                value: renderMap(config, file.data.slug!, ctx.allSlugs ?? []),
+                value: renderMap(
+                  config,
+                  file.data.slug!,
+                  ctx.allSlugs ?? [],
+                  String(ctx.argv.directory),
+                ),
               }
 
               parent.children.splice(index, 1, htmlNode)
