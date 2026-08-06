@@ -17,13 +17,13 @@
 
 .aerathon-map__controls {
   position: absolute;
-  top: 0.75rem;
-  right: 0.75rem;
+  top: 1rem;
+  right: 1rem;
   z-index: 3;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem;
-  padding: 0.35rem;
+  gap: 0.25rem;
+  padding: 0.25rem;
   border: 1px solid color-mix(in srgb, var(--dark) 14%, transparent);
   border-radius: 999px;
   background: color-mix(in srgb, var(--light) 88%, transparent);
@@ -51,15 +51,15 @@
 }
 
 .aerathon-map__control {
-  min-width: 2rem;
-  height: 2rem;
-  padding: 0 0.55rem;
+  min-width: 1.7rem;
+  height: 1.7rem;
+  padding: 0 0.45rem;
   border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
   border-radius: 999px;
   background: var(--light);
   color: var(--darkgray);
   cursor: pointer;
-  font: 700 0.85rem/1 var(--bodyFont);
+  font: 700 0.75rem/1 var(--bodyFont);
 }
 
 .aerathon-map__control:hover,
@@ -71,11 +71,11 @@
 
 .aerathon-map__legend {
   position: absolute;
-  top: 0.75rem;
+  top: 1rem;
   right: auto;
-  left: 0.75rem;
+  left: 1rem;
   z-index: 3;
-  width: min(15rem, calc(100% - 1.5rem));
+  width: min(13rem, calc(100% - 2rem));
   border: 1px solid color-mix(in srgb, var(--dark) 14%, transparent);
   border-radius: 8px;
   background: color-mix(in srgb, var(--light) 90%, transparent);
@@ -85,16 +85,17 @@
 }
 
 .aerathon-map__legend summary {
-  padding: 0.55rem 0.7rem;
+  padding: 0.42rem 0.58rem;
   cursor: pointer;
+  font-size: 0.85rem;
   font-weight: 700;
 }
 
 .aerathon-map__legend ul {
   display: grid;
-  gap: 0.35rem;
+  gap: 0.3rem;
   margin: 0;
-  padding: 0 0.7rem 0.7rem;
+  padding: 0 0.58rem 0.58rem;
   list-style: none;
 }
 
@@ -102,7 +103,7 @@
   display: flex;
   align-items: center;
   gap: 0.45rem;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   line-height: 1.25;
 }
 
@@ -138,7 +139,10 @@
   width: 100%;
   height: auto;
   max-width: none;
+  margin: 0;
   backface-visibility: hidden;
+  border-radius: 0;
+  box-shadow: none;
   user-select: none;
   -webkit-user-drag: none;
 }
@@ -1071,14 +1075,14 @@
   }
 
   .aerathon-map__controls {
-    top: 0.5rem;
-    right: 0.5rem;
+    top: 0.65rem;
+    right: 0.65rem;
   }
 
   .aerathon-map__legend {
-    top: 0.5rem;
+    top: 0.65rem;
     right: auto;
-    left: 0.5rem;
+    left: 0.65rem;
   }
 
   .aerathon-map__pins-panel {
