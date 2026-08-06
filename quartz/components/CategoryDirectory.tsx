@@ -8,6 +8,10 @@ import style from "./styles/categoryDirectory.scss"
 import script from "./scripts/categoryDirectory.inline"
 
 type DirectoryNode = FileTrieNode<BuildTimeTrieData>
+type RecordGroup = {
+  title: string
+  files: DirectoryNode[]
+}
 
 function sortedChildren(node: DirectoryNode): DirectoryNode[] {
   return [...node.children]
@@ -44,43 +48,47 @@ function FileLink({ node, currentSlug }: { node: DirectoryNode; currentSlug: Ful
   )
 }
 
-function FolderOptions({ node, currentSlug }: { node: DirectoryNode; currentSlug: FullSlug }) {
+function collectRecordGroups(node: DirectoryNode, parents: string[] = []): RecordGroup[] {
   const children = sortedChildren(node)
-  const count = recordCount(node)
+  const directFiles = children.filter((child) => !child.isFolder)
+  const groups: RecordGroup[] = []
 
+  if (directFiles.length > 0) {
+    groups.push({
+      title: parents.length > 0 ? parents.join(" / ") : "Files",
+      files: directFiles,
+    })
+  }
+
+  for (const folder of children.filter((child) => child.isFolder)) {
+    groups.push(...collectRecordGroups(folder, [...parents, folder.displayName]))
+  }
+
+  return groups
+}
+
+function RecordGroupView({ group, currentSlug }: { group: RecordGroup; currentSlug: FullSlug }) {
   return (
-    <li class="category-dialog__subcategory">
-      <div class="category-dialog__subcategory-heading">
-        <div>
-          <strong>{node.displayName}</strong>
-          <span>
-            {count} {count === 1 ? "record" : "records"}
-          </span>
-        </div>
-        <a class="internal" href={nodeHref(currentSlug, node)}>
-          Open
-          <span aria-hidden="true">→</span>
-        </a>
-      </div>
-      {children.length > 0 && (
-        <ul class="category-dialog__options">
-          {children.map((child) =>
-            child.isFolder ? (
-              <FolderOptions node={child} currentSlug={currentSlug} />
-            ) : (
-              <FileLink node={child} currentSlug={currentSlug} />
-            ),
-          )}
-        </ul>
-      )}
-    </li>
+    <section class="category-dialog__group">
+      <header>
+        <h4>{group.title}</h4>
+        <span>
+          {group.files.length} {group.files.length === 1 ? "file" : "files"}
+        </span>
+      </header>
+      <ul class="category-dialog__records">
+        {group.files.map((file) => (
+          <FileLink node={file} currentSlug={currentSlug} />
+        ))}
+      </ul>
+    </section>
   )
 }
 
 function CategoryLauncher({ node, currentSlug }: { node: DirectoryNode; currentSlug: FullSlug }) {
   const id = dialogId(node)
   const count = recordCount(node)
-  const children = sortedChildren(node)
+  const groups = collectRecordGroups(node)
 
   return (
     <div class="category-directory__entry">
@@ -121,20 +129,12 @@ function CategoryLauncher({ node, currentSlug }: { node: DirectoryNode; currentS
             </button>
           </header>
           <div class="category-dialog__body">
-            <a class="category-dialog__open internal" href={nodeHref(currentSlug, node)}>
-              Open category page
-              <span aria-hidden="true">→</span>
-            </a>
-            {children.length > 0 ? (
-              <ul class="category-dialog__options">
-                {children.map((child) =>
-                  child.isFolder ? (
-                    <FolderOptions node={child} currentSlug={currentSlug} />
-                  ) : (
-                    <FileLink node={child} currentSlug={currentSlug} />
-                  ),
-                )}
-              </ul>
+            {groups.length > 0 ? (
+              <div class="category-dialog__groups">
+                {groups.map((group) => (
+                  <RecordGroupView group={group} currentSlug={currentSlug} />
+                ))}
+              </div>
             ) : (
               <p class="category-dialog__empty">No records have been filed in this category yet.</p>
             )}

@@ -71,22 +71,24 @@
 }
 
 .document-masthead__facts {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
   gap: 0;
   margin: 1.15rem 0 0;
   padding: 0.75rem 0;
   border-top: 1px solid var(--lorevault-divider);
-  border-bottom: 1px solid var(--lorevault-divider);
 
   > div {
+    display: flex;
     min-width: 0;
-    flex: 1 1 9rem;
-    padding: 0.08rem 0.85rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0.08rem 0.75rem;
     border-left: 1px solid var(--lorevault-border);
+    text-align: center;
 
     &:first-child {
-      padding-left: 0;
       border-left: 0;
     }
   }

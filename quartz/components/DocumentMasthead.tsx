@@ -28,7 +28,7 @@ type MastheadFrontmatter = Record<string, unknown> & {
 
 const ContentMetadata = ContentMeta({
   showReadingTime: true,
-  showComma: false,
+  showComma: true,
 }) as unknown as QuartzComponent
 
 function textValue(value: unknown): string | undefined {
@@ -88,6 +88,7 @@ export default (() => {
     const frontmatter = (fileData.frontmatter ?? {}) as MastheadFrontmatter
     const title = textValue(frontmatter.title)
     if (!title) return null
+    const isOverview = fileData.slug?.endsWith("/overview") ?? false
 
     const summary = textValue(
       frontmatter.summary ?? frontmatter.description ?? fileData.description,
@@ -131,7 +132,7 @@ export default (() => {
           </div>
         )}
         <h1 class="article-title">{title}</h1>
-        {summary && <p class="document-masthead__summary">{summary}</p>}
+        {summary && !isOverview && <p class="document-masthead__summary">{summary}</p>}
         <ContentMetadata {...props} />
         {facts.length > 0 && (
           <dl class="document-masthead__facts">
