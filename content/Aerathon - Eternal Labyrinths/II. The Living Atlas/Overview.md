@@ -2,6 +2,17 @@
 title: II. The Living Atlas
 description: A current reference to Aerathon's places, peoples, powers, and institutions.
 quartz-properties: false
+recordType: Division Overview
+status: Active Record
+classification: Public Reference
+revision: Continuously Maintained
+facts:
+  Record Scope: Present Day
+  Revision Cycle: Continuous
+  Maintained By: Ministry of Delving Operations
+related:
+  - "[[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/Overview|Annals & Antiquities]]"
+  - "[[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Overview|Monthly Ledger]]"
 ---
 
 > _Where the Annals reconstruct the past, the Living Atlas monitors the present._

@@ -58,6 +58,10 @@ interface BreadcrumbOptions {
    * Short labels for specific crumb paths or display names.
    */
   labelMap: Record<string, string>
+  /**
+   * Optional destination overrides for specific folder slugs.
+   */
+  pathMap: Record<string, FullSlug>
 }
 
 const defaultOptions: BreadcrumbOptions = {
@@ -72,6 +76,7 @@ const defaultOptions: BreadcrumbOptions = {
   itemsAfterCollapse: 2,
   collapseLabel: "...",
   labelMap: {},
+  pathMap: {},
 }
 
 function getBreadcrumbTitle(
@@ -98,10 +103,19 @@ function formatCrumb(
   baseSlug: FullSlug,
   currentSlug: SimpleSlug,
   labelMap: Record<string, string>,
+  pathMap: Record<string, FullSlug>,
 ): CrumbData {
+  const canonicalSlug = currentSlug.replace(/\/(?:index)?\/?$/, "")
+  const mappedPath =
+    pathMap[currentSlug] ??
+    pathMap[canonicalSlug] ??
+    Object.entries(pathMap).find(
+      ([source]) => source.replace(/\/(?:index)?\/?$/, "") === canonicalSlug,
+    )?.[1]
+
   return {
     displayName: getBreadcrumbTitle(displayName, frontmatterTitle, labelMap, currentSlug),
-    path: resolveRelative(baseSlug, currentSlug),
+    path: resolveRelative(baseSlug, mappedPath ?? currentSlug),
   }
 }
 
@@ -147,7 +161,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
 
     const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
       const frontmatterTitle = options.resolveFrontmatterTitle
-        ? node.data?.frontmatter?.breadcrumbTitle
+        ? (node.data?.frontmatter?.breadcrumbTitle ?? node.data?.frontmatter?.title)
         : undefined
       const crumb = formatCrumb(
         node.displayName,
@@ -155,6 +169,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         fileData.slug!,
         simplifySlug(node.slug),
         options.labelMap,
+        options.pathMap,
       )
       if (idx === 0) {
         crumb.displayName = options.rootName
@@ -182,25 +197,32 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     const visibleCrumbs = collapseCrumbs(crumbs, options)
 
     return (
-      <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">
-        {visibleCrumbs.map((crumb, index) => (
-          <div
-            class={[
-              "breadcrumb-element",
-              crumb.isCollapsed ? "collapsed" : undefined,
-              crumb.isCurrent ? "current" : undefined,
-            ]
-              .filter((c): c is string => Boolean(c))
-              .join(" ")}
-          >
-            {crumb.path && (!options.disableFolderLinks || !crumb.isFolder || crumb.isRoot) ? (
-              <a href={crumb.path}>{crumb.displayName}</a>
-            ) : (
-              <span aria-current={crumb.isCurrent ? "page" : undefined}>{crumb.displayName}</span>
-            )}
-            {index !== visibleCrumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
-          </div>
-        ))}
+      <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="Breadcrumb">
+        <ol class="breadcrumb-list">
+          {visibleCrumbs.map((crumb, index) => (
+            <li
+              class={[
+                "breadcrumb-element",
+                crumb.isRoot ? "root" : undefined,
+                crumb.isCollapsed ? "collapsed" : undefined,
+                crumb.isCurrent ? "current" : undefined,
+              ]
+                .filter((c): c is string => Boolean(c))
+                .join(" ")}
+            >
+              {crumb.path && (!options.disableFolderLinks || !crumb.isFolder || crumb.isRoot) ? (
+                <a href={crumb.path}>{crumb.displayName}</a>
+              ) : (
+                <span aria-current={crumb.isCurrent ? "page" : undefined}>{crumb.displayName}</span>
+              )}
+              {index !== visibleCrumbs.length - 1 && (
+                <span class="breadcrumb-separator" aria-hidden="true">
+                  {options.spacerSymbol}
+                </span>
+              )}
+            </li>
+          ))}
+        </ol>
       </nav>
     )
   }

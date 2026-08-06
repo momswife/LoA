@@ -1,39 +1,95 @@
 @use "../../styles/variables.scss" as *;
 
 .breadcrumb-container {
-  margin: 0;
-  margin-top: 0.75rem;
+  max-width: 100%;
+  margin: 0 0 0.85rem;
   padding: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.breadcrumb-list {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  gap: 0.5rem;
+  width: max-content;
+  min-width: 100%;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .breadcrumb-element {
-  p {
-    margin: 0;
-    margin-left: 0.5rem;
-    padding: 0;
-    line-height: normal;
-  }
-
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
-
-  span {
-    color: var(--secondary);
-    font-weight: $semiBoldWeight;
-  }
+  flex: 0 0 auto;
+  gap: 0.25rem;
 
   a,
-  span {
-    text-decoration: none;
+  > span:not(.breadcrumb-separator) {
+    display: inline-flex;
+    min-height: 1.8rem;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    color: var(--gray);
+    font-size: 0.76rem;
+    font-weight: $semiBoldWeight;
+    line-height: 1.2;
+    white-space: nowrap;
   }
 
-  span {
-    cursor: default;
+  a {
+    text-decoration: none;
+
+    &:hover {
+      border-color: var(--lorevault-border);
+      background: var(--lorevault-surface);
+      color: var(--secondary);
+    }
+  }
+
+  &.root a::before {
+    content: "⌂";
+    margin-right: 0.35rem;
+    color: var(--secondary);
+    font-size: 0.9rem;
+    line-height: 1;
+  }
+
+  &.current > span {
+    border-color: var(--lorevault-border);
+    background: var(--lorevault-surface);
+    color: var(--darkgray);
+  }
+
+  &.collapsed > span {
+    min-width: 1.8rem;
+    justify-content: center;
+  }
+
+  .breadcrumb-separator {
+    color: var(--gray);
+    font-size: 0.75rem;
+    opacity: 0.55;
+  }
+}
+
+@media all and ($mobile) {
+  .breadcrumb-container {
+    margin-bottom: 0.7rem;
+  }
+
+  .breadcrumb-list {
+    min-width: max-content;
+    padding-right: 0.75rem;
   }
 }

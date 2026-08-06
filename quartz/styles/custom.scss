@@ -258,7 +258,7 @@ article {
 }
 
 .center > hr {
-  background-color: var(--lorevault-divider);
+  display: none;
 }
 
 .page-header {
@@ -266,7 +266,19 @@ article {
   border-bottom: 1px solid var(--lorevault-divider);
 }
 
-.breadcrumbs {
+.page-header:has(.document-masthead) {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+// Older records commonly repeat their title as the first in-body H1. The
+// document masthead now owns that heading while preserving quotes and subtitles.
+.page-header:has(.document-masthead) + article > .markdown-preview-view > h1:first-of-type {
+  display: none;
+}
+
+.breadcrumbs,
+.breadcrumb-container {
   color: var(--gray);
   font-family: var(--lorevault-ui-font);
   font-size: 0.82rem;
@@ -292,6 +304,7 @@ article {
 .search,
 .content-meta,
 .breadcrumbs,
+.breadcrumb-container,
 footer {
   font-family: var(--lorevault-ui-font);
 }

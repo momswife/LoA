@@ -8,8 +8,10 @@ import ConditionalRender from "./ConditionalRender"
 import SiteNav from "./SiteNav"
 import HomeGateway from "./HomeGateway"
 import Footer from "./Footer"
+import Breadcrumbs from "./Breadcrumbs"
+import DocumentMasthead from "./DocumentMasthead"
+import RelatedRecords from "./RelatedRecords"
 import { ArticleTitle } from "../../.quartz/plugins/article-title/dist/index.js"
-import { Breadcrumbs } from "../../.quartz/plugins/breadcrumbs/dist/index.js"
 import { ContentMeta } from "../../.quartz/plugins/content-meta/dist/index.js"
 import { Darkmode } from "../../.quartz/plugins/darkmode/dist/index.js"
 import { Explorer } from "../../.quartz/plugins/explorer/dist/index.js"
@@ -35,6 +37,8 @@ export {
   SiteNav,
   HomeGateway,
   Breadcrumbs,
+  DocumentMasthead,
+  RelatedRecords,
   Explorer,
   TableOfContents,
   Footer,

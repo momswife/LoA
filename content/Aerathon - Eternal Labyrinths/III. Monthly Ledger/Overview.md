@@ -2,6 +2,17 @@
 title: III. Monthly Ledger
 description: Active reports, notices, rumors, and time-sensitive intelligence.
 quartz-properties: false
+recordType: Division Overview
+status: Provisional Record
+classification: Public Intelligence
+revision: Active Filing Cycle
+facts:
+  Record Scope: Time-Sensitive
+  Reliability: Provisional
+  Maintained By: Field Intelligence Division
+related:
+  - "[[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/Overview|Annals & Antiquities]]"
+  - "[[Aerathon - Eternal Labyrinths/II. The Living Atlas/Overview|The Living Atlas]]"
 ---
 
 > _The Ledger does not describe the world as it is understood. It records the world as it is moving._

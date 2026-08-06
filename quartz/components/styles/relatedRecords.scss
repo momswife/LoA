@@ -1,0 +1,106 @@
+@use "../../styles/variables.scss" as *;
+
+.related-records {
+  margin-top: 2.5rem;
+  padding-top: 1.35rem;
+  border-top: 1px solid var(--lorevault-divider);
+}
+
+.related-records__heading {
+  margin-bottom: 0.8rem;
+
+  > p {
+    margin: 0;
+    color: var(--secondary);
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.66rem;
+    font-weight: 750;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+
+  > h2 {
+    margin: 0.2rem 0 0;
+    font-size: 1.35rem;
+    line-height: 1.2;
+  }
+}
+
+.related-records__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+a.related-records__card.internal {
+  display: flex;
+  min-width: 0;
+  min-height: 7.5rem;
+  box-sizing: border-box;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.85rem;
+  border: 1px solid var(--lorevault-border);
+  border-radius: var(--lorevault-radius);
+  background: var(--lorevault-surface);
+  color: var(--darkgray);
+  font-family: var(--lorevault-ui-font);
+  text-decoration: none;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    transform 180ms ease;
+
+  > span {
+    color: var(--secondary);
+    font-size: 0.62rem;
+    font-weight: 750;
+    letter-spacing: 0.08em;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+
+  > strong {
+    color: var(--dark);
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+
+  > p {
+    display: -webkit-box;
+    margin: 0;
+    overflow: hidden;
+    color: var(--gray);
+    font-size: 0.74rem;
+    line-height: 1.4;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  &:hover {
+    border-color: color-mix(in srgb, var(--secondary) 50%, var(--lorevault-border));
+    box-shadow: 0 10px 24px rgb(32 23 15 / 8%);
+    transform: translateY(-2px);
+  }
+}
+
+@media all and ($tablet) {
+  .related-records__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media all and ($mobile) {
+  .related-records {
+    margin-top: 2rem;
+  }
+
+  .related-records__grid {
+    grid-template-columns: 1fr;
+  }
+
+  a.related-records__card.internal {
+    min-height: 0;
+  }
+}
