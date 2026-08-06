@@ -1,716 +1,872 @@
 schemaVersion: 1
+
 map:
-  id: malarthain-stronghold
-  label: Malarthain Stronghold
-  image: Aerathon - Eternal Labyrinths/Malarthain Stronghold.png
+  id: "malarthain-stronghold"
+  label: "Malarthain Stronghold"
+  image: "Aerathon - Eternal Labyrinths/Malarthain Stronghold.png"
   expectedLocationCount: 85
   suppliedLocationCount: 85
   incompleteLocationNumbers: []
+
 categories:
-  government-civic-authority: Government, Civic Records, and Public Authority
-  trade-markets-food: Trade, Markets, and Food
-  freight-travel-gates: Freight, Travel, and City Gates
-  military-defense-remembrance: Military, Defense, and Remembrance
-  mining-heavy-industry: Mining and Heavy Industry
-  forges-artificers-magical-shops: Forges, Artificers, and Magical Shops
-  faith-shrines-memorials: Faith, Shrines, and Memorial Places
-  healing-gardens-public-welfare: Healing, Gardens, and Public Welfare
-  homes-taverns-social-life: Homes, Taverns, and Social Life
-  unassigned: Unassigned
+  government-civic-authority: "Government, Civic Records, and Public Authority"
+  trade-markets-food: "Trade, Markets, and Food"
+  freight-travel-gates: "Freight, Travel, and City Gates"
+  military-defense-remembrance: "Military, Defense, and Remembrance"
+  mining-heavy-industry: "Mining and Heavy Industry"
+  forges-artificers-magical-shops: "Forges, Artificers, and Magical Shops"
+  faith-shrines-memorials: "Faith, Shrines, and Memorial Places"
+  healing-gardens-public-welfare: "Healing, Gardens, and Public Welfare"
+  homes-taverns-social-life: "Homes, Taverns, and Social Life"
+  unassigned: "Unassigned"
+
 locations:
-- id: malarthain-001
-  number: 1
-  title: Blackcrest Keep
-  category: government-civic-authority
-  summary: Seat of House Cardwell and the political heart of Malarthain.
-  position: null
-  description: Blackcrest Keep crowns the First Ring from the city’s highest natural rise. Its dark stone terraces overlook Malarthain, while
-    guarded roads below carry petitioners, officers, household staff, and official messengers.
-- id: malarthain-002
-  number: 2
-  title: Cardwell Archive
-  category: government-civic-authority
-  summary: Secured repository for royal records, mining grants, family documents, and restricted correspondence.
-  position: null
-  description: The Cardwell Archive occupies a quiet, closely watched wing near Blackcrest Keep. Its narrow halls, iron doors, and carefully controlled
-    reading rooms give the area the subdued air of a place where every page matters.
-- id: malarthain-003
-  number: 3
-  title: Great Granary
-  category: trade-markets-food
-  summary: Malarthain’s largest protected reserve of imported grain and emergency food.
-  position: null
-  description: The Great Granary stands near Hearthring’s busiest supply roads, surrounded by grain offices, guarded storehouses, and the constant
-    rumble of delivery carts. During lean seasons, the district becomes one of the most closely watched parts of the city.
-- id: malarthain-004
-  number: 4
-  title: Maw Fountain
-  category: faith-shrines-memorials
-  summary: Old beast-shaped public fountain associated with the Balval family and local offerings. (!)
-  position: null
-  description: Maw Fountain sits in a broad public square near the foot of the High Hunt. Locals gather here to trade news, leave small offerings,
-    wash dust from their hands, and meet before climbing toward the city’s sacred places.
-- id: malarthain-005
-  number: 5
-  title: Balval Forge
-  category: forges-artificers-magical-shops
-  summary: Yyna’s family smithy and a respected maker of practical Malarthian metalwork.
-  position: null
-  description: Balval Forge rests just off the High Hunt, where temple traffic gives way to older family workshops. The surrounding lane is warm
-    with coal smoke, hammering, and the smell of quenched iron.
-- id: malarthain-006
-  number: 6
-  title: Twofold Anvil
-  category: forges-artificers-magical-shops
-  summary: Famous enchanted smithy established by twin brothers and known for paired weapons and armor. (!)
-  position: null
-  description: The Twofold Anvil occupies a prominent workshop near Goldclasp and the upper forge streets. Its front windows display matched blades,
-    mirrored armor pieces, and other paired commissions meant to be purchased together.
-- id: malarthain-007
-  number: 7
-  title: Miners’ Union Hall
-  category: government-civic-authority
-  summary: Headquarters for labor organizing, accident records, worker disputes, and missing-miner advocacy. (!)
-  position: null
-  description: The Miners’ Union Hall anchors a busy corner of Cinderward near several shift roads. Notices, memorial ribbons, wage postings,
-    and family appeals cover its outer boards, making the building one of the district’s most active gathering places.
-- id: malarthain-008
-  number: 8
-  title: Stonebreath Infirmary
-  category: healing-gardens-public-welfare
-  summary: Worker-supported hospital treating mining injuries, burns, lung damage, and magical exposure. (!)
-  position: null
-  description: Stonebreath Infirmary stands between Cinderward and the quieter paths of the Green Run. Its open courtyards and broad intake doors
-    are designed for injured work crews, while nearby streets remain busy with healers, relatives, and supply runners.
-- id: malarthain-009
-  number: 9
-  title: Ministry House
-  category: government-civic-authority
-  summary: Malarthain’s permanent MDO liaison office and administrative foothold.
-  position: null
-  description: Ministry House occupies a fortified administrative building in Redwatch. The surrounding block is orderly, well lit, and heavily
-    documented, with visiting officials, licensed couriers, and MDO personnel moving through at nearly every hour.
-- id: malarthain-010
-  number: 10
-  title: Red Yard
-  category: freight-travel-gates
-  summary: Major wagon, cargo, and caravan staging yard near the eastern approach.
-  position: null
-  description: Red Yard spreads across a wide paved enclosure inside the eastern approach. Caravans assemble here beneath painted route boards
-    while handlers, inspectors, guards, and freight crews sort cargo before it enters the city proper.
-- id: malarthain-011
-  number: 11
-  title: East Weighhouse
-  category: freight-travel-gates
-  summary: Official weighing station for ore, metalwork, and freight leaving Malarthain.
-  position: null
-  description: The East Weighhouse stands beside the main freight roads of Redwatch. Its raised scales, tally windows, and covered inspection
-    bays make the surrounding area one of the loudest and most congested parts of the eastern district.
-- id: malarthain-012
-  number: 12
-  title: Antell House
-  category: homes-taverns-social-life
-  summary: Solaris’s family home, containing Maela’s workshop and the concealed Sunwarden legacy.
-  position: null
-  description: Antell House is built into the slope of Stonecrest Valley, with an attached workshop and a narrow view toward the brighter streets
-    above. The neighborhood is old, close-knit, and marked by sun symbols worked into doors, lanterns, and stone.
-- id: malarthain-013
-  number: 13
-  title: Hall of Rings
-  category: government-civic-authority
-  summary: Meeting hall of the Council of Rings and center of civic representation outside the keep.
-  position: null
-  description: The Hall of Rings occupies the meeting point between the First Ring and Hearthring. Its broad steps are rarely empty, drawing council
-    delegates, petitioners, neighborhood representatives, and citizens hoping to be heard.
-- id: malarthain-014
-  number: 14
-  title: The Daylight Tap
-  category: homes-taverns-social-life
-  summary: Solaris’s tavern and scrying hall, famous for public screenings of old delver runs. (!)
-  position: null
-  description: The Daylight Tap glows from a sloping street in Stonecrest Valley, its broad windows kept open whenever weather allows. The surrounding
-    lane fills on scrying nights with stools, food carts, loud arguments, and patrons unable to fit inside.
-- id: malarthain-015
-  number: 15
-  title: Whitecoal House
-  category: homes-taverns-social-life
-  summary: Refined restaurant and private meeting place serving Malarthain’s wealthier residents. (!)
-  position: null
-  description: Whitecoal House sits along the quieter edge of Goldclasp, away from the district’s noisier shops. Private dining rooms, discreet
-    entrances, and carefully screened balconies make the surrounding block popular with officials and wealthy patrons.
-- id: malarthain-016
-  number: 16
-  title: Acolyte Houses
-  category: faith-shrines-memorials
-  summary: Residences and instructional halls for priests, attendants, and religious students.
-  position: null
-  description: The Acolyte Houses line several sheltered lanes below the Open Maw. Students, attendants, and junior priests share gardens, kitchens,
-    classrooms, and modest living quarters arranged around small communal courtyards.
-- id: malarthain-017
-  number: 17
-  title: Sealed Works Office
-  category: mining-heavy-industry
-  summary: Administrative office responsible for collapsed shafts, abandoned tunnels, and restricted mine access.
-  position: null
-  description: The Sealed Works Office stands in Coldroad near the restricted western routes. Its practical stone building overlooks fenced service
-    lanes, old mine markers, and guarded roads leading toward abandoned or condemned workings.
-- id: malarthain-018
-  number: 18
-  title: Reserve Warehouse Nine
-  category: mining-heavy-industry
-  summary: Ostensible military depot secretly used to store and disguise Deep Reserve materials.
-  position: null
-  description: 'Reserve Warehouse Nine is one of several heavy depots along Coldroad. From the street it appears unremarkable: thick walls, narrow
-    windows, wagon doors, and a small guard post serving the western storage yards.'
-- id: malarthain-019
-  number: 19
-  title: Bread Exchange
-  category: trade-markets-food
-  summary: Covered trading hall where grain contracts, ration prices, and caravan deliveries are negotiated. (!)
-  position: null
-  description: The Bread Exchange dominates a covered square in Hearthring where bakers, grain merchants, caravan factors, and public buyers negotiate
-    daily prices. The surrounding lanes smell of flour, yeast, hot crust, and wagon dust.
-- id: malarthain-020
-  number: 20
-  title: House of Tempered Oaths
-  category: military-defense-remembrance
-  summary: Headquarters, training hall, and ceremonial home of Malarthain’s knights.
-  position: null
-  description: The House of Tempered Oaths stands at the heart of Anvilring. Its training courts, armories, chapels, and ceremonial halls are
-    surrounded by orderly barracks streets and shops catering to knights and guards.
-- id: malarthain-021
-  number: 21
-  title: Brass Scales
-  category: trade-markets-food
-  summary: Public weighhouse whose measurements are recognized in Malarthian trade disputes. (!)
-  position: null
-  description: Brass Scales faces a busy commercial square in Hearthring. Merchants bring disputed goods beneath its awnings while clerks, appraisers,
-    and curious onlookers gather around the great public balances.
-- id: malarthain-022
-  number: 22
-  title: Three-Crust Market
-  category: trade-markets-food
-  summary: Large daily market selling bread, preserved meats, produce, cheese, and household goods.
-  position: null
-  description: Three-Crust Market fills several linked streets with permanent stalls and temporary awnings. It is one of Malarthain’s busiest
-    everyday markets, crowded with households buying food, cloth, tools, and simple household necessities.
-- id: malarthain-023
-  number: 23
-  title: Muster Yard
-  category: military-defense-remembrance
-  summary: Open assembly ground for guards, militia, patrols, and caravan escorts.
-  position: null
-  description: Muster Yard is a broad open ground between Anvilring and the eastern approaches. Its packed earth, weapon racks, hitching posts,
-    and signal platforms support drills, patrol formations, militia musters, and caravan departures.
-- id: malarthain-024
-  number: 24
-  title: Oath Gate
-  category: freight-travel-gates
-  summary: Northwestern ceremonial and military entrance leading toward the Oathwalk.
-  position: null
-  description: Oath Gate rises along the northwestern wall where the Oathwalk reaches the city’s defenses. The surrounding approach is formal
-    and martial, lined with old honors, guard posts, and stone markers commemorating past campaigns.
-- id: malarthain-025
-  number: 25
-  title: Cinder Gate
-  category: freight-travel-gates
-  summary: Northern entrance used primarily by miners, coal wagons, and industrial traffic.
-  position: null
-  description: Cinder Gate opens directly into the labor roads of northern Malarthain. Coal wagons, mine crews, equipment carts, and shift traffic
-    keep the area dark with dust and busy long before sunrise.
-- id: malarthain-026
-  number: 26
-  title: Ashroot Remedies
-  category: healing-gardens-public-welfare
-  summary: Practical potion and medicine shop serving miners, guards, forge workers, and laborers. (!)
-  position: null
-  description: Ashroot Remedies operates from a narrow but crowded shop in Cinderward. The street outside is lined with workers seeking burn salves,
-    breathing draughts, pain tonics, and practical cures that can be purchased without ceremony.
-- id: malarthain-027
-  number: 27
-  title: North Lamp Depot
-  category: mining-heavy-industry
-  summary: Supplier of lamps, oil, rope, masks, tools, and shift equipment for miners.
-  position: null
-  description: The North Lamp Depot occupies a long industrial yard near Cinder Gate. Racks of lanterns, rope coils, replacement glass, masks,
-    and packed shift kits fill its sheds and loading platforms.
-- id: malarthain-028
-  number: 28
-  title: Red Tower
-  category: government-civic-authority
-  summary: Eastern customs tower, watch station, signal post, and inspection center.
-  position: null
-  description: Red Tower overlooks the eastern gate roads from a high customs platform. Signals, inspection flags, and messenger traffic make
-    the surrounding streets feel more regulated than the rest of Malarthain.
-- id: malarthain-029
-  number: 29
-  title: Rail Factors’ Court
-  category: freight-travel-gates
-  summary: Offices for freight brokers, rail companies, and long-distance shipping agents.
-  position: null
-  description: Rail Factors’ Court is a dense cluster of offices, counting rooms, and courier stalls in Redwatch. Freight agents and shipping
-    companies compete for contracts beneath hanging signs marked with distant cities and rail lines.
-- id: malarthain-030
-  number: 30
-  title: Red Gate
-  category: freight-travel-gates
-  summary: Main eastern gate for official visitors, commercial traffic, and regional freight.
-  position: null
-  description: Red Gate is Malarthain’s busiest formal entrance. The avenue inside is broad enough for freight columns and diplomatic coaches,
-    with customs booths, guard stations, licensed guides, and inns serving newly arrived visitors.
-- id: malarthain-031
-  number: 31
-  title: Quiet Runs
-  category: faith-shrines-memorials
-  summary: Wooded burial paths and memorial grounds used for contemplation and remembrance. (!)
-  position: null
-  description: The Quiet Runs wind through the wooded slopes of the Green Run. Low walls, memorial stones, shaded benches, and carefully tended
-    paths keep the area hushed even when the rest of the city is crowded.
-- id: malarthain-032
-  number: 32
-  title: House of Red Water
-  category: healing-gardens-public-welfare
-  summary: Temple-connected healing hall combining divine care with traditional medicine.
-  position: null
-  description: The House of Red Water occupies a sheltered healing court near the Green Run’s religious paths. Its tiled pools, open treatment
-    rooms, and prayer alcoves serve patients seeking both divine care and traditional medicine.
-- id: malarthain-033
-  number: 33
-  title: Moss & Iron
-  category: healing-gardens-public-welfare
-  summary: Herbalist blending plant remedies, druidic practices, and protective metal charms. (!)
-  position: null
-  description: Moss & Iron is tucked among garden walls and small workshops near the Green Run. Bundles of herbs hang beneath its awning beside
-    hammered charms, protective nails, and simple warding pieces.
-- id: malarthain-034
-  number: 34
-  title: Children’s Green
-  category: healing-gardens-public-welfare
-  summary: Public field where young beastfolk play, train, climb, and learn local traditions.
-  position: null
-  description: Children’s Green is a broad public field between family neighborhoods and the Green Run. Climbing frames, marked practice circles,
-    shade trees, and low stone walls keep the area lively throughout the day.
-- id: malarthain-035
-  number: 35
-  title: Shrine of the Last Hunt
-  category: faith-shrines-memorials
-  summary: Private memorial to Lady Neve within the Cardwell grounds.
-  position: null
-  description: The Shrine of the Last Hunt lies within the quieter Cardwell grounds, separated from public roads by hedges and old stone walls.
-    The approach is restrained, private, and maintained with unusual care.
-- id: malarthain-036
-  number: 36
-  title: Old War Hall
-  category: military-defense-remembrance
-  summary: Historic command chamber preserving records and relics from Malarthain’s past conflicts.
-  position: null
-  description: Old War Hall occupies one of Blackcrest Keep’s oldest lower chambers. The passages around it are narrow and cool, lined with campaign
-    maps, sealed cabinets, and relics from conflicts still remembered by Malarthain’s older families.
-- id: malarthain-037
-  number: 37
-  title: The Black Ribbon
-  category: forges-artificers-magical-shops
-  summary: Mourning house creating memorial jewelry, voice-lockets, enchanted portraits, and funeral pieces. (!)
-  position: null
-  description: The Black Ribbon maintains an elegant mourning house on a quiet street between Goldclasp and the sacred roads. Its windows display
-    tasteful memorial pieces, while private consultation rooms protect grieving families from public attention.
-- id: malarthain-038
-  number: 38
-  title: Winter Yards
-  category: freight-travel-gates
-  summary: Warehouses storing coal, timber, salt, lamp oil, and cold-season supplies.
-  position: null
-  description: The Winter Yards stretch along Coldroad behind high walls and broad loading gates. Coal stacks, timber sheds, salt stores, and
-    oil depots make the district practical, guarded, and busy through every season.
-- id: malarthain-039
-  number: 39
-  title: Cold Road Caravanserai
-  category: freight-travel-gates
-  summary: Fortified lodging compound for mountain caravans and distant traders. (!)
-  position: null
-  description: The Cold Road Caravanserai is a fortified lodging compound near the western trade routes. Its inner yard serves mountain caravans,
-    teamsters, foreign traders, and travelers waiting for difficult roads to reopen.
-- id: malarthain-040
-  number: 40
-  title: Sunken Acre
-  category: mining-heavy-industry
-  summary: Guarded site of the farm swallowed during the 3377 sinkhole disaster.
-  position: null
-  description: Sunken Acre is enclosed behind old barriers in Coldroad, where the ground still falls away around the remains of the 3377 collapse.
-    Watch posts and warning stones keep most citizens on the surrounding road.
-- id: malarthain-041
-  number: 41
-  title: Low Lantern Market
-  category: trade-markets-food
-  summary: Late-night market serving miners and laborers traveling between shifts. (!)
-  position: null
-  description: Low Lantern Market comes alive when ordinary shops begin closing. Lantern sellers, hot-food stalls, repairers, and shift merchants
-    serve miners and laborers moving through Cinderward after dark.
-- id: malarthain-042
-  number: 42
-  title: Hammer Row
-  category: mining-heavy-industry
-  summary: Street of respected smiths, armorers, metalworkers, and runecrafters.
-  position: null
-  description: Hammer Row runs through the working heart of Anvilring. Sparks, delivery carts, apprentices, and the sound of metalwork fill the
-    street from early morning until the district’s evening bells.
-- id: malarthain-043
-  number: 43
-  title: Huntgarden
-  category: faith-shrines-memorials
-  summary: Sacred grove where worshippers leave antlers, teeth, feathers, stones, and broken weapons. (!)
-  position: null
-  description: Huntgarden forms a sacred green between the High Hunt and the quieter memorial paths. Offerings hang from branches, rest beneath
-    stones, and gather around small shrines maintained by worshippers rather than formal attendants.
-- id: malarthain-044
-  number: 44
-  title: Emberhall
-  category: government-civic-authority
-  summary: Underhearth’s communal meeting hall, feast house, and informal neighborhood council.
-  position: null
-  description: Emberhall stands at the center of Underhearth’s close-packed streets. Its kitchens, meeting chamber, long tables, and public hearth
-    make it the neighborhood’s favored place for announcements, feasts, and disputes.
-- id: malarthain-045
-  number: 45
-  title: Four-Pillar Forge
-  category: mining-heavy-industry
-  summary: Large dwarven-operated forge specializing in mining tools and structural metalwork.
-  position: null
-  description: The Four-Pillar Forge occupies a heavy stone workshop in Underhearth. Four reinforced chimneys rise above its roof, and the surrounding
-    lane is crowded with tool merchants, ore carts, and structural engineers.
-- id: malarthain-046
-  number: 46
-  title: Moonless Shelf
-  category: forges-artificers-magical-shops
-  summary: Underhearth bookshop specializing in spellbooks, scrolls, magical manuals, and delving journals. (!)
-  position: null
-  description: Moonless Shelf sits beneath a low stone arcade in Underhearth. Its deep rooms and narrow aisles attract scholars, apprentices,
-    delvers, and travelers searching for technical books or obscure magical instruction.
-- id: malarthain-047
-  number: 47
-  title: The Quiet Measure
-  category: trade-markets-food
-  summary: Discreet banking, appraisal, and contract office used by wealthy families and merchants. (!)
-  position: null
-  description: The Quiet Measure operates from a polished but unmarked office near Goldclasp. The surrounding street is calm and discreet, favored
-    by wealthy clients who prefer private entrances and appointments without witnesses.
-- id: malarthain-048
-  number: 48
-  title: Brightstone & Vale
-  category: forges-artificers-magical-shops
-  summary: Prestigious gem-setter that enhances weapons, armor, jewelry, and holy symbols.
-  position: null
-  description: Brightstone & Vale occupies a refined shopfront in Goldclasp. Its guarded display windows show gem-set weapons, formal jewelry,
-    and religious pieces beneath controlled magical light.
-- id: malarthain-049
-  number: 49
-  title: Siege Gate and Westwatch Bastion
-  category: military-defense-remembrance
-  summary: Fortified western entrance guarding old emergency routes and siege-era tunnels.
-  position: null
-  description: Siege Gate and Westwatch Bastion dominate the western wall above old emergency roads. The surrounding district is sparse and defensive,
-    with drill platforms, sealed tunnels, and clear lines of sight across the approaches.
-- id: malarthain-050
-  number: 50
-  title: The Listening Stone
-  category: forges-artificers-magical-shops
-  summary: Divination shop examining cursed objects, strange ore, relics, and impressions held in stone or metal. (!)
-  position: null
-  description: The Listening Stone keeps a modest storefront just beyond Goldclasp’s busiest streets. Objects brought for examination are received
-    through private booths, and the nearby lane is known for unusually patient guards and nervous customers.
-- id: malarthain-051
-  number: 51
-  title: The Brass Burrow
-  category: forges-artificers-magical-shops
-  summary: Artificer workshop producing constructs, prosthetics, mining devices, and experimental delver equipment. (!)
-  position: null
-  description: The Brass Burrow fills a compact Underhearth workshop with articulated limbs, gear housings, mining devices, and half-finished
-    constructs. Small test yards and reinforced doors separate its experiments from the surrounding residences.
-- id: malarthain-052
-  number: 52
-  title: Griever’s Court
-  category: faith-shrines-memorials
-  summary: Memorial square for miners and travelers whose bodies were never recovered. (!)
-  position: null
-  description: Griever’s Court is a stone-paved memorial square near the paths between Cinderward and the Green Run. Empty plaques and name walls
-    honor those whose bodies were never recovered, drawing families on anniversaries and shift memorials.
-- id: malarthain-053
-  number: 53
-  title: Nine-Seal Bookroom
-  category: forges-artificers-magical-shops
-  summary: High-end bookseller carrying histories, maps, theological works, and rare technical manuals.
-  position: null
-  description: Nine-Seal Bookroom stands along Goldclasp’s quieter commercial crescent. Its upper floors hold private reading rooms and guarded
-    collections, while the public level serves historians, clergy, officers, and wealthy collectors.
-- id: malarthain-054
-  number: 54
-  title: South Granaries
-  category: trade-markets-food
-  summary: Secondary food stores supporting Apple Gate and the southern neighborhoods.
-  position: null
-  description: The South Granaries form a group of storehouses near the roads leading to Apple Gate. Their yards handle produce, meal, animal
-    feed, and emergency reserves for the city’s southern neighborhoods.
-- id: malarthain-055
-  number: 55
-  title: Harvest Gate, commonly Apple Gate
-  category: freight-travel-gates
-  summary: Southern entrance through which produce, livestock, and farm goods enter the city.
-  position: null
-  description: Harvest Gate, more commonly called Apple Gate, opens toward the farms and orchards south of Malarthain. Produce carts, drovers,
-    farm families, and seasonal workers crowd its approach from dawn onward.
-- id: malarthain-056
-  number: 56
-  title: Gate Kitchens
-  category: trade-markets-food
-  summary: Communal kitchens providing inexpensive meals to travelers, laborers, and caravan crews.
-  position: null
-  description: The Gate Kitchens occupy several connected halls just inside Apple Gate. Long benches, steaming pots, public ovens, and low-cost
-    meal counters make the area a dependable stop for workers and travelers.
-- id: malarthain-057
-  number: 57
-  title: Drovers’ Green
-  category: trade-markets-food
-  summary: Holding and inspection ground for livestock entering Malarthain. (!)
-  position: null
-  description: Drovers’ Green spreads beside Apple Gate as a fenced field of pens, inspection lanes, and watering troughs. Traders, handlers,
-    healers, and city inspectors gather here whenever livestock caravans arrive.
-- id: malarthain-058
-  number: 58
-  title: Southern Liftworks
-  category: mining-heavy-industry
-  summary: Network of hoists, cranes, ramps, and platforms moving stone and ore through the southern district.
-  position: null
-  description: The Southern Liftworks climb the sloped southern district through a network of ramps, cranes, platforms, and hoists. The surrounding
-    roads are built wide for stone carts and kept clear by constant work crews.
-- id: malarthain-059
-  number: 59
-  title: Emberglass House
-  category: forges-artificers-magical-shops
-  summary: Magical glassworks producing arcane lamps, scrying mirrors, lenses, and alchemical vessels. (!)
-  position: null
-  description: Emberglass House occupies a bright workshop near Goldclasp’s arcane trades. Its furnace towers and mirrored windows illuminate
-    a lane lined with lens grinders, alchemical suppliers, and specialist craftsmen.
-- id: malarthain-060
-  number: 60
-  title: Claw & Circlet
-  category: forges-artificers-magical-shops
-  summary: Luxury jeweler crafting horn bands, mane clasps, tail rings, tusk ornaments, and formal beastfolk jewelry.
-  position: null
-  description: Claw & Circlet maintains an ornate Goldclasp showroom designed around beastfolk formalwear. Private fitting rooms accommodate horns,
-    tusks, tails, manes, feathers, and other features poorly served by foreign jewelers.
-- id: malarthain-061
-  number: 61
-  title: The Open Maw
-  category: faith-shrines-memorials
-  summary: Malarthain’s principal open-air temple of Malar and the destination of the High Hunt.
-  position: null
-  description: The Open Maw stands at the end of the High Hunt as Malarthain’s great open-air temple. Its courtyards, stone jaws, gathering spaces,
-    and exposed sky draw worshippers from every district.
-- id: malarthain-062
-  number: 62
-  title: Quarry Bell
-  category: mining-heavy-industry
-  summary: Massive alarm bell signaling shift changes, collapses, and mine emergencies.
-  position: null
-  description: Quarry Bell rises above the industrial north on a reinforced stone frame. Its sound carries across Cinderward, Stonecrest Valley,
-    and the mine roads, marking shifts and warning the city of emergencies.
-- id: malarthain-063
-  number: 63
-  title: Manyfire Temple
-  category: faith-shrines-memorials
-  summary: Shared sanctuary serving gods and faiths outside Malarthain’s dominant Malarite tradition. (!)
-  position: null
-  description: Manyfire Temple occupies the border between Underhearth and Hearthring. Its shared hearth, small chapels, and open common rooms
-    serve worshippers whose faiths lack large temples elsewhere in Malarthain.
-- id: malarthain-064
-  number: 64
-  title: Goldclasp Arcade
-  category: trade-markets-food
-  summary: Prestigious shopping crescent serving nobles, officers, wealthy merchants, and successful delvers.
-  position: null
-  description: Goldclasp Arcade curves around the upper commercial streets below the First Ring. Covered walkways, polished fronts, private guards,
-    and fashionable crowds distinguish it from Malarthain’s rougher markets.
-- id: malarthain-065
-  number: 65
-  title: The Foreign Hearth
-  category: freight-travel-gates
-  summary: Respectable inn commonly used by diplomats, merchants, MDO officers, and visiting delvers. (!)
-  position: null
-  description: The Foreign Hearth stands near Redwatch’s official roads, close enough for easy access to the gate and Ministry offices. Its dining
-    rooms and guarded courtyards are designed for diplomats, officers, merchants, and visiting delvers.
-- id: malarthain-066
-  number: 66
-  title: The Hollow Key
-  category: forges-artificers-magical-shops
-  summary: Specialist in magical locks, wards, seals, vaults, and tamper detection. (!)
-  position: null
-  description: The Hollow Key occupies a narrow, heavily warded shop in Goldclasp. Its plain exterior conceals demonstration vaults, seal-testing
-    rooms, and private workspaces for clients with unusual security needs.
-- id: malarthain-067
-  number: 67
-  title: The Fallen Anvil
-  category: military-defense-remembrance
-  summary: Memorial honoring those lost during the Siege of 3371 and the disaster of 3377.
-  position: null
-  description: The Fallen Anvil rests in a solemn square between Anvilring and the First Ring. Citizens pass beneath its broken iron monument
-    on military anniversaries, disaster remembrances, and public mourning days.
-- id: malarthain-068
-  number: 68
-  title: The Measured Plate
-  category: forges-artificers-magical-shops
-  summary: Elite armorer known for carefully fitted armor designed around each wearer’s body and movement.
-  position: null
-  description: The Measured Plate keeps a spacious fitting hall near the finer edge of Anvilring. Adjustable frames, practice floors, and private
-    testing rooms allow armorers to study each client’s movement before beginning a commission.
-- id: malarthain-069
-  number: 69
-  title: The Velvet Fang
-  category: homes-taverns-social-life
-  summary: Licensed brothel, bathhouse, tavern, and discreet social club. (!)
-  position: null
-  description: The Velvet Fang occupies a discreet compound near Mawside, where the High Hunt meets Coldroad. Its bathhouse, tavern rooms, guarded
-    entrances, and private gardens make it both respectable and deliberately private.
-- id: malarthain-070
-  number: 70
-  title: Claw & Candle
-  category: faith-shrines-memorials
-  summary: Shop selling Malarite charms, prayer candles, travel blessings, and household wards.
-  position: null
-  description: Claw & Candle is a small devotional shop along the lower High Hunt. Shelves of prayer candles, travel tokens, household wards,
-    and simple Malarite charms serve pilgrims and local families.
-- id: malarthain-071
-  number: 71
-  title: Atticus's Estate
-  category: homes-taverns-social-life
-  summary: A spacious Goldclasp residence temporarily occupied by the delvers Atticus and Deena while they await the approval and signing of their
-    new guild contract. (!)
-  position: null
-  description: Atticus’s Estate is a well-kept Goldclasp residence set behind a walled garden and private carriage court. Atticus and Deena currently
-    use its guest suites, training room, and receiving hall while awaiting approval of their guild contract.
-- id: malarthain-072
-  number: 72
-  title: The Old Crown Theatre
-  category: homes-taverns-social-life
-  summary: An aging playhouse whose struggling company has begun performing an anonymous script that changes each night and reveals private details
-    about members of the audience. (!)
-  position: null
-  description: The Old Crown Theatre stands on an aging entertainment street near Hearthring. Its carved façade and faded royal motifs overlook
-    crowded taverns, costume shops, and narrow alleys used by actors and stage crews.
-- id: malarthain-073
-  number: 73
-  title: The Gilded Roost
-  category: trade-markets-food
-  summary: A prestigious auction house dealing in foreign art, antiquities, and recovered relics, currently plagued by thefts in which locked
-    display cases remain perfectly sealed. (!)
-  position: null
-  description: The Gilded Roost occupies a guarded auction hall in Goldclasp. Merchants, collectors, couriers, and appraisers gather beneath its
-    high galleries whenever foreign art or recovered antiquities are offered for sale.
-- id: malarthain-074
-  number: 74
-  title: Brindlewick Conservatory
-  category: healing-gardens-public-welfare
-  summary: A glass-roofed botanical sanctuary cultivating rare medicinal plants, where several specimens have begun moving at night and arranging
-    themselves into unfamiliar symbols. (!)
-  position: null
-  description: Brindlewick Conservatory rises from the Green Run beneath a broad glass roof. Warm paths wind between medicinal gardens, research
-    beds, public exhibits, and carefully controlled growing chambers.
-- id: malarthain-075
-  number: 75
-  title: The Unclaimed Hall
-  category: government-civic-records-public-authority
-  summary: A municipal repository for unidentified bodies, lost property, and abandoned inheritances, where a recently delivered trunk has been
-    claimed by three unrelated families. (!)
-  position: null
-  description: The Unclaimed Hall stands in a quieter civic quarter near Redwatch. Its guarded storerooms, registry desks, and identification
-    chambers receive lost property, unclaimed estates, and the belongings of unknown citizens.
-- id: malarthain-076
-  number: 76
-  title: The Last Lantern
-  category: homes-taverns-social-life
-  summary: A secluded inn for travelers arriving after the city gates close, where guests have recently vanished from locked rooms while their
-    belongings remain carefully packed for departure. (!)
-  position: null
-  description: The Last Lantern sits near a lesser gate road used after the main streets quiet. Its enclosed courtyard, narrow common room, and
-    modest private chambers cater to delayed travelers and crews arriving after curfew.
-- id: malarthain-077
-  number: 77
-  title: The House of Borrowed Faces
-  category: homes-taverns-social-life
-  summary: A discreet maskmaker and costume house whose clients report being recognized for crimes, debts, and affairs committed while their commissioned
-    masks were still locked inside the workshop. (!)
-  position: null
-  description: The House of Borrowed Faces occupies a theatrical lane not far from the Old Crown Theatre. Its workshop windows display masks,
-    wigs, costumes, and fitted disguises for performers, festivals, private clients, and formal ceremonies.
-- id: malarthain-078
-  number: 78
-  title: The Foxglove Exchange
-  category: trade-markets-food
-  summary: A crowded medicinal market where several healers have unknowingly purchased counterfeit remedies that cure their intended illness while
-    causing an entirely different affliction days later. (!)
-  position: null
-  description: The Foxglove Exchange fills a covered market near the Green Run’s healing quarter. Herbalists, apothecaries, traveling physicians,
-    and household buyers trade remedies beneath rows of painted medicinal signs.
-- id: malarthain-079
-  number: 79
-  title: The Crooked Hearth
-  category: homes-taverns-social-life
-  summary: A miners’ alehouse built around a permanently leaning chimney, now troubled by a hooded patron who pays strangers to recover personal
-    objects from homes that have not yet been robbed. (!)
-  position: null
-  description: The Crooked Hearth is a low miners’ alehouse in Cinderward, built around a chimney that leans visibly over the street. Its back
-    room, cheap meals, and long benches make it popular with crews between shifts.
-- id: malarthain-080
-  number: 80
-  title: The Ivory Steps
-  category: faith-shrines-memorials
-  summary: A weathered hillside shrine reached by eighty carved steps, where offerings have begun disappearing and being returned to worshippers
-    with unfamiliar prayers written beneath them. (!)
-  position: null
-  description: The Ivory Steps climb a steep hillside path beyond the busiest sacred roads. Small landings, weathered carvings, and distant views
-    of the city make the shrine a quiet destination for solitary pilgrims.
-- id: malarthain-081
-  number: 81
-  title: Stonemarrow Clinic
-  category: healing-gardens-public-welfare
-  summary: A charitable clinic specializing in injuries caused by mines and heavy industry, whose patients have begun sharing the same recurring
-    dream of a physician none of them have ever met. (!)
-  position: null
-  description: Stonemarrow Clinic occupies a plain charitable building between Cinderward and the Green Run. It serves workers who cannot afford
-    private treatment and is usually crowded with families, apprentices, and recovering laborers.
-    
-- id: malarthain-082
-  number: 82
-  title: The Red Thread Office
-  category: government-civic-records-public-authority
-  summary: A municipal office responsible for tracing disputed inheritances and family claims, currently investigating a deceased citizen whose
-    records indicate five different spouses living in separate districts. (!)
-  position: null
-  description: The Red Thread Office keeps its public counters near the civic courts, with deeper record rooms reserved for inheritance disputes
-    and family claims. Petitioners often wait for hours beneath walls covered in lineage charts and legal notices.
-- id: malarthain-083
-  number: 83
-  title: The Sunken Menagerie
-  category: trade-markets-food
-  summary: A partially underground dealer in unusual animals and trained familiars, recently sealed after every creature began staring toward
-    the same empty enclosure and refusing to sleep. (!)
-  position: null
-  description: The Sunken Menagerie lies partly below street level near Underhearth’s outer lanes. Its reinforced pens, training yard, feed rooms,
-    and specialty stalls serve handlers of unusual animals and licensed familiars.
-- id: malarthain-084
-  number: 84
-  title: Chimney Court
-  category: military-defense-remembrance
-  summary: A memorial courtyard dedicated to workers who died during Malarthain’s great industrial fires, where the engraved names have begun
-    changing overnight to include citizens who are still alive. (!)
-  position: null
-  description: Chimney Court is a small memorial square in Cinderward surrounded by old worker housing. A soot-dark monument lists those lost
-    in industrial fires, while nearby families still use the court for gatherings and remembrance.
-- id: malarthain-085
-  number: 85
-  title: The Night Orchard
-  category: healing-gardens-public-welfare
-  summary: A walled orchard cultivated for rare nocturnal fruits, where the aging groundskeeper insists an additional tree appears whenever someone
-    in Malarthain dies without being properly mourned. (!)
-  position: null
-  description: The Night Orchard is enclosed behind stone walls near the quieter edge of the Green Run. Its paths open only near dusk, when rare
-    flowering trees and nocturnal fruiting plants are tended beneath low lanterns.
+  - id: "malarthain-001"
+    number: 1
+    title: "Blackcrest Keep"
+    category: "government-civic-authority"
+    summary: "Seat of House Cardwell and the political heart of Malarthain."
+    description: "Blackcrest Keep crowns the First Ring from the city’s highest natural rise. Its dark stone terraces overlook Malarthain, while guarded roads below carry petitioners, officers, household staff, and official messengers."
+    position:
+      x: 52.60
+      y: 54.16
+
+  - id: "malarthain-002"
+    number: 2
+    title: "Cardwell Archive"
+    category: "government-civic-authority"
+    summary: "Secured repository for royal records, mining grants, family documents, and restricted correspondence."
+    description: "The Cardwell Archive occupies a quiet, closely watched wing near Blackcrest Keep. Its narrow halls, iron doors, and carefully controlled reading rooms give the area the subdued air of a place where every page matters."
+    position:
+      x: 55.17
+      y: 53.75
+
+  - id: "malarthain-003"
+    number: 3
+    title: "Great Granary"
+    category: "trade-markets-food"
+    summary: "Malarthain’s largest protected reserve of imported grain and emergency food."
+    description: "The Great Granary stands near Hearthring’s busiest supply roads, surrounded by grain offices, guarded storehouses, and the constant rumble of delivery carts. During lean seasons, the district becomes one of the most closely watched parts of the city."
+    position:
+      x: 59.82
+      y: 44.76
+
+  - id: "malarthain-004"
+    number: 4
+    title: "Maw Fountain"
+    category: "faith-shrines-memorials"
+    summary: "Old beast-shaped public fountain associated with the Balval family and local offerings. (!)"
+    description: "Maw Fountain sits in a broad public square near the foot of the High Hunt. Locals gather here to trade news, leave small offerings, wash dust from their hands, and meet before climbing toward the city’s sacred places."
+    position:
+      x: 40.97
+      y: 43.82
+
+  - id: "malarthain-005"
+    number: 5
+    title: "Balval Forge"
+    category: "forges-artificers-magical-shops"
+    summary: "Yyna’s family smithy and a respected maker of practical Malarthian metalwork."
+    description: "Balval Forge rests just off the High Hunt, where temple traffic gives way to older family workshops. The surrounding lane is warm with coal smoke, hammering, and the smell of quenched iron."
+    position:
+      x: 37.24
+      y: 46.41
+
+  - id: "malarthain-006"
+    number: 6
+    title: "Twofold Anvil"
+    category: "forges-artificers-magical-shops"
+    summary: "Famous enchanted smithy established by twin brothers and known for paired weapons and armor. (!)"
+    description: "The Twofold Anvil occupies a prominent workshop near Goldclasp and the upper forge streets. Its front windows display matched blades, mirrored armor pieces, and other paired commissions meant to be purchased together."
+    position:
+      x: 48.60
+      y: 50.97
+
+  - id: "malarthain-007"
+    number: 7
+    title: "Miners’ Union Hall"
+    category: "government-civic-authority"
+    summary: "Headquarters for labor organizing, accident records, worker disputes, and missing-miner advocacy. (!)"
+    description: "The Miners’ Union Hall anchors a busy corner of Cinderward near several shift roads. Notices, memorial ribbons, wage postings, and family appeals cover its outer boards, making the building one of the district’s most active gathering places."
+    position:
+      x: 58.87
+      y: 27.63
+
+  - id: "malarthain-008"
+    number: 8
+    title: "Stonebreath Infirmary"
+    category: "healing-gardens-public-welfare"
+    summary: "Worker-supported hospital treating mining injuries, burns, lung damage, and magical exposure. (!)"
+    description: "Stonebreath Infirmary stands between Cinderward and the quieter paths of the Green Run. Its open courtyards and broad intake doors are designed for injured work crews, while nearby streets remain busy with healers, relatives, and supply runners."
+    position:
+      x: 61.29
+      y: 26.01
+
+  - id: "malarthain-009"
+    number: 9
+    title: "Ministry House"
+    category: "government-civic-authority"
+    summary: "Malarthain’s permanent MDO liaison office and administrative foothold."
+    description: "Ministry House occupies a fortified administrative building in Redwatch. The surrounding block is orderly, well lit, and heavily documented, with visiting officials, licensed couriers, and MDO personnel moving through at nearly every hour."
+    position:
+      x: 65.93
+      y: 65.59
+
+  - id: "malarthain-010"
+    number: 10
+    title: "Red Yard"
+    category: "freight-travel-gates"
+    summary: "Major wagon, cargo, and caravan staging yard near the eastern approach."
+    description: "Red Yard spreads across a wide paved enclosure inside the eastern approach. Caravans assemble here beneath painted route boards while handlers, inspectors, guards, and freight crews sort cargo before it enters the city proper."
+    position:
+      x: 81.43
+      y: 36.14
+
+  - id: "malarthain-011"
+    number: 11
+    title: "East Weighhouse"
+    category: "freight-travel-gates"
+    summary: "Official weighing station for ore, metalwork, and freight leaving Malarthain."
+    description: "The East Weighhouse stands beside the main freight roads of Redwatch. Its raised scales, tally windows, and covered inspection bays make the surrounding area one of the loudest and most congested parts of the eastern district."
+    position:
+      x: 74.37
+      y: 38.25
+
+  - id: "malarthain-012"
+    number: 12
+    title: "Antell House"
+    category: "homes-taverns-social-life"
+    summary: "Solaris’s family home, containing Maela’s workshop and the concealed Sunwarden legacy."
+    description: "Antell House is built into the slope of Stonecrest Valley, with an attached workshop and a narrow view toward the brighter streets above. The neighborhood is old, close-knit, and marked by sun symbols worked into doors, lanterns, and stone."
+    position:
+      x: 46.64
+      y: 62.47
+
+  - id: "malarthain-013"
+    number: 13
+    title: "Hall of Rings"
+    category: "government-civic-authority"
+    summary: "Meeting hall of the Council of Rings and center of civic representation outside the keep."
+    description: "The Hall of Rings occupies the meeting point between the First Ring and Hearthring. Its broad steps are rarely empty, drawing council delegates, petitioners, neighborhood representatives, and citizens hoping to be heard."
+    position:
+      x: 43.07
+      y: 50.77
+
+  - id: "malarthain-014"
+    number: 14
+    title: "The Daylight Tap"
+    category: "homes-taverns-social-life"
+    summary: "Solaris’s tavern and scrying hall, famous for public screenings of old delver runs. (!)"
+    description: "The Daylight Tap glows from a sloping street in Stonecrest Valley, its broad windows kept open whenever weather allows. The surrounding lane fills on scrying nights with stools, food carts, loud arguments, and patrons unable to fit inside."
+    position:
+      x: 52.84
+      y: 60.85
+
+  - id: "malarthain-015"
+    number: 15
+    title: "Whitecoal House"
+    category: "homes-taverns-social-life"
+    summary: "Refined restaurant and private meeting place serving Malarthain’s wealthier residents. (!)"
+    description: "Whitecoal House sits along the quieter edge of Goldclasp, away from the district’s noisier shops. Private dining rooms, discreet entrances, and carefully screened balconies make the surrounding block popular with officials and wealthy patrons."
+    position:
+      x: 48.73
+      y: 57.03
+
+  - id: "malarthain-016"
+    number: 16
+    title: "Acolyte Houses"
+    category: "faith-shrines-memorials"
+    summary: "Residences and instructional halls for priests, attendants, and religious students."
+    description: "The Acolyte Houses line several sheltered lanes below the Open Maw. Students, attendants, and junior priests share gardens, kitchens, classrooms, and modest living quarters arranged around small communal courtyards."
+    position:
+      x: 30.75
+      y: 46.93
+
+  - id: "malarthain-017"
+    number: 17
+    title: "Sealed Works Office"
+    category: "mining-heavy-industry"
+    summary: "Administrative office responsible for collapsed shafts, abandoned tunnels, and restricted mine access."
+    description: "The Sealed Works Office stands in Coldroad near the restricted western routes. Its practical stone building overlooks fenced service lanes, old mine markers, and guarded roads leading toward abandoned or condemned workings."
+    position:
+      x: 58.50
+      y: 31.76
+
+  - id: "malarthain-018"
+    number: 18
+    title: "Reserve Warehouse Nine"
+    category: "mining-heavy-industry"
+    summary: "Ostensible military depot secretly used to store and disguise Deep Reserve materials."
+    description: "Reserve Warehouse Nine is one of several heavy depots along Coldroad. From the street it appears unremarkable: thick walls, narrow windows, wagon doors, and a small guard post serving the western storage yards."
+    position:
+      x: 34.32
+      y: 62.77
+
+  - id: "malarthain-019"
+    number: 19
+    title: "Bread Exchange"
+    category: "trade-markets-food"
+    summary: "Covered trading hall where grain contracts, ration prices, and caravan deliveries are negotiated. (!)"
+    description: "The Bread Exchange dominates a covered square in Hearthring where bakers, grain merchants, caravan factors, and public buyers negotiate daily prices. The surrounding lanes smell of flour, yeast, hot crust, and wagon dust."
+    position:
+      x: 70.43
+      y: 43.71
+
+  - id: "malarthain-020"
+    number: 20
+    title: "House of Tempered Oaths"
+    category: "military-defense-remembrance"
+    summary: "Headquarters, training hall, and ceremonial home of Malarthain’s knights."
+    description: "The House of Tempered Oaths stands at the heart of Anvilring. Its training courts, armories, chapels, and ceremonial halls are surrounded by orderly barracks streets and shops catering to knights and guards."
+    position:
+      x: 59.11
+      y: 51.59
+
+  - id: "malarthain-021"
+    number: 21
+    title: "Brass Scales"
+    category: "trade-markets-food"
+    summary: "Public weighhouse whose measurements are recognized in Malarthian trade disputes. (!)"
+    description: "Brass Scales faces a busy commercial square in Hearthring. Merchants bring disputed goods beneath its awnings while clerks, appraisers, and curious onlookers gather around the great public balances."
+    position:
+      x: 50.98
+      y: 45.92
+
+  - id: "malarthain-022"
+    number: 22
+    title: "Three-Crust Market"
+    category: "trade-markets-food"
+    summary: "Large daily market selling bread, preserved meats, produce, cheese, and household goods."
+    description: "Three-Crust Market fills several linked streets with permanent stalls and temporary awnings. It is one of Malarthain’s busiest everyday markets, crowded with households buying food, cloth, tools, and simple household necessities."
+    position:
+      x: 76.78
+      y: 48.31
+
+  - id: "malarthain-023"
+    number: 23
+    title: "Muster Yard"
+    category: "military-defense-remembrance"
+    summary: "Open assembly ground for guards, militia, patrols, and caravan escorts."
+    description: "Muster Yard is a broad open ground between Anvilring and the eastern approaches. Its packed earth, weapon racks, hitching posts, and signal platforms support drills, patrol formations, militia musters, and caravan departures."
+    position:
+      x: 69.63
+      y: 54.53
+
+  - id: "malarthain-024"
+    number: 24
+    title: "Oath Gate"
+    category: "freight-travel-gates"
+    summary: "Northwestern ceremonial and military entrance leading toward the Oathwalk."
+    description: "Oath Gate rises along the northwestern wall where the Oathwalk reaches the city’s defenses. The surrounding approach is formal and martial, lined with old honors, guard posts, and stone markers commemorating past campaigns."
+    position:
+      x: 21.48
+      y: 38.61
+
+  - id: "malarthain-025"
+    number: 25
+    title: "Cinder Gate"
+    category: "freight-travel-gates"
+    summary: "Northern entrance used primarily by miners, coal wagons, and industrial traffic."
+    description: "Cinder Gate opens directly into the labor roads of northern Malarthain. Coal wagons, mine crews, equipment carts, and shift traffic keep the area dark with dust and busy long before sunrise."
+    position:
+      x: 53.40
+      y: 29.68
+
+  - id: "malarthain-026"
+    number: 26
+    title: "Ashroot Remedies"
+    category: "healing-gardens-public-welfare"
+    summary: "Practical potion and medicine shop serving miners, guards, forge workers, and laborers. (!)"
+    description: "Ashroot Remedies operates from a narrow but crowded shop in Cinderward. The street outside is lined with workers seeking burn salves, breathing draughts, pain tonics, and practical cures that can be purchased without ceremony."
+    position:
+      x: 52.37
+      y: 22.50
+
+  - id: "malarthain-027"
+    number: 27
+    title: "North Lamp Depot"
+    category: "mining-heavy-industry"
+    summary: "Supplier of lamps, oil, rope, masks, tools, and shift equipment for miners."
+    description: "The North Lamp Depot occupies a long industrial yard near Cinder Gate. Racks of lanterns, rope coils, replacement glass, masks, and packed shift kits fill its sheds and loading platforms."
+    position:
+      x: 40.82
+      y: 21.66
+
+  - id: "malarthain-028"
+    number: 28
+    title: "Red Tower"
+    category: "government-civic-authority"
+    summary: "Eastern customs tower, watch station, signal post, and inspection center."
+    description: "Red Tower overlooks the eastern gate roads from a high customs platform. Signals, inspection flags, and messenger traffic make the surrounding streets feel more regulated than the rest of Malarthain."
+    position:
+      x: 62.91
+      y: 42.79
+
+  - id: "malarthain-029"
+    number: 29
+    title: "Rail Factors’ Court"
+    category: "freight-travel-gates"
+    summary: "Offices for freight brokers, rail companies, and long-distance shipping agents."
+    description: "Rail Factors’ Court is a dense cluster of offices, counting rooms, and courier stalls in Redwatch. Freight agents and shipping companies compete for contracts beneath hanging signs marked with distant cities and rail lines."
+    position:
+      x: 69.23
+      y: 16.35
+
+  - id: "malarthain-030"
+    number: 30
+    title: "Red Gate"
+    category: "freight-travel-gates"
+    summary: "Main eastern gate for official visitors, commercial traffic, and regional freight."
+    description: "Red Gate is Malarthain’s busiest formal entrance. The avenue inside is broad enough for freight columns and diplomatic coaches, with customs booths, guard stations, licensed guides, and inns serving newly arrived visitors."
+    position:
+      x: 63.36
+      y: 44.98
+
+  - id: "malarthain-031"
+    number: 31
+    title: "Quiet Runs"
+    category: "faith-shrines-memorials"
+    summary: "Wooded burial paths and memorial grounds used for contemplation and remembrance. (!)"
+    description: "The Quiet Runs wind through the wooded slopes of the Green Run. Low walls, memorial stones, shaded benches, and carefully tended paths keep the area hushed even when the rest of the city is crowded."
+    position:
+      x: 62.63
+      y: 59.38
+
+  - id: "malarthain-032"
+    number: 32
+    title: "House of Red Water"
+    category: "healing-gardens-public-welfare"
+    summary: "Temple-connected healing hall combining divine care with traditional medicine."
+    description: "The House of Red Water occupies a sheltered healing court near the Green Run’s religious paths. Its tiled pools, open treatment rooms, and prayer alcoves serve patients seeking both divine care and traditional medicine."
+    position:
+      x: 35.04
+      y: 39.75
+
+  - id: "malarthain-033"
+    number: 33
+    title: "Moss & Iron"
+    category: "healing-gardens-public-welfare"
+    summary: "Herbalist blending plant remedies, druidic practices, and protective metal charms. (!)"
+    description: "Moss & Iron is tucked among garden walls and small workshops near the Green Run. Bundles of herbs hang beneath its awning beside hammered charms, protective nails, and simple warding pieces."
+    position:
+      x: 34.45
+      y: 26.07
+
+  - id: "malarthain-034"
+    number: 34
+    title: "Children’s Green"
+    category: "healing-gardens-public-welfare"
+    summary: "Public field where young beastfolk play, train, climb, and learn local traditions."
+    description: "Children’s Green is a broad public field between family neighborhoods and the Green Run. Climbing frames, marked practice circles, shade trees, and low stone walls keep the area lively throughout the day."
+    position:
+      x: 19.82
+      y: 60.69
+
+  - id: "malarthain-035"
+    number: 35
+    title: "Shrine of the Last Hunt"
+    category: "faith-shrines-memorials"
+    summary: "Private memorial to Lady Neve within the Cardwell grounds."
+    description: "The Shrine of the Last Hunt lies within the quieter Cardwell grounds, separated from public roads by hedges and old stone walls. The approach is restrained, private, and maintained with unusual care."
+    position:
+      x: 55.76
+      y: 50.88
+
+  - id: "malarthain-036"
+    number: 36
+    title: "Old War Hall"
+    category: "military-defense-remembrance"
+    summary: "Historic command chamber preserving records and relics from Malarthain’s past conflicts."
+    description: "Old War Hall occupies one of Blackcrest Keep’s oldest lower chambers. The passages around it are narrow and cool, lined with campaign maps, sealed cabinets, and relics from conflicts still remembered by Malarthain’s older families."
+    position:
+      x: 45.01
+      y: 37.60
+
+  - id: "malarthain-037"
+    number: 37
+    title: "The Black Ribbon"
+    category: "forges-artificers-magical-shops"
+    summary: "Mourning house creating memorial jewelry, voice-lockets, enchanted portraits, and funeral pieces. (!)"
+    description: "The Black Ribbon maintains an elegant mourning house on a quiet street between Goldclasp and the sacred roads. Its windows display tasteful memorial pieces, while private consultation rooms protect grieving families from public attention."
+    position:
+      x: 53.03
+      y: 38.15
+
+  - id: "malarthain-038"
+    number: 38
+    title: "Winter Yards"
+    category: "freight-travel-gates"
+    summary: "Warehouses storing coal, timber, salt, lamp oil, and cold-season supplies."
+    description: "The Winter Yards stretch along Coldroad behind high walls and broad loading gates. Coal stacks, timber sheds, salt stores, and oil depots make the district practical, guarded, and busy through every season."
+    position:
+      x: 24.23
+      y: 74.06
+
+  - id: "malarthain-039"
+    number: 39
+    title: "Cold Road Caravanserai"
+    category: "freight-travel-gates"
+    summary: "Fortified lodging compound for mountain caravans and distant traders. (!)"
+    description: "The Cold Road Caravanserai is a fortified lodging compound near the western trade routes. Its inner yard serves mountain caravans, teamsters, foreign traders, and travelers waiting for difficult roads to reopen."
+    position:
+      x: 21.14
+      y: 80.91
+
+  - id: "malarthain-040"
+    number: 40
+    title: "Sunken Acre"
+    category: "mining-heavy-industry"
+    summary: "Guarded site of the farm swallowed during the 3377 sinkhole disaster."
+    description: "Sunken Acre is enclosed behind old barriers in Coldroad, where the ground still falls away around the remains of the 3377 collapse. Watch posts and warning stones keep most citizens on the surrounding road."
+    position:
+      x: 28.36
+      y: 68.25
+
+  - id: "malarthain-041"
+    number: 41
+    title: "Low Lantern Market"
+    category: "trade-markets-food"
+    summary: "Late-night market serving miners and laborers traveling between shifts. (!)"
+    description: "Low Lantern Market comes alive when ordinary shops begin closing. Lantern sellers, hot-food stalls, repairers, and shift merchants serve miners and laborers moving through Cinderward after dark."
+    position:
+      x: 35.90
+      y: 17.01
+
+  - id: "malarthain-042"
+    number: 42
+    title: "Hammer Row"
+    category: "mining-heavy-industry"
+    summary: "Street of respected smiths, armorers, metalworkers, and runecrafters."
+    description: "Hammer Row runs through the working heart of Anvilring. Sparks, delivery carts, apprentices, and the sound of metalwork fill the street from early morning until the district’s evening bells."
+    position:
+      x: 27.30
+      y: 30.32
+
+  - id: "malarthain-043"
+    number: 43
+    title: "Huntgarden"
+    category: "faith-shrines-memorials"
+    summary: "Sacred grove where worshippers leave antlers, teeth, feathers, stones, and broken weapons. (!)"
+    description: "Huntgarden forms a sacred green between the High Hunt and the quieter memorial paths. Offerings hang from branches, rest beneath stones, and gather around small shrines maintained by worshippers rather than formal attendants."
+    position:
+      x: 25.04
+      y: 37.95
+
+  - id: "malarthain-044"
+    number: 44
+    title: "Emberhall"
+    category: "government-civic-authority"
+    summary: "Underhearth’s communal meeting hall, feast house, and informal neighborhood council."
+    description: "Emberhall stands at the center of Underhearth’s close-packed streets. Its kitchens, meeting chamber, long tables, and public hearth make it the neighborhood’s favored place for announcements, feasts, and disputes."
+    position:
+      x: 50.61
+      y: 72.23
+
+  - id: "malarthain-045"
+    number: 45
+    title: "Four-Pillar Forge"
+    category: "mining-heavy-industry"
+    summary: "Large dwarven-operated forge specializing in mining tools and structural metalwork."
+    description: "The Four-Pillar Forge occupies a heavy stone workshop in Underhearth. Four reinforced chimneys rise above its roof, and the surrounding lane is crowded with tool merchants, ore carts, and structural engineers."
+    position:
+      x: 58.27
+      y: 77.27
+
+  - id: "malarthain-046"
+    number: 46
+    title: "Moonless Shelf"
+    category: "forges-artificers-magical-shops"
+    summary: "Underhearth bookshop specializing in spellbooks, scrolls, magical manuals, and delving journals. (!)"
+    description: "Moonless Shelf sits beneath a low stone arcade in Underhearth. Its deep rooms and narrow aisles attract scholars, apprentices, delvers, and travelers searching for technical books or obscure magical instruction."
+    position:
+      x: 48.54
+      y: 76.16
+
+  - id: "malarthain-047"
+    number: 47
+    title: "The Quiet Measure"
+    category: "trade-markets-food"
+    summary: "Discreet banking, appraisal, and contract office used by wealthy families and merchants. (!)"
+    description: "The Quiet Measure operates from a polished but unmarked office near Goldclasp. The surrounding street is calm and discreet, favored by wealthy clients who prefer private entrances and appointments without witnesses."
+    position:
+      x: 45.32
+      y: 44.73
+
+  - id: "malarthain-048"
+    number: 48
+    title: "Brightstone & Vale"
+    category: "forges-artificers-magical-shops"
+    summary: "Prestigious gem-setter that enhances weapons, armor, jewelry, and holy symbols."
+    description: "Brightstone & Vale occupies a refined shopfront in Goldclasp. Its guarded display windows show gem-set weapons, formal jewelry, and religious pieces beneath controlled magical light."
+    position:
+      x: 48.81
+      y: 41.27
+
+  - id: "malarthain-049"
+    number: 49
+    title: "Siege Gate and Westwatch Bastion"
+    category: "military-defense-remembrance"
+    summary: "Fortified western entrance guarding old emergency routes and siege-era tunnels."
+    description: "Siege Gate and Westwatch Bastion dominate the western wall above old emergency roads. The surrounding district is sparse and defensive, with drill platforms, sealed tunnels, and clear lines of sight across the approaches."
+    position:
+      x: 28.04
+      y: 32.99
+
+  - id: "malarthain-050"
+    number: 50
+    title: "The Listening Stone"
+    category: "forges-artificers-magical-shops"
+    summary: "Divination shop examining cursed objects, strange ore, relics, and impressions held in stone or metal. (!)"
+    description: "The Listening Stone keeps a modest storefront just beyond Goldclasp’s busiest streets. Objects brought for examination are received through private booths, and the nearby lane is known for unusually patient guards and nervous customers."
+    position:
+      x: 39.82
+      y: 29.74
+
+  - id: "malarthain-051"
+    number: 51
+    title: "The Brass Burrow"
+    category: "forges-artificers-magical-shops"
+    summary: "Artificer workshop producing constructs, prosthetics, mining devices, and experimental delver equipment. (!)"
+    description: "The Brass Burrow fills a compact Underhearth workshop with articulated limbs, gear housings, mining devices, and half-finished constructs. Small test yards and reinforced doors separate its experiments from the surrounding residences."
+    position:
+      x: 58.43
+      y: 55.41
+
+  - id: "malarthain-052"
+    number: 52
+    title: "Griever’s Court"
+    category: "faith-shrines-memorials"
+    summary: "Memorial square for miners and travelers whose bodies were never recovered. (!)"
+    description: "Griever’s Court is a stone-paved memorial square near the paths between Cinderward and the Green Run. Empty plaques and name walls honor those whose bodies were never recovered, drawing families on anniversaries and shift memorials."
+    position:
+      x: 54.59
+      y: 69.10
+
+  - id: "malarthain-053"
+    number: 53
+    title: "Nine-Seal Bookroom"
+    category: "forges-artificers-magical-shops"
+    summary: "High-end bookseller carrying histories, maps, theological works, and rare technical manuals."
+    description: "Nine-Seal Bookroom stands along Goldclasp’s quieter commercial crescent. Its upper floors hold private reading rooms and guarded collections, while the public level serves historians, clergy, officers, and wealthy collectors."
+    position:
+      x: 44.38
+      y: 40.35
+
+  - id: "malarthain-054"
+    number: 54
+    title: "South Granaries"
+    category: "trade-markets-food"
+    summary: "Secondary food stores supporting Apple Gate and the southern neighborhoods."
+    description: "The South Granaries form a group of storehouses near the roads leading to Apple Gate. Their yards handle produce, meal, animal feed, and emergency reserves for the city’s southern neighborhoods."
+    position:
+      x: 65.48
+      y: 58.77
+
+  - id: "malarthain-055"
+    number: 55
+    title: "Harvest Gate, commonly Apple Gate"
+    category: "freight-travel-gates"
+    summary: "Southern entrance through which produce, livestock, and farm goods enter the city."
+    description: "Harvest Gate, more commonly called Apple Gate, opens toward the farms and orchards south of Malarthain. Produce carts, drovers, farm families, and seasonal workers crowd its approach from dawn onward."
+    position:
+      x: 59.75
+      y: 61.74
+
+  - id: "malarthain-056"
+    number: 56
+    title: "Gate Kitchens"
+    category: "trade-markets-food"
+    summary: "Communal kitchens providing inexpensive meals to travelers, laborers, and caravan crews."
+    description: "The Gate Kitchens occupy several connected halls just inside Apple Gate. Long benches, steaming pots, public ovens, and low-cost meal counters make the area a dependable stop for workers and travelers."
+    position:
+      x: 55.97
+      y: 63.58
+
+  - id: "malarthain-057"
+    number: 57
+    title: "Drovers’ Green"
+    category: "trade-markets-food"
+    summary: "Holding and inspection ground for livestock entering Malarthain. (!)"
+    description: "Drovers’ Green spreads beside Apple Gate as a fenced field of pens, inspection lanes, and watering troughs. Traders, handlers, healers, and city inspectors gather here whenever livestock caravans arrive."
+    position:
+      x: 62.29
+      y: 83.37
+
+  - id: "malarthain-058"
+    number: 58
+    title: "Southern Liftworks"
+    category: "mining-heavy-industry"
+    summary: "Network of hoists, cranes, ramps, and platforms moving stone and ore through the southern district."
+    description: "The Southern Liftworks climb the sloped southern district through a network of ramps, cranes, platforms, and hoists. The surrounding roads are built wide for stone carts and kept clear by constant work crews."
+    position:
+      x: 62.34
+      y: 78.98
+
+  - id: "malarthain-059"
+    number: 59
+    title: "Emberglass House"
+    category: "forges-artificers-magical-shops"
+    summary: "Magical glassworks producing arcane lamps, scrying mirrors, lenses, and alchemical vessels. (!)"
+    description: "Emberglass House occupies a bright workshop near Goldclasp’s arcane trades. Its furnace towers and mirrored windows illuminate a lane lined with lens grinders, alchemical suppliers, and specialist craftsmen."
+    position:
+      x: 36.85
+      y: 60.26
+
+  - id: "malarthain-060"
+    number: 60
+    title: "Claw & Circlet"
+    category: "forges-artificers-magical-shops"
+    summary: "Luxury jeweler crafting horn bands, mane clasps, tail rings, tusk ornaments, and formal beastfolk jewelry."
+    description: "Claw & Circlet maintains an ornate Goldclasp showroom designed around beastfolk formalwear. Private fitting rooms accommodate horns, tusks, tails, manes, feathers, and other features poorly served by foreign jewelers."
+    position:
+      x: 36.21
+      y: 69.02
+
+  - id: "malarthain-061"
+    number: 61
+    title: "The Open Maw"
+    category: "faith-shrines-memorials"
+    summary: "Malarthain’s principal open-air temple of Malar and the destination of the High Hunt."
+    description: "The Open Maw stands at the end of the High Hunt as Malarthain’s great open-air temple. Its courtyards, stone jaws, gathering spaces, and exposed sky draw worshippers from every district."
+    position:
+      x: 33.29
+      y: 37.21
+
+  - id: "malarthain-062"
+    number: 62
+    title: "Quarry Bell"
+    category: "mining-heavy-industry"
+    summary: "Massive alarm bell signaling shift changes, collapses, and mine emergencies."
+    description: "Quarry Bell rises above the industrial north on a reinforced stone frame. Its sound carries across Cinderward, Stonecrest Valley, and the mine roads, marking shifts and warning the city of emergencies."
+    position:
+      x: 26.13
+      y: 53.44
+
+  - id: "malarthain-063"
+    number: 63
+    title: "Manyfire Temple"
+    category: "faith-shrines-memorials"
+    summary: "Shared sanctuary serving gods and faiths outside Malarthain’s dominant Malarite tradition. (!)"
+    description: "Manyfire Temple occupies the border between Underhearth and Hearthring. Its shared hearth, small chapels, and open common rooms serve worshippers whose faiths lack large temples elsewhere in Malarthain."
+    position:
+      x: 68.34
+      y: 75.03
+
+  - id: "malarthain-064"
+    number: 64
+    title: "Goldclasp Arcade"
+    category: "trade-markets-food"
+    summary: "Prestigious shopping crescent serving nobles, officers, wealthy merchants, and successful delvers."
+    description: "Goldclasp Arcade curves around the upper commercial streets below the First Ring. Covered walkways, polished fronts, private guards, and fashionable crowds distinguish it from Malarthain’s rougher markets."
+    position:
+      x: 56.95
+      y: 47.36
+
+  - id: "malarthain-065"
+    number: 65
+    title: "The Foreign Hearth"
+    category: "freight-travel-gates"
+    summary: "Respectable inn commonly used by diplomats, merchants, MDO officers, and visiting delvers. (!)"
+    description: "The Foreign Hearth stands near Redwatch’s official roads, close enough for easy access to the gate and Ministry offices. Its dining rooms and guarded courtyards are designed for diplomats, officers, merchants, and visiting delvers."
+    position:
+      x: 66.35
+      y: 69.09
+
+  - id: "malarthain-066"
+    number: 66
+    title: "The Hollow Key"
+    category: "forges-artificers-magical-shops"
+    summary: "Specialist in magical locks, wards, seals, vaults, and tamper detection. (!)"
+    description: "The Hollow Key occupies a narrow, heavily warded shop in Goldclasp. Its plain exterior conceals demonstration vaults, seal-testing rooms, and private workspaces for clients with unusual security needs."
+    position:
+      x: 48.65
+      y: 67.23
+
+  - id: "malarthain-067"
+    number: 67
+    title: "The Fallen Anvil"
+    category: "military-defense-remembrance"
+    summary: "Memorial honoring those lost during the Siege of 3371 and the disaster of 3377."
+    description: "The Fallen Anvil rests in a solemn square between Anvilring and the First Ring. Citizens pass beneath its broken iron monument on military anniversaries, disaster remembrances, and public mourning days."
+    position:
+      x: 66.36
+      y: 38.75
+
+  - id: "malarthain-068"
+    number: 68
+    title: "The Measured Plate"
+    category: "forges-artificers-magical-shops"
+    summary: "Elite armorer known for carefully fitted armor designed around each wearer’s body and movement."
+    description: "The Measured Plate keeps a spacious fitting hall near the finer edge of Anvilring. Adjustable frames, practice floors, and private testing rooms allow armorers to study each client’s movement before beginning a commission."
+    position:
+      x: 50.45
+      y: 32.50
+
+  - id: "malarthain-069"
+    number: 69
+    title: "The Velvet Fang"
+    category: "homes-taverns-social-life"
+    summary: "Licensed brothel, bathhouse, tavern, and discreet social club. (!)"
+    description: "The Velvet Fang occupies a discreet compound near Mawside, where the High Hunt meets Coldroad. Its bathhouse, tavern rooms, guarded entrances, and private gardens make it both respectable and deliberately private."
+    position:
+      x: 14.84
+      y: 49.51
+
+  - id: "malarthain-070"
+    number: 70
+    title: "Claw & Candle"
+    category: "faith-shrines-memorials"
+    summary: "Shop selling Malarite charms, prayer candles, travel blessings, and household wards."
+    description: "Claw & Candle is a small devotional shop along the lower High Hunt. Shelves of prayer candles, travel tokens, household wards, and simple Malarite charms serve pilgrims and local families."
+    position:
+      x: 29.71
+      y: 58.47
+
+  - id: "malarthain-071"
+    number: 71
+    title: "Atticus's Estate"
+    category: "unassigned"
+    summary: "A spacious Goldclasp residence temporarily occupied by the delvers Atticus and Deena while they await the approval and signing of their new guild contract. (!)"
+    description: "Atticus’s Estate is a well-kept Goldclasp residence set behind a walled garden and private carriage court. Atticus and Deena currently use its guest suites, training room, and receiving hall while awaiting approval of their guild contract."
+    position:
+      x: 17.84
+      y: 35.55
+
+  - id: "malarthain-072"
+    number: 72
+    title: "The Old Crown Theatre"
+    category: "unassigned"
+    summary: "An aging playhouse whose struggling company has begun performing an anonymous script that changes each night and reveals private details about members of the audience. (!)"
+    description: "The Old Crown Theatre stands on an aging entertainment street near Hearthring. Its carved façade and faded royal motifs overlook crowded taverns, costume shops, and narrow alleys used by actors and stage crews."
+    position:
+      x: 46.03
+      y: 55.60
+
+  - id: "malarthain-073"
+    number: 73
+    title: "The Gilded Roost"
+    category: "trade-markets-food"
+    summary: "A prestigious auction house dealing in foreign art, antiquities, and recovered relics, currently plagued by thefts in which locked display cases remain perfectly sealed. (!)"
+    description: "The Gilded Roost occupies a guarded auction hall in Goldclasp. Merchants, collectors, couriers, and appraisers gather beneath its high galleries whenever foreign art or recovered antiquities are offered for sale."
+    position:
+      x: 19.20
+      y: 50.38
+
+  - id: "malarthain-074"
+    number: 74
+    title: "Brindlewick Conservatory"
+    category: "healing-gardens-public-welfare"
+    summary: "A glass-roofed botanical sanctuary cultivating rare medicinal plants, where several specimens have begun moving at night and arranging themselves into unfamiliar symbols. (!)"
+    description: "Brindlewick Conservatory rises from the Green Run beneath a broad glass roof. Warm paths wind between medicinal gardens, research beds, public exhibits, and carefully controlled growing chambers."
+    position:
+      x: 18.64
+      y: 45.84
+
+  - id: "malarthain-075"
+    number: 75
+    title: "The Unclaimed Hall"
+    category: "unassigned"
+    summary: "A municipal repository for unidentified bodies, lost property, and abandoned inheritances, where a recently delivered trunk has been claimed by three unrelated families. (!)"
+    description: "The Unclaimed Hall stands in a quieter civic quarter near Redwatch. Its guarded storerooms, registry desks, and identification chambers receive lost property, unclaimed estates, and the belongings of unknown citizens."
+    position:
+      x: 65.65
+      y: 40.27
+
+  - id: "malarthain-076"
+    number: 76
+    title: "The Seventh Bell"
+    category: "faith-shrines-memorials"
+    summary: "A disused memorial belfry that has begun ringing shortly before unexplained deaths, despite its bell having been removed from the tower nearly forty years ago. (!)"
+    description: "The Last Lantern sits near a lesser gate road used after the main streets quiet. Its enclosed courtyard, narrow common room, and modest private chambers cater to delayed travelers and crews arriving after curfew."
+    position:
+      x: 8.19
+      y: 33.91
+
+  - id: "malarthain-077"
+    number: 77
+    title: "The House of Borrowed Faces"
+    category: "homes-taverns-social-life"
+    summary: "A discreet maskmaker and costume house whose clients report being recognized for crimes, debts, and affairs committed while their commissioned masks were still locked inside the workshop. (!)"
+    description: "The House of Borrowed Faces occupies a theatrical lane not far from the Old Crown Theatre. Its workshop windows display masks, wigs, costumes, and fitted disguises for performers, festivals, private clients, and formal ceremonies."
+    position:
+      x: 61.77
+      y: 35.21
+
+  - id: "malarthain-078"
+    number: 78
+    title: "The Foxglove Exchange"
+    category: "trade-markets-food"
+    summary: "A crowded medicinal market where several healers have unknowingly purchased counterfeit remedies that cure their intended illness while causing an entirely different affliction days later. (!)"
+    description: "The Foxglove Exchange fills a covered market near the Green Run’s healing quarter. Herbalists, apothecaries, traveling physicians, and household buyers trade remedies beneath rows of painted medicinal signs."
+    position:
+      x: 89.02
+      y: 83.28
+
+  - id: "malarthain-079"
+    number: 79
+    title: "The Crooked Hearth"
+    category: "homes-taverns-social-life"
+    summary: "A miners’ alehouse built around a permanently leaning chimney, now troubled by a hooded patron who pays strangers to recover personal objects from homes that have not yet been robbed. (!)"
+    description: "The Crooked Hearth is a low miners’ alehouse in Cinderward, built around a chimney that leans visibly over the street. Its back room, cheap meals, and long benches make it popular with crews between shifts."
+    position:
+      x: 41.85
+      y: 68.32
+
+  - id: "malarthain-080"
+    number: 80
+    title: "The Ivory Steps"
+    category: "faith-shrines-memorials"
+    summary: "A weathered hillside shrine reached by eighty carved steps, where offerings have begun disappearing and being returned to worshippers with unfamiliar prayers written beneath them. (!)"
+    description: "The Ivory Steps climb a steep hillside path beyond the busiest sacred roads. Small landings, weathered carvings, and distant views of the city make the shrine a quiet destination for solitary pilgrims."
+    position:
+      x: 78.96
+      y: 53.49
+
+  - id: "malarthain-081"
+    number: 81
+    title: "Stonemarrow Clinic"
+    category: "healing-gardens-public-welfare"
+    summary: "A charitable clinic specializing in injuries caused by mines and heavy industry, whose patients have begun sharing the same recurring dream of a physician none of them have ever met. (!)"
+    description: "Stonemarrow Clinic occupies a plain charitable building between Cinderward and the Green Run. It serves workers who cannot afford private treatment and is usually crowded with families, apprentices, and recovering laborers."
+    position:
+      x: 69.53
+      y: 49.41
+
+  - id: "malarthain-082"
+    number: 82
+    title: "The Red Thread Office"
+    category: "unassigned"
+    summary: "A municipal office responsible for tracing disputed inheritances and family claims, currently investigating a deceased citizen whose records indicate five different spouses living in separate districts. (!)"
+    description: "The Red Thread Office keeps its public counters near the civic courts, with deeper record rooms reserved for inheritance disputes and family claims. Petitioners often wait for hours beneath walls covered in lineage charts and legal notices."
+    position:
+      x: 40.68
+      y: 57.42
+
+  - id: "malarthain-083"
+    number: 83
+    title: "The Sunken Menagerie"
+    category: "trade-markets-food"
+    summary: "A partially underground dealer in unusual animals and trained familiars, recently sealed after every creature began staring toward the same empty enclosure and refusing to sleep. (!)"
+    description: "The Sunken Menagerie lies partly below street level near Underhearth’s outer lanes. Its reinforced pens, training yard, feed rooms, and specialty stalls serve handlers of unusual animals and licensed familiars."
+    position:
+      x: 74.06
+      y: 71.57
+
+  - id: "malarthain-084"
+    number: 84
+    title: "Chimney Court"
+    category: "military-defense-remembrance"
+    summary: "A memorial courtyard dedicated to workers who died during Malarthain’s great industrial fires, where the engraved names have begun changing overnight to include citizens who are still alive. (!)"
+    description: "Chimney Court is a small memorial square in Cinderward surrounded by old worker housing. A soot-dark monument lists those lost in industrial fires, while nearby families still use the court for gatherings and remembrance."
+    position:
+      x: 46.46
+      y: 26.99
+
+  - id: "malarthain-085"
+    number: 85
+    title: "The Night Orchard"
+    category: "healing-gardens-public-welfare"
+    summary: "A walled orchard cultivated for rare nocturnal fruits, where the aging groundskeeper insists an additional tree appears whenever someone in Malarthain dies without being properly mourned. (!)"
+    description: "The Night Orchard is enclosed behind stone walls near the quieter edge of the Green Run. Its paths open only near dusk, when rare flowering trees and nocturnal fruiting plants are tended beneath low lanterns."
+    position:
+      x: 60.70
+      y: 69.52

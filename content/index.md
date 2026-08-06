@@ -24,7 +24,7 @@ Active reports, public notices, rumors, contracts, political developments, and o
 
 The party's present adventure is centered on Malarthain Stronghold. Its interactive map will continue to change as locations are discovered and events unfold.
 
-[[Aerathon - Eternal Labyrinths/Explore Locations|Explore Malarthain Stronghold]]
+[[Aerathon - Eternal Labyrinths/Explore Locations|Explore Malarthain Stronghold Map]]
 
 ## Access Notes
 

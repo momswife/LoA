@@ -7,19 +7,19 @@ const destinations = [
     title: "Annals & Antiquities",
     description:
       "Foundational histories, vanished civilizations, relics, and disputed chronologies.",
-    slug: "aerathon---eternal-labyrinths/i.-annals--and--antiquities" as FullSlug,
+    slug: "aerathon---eternal-labyrinths/i.-annals--and--antiquities/index" as FullSlug,
   },
   {
     numeral: "II",
     title: "The Living Atlas",
     description: "The present-day world: its peoples, powers, settlements, and institutions.",
-    slug: "aerathon---eternal-labyrinths/ii.-the-living-atlas" as FullSlug,
+    slug: "aerathon---eternal-labyrinths/ii.-the-living-atlas/index" as FullSlug,
   },
   {
     numeral: "III",
     title: "Monthly Ledger",
     description: "Developing events, field intelligence, notices, rumors, and active threats.",
-    slug: "aerathon---eternal-labyrinths/iii.-monthly-ledger" as FullSlug,
+    slug: "aerathon---eternal-labyrinths/iii.-monthly-ledger/index" as FullSlug,
   },
 ]
 
@@ -46,9 +46,6 @@ const HomeGateway: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               <strong>{destination.title}</strong>
               <span>{destination.description}</span>
             </span>
-            <span class="home-gateway__arrow" aria-hidden="true">
-              →
-            </span>
           </a>
         ))}
         <a
@@ -57,7 +54,7 @@ const HomeGateway: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         >
           <span class="home-gateway__status">Current arc</span>
           <span class="home-gateway__card-copy">
-            <strong>Explore Malarthain Stronghold</strong>
+            <strong>Explore Malarthain Stronghold Map</strong>
             <span>Open the interactive map and follow the locations shaping the adventure.</span>
           </span>
           <span class="home-gateway__arrow" aria-hidden="true">

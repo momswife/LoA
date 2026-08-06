@@ -359,7 +359,7 @@ footer {
 
 a.home-gateway__card.internal {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: start;
   gap: 0.7rem;
   min-width: 0;
@@ -420,6 +420,11 @@ a.home-gateway__card.internal {
 
 .home-gateway__card:hover .home-gateway__arrow {
   transform: translateX(3px);
+}
+
+body[data-slug="index"] .page-header {
+  padding-bottom: 0;
+  border-bottom: 0;
 }
 
 a.home-gateway__card--current.internal {
