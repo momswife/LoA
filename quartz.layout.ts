@@ -46,7 +46,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Darkmode(),
     Component.ReaderMode(),
   ],
-  afterBody: [Component.RelatedRecords()],
+  afterBody: [Component.CategoryDirectory(), Component.RelatedRecords()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/momswife/LoA",
@@ -73,7 +73,6 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.DocumentMasthead(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.TagList(),
     Component.ConditionalRender({
       component: Component.HomeGateway(),
       condition: (page) => page.fileData.slug === "index",

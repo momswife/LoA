@@ -21,6 +21,7 @@ type MastheadFrontmatter = Record<string, unknown> & {
   hero?: string
   banner?: string
   heroAlt?: string
+  tags?: unknown
   facts?: unknown
   keyFacts?: unknown
 }
@@ -60,6 +61,14 @@ function normalizeFacts(value: unknown): Fact[] {
   return []
 }
 
+function normalizeTags(value: unknown): string[] {
+  const values = Array.isArray(value) ? value : value ? [value] : []
+  return values.flatMap((tag) => {
+    const normalized = textValue(tag)?.trim()
+    return normalized ? [normalized] : []
+  })
+}
+
 function inferDivision(slug: string): string | undefined {
   const normalized = slug.toLowerCase()
   if (normalized.includes("i.-annals--and--antiquities")) return "Annals & Antiquities"
@@ -83,11 +92,14 @@ export default (() => {
     const summary = textValue(
       frontmatter.summary ?? frontmatter.description ?? fileData.description,
     )
-    const badges = [
+    const recordLabels = [
       textValue(frontmatter.division) ?? inferDivision(fileData.slug ?? ""),
       textValue(frontmatter.recordType),
       textValue(frontmatter.status),
     ].filter((badge, index, all): badge is string => Boolean(badge) && all.indexOf(badge) === index)
+    const tags = normalizeTags(frontmatter.tags).filter(
+      (tag) => !recordLabels.some((label) => label.toLowerCase() === tag.toLowerCase()),
+    )
 
     const facts = normalizeFacts(frontmatter.facts ?? frontmatter.keyFacts)
     const classification = textValue(frontmatter.classification)
@@ -106,10 +118,15 @@ export default (() => {
         class={classNames(displayClass, "document-masthead")}
         data-status={textValue(frontmatter.status)?.toLowerCase().replaceAll(" ", "-")}
       >
-        {badges.length > 0 && (
-          <div class="document-masthead__badges" aria-label="Record classification">
-            {badges.map((badge) => (
-              <span>{badge}</span>
+        {(recordLabels.length > 0 || tags.length > 0) && (
+          <div class="document-masthead__badges" aria-label="Record labels and tags">
+            {recordLabels.map((label) => (
+              <span>{label}</span>
+            ))}
+            {tags.map((tag) => (
+              <a class="internal" href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}>
+                #{tag}
+              </a>
             ))}
           </div>
         )}

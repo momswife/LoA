@@ -11,6 +11,7 @@ import Footer from "./Footer"
 import Breadcrumbs from "./Breadcrumbs"
 import DocumentMasthead from "./DocumentMasthead"
 import RelatedRecords from "./RelatedRecords"
+import CategoryDirectory from "./CategoryDirectory"
 import { ArticleTitle } from "../../.quartz/plugins/article-title/dist/index.js"
 import { ContentMeta } from "../../.quartz/plugins/content-meta/dist/index.js"
 import { Darkmode } from "../../.quartz/plugins/darkmode/dist/index.js"
@@ -38,6 +39,7 @@ export {
   HomeGateway,
   Breadcrumbs,
   DocumentMasthead,
+  CategoryDirectory,
   RelatedRecords,
   Explorer,
   TableOfContents,
