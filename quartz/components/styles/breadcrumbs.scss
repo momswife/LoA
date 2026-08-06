@@ -1,17 +1,14 @@
 @use "../../styles/variables.scss" as *;
 
 .breadcrumb-container {
+  position: static;
+  display: block;
   width: 100%;
   max-width: 100%;
   min-width: 0;
   margin: 0 0 0.85rem;
   padding: 0;
-  overflow: hidden;
-  scrollbar-width: none;
-
-  &::-webkit-scrollbar {
-    display: none;
-  }
+  overflow: visible;
 }
 
 .breadcrumb-list {
@@ -20,6 +17,8 @@
   width: 100%;
   min-width: 0;
   align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
   gap: 0.25rem;
   margin: 0;
   padding: 0;
@@ -31,6 +30,7 @@
   flex-direction: row;
   align-items: center;
   flex: 0 0 auto;
+  max-width: 100%;
   min-width: 0;
   gap: 0.25rem;
 
@@ -80,15 +80,19 @@
   }
 
   &.current > span {
-    max-width: 100%;
+    max-width: min(26rem, 40vw);
     border-color: var(--lorevault-border);
     background: var(--lorevault-surface);
     color: var(--darkgray);
+    overflow: visible;
+    overflow-wrap: anywhere;
+    text-overflow: clip;
+    white-space: normal;
   }
 
   &.current {
-    flex: 1 1 10rem;
-    overflow: hidden;
+    flex: 0 1 auto;
+    overflow: visible;
   }
 
   &.collapsed > span {
@@ -111,14 +115,25 @@
   .breadcrumb-list {
     width: max-content;
     min-width: max-content;
+    flex-wrap: nowrap;
     padding-right: 0.75rem;
   }
 
   .breadcrumb-container {
     overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
   }
 
   .breadcrumb-element.current {
     flex: 0 0 auto;
+
+    > span {
+      max-width: 72vw;
+    }
   }
 }

@@ -67,7 +67,11 @@ function transformChildren(children: RootContent[]) {
       ],
     }
 
-    children[index] = details
+    // Keep the opening quote and title together, then expose filing metadata
+    // before the subtitle starts the document proper. The in-body H1 is hidden
+    // by the masthead layout, so this appears directly beneath the quote.
+    children.splice(index, 1)
+    children.splice(subtitleIndex, 0, details)
   }
 }
 

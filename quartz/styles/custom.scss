@@ -262,12 +262,18 @@ article {
 }
 
 .page-header {
+  position: static;
+  width: 100%;
   min-width: 0;
+  justify-self: stretch;
   padding-bottom: 1.15rem;
   border-bottom: 1px solid var(--lorevault-divider);
 }
 
 .page-header > .popover-hint {
+  display: block;
+  width: 100%;
+  max-width: 100%;
   min-width: 0;
 }
 
@@ -303,10 +309,18 @@ article {
 
 .legacy-record-details {
   max-width: 62rem;
-  margin: 0 0 2.25rem;
+  margin: 0 0 1.35rem;
   border-block: 1px solid var(--lorevault-divider);
   color: var(--darkgray);
   font-size: 0.9rem;
+}
+
+.page-header:has(.document-masthead)
+  + article
+  > .markdown-preview-view
+  > h1:first-of-type
+  + .legacy-record-details {
+  margin-top: -0.75rem;
 }
 
 .legacy-record-details > summary {

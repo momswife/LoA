@@ -375,8 +375,7 @@ function renderMap(
       </div>
       <input class="aerathon-map__locations-search" type="search" placeholder="Search locations" aria-label="Search locations" />
       <div class="aerathon-map__locations-filters" aria-label="Filter locations">
-        <button type="button" data-map-location-filter="visible" aria-pressed="true">Visible</button>
-        <button type="button" data-map-location-filter="all" aria-pressed="false">All</button>
+        <button type="button" data-map-location-filter="all" aria-pressed="true">All</button>
         <button type="button" data-map-location-filter="unplaced" aria-pressed="false">Unplaced</button>
         <button type="button" data-map-location-filter="placed" aria-pressed="false">Placed</button>
       </div>

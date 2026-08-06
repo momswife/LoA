@@ -122,7 +122,7 @@ function initAerathonMap(map: HTMLElement) {
   let editorDraft: MapPin | null = null
   let pendingPlacement: MapPin | null = null
   let selectedLocationId: string | null = null
-  let locationFilter: "visible" | "all" | "placed" | "unplaced" = editMode ? "all" : "visible"
+  let locationFilter: "all" | "placed" | "unplaced" = "all"
   const pointers = new Map<number, PointerEvent>()
   let dragStart: { x: number; y: number; translateX: number; translateY: number } | null = null
   let pinDrag: {
@@ -136,10 +136,9 @@ function initAerathonMap(map: HTMLElement) {
   let fullscreenRequestPending = false
   let fullscreenActive = false
   let fullscreenReflowTimer: number | undefined
-  let locationRenderTimer: number | undefined
   let cameraAnimationFrame: number | undefined
   let interactionAnimationFrame: number | undefined
-  let pendingLocationScroll = false
+  let locationScrollAnimationFrame: number | undefined
   let pinchStart: {
     distance: number
     scale: number
@@ -210,15 +209,6 @@ function initAerathonMap(map: HTMLElement) {
     data.pins = sourcePins
   }
 
-  const scheduleLocationListRender = (delay = 140) => {
-    if (!datasetMode) return
-    if (locationRenderTimer !== undefined) window.clearTimeout(locationRenderTimer)
-    locationRenderTimer = window.setTimeout(() => {
-      locationRenderTimer = undefined
-      renderLocationList()
-    }, delay)
-  }
-
   const applyTransform = () => {
     const viewportWidth = viewport.clientWidth
     const viewportHeight = viewport.clientHeight
@@ -242,7 +232,6 @@ function initAerathonMap(map: HTMLElement) {
         : clamp(translateY, minY, 0)
 
     stage.style.transform = `translate3d(${translateX}px, ${translateY}px, 0) scale(${scale})`
-    if (cameraAnimationFrame === undefined) scheduleLocationListRender()
   }
 
   const scheduleTransform = () => {
@@ -308,7 +297,6 @@ function initAerathonMap(map: HTMLElement) {
         cameraAnimationFrame = requestAnimationFrame(step)
       } else {
         cameraAnimationFrame = undefined
-        scheduleLocationListRender(0)
       }
     }
     cameraAnimationFrame = requestAnimationFrame(step)
@@ -631,24 +619,9 @@ function initAerathonMap(map: HTMLElement) {
     popup.hidden = false
   }
 
-  function pinIsVisible(pin: MapPin) {
-    if (!hasPosition(pin)) return false
-    const button = pinLayer!.querySelector<HTMLButtonElement>(`[data-pin-id="${pin.id}"]`)
-    if (!button) return false
-    const pinRect = button.getBoundingClientRect()
-    const viewportRect = viewport!.getBoundingClientRect()
-    const centerX = pinRect.left + pinRect.width / 2
-    const centerY = pinRect.top + pinRect.height / 2
-    return (
-      centerX >= viewportRect.left &&
-      centerX <= viewportRect.right &&
-      centerY >= viewportRect.top &&
-      centerY <= viewportRect.bottom
-    )
-  }
-
   function renderLocationList() {
     if (!datasetMode || !locationsList) return
+    const previousScrollTop = locationsList.scrollTop
     const query = locationsSearch?.value.trim().toLocaleLowerCase() ?? ""
     const ordered = [...data.pins].sort(
       (a, b) => (a.number ?? Number.MAX_SAFE_INTEGER) - (b.number ?? Number.MAX_SAFE_INTEGER),
@@ -671,7 +644,6 @@ function initAerathonMap(map: HTMLElement) {
     for (const pin of ordered) {
       const placed = hasPosition(pin)
       if (!editMode && !placed) continue
-      if (locationFilter === "visible" && !pinIsVisible(pin)) continue
       if (locationFilter === "placed" && !placed) continue
       if (locationFilter === "unplaced" && placed) continue
       const searchable =
@@ -679,6 +651,7 @@ function initAerathonMap(map: HTMLElement) {
       if (query && !searchable.includes(query)) continue
 
       const item = document.createElement("li")
+      item.className = "aerathon-map__location-item"
       const button = document.createElement("button")
       const number = document.createElement("span")
       const text = document.createElement("span")
@@ -721,33 +694,50 @@ function initAerathonMap(map: HTMLElement) {
     if (renderedCount === 0) {
       const empty = document.createElement("li")
       empty.className = "aerathon-map__locations-empty"
-      empty.textContent =
-        locationFilter === "visible"
-          ? "No pins are currently in view. Zoom out or choose All."
-          : "No locations match this filter."
+      empty.textContent = "No locations match this filter."
       locationsList.append(empty)
     }
 
-    if (pendingLocationScroll && selectedLocationId) {
-      pendingLocationScroll = false
-      const selectedButton = [
-        ...locationsList.querySelectorAll<HTMLButtonElement>(".aerathon-map__location-button"),
-      ].find((candidate) => candidate.dataset.locationId === selectedLocationId)
-      if (selectedButton) {
-        const selectedTop = selectedButton.parentElement?.offsetTop ?? selectedButton.offsetTop
-        locationsList.scrollTo({
-          top: selectedTop - locationsList.clientHeight / 2 + selectedButton.offsetHeight / 2,
-          behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
-            ? "auto"
-            : "smooth",
-        })
-      }
+    locationsList.scrollTop = Math.min(
+      previousScrollTop,
+      Math.max(0, locationsList.scrollHeight - locationsList.clientHeight),
+    )
+  }
+
+  const syncSelectedLocation = (scrollIntoView = false) => {
+    if (!locationsList) return
+    const buttons = [
+      ...locationsList.querySelectorAll<HTMLButtonElement>(".aerathon-map__location-button"),
+    ]
+    const selectedButton = buttons.find(
+      (candidate) => candidate.dataset.locationId === selectedLocationId,
+    )
+    for (const button of buttons) button.classList.toggle("is-selected", button === selectedButton)
+    if (!scrollIntoView || !selectedButton) return
+
+    if (locationScrollAnimationFrame !== undefined) {
+      cancelAnimationFrame(locationScrollAnimationFrame)
     }
+    locationScrollAnimationFrame = requestAnimationFrame(() => {
+      locationScrollAnimationFrame = undefined
+      const listRect = locationsList.getBoundingClientRect()
+      const selectedRect = selectedButton.getBoundingClientRect()
+      const selectedCenter =
+        locationsList.scrollTop + selectedRect.top - listRect.top + selectedRect.height / 2
+      const targetScroll = clamp(
+        selectedCenter - locationsList.clientHeight / 2,
+        0,
+        Math.max(0, locationsList.scrollHeight - locationsList.clientHeight),
+      )
+      locationsList.scrollTo({
+        top: targetScroll,
+        behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
+      })
+    })
   }
 
   const selectLocation = (pin: MapPin) => {
     selectedLocationId = pin.id ?? null
-    pendingLocationScroll = true
     if (!hasPosition(pin)) {
       pendingPlacement = pin
       hidePopup()
@@ -766,7 +756,7 @@ function initAerathonMap(map: HTMLElement) {
         button.focus({ preventScroll: true })
       }
     }
-    renderLocationList()
+    syncSelectedLocation(true)
   }
 
   const openLocationsPanel = () => {
@@ -958,11 +948,10 @@ function initAerathonMap(map: HTMLElement) {
         return
       }
       selectedLocationId = pin.id ?? null
-      pendingLocationScroll = true
       focusPin(pin)
       showPopup(pin, button)
       openEditor(pin, button)
-      renderLocationList()
+      syncSelectedLocation(true)
     })
     button.addEventListener("pointerdown", (event) => {
       if (!editMode) return
@@ -1226,12 +1215,7 @@ function initAerathonMap(map: HTMLElement) {
   for (const button of locationFilterButtons) {
     button.addEventListener("click", () => {
       const filter = button.dataset.mapLocationFilter
-      if (
-        filter === "visible" ||
-        filter === "all" ||
-        filter === "placed" ||
-        filter === "unplaced"
-      ) {
+      if (filter === "all" || filter === "placed" || filter === "unplaced") {
         locationFilter = filter
       }
       for (const filterButton of locationFilterButtons) {
@@ -1318,9 +1302,10 @@ function initAerathonMap(map: HTMLElement) {
   resizeObserver.observe(stage)
   window.addCleanup(() => resizeObserver.disconnect())
   window.addCleanup(() => {
-    if (locationRenderTimer !== undefined) window.clearTimeout(locationRenderTimer)
     if (fullscreenReflowTimer !== undefined) window.clearTimeout(fullscreenReflowTimer)
     if (interactionAnimationFrame !== undefined) cancelAnimationFrame(interactionAnimationFrame)
+    if (locationScrollAnimationFrame !== undefined)
+      cancelAnimationFrame(locationScrollAnimationFrame)
     cancelCameraAnimation()
     document.documentElement.classList.remove("map-fullscreen-open")
     if (document.fullscreenElement === map) void document.exitFullscreen()

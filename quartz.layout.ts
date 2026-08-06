@@ -27,8 +27,8 @@ const siteExplorerOptions = {
 const siteBreadcrumbOptions = {
   hideTopLevelFolder: false,
   disableFolderLinks: false,
-  maxItems: 6,
-  itemsBeforeCollapse: 3,
+  maxItems: 5,
+  itemsBeforeCollapse: 2,
   itemsAfterCollapse: 2,
   labelMap: {
     "Aerathon Eternal Labyrinths": "Aerathon",
