@@ -7,19 +7,19 @@ const destinations = [
     title: "Annals & Antiquities",
     description:
       "Foundational histories, vanished civilizations, relics, and disputed chronologies.",
-    slug: "aerathon---eternal-labyrinths/i.-annals--and--antiquities/index" as FullSlug,
+    slug: "aerathon---eternal-labyrinths/i.-annals--and--antiquities/overview" as FullSlug,
   },
   {
     numeral: "II",
     title: "The Living Atlas",
     description: "The present-day world: its peoples, powers, settlements, and institutions.",
-    slug: "aerathon---eternal-labyrinths/ii.-the-living-atlas/index" as FullSlug,
+    slug: "aerathon---eternal-labyrinths/ii.-the-living-atlas/overview" as FullSlug,
   },
   {
     numeral: "III",
     title: "Monthly Ledger",
     description: "Developing events, field intelligence, notices, rumors, and active threats.",
-    slug: "aerathon---eternal-labyrinths/iii.-monthly-ledger/index" as FullSlug,
+    slug: "aerathon---eternal-labyrinths/iii.-monthly-ledger/overview" as FullSlug,
   },
 ]
 
