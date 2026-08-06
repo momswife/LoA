@@ -99,14 +99,26 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.HomeGateway(),
       condition: (page) => page.fileData.slug === "index",
     }),
-    Component.MobileOnly(Component.TableOfContents()),
+    Component.ConditionalRender({
+      component: Component.WorldwireFeed(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.MobileOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.Explorer({
       ...siteExplorerOptions,
     }),
   ],
-  right: [Component.DesktopOnly(Component.TableOfContents())],
+  right: [
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

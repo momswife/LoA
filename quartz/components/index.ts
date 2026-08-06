@@ -7,6 +7,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import SiteNav from "./SiteNav"
 import HomeGateway from "./HomeGateway"
+import WorldwireFeed from "./WorldwireFeed"
 import Footer from "./Footer"
 import Breadcrumbs from "./Breadcrumbs"
 import DocumentMasthead from "./DocumentMasthead"
@@ -37,6 +38,7 @@ export {
   ConditionalRender,
   SiteNav,
   HomeGateway,
+  WorldwireFeed,
   Breadcrumbs,
   DocumentMasthead,
   CategoryDirectory,
