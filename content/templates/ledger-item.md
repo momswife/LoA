@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - monthly-ledger
+summary:
+recordType: Field Report
+status: Draft
+classification:
+revision:
+facts:
+  Reporting Period:
+  Reliability:
+  Filing Office:
 draft: true
 ---
 

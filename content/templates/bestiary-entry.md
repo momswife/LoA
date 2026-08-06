@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - bestiary
+summary:
+recordType: Bestiary Record
+status: Draft
+classification:
+revision:
+facts:
+  Threat Class:
+  Habitat:
+  Filing Office:
 draft: true
 ---
 

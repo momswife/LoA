@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - region
+summary:
+recordType: Regional Record
+status: Draft
+classification:
+revision:
+facts:
+  Realm:
+  Government:
+  Travel Status:
 draft: true
 ---
 

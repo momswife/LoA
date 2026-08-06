@@ -90,9 +90,9 @@ export default (() => {
     if (!title) return null
     const isOverview = fileData.slug?.endsWith("/overview") ?? false
 
-    const summary = textValue(
-      frontmatter.summary ?? frontmatter.description ?? fileData.description,
-    )
+    // Only authored summaries belong in the masthead. The generated description
+    // often contains the opening quote and filing block, duplicating the article.
+    const summary = textValue(frontmatter.summary ?? frontmatter.description)
     const recordLabels = [
       textValue(frontmatter.division) ?? inferDivision(fileData.slug ?? ""),
       textValue(frontmatter.recordType),

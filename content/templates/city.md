@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - city
+summary:
+recordType: City Record
+status: Draft
+classification:
+revision:
+facts:
+  Region:
+  Population:
+  Government:
 draft: true
 ---
 

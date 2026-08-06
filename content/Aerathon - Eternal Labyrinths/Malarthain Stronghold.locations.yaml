@@ -2,7 +2,7 @@ schemaVersion: 1
 
 map:
   id: "malarthain-stronghold"
-  label: "Malarthain Stronghold"
+  label: "Malarthain Stronghold Map"
   image: "Aerathon - Eternal Labyrinths/Malarthain Stronghold.png"
   expectedLocationCount: 85
   suppliedLocationCount: 85

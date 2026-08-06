@@ -277,6 +277,45 @@ article {
   display: none;
 }
 
+// Give legacy records a consistent editorial preamble without requiring a
+// frontmatter rewrite: subtitle first, then a quieter filing-details panel.
+.page-header:has(.document-masthead) + article > .markdown-preview-view > h1:first-of-type + h3 {
+  max-width: 62rem;
+  margin: 2rem 0 0.65rem;
+  color: var(--dark);
+  font-size: clamp(1rem, 2vw, 1.22rem);
+  letter-spacing: 0.015em;
+  line-height: 1.4;
+}
+
+.page-header:has(.document-masthead)
+  + article
+  > .markdown-preview-view
+  > h1:first-of-type
+  + h3
+  + p:has(> strong:first-child) {
+  max-width: 62rem;
+  margin: 0 0 2.25rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--lorevault-border);
+  border-left: 3px solid color-mix(in srgb, var(--secondary) 72%, var(--lorevault-border));
+  border-radius: 0 var(--lorevault-radius) var(--lorevault-radius) 0;
+  background: color-mix(in srgb, var(--lorevault-surface) 82%, transparent);
+  color: var(--darkgray);
+  font-size: 0.91rem;
+  line-height: 1.7;
+
+  > strong {
+    color: var(--dark);
+  }
+
+  > br {
+    display: block;
+    margin-top: 0.12rem;
+    content: "";
+  }
+}
+
 .breadcrumbs,
 .breadcrumb-container {
   color: var(--gray);

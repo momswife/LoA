@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - guild
+summary:
+recordType: Guild Record
+status: Draft
+classification:
+revision:
+facts:
+  Headquarters:
+  Guildmaster:
+  Standing:
 draft: true
 ---
 

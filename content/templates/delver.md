@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - delver
+summary:
+recordType: Delver Profile
+status: Draft
+classification:
+revision:
+facts:
+  Rank:
+  Affiliation:
+  Current Status:
 draft: true
 ---
 

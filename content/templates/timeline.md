@@ -3,6 +3,15 @@ title:
 aliases: []
 tags:
   - timeline
+summary:
+recordType: Chronological Record
+status: Draft
+classification:
+revision:
+facts:
+  Period:
+  Evidence Standard:
+  Filing Office:
 draft: true
 ---
 
