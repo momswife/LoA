@@ -262,8 +262,13 @@ article {
 }
 
 .page-header {
+  min-width: 0;
   padding-bottom: 1.15rem;
   border-bottom: 1px solid var(--lorevault-divider);
+}
+
+.page-header > .popover-hint {
+  min-width: 0;
 }
 
 .page-header:has(.document-masthead) {
@@ -391,6 +396,21 @@ ul.toc-content.overflow > li > a {
 footer {
   color: var(--gray);
   font-size: 0.82rem;
+}
+
+body[data-slug$="/explore-locations"] {
+  .aerathon-map {
+    margin-bottom: 0.35rem;
+  }
+
+  .center > .page-footer:empty {
+    display: none;
+    margin: 0;
+  }
+
+  footer {
+    padding-top: 0.75rem;
+  }
 }
 
 .home-gateway {

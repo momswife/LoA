@@ -1,10 +1,12 @@
 @use "../../styles/variables.scss" as *;
 
 .breadcrumb-container {
+  width: 100%;
   max-width: 100%;
+  min-width: 0;
   margin: 0 0 0.85rem;
   padding: 0;
-  overflow-x: auto;
+  overflow: hidden;
   scrollbar-width: none;
 
   &::-webkit-scrollbar {
@@ -15,8 +17,8 @@
 .breadcrumb-list {
   display: flex;
   flex-direction: row;
-  width: max-content;
-  min-width: 100%;
+  width: 100%;
+  min-width: 0;
   align-items: center;
   gap: 0.25rem;
   margin: 0;
@@ -29,6 +31,7 @@
   flex-direction: row;
   align-items: center;
   flex: 0 0 auto;
+  min-width: 0;
   gap: 0.25rem;
 
   a,
@@ -44,7 +47,18 @@
     font-size: 0.76rem;
     font-weight: $semiBoldWeight;
     line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
     white-space: nowrap;
+  }
+
+  &:not(.root, .current, .collapsed) {
+    flex: 0 1 auto;
+
+    a,
+    > span:not(.breadcrumb-separator) {
+      max-width: clamp(7rem, 16vw, 15rem);
+    }
   }
 
   a {
@@ -66,9 +80,15 @@
   }
 
   &.current > span {
+    max-width: 100%;
     border-color: var(--lorevault-border);
     background: var(--lorevault-surface);
     color: var(--darkgray);
+  }
+
+  &.current {
+    flex: 1 1 10rem;
+    overflow: hidden;
   }
 
   &.collapsed > span {
@@ -89,7 +109,16 @@
   }
 
   .breadcrumb-list {
+    width: max-content;
     min-width: max-content;
     padding-right: 0.75rem;
+  }
+
+  .breadcrumb-container {
+    overflow-x: auto;
+  }
+
+  .breadcrumb-element.current {
+    flex: 0 0 auto;
   }
 }

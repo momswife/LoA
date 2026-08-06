@@ -133,7 +133,10 @@ function initAerathonMap(map: HTMLElement) {
   } | null = null
   let suppressNextPinClick = false
   let fallbackFullscreen = false
+  let fullscreenRequestPending = false
   let locationRenderFrame: number | undefined
+  let cameraAnimationFrame: number | undefined
+  let pendingLocationScroll = false
   let pinchStart: {
     distance: number
     scale: number
@@ -232,6 +235,60 @@ function initAerathonMap(map: HTMLElement) {
 
     stage.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`
     scheduleLocationListRender()
+  }
+
+  const cancelCameraAnimation = () => {
+    if (cameraAnimationFrame === undefined) return
+    cancelAnimationFrame(cameraAnimationFrame)
+    cameraAnimationFrame = undefined
+  }
+
+  const cameraPositionForPin = (pin: MapPin, targetScale: number) => {
+    const viewportRect = viewport.getBoundingClientRect()
+    const stageRect = stage.getBoundingClientRect()
+    const naturalWidth = stage.offsetWidth || stageRect.width / scale
+    const naturalHeight = stage.offsetHeight || stageRect.height / scale
+    return {
+      x: viewportRect.width / 2 - naturalWidth * targetScale * (pin.x! / 100),
+      y: viewportRect.height / 2 - naturalHeight * targetScale * (pin.y! / 100),
+    }
+  }
+
+  const focusPin = (pin: MapPin, animate = true) => {
+    if (!hasPosition(pin)) return
+    cancelCameraAnimation()
+
+    const targetScale = scale < 1.65 ? 1.75 : Math.min(scale, 2)
+    const target = cameraPositionForPin(pin, targetScale)
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+    if (!animate || reduceMotion) {
+      scale = targetScale
+      translateX = target.x
+      translateY = target.y
+      applyTransform()
+      return
+    }
+
+    const startScale = scale
+    const startX = translateX
+    const startY = translateY
+    const startedAt = performance.now()
+    const duration = 560
+    const step = (now: number) => {
+      const progress = clamp((now - startedAt) / duration, 0, 1)
+      const eased = 1 - Math.pow(1 - progress, 3)
+      scale = startScale + (targetScale - startScale) * eased
+      translateX = startX + (target.x - startX) * eased
+      translateY = startY + (target.y - startY) * eased
+      applyTransform()
+
+      if (progress < 1) {
+        cameraAnimationFrame = requestAnimationFrame(step)
+      } else {
+        cameraAnimationFrame = undefined
+      }
+    }
+    cameraAnimationFrame = requestAnimationFrame(step)
   }
 
   const movePanelsToSidebar = () => {
@@ -647,21 +704,27 @@ function initAerathonMap(map: HTMLElement) {
           : "No locations match this filter."
       locationsList.append(empty)
     }
-  }
 
-  const centerOnPin = (pin: MapPin) => {
-    if (!hasPosition(pin)) return
-    const viewportRect = viewport.getBoundingClientRect()
-    const stageRect = stage.getBoundingClientRect()
-    const naturalWidth = stageRect.width / scale
-    const naturalHeight = stageRect.height / scale
-    translateX = viewportRect.width / 2 - naturalWidth * scale * (pin.x / 100)
-    translateY = viewportRect.height / 2 - naturalHeight * scale * (pin.y / 100)
-    applyTransform()
+    if (pendingLocationScroll && selectedLocationId) {
+      pendingLocationScroll = false
+      const selectedButton = [
+        ...locationsList.querySelectorAll<HTMLButtonElement>(".aerathon-map__location-button"),
+      ].find((candidate) => candidate.dataset.locationId === selectedLocationId)
+      if (selectedButton) {
+        const selectedTop = selectedButton.parentElement?.offsetTop ?? selectedButton.offsetTop
+        locationsList.scrollTo({
+          top: selectedTop - locationsList.clientHeight / 2 + selectedButton.offsetHeight / 2,
+          behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
+            ? "auto"
+            : "smooth",
+        })
+      }
+    }
   }
 
   const selectLocation = (pin: MapPin) => {
     selectedLocationId = pin.id ?? null
+    pendingLocationScroll = true
     if (!hasPosition(pin)) {
       pendingPlacement = pin
       hidePopup()
@@ -674,10 +737,10 @@ function initAerathonMap(map: HTMLElement) {
       map.classList.remove("is-placing-location")
       const button = pinLayer.querySelector<HTMLButtonElement>(`[data-pin-id="${pin.id}"]`)
       if (button) {
-        centerOnPin(pin)
+        focusPin(pin)
         showPopup(pin, button)
         openEditor(pin, button)
-        button.focus()
+        button.focus({ preventScroll: true })
       }
     }
     renderLocationList()
@@ -756,6 +819,7 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const zoomAt = (nextScale: number, clientX: number, clientY: number) => {
+    cancelCameraAnimation()
     const rect = viewport.getBoundingClientRect()
     const oldScale = scale
     nextScale = clamp(nextScale, 1, 5)
@@ -776,6 +840,7 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const resetView = () => {
+    cancelCameraAnimation()
     scale = 1
     translateX = 0
     translateY = 0
@@ -783,8 +848,11 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const syncFullscreenState = () => {
-    const active = document.fullscreenElement === map || fallbackFullscreen
+    const nativeFullscreen = document.fullscreenElement === map
+    const active = nativeFullscreen || fallbackFullscreen
     map.classList.toggle("is-fullscreen", active)
+    map.classList.toggle("is-fallback-fullscreen", fallbackFullscreen)
+    document.documentElement.classList.toggle("map-fullscreen-open", fallbackFullscreen)
     if (fullscreenButton) {
       fullscreenButton.textContent = active ? "Collapse" : "Expand"
       fullscreenButton.setAttribute(
@@ -793,12 +861,18 @@ function initAerathonMap(map: HTMLElement) {
       )
     }
     movePanelsToSidebar()
-    window.setTimeout(applyTransform, 0)
+    window.setTimeout(() => {
+      const selected = data.pins.find((pin) => pin.id === selectedLocationId)
+      if (selected && active) focusPin(selected, false)
+      else applyTransform()
+    }, 50)
   }
 
   const toggleFullscreen = async () => {
+    if (fullscreenRequestPending) return
     if (document.fullscreenElement === map) {
       await document.exitFullscreen()
+      syncFullscreenState()
       return
     }
     if (fallbackFullscreen) {
@@ -807,16 +881,20 @@ function initAerathonMap(map: HTMLElement) {
       return
     }
 
-    fallbackFullscreen = true
-    syncFullscreenState()
-    if (!map.requestFullscreen) return
-
+    fullscreenRequestPending = true
     try {
-      await map.requestFullscreen()
-      fallbackFullscreen = false
-      syncFullscreenState()
+      if (map.requestFullscreen) {
+        await map.requestFullscreen()
+        syncFullscreenState()
+      } else {
+        fallbackFullscreen = true
+        syncFullscreenState()
+      }
     } catch {
-      // The fixed-position fallback remains active when native fullscreen is unavailable.
+      fallbackFullscreen = true
+      syncFullscreenState()
+    } finally {
+      fullscreenRequestPending = false
     }
   }
 
@@ -851,6 +929,8 @@ function initAerathonMap(map: HTMLElement) {
         return
       }
       selectedLocationId = pin.id ?? null
+      pendingLocationScroll = true
+      focusPin(pin)
       showPopup(pin, button)
       openEditor(pin, button)
       renderLocationList()
@@ -943,6 +1023,7 @@ function initAerathonMap(map: HTMLElement) {
 
   viewport.addEventListener("wheel", (event) => {
     event.preventDefault()
+    cancelCameraAnimation()
     const delta = event.deltaY > 0 ? 0.88 : 1.12
     zoomAt(scale * delta, event.clientX, event.clientY)
   })
@@ -955,6 +1036,7 @@ function initAerathonMap(map: HTMLElement) {
     ) {
       return
     }
+    cancelCameraAnimation()
     hidePopup()
 
     if (editMode && datasetMode && pendingPlacement && event.button === 0) {
@@ -1208,6 +1290,9 @@ function initAerathonMap(map: HTMLElement) {
   window.addCleanup(() => resizeObserver.disconnect())
   window.addCleanup(() => {
     if (locationRenderFrame !== undefined) cancelAnimationFrame(locationRenderFrame)
+    cancelCameraAnimation()
+    document.documentElement.classList.remove("map-fullscreen-open")
+    if (document.fullscreenElement === map) void document.exitFullscreen()
   })
 
   movePanelsToSidebar()
