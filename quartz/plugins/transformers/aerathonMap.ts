@@ -31,6 +31,7 @@ type RawMapPin = {
   y?: unknown
   position?: unknown
   incomplete?: unknown
+  quest?: unknown
 }
 
 type RawMapConfig = {
@@ -62,6 +63,7 @@ type MapPin = {
   x?: number
   y?: number
   incomplete?: boolean
+  hasQuest?: boolean
 }
 
 type MapDatasetMeta = {
@@ -174,6 +176,8 @@ function normalizeInlinePin(
   const y = toNumber(pin.y)
   if (!isString(pin.title) || x === undefined || y === undefined) return null
   const markerType = normalizeMarkerType(pin.type)
+  const rawSummary = isString(pin.summary) ? pin.summary : undefined
+  const hasQuest = pin.quest === true || rawSummary?.includes("(!)") === true
 
   return {
     id: isString(pin.id) ? pin.id : undefined,
@@ -182,7 +186,8 @@ function normalizeInlinePin(
     type: markerType.id,
     typeLabel: markerType.label,
     status: isString(pin.status) ? pin.status : undefined,
-    summary: isString(pin.summary) ? pin.summary : undefined,
+    summary: rawSummary?.replace(/\s*\(!\)/g, "").trim() || undefined,
+    hasQuest,
     ...normalizeLink(pin.link, currentSlug, allSlugs),
     x: clamp(x, 0, 100),
     y: clamp(y, 0, 100),
@@ -208,6 +213,14 @@ function normalizeDatasetLocation(
   const x = toNumber(position?.x)
   const y = toNumber(position?.y)
   const hasPosition = x !== undefined && y !== undefined
+  const rawSummary = isString(location.summary) ? location.summary : undefined
+  const rawDescription = isString(location.description) ? location.description : undefined
+  const hasQuest =
+    location.quest === true ||
+    rawSummary?.includes("(!)") === true ||
+    rawDescription?.includes("(!)") === true
+  const withoutQuestFlag = (value: string | undefined) =>
+    value?.replace(/\s*\(!\)/g, "").trim() || undefined
 
   return {
     id,
@@ -216,8 +229,9 @@ function normalizeDatasetLocation(
     type: category,
     typeLabel: categories[category] ?? category,
     status: isString(location.status) ? location.status : undefined,
-    summary: isString(location.summary) ? location.summary : undefined,
-    description: isString(location.description) ? location.description : undefined,
+    summary: withoutQuestFlag(rawSummary),
+    description: withoutQuestFlag(rawDescription),
+    hasQuest,
     ...normalizeLink(location.link, currentSlug, allSlugs),
     x: hasPosition ? clamp(x, 0, 100) : undefined,
     y: hasPosition ? clamp(y, 0, 100) : undefined,
@@ -337,6 +351,7 @@ function renderMap(
       <button class="aerathon-map__control" type="button" data-map-zoom="out" aria-label="Zoom out">-</button>
       <button class="aerathon-map__control" type="button" data-map-zoom="reset" aria-label="Reset map view">Reset</button>
       <button class="aerathon-map__control aerathon-map__locations-toggle" type="button" data-map-locations="toggle">Locations</button>
+      <button class="aerathon-map__control aerathon-map__fullscreen-toggle" type="button" data-map-fullscreen aria-label="Expand map to fullscreen">Expand</button>
       <button class="aerathon-map__control aerathon-map__pins-toggle" type="button" data-map-export="toggle">${exportLabel}</button>
     </div>
     <details class="aerathon-map__legend">
@@ -360,7 +375,8 @@ function renderMap(
       </div>
       <input class="aerathon-map__locations-search" type="search" placeholder="Search locations" aria-label="Search locations" />
       <div class="aerathon-map__locations-filters" aria-label="Filter locations">
-        <button type="button" data-map-location-filter="all" aria-pressed="true">All</button>
+        <button type="button" data-map-location-filter="visible" aria-pressed="true">Visible</button>
+        <button type="button" data-map-location-filter="all" aria-pressed="false">All</button>
         <button type="button" data-map-location-filter="unplaced" aria-pressed="false">Unplaced</button>
         <button type="button" data-map-location-filter="placed" aria-pressed="false">Placed</button>
       </div>
@@ -369,27 +385,42 @@ function renderMap(
     </section>
     <section class="aerathon-map__popup" hidden aria-live="polite">
       <button class="aerathon-map__popup-close" type="button" aria-label="Close map pin details">&times;</button>
+      <span class="aerathon-map__popup-quest" hidden>! Possible quest</span>
       <h3 class="aerathon-map__popup-title"></h3>
-      <p class="aerathon-map__popup-meta"></p>
+      <div class="aerathon-map__popup-meta">
+        <span class="aerathon-map__popup-number"></span>
+        <span class="aerathon-map__popup-category"></span>
+        <span class="aerathon-map__popup-status"></span>
+      </div>
       <p class="aerathon-map__popup-summary"></p>
+      <details class="aerathon-map__popup-more" hidden>
+        <summary>More details</summary>
+        <p class="aerathon-map__popup-description"></p>
+      </details>
       <a class="aerathon-map__popup-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Open record</a>
     </section>
     <section class="aerathon-map__editor" hidden aria-label="Map location editor">
       <button class="aerathon-map__editor-close" type="button" data-map-editor="cancel" aria-label="Cancel editing location">&times;</button>
       <h3>Location Editor</h3>
-      <label>Number <input data-map-field="number" inputmode="numeric" readonly /></label>
       <label>Title <input data-map-field="title" /></label>
-      <label>Category
-        <select data-map-field="type">${categoryOptions}</select>
-      </label>
-      <label>Status <input data-map-field="status" /></label>
-      <label>Link <input data-map-field="sourceLink" /></label>
-      <label>Summary <textarea data-map-field="summary"></textarea></label>
-      <label>Description <textarea data-map-field="description"></textarea></label>
       <div class="aerathon-map__editor-grid">
-        <label>X <input data-map-field="x" inputmode="decimal" /></label>
-        <label>Y <input data-map-field="y" inputmode="decimal" /></label>
+        <label>Category
+          <select data-map-field="type">${categoryOptions}</select>
+        </label>
+        <label>Status <input data-map-field="status" /></label>
       </div>
+      <label>Summary <textarea data-map-field="summary"></textarea></label>
+      <label class="aerathon-map__editor-check"><input type="checkbox" data-map-field="quest" /> Possible quest at this location</label>
+      <details class="aerathon-map__editor-more">
+        <summary>Description, link &amp; position</summary>
+        <label>Description <textarea data-map-field="description"></textarea></label>
+        <label>Link <input data-map-field="sourceLink" /></label>
+        <div class="aerathon-map__editor-grid">
+          <label>Number <input data-map-field="number" inputmode="numeric" readonly /></label>
+          <label>X <input data-map-field="x" inputmode="decimal" /></label>
+          <label>Y <input data-map-field="y" inputmode="decimal" /></label>
+        </div>
+      </details>
       <div class="aerathon-map__editor-actions">
         <button type="button" data-map-editor="save">Save &amp; export YAML</button>
         <button type="button" data-map-editor="delete">${dataset ? "Unplace" : "Delete"}</button>

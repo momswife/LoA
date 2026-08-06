@@ -478,6 +478,7 @@ export async function loadQuartzConfig(
   // Import built-in plugins
   const builtinPlugins = await import("../index")
   const builtinTransformers = [builtinPlugins.AerathonMap()]
+  const builtinFinalTransformers = [builtinPlugins.RecordDetails()]
   const builtinEmitters = [
     builtinPlugins.ComponentResources(),
     builtinPlugins.Assets(),
@@ -486,7 +487,11 @@ export async function loadQuartzConfig(
   const builtinPageTypes = [builtinPlugins.PageTypes.NotFoundPageType()]
 
   const plugins: PluginTypes = {
-    transformers: [...builtinTransformers, ...(await instantiate(transformers, "transformer"))],
+    transformers: [
+      ...builtinTransformers,
+      ...(await instantiate(transformers, "transformer")),
+      ...builtinFinalTransformers,
+    ],
     filters: await instantiate(filters, "filter"),
     emitters: [...builtinEmitters, ...(await instantiate(emitters, "emitter"))],
     pageTypes: [...(await instantiate(pageTypes, "pageType")), ...builtinPageTypes],

@@ -12,6 +12,7 @@ type MapPin = {
   x?: number
   y?: number
   incomplete?: boolean
+  hasQuest?: boolean
 }
 
 type MapDataset = {
@@ -60,18 +61,25 @@ function initAerathonMap(map: HTMLElement) {
   const popup = map.querySelector<HTMLElement>(".aerathon-map__popup")
   const popupTitle = map.querySelector<HTMLElement>(".aerathon-map__popup-title")
   const popupMeta = map.querySelector<HTMLElement>(".aerathon-map__popup-meta")
+  const popupNumber = map.querySelector<HTMLElement>(".aerathon-map__popup-number")
+  const popupCategory = map.querySelector<HTMLElement>(".aerathon-map__popup-category")
+  const popupStatus = map.querySelector<HTMLElement>(".aerathon-map__popup-status")
+  const popupQuest = map.querySelector<HTMLElement>(".aerathon-map__popup-quest")
   const popupSummary = map.querySelector<HTMLElement>(".aerathon-map__popup-summary")
+  const popupMore = map.querySelector<HTMLDetailsElement>(".aerathon-map__popup-more")
+  const popupDescription = map.querySelector<HTMLElement>(".aerathon-map__popup-description")
   const popupLink = map.querySelector<HTMLAnchorElement>(".aerathon-map__popup-link")
   const closeButton = map.querySelector<HTMLButtonElement>(".aerathon-map__popup-close")
   const zoomInButton = map.querySelector<HTMLButtonElement>('[data-map-zoom="in"]')
   const zoomOutButton = map.querySelector<HTMLButtonElement>('[data-map-zoom="out"]')
   const resetButton = map.querySelector<HTMLButtonElement>('[data-map-zoom="reset"]')
+  const fullscreenButton = map.querySelector<HTMLButtonElement>("[data-map-fullscreen]")
   const legend = map.querySelector<HTMLElement>(".aerathon-map__legend")
   const editor = map.querySelector<HTMLElement>(".aerathon-map__editor")
   const saveButton = map.querySelector<HTMLButtonElement>('[data-map-editor="save"]')
   const cancelButton = map.querySelector<HTMLButtonElement>('[data-map-editor="cancel"]')
   const deleteButton = map.querySelector<HTMLButtonElement>('[data-map-editor="delete"]')
-  const exportPanel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
+  const pinsExportPanel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
   const exportField = map.querySelector<HTMLTextAreaElement>(".aerathon-map__pins-yaml")
   const exportCopyButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-copy")
   const exportToggleButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
@@ -95,6 +103,7 @@ function initAerathonMap(map: HTMLElement) {
 
   map.classList.toggle("is-editing", editMode)
   map.classList.toggle("has-location-dataset", datasetMode)
+  locationsPanel?.classList.toggle("is-editing", editMode)
 
   if (!viewport || !stage || !pinLayer || !popup || !popupTitle || !popupMeta || !popupSummary) {
     return
@@ -113,7 +122,7 @@ function initAerathonMap(map: HTMLElement) {
   let editorDraft: MapPin | null = null
   let pendingPlacement: MapPin | null = null
   let selectedLocationId: string | null = null
-  let locationFilter: "all" | "placed" | "unplaced" = "all"
+  let locationFilter: "visible" | "all" | "placed" | "unplaced" = editMode ? "all" : "visible"
   const pointers = new Map<number, PointerEvent>()
   let dragStart: { x: number; y: number; translateX: number; translateY: number } | null = null
   let pinDrag: {
@@ -123,6 +132,8 @@ function initAerathonMap(map: HTMLElement) {
     moved: boolean
   } | null = null
   let suppressNextPinClick = false
+  let fallbackFullscreen = false
+  let locationRenderFrame: number | undefined
   let pinchStart: {
     distance: number
     scale: number
@@ -141,24 +152,20 @@ function initAerathonMap(map: HTMLElement) {
 
   const normalizePin = (pin: MapPin): MapPin => {
     const type = pin.type ?? (datasetMode ? "unassigned" : "notable-location")
-    const descriptionHasAlertFlag = pin.description?.includes("(!)") ?? false
-    const summary = descriptionHasAlertFlag
-      ? pin.summary
-        ? pin.summary.includes("(!)")
-          ? pin.summary
-          : `${pin.summary} (!)`
-        : "(!)"
-      : pin.summary
-    const description = descriptionHasAlertFlag
-      ? pin.description?.replace(/\s*\(!\)/g, "").trim()
-      : pin.description
+    const hasQuest =
+      pin.hasQuest === true ||
+      pin.summary?.includes("(!)") === true ||
+      pin.description?.includes("(!)") === true
+    const withoutQuestFlag = (value: string | undefined) =>
+      value?.replace(/\s*\(!\)/g, "").trim() || undefined
     const normalized = {
       ...pin,
       id: pin.id ?? `pin-${nextPinId++}`,
       type,
       typeLabel: markerLabels.get(type) ?? type,
-      summary,
-      description,
+      summary: withoutQuestFlag(pin.summary),
+      description: withoutQuestFlag(pin.description),
+      hasQuest,
     }
     if (!hasPosition(normalized)) {
       delete normalized.x
@@ -197,6 +204,15 @@ function initAerathonMap(map: HTMLElement) {
     data.pins = sourcePins
   }
 
+  const scheduleLocationListRender = () => {
+    if (!datasetMode) return
+    if (locationRenderFrame !== undefined) cancelAnimationFrame(locationRenderFrame)
+    locationRenderFrame = requestAnimationFrame(() => {
+      locationRenderFrame = undefined
+      renderLocationList()
+    })
+  }
+
   const applyTransform = () => {
     const viewportRect = viewport.getBoundingClientRect()
     const stageRect = stage.getBoundingClientRect()
@@ -215,19 +231,49 @@ function initAerathonMap(map: HTMLElement) {
         : clamp(translateY, minY, 0)
 
     stage.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`
+    scheduleLocationListRender()
   }
 
   const movePanelsToSidebar = () => {
     const rightSidebar = document.querySelector<HTMLElement>(".right.sidebar")
-    if (!rightSidebar || !window.matchMedia("(min-width: 1200px)").matches) return
+    const desktop = window.matchMedia("(min-width: 1200px)").matches
+    const fullscreen = document.fullscreenElement === map || fallbackFullscreen
 
-    if (editMode && datasetMode && locationsPanel) {
+    if (datasetMode && locationsPanel && fullscreen) {
+      locationsPanel.classList.remove("aerathon-map__locations-panel--sidebar")
+      locationsPanel.classList.add("aerathon-map__locations-panel--fullscreen")
+      map.append(locationsPanel)
+      locationsPanel.hidden = false
+      locationsPanel.removeAttribute("hidden")
+      locationsPanel.style.display = ""
+      locationsPanel.classList.add("is-open")
+      return
+    }
+
+    if (datasetMode && locationsPanel && rightSidebar && desktop) {
+      locationsPanel.classList.remove("aerathon-map__locations-panel--fullscreen")
       locationsPanel.classList.add("aerathon-map__locations-panel--sidebar")
       rightSidebar.prepend(locationsPanel)
+      locationsPanel.hidden = false
+      locationsPanel.removeAttribute("hidden")
+      locationsPanel.style.display = ""
+      locationsPanel.classList.add("is-open")
       if (legend instanceof HTMLDetailsElement) legend.open = false
-    } else if (legend) {
-      legend.classList.add("aerathon-map__legend--sidebar")
-      rightSidebar.prepend(legend)
+      return
+    }
+
+    if (locationsPanel) {
+      locationsPanel.classList.remove(
+        "aerathon-map__locations-panel--sidebar",
+        "aerathon-map__locations-panel--fullscreen",
+      )
+      viewport.append(locationsPanel)
+      if (!editMode) {
+        locationsPanel.hidden = true
+        locationsPanel.setAttribute("hidden", "")
+        locationsPanel.style.display = "none"
+        locationsPanel.classList.remove("is-open")
+      }
     }
   }
 
@@ -247,6 +293,7 @@ function initAerathonMap(map: HTMLElement) {
     if (pin.sourceLink || pin.link)
       lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
     if (pin.summary) lines.push(`    summary: ${yamlString(pin.summary)}`)
+    if (pin.hasQuest) lines.push("    quest: true")
     return lines.join("\n")
   }
 
@@ -291,6 +338,7 @@ function initAerathonMap(map: HTMLElement) {
       lines.push(`    category: ${yamlString(pin.type ?? "unassigned")}`)
       lines.push(`    summary: ${pin.summary ? yamlString(pin.summary) : "null"}`)
       if (pin.description) lines.push(`    description: ${yamlString(pin.description)}`)
+      if (pin.hasQuest) lines.push("    quest: true")
       if (pin.status) lines.push(`    status: ${yamlString(pin.status)}`)
       if (pin.sourceLink || pin.link) {
         lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
@@ -330,15 +378,15 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const openExportPanel = () => {
-    if (!exportPanel || !editMode) return
-    if (exportPanel instanceof HTMLDetailsElement) exportPanel.open = true
-    exportPanel.classList.add("is-open")
+    if (!pinsExportPanel || !editMode) return
+    if (pinsExportPanel instanceof HTMLDetailsElement) pinsExportPanel.open = true
+    pinsExportPanel.classList.add("is-open")
   }
 
   const closeExportPanel = () => {
-    if (!exportPanel) return
-    if (exportPanel instanceof HTMLDetailsElement) exportPanel.open = false
-    exportPanel.classList.remove("is-open")
+    if (!pinsExportPanel) return
+    if (pinsExportPanel instanceof HTMLDetailsElement) pinsExportPanel.open = false
+    pinsExportPanel.classList.remove("is-open")
   }
 
   const updateExportPanel = (showPanel = false) => {
@@ -389,9 +437,11 @@ function initAerathonMap(map: HTMLElement) {
     button.style.left = `${pin.x}%`
     button.style.top = `${pin.y}%`
     button.dataset.type = pin.type ?? "notable-location"
+    button.classList.toggle("aerathon-map__pin--quest", pin.hasQuest === true)
     button.textContent = pin.number === undefined ? "" : String(pin.number)
     const numberLabel = pin.number === undefined ? "" : `Location ${pin.number}: `
-    button.setAttribute("aria-label", `${numberLabel}${displayTitle(pin)}`)
+    const questLabel = pin.hasQuest ? ", possible quest" : ""
+    button.setAttribute("aria-label", `${numberLabel}${displayTitle(pin)}${questLabel}`)
     button.style.removeProperty("--aerathon-marker-color")
   }
 
@@ -424,6 +474,8 @@ function initAerathonMap(map: HTMLElement) {
     setEditorValue("sourceLink", pin.sourceLink ?? pin.link)
     setEditorValue("summary", pin.summary)
     setEditorValue("description", pin.description)
+    const questField = getField<HTMLInputElement>("quest")
+    if (questField) questField.checked = pin.hasQuest === true
     setEditorValue("x", hasPosition(pin) ? pin.x.toFixed(2) : undefined)
     setEditorValue("y", hasPosition(pin) ? pin.y.toFixed(2) : undefined)
     openEditorElement()
@@ -456,6 +508,7 @@ function initAerathonMap(map: HTMLElement) {
       link: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
       summary,
       description,
+      hasQuest: getField<HTMLInputElement>("quest")?.checked === true,
       x: readCoordinate("x", editorDraft.x),
       y: readCoordinate("y", editorDraft.y),
       incomplete: datasetMode ? !title || !summary : undefined,
@@ -468,12 +521,25 @@ function initAerathonMap(map: HTMLElement) {
     button.setAttribute("aria-expanded", "true")
 
     popupTitle.textContent = displayTitle(pin)
-    const number = pin.number === undefined ? undefined : `#${pin.number}`
-    const meta = [number, pin.typeLabel ?? pin.type, pin.status].filter(Boolean).join(" / ")
-    popupMeta.textContent = meta
-    popupMeta.hidden = meta.length === 0
+    const setMetaValue = (element: HTMLElement | null, value: string | undefined) => {
+      if (!element) return
+      element.textContent = value ?? ""
+      element.hidden = !value
+    }
+    setMetaValue(popupNumber, pin.number === undefined ? undefined : `#${pin.number}`)
+    setMetaValue(popupCategory, pin.typeLabel ?? pin.type)
+    setMetaValue(popupStatus, pin.status)
+    popupMeta.hidden = ![popupNumber, popupCategory, popupStatus].some(
+      (element) => element && !element.hidden,
+    )
+    if (popupQuest) popupQuest.hidden = pin.hasQuest !== true
     popupSummary.textContent = pin.summary ?? ""
     popupSummary.hidden = !pin.summary
+    if (popupDescription && popupMore) {
+      popupDescription.textContent = pin.description ?? ""
+      popupMore.hidden = !pin.description
+      popupMore.open = false
+    }
 
     if (popupLink && pin.link) {
       popupLink.href = pin.link
@@ -485,14 +551,35 @@ function initAerathonMap(map: HTMLElement) {
     popup.hidden = false
   }
 
-  const renderLocationList = () => {
+  function pinIsVisible(pin: MapPin) {
+    if (!hasPosition(pin)) return false
+    const button = pinLayer!.querySelector<HTMLButtonElement>(`[data-pin-id="${pin.id}"]`)
+    if (!button) return false
+    const pinRect = button.getBoundingClientRect()
+    const viewportRect = viewport!.getBoundingClientRect()
+    const centerX = pinRect.left + pinRect.width / 2
+    const centerY = pinRect.top + pinRect.height / 2
+    return (
+      centerX >= viewportRect.left &&
+      centerX <= viewportRect.right &&
+      centerY >= viewportRect.top &&
+      centerY <= viewportRect.bottom
+    )
+  }
+
+  function renderLocationList() {
     if (!datasetMode || !locationsList) return
     const query = locationsSearch?.value.trim().toLocaleLowerCase() ?? ""
     const ordered = [...data.pins].sort(
       (a, b) => (a.number ?? Number.MAX_SAFE_INTEGER) - (b.number ?? Number.MAX_SAFE_INTEGER),
     )
     const placedCount = ordered.filter(hasPosition).length
-    if (locationsProgress) locationsProgress.textContent = `${placedCount}/${ordered.length} placed`
+    const questCount = ordered.filter((pin) => pin.hasQuest && hasPosition(pin)).length
+    if (locationsProgress) {
+      locationsProgress.textContent = editMode
+        ? `${placedCount}/${ordered.length} placed`
+        : `${placedCount} mapped · ${questCount} possible quests`
+    }
     if (locationsHint) {
       locationsHint.textContent = pendingPlacement
         ? `Click the map to place #${pendingPlacement.number ?? "?"} ${displayTitle(pendingPlacement)}.`
@@ -500,8 +587,11 @@ function initAerathonMap(map: HTMLElement) {
     }
 
     locationsList.replaceChildren()
+    let renderedCount = 0
     for (const pin of ordered) {
       const placed = hasPosition(pin)
+      if (!editMode && !placed) continue
+      if (locationFilter === "visible" && !pinIsVisible(pin)) continue
       if (locationFilter === "placed" && !placed) continue
       if (locationFilter === "unplaced" && placed) continue
       const searchable =
@@ -511,7 +601,9 @@ function initAerathonMap(map: HTMLElement) {
       const item = document.createElement("li")
       const button = document.createElement("button")
       const number = document.createElement("span")
+      const text = document.createElement("span")
       const title = document.createElement("span")
+      const category = document.createElement("span")
       const state = document.createElement("span")
       button.type = "button"
       button.className = "aerathon-map__location-button"
@@ -523,13 +615,49 @@ function initAerathonMap(map: HTMLElement) {
       number.textContent = pin.number === undefined ? "—" : String(pin.number)
       title.className = "aerathon-map__location-title"
       title.textContent = displayTitle(pin)
+      category.className = "aerathon-map__location-category"
+      category.textContent = pin.typeLabel ?? pin.type ?? "Location"
+      text.className = "aerathon-map__location-text"
+      text.append(title, category)
       state.className = "aerathon-map__location-state"
-      state.textContent = pin.incomplete ? "Needs details" : placed ? "Placed" : "Unplaced"
-      button.append(number, title, state)
+      state.textContent = pin.hasQuest
+        ? "! Quest"
+        : editMode
+          ? pin.incomplete
+            ? "Needs details"
+            : placed
+              ? "Placed"
+              : "Unplaced"
+          : ""
+      state.hidden = state.textContent.length === 0
+      button.classList.toggle("has-quest", pin.hasQuest === true)
+      button.append(number, text, state)
       button.addEventListener("click", () => selectLocation(pin))
       item.append(button)
       locationsList.append(item)
+      renderedCount++
     }
+
+    if (renderedCount === 0) {
+      const empty = document.createElement("li")
+      empty.className = "aerathon-map__locations-empty"
+      empty.textContent =
+        locationFilter === "visible"
+          ? "No pins are currently in view. Zoom out or choose All."
+          : "No locations match this filter."
+      locationsList.append(empty)
+    }
+  }
+
+  const centerOnPin = (pin: MapPin) => {
+    if (!hasPosition(pin)) return
+    const viewportRect = viewport.getBoundingClientRect()
+    const stageRect = stage.getBoundingClientRect()
+    const naturalWidth = stageRect.width / scale
+    const naturalHeight = stageRect.height / scale
+    translateX = viewportRect.width / 2 - naturalWidth * scale * (pin.x / 100)
+    translateY = viewportRect.height / 2 - naturalHeight * scale * (pin.y / 100)
+    applyTransform()
   }
 
   const selectLocation = (pin: MapPin) => {
@@ -546,6 +674,7 @@ function initAerathonMap(map: HTMLElement) {
       map.classList.remove("is-placing-location")
       const button = pinLayer.querySelector<HTMLButtonElement>(`[data-pin-id="${pin.id}"]`)
       if (button) {
+        centerOnPin(pin)
         showPopup(pin, button)
         openEditor(pin, button)
         button.focus()
@@ -555,7 +684,7 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const openLocationsPanel = () => {
-    if (!locationsPanel || !editMode || !datasetMode) return
+    if (!locationsPanel || !datasetMode) return
     locationsPanel.hidden = false
     locationsPanel.removeAttribute("hidden")
     locationsPanel.style.display = ""
@@ -651,6 +780,44 @@ function initAerathonMap(map: HTMLElement) {
     translateX = 0
     translateY = 0
     applyTransform()
+  }
+
+  const syncFullscreenState = () => {
+    const active = document.fullscreenElement === map || fallbackFullscreen
+    map.classList.toggle("is-fullscreen", active)
+    if (fullscreenButton) {
+      fullscreenButton.textContent = active ? "Collapse" : "Expand"
+      fullscreenButton.setAttribute(
+        "aria-label",
+        active ? "Exit fullscreen map" : "Expand map to fullscreen",
+      )
+    }
+    movePanelsToSidebar()
+    window.setTimeout(applyTransform, 0)
+  }
+
+  const toggleFullscreen = async () => {
+    if (document.fullscreenElement === map) {
+      await document.exitFullscreen()
+      return
+    }
+    if (fallbackFullscreen) {
+      fallbackFullscreen = false
+      syncFullscreenState()
+      return
+    }
+
+    fallbackFullscreen = true
+    syncFullscreenState()
+    if (!map.requestFullscreen) return
+
+    try {
+      await map.requestFullscreen()
+      fallbackFullscreen = false
+      syncFullscreenState()
+    } catch {
+      // The fixed-position fallback remains active when native fullscreen is unavailable.
+    }
   }
 
   const pointerDistance = () => {
@@ -870,6 +1037,11 @@ function initAerathonMap(map: HTMLElement) {
     event.stopPropagation()
     resetView()
   })
+  fullscreenButton?.addEventListener("click", (event) => {
+    event.preventDefault()
+    event.stopPropagation()
+    void toggleFullscreen()
+  })
   editor?.addEventListener("input", previewActivePinFromEditor)
   editor?.addEventListener("pointerdown", (event) => event.stopPropagation())
   editor?.addEventListener("click", (event) => event.stopPropagation())
@@ -926,8 +1098,8 @@ function initAerathonMap(map: HTMLElement) {
     event.stopPropagation()
     updateExportPanel(true)
   })
-  exportPanel?.addEventListener("toggle", () => {
-    if (exportPanel instanceof HTMLDetailsElement && exportPanel.open) updateExportPanel()
+  pinsExportPanel?.addEventListener("toggle", () => {
+    if (pinsExportPanel instanceof HTMLDetailsElement && pinsExportPanel.open) updateExportPanel()
   })
   locationsToggleButton?.addEventListener("click", (event) => {
     event.preventDefault()
@@ -943,7 +1115,12 @@ function initAerathonMap(map: HTMLElement) {
   for (const button of locationFilterButtons) {
     button.addEventListener("click", () => {
       const filter = button.dataset.mapLocationFilter
-      if (filter === "all" || filter === "placed" || filter === "unplaced") {
+      if (
+        filter === "visible" ||
+        filter === "all" ||
+        filter === "placed" ||
+        filter === "unplaced"
+      ) {
         locationFilter = filter
       }
       for (const filterButton of locationFilterButtons) {
@@ -960,6 +1137,10 @@ function initAerathonMap(map: HTMLElement) {
     if (event.key === "Escape") {
       hidePopup()
       closeExportPanel()
+      if (fallbackFullscreen) {
+        fallbackFullscreen = false
+        syncFullscreenState()
+      }
       if (pendingPlacement) {
         pendingPlacement = null
         selectedLocationId = null
@@ -970,6 +1151,17 @@ function initAerathonMap(map: HTMLElement) {
   }
   document.addEventListener("keydown", handleDocumentKeydown)
   window.addCleanup(() => document.removeEventListener("keydown", handleDocumentKeydown))
+
+  const handleFullscreenChange = () => syncFullscreenState()
+  document.addEventListener("fullscreenchange", handleFullscreenChange)
+  window.addCleanup(() => document.removeEventListener("fullscreenchange", handleFullscreenChange))
+
+  const handleWindowResize = () => {
+    movePanelsToSidebar()
+    applyTransform()
+  }
+  window.addEventListener("resize", handleWindowResize)
+  window.addCleanup(() => window.removeEventListener("resize", handleWindowResize))
 
   const handleStorage = (event: StorageEvent) => {
     if (event.key !== storageKey || !event.newValue) return
@@ -1014,9 +1206,18 @@ function initAerathonMap(map: HTMLElement) {
   resizeObserver.observe(viewport)
   resizeObserver.observe(stage)
   window.addCleanup(() => resizeObserver.disconnect())
+  window.addCleanup(() => {
+    if (locationRenderFrame !== undefined) cancelAnimationFrame(locationRenderFrame)
+  })
 
   movePanelsToSidebar()
   if (editMode && datasetMode) openLocationsPanel()
+  for (const filterButton of locationFilterButtons) {
+    filterButton.setAttribute(
+      "aria-pressed",
+      filterButton.dataset.mapLocationFilter === locationFilter ? "true" : "false",
+    )
+  }
   renderLocationList()
   syncExportPanel()
   applyTransform()

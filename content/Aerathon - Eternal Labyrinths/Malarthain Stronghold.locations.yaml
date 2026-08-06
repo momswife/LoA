@@ -18,7 +18,6 @@ categories:
   faith-shrines-memorials: "Faith, Shrines, and Memorial Places"
   healing-gardens-public-welfare: "Healing, Gardens, and Public Welfare"
   homes-taverns-social-life: "Homes, Taverns, and Social Life"
-  unassigned: "Unassigned"
 
 locations:
   - id: "malarthain-001"
@@ -724,7 +723,7 @@ locations:
   - id: "malarthain-071"
     number: 71
     title: "Atticus's Estate"
-    category: "unassigned"
+    category: "homes-taverns-social-life"
     summary: "A spacious Goldclasp residence temporarily occupied by the delvers Atticus and Deena while they await the approval and signing of their new guild contract. (!)"
     description: "Atticus’s Estate is a well-kept Goldclasp residence set behind a walled garden and private carriage court. Atticus and Deena currently use its guest suites, training room, and receiving hall while awaiting approval of their guild contract."
     position:
@@ -734,7 +733,7 @@ locations:
   - id: "malarthain-072"
     number: 72
     title: "The Old Crown Theatre"
-    category: "unassigned"
+    category: "homes-taverns-social-life"
     summary: "An aging playhouse whose struggling company has begun performing an anonymous script that changes each night and reveals private details about members of the audience. (!)"
     description: "The Old Crown Theatre stands on an aging entertainment street near Hearthring. Its carved façade and faded royal motifs overlook crowded taverns, costume shops, and narrow alleys used by actors and stage crews."
     position:
@@ -764,7 +763,7 @@ locations:
   - id: "malarthain-075"
     number: 75
     title: "The Unclaimed Hall"
-    category: "unassigned"
+    category: "government-civic-authority"
     summary: "A municipal repository for unidentified bodies, lost property, and abandoned inheritances, where a recently delivered trunk has been claimed by three unrelated families. (!)"
     description: "The Unclaimed Hall stands in a quieter civic quarter near Redwatch. Its guarded storerooms, registry desks, and identification chambers receive lost property, unclaimed estates, and the belongings of unknown citizens."
     position:
@@ -834,7 +833,7 @@ locations:
   - id: "malarthain-082"
     number: 82
     title: "The Red Thread Office"
-    category: "unassigned"
+    category: "government-civic-authority"
     summary: "A municipal office responsible for tracing disputed inheritances and family claims, currently investigating a deceased citizen whose records indicate five different spouses living in separate districts. (!)"
     description: "The Red Thread Office keeps its public counters near the civic courts, with deeper record rooms reserved for inheritance disputes and family claims. Petitioners often wait for hours beneath walls covered in lineage charts and legal notices."
     position:

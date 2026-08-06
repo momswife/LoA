@@ -277,33 +277,61 @@ article {
   display: none;
 }
 
-// Give legacy records a consistent editorial preamble without requiring a
-// frontmatter rewrite: subtitle first, then a quieter filing-details panel.
-.page-header:has(.document-masthead) + article > .markdown-preview-view > h1:first-of-type + h3 {
+// Legacy records keep their atmospheric opening, but secondary filing data is
+// tucked into a disclosure so the article starts with a clear reading path.
+.page-header:has(.document-masthead) + article > .markdown-preview-view > blockquote:first-child {
+  margin: 1.65rem 0 1.8rem;
+  padding: 0.15rem 0 0.15rem 1.15rem;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.record-subtitle {
   max-width: 62rem;
-  margin: 2rem 0 0.65rem;
+  margin: 0 0 0.7rem;
   color: var(--dark);
-  font-size: clamp(1rem, 2vw, 1.22rem);
-  letter-spacing: 0.015em;
+  font-size: clamp(1rem, 2vw, 1.18rem);
+  letter-spacing: 0.01em;
   line-height: 1.4;
 }
 
-.page-header:has(.document-masthead)
-  + article
-  > .markdown-preview-view
-  > h1:first-of-type
-  + h3
-  + p:has(> strong:first-child) {
+.legacy-record-details {
   max-width: 62rem;
   margin: 0 0 2.25rem;
-  padding: 0.9rem 1rem;
-  border: 1px solid var(--lorevault-border);
-  border-left: 3px solid color-mix(in srgb, var(--secondary) 72%, var(--lorevault-border));
-  border-radius: 0 var(--lorevault-radius) var(--lorevault-radius) 0;
-  background: color-mix(in srgb, var(--lorevault-surface) 82%, transparent);
+  border-block: 1px solid var(--lorevault-divider);
   color: var(--darkgray);
-  font-size: 0.91rem;
-  line-height: 1.7;
+  font-size: 0.9rem;
+}
+
+.legacy-record-details > summary {
+  padding: 0.65rem 0;
+  color: var(--secondary);
+  cursor: pointer;
+  font-family: var(--lorevault-ui-font);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  list-style: none;
+  text-transform: uppercase;
+}
+
+.legacy-record-details > summary::after {
+  margin-left: 0.45rem;
+  content: "+";
+}
+
+.legacy-record-details[open] > summary::after {
+  content: "−";
+}
+
+.legacy-record-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.legacy-record-details__content {
+  padding: 0 0 0.85rem;
+  line-height: 1.65;
 
   > strong {
     color: var(--dark);
