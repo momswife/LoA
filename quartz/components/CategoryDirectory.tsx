@@ -4,6 +4,9 @@ import { FileTrieNode } from "../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 import style from "./styles/categoryDirectory.scss"
 
+// @ts-ignore
+import script from "./scripts/categoryDirectory.inline"
+
 type DirectoryNode = FileTrieNode<BuildTimeTrieData>
 
 function sortedChildren(node: DirectoryNode): DirectoryNode[] {
@@ -26,6 +29,10 @@ function nodeHref(currentSlug: FullSlug, node: DirectoryNode): string {
   return resolveRelative(currentSlug, simplifySlug(node.slug))
 }
 
+function dialogId(node: DirectoryNode): string {
+  return `category-dialog-${node.slugSegment.replace(/[^a-z0-9_-]/gi, "-")}`
+}
+
 function FileLink({ node, currentSlug }: { node: DirectoryNode; currentSlug: FullSlug }) {
   return (
     <li class="category-directory__record">
@@ -37,47 +44,104 @@ function FileLink({ node, currentSlug }: { node: DirectoryNode; currentSlug: Ful
   )
 }
 
-function FolderGroup({
-  node,
-  currentSlug,
-  depth,
-}: {
-  node: DirectoryNode
-  currentSlug: FullSlug
-  depth: number
-}) {
+function FolderOptions({ node, currentSlug }: { node: DirectoryNode; currentSlug: FullSlug }) {
   const children = sortedChildren(node)
   const count = recordCount(node)
 
   return (
-    <details class="category-directory__group" open={depth > 0 && count <= 8}>
-      <summary>
+    <li class="category-dialog__subcategory">
+      <div class="category-dialog__subcategory-heading">
+        <div>
+          <strong>{node.displayName}</strong>
+          <span>
+            {count} {count === 1 ? "record" : "records"}
+          </span>
+        </div>
+        <a class="internal" href={nodeHref(currentSlug, node)}>
+          Open
+          <span aria-hidden="true">→</span>
+        </a>
+      </div>
+      {children.length > 0 && (
+        <ul class="category-dialog__options">
+          {children.map((child) =>
+            child.isFolder ? (
+              <FolderOptions node={child} currentSlug={currentSlug} />
+            ) : (
+              <FileLink node={child} currentSlug={currentSlug} />
+            ),
+          )}
+        </ul>
+      )}
+    </li>
+  )
+}
+
+function CategoryLauncher({ node, currentSlug }: { node: DirectoryNode; currentSlug: FullSlug }) {
+  const id = dialogId(node)
+  const count = recordCount(node)
+  const children = sortedChildren(node)
+
+  return (
+    <div class="category-directory__entry">
+      <button
+        type="button"
+        class="category-directory__launcher"
+        data-category-dialog-open={id}
+        aria-haspopup="dialog"
+        aria-controls={id}
+      >
         <span class="category-directory__summary-copy">
           <strong>{node.displayName}</strong>
           <span>
             {count} {count === 1 ? "record" : "records"}
           </span>
         </span>
-        <span class="category-directory__toggle" aria-hidden="true" />
-      </summary>
-      <div class="category-directory__contents">
-        <a class="category-directory__open internal" href={nodeHref(currentSlug, node)}>
-          Open category
-          <span aria-hidden="true">→</span>
-        </a>
-        <ul>
-          {children.map((child) =>
-            child.isFolder ? (
-              <li class="category-directory__nested">
-                <FolderGroup node={child} currentSlug={currentSlug} depth={depth + 1} />
-              </li>
+        <span class="category-directory__more" aria-hidden="true">
+          ···
+        </span>
+      </button>
+      <dialog class="category-dialog" id={id} aria-labelledby={`${id}-title`}>
+        <div class="category-dialog__shell">
+          <header class="category-dialog__header">
+            <div>
+              <p>Category directory</p>
+              <h3 id={`${id}-title`}>{node.displayName}</h3>
+              <span>
+                {count} {count === 1 ? "record" : "records"}
+              </span>
+            </div>
+            <button
+              type="button"
+              class="category-dialog__close"
+              data-category-dialog-close
+              aria-label={`Close ${node.displayName}`}
+            >
+              ×
+            </button>
+          </header>
+          <div class="category-dialog__body">
+            <a class="category-dialog__open internal" href={nodeHref(currentSlug, node)}>
+              Open category page
+              <span aria-hidden="true">→</span>
+            </a>
+            {children.length > 0 ? (
+              <ul class="category-dialog__options">
+                {children.map((child) =>
+                  child.isFolder ? (
+                    <FolderOptions node={child} currentSlug={currentSlug} />
+                  ) : (
+                    <FileLink node={child} currentSlug={currentSlug} />
+                  ),
+                )}
+              </ul>
             ) : (
-              <FileLink node={child} currentSlug={currentSlug} />
-            ),
-          )}
-        </ul>
-      </div>
-    </details>
+              <p class="category-dialog__empty">No records have been filed in this category yet.</p>
+            )}
+          </div>
+        </div>
+      </dialog>
+    </div>
   )
 }
 
@@ -99,7 +163,7 @@ export default (() => {
     const looseRecords = sortedChildren(parentNode).filter((child) => !child.isFolder)
     const totalRecords =
       categories.reduce((total, child) => total + recordCount(child), 0) + looseRecords.length
-    if (totalRecords === 0) return null
+    if (categories.length === 0 && looseRecords.length === 0) return null
 
     return (
       <section class="category-directory" aria-labelledby="category-directory-title">
@@ -115,7 +179,7 @@ export default (() => {
         </header>
         <div class="category-directory__grid">
           {categories.map((category) => (
-            <FolderGroup node={category} currentSlug={currentSlug} depth={0} />
+            <CategoryLauncher node={category} currentSlug={currentSlug} />
           ))}
         </div>
         {looseRecords.length > 0 && (
@@ -133,5 +197,6 @@ export default (() => {
   }
 
   CategoryDirectory.css = style
+  CategoryDirectory.afterDOMLoaded = script
   return CategoryDirectory
 }) satisfies QuartzComponentConstructor

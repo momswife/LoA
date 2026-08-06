@@ -1,6 +1,28 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { FullSlug } from "./quartz/util/path"
+import type { ExplorerOptions } from "./.quartz/plugins/explorer/dist/index.js"
+
+const siteExplorerOptions = {
+  folderClickBehavior: "collapse",
+  order: ["filter", "map", "sort"],
+  mapFn: (node) => {
+    if (!node.isFolder && node.slugSegment === "overview") {
+      node.displayName = "∅ Overview"
+    }
+    return node
+  },
+  sortFn: (a, b) => {
+    const aIsOverview = !a.isFolder && a.slugSegment === "overview"
+    const bIsOverview = !b.isFolder && b.slugSegment === "overview"
+    if (aIsOverview !== bIsOverview) return aIsOverview ? -1 : 1
+    if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+    return (a.displayName ?? "").localeCompare(b.displayName ?? "", undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  },
+} satisfies Partial<ExplorerOptions>
 
 const siteBreadcrumbOptions = {
   hideTopLevelFolder: false,
@@ -81,7 +103,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.Explorer({
-      folderClickBehavior: "collapse",
+      ...siteExplorerOptions,
     }),
   ],
   right: [Component.DesktopOnly(Component.TableOfContents())],
@@ -92,7 +114,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [siteListBreadcrumbs, Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.Explorer({
-      folderClickBehavior: "collapse",
+      ...siteExplorerOptions,
     }),
   ],
   right: [],
