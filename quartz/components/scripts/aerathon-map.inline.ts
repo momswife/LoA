@@ -134,8 +134,11 @@ function initAerathonMap(map: HTMLElement) {
   let suppressNextPinClick = false
   let fallbackFullscreen = false
   let fullscreenRequestPending = false
-  let locationRenderFrame: number | undefined
+  let fullscreenActive = false
+  let fullscreenReflowTimer: number | undefined
+  let locationRenderTimer: number | undefined
   let cameraAnimationFrame: number | undefined
+  let interactionAnimationFrame: number | undefined
   let pendingLocationScroll = false
   let pinchStart: {
     distance: number
@@ -207,34 +210,47 @@ function initAerathonMap(map: HTMLElement) {
     data.pins = sourcePins
   }
 
-  const scheduleLocationListRender = () => {
+  const scheduleLocationListRender = (delay = 140) => {
     if (!datasetMode) return
-    if (locationRenderFrame !== undefined) cancelAnimationFrame(locationRenderFrame)
-    locationRenderFrame = requestAnimationFrame(() => {
-      locationRenderFrame = undefined
+    if (locationRenderTimer !== undefined) window.clearTimeout(locationRenderTimer)
+    locationRenderTimer = window.setTimeout(() => {
+      locationRenderTimer = undefined
       renderLocationList()
-    })
+    }, delay)
   }
 
   const applyTransform = () => {
-    const viewportRect = viewport.getBoundingClientRect()
-    const stageRect = stage.getBoundingClientRect()
-    const naturalWidth = stageRect.width / scale
-    const naturalHeight = stageRect.height / scale
-    const minX = Math.min(0, viewportRect.width - naturalWidth * scale)
-    const minY = Math.min(0, viewportRect.height - naturalHeight * scale)
+    const viewportWidth = viewport.clientWidth
+    const viewportHeight = viewport.clientHeight
+    let naturalWidth = stage.offsetWidth
+    let naturalHeight = stage.offsetHeight
+    if (naturalWidth === 0 || naturalHeight === 0) {
+      const stageRect = stage.getBoundingClientRect()
+      naturalWidth = stageRect.width / scale
+      naturalHeight = stageRect.height / scale
+    }
+    const minX = Math.min(0, viewportWidth - naturalWidth * scale)
+    const minY = Math.min(0, viewportHeight - naturalHeight * scale)
 
     translateX =
-      naturalWidth * scale <= viewportRect.width
-        ? (viewportRect.width - naturalWidth * scale) / 2
+      naturalWidth * scale <= viewportWidth
+        ? (viewportWidth - naturalWidth * scale) / 2
         : clamp(translateX, minX, 0)
     translateY =
-      naturalHeight * scale <= viewportRect.height
-        ? (viewportRect.height - naturalHeight * scale) / 2
+      naturalHeight * scale <= viewportHeight
+        ? (viewportHeight - naturalHeight * scale) / 2
         : clamp(translateY, minY, 0)
 
-    stage.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`
-    scheduleLocationListRender()
+    stage.style.transform = `translate3d(${translateX}px, ${translateY}px, 0) scale(${scale})`
+    if (cameraAnimationFrame === undefined) scheduleLocationListRender()
+  }
+
+  const scheduleTransform = () => {
+    if (interactionAnimationFrame !== undefined) return
+    interactionAnimationFrame = requestAnimationFrame(() => {
+      interactionAnimationFrame = undefined
+      applyTransform()
+    })
   }
 
   const cancelCameraAnimation = () => {
@@ -244,13 +260,18 @@ function initAerathonMap(map: HTMLElement) {
   }
 
   const cameraPositionForPin = (pin: MapPin, targetScale: number) => {
-    const viewportRect = viewport.getBoundingClientRect()
-    const stageRect = stage.getBoundingClientRect()
-    const naturalWidth = stage.offsetWidth || stageRect.width / scale
-    const naturalHeight = stage.offsetHeight || stageRect.height / scale
+    const viewportWidth = viewport.clientWidth
+    const viewportHeight = viewport.clientHeight
+    let naturalWidth = stage.offsetWidth
+    let naturalHeight = stage.offsetHeight
+    if (naturalWidth === 0 || naturalHeight === 0) {
+      const stageRect = stage.getBoundingClientRect()
+      naturalWidth = stageRect.width / scale
+      naturalHeight = stageRect.height / scale
+    }
     return {
-      x: viewportRect.width / 2 - naturalWidth * targetScale * (pin.x! / 100),
-      y: viewportRect.height / 2 - naturalHeight * targetScale * (pin.y! / 100),
+      x: viewportWidth / 2 - naturalWidth * targetScale * (pin.x! / 100),
+      y: viewportHeight / 2 - naturalHeight * targetScale * (pin.y! / 100),
     }
   }
 
@@ -273,10 +294,11 @@ function initAerathonMap(map: HTMLElement) {
     const startX = translateX
     const startY = translateY
     const startedAt = performance.now()
-    const duration = 560
+    const duration = 920
     const step = (now: number) => {
       const progress = clamp((now - startedAt) / duration, 0, 1)
-      const eased = 1 - Math.pow(1 - progress, 3)
+      const eased =
+        progress < 0.5 ? 4 * Math.pow(progress, 3) : 1 - Math.pow(-2 * progress + 2, 3) / 2
       scale = startScale + (targetScale - startScale) * eased
       translateX = startX + (target.x - startX) * eased
       translateY = startY + (target.y - startY) * eased
@@ -286,6 +308,7 @@ function initAerathonMap(map: HTMLElement) {
         cameraAnimationFrame = requestAnimationFrame(step)
       } else {
         cameraAnimationFrame = undefined
+        scheduleLocationListRender(0)
       }
     }
     cameraAnimationFrame = requestAnimationFrame(step)
@@ -850,6 +873,9 @@ function initAerathonMap(map: HTMLElement) {
   const syncFullscreenState = () => {
     const nativeFullscreen = document.fullscreenElement === map
     const active = nativeFullscreen || fallbackFullscreen
+    const stateChanged = active !== fullscreenActive
+    fullscreenActive = active
+    if (stateChanged) cancelCameraAnimation()
     map.classList.toggle("is-fullscreen", active)
     map.classList.toggle("is-fallback-fullscreen", fallbackFullscreen)
     document.documentElement.classList.toggle("map-fullscreen-open", fallbackFullscreen)
@@ -861,18 +887,21 @@ function initAerathonMap(map: HTMLElement) {
       )
     }
     movePanelsToSidebar()
-    window.setTimeout(() => {
+    if (fullscreenReflowTimer !== undefined) window.clearTimeout(fullscreenReflowTimer)
+    fullscreenReflowTimer = window.setTimeout(() => {
+      fullscreenReflowTimer = undefined
+      if (cameraAnimationFrame !== undefined) return
       const selected = data.pins.find((pin) => pin.id === selectedLocationId)
       if (selected && active) focusPin(selected, false)
       else applyTransform()
-    }, 50)
+    }, 120)
   }
 
   const toggleFullscreen = async () => {
     if (fullscreenRequestPending) return
     if (document.fullscreenElement === map) {
       await document.exitFullscreen()
-      syncFullscreenState()
+      if (map.classList.contains("is-fullscreen")) syncFullscreenState()
       return
     }
     if (fallbackFullscreen) {
@@ -885,7 +914,7 @@ function initAerathonMap(map: HTMLElement) {
     try {
       if (map.requestFullscreen) {
         await map.requestFullscreen()
-        syncFullscreenState()
+        if (!map.classList.contains("is-fullscreen")) syncFullscreenState()
       } else {
         fallbackFullscreen = true
         syncFullscreenState()
@@ -1086,7 +1115,7 @@ function initAerathonMap(map: HTMLElement) {
     } else if (dragStart && pointers.size === 1) {
       translateX = dragStart.translateX + event.clientX - dragStart.x
       translateY = dragStart.translateY + event.clientY - dragStart.y
-      applyTransform()
+      scheduleTransform()
     }
   })
 
@@ -1240,7 +1269,7 @@ function initAerathonMap(map: HTMLElement) {
 
   const handleWindowResize = () => {
     movePanelsToSidebar()
-    applyTransform()
+    scheduleTransform()
   }
   window.addEventListener("resize", handleWindowResize)
   window.addCleanup(() => window.removeEventListener("resize", handleWindowResize))
@@ -1284,12 +1313,14 @@ function initAerathonMap(map: HTMLElement) {
   window.addEventListener("storage", handleStorage)
   window.addCleanup(() => window.removeEventListener("storage", handleStorage))
 
-  const resizeObserver = new ResizeObserver(applyTransform)
+  const resizeObserver = new ResizeObserver(scheduleTransform)
   resizeObserver.observe(viewport)
   resizeObserver.observe(stage)
   window.addCleanup(() => resizeObserver.disconnect())
   window.addCleanup(() => {
-    if (locationRenderFrame !== undefined) cancelAnimationFrame(locationRenderFrame)
+    if (locationRenderTimer !== undefined) window.clearTimeout(locationRenderTimer)
+    if (fullscreenReflowTimer !== undefined) window.clearTimeout(fullscreenReflowTimer)
+    if (interactionAnimationFrame !== undefined) cancelAnimationFrame(interactionAnimationFrame)
     cancelCameraAnimation()
     document.documentElement.classList.remove("map-fullscreen-open")
     if (document.fullscreenElement === map) void document.exitFullscreen()
