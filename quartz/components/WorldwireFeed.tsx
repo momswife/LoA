@@ -12,13 +12,14 @@ import style from "./styles/worldwireFeed.scss"
 // @ts-ignore
 import script from "./scripts/threadline.inline"
 
-function ThreadlineCard({ post, pinned = false }: { post: ThreadlinePost; pinned?: boolean }) {
+function ThreadlineCard({ post }: { post: ThreadlinePost }) {
   return (
     <article
       class="worldwire-post"
       data-threadline-card
       data-threadline-post-id={post.id}
-      data-threadline-rotating={pinned ? undefined : "true"}
+      data-threadline-handle-value={post.handle}
+      data-threadline-marker-value={post.marker}
     >
       <header class="worldwire-post__identity">
         <span class="worldwire-post__avatar" data-threadline-avatar aria-hidden="true">
@@ -72,21 +73,41 @@ const WorldwireFeed: QuartzComponent = () => {
           <h2 id="worldwire-title">Live Across Aerathon</h2>
           <p class="worldwire__dek">Public signals, field reports, and developing stories</p>
         </div>
-        <div class="worldwire__live" aria-label="Live transmission">
-          <span aria-hidden="true"></span>
-          Live
+        <div class="worldwire__controls">
+          <div class="worldwire__live" aria-label="Live transmission">
+            <span aria-hidden="true"></span>
+            Live
+          </div>
+          <button
+            class="worldwire__toggle"
+            type="button"
+            data-threadline-toggle
+            aria-pressed="false"
+            aria-label="Pause Threadline updates"
+          >
+            <span aria-hidden="true" data-threadline-toggle-icon>
+              Ⅱ
+            </span>
+            <span data-threadline-toggle-label>Pause</span>
+          </button>
         </div>
       </header>
 
       <div class="worldwire__feed" aria-label="Latest Threadline posts">
-        {initialPosts.map((post, index) => (
-          <ThreadlineCard post={post} pinned={index < 2} />
+        {initialPosts.map((post) => (
+          <ThreadlineCard post={post} />
         ))}
         <aside class="worldwire__notice" role="note">
           Worldwire broadcasts are fleeting and provisional. Reports may be corrected, contradicted,
           or lost before they ever enter the permanent archive.
         </aside>
       </div>
+      <p
+        class="worldwire__announcer"
+        data-threadline-announcer
+        aria-live="polite"
+        aria-atomic="true"
+      ></p>
     </section>
   )
 }

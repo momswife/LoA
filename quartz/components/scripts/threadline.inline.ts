@@ -5,11 +5,16 @@ import {
   ThreadlinePost,
   threadlinePosts,
 } from "../data/threadlinePosts"
+import { selectThreadlinePost } from "../data/threadlineSelection"
 
-const minimumSwapDelay = 60_000
-const maximumSwapDelay = 7 * 60_000
+const minimumSwapDelay = 75_000
+const maximumSwapDelay = 6 * 60_000
 const minimumInitialAge = 20_000
 const maximumInitialAge = 28 * 60_000
+const accountCooldown = 35 * 60_000
+
+const recentlySeenHandles = new Map<string, number>()
+let availablePostIds = new Set(threadlinePosts.map((post) => post.id))
 
 function randomItem<T>(items: T[]): T | undefined {
   return items[Math.floor(Math.random() * items.length)]
@@ -24,10 +29,6 @@ function setPostAge(card: HTMLElement, elapsedMilliseconds = 0) {
     age.textContent = label
     age.setAttribute("aria-label", label === "NOW" ? "Posted now" : `Posted ${label} ago`)
   }
-}
-
-function resetPostAge(card: HTMLElement) {
-  setPostAge(card)
 }
 
 function randomInitialAge() {
@@ -50,7 +51,7 @@ function updatePostAges(feed: HTMLElement) {
   for (const card of feed.querySelectorAll<HTMLElement>("[data-threadline-card]")) {
     const appearedAt = Number(card.dataset.threadlineAppearedAt)
     if (!Number.isFinite(appearedAt)) {
-      resetPostAge(card)
+      setPostAge(card)
       continue
     }
 
@@ -64,9 +65,21 @@ function updatePostAges(feed: HTMLElement) {
   }
 }
 
+function setPostTags(container: HTMLElement, post: ThreadlinePost) {
+  container.replaceChildren(
+    ...randomThreadlineTags(post).map((tag) => {
+      const item = document.createElement("span")
+      item.textContent = tag
+      return item
+    }),
+  )
+}
+
 function renderPost(card: HTMLElement, post: ThreadlinePost) {
   card.dataset.threadlinePostId = post.id
-  resetPostAge(card)
+  card.dataset.threadlineHandleValue = post.handle
+  card.dataset.threadlineMarkerValue = post.marker
+  setPostAge(card)
 
   const avatar = card.querySelector<HTMLElement>("[data-threadline-avatar]")
   const source = card.querySelector<HTMLElement>("[data-threadline-source]")
@@ -90,15 +103,53 @@ function renderPost(card: HTMLElement, post: ThreadlinePost) {
       marker.removeAttribute("aria-label")
     }
   }
-  if (tags) {
-    tags.replaceChildren(
-      ...randomThreadlineTags(post).map((tag) => {
-        const item = document.createElement("span")
-        item.textContent = tag
-        return item
-      }),
-    )
+  if (tags) setPostTags(tags, post)
+}
+
+function visibleThreadlineState(feed: HTMLElement) {
+  const cards = [...feed.querySelectorAll<HTMLElement>("[data-threadline-card]")]
+  return {
+    ids: new Set(
+      cards.map((card) => card.dataset.threadlinePostId).filter((id): id is string => Boolean(id)),
+    ),
+    handles: new Set(
+      cards
+        .map((card) => card.dataset.threadlineHandleValue)
+        .filter((handle): handle is string => Boolean(handle)),
+    ),
   }
+}
+
+function rememberPost(post: ThreadlinePost, seenAt = Date.now()) {
+  recentlySeenHandles.set(post.handle, seenAt)
+  availablePostIds.delete(post.id)
+}
+
+function refillPostBag(visibleIds: ReadonlySet<string>) {
+  availablePostIds = new Set(
+    threadlinePosts.map((post) => post.id).filter((postId) => !visibleIds.has(postId)),
+  )
+}
+
+function nextPost(feed: HTMLElement): ThreadlinePost | undefined {
+  const visible = visibleThreadlineState(feed)
+  const now = Date.now()
+  const selectionState = () => ({
+    visibleIds: visible.ids,
+    visibleHandles: visible.handles,
+    recentlySeenHandles,
+    availablePostIds,
+    now,
+    accountCooldown,
+  })
+
+  let post = selectThreadlinePost(threadlinePosts, selectionState())
+  if (post && !availablePostIds.has(post.id)) {
+    refillPostBag(visible.ids)
+    post = selectThreadlinePost(threadlinePosts, selectionState())
+  }
+
+  return post
 }
 
 function setupThreadline() {
@@ -109,81 +160,100 @@ function setupThreadline() {
     const cards = [...feed.querySelectorAll<HTMLElement>("[data-threadline-card]")]
     if (cards.length === 0) continue
 
-    const rotatingCards = [...feed.querySelectorAll<HTMLElement>("[data-threadline-rotating]")]
+    const toggle = feed.querySelector<HTMLButtonElement>("[data-threadline-toggle]")
+    const toggleIcon = feed.querySelector<HTMLElement>("[data-threadline-toggle-icon]")
+    const toggleLabel = feed.querySelector<HTMLElement>("[data-threadline-toggle-label]")
+    const announcer = feed.querySelector<HTMLElement>("[data-threadline-announcer]")
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
 
     let stopped = false
+    let paused = false
     let swapTimer: number | undefined
     let transitionTimer: number | undefined
     let entryTimer: number | undefined
     let ageTimer: number | undefined
-    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
 
-    const visibleIds = () =>
-      new Set(
-        [...feed.querySelectorAll<HTMLElement>("[data-threadline-card]")]
-          .map((card) => card.dataset.threadlinePostId)
-          .filter((id): id is string => Boolean(id)),
-      )
-
-    const nextPost = () => {
-      const visible = visibleIds()
-      return randomItem(threadlinePosts.filter((post) => !visible.has(post.id)))
-    }
-
-    // Give every visit a different set while retaining the two lead reports.
-    for (const card of rotatingCards) {
-      const post = nextPost()
-      if (post) renderPost(card, post)
-    }
-
-    // Vary the hashtag selection for the two retained lead reports as well.
-    for (const card of cards) {
+    const initialPosts = cards.flatMap((card) => {
       const post = threadlinePosts.find(
         (candidate) => candidate.id === card.dataset.threadlinePostId,
       )
-      const tags = card.querySelector<HTMLElement>("[data-threadline-tags]")
-      if (!post || !tags) continue
-      tags.replaceChildren(
-        ...randomThreadlineTags(post).map((tag) => {
-          const item = document.createElement("span")
-          item.textContent = tag
-          return item
-        }),
-      )
+      return post ? [post] : []
+    })
+    for (const post of initialPosts) rememberPost(post)
+
+    // Hydrate every card from the session-wide no-repeat bag so each visit has
+    // its own balanced front page rather than two permanently pinned accounts.
+    for (const card of cards) {
+      const post = nextPost(feed)
+      if (!post) continue
+      renderPost(card, post)
+      rememberPost(post)
     }
 
     for (const card of cards) setPostAge(card, randomInitialAge())
     ageTimer = window.setInterval(() => updatePostAges(feed), 1000)
 
     const scheduleSwap = () => {
-      if (stopped || reducedMotion) return
+      if (stopped || paused || reducedMotion) return
       const delay =
         minimumSwapDelay + Math.floor(Math.random() * (maximumSwapDelay - minimumSwapDelay))
       swapTimer = window.setTimeout(swapOne, delay)
     }
 
     const swapOne = () => {
-      if (stopped) return
+      if (stopped || paused) return
       if (document.hidden) {
         scheduleSwap()
         return
       }
 
-      const card = randomItem(rotatingCards)
-      const post = nextPost()
+      const readableCards = cards.filter(
+        (card) => !card.matches(":hover") && !card.contains(document.activeElement),
+      )
+      const card = randomItem(readableCards)
+      const post = nextPost(feed)
       if (!card || !post) {
         scheduleSwap()
         return
       }
 
+      const outgoingHandle = card.dataset.threadlineHandleValue
+      if (outgoingHandle) recentlySeenHandles.set(outgoingHandle, Date.now())
+
       card.classList.add("is-swapping-out")
       transitionTimer = window.setTimeout(() => {
         renderPost(card, post)
+        rememberPost(post)
         card.classList.remove("is-swapping-out")
         card.classList.add("is-swapping-in")
+        if (announcer) announcer.textContent = `New Threadline post from ${post.source}.`
         entryTimer = window.setTimeout(() => card.classList.remove("is-swapping-in"), 480)
         scheduleSwap()
       }, 260)
+    }
+
+    const setPaused = (nextPaused: boolean) => {
+      paused = nextPaused
+      feed.dataset.threadlinePaused = String(paused)
+      if (swapTimer !== undefined) window.clearTimeout(swapTimer)
+      swapTimer = undefined
+
+      if (toggle) {
+        toggle.setAttribute("aria-pressed", String(paused))
+        toggle.setAttribute(
+          "aria-label",
+          paused ? "Resume Threadline updates" : "Pause Threadline updates",
+        )
+      }
+      if (toggleIcon) toggleIcon.textContent = paused ? "▶" : "Ⅱ"
+      if (toggleLabel) toggleLabel.textContent = paused ? "Resume" : "Pause"
+      if (!paused) scheduleSwap()
+    }
+
+    const toggleUpdates = () => setPaused(!paused)
+    if (toggle) {
+      toggle.hidden = reducedMotion
+      toggle.addEventListener("click", toggleUpdates)
     }
 
     scheduleSwap()
@@ -194,6 +264,7 @@ function setupThreadline() {
       if (transitionTimer !== undefined) window.clearTimeout(transitionTimer)
       if (entryTimer !== undefined) window.clearTimeout(entryTimer)
       if (ageTimer !== undefined) window.clearInterval(ageTimer)
+      toggle?.removeEventListener("click", toggleUpdates)
     })
   }
 }

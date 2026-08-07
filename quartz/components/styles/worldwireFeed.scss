@@ -34,6 +34,7 @@
 .worldwire__network,
 .worldwire__dek,
 .worldwire__live,
+.worldwire__toggle,
 .worldwire-post {
   font-family: var(--lorevault-ui-font);
 }
@@ -51,6 +52,13 @@
   color: var(--gray);
   font-size: 0.76rem;
   letter-spacing: 0.04em;
+}
+
+.worldwire__controls {
+  display: flex;
+  flex: none;
+  align-items: center;
+  gap: 0.45rem;
 }
 
 .worldwire__live {
@@ -77,6 +85,49 @@
   }
 }
 
+.worldwire__toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.34rem;
+  min-height: 2rem;
+  padding: 0.34rem 0.58rem;
+  border: 1px solid var(--lorevault-border);
+  border-radius: 999px;
+  background: var(--lorevault-surface-raised);
+  color: var(--darkgray);
+  cursor: pointer;
+  font-size: 0.66rem;
+  font-weight: 750;
+  letter-spacing: 0.04em;
+
+  &:hover {
+    border-color: color-mix(in srgb, var(--secondary) 55%, var(--lorevault-border));
+    color: var(--secondary);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+  }
+
+  &[hidden] {
+    display: none;
+  }
+
+  [data-threadline-toggle-icon] {
+    min-width: 0.72rem;
+    color: var(--secondary);
+    font-size: 0.58rem;
+    line-height: 1;
+    text-align: center;
+  }
+}
+
+.worldwire[data-threadline-paused="true"] .worldwire__live > span {
+  opacity: 0.58;
+  animation: none;
+}
+
 .worldwire__feed {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -100,9 +151,12 @@
     border-right: 1px solid var(--lorevault-divider);
   }
 
-  &[data-threadline-post-id="kaela-quarantine"],
-  &[data-threadline-post-id="mdo-fortunata-restriction"] {
+  &[data-threadline-marker-value="restricted"] {
     box-shadow: inset 2px 0 color-mix(in srgb, #b63b35 76%, var(--secondary));
+  }
+
+  &[data-threadline-marker-value="unstable"] {
+    box-shadow: inset 2px 0 color-mix(in srgb, #ad7130 76%, var(--secondary));
   }
 
   &.is-swapping-out {
@@ -235,6 +289,19 @@
   text-align: center;
 }
 
+.worldwire__announcer {
+  position: absolute;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
 @keyframes worldwire-pulse {
   70% {
     box-shadow: 0 0 0 0.38rem transparent;
@@ -263,6 +330,15 @@
   .worldwire__header {
     align-items: flex-start;
     padding: 0.9rem;
+  }
+
+  .worldwire__controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .worldwire__toggle {
+    justify-content: center;
   }
 
   .worldwire__feed {
