@@ -1255,7 +1255,7 @@ A standard footer may use the following form:
 
 — [Supersession, legal, or interpretive notice.]
 
-**——— ⭕ END OF FILE ⭕ ———**
+**MDO ARCHIVE · RECORD SEALED**
 ```
 
 Not every footer requires every line.
@@ -1704,4 +1704,4 @@ It should show the reader why that trust may presently be deserved.
 
 — This manual establishes the default editorial and filing standards of the Lorevault and supersedes earlier style conventions inconsistent with the Seventh Editorial Standard.
 
-**——— ⭕ END OF FILE ⭕ ———**
+**MDO ARCHIVE · RECORD SEALED**

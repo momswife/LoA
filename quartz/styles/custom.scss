@@ -458,6 +458,19 @@ article {
     text-transform: uppercase;
   }
 
+  &::after {
+    display: block;
+    width: fit-content;
+    margin-top: 0.8rem;
+    color: color-mix(in srgb, var(--secondary) 78%, var(--gray));
+    content: "MDO ARCHIVE · RECORD SEALED";
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.61rem;
+    font-weight: 750;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
   p {
     max-width: none;
     margin: 0;

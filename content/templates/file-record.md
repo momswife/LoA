@@ -35,5 +35,4 @@ draft: true
 > **[Ministry division or filing office]**  
 > **Document Class:** _[Record type / authenticity grade]_  
 > **Primary Certification:** _[Name and office]_  
-> _— [Optional legal, archival, or provenance notice.]_  
-> — END OF FILE —
+> _— [Optional legal, archival, or provenance notice.]_

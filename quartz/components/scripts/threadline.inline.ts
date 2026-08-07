@@ -2,16 +2,30 @@ import { markerLabels, markerText, ThreadlinePost, threadlinePosts } from "../da
 
 const minimumSwapDelay = 60_000
 const maximumSwapDelay = 7 * 60_000
+const minimumInitialAge = 20_000
+const maximumInitialAge = 28 * 60_000
 
 function randomItem<T>(items: T[]): T | undefined {
   return items[Math.floor(Math.random() * items.length)]
 }
 
-function resetPostAge(card: HTMLElement) {
-  card.dataset.threadlineAppearedAt = String(Date.now())
+function setPostAge(card: HTMLElement, elapsedMilliseconds = 0) {
+  card.dataset.threadlineAppearedAt = String(Date.now() - elapsedMilliseconds)
 
   const age = card.querySelector<HTMLElement>("[data-threadline-age]")
-  if (age) age.textContent = "NOW"
+  if (age) {
+    const label = formatPostAge(Math.floor(elapsedMilliseconds / 1000))
+    age.textContent = label
+    age.setAttribute("aria-label", label === "NOW" ? "Posted now" : `Posted ${label} ago`)
+  }
+}
+
+function resetPostAge(card: HTMLElement) {
+  setPostAge(card)
+}
+
+function randomInitialAge() {
+  return minimumInitialAge + Math.floor(Math.random() * (maximumInitialAge - minimumInitialAge))
 }
 
 function formatPostAge(elapsedSeconds: number): string {
@@ -36,7 +50,11 @@ function updatePostAges(feed: HTMLElement) {
 
     const elapsedSeconds = Math.max(0, Math.floor((now - appearedAt) / 1000))
     const age = card.querySelector<HTMLElement>("[data-threadline-age]")
-    if (age) age.textContent = formatPostAge(elapsedSeconds)
+    if (age) {
+      const label = formatPostAge(elapsedSeconds)
+      age.textContent = label
+      age.setAttribute("aria-label", label === "NOW" ? "Posted now" : `Posted ${label} ago`)
+    }
   }
 }
 
@@ -106,7 +124,7 @@ function setupThreadline() {
       if (post) renderPost(card, post)
     }
 
-    for (const card of cards) resetPostAge(card)
+    for (const card of cards) setPostAge(card, randomInitialAge())
     ageTimer = window.setInterval(() => updatePostAges(feed), 1000)
 
     const scheduleSwap = () => {

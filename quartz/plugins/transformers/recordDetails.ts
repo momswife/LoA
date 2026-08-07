@@ -52,6 +52,31 @@ function splitRows(children: ElementContent[]): ElementContent[][] {
   return rows.filter((row) => row.some((child) => textContent(child).trim().length > 0))
 }
 
+function removeEndOfFileMarker(children: ElementContent[]): ElementContent[] {
+  return children.flatMap((child) => {
+    if (!isElement(child, "p")) return [child]
+
+    const rows = splitRows(child.children)
+    const filingStart = rows.findIndex((row) =>
+      /Filed\s*(?:&|and)\s*Authenticated/i.test(row.map(textContent).join("")),
+    )
+    const footerRows = (filingStart >= 0 ? rows.slice(filingStart) : rows).filter(
+      (row) =>
+        !/(?:END\s+OF\s+FILE|MDO\s+ARCHIVE\s*[·•]\s*RECORD\s+SEALED)/i.test(
+          row.map(textContent).join(""),
+        ),
+    )
+    const paragraphChildren = footerRows.flatMap((row, index) => [
+      ...(index > 0
+        ? [{ type: "element", tagName: "br", properties: {}, children: [] } satisfies Element]
+        : []),
+      ...row,
+    ])
+
+    return [{ ...child, children: paragraphChildren }]
+  })
+}
+
 function trimLeadingPunctuation(children: ElementContent[]): ElementContent[] {
   const result = [...children]
   const first = result[0]
@@ -194,9 +219,62 @@ function findDetailsRange(
   }
 }
 
+function transformFooter(children: RootContent[]) {
+  const footerStart = [...children].findLastIndex(
+    (node) =>
+      isElement(node) &&
+      (node.tagName === "blockquote" || node.tagName === "p") &&
+      /Filed\s*(?:&|and)\s*Authenticated/i.test(textContent(node)),
+  )
+  if (footerStart < 0 || !isElement(children[footerStart])) return
+
+  const endOffset = children
+    .slice(footerStart)
+    .findIndex((node) =>
+      /(?:END\s+OF\s+FILE|MDO\s+ARCHIVE\s*[·•]\s*RECORD\s+SEALED)/i.test(textContent(node)),
+    )
+  const footerEnd = endOffset >= 0 ? footerStart + endOffset : footerStart
+  const footerContent = children.slice(footerStart, footerEnd + 1).flatMap((node) => {
+    if (!isElement(node)) return []
+    if (node.tagName === "blockquote") return node.children
+    if (node.tagName === "p") return [node]
+    return []
+  })
+  const sanitizedFooter = removeEndOfFileMarker(footerContent).filter(
+    (node) => textContent(node).trim().length > 0,
+  )
+
+  children.splice(footerStart, footerEnd - footerStart + 1, {
+    type: "element",
+    tagName: "section",
+    properties: { className: ["record-file-footer"], ariaLabel: "Record footer" },
+    children: sanitizedFooter,
+  })
+
+  const ornamentIndex = findMeaningful(children, footerStart - 1, -1)
+  if (ornamentIndex !== undefined && isElement(children[ornamentIndex])) {
+    if (isElement(children[ornamentIndex], "hr")) {
+      addClass(children[ornamentIndex] as Element, "record-footer-divider")
+      return
+    }
+    const ornament = textContent(children[ornamentIndex]).trim()
+    if (/^[^\p{L}\p{N}]{6,}$/u.test(ornament)) {
+      addClass(children[ornamentIndex] as Element, "record-footer-ornament")
+    }
+  }
+
+  const dividerIndex = findMeaningful(children, (ornamentIndex ?? footerStart) - 1, -1)
+  if (dividerIndex !== undefined && isElement(children[dividerIndex], "hr")) {
+    addClass(children[dividerIndex] as Element, "record-footer-divider")
+  }
+}
+
 function transformRecord(children: RootContent[]) {
   const detailsRange = findDetailsRange(children)
-  if (!detailsRange) return
+  if (!detailsRange) {
+    transformFooter(children)
+    return
+  }
   const detailsIndex = detailsRange.start
 
   const openingQuoteIndex = children.findIndex(
@@ -243,32 +321,7 @@ function transformRecord(children: RootContent[]) {
     children.splice(contentIndex, 0, createContentLabel())
   }
 
-  const footerIndex = [...children].findLastIndex(
-    (node) =>
-      isElement(node, "blockquote") && /Filed\s*(?:&|and)\s*Authenticated/i.test(textContent(node)),
-  )
-  if (footerIndex < 0 || !isElement(children[footerIndex], "blockquote")) return
-
-  const footerBlock = children[footerIndex] as Element
-  children[footerIndex] = {
-    type: "element",
-    tagName: "section",
-    properties: { className: ["record-file-footer"], ariaLabel: "Record footer" },
-    children: footerBlock.children,
-  }
-
-  const ornamentIndex = findMeaningful(children, footerIndex - 1, -1)
-  if (ornamentIndex !== undefined && isElement(children[ornamentIndex])) {
-    const ornament = textContent(children[ornamentIndex]).trim()
-    if (/^[^\p{L}\p{N}]{6,}$/u.test(ornament)) {
-      addClass(children[ornamentIndex] as Element, "record-footer-ornament")
-    }
-  }
-
-  const dividerIndex = findMeaningful(children, (ornamentIndex ?? footerIndex) - 1, -1)
-  if (dividerIndex !== undefined && isElement(children[dividerIndex], "hr")) {
-    addClass(children[dividerIndex] as Element, "record-footer-divider")
-  }
+  transformFooter(children)
 }
 
 export const RecordDetails: QuartzTransformerPlugin = () => ({
