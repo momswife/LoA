@@ -314,8 +314,6 @@ South Zephyr culture therefore places strong emphasis upon abundance, circulatio
 
 South Zephyr households are especially common among:
 
-- Pterygotids
-    
 - Chiropterids
     
 - Limnids
@@ -393,8 +391,6 @@ East Tempest households are especially common among:
 - Raptorids
     
 - Chiropterids
-    
-- Pterygotids
     
 - Limnids
     

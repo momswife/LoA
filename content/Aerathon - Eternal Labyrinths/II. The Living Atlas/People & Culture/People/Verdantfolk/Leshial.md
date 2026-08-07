@@ -12,7 +12,7 @@
 **Primary Evidence:** Garden testimony, seed lineages, cultivation contracts, delver records, and community consultation  
 **Folk Classification:** [[∅ Verdantfolk|Verdantfolk]]  
 **Lineage Classification:** Leshial  
-**Registry Scope:** Mobile Plant-Bodied Peoples and Cultivated Emergence  
+**Registry Scope:** Mobile Non-Arborescent Plant-Bodied Peoples and Cultivated Emergence  
 **Recognition Status:** Full Sapient Recognition  
 **Population Status:** Rare; Usually Found in Small Garden Households  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
@@ -25,7 +25,10 @@
 
 Leshials are rare mobile plant-bodied Verdantfolk who arise through seed, cutting, bulb, tuber, fruit, graft, magical horticulture, spontaneous growth, or descent from other Leshials.
 
-Their bodies range from compact tangles of roots and leaves to forms resembling flowers, gourds, reeds, cacti, herbs, vines, or walking orchard branches. Shared origin does not imply shared temperament. A rose Leshial is no more obliged to be charming than a thorn Leshial is obliged to be cruel.
+Their bodies range from compact tangles of roots and leaves to forms resembling flowers, gourds, reeds, cacti, herbs, vines, or fruiting grafts. Shared origin does not imply shared temperament. A rose Leshial is no more obliged to be charming than a thorn Leshial is obliged to be cruel.
+
+> [!note] Registry Boundary  
+> Leshials arise through herbaceous, succulent, vine, garden, or other non-arborescent growth. Peoples whose central bodies develop as trees—with durable trunk, cambial growth, and a tree-scale root or crown structure—are [[Arboreal|Arboreals]] instead. No hereditary growth-line may be registered in both lineages.
 
 ---
 

@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Age of Embers
+---
+
 > _“If the gods would not answer, we would teach the fire to speak.”_  
 > — **Master Cael Emberwright**, address before the First Furnace Assembly
 

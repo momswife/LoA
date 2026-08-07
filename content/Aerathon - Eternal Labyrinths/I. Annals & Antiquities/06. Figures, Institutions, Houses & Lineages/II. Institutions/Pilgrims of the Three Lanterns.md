@@ -11,7 +11,8 @@
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law Historian & Keeper of Roadlore)  
 **Advisory Editors:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Researcher Falyn Onarra (Beastfolk Sociologist), Curator Rook-of-Rings (Relics Registrar)  
 **Date of Filing:** 4th Cycle, 3112 A.D.  
-**Document Class:** _Ethnographic Record / Grade-II Cultural Archive_
+**Document Class:** _Ethnographic Record / Grade-II Cultural Archive_  
+**Cultural Context:** [[Brethren Relations with Beastfolk]] and [[Brethren Household, Family & Kinship]]
 
 ~~
 

@@ -11,7 +11,7 @@
 **Primary Evidence:** Community consultation, submerged records, habitat study, and delver testimony  
 **Folk Classification:** [[∅ Aquaticfolk|Aquaticfolk]]  
 **Lineage Classification:** Batrachian  
-**Registry Scope:** Frog and Toad Kinships, Wetland Rights, and Metamorphic Culture  
+**Registry Scope:** Water-Dependent Frog and Toad Kinships, Wetland Rights, and Metamorphic Culture  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
 **Common Names:** Frogfolk, Toadfolk, Chorus-Kin  
@@ -22,6 +22,9 @@
 ## I. Lineage Overview
 
 Batrachians are Frog and Toad Aquaticfolk shaped by amphibious life, metamorphosis, powerful legs, vocal resonance, and wetlands that landbound governments repeatedly mistake for unused ground.
+
+> [!note] Registry Boundary  
+> Batrachian registration covers frog and toad branches whose inherited physiology and communal life are principally organized around water and wetlands. Flying-frog branches with functional gliding membranes and a defining aerial-canopy history are [[Limnid]] Avianfolk instead. No hereditary branch may be registered in both lineages.
 
 They include quiet burrowers, arboreal climbers, river leapers, poisonous-skinned families, and people whose adult bodies retain features outsiders associate with earlier life stages.
 
@@ -195,4 +198,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Environmental adaptation never establishes consent to hazardous exposure, bodily sampling, salvage, or compulsory access work.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

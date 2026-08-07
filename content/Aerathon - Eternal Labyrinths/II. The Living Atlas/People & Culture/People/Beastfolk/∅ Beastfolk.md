@@ -22,6 +22,10 @@
 
 The category includes horned, hoofed, furred, burrowing, predatory, grazing, scavenging, and nocturnal lineages. It does not include every person who resembles an animal, nor does resemblance alone establish Beastfolk identity.
 
+Placement follows the **Dominant Domain Standard**. Beastfolk lineages conduct the greater part of their ordinary embodied and communal lives upon land. Swimming, climbing, burrowing, or brief gliding does not alter that classification unless water or aerial movement becomes indispensable to the lineage’s physiology and historical way of life.
+
+Primarily aquatic peoples are filed as [[∅ Aquaticfolk|Aquaticfolk]], while peoples fundamentally shaped by flight or sustained aerial movement are filed as [[∅ Avianfolk|Avianfolk]]. Terrestrial reptilian peoples remain [[∅ Scalefolk|Scalefolk]]. A lineage may not be registered simultaneously beneath multiple Folk classifications.
+
 Current Ministry practice distinguishes four related terms:
 
 - **Folk classification** identifies the broad registry family: Beastfolk.
@@ -443,6 +447,7 @@ It does not provide a destiny.
 **Document Class:** Folk Classification and Cultural Overview / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Old Court and Beastfolk Kinships Unit  
+**Historical Reference:** [[Beastfolk Kinships]]  
 **Legal Consultation:** Civil Recognition and Treaty Review Office  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  

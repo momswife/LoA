@@ -434,6 +434,7 @@ It does not settle meaning.
 **Document Class:** Sapient Lineage Record / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Stone-Song and Memory Law Office  
+**Historical Reference:** [[The Stone-Song Confederacy]]  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Archivist Yelna Stonevoice  
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.

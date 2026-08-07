@@ -580,6 +580,7 @@ It does not require a life built around surviving.
 **Document Class:** Sapient Lineage Record / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Disaster Settlements and Convergent Kinships Unit  
+**Historical Reference:** [[Iron-Mane Forgefiefs]]  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.

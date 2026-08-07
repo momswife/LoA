@@ -12,7 +12,7 @@
 **Primary Evidence:** Community consultation, household archives, flight and body-access studies, migration records, and delver testimony  
 **Folk Classification:** [[∅ Avianfolk|Avianfolk]]  
 **Lineage Classification:** Petaurid  
-**Registry Scope:** Sapient Lineage and Homeland Variance  
+**Registry Scope:** Hereditary Mammalian Gliders with Aerial-Domain Primacy  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted  
 **Common Names:** Gliderfolk, Sailkin, Canopyfolk  
@@ -25,6 +25,9 @@
 **Petaurids** are a mammalian Avianfolk lineage distinguished by climbing adaptations, highly flexible bodies, balancing tails, and a broad membrane of skin called a **patagium** stretched between the arms and legs.
 
 Their recognized sublineages include sugar gliders, flying squirrels, colugos, feathertail gliders, greater gliders, and anomalures.
+
+> [!note] Registry Boundary  
+> Petaurid registration requires a functional inherited patagium or equivalent gliding anatomy and a continuous history in which aerial routes are central to ordinary life. Non-gliding squirrel peoples remain [[Celerine]] Beastfolk. No hereditary branch may be registered in both lineages.
 
 Petaurids cannot achieve sustained powered flight through their natural anatomy.
 

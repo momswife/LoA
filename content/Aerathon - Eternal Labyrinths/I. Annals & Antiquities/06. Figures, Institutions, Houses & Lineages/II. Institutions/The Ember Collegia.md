@@ -11,7 +11,8 @@
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Collegium Reconstruction Specialist)  
 **Advisory Editors:** Professor Arav Dhal-Senn (Antiquities Restoration & Collegium Material Specialist), Archivist Emeritus Venn Tarras (Ancient Linguistics), Inspector Jao “Greyglass” Vell (Forensic Thaumaturgy)  
 **Date of Filing:** 14th Cycle, 3159 A.D.  
-**Document Class:** _Institutional Chronicle / Grade-II Scholastic Archive_
+**Document Class:** _Institutional Chronicle / Grade-II Scholastic Archive_  
+**Cultural Context:** [[Education, Craft & Civic Life]]
 
 ~~
 

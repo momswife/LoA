@@ -432,6 +432,7 @@ It does not require them to live alone.
 **Document Class:** Sapient Lineage Record / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Seven Roads and Al’Ari Maritime Unit  
+**Historical References:** [[Pride of Seven Roads]]; [[Iron-Mane Forgefiefs]]  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.

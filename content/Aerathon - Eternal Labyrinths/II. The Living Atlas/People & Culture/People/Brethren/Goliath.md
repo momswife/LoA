@@ -10,6 +10,7 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household and civic records, comparative history, material evidence, and delver testimony  
 **Folk Classification:** [[∅ Brethren|Brethren]]  
+**Historical Reference:** [[Gnomish, Halfling & Other Brethren Traditions]]  
 **Lineage Classification:** Goliath  
 **Registry Scope:** Sapient Lineage, Elemental Inheritance, and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  

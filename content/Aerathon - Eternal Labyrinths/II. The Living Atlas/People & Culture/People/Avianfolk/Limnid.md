@@ -12,7 +12,7 @@
 **Primary Evidence:** Community consultation, household archives, flight and body-access studies, migration records, and delver testimony  
 **Folk Classification:** [[∅ Avianfolk|Avianfolk]]  
 **Lineage Classification:** Limnid  
-**Registry Scope:** Sapient Lineage and Homeland Variance  
+**Registry Scope:** Hereditary Amphibious and Reptilian Gliders with Aerial-Domain Primacy  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Accommodations  
 **Common Names:** Rainfolk, Mistkin, Slickwings  
@@ -25,6 +25,9 @@
 **Limnids** are a moisture-dependent Avianfolk lineage distinguished by gliding membranes, climbing adaptations, sensitive skin, and bodies shaped by humid forests, rain-soaked cliffs, seasonal wetlands, and waterways surrounded by dense vegetation.
 
 Their recognized sublineages include flying frogs, wandering salamanders, arboreal salamanders, newts, and flying snakes.
+
+> [!note] Registry Boundary  
+> Limnid registration requires inherited gliding anatomy and a continuous history in which canopy, cliff, or other vertical aerial movement is central to ordinary life. Frog, salamander, newt, and snake branches without that defining aerial relationship are filed as [[Batrachian]], [[Urodelan]], or [[Ophidian]]. No hereditary branch may be registered in both lineages.
 
 Limnids are not primarily aquatic people.
 

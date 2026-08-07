@@ -9,7 +9,7 @@
 **Primary Evidence:** Community consultation, household records, comparative lineage study, material evidence, and delver testimony  
 **Folk Classification:** [[∅ Beastfolk|Beastfolk]]  
 **Lineage Classification:** Celerine  
-**Registry Scope:** Sapient Lineage and Homeland Variance  
+**Registry Scope:** Terrestrial Rabbit, Hare, and Non-Gliding Squirrel Kinships  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted  
 **Common Names:** Quickfolk, Brightsteps, First-Aways  
@@ -20,6 +20,9 @@
 ## I. Lineage Overview
 
 Celerines are a convergent Beastfolk lineage composed principally of Rabbit, Squirrel, and Hare peoples.
+
+> [!note] Registry Boundary  
+> Celerine squirrel branches are terrestrial or ordinarily arboreal without inherited aerial locomotion. Flying squirrels and other patagial mammalian gliders whose histories center aerial routes are [[Petaurid]] Avianfolk instead. No hereditary branch may be registered in both lineages.
 
 They are joined by more than speed.
 

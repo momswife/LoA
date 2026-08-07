@@ -1,3 +1,8 @@
+---
+aliases:
+  - Elder Civilizations
+---
+
 > _“A ruin is not the remains of a people. It is only the final answer they left behind.”_  
 > — **Archivist Yelna Stonevoice**, _Lectures on the Civilizations Before Delving_
 
@@ -107,8 +112,8 @@ Brethren and Beastfolk peoples frequently lived across several kingdoms, migrate
 
 For this reason:
 
-- broad Brethren cultural histories are recorded under **Brethren Peoples & Traditions**;
-- Beastfolk clans and confederated kinships are recorded under **Beastfolk Kinships**;
+- broad Brethren cultural histories are recorded under [[Brethren Peoples & Traditions]];
+- Beastfolk clans and confederated kinships are recorded under [[Beastfolk Kinships]];
 - and practices shared across several societies are recorded under **Shared Customs & Ways**.
 
 The present index concerns the civilizations themselves: the structures people built together, the powers that governed them, and the worlds those structures created.
@@ -141,5 +146,7 @@ They do not belong to it.
 - [[The Sun Court of Vaelcour]]
 - [[Lesser Crowns & Sacred Realms]]
 - [[River Kingdoms of Old Louvain]]
+- [[Brethren Peoples & Traditions]]
+- [[Beastfolk Kinships]]
 - [[The Age of Crowns]]
 - [[Chronological Timeline of Aerathon]]

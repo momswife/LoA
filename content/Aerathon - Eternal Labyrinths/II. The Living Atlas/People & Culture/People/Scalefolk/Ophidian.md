@@ -11,7 +11,7 @@
 **Primary Evidence:** Community consultation, settlement records, molt archives, and delver testimony  
 **Folk Classification:** [[∅ Scalefolk|Scalefolk]]  
 **Lineage Classification:** Ophidian  
-**Registry Scope:** Viper, Cobra, Boa, Python, and Colubrid Kinships  
+**Registry Scope:** Terrestrial and Arboreal Viper, Cobra, Boa, Python, and Colubrid Kinships  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
 **Common Names:** Serpentines, Snakefolk, Coilfolk, Tongue-Readers  
@@ -22,6 +22,9 @@
 ## I. Lineage Overview
 
 Ophidians are limbless or partially limbed Scalefolk whose kinships include Viper, Cobra, Boa, Python, and Colubrid peoples.
+
+> [!note] Registry Boundary  
+> Ophidian registration covers serpentine branches whose ordinary embodied and communal lives are principally terrestrial or arboreal. Flying-snake branches with inherited gliding anatomy and a defining aerial-canopy history are [[Limnid]] Avianfolk instead. No hereditary branch may be registered in both lineages.
 
 They are distinct from Gorgonites, Naga myths, and cultic serpent transformations. Their bodies have nevertheless been used as shorthand for deception, poison, seduction, and hidden danger. Modern Ophidian culture places strong emphasis upon announced capability and the right not to reassure strangers endlessly.
 

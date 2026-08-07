@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Age of Crowns
+---
+
 > _“When the gods grew tired of speaking, they left us thrones to do the talking.”_  
 > — **Magistrate Talar Shellmark**, _Lecture on Faith and Law_
 

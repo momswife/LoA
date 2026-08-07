@@ -195,6 +195,7 @@ A shell offers protection and embodiment, not a personality built from patience.
 **Ministry of Delving Operations — The Living Atlas**  
 **Document Class:** Sapient Scalefolk Lineage Record / Initial Mechanical Review  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
+**Historical Reference:** [[Shell-Ledger Houses]]  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Researcher Falyn Onarra, Lt. Salvia Korrin  
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.

@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Age of Chains
+---
+
 > _“They called it order. But in the language of chains, even prayer is a link.”_  
 > — **Elder Venn Tarras**, _On the Collapse of Divine Law_
 

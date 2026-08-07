@@ -25,6 +25,9 @@
 
 Arboreals are very rare tree-bodied Verdantfolk ranging from flexible sapling-sized travelers to immense citizens who root for decades or centuries.
 
+> [!note] Registry Boundary  
+> Arboreal registration requires a tree-bodied growth pattern centered upon durable trunk, cambial growth, and a tree-scale root or crown structure. Mobile herbs, vines, succulents, flowers, gourds, and cultivated garden forms are [[Leshial|Leshials]] instead. No hereditary growth-line may be registered in both lineages.
+
 Not every animate tree is an Arboreal, and not every Arboreal is ancient. Some walk throughout life; some alternate between mobile and rooted phases; others speak through attendants, grafts, dreams, or constructed vessels when their central body cannot travel.
 
 ---

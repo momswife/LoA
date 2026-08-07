@@ -10,6 +10,7 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household records, delver testimony, and comparative material study  
 **Folk Classification:** [[∅ Brethren|Brethren]]  
+**Historical Reference:** [[Gnomish, Halfling & Other Brethren Traditions]]  
 **Lineage Classification:** Goblinoid  
 **Registry Scope:** Goblin, Hobgoblin, and Bugbear Peoples  
 **Recognition Status:** Full Sapient Recognition  
@@ -183,4 +184,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Bodily capacity never establishes consent to labor, examination, public access, or inherited obligation.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

@@ -11,6 +11,7 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household and civic records, comparative history, material evidence, and delver testimony  
 **Folk Classification:** [[∅ Brethren|Brethren]]  
+**Historical Reference:** [[Human Peoples & Early Kingdoms]]  
 **Lineage Classification:** Human  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  

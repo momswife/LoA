@@ -10,6 +10,7 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household and civic records, comparative history, material evidence, and delver testimony  
 **Folk Classification:** [[∅ Brethren|Brethren]]  
+**Historical Reference:** [[Elven Peoples & Long Memory]]  
 **Lineage Classification:** Elf  
 **Registry Scope:** Sapient Lineage, Long Memory, and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  

@@ -47,6 +47,12 @@ Modern classification follows self-identification, collective history, and body 
 
 Testudinan sea-turtle peoples remain [[∅ Aquaticfolk|Aquaticfolk]] because water routes, nesting shore law, and shell-ledger identity are central to their classification. Terrestrial Tortoise peoples are recognized as [[Chelonian]] Scalefolk.
 
+[[Urodelan|Urodelans]] are permeable-skinned amphibian peoples whose bodies and histories are water-dependent; they remain Aquaticfolk rather than Scalefolk. Visual resemblance, tails, and an ability to live on land do not override that distinction.
+
+[[Crocodilian|Crocodilians]] remain Scalefolk because their inherited lives join submerged water with indispensable banks, basking grounds, nests, and terrestrial civic space. Amphibious capability alone does not establish Aquaticfolk classification.
+
+Hereditary reptilian gliders whose histories are organized around aerial-canopy movement are [[Limnid]] Avianfolk. Scalefolk registration excludes those branches, and no hereditary branch may be entered beneath two Folk classifications.
+
 [[Dragonborn]] and [[Kobold|named Kobolds]] remain [[∅ Mythicfolk|Mythicfolk]] because their records concern draconic pact and emergent sapience.
 
 Ophidian Scalefolk are distinct from the mythic [[Gorgonite|Gorgonites]], whose living crown and petrifying resonance arise through curse, divine inheritance, or transformation.

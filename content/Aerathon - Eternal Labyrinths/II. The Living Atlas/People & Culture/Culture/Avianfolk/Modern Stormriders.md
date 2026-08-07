@@ -267,8 +267,6 @@ Common participants include:
     
 - Corvids
     
-- Pterygotids
-    
 - Psittacids
     
 - Passerids

@@ -22,6 +22,10 @@
 
 The category includes mammalian, cartilaginous, shelled, cephalopod, and deepwater lineages.
 
+Placement follows the **Dominant Domain Standard**. A lineage belongs among Aquaticfolk when water is indispensable to its inherited physiology, ordinary movement, development, or continuous civilizational history. Resemblance to a terrestrial mammal, reptile, or amphibian does not supersede that relationship.
+
+Amphibious edge cases are assigned according to the domain carrying the greater bodily and historical consequence. A lineage may not be registered simultaneously beneath multiple Folk classifications.
+
 It does not include every person capable of swimming.
 
 An Anatid, Pelagid, Otter Laetine, or Limnid may spend much of their life in water without being Aquaticfolk. A magically altered Brethren diver does not become Aquaticfolk through adaptation alone. Conversely, an Aquaticfolk person raised inland does not lose their lineage because they rarely enter natural water.

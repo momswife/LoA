@@ -434,6 +434,7 @@ It does not make the body a public archive.
 **Mechanical Appendix:** Initial Playtest Status  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Shell-Ledger and Nesting Shore Office  
+**Historical Reference:** [[Shell-Ledger Houses]]  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Magistrate Talar Shellmark, Researcher Falyn Onarra  
 **Date of Initial Comprehensive Filing:** 7th Cycle, 3388 A.D.

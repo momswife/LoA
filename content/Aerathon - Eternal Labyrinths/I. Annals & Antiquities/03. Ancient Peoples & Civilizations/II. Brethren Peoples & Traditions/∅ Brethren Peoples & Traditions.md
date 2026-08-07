@@ -1,3 +1,8 @@
+---
+aliases:
+  - Brethren Peoples & Traditions
+---
+
 > _“A wall may be raised by one people. A city endures only when many peoples agree what the wall is for.”_  
 > — **Historian Merrow Vey**, _The Inheritance of Mortal Works_
 
@@ -39,7 +44,7 @@ This archive records their ancient cultures, households, systems of teaching, ci
 
 - the origin reconstruction preserved in [[The Creation of the Brethren]];
 - the civilizational records filed under [[Elder Civilizations]];
-- the histories of specific institutions filed under [[06. Figures, Institutions, Houses & Lineages]];
+- the histories of specific institutions filed under [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/06. Figures, Institutions, Houses & Lineages/index|Figures, Institutions, Houses & Lineages]];
 - or modern ancestry records maintained within [[∅ Brethren|The Living Atlas]].
 
 ---
@@ -237,14 +242,14 @@ They were participants in the same ancient world and co-authors of many works la
 
 The planned records within this section proceed from shared origin toward increasingly specific cultural history:
 
-1. **The First Brethren** — the earliest communities after creation and the evidence separating cultural history from origin myth.
-2. **Human Peoples & Early Kingdoms** — human diversity before later kingdoms treated humanity as the default Brethren experience.
-3. **Elven Peoples & Long Memory** — elven continuities, disagreements over origin, memory offices, and century-spanning stewardship.
-4. **Dwarven Enclaves & Craft Lineages** — mountain compacts, forge households, apprenticeship, material memory, and civic endurance.
-5. **Gnomish, Halfling & Other Brethren Traditions** — smaller, scattered, or inconsistently classified peoples whose histories survive outside royal archives.
-6. **Brethren Household, Family & Kinship** — adoption, marriage, apprenticeship, descent, household office, and chosen belonging.
-7. **Education, Craft & Civic Life** — schools, workshops, recordkeeping, public works, and the transmission of knowledge.
-8. **Brethren Relations with Beastfolk** — cooperation, conflict, legal classification, cultural exchange, and repair.
+1. [[The First Brethren]] — the earliest communities after creation and the evidence separating cultural history from origin myth.
+2. [[Human Peoples & Early Kingdoms]] — human diversity before later kingdoms treated humanity as the default Brethren experience.
+3. [[Elven Peoples & Long Memory]] — elven continuities, disagreements over origin, memory offices, and century-spanning stewardship.
+4. [[Dwarven Enclaves & Craft Lineages]] — mountain compacts, forge households, apprenticeship, material memory, and civic endurance.
+5. [[Gnomish, Halfling & Other Brethren Traditions]] — smaller, scattered, or inconsistently classified peoples whose histories survive outside royal archives.
+6. [[Brethren Household, Family & Kinship]] — adoption, marriage, apprenticeship, descent, household office, and chosen belonging.
+7. [[Education, Craft & Civic Life]] — schools, workshops, recordkeeping, public works, and the transmission of knowledge.
+8. [[Brethren Relations with Beastfolk]] — cooperation, conflict, legal classification, cultural exchange, and repair.
 
 The [[The Ember Collegia|Ember Collegia]] are filed as an institution rather than a people. Their influence upon education and craft will be summarized in the relevant cultural record.
 
@@ -272,7 +277,7 @@ Modern communities have been reshaped by:
 - migration among the Five Greater Regions;
 - and legal identities unknown to the ancient world.
 
-Those subjects belong within [[II. The Living Atlas|The Living Atlas]].
+Those subjects belong within [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Overview|The Living Atlas]].
 
 Ancient tradition is an inheritance.
 
@@ -292,8 +297,16 @@ It is not a command that the living remain unchanged.
 - [[The War of Two Heavens]]
 - [[The Quiet Edict]]
 - [[The Treaty of Breath & Beast]]
+- [[The First Brethren]]
+- [[Human Peoples & Early Kingdoms]]
+- [[Elven Peoples & Long Memory]]
+- [[Dwarven Enclaves & Craft Lineages]]
+- [[Gnomish, Halfling & Other Brethren Traditions]]
+- [[Brethren Household, Family & Kinship]]
+- [[Education, Craft & Civic Life]]
+- [[Brethren Relations with Beastfolk]]
 - [[Beastfolk Kinships]]
-- [[Shared Customs & Ways]]
+- **Shared Customs & Ways** _(planned archive)_
 - [[∅ Brethren|Modern Brethren Records]]
 
 ---

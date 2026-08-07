@@ -23,6 +23,10 @@
 
 **Avianfolk** is the Ministry’s broad classification for sapient peoples whose bodies, histories, settlements, or cultures have been fundamentally shaped by aerial movement.
 
+Placement follows the **Dominant Domain Standard**. A lineage belongs among Avianfolk when flight, gliding, aerial migration, or sustained vertical habitation is indispensable to its inherited physiology or continuous civilizational history. Occasional climbing, leaping, or magically assisted flight is insufficient by itself.
+
+Avianfolk need not descend from birds, but every recognized lineage must possess a defining relationship with the aerial domain. A lineage may not be registered simultaneously beneath multiple Folk classifications.
+
 The name is older than the Ministry’s present understanding of it.
 
 Avianfolk are not simply birdfolk.
@@ -39,8 +43,6 @@ The classification includes:
     
 - Moisture-dependent amphibious and reptilian gliders
     
-- Chitinous and insect-like winged peoples
-    
 - Astralborn peoples whose flight changes between planes
     
 - Individuals and communities whose aerial identity persists despite injury, disability, age, or physiological variance
@@ -48,7 +50,7 @@ The classification includes:
 
 These peoples do not share one biological ancestor.
 
-They possess no universal language, faith, government, diet, migration pattern, or relationship with the sky. Some resemble familiar birds. Others resemble bats, gliding mammals, frogs, salamanders, serpents, moths, butterflies, cicadas, and beetles.
+They possess no universal language, faith, government, diet, migration pattern, or relationship with the sky. Some resemble familiar birds. Others resemble bats, gliding mammals, frogs, salamanders, and serpents.
 
 Their classification reflects a shared historical truth:
 
@@ -73,8 +75,6 @@ Chiropterids were classified as planar anomalies.
 Petaurids were divided between Beastfolk and flight-impaired Avianfolk.
 
 Limnids were alternately recorded as Beastfolk, Aquaticfolk, or biological curiosities.
-
-Pterygotids were separated according to whichever temple, industry, or authority sought to regulate them.
 
 The modern Living Atlas rejects that approach.
 
@@ -183,10 +183,6 @@ A person might therefore be described as:
 
 Or:
 
-> A South Zephyr Moth Pterygotid raised in southeastern Vinyot.
-
-Or:
-
 > A North Gale Swan Anatid serving an Oric House.
 
 Lineage describes inherited physiology and broad cultural history.
@@ -201,7 +197,7 @@ None of these determines personality, morality, faith, or profession.
 
 ## IV. Recognized Avianfolk Lineages
 
-The Living Atlas currently recognizes eleven major Avianfolk lineages.
+The Living Atlas currently recognizes ten major Avianfolk lineages.
 
 ### [[Raptorid|Raptorid]]
 
@@ -284,14 +280,6 @@ Moisture-dependent gliding peoples descended from flying frogs, wandering salama
 Limnid traditions concern environmental sensitivity, renewal, controlled retreat, water stewardship, and movement between wet earth and open air.
 
 They are heavily concentrated beneath the South Zephyr and East Tempest.
-
-### [[Pterygotid|Pterygotid]]
-
-Chitinous or insect-like aerial peoples descended from moths, butterflies, cicadas, dragonflies, bees, beetles, and related winged forms.
-
-Pterygotid cultures frequently engage with metamorphosis, seasonal cycles, collective labor, sensory intensity, emergence, and bodily ownership.
-
-Their largest populations live beneath the South Zephyr and East Tempest.
 
 ---
 
@@ -382,7 +370,7 @@ Its walls are simply less visible.
 
 ### Wing and Membrane Care
 
-Feathers, membranes, patagia, chitinous wings, gliding webbing, antennae, and other aerial structures require different forms of care.
+Feathers, membranes, patagia, gliding webbing, and other aerial structures require different forms of care.
 
 These may include:
 
@@ -417,7 +405,7 @@ Consent should be obtained in either case.
 
 ### Clothing and Equipment
 
-Conventional clothing and armor may obstruct wings, membranes, tails, antennae, or gliding structures.
+Conventional clothing and armor may obstruct wings, membranes, tails, or gliding structures.
 
 Avianfolk equipment may require:
 
@@ -529,8 +517,8 @@ The Wind territories follow ancient settlement, migration, and aerial routes rat
 | Wind               | Common Values                                                       | Principal Regions                                                                                                                                                                                                                                                                                                                                                                                                                         | Common Lineages                                                                        |
 | ------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **North Gale**     | Endurance, preservation, duty, preparation, ancestral continuity    | [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria\|Oria]] and northern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Allemance\|Allemance]]                                                                                                                                                                                                                                        | [[Strigid]], [[Raptorid]], [[Corvid]], [[Anatid]]                                     |
-| **South Zephyr**   | Abundance, cultivation, kinship, hospitality, beauty, communal life | Southern and southeastern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Vinyot\|Vinyot]], Parts of [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Al'Ar\|Al'Ar]], and [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Bat'yan\|Bat'yan]]                                                                                                                                          | [[Pterygotid]], [[Limnid]], [[Psittacid]], [[Passerid]], [[Petaurid]]                  |
-| **East Tempest**   | Courage, oath, challenge, transformation, decisive action           | [[Arneia]] and parts of [[II. The Living Atlas/Modern Geopolitics/Sub-Regional Politics/Bat'yan\|Bat'yan]]                                                                                                                                                                                                                                                                                                                                | [[Raptorid]], [[Pterygotid]], [[Limnid]], [[Psittacid]], [[Passerid]], [[Chiropterid]] |
+| **South Zephyr**   | Abundance, cultivation, kinship, hospitality, beauty, communal life | Southern and southeastern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Vinyot\|Vinyot]], Parts of [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Al'Ar\|Al'Ar]], and [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Bat'yan\|Bat'yan]]                                                                                                                                          | [[Limnid]], [[Psittacid]], [[Passerid]], [[Petaurid]]                                  |
+| **East Tempest**   | Courage, oath, challenge, transformation, decisive action           | [[Arneia]] and parts of [[II. The Living Atlas/Modern Geopolitics/Sub-Regional Politics/Bat'yan\|Bat'yan]]                                                                                                                                                                                                                                                                                                                                | [[Raptorid]], [[Limnid]], [[Psittacid]], [[Passerid]], [[Chiropterid]]                 |
 | , **West Cyclone** | Movement, independence, exploration, adaptation, return             | Portions of [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance\|Allemance]], [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot\|Vinyot]], [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar\|Al'Ar]], & [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Glasrún\|Glasrún]] |                                                                                        |
 
 ### North Gale
@@ -740,7 +728,7 @@ Such assumptions confuse regional reputation with individual capability.
 
 False.
 
-Chiropterids, Petaurids, Limnids, and Pterygotids demonstrate the breadth of the classification.
+Chiropterids, Petaurids, and Limnids demonstrate the breadth of the classification.
 
 ### “All Avianfolk can fly.”
 
@@ -870,11 +858,11 @@ They are shaped by the current that carried their ancestors, the household that 
 > 
 > Ministry personnel are forbidden from assigning aerial scouting, courier, rescue, weather, pollination, performance, hazardous-height, or wing-dependent labor solely on the basis of classification, lineage, or Wind.
 > 
-> Feathers, wing membranes, patagia, antennae, chitin, gliding webbing, shed material, biological compounds, and developmental casings remain part of the citizen’s body or personal property unless voluntarily transferred through informed consent.
+> Feathers, wing membranes, patagia, gliding webbing, shed material, and biological compounds remain part of the citizen’s body or personal property unless voluntarily transferred through informed consent.
 > 
 > Turning the Wing must be entered freely. Coerced Wind transfer, fraudulent marriage registration, denial of recognized household status, or punishment imposed solely for cross-Wind marriage constitutes a protected-rights violation.
 > 
-> Reasonable accommodations may include aerial entrances, ground-accessible routes, landing platforms, humidity control, temperature support, sensory protection, adapted armor, molting or emergence leave, and safe sleeping arrangements.
+> Reasonable accommodations may include aerial entrances, ground-accessible routes, landing platforms, humidity control, temperature support, sensory protection, adapted armor, molting leave, and safe sleeping arrangements.
 
 ---
 
@@ -885,6 +873,7 @@ They are shaped by the current that carried their ancestors, the household that 
 **Document Class:** Folk Classification and Cultural Overview / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Sky-Reeve Legacy and Atmospheric Civilizations Unit  
+**Historical Reference:** [[The Sky-Reeve Clans]]  
 **Planar Consultation:** Astral and Liminal Peoples Office  
 **Environmental Consultation:** Canopy, Wetland, Maritime, and Metamorphic Adaptation Units  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  

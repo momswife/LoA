@@ -10,6 +10,7 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household records, delver testimony, and comparative material study  
 **Folk Classification:** [[∅ Brethren|Brethren]]  
+**Historical Reference:** [[Gnomish, Halfling & Other Brethren Traditions]]  
 **Lineage Classification:** Orc  
 **Registry Scope:** Orcish Descent, Post-Conquest Culture, and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  

@@ -11,7 +11,7 @@
 **Primary Evidence:** Community consultation, submerged records, habitat study, and delver testimony  
 **Folk Classification:** [[∅ Aquaticfolk|Aquaticfolk]]  
 **Lineage Classification:** Urodelan  
-**Registry Scope:** Tailed Amphibian Kinships, Regrowth, and Water-Land Variance  
+**Registry Scope:** Water-Dependent Tailed Amphibian Kinships, Regrowth, and Water-Land Variance  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
 **Common Names:** Salamanderfolk, Newtfolk, Axolotl Kin  
@@ -22,6 +22,9 @@
 ## I. Lineage Overview
 
 Urodelans are Salamander, Newt, and Axolotl Aquaticfolk distinguished by tailed amphibious bodies, sensitive skin, and varying capacities for tissue repair.
+
+> [!note] Registry Boundary  
+> Urodelan registration covers tailed amphibian branches whose inherited physiology and communal life are principally organized around water, wetlands, springs, or submerged refuge. Salamander and newt branches whose hereditary gliding anatomy makes aerial movement central are [[Limnid]] Avianfolk instead. No hereditary branch may be registered in both lineages.
 
 They are often romanticized as endlessly regenerative. Healing remains slow, costly, incomplete, and personal. The existence of regrowth has been used to justify injuries no person should be asked to endure.
 
