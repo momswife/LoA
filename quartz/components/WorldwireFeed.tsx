@@ -3,6 +3,7 @@ import {
   initialThreadlinePostIds,
   markerLabels,
   markerText,
+  randomThreadlineTags,
   ThreadlinePost,
   threadlinePosts,
 } from "./data/threadlinePosts"
@@ -30,6 +31,7 @@ function ThreadlineCard({ post, pinned = false }: { post: ThreadlinePost; pinned
               class="worldwire-post__marker"
               data-threadline-marker
               data-marker={post.marker}
+              hidden={post.marker === "field"}
               aria-label={markerLabels[post.marker]}
             >
               {markerText[post.marker]}
@@ -48,7 +50,7 @@ function ThreadlineCard({ post, pinned = false }: { post: ThreadlinePost; pinned
         {post.text}
       </p>
       <p class="worldwire-post__tags" data-threadline-tags>
-        {post.tags.map((tag) => (
+        {randomThreadlineTags(post).map((tag) => (
           <span>{tag}</span>
         ))}
       </p>
@@ -80,6 +82,10 @@ const WorldwireFeed: QuartzComponent = () => {
         {initialPosts.map((post, index) => (
           <ThreadlineCard post={post} pinned={index < 2} />
         ))}
+        <aside class="worldwire__notice" role="note">
+          Worldwire broadcasts are fleeting and provisional. Reports may be corrected, contradicted,
+          or lost before they ever enter the permanent archive.
+        </aside>
       </div>
     </section>
   )

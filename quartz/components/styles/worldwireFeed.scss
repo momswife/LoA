@@ -181,10 +181,8 @@
   font-size: 0.58rem;
   font-weight: 850;
 
-  &[data-marker="field"] {
-    border: 1px solid var(--secondary);
-    background: transparent;
-    color: var(--secondary);
+  &[hidden] {
+    display: none;
   }
 
   &[data-marker="live"],
@@ -223,16 +221,18 @@
   line-height: 1.35;
 }
 
-body[data-slug="index"] article > .markdown-preview-view {
-  > p:first-child:last-child {
-    max-width: none;
-    margin: 0.8rem 0 0;
-    color: var(--gray);
-    font-family: var(--lorevault-ui-font);
-    font-size: 0.72rem;
-    font-style: italic;
-    text-align: center;
-  }
+.worldwire__notice {
+  grid-column: 1 / -1;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.8rem 1.1rem;
+  border-top: 1px solid var(--lorevault-divider);
+  color: var(--gray);
+  font-family: var(--lorevault-ui-font);
+  font-size: 0.7rem;
+  font-style: italic;
+  line-height: 1.55;
+  text-align: center;
 }
 
 @keyframes worldwire-pulse {

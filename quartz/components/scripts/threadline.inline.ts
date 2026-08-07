@@ -1,4 +1,10 @@
-import { markerLabels, markerText, ThreadlinePost, threadlinePosts } from "../data/threadlinePosts"
+import {
+  markerLabels,
+  markerText,
+  randomThreadlineTags,
+  ThreadlinePost,
+  threadlinePosts,
+} from "../data/threadlinePosts"
 
 const minimumSwapDelay = 60_000
 const maximumSwapDelay = 7 * 60_000
@@ -74,13 +80,19 @@ function renderPost(card: HTMLElement, post: ThreadlinePost) {
   if (handle) handle.textContent = post.handle
   if (text) text.textContent = post.text
   if (marker) {
-    marker.textContent = markerText[post.marker]
+    const showMarker = post.marker !== "field"
+    marker.hidden = !showMarker
+    marker.textContent = showMarker ? markerText[post.marker] : ""
     marker.dataset.marker = post.marker
-    marker.setAttribute("aria-label", markerLabels[post.marker])
+    if (showMarker) {
+      marker.setAttribute("aria-label", markerLabels[post.marker])
+    } else {
+      marker.removeAttribute("aria-label")
+    }
   }
   if (tags) {
     tags.replaceChildren(
-      ...post.tags.map((tag) => {
+      ...randomThreadlineTags(post).map((tag) => {
         const item = document.createElement("span")
         item.textContent = tag
         return item
@@ -122,6 +134,22 @@ function setupThreadline() {
     for (const card of rotatingCards) {
       const post = nextPost()
       if (post) renderPost(card, post)
+    }
+
+    // Vary the hashtag selection for the two retained lead reports as well.
+    for (const card of cards) {
+      const post = threadlinePosts.find(
+        (candidate) => candidate.id === card.dataset.threadlinePostId,
+      )
+      const tags = card.querySelector<HTMLElement>("[data-threadline-tags]")
+      if (!post || !tags) continue
+      tags.replaceChildren(
+        ...randomThreadlineTags(post).map((tag) => {
+          const item = document.createElement("span")
+          item.textContent = tag
+          return item
+        }),
+      )
     }
 
     for (const card of cards) setPostAge(card, randomInitialAge())

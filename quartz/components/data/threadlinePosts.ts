@@ -12,7 +12,7 @@ export type ThreadlinePost = {
 
 export const markerText: Record<ThreadlineMarker, string> = {
   verified: "\u2713",
-  field: "\u25c7",
+  field: "",
   live: "Live",
   unstable: "!",
   restricted: "MDO",
@@ -20,10 +20,63 @@ export const markerText: Record<ThreadlineMarker, string> = {
 
 export const markerLabels: Record<ThreadlineMarker, string> = {
   verified: "Verified account",
-  field: "Field verified account",
+  field: "Unverified account",
   live: "Live transmission",
   unstable: "Signal unstable",
   restricted: "MDO restricted transmission",
+}
+
+const accountHashtagOptions: Record<string, string[]> = {
+  "@CelestineVale": ["#ValeLife", "#LouvainStyle"],
+  "@RafiLive": ["#RafiLive", "#PublicRecord"],
+  "@QueenNyxara": ["#Crowns", "#AerathonMusic"],
+  "@GildedTurn": ["#RedCarpet", "#OneTake"],
+  "@VaultMojo": ["#TopTen", "#VaultCulture"],
+  "@AvelMerrow": ["#PublicService", "#CivicLife"],
+  "@FennAfterDark": ["#LouvainTonight", "#Satire"],
+  "@LanternLedger": ["#LanternLedger", "#CityDesk"],
+}
+
+const contextualHashtagOptions: Array<{ pattern: RegExp; tag: string }> = [
+  { pattern: /\bLouvain\b/i, tag: "#Louvain" },
+  { pattern: /\bDole\b/i, tag: "#Dole" },
+  { pattern: /\bTempestat\b/i, tag: "#Tempestat" },
+  { pattern: /\bCauseway\b/i, tag: "#Causeway" },
+  { pattern: /\bJegervalt\b/i, tag: "#Jegervalt" },
+  { pattern: /\bAllemance\b/i, tag: "#Allemance" },
+  { pattern: /\bOria\b|\bOric\b/i, tag: "#Oria" },
+  { pattern: /\bMDO\b|\bMinistry\b/i, tag: "#MDO" },
+  { pattern: /\bguild\b|\bdelver/i, tag: "#DelverWatch" },
+  { pattern: /\bcouncil\b|\belection\b|\bminister\b|\bbudget\b/i, tag: "#CivicWatch" },
+  { pattern: /\bmarket\b|\bshop\b|\btavern\b|\bbread\b/i, tag: "#LocalTrade" },
+  { pattern: /\btram\b|\btransit\b|\bcauseway\b/i, tag: "#TravelUpdate" },
+  { pattern: /\bsong\b|\brecord\b|\bshow\b|\bconcert\b/i, tag: "#AerathonArts" },
+  { pattern: /\bschool\b|\bstudent\b|\bteacher\b|\blibrary\b/i, tag: "#Community" },
+]
+
+export function randomThreadlineTags(
+  post: ThreadlinePost,
+  random: () => number = Math.random,
+): string[] {
+  const contextualTags = contextualHashtagOptions
+    .filter(({ pattern }) => pattern.test(`${post.source} ${post.text} ${post.tags.join(" ")}`))
+    .map(({ tag }) => tag)
+  const candidates = [
+    ...new Set([
+      ...post.tags,
+      ...(accountHashtagOptions[post.handle] ?? []),
+      ...contextualTags,
+      "#AcrossAerathon",
+    ]),
+  ]
+  const count = 1 + Math.floor(random() * Math.min(3, candidates.length))
+
+  for (let index = candidates.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(random() * (index + 1))
+    ;[candidates[index], candidates[swapIndex]] = [candidates[swapIndex], candidates[index]]
+  }
+
+  return candidates.slice(0, count)
 }
 
 export const threadlinePosts: ThreadlinePost[] = [

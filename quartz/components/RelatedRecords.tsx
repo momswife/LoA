@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { FilePath, FullSlug, resolveRelative, slugifyFilePath } from "../util/path"
+import { FilePath, FullSlug, resolveRelative, simplifySlug, slugifyFilePath } from "../util/path"
 import style from "./styles/relatedRecords.scss"
 
 type RelatedSpec =
@@ -73,31 +73,108 @@ function resolveExplicitRecords(
   })
 }
 
-function siblingRecords(
-  allFiles: QuartzComponentProps["allFiles"],
-  currentSlug: FullSlug,
-): RelatedRecord[] {
-  const slashIndex = currentSlug.lastIndexOf("/")
-  if (slashIndex < 0) return []
-  const parent = currentSlug.slice(0, slashIndex)
-  const prefix = `${parent}/`
+function toRelatedRecord(file: QuartzComponentProps["fileData"]): RelatedRecord | undefined {
+  if (!file.slug) return undefined
 
-  const siblings = allFiles
-    .filter((candidate) => {
-      if (!candidate.slug || candidate.slug === currentSlug || !candidate.slug.startsWith(prefix)) {
-        return false
-      }
-      const remainder = candidate.slug.slice(prefix.length)
-      return !remainder.includes("/") && remainder !== "index" && remainder !== "overview"
-    })
-    .sort((a, b) => titleFor(a).localeCompare(titleFor(b), undefined, { numeric: true }))
-
-  return siblings.slice(0, 3).map((file) => ({
-    slug: file.slug!,
+  return {
+    slug: file.slug,
     title: titleFor(file),
     description: descriptionFor(file),
     type: typeFor(file),
-  }))
+  }
+}
+
+function linkedRecords(
+  fileData: QuartzComponentProps["fileData"],
+  allFiles: QuartzComponentProps["allFiles"],
+  currentSlug: FullSlug,
+): RelatedRecord[] {
+  const links = Array.isArray(fileData.links) ? fileData.links : []
+
+  return links.flatMap((link) => {
+    const file = allFiles.find(
+      (candidate) =>
+        candidate.unlisted !== true &&
+        candidate.slug !== currentSlug &&
+        candidate.slug !== undefined &&
+        simplifySlug(candidate.slug) === link,
+    )
+    const record = file ? toRelatedRecord(file) : undefined
+    return record ? [record] : []
+  })
+}
+
+function backlinkRecords(
+  allFiles: QuartzComponentProps["allFiles"],
+  currentSlug: FullSlug,
+): RelatedRecord[] {
+  const simpleCurrentSlug = simplifySlug(currentSlug)
+
+  return allFiles.flatMap((file) => {
+    if (!file.slug || file.slug === currentSlug || file.unlisted === true) return []
+    const links = Array.isArray(file.links) ? file.links : []
+    const record = links.includes(simpleCurrentSlug) ? toRelatedRecord(file) : undefined
+    return record ? [record] : []
+  })
+}
+
+function pathRelationship(firstSlug: FullSlug, secondSlug: FullSlug) {
+  const first = firstSlug.split("/").slice(0, -1)
+  const second = secondSlug.split("/").slice(0, -1)
+  let sharedDepth = 0
+
+  while (sharedDepth < first.length && first[sharedDepth] === second[sharedDepth]) {
+    sharedDepth += 1
+  }
+
+  return {
+    sharedDepth,
+    distance: first.length + second.length - sharedDepth * 2,
+  }
+}
+
+function nearbyRecords(
+  allFiles: QuartzComponentProps["allFiles"],
+  currentSlug: FullSlug,
+): RelatedRecord[] {
+  const candidates = allFiles.filter((file) => {
+    if (!file.slug || file.slug === currentSlug || file.unlisted === true) return false
+    const finalSegment = file.slug.split("/").at(-1)
+    return finalSegment !== "index" && finalSegment !== "overview"
+  })
+
+  candidates.sort((first, second) => {
+    const firstRelationship = pathRelationship(currentSlug, first.slug!)
+    const secondRelationship = pathRelationship(currentSlug, second.slug!)
+    if (firstRelationship.sharedDepth !== secondRelationship.sharedDepth) {
+      return secondRelationship.sharedDepth - firstRelationship.sharedDepth
+    }
+    if (firstRelationship.distance !== secondRelationship.distance) {
+      return firstRelationship.distance - secondRelationship.distance
+    }
+    return titleFor(first).localeCompare(titleFor(second), undefined, { numeric: true })
+  })
+
+  return candidates.flatMap((file) => {
+    const record = toRelatedRecord(file)
+    return record ? [record] : []
+  })
+}
+
+function prioritizeRecords(groups: RelatedRecord[][], limit: number): RelatedRecord[] {
+  const seen = new Set<FullSlug>()
+  const records: RelatedRecord[] = []
+
+  for (const group of groups) {
+    for (const record of group) {
+      if (seen.has(record.slug)) continue
+      seen.add(record.slug)
+      records.push(record)
+      if (records.length === limit) return records
+    }
+  }
+
+  return records
 }
 
 export default (() => {
@@ -111,11 +188,11 @@ export default (() => {
       : rawRelated
         ? ([rawRelated] as RelatedSpec[])
         : []
+    const linked = linkedRecords(fileData, allFiles, currentSlug)
     const explicit = resolveExplicitRecords(specs, allFiles, currentSlug)
-    const records = (explicit.length > 0 ? explicit : siblingRecords(allFiles, currentSlug)).slice(
-      0,
-      3,
-    )
+    const backlinks = backlinkRecords(allFiles, currentSlug)
+    const nearby = nearbyRecords(allFiles, currentSlug)
+    const records = prioritizeRecords([linked, explicit, backlinks, nearby], 3)
     if (records.length === 0) return null
 
     return (
