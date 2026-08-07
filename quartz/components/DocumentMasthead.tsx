@@ -135,14 +135,17 @@ export default (() => {
         {summary && !isOverview && <p class="document-masthead__summary">{summary}</p>}
         <ContentMetadata {...props} />
         {facts.length > 0 && (
-          <dl class="document-masthead__facts">
-            {facts.map((fact) => (
-              <div>
-                <dt>{fact.label}</dt>
-                <dd>{fact.value}</dd>
-              </div>
-            ))}
-          </dl>
+          <section class="document-masthead__record" aria-labelledby="masthead-record-title">
+            <h2 id="masthead-record-title">Record details</h2>
+            <dl class="document-masthead__facts">
+              {facts.map((fact) => (
+                <div>
+                  <dt>{fact.label}</dt>
+                  <dd>{fact.value}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
         )}
         {hero && (
           <figure class="document-masthead__hero">

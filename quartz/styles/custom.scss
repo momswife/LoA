@@ -289,78 +289,200 @@ article {
   display: none;
 }
 
-// Legacy records keep their atmospheric opening, but secondary filing data is
-// tucked into a disclosure so the article starts with a clear reading path.
-.page-header:has(.document-masthead) + article > .markdown-preview-view > blockquote:first-child {
-  margin: 1.65rem 0 1.8rem;
-  padding: 0.15rem 0 0.15rem 1.15rem;
+.record-opening-quote {
+  max-width: 58rem;
+  margin: 1.45rem 0 1.7rem;
+  padding: 0.3rem 0 0.3rem 1.15rem;
+  border: 0;
+  border-left: 2px solid var(--secondary);
   border-radius: 0;
   background: transparent;
+  color: color-mix(in srgb, var(--darkgray) 84%, var(--gray));
+  font-size: clamp(1rem, 1.7vw, 1.13rem);
+  font-style: italic;
+  line-height: 1.65;
   box-shadow: none;
+
+  p {
+    margin: 0;
+  }
 }
 
 .record-subtitle {
-  max-width: 62rem;
-  margin: 0 0 0.7rem;
+  max-width: 58rem;
+  margin: 0.45rem 0 1.6rem;
   color: var(--dark);
   font-size: clamp(1rem, 2vw, 1.18rem);
+  font-style: italic;
+  font-weight: 500;
   letter-spacing: 0.01em;
   line-height: 1.4;
 }
 
-.legacy-record-details {
-  max-width: 62rem;
-  margin: 0 0 1.35rem;
-  border-block: 1px solid var(--lorevault-divider);
+.record-header-divider,
+.record-footer-divider,
+.record-footer-ornament {
+  display: none;
+}
+
+.record-details {
+  max-width: 58rem;
+  margin: 0 0 1.7rem;
+  padding: 0.85rem 1rem 1rem;
+  border-left: 2px solid color-mix(in srgb, var(--secondary) 68%, var(--lorevault-border));
+  border-radius: 0 var(--lorevault-radius) var(--lorevault-radius) 0;
+  background: color-mix(in srgb, var(--secondary) 5%, var(--lorevault-surface));
   color: var(--darkgray);
   font-size: 0.9rem;
 }
 
-.page-header:has(.document-masthead)
-  + article
-  > .markdown-preview-view
-  > h1:first-of-type
-  + .legacy-record-details {
-  margin-top: -0.75rem;
-}
-
-.legacy-record-details > summary {
-  padding: 0.65rem 0;
+.record-section-label {
+  margin: 0 0 0.72rem;
+  padding: 0;
+  border: 0;
   color: var(--secondary);
-  cursor: pointer;
   font-family: var(--lorevault-ui-font);
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  list-style: none;
+  font-size: 0.67rem;
+  font-weight: 750;
+  letter-spacing: 0.11em;
+  line-height: 1.2;
   text-transform: uppercase;
 }
 
-.legacy-record-details > summary::after {
-  margin-left: 0.45rem;
-  content: "+";
-}
+.record-details__list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem 1.4rem;
+  margin: 0;
 
-.legacy-record-details[open] > summary::after {
-  content: "−";
-}
-
-.legacy-record-details > summary::-webkit-details-marker {
-  display: none;
-}
-
-.legacy-record-details__content {
-  padding: 0 0 0.85rem;
-  line-height: 1.65;
-
-  > strong {
-    color: var(--dark);
+  > div {
+    min-width: 0;
   }
 
-  > br {
-    display: block;
-    margin-top: 0.12rem;
+  dt,
+  dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+
+  dt {
+    color: var(--gray);
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.64rem;
+    font-weight: 700;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+  }
+
+  dd {
+    margin-top: 0.16rem;
+    color: var(--darkgray);
+    line-height: 1.5;
+  }
+
+  dd :is(strong, em) {
+    color: inherit;
+  }
+}
+
+.record-details__fallback {
+  line-height: 1.6;
+}
+
+.record-content-label {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  max-width: 58rem;
+  margin: 1.9rem 0 0.25rem;
+  color: var(--gray);
+  font-family: var(--lorevault-ui-font);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+
+  &::before {
+    width: 2.5rem;
+    height: 1px;
+    background: color-mix(in srgb, var(--secondary) 65%, var(--lorevault-divider));
     content: "";
+  }
+}
+
+.markdown-preview-view:has(> .record-details) {
+  > h2 {
+    position: relative;
+    padding-bottom: 0.58rem;
+    border-bottom: 0;
+
+    &::after {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 3rem;
+      height: 1px;
+      background: color-mix(in srgb, var(--secondary) 58%, var(--lorevault-divider));
+      content: "";
+    }
+  }
+
+  > hr:not(.record-header-divider, .record-footer-divider) {
+    width: 3.25rem;
+    height: 1px;
+    margin: 2.6rem auto;
+    background: color-mix(in srgb, var(--secondary) 48%, var(--lorevault-divider));
+  }
+}
+
+.record-file-footer {
+  max-width: 58rem;
+  margin: 3rem 0 0.4rem;
+  padding: 1rem 1.1rem;
+  border-left: 2px solid color-mix(in srgb, var(--gray) 50%, var(--lorevault-border));
+  border-radius: 0 var(--lorevault-radius) var(--lorevault-radius) 0;
+  background: color-mix(in srgb, var(--gray) 5%, var(--lorevault-surface));
+  color: var(--gray);
+  font-size: 0.8rem;
+  line-height: 1.6;
+
+  &::before {
+    display: block;
+    margin-bottom: 0.55rem;
+    color: var(--secondary);
+    content: "Record footer";
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.64rem;
+    font-weight: 750;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+  }
+
+  p {
+    max-width: none;
+    margin: 0;
+  }
+
+  strong {
+    color: var(--darkgray);
+  }
+}
+
+@media all and ($mobile) {
+  .record-opening-quote {
+    margin-top: 1.2rem;
+    padding-left: 0.9rem;
+  }
+
+  .record-details,
+  .record-file-footer {
+    padding-right: 0.85rem;
+    padding-left: 0.85rem;
+  }
+
+  .record-details__list {
+    grid-template-columns: 1fr;
+    gap: 0.7rem;
   }
 }
 

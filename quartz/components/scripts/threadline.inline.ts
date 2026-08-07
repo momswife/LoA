@@ -1,5 +1,8 @@
 import { markerLabels, markerText, ThreadlinePost, threadlinePosts } from "../data/threadlinePosts"
 
+const minimumSwapDelay = 60_000
+const maximumSwapDelay = 7 * 60_000
+
 function randomItem<T>(items: T[]): T | undefined {
   return items[Math.floor(Math.random() * items.length)]
 }
@@ -108,7 +111,8 @@ function setupThreadline() {
 
     const scheduleSwap = () => {
       if (stopped || reducedMotion) return
-      const delay = 9000 + Math.floor(Math.random() * 9000)
+      const delay =
+        minimumSwapDelay + Math.floor(Math.random() * (maximumSwapDelay - minimumSwapDelay))
       swapTimer = window.setTimeout(swapOne, delay)
     }
 
