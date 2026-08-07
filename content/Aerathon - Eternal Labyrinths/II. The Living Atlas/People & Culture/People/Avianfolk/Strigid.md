@@ -3,8 +3,14 @@
 
 # Strigid
 
-**Ministry of Delving Operations — The Living Atlas**  
-**Folk Classification:** [[‎ Avianfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, household archives, flight and body-access studies, migration records, and delver testimony  
+**Folk Classification:** [[∅ Avianfolk]]  
 **Lineage Classification:** Strigid  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
@@ -687,7 +693,7 @@ Fish Owl Strigids are commonly large-framed, with powerful feet and plumage adap
 
 Their feathers may be less completely sound-dampening than those of other Strigids due to frequent exposure to water.
 
-Fish Owl communities often maintain close relationships with maritime peoples and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Races of Aerathon/Aquaticfolk/Aquaticfolk Overview|Aquaticfolk]] settlements.
+Fish Owl communities often maintain close relationships with maritime peoples and [[∅ Aquaticfolk|Aquaticfolk]] settlements.
 
 ### Hawk Owl Sublineage
 

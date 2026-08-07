@@ -3,8 +3,14 @@
 
 # Petaurid
 
-**Ministry of Delving Operations — The Living Atlas**  
-**Folk Classification:** [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Races of Aerathon/Avianfolk/Avianfolk Overview|Avianfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, household archives, flight and body-access studies, migration records, and delver testimony  
+**Folk Classification:** [[∅ Avianfolk|Avianfolk]]  
 **Lineage Classification:** Petaurid  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
@@ -413,7 +419,7 @@ Who is responsible for the landing—the traveler, the routekeeper, or everyone 
 
 ## VI. The Sky-Reeve Inheritance
 
-Petaurids were present within the lower infrastructure of the ancient [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Races of Aerathon/Avianfolk/The Sky-Reeve Clans|Sky-Reeve Clans]], though surviving histories rarely grant them the prominence given to Stormriders, Wind-Mothers, or high-altitude pilots.
+Petaurids were present within the lower infrastructure of the ancient [[The Sky-Reeve Clans]], though surviving histories rarely grant them the prominence given to Stormriders, Wind-Mothers, or high-altitude pilots.
 
 They served as span builders, platform keepers, harness workers, rescue gliders, current observers, and maintainers of the structures that allowed others to reach the upper winds.
 

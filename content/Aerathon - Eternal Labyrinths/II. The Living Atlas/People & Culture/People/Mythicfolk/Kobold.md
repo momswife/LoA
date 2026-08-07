@@ -3,7 +3,14 @@
 
 # Kobold
 
-**Folk Classification:** [[‎ Mythicfolk|Mythicfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Rare Sapient Lineage Record / Grade-II Conditional Context_  
+**Primary Evidence:** Protected self-testimony, anomalous lineage studies, historical records, and delver reports  
+**Folk Classification:** [[∅ Mythicfolk|Mythicfolk]]  
 **Lineage Classification:** Named Kobold  
 **Registry Scope:** Emergent Sapience, Draconic Design, and Adopted Homeland  
 **Recognition Status:** Full Recognition for Demonstrably Sapient Individuals  
@@ -315,7 +322,6 @@ Forced containment, experimentation, breeding, exposure, conscription, or use of
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 **Filed & Authenticated**  
-**Ministry of Delving Operations — The Living Atlas**  
 **Document Class:** Emergent Sapient Lineage Record / Grade-II Conditional Context  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Emergent Sapience Review:** Cognitive Anomalies Office  

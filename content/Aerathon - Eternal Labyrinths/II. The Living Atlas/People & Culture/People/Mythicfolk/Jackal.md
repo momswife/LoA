@@ -2,7 +2,14 @@
 
 # Jackal
 
-**Folk Classification:** [[‎ Mythicfolk|Mythicfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Rare Sapient Lineage Record / Grade-II Conditional Context_  
+**Primary Evidence:** Protected self-testimony, anomalous lineage studies, historical records, and delver reports  
+**Folk Classification:** [[∅ Mythicfolk|Mythicfolk]]  
 **Lineage Classification:** Jackal  
 **Creature Classification:** Fey  
 **Registry Scope:** Hidden-City People, Arcana Intimacy, and Long Memory  
@@ -281,7 +288,6 @@ Ancient is not omniscient.
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 **Filed & Authenticated**  
-**Ministry of Delving Operations — The Living Atlas**  
 **Document Class:** Rare Fey Lineage Record / Grade-II Restricted Context  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Fey Consultation:** Hidden Roads Liaison Desk  

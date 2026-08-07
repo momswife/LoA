@@ -1,6 +1,13 @@
 # Ferine
 
-**Folk Classification:** [[‎ Beastfolk|Beastfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, household records, comparative lineage study, material evidence, and delver testimony  
+**Folk Classification:** [[∅ Beastfolk|Beastfolk]]  
 **Lineage Classification:** Ferine  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
@@ -425,6 +432,14 @@ Hyena Ferines commonly possess sloped posture, powerful jaws, rounded ears, and 
 
 Their social awareness is often reduced to “dominance instinct” by outsiders. Hyena communities tend to understand rank as contextual: the best hunt leader may not be the proper judge, medic, parent, or camp speaker.
 
+Many Hyena households organize through **after-camps**: networks that gather when a hunt, expedition, government, or disaster has ended and the difficult work of distributing food, naming loss, repairing trust, and deciding what happens next begins. Their laughter and whooping calls can coordinate across darkness, interrupt panic, challenge a speaker, locate separated kin, or turn private fear into something a group can survive together.
+
+#### Hyena Archetype — Chorus-Keeper
+
+The **Chorus-Keeper** is a popular Hyena archetype rather than a hereditary caste or required profession. Chorus-Keepers read the emotional direction of a group, answer fear with sound, and make certain that authority belongs to the person suited to the present need rather than whoever held it last.
+
+An adventuring Chorus-Keeper might be a bard, commander, medic, comic, mourner, lookout, union caller, or the companion who knows when the crew needs permission to laugh. Any Hyena character may use the archetype as roleplaying inspiration.
+
 **Ability Score Increase.** Your Charisma score increases by 1.
 
 **Size.** Your size is Medium.
@@ -432,6 +447,10 @@ Their social awareness is often reduced to “dominance instinct” by outsiders
 **Mocking Resilience.** When you take damage, you can use your reaction to impose disadvantage on the next attack made against you before the end of the attacker’s next turn.
 
 You can use this feature a number of times equal to your proficiency bonus per long rest.
+
+**Optional Chorus-Keeper Feature — Rallying Laugh.** With DM approval, you may replace Mocking Resilience with this feature. When you or an ally you can hear within 30 feet fails a saving throw against being charmed or frightened, you can use your reaction to add a d4 to the roll, potentially turning it into a success.
+
+You can use Rallying Laugh a number of times equal to your proficiency bonus per long rest.
 
 ### Wolverine
 
@@ -558,7 +577,6 @@ It does not require a life built around surviving.
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 **Filed & Authenticated**  
-**Ministry of Delving Operations — The Living Atlas**  
 **Document Class:** Sapient Lineage Record / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Historical Consultation:** Disaster Settlements and Convergent Kinships Unit  

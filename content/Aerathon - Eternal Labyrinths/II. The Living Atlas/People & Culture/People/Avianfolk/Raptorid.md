@@ -3,8 +3,14 @@
 
 # Raptorid
 
-**Ministry of Delving Operations — The Living Atlas**  
-**Folk Classification:** [[‎ Avianfolk|Avianfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, household archives, flight and body-access studies, migration records, and delver testimony  
+**Folk Classification:** [[∅ Avianfolk|Avianfolk]]  
 **Lineage Classification:** Raptorid  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
@@ -441,7 +447,7 @@ Despite this, outsiders frequently associate them with death or misfortune. Most
 
 Osprey Raptorids possess adaptations suited to coastal, river, and lake environments.
 
-Their feet are often especially capable of gripping wet or shifting surfaces. Osprey communities commonly maintain close relationships with [[Races of Aerathon/Aquaticfolk/Aquaticfolk Overview|Aquaticfolk]] settlements and maritime cultures.
+Their feet are often especially capable of gripping wet or shifting surfaces. Osprey communities commonly maintain close relationships with [[∅ Aquaticfolk|Aquaticfolk]] settlements and maritime cultures.
 
 ---
 

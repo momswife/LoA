@@ -3,8 +3,14 @@
 
 # Pterygotid
 
-**Ministry of Delving Operations — The Living Atlas**  
-**Folk Classification:** [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Races of Aerathon/Avianfolk/Avianfolk Overview|Avianfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, household archives, flight and body-access studies, migration records, and delver testimony  
+**Folk Classification:** [[∅ Avianfolk|Avianfolk]]  
 **Lineage Classification:** Pterygotid  
 **Registry Scope:** Sapient Lineage, Developmental Variance, and Homeland Adaptation  
 **Recognition Status:** Full Sapient Recognition  
@@ -643,7 +649,7 @@ Others argue that the classification forces every aerial people to be understood
 
 ## VII. The Sky-Reeve Inheritance
 
-Pterygotids served throughout the ancient [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Races of Aerathon/Avianfolk/The Sky-Reeve Clans|Sky-Reeve Clans]] as season-keepers, cloud gardeners, signalers, pressure listeners, structural workers, and pilots within the lower and middle currents.
+Pterygotids served throughout the ancient [[The Sky-Reeve Clans]] as season-keepers, cloud gardeners, signalers, pressure listeners, structural workers, and pilots within the lower and middle currents.
 
 Their contributions were most visible in the **Blue Tithes**, through which harvest songs and seasonal offerings were carried upon the winds.
 

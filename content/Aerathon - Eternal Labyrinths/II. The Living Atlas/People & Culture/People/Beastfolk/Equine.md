@@ -1,6 +1,13 @@
 # Equine
 
-**Folk Classification:** [[‎ Beastfolk|Beastfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, household records, comparative lineage study, material evidence, and delver testimony  
+**Folk Classification:** [[∅ Beastfolk|Beastfolk]]  
 **Lineage Classification:** Equine  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
@@ -425,7 +432,6 @@ It does not determine the destination.
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 **Filed & Authenticated**  
-**Ministry of Delving Operations — The Living Atlas**  
 **Document Class:** Sapient Lineage Record / Grade-I Authenticity  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Transit Consultation:** Continental Roads and Migration Office  

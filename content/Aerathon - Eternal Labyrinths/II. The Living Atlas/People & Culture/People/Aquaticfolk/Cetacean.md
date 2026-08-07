@@ -1,6 +1,13 @@
 # Cetacean
 
-**Folk Classification:** [[‎ Aquaticfolk|Aquaticfolk]]  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compiler:** Keeper Aeska Mourn-Wind  
+**Contributing Scholars:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Current Revision:** 3388 A.D., Age of Spectacle  
+**Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
+**Primary Evidence:** Community consultation, water-route testimony, physiological records, submerged settlement study, and delver reports  
+**Folk Classification:** [[∅ Aquaticfolk|Aquaticfolk]]  
 **Lineage Classification:** Cetacean  
 **Registry Scope:** Sapient Lineage and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
@@ -542,7 +549,6 @@ It does not require them to become anyone’s song.
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 **Filed & Authenticated**  
-**Ministry of Delving Operations — The Living Atlas**  
 **Document Class:** Sapient Lineage Record / Grade-I Cultural Authority  
 **Mechanical Appendix:** Initial Playtest Status  
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
