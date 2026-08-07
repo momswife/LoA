@@ -4,13 +4,46 @@ function randomItem<T>(items: T[]): T | undefined {
   return items[Math.floor(Math.random() * items.length)]
 }
 
+function resetPostAge(card: HTMLElement) {
+  card.dataset.threadlineAppearedAt = String(Date.now())
+
+  const age = card.querySelector<HTMLElement>("[data-threadline-age]")
+  if (age) age.textContent = "NOW"
+}
+
+function formatPostAge(elapsedSeconds: number): string {
+  if (elapsedSeconds < 5) return "NOW"
+  if (elapsedSeconds < 60) return `${elapsedSeconds}s`
+
+  const elapsedMinutes = Math.floor(elapsedSeconds / 60)
+  if (elapsedMinutes < 60) return `${elapsedMinutes}m`
+
+  return `${Math.floor(elapsedMinutes / 60)}h`
+}
+
+function updatePostAges(feed: HTMLElement) {
+  const now = Date.now()
+
+  for (const card of feed.querySelectorAll<HTMLElement>("[data-threadline-card]")) {
+    const appearedAt = Number(card.dataset.threadlineAppearedAt)
+    if (!Number.isFinite(appearedAt)) {
+      resetPostAge(card)
+      continue
+    }
+
+    const elapsedSeconds = Math.max(0, Math.floor((now - appearedAt) / 1000))
+    const age = card.querySelector<HTMLElement>("[data-threadline-age]")
+    if (age) age.textContent = formatPostAge(elapsedSeconds)
+  }
+}
+
 function renderPost(card: HTMLElement, post: ThreadlinePost) {
   card.dataset.threadlinePostId = post.id
+  resetPostAge(card)
 
   const avatar = card.querySelector<HTMLElement>("[data-threadline-avatar]")
   const source = card.querySelector<HTMLElement>("[data-threadline-source]")
   const handle = card.querySelector<HTMLElement>("[data-threadline-handle]")
-  const age = card.querySelector<HTMLElement>("[data-threadline-age]")
   const marker = card.querySelector<HTMLElement>("[data-threadline-marker]")
   const text = card.querySelector<HTMLElement>("[data-threadline-text]")
   const tags = card.querySelector<HTMLElement>("[data-threadline-tags]")
@@ -18,7 +51,6 @@ function renderPost(card: HTMLElement, post: ThreadlinePost) {
   if (avatar) avatar.textContent = post.avatar
   if (source) source.textContent = post.source
   if (handle) handle.textContent = post.handle
-  if (age) age.textContent = post.age
   if (text) text.textContent = post.text
   if (marker) {
     marker.textContent = markerText[post.marker]
@@ -41,13 +73,16 @@ function setupThreadline() {
     if (feed.dataset.threadlineReady === "true") continue
     feed.dataset.threadlineReady = "true"
 
+    const cards = [...feed.querySelectorAll<HTMLElement>("[data-threadline-card]")]
+    if (cards.length === 0) continue
+
     const rotatingCards = [...feed.querySelectorAll<HTMLElement>("[data-threadline-rotating]")]
-    if (rotatingCards.length === 0) continue
 
     let stopped = false
     let swapTimer: number | undefined
     let transitionTimer: number | undefined
     let entryTimer: number | undefined
+    let ageTimer: number | undefined
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
 
     const visibleIds = () =>
@@ -67,6 +102,9 @@ function setupThreadline() {
       const post = nextPost()
       if (post) renderPost(card, post)
     }
+
+    for (const card of cards) resetPostAge(card)
+    ageTimer = window.setInterval(() => updatePostAges(feed), 1000)
 
     const scheduleSwap = () => {
       if (stopped || reducedMotion) return
@@ -105,6 +143,7 @@ function setupThreadline() {
       if (swapTimer !== undefined) window.clearTimeout(swapTimer)
       if (transitionTimer !== undefined) window.clearTimeout(transitionTimer)
       if (entryTimer !== undefined) window.clearTimeout(entryTimer)
+      if (ageTimer !== undefined) window.clearInterval(ageTimer)
     })
   }
 }

@@ -38,7 +38,7 @@ function ThreadlineCard({ post, pinned = false }: { post: ThreadlinePost; pinned
           <span>
             <span data-threadline-handle>{post.handle}</span>
             <span aria-hidden="true"> · </span>
-            <span data-threadline-age>{post.age}</span>
+            <span data-threadline-age>NOW</span>
           </span>
         </span>
       </header>
