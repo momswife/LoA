@@ -1,7 +1,7 @@
 > _“A network is a conversation. If you cannot leave it, it is a cage with many voices.”_  
 > — Speaker Pell Under-Rain
 
-# Mycelian
+# Mycelial
 
 **Filed Division:** Ministry of Delving Operations — The Living Atlas  
 **Responsible Office:** Peoples, Lineages, and Cultural Recognition  
@@ -11,9 +11,10 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Network testimony, spore archives, substrate surveys, medical consultations, and delver records  
 **Folk Classification:** [[∅ Verdantfolk|Verdantfolk]]  
-**Lineage Classification:** Mycelian  
+**Lineage Classification:** Mycelial  
 **Registry Scope:** Mobile Fungal Peoples and Consensual Mycelial Networks  
 **Recognition Status:** Full Sapient Recognition  
+**Population Status:** Rare; Frequently Overcounted Through Networked Bodies  
 **Delver Eligibility:** Unrestricted with Respiratory and Substrate Protocols  
 **Common Names:** Mycelians, Sporefolk, Ring-Kin  
 **Playtest Status:** Initial Lineage Mechanics
@@ -22,25 +23,27 @@
 
 ## I. Lineage Overview
 
-Mycelians are fungal Verdantfolk whose mobile bodies grow from independent or shared mycelial structures. Forms vary from compact cap-crowned people to branching shelf, puffball, veil, coral-fungus, and lichenlike bodies.
+Mycelials are rare fungal Verdantfolk whose mobile bodies grow from independent or shared mycelial structures. Forms vary from compact cap-crowned people to branching shelf, puffball, veil, coral-fungus, and lichenlike bodies.
 
-Some exchange emotion, sensation, or memory through direct network contact. This capacity has produced the false claim that all Mycelians share one mind. Most networks are closer to rooms where people meet than brains into which people disappear.
+Some exchange emotion, sensation, or memory through direct network contact. This capacity has produced the false claim that all Mycelials share one mind. Most networks are closer to rooms where people meet than brains into which people disappear.
 
 ---
 
 ## II. Origins and the Open Ring
 
-Mycelian communities emerged in old forests, cavern beds, ruined cities, divine gardens, grave soils, and Labyrinth margins. Their histories often begin with the **Open Ring**, a circle deliberately left incomplete so any participant could enter without being enclosed and leave without tearing through another.
+Mycelial communities emerged in old forests, cavern beds, ruined cities, divine gardens, grave soils, and Labyrinth margins. Their histories often begin with the **Open Ring**, a circle deliberately left incomplete so any participant could enter without being enclosed and leave without tearing through another.
 
 The symbol now marks consensual networks, public fungal clinics, and homes in which mental contact is never presumed.
+
+Population estimates are unreliable because one Mycelial may maintain several fruiting bodies while several individuals may share one substrate. Even the broadest estimates place living communities among Aerathon’s smallest recognized peoples.
 
 ---
 
 ## III. Body and Sensory Life
 
-Mycelian bodies may be dry, soft, woody, luminous, veiled, armored, or continuously fruiting. They sense humidity, chemical change, decay, vibration, and nearby fungal life with varying precision.
+Mycelial bodies may be dry, soft, woody, luminous, veiled, armored, or continuously fruiting. They sense humidity, chemical change, decay, vibration, and nearby fungal life with varying precision.
 
-Spores may function as reproduction, communication, defense, medicine, waste, or ordinary shedding. Their presence does not prove infection or intent. Public buildings need negotiated ventilation that protects both respiratory safety and Mycelian participation.
+Spores may function as reproduction, communication, defense, medicine, waste, or ordinary shedding. Their presence does not prove infection or intent. Public buildings need negotiated ventilation that protects both respiratory safety and Mycelial participation.
 
 Fruiting bodies can heal or be replaced, but destruction may still cause severe pain, memory loss, or death.
 
@@ -48,7 +51,7 @@ Fruiting bodies can heal or be replaced, but destruction may still cause severe 
 
 ## IV. Society and Kinship
 
-Mycelian households include rings, beds, caravans, laboratories, compost guilds, lichen partnerships, temple colonies, and mixed neighborhoods.
+Mycelial households include rings, beds, caravans, laboratories, compost guilds, lichen partnerships, temple colonies, and mixed neighborhoods.
 
 Network membership is often governed by **three permissions**: permission to connect, permission to transmit, and permission to retain. Consent to share a feeling is not consent to preserve its memory.
 
@@ -58,25 +61,25 @@ Kinship may follow shared substrate without implying shared thought. Two people 
 
 ## V. Inner Life and Modern Debate
 
-Mycelian philosophy treats decay as transformation without insisting that loss is good. Decomposition can nourish new life and still be grief.
+Mycelial philosophy treats decay as transformation without insisting that loss is good. Decomposition can nourish new life and still be grief.
 
 Debate centers upon civic networks. Advocates see voluntary sensory commons as profound mutual aid; critics warn that employers, states, and delver guilds will turn connection into monitoring. Both agree that refusal must remain practical, not merely legal.
 
 ---
 
-## VI. Mycelians in Modern Aerathon
+## VI. Mycelials in Modern Aerathon
 
 ### Allemance
 
-Physicians and courts seek Mycelian expertise while sensational trials debate whether networked testimony belongs to one witness or many.
+Physicians and courts seek Mycelial expertise while sensational trials debate whether networked testimony belongs to one witness or many.
 
 ### Oria
 
-Deep halls host lichen farms, mineral fungi, and warm-bed communities near geothermal works.
+A few deep halls host lichen farms, mineral fungi, and small warm-bed communities near geothermal works.
 
 ### Vinyot
 
-Waste reclamation and chemical industry depend upon fungal labor, making respiratory justice and toxic exposure major union issues.
+Specialist waste-reclamation and chemical works seek scarce Mycelial expertise, making respiratory justice and toxic exposure major labor issues.
 
 ### Arneria
 
@@ -88,11 +91,11 @@ Volcanic and mangrove fungi support island recovery, medicine, fermentation, and
 
 ---
 
-## VII. Mycelian Delvers
+## VII. Mycelial Delvers
 
-Mycelian delvers detect rot, toxins, disturbed substrate, airflow, and biological hazards. Networks can assist communication, but hostile Labyrinths may imitate a familiar connection or use spores to write counterfeit memories.
+Mycelial delvers detect rot, toxins, disturbed substrate, airflow, and biological hazards. Networks can assist communication, but hostile Labyrinths may imitate a familiar connection or use spores to write counterfeit memories.
 
-Masks and filters must be fitted through consultation. Safety equipment that prevents a Mycelian from breathing, sensing, or speaking is not accessible equipment.
+Masks and filters must be fitted through consultation. Safety equipment that prevents a Mycelial from breathing, sensing, or speaking is not accessible equipment.
 
 ---
 
@@ -142,7 +145,7 @@ Gain proficiency in Medicine, Nature, or Survival.
 
 ## X. Recognized Growth Traditions
 
-### Ring Mycelians
+### Ring Mycelials
 
 Ring communities form temporary or lasting networks for memory, sensation, governance, and care under explicit connection law.
 
@@ -156,7 +159,7 @@ Lichen-Kin arise through stable symbiosis and often use plural bodily language w
 
 ---
 
-## XI. Playing a Mycelian
+## XI. Playing a Mycelial
 
 Consider:
 
@@ -174,7 +177,7 @@ Connection can create intimacy. It does not eliminate secrets, disagreement, or 
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Mycelian lineage does not indicate hive-mindedness, contagion, necromancy, emotional transparency, willingness to connect, or consent to collect spores.
+> Mycelial lineage does not indicate hive-mindedness, contagion, necromancy, emotional transparency, willingness to connect, or consent to collect spores.
 >
 > Network contact requires active permission. Thought, sensation, and retained memory remain protected information.
 

@@ -1,7 +1,7 @@
 > _“You built one stair and called the hall accessible. I have a hundred feet and none of them agree.”_  
 > — Daro Long Hall, access architect
 
-# Myriapodan
+# Myriapodid
 
 **Filed Division:** Ministry of Delving Operations — The Living Atlas  
 **Responsible Office:** Peoples, Lineages, and Cultural Recognition  
@@ -11,7 +11,7 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Segmental medical records, tunnel plans, vibration studies, delver testimony, and community consultation  
 **Folk Classification:** [[∅ Chitinfolk|Chitinfolk]]  
-**Lineage Classification:** Myriapodan  
+**Lineage Classification:** Myriapodid  
 **Registry Scope:** Centipede, Millipede, and Related Many-Limbed Peoples  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Route and Equipment Assessment  
@@ -22,7 +22,7 @@
 
 ## I. Lineage Overview
 
-Myriapodans are centipede-, millipede-, and related Chitinfolk with elongated segmented bodies and many walking limbs.
+Myriapodids are centipede-, millipede-, and related Chitinfolk with elongated segmented bodies and many walking limbs.
 
 Their shape varies from low horizontal forms to upright torsos carried above long articulated bodies. The number of limbs can change with growth, molt, injury, and lineage. Counting them without invitation is considered intrusive in many communities.
 
@@ -30,9 +30,9 @@ Their shape varies from low horizontal forms to upright torsos carried above lon
 
 ## II. Origins and the Long Hall Compact
 
-The **Long Hall Compact** followed a winter in which Myriapodan refugees were offered shelter that they physically could not enter or turn within.
+The **Long Hall Compact** followed a winter in which Myriapodid refugees were offered shelter that they physically could not enter or turn within.
 
-Its central principle—access is measured by usable entry, not stated welcome—now influences Ministry architecture far beyond Myriapodan life.
+Its central principle—access is measured by usable entry, not stated welcome—now influences Ministry architecture far beyond Myriapodid life.
 
 Origins are preserved through deep-earth migration, forest-floor settlements, Convergence records, and communities that followed ancient warm stone beneath Oria.
 
@@ -40,7 +40,7 @@ Origins are preserved through deep-earth migration, forest-floor settlements, Co
 
 ## III. Body and Sensory Life
 
-Myriapodan bodies may be flexible or heavily plated, dry or moisture-dependent, brightly patterned or earth-toned. Movement requires waves of coordinated limb action and large horizontal clearance.
+Myriapodid bodies may be flexible or heavily plated, dry or moisture-dependent, brightly patterned or earth-toned. Movement requires waves of coordinated limb action and large horizontal clearance.
 
 Segments distribute touch, balance, breathing, pain, and muscular effort. An injury far from the head is not minor. Narrow restraints can cause severe damage even when they appear loose around one segment.
 
@@ -50,7 +50,7 @@ Some lineages possess defensive secretions or venom; neither is universal.
 
 ## IV. Society and Kinship
 
-Myriapodan households include tunnel families, longhouses, coil courts, forest caravans, bath communities, craft guilds, and mixed homes.
+Myriapodid households include tunnel families, longhouses, coil courts, forest caravans, bath communities, craft guilds, and mixed homes.
 
 Longhouses place social spaces along gentle curves so every body can enter, turn, and leave without climbing across another. This architecture shaped the custom of **open passage**: hospitality is incomplete until a guest knows the way out.
 
@@ -58,13 +58,13 @@ Longhouses place social spaces along gentle curves so every body can enter, turn
 
 ## V. Inner Life and Modern Debate
 
-Myriapodan traditions often value rhythm, coordination, route memory, patience with complex processes, tactile craft, and bodily self-knowledge.
+Myriapodid traditions often value rhythm, coordination, route memory, patience with complex processes, tactile craft, and bodily self-knowledge.
 
-Modern debate concerns fragmentation. Outsiders often assume each segment is replaceable; some Myriapodans instead experience the whole length of the body as central to identity. Prosthetic and regenerative practices must follow the individual’s understanding of wholeness.
+Modern debate concerns fragmentation. Outsiders often assume each segment is replaceable; some Myriapodids instead experience the whole length of the body as central to identity. Prosthetic and regenerative practices must follow the individual’s understanding of wholeness.
 
 ---
 
-## VI. Myriapodans in Modern Aerathon
+## VI. Myriapodids in Modern Aerathon
 
 ### Allemance
 
@@ -76,7 +76,7 @@ Warm tunnels and mineral baths support deep-road communities with extensive ston
 
 ### Vinyot
 
-Transit design, cable maintenance, and industrial access work employ Myriapodans while often failing to accommodate them off shift.
+Transit design, cable maintenance, and industrial access work employ Myriapodids while often failing to accommodate them off shift.
 
 ### Arneria
 
@@ -88,9 +88,9 @@ Forest-floor and volcanic-tunnel communities maintain humid refuges and storm-sa
 
 ---
 
-## VII. Myriapodan Delvers
+## VII. Myriapodid Delvers
 
-Myriapodan delvers are tunnel scouts, climbers, vibration readers, engineers, and rescue specialists capable of anchoring across unstable ground.
+Myriapodid delvers are tunnel scouts, climbers, vibration readers, engineers, and rescue specialists capable of anchoring across unstable ground.
 
 Labyrinth route maps must include turn radius, floor texture, and vertical transitions. A passage wide enough for a Humanoid shoulder may still be impossible for a long segmented body.
 
@@ -152,7 +152,7 @@ Cavern Longfolk include pale, heat-seeking, mineral-colored, and deep-sensing co
 
 ---
 
-## XI. Playing a Myriapodan
+## XI. Playing a Myriapodid
 
 Consider:
 
@@ -170,7 +170,7 @@ Many limbs offer an embodied perspective, not extra turns or compulsory competen
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Myriapodan lineage does not indicate monstrosity, venom, dirtiness, subterranean allegiance, replaceable body segments, or consent to counting and examination.
+> Myriapodid lineage does not indicate monstrosity, venom, dirtiness, subterranean allegiance, replaceable body segments, or consent to counting and examination.
 >
 > Exuviae, defensive secretions, limb count, segment records, and nesting locations are protected bodily and residential information.
 

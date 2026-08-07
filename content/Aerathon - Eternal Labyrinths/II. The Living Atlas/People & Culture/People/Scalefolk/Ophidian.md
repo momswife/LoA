@@ -1,6 +1,6 @@
 > _“Fear notices my body before it notices me. I have learned to make it wait.”_
 
-# Serpentine
+# Ophidian
 
 **Filed Division:** Ministry of Delving Operations — The Living Atlas  
 **Responsible Office:** Peoples, Lineages, and Cultural Recognition  
@@ -10,26 +10,26 @@
 **Document Class:** _Sapient Scalefolk Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, settlement records, molt archives, and delver testimony  
 **Folk Classification:** [[∅ Scalefolk|Scalefolk]]  
-**Lineage Classification:** Serpentine  
+**Lineage Classification:** Ophidian  
 **Registry Scope:** Viper, Cobra, Boa, Python, and Colubrid Kinships  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
-**Common Names:** Snakefolk, Coilfolk, Tongue-Readers  
+**Common Names:** Serpentines, Snakefolk, Coilfolk, Tongue-Readers  
 **Playtest Status:** Initial Lineage Mechanics
 
 ---
 
 ## I. Lineage Overview
 
-Serpentines are limbless or partially limbed Scalefolk whose kinships include Viper, Cobra, Boa, Python, and Colubrid peoples.
+Ophidians are limbless or partially limbed Scalefolk whose kinships include Viper, Cobra, Boa, Python, and Colubrid peoples.
 
-They are distinct from Gorgonites, Naga myths, and cultic serpent transformations. Their bodies have nevertheless been used as shorthand for deception, poison, seduction, and hidden danger. Modern Serpentine culture places strong emphasis upon announced capability and the right not to reassure strangers endlessly.
+They are distinct from Gorgonites, Naga myths, and cultic serpent transformations. Their bodies have nevertheless been used as shorthand for deception, poison, seduction, and hidden danger. Modern Ophidian culture places strong emphasis upon announced capability and the right not to reassure strangers endlessly.
 
 ---
 
 ## II. Origins and Collective Memory
 
-Serpentine communities preserve desert burrows, forest coils, riverbank settlements, cliff warrens, and ancient trade routes narrow enough to exclude most pursuers.
+Ophidian communities preserve desert burrows, forest coils, riverbank settlements, cliff warrens, and ancient trade routes narrow enough to exclude most pursuers.
 
 The **Venom Truths** distinguish possession, capacity, intent, and action. Having venom does not mean threatening its use; lacking venom does not make a person more trustworthy.
 
@@ -37,7 +37,7 @@ The **Venom Truths** distinguish possession, capacity, intent, and action. Havin
 
 ## III. Body and Sensory Life
 
-Serpentines may possess long tails with upright torsos, fully serpentine forms with dexterous arms, or limbless bodies using mouth, coils, tools, and adaptive equipment.
+Ophidians may possess long tails with upright torsos, fully serpentine forms with dexterous arms, or limbless bodies using mouth, coils, tools, and adaptive equipment.
 
 Chemical sensing through tongue and palate provides environmental information, not emotional truth. Some lineages are venomous; venom is protected bodily material and requires medical planning.
 
@@ -53,17 +53,17 @@ The **Announced Coil** custom asks before encircling a person or shared object, 
 
 ## V. Inner Life and Modern Debate
 
-Serpentine cultures admire precision, restraint, perceptiveness, self-possession, direct boundaries, and survival without unnecessary motion.
+Ophidian cultures admire precision, restraint, perceptiveness, self-possession, direct boundaries, and survival without unnecessary motion.
 
 Their shadow is defensive secrecy. Constant suspicion can make explanation feel like surrender, leaving allies without information needed for care.
 
 ---
 
-## VI. Serpentine Peoples in Modern Aerathon
+## VI. Ophidian Peoples in Modern Aerathon
 
 ### Allemance
 
-Court fascination with Serpentine presentation exists beside severe poison and divination law.
+Court fascination with Ophidian presentation exists beside severe poison and divination law.
 
 ### Oria
 
@@ -75,7 +75,7 @@ Venom licensing, fashion, and illicit extraction dominate political life.
 
 ### Arneria
 
-Desert Serpentines maintain major burrow, night-road, and thermal traditions.
+Desert Ophidians maintain major burrow, night-road, and thermal traditions.
 
 ### Al'Ar
 
@@ -83,9 +83,9 @@ Island and mangrove coils participate in shipping, medicine, and storm refuge.
 
 ---
 
-## VII. Serpentine Delvers
+## VII. Ophidian Delvers
 
-Serpentine delvers are scent readers, narrow-route scouts, grapplers, alchemists, and thermal navigators. Their movement requires terrain planning; ladders and humanoid harnesses may be inaccessible.
+Ophidian delvers are scent readers, narrow-route scouts, grapplers, alchemists, and thermal navigators. Their movement requires terrain planning; ladders and humanoid harnesses may be inaccessible.
 
 ---
 
@@ -127,7 +127,7 @@ Gain proficiency in Perception or Investigation. You have advantage on checks to
 
 You may grapple without a free hand. While grappling this way, your speed becomes 15 feet and you cannot use Coiling Grip on another target.
 
-### Serpentine Heritage
+### Ophidian Heritage
 
 Choose one feature from your sublineage below.
 
@@ -153,7 +153,7 @@ Your walking speed increases by 5 feet, and you can move through the space of a 
 
 ---
 
-## XI. Playing a Serpentine
+## XI. Playing a Ophidian
 
 Consider:
 
@@ -170,7 +170,7 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Serpentine lineage does not indicate deception, venom, seduction, cult allegiance, Gorgon ancestry, emotional coldness, or consent to restraint and venom extraction.
+> Ophidian lineage does not indicate deception, venom, seduction, cult allegiance, Gorgon ancestry, emotional coldness, or consent to restraint and venom extraction.
 >
 > Scales, shed skin, venom, eggs, teeth, and thermal data are protected bodily materials.
 
@@ -187,4 +187,3 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

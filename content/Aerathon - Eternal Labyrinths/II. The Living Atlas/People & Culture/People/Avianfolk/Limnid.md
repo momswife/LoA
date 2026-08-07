@@ -1242,4 +1242,4 @@ It does not require them to belong fully to either.
 
 — Unauthorized biological harvesting, deliberate dehydration, contamination of protected water, or coerced environmental testing involving Limnid citizens constitutes a protected-rights violation under Ministry charter.
 
-**——— ⭕ END OF FILE ⭕ ———**x
+**——— ⭕ END OF FILE ⭕ ———**

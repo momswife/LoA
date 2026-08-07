@@ -14,6 +14,7 @@
 **Lineage Classification:** Arboreal  
 **Registry Scope:** Mobile and Rooted Tree-Bodied Peoples  
 **Recognition Status:** Full Sapient Recognition  
+**Population Status:** Very Rare; Rooted Citizens Commonly Omitted from Census  
 **Delver Eligibility:** Individual Review for Size and Mobility Provision  
 **Common Names:** Arboreals, Treefolk, Grovewalkers  
 **Playtest Status:** Initial Lineage Mechanics
@@ -22,7 +23,7 @@
 
 ## I. Lineage Overview
 
-Arboreals are tree-bodied Verdantfolk ranging from flexible sapling-sized travelers to immense citizens who root for decades or centuries.
+Arboreals are very rare tree-bodied Verdantfolk ranging from flexible sapling-sized travelers to immense citizens who root for decades or centuries.
 
 Not every animate tree is an Arboreal, and not every Arboreal is ancient. Some walk throughout life; some alternate between mobile and rooted phases; others speak through attendants, grafts, dreams, or constructed vessels when their central body cannot travel.
 
@@ -35,6 +36,8 @@ Arboreal traditions describe awakenings through divine weather, ancient pacts, s
 The **Standing Witnesses** were rooted citizens whose testimony ended the legal fiction that immobility meant absence from civic life. Court was brought to their groves, and each identified decades of land theft conducted while officials called them scenery.
 
 Modern records distinguish age from authority. A thousand-year memory can be valuable, incomplete, prejudiced, or wrong.
+
+New Arboreal awakenings are separated by years or generations. Rooted individuals are often missed by census workers, but even corrected estimates leave the lineage exceptionally uncommon.
 
 ---
 
@@ -70,7 +73,7 @@ Modern debate concerns stewardship. Some Arboreals accept duties toward the ecos
 
 ### Allemance
 
-Ancient estate Arboreals challenge titles that transferred the soil around them without their consent.
+A few ancient estate Arboreals challenge titles that transferred the soil around them without their consent.
 
 ### Oria
 
@@ -78,7 +81,7 @@ Coniferous groves and geothermal root halls maintain avalanche records and winte
 
 ### Vinyot
 
-Urban Arboreals live in reinforced plazas and mobile soil carriages while advertisers compete for access to their canopies.
+The rare urban Arboreal lives in a reinforced plaza or mobile soil carriage while advertisers compete for access to their canopy.
 
 ### Arneria
 

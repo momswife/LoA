@@ -8,6 +8,7 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Community consultation, lineage registries, household records, comparative physiology, and delver testimony  
 **Folk Classification:** Beastfolk  
+**Lineage Naming Standard:** Formal lineage names end in _-ine_  
 **Registry Scope:** Terrestrial Kinships, Recognized Lineages, and Cultural Identity  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage and Individual Capability  
@@ -174,11 +175,11 @@ Mouse and Rat peoples whose histories emphasize route memory, collective surviva
 
 Pig, Boar, and Peccary peoples associated with soil knowledge, dense kinship, direct communication, cultivated abundance, and resistance to degrading ideas about appetite or cleanliness.
 
-### [[Primate]]
+### [[Primatine]]
 
 Monkey, Ape, and Lemur peoples with varied climbing bodies, tactile social traditions, tool cultures, expressive gesture, and persistent struggles against false hierarchies of civilization.
 
-### [[Proboscidean]]
+### [[Proboscine]]
 
 Elephant, Mammoth, and Mastodon peoples shaped by trunks, low-frequency sound, route memory, shared weight, and the right to release memories others expect them to carry.
 

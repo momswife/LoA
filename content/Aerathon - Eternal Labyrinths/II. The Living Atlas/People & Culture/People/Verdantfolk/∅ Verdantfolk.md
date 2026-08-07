@@ -8,10 +8,12 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Community consultation, grove covenants, spore archives, root-memory testimony, and delver records  
 **Folk Classification:** Verdantfolk  
+**Lineage Naming Standard:** Formal lineage names end in _-al_  
 **Registry Scope:** Plant, Fungal, and Arboreal Sapient Peoples  
 **Recognition Status:** Full Sapient Recognition  
+**Population Status:** Rare; Dispersed and Locally Concentrated  
 **Delver Eligibility:** Determined by Lineage and Individual Provision  
-**Living Lineages:** [[Leshy]], [[Mycelian]], and [[Arboreal]]
+**Living Lineages:** [[Leshial]], [[Mycelial]], and [[Arboreal]]
 
 ---
 
@@ -21,7 +23,9 @@
 
 They are not animated scenery. They are not automatically spirits of a place, servants of a druid, extensions of a forest, or communal minds without private selves.
 
-The category includes cultivated and spontaneously emerged Leshies, network-forming Mycelians, and long-lived Arboreals. It describes related civic needs without claiming that leaf, fungus, and tree are one ancestry.
+The category includes cultivated and spontaneously emerged Leshials, network-forming Mycelials, and long-lived Arboreals. It describes related civic needs without claiming that leaf, fungus, and tree are one ancestry.
+
+Verdantfolk are among Aerathon’s rarest recognized peoples. Most live in small groves, beds, garden households, or isolated root communities, and many Aerathenes will never knowingly meet one. A settlement containing several dozen Verdantfolk is considered a major population center.
 
 ---
 
@@ -32,6 +36,8 @@ Older Aerathene law recognized Verdantfolk only when a divine court, mage, or la
 The **Green Recognition** began when seven mobile groves jointly testified that no creator can own the person who grows from their work. Modern law bases personhood upon demonstrated selfhood and relationship, not upon whoever planted a seed, prepared a substrate, or awakened a tree.
 
 No single origin explains all Verdantfolk. Some descend through seed, cutting, spore, graft, fruit, or root division. Others emerge after planar weather, sacred cultivation, Labyrinth leakage, or ecological restoration.
+
+Verified emergence is infrequent and difficult to reproduce. This rarity has made every newly recognized community a target for collectors, courts, researchers, and institutions eager to claim a discovery.
 
 ---
 
@@ -49,7 +55,7 @@ Public provision may include full-spectrum light, clean substrate, humidity cont
 
 Verdantfolk personhood does not map neatly onto a single body.
 
-A Leshy may replace most of their tissues while preserving one continuous self. A Mycelian may exchange sensations with a consenting network while remaining an individual. An Arboreal may root for decades, propagate a mobile child, or carry several grafted family memorials.
+A Leshial may replace most of their tissues while preserving one continuous self. A Mycelial may exchange sensations with a consenting network while remaining an individual. An Arboreal may root for decades, propagate a mobile child, or carry several grafted family memorials.
 
 The Ministry records the person or collective named by the people involved. It does not decide that physical connection proves shared consciousness, or that division creates a lesser copy.
 
@@ -63,15 +69,17 @@ Words such as **gardener**, **tender**, and **cultivator** may describe beloved 
 
 Seasonal gatherings often coordinate pollination, spore release, graft exchange, seed guardianship, and dormancy care without making reproduction a public obligation.
 
+Because populations are small, gatherings may draw participants across several Greater Regions. Distance makes chosen kin and mixed-folk households central to Verdant continuity.
+
 ---
 
 ## VI. Living Lineages
 
-### [[Leshy]]
+### [[Leshial]]
 
-Small and medium plant-bodied peoples grown from seed, cutting, fruit, tuber, vine, or assembled vegetation. Leshy traditions center portable gardens, chosen cultivation, renewal, and the right to outgrow an intended purpose.
+Small and medium plant-bodied peoples grown from seed, cutting, fruit, tuber, vine, or assembled vegetation. Leshial traditions center portable gardens, chosen cultivation, renewal, and the right to outgrow an intended purpose.
 
-### [[Mycelian]]
+### [[Mycelial]]
 
 Fungal peoples whose bodies may form fruiting forms above a larger mycelial substrate. They maintain sophisticated laws of network consent, memory exchange, decomposition, and environmental health.
 
@@ -85,23 +93,23 @@ Tree-bodied peoples ranging from sapling-sized travelers to ancient rooted citiz
 
 ### Allemance
 
-Conservatory districts offer sunlight and prestige while subjecting Verdantfolk to horticultural spectacle and patronage claims.
+Several protected conservatories shelter small populations while subjecting their residents to horticultural spectacle and patronage claims.
 
 ### Oria
 
-Highland glasshouses, lichen gardens, and geothermal root chambers support communities adapted to cold and mineral-rich soils.
+Isolated highland glasshouses, lichen gardens, and geothermal root chambers support a handful of communities adapted to cold and mineral-rich soils.
 
 ### Vinyot
 
-Vertical farms and reclamation works employ large Verdant populations; disputes concern seed patents, image rights, and whether corporate substrate can become a form of tenancy control.
+Vertical farms and reclamation works employ a small but highly visible Verdant population; disputes concern seed patents, image rights, and whether corporate substrate can become a form of tenancy control.
 
 ### Arneria
 
-Night-blooming Leshies, oasis Arboreals, and deep-soil Mycelians maintain careful water law and seasonal movement.
+Rare night-blooming Leshials, oasis Arboreals, and deep-soil Mycelials maintain careful water law and seasonal movement.
 
 ### Al'Ar
 
-Mangrove Arboreals, salt-tolerant gardens, and volcanic Mycelian beds participate in reef protection and storm recovery.
+Scattered Mangrove Arboreals, salt-tolerant gardens, and volcanic Mycelial beds participate in reef protection and storm recovery.
 
 ---
 
@@ -133,7 +141,7 @@ Decomposition is not necessarily death. Regrowth is not necessarily resurrection
 - Fruit, flowers, seeds, sap, spores, and cuttings remain protected bodily material.
 - Fire is neither universally terrifying nor universally fatal.
 - Arboreals are not public parks or natural landmarks.
-- Leshies do not owe gratitude to whoever first tended them.
+- Leshials do not owe gratitude to whoever first tended them.
 
 ---
 
@@ -159,6 +167,8 @@ Verdant identity offers unusual embodiments and histories, not assigned temperam
 > Verdant classification does not establish ownership, ecological duty, magical origin, collective consciousness, edibility, medicinal use, or consent to harvesting.
 >
 > Living tissue, reproductive material, network contact, root location, and dormancy records are protected bodily and medical information.
+>
+> Rarity does not make an individual a discovery, specimen, public resource, or representative of every Verdantfolk lineage.
 
 ---
 

@@ -1,6 +1,6 @@
 > _“Memory is not carrying everything. It is knowing what must be set down where others can find it.”_
 
-# Proboscidean
+# Proboscine
 
 **Filed Division:** Ministry of Delving Operations — The Living Atlas  
 **Responsible Office:** Peoples, Lineages, and Cultural Recognition  
@@ -10,26 +10,26 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household records, delver testimony, and comparative material study  
 **Folk Classification:** [[∅ Beastfolk|Beastfolk]]  
-**Lineage Classification:** Proboscidean  
+**Lineage Classification:** Proboscine  
 **Registry Scope:** Elephant, Mammoth, and Mastodon Kinships  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Lineage-Appropriate Provision  
-**Common Names:** Elephantfolk, Mammothfolk, Long-Trunks  
+**Common Names:** Proboscideans, Elephantfolk, Mammothfolk, Long-Trunks  
 **Playtest Status:** Initial Lineage Mechanics
 
 ---
 
 ## I. Lineage Overview
 
-Proboscideans are Elephant, Mammoth, and Mastodon Beastfolk distinguished by trunks, great bodies, tactile communication, low-frequency hearing, and traditions of route memory.
+Proboscines are Elephant, Mammoth, and Mastodon Beastfolk distinguished by trunks, great bodies, tactile communication, low-frequency hearing, and traditions of route memory.
 
-They are often burdened by the claim that they never forget. Proboscidean memory is skilled, emotional, partial, and humanly fallible. Their cultures value reliable transmission precisely because no individual should be required to remember everything.
+They are often burdened by the claim that they never forget. Proboscine memory is skilled, emotional, partial, and humanly fallible. Their cultures value reliable transmission precisely because no individual should be required to remember everything.
 
 ---
 
 ## II. Origins and Collective Memory
 
-Ancient route stones suggest Proboscidean kinships maintained migration corridors between early settlements, moving water knowledge, seed stores, funerary news, and warnings across enormous distances.
+Ancient route stones suggest Proboscine kinships maintained migration corridors between early settlements, moving water knowledge, seed stores, funerary news, and warnings across enormous distances.
 
 The **Road of Returned Names** was not one road but a practice: when a traveler reached the next community, they repeated the names of people encountered, ensuring that isolation did not erase existence.
 
@@ -37,7 +37,7 @@ The **Road of Returned Names** was not one road but a practice: when a traveler 
 
 ## III. Body and Sensory Life
 
-Proboscideans are Large-framed but mechanically Medium Humanoids with trunks, tusks in many individuals, broad feet, and strong low-frequency hearing.
+Proboscines are Large-framed but mechanically Medium Humanoids with trunks, tusks in many individuals, broad feet, and strong low-frequency hearing.
 
 Trunks are hands, noses, voices, and intimate sensory organs. Touching or obstructing one without consent is a serious violation. Built spaces require reinforced floors, generous turning radii, low and high controls, and seating designed for body weight.
 
@@ -53,17 +53,17 @@ The **Shared Weight** practice distributes emotional, archival, and physical bur
 
 ## V. Inner Life and Modern Debate
 
-Proboscidean cultures admire care, continuity, patience, emotional candor, spatial awareness, and strength used without spectacle.
+Proboscine cultures admire care, continuity, patience, emotional candor, spatial awareness, and strength used without spectacle.
 
 Their shadow is compulsory remembrance. Individuals may be forced to serve as witnesses, mourners, or archives long after recollection becomes painful.
 
 ---
 
-## VI. Proboscidean Peoples in Modern Aerathon
+## VI. Proboscine Peoples in Modern Aerathon
 
 ### Allemance
 
-Civic works, diplomacy, and memorial architecture make Proboscideans visible in Allemance.
+Civic works, diplomacy, and memorial architecture make Proboscines visible in Allemance.
 
 ### Oria
 
@@ -79,13 +79,13 @@ Water-route traditions and long-distance caravans flourish across Arneria.
 
 ### Al'Ar
 
-Island Proboscideans work in harbor engineering, storm refuge, and inter-island remembrance.
+Island Proboscines work in harbor engineering, storm refuge, and inter-island remembrance.
 
 ---
 
-## VII. Proboscidean Delvers
+## VII. Proboscine Delvers
 
-Proboscidean delvers are route anchors, rescuers, negotiators, scouts using vibration, and logistical specialists. Their trunks provide exceptional manipulation but must not be treated as an extra party inventory.
+Proboscine delvers are route anchors, rescuers, negotiators, scouts using vibration, and logistical specialists. Their trunks provide exceptional manipulation but must not be treated as an extra party inventory.
 
 Labyrinths may reproduce remembered voices through subsonic vibration. Crews should confirm identity through more than familiarity.
 
@@ -139,11 +139,11 @@ Gain proficiency in History or Survival. Once per long rest, add a d4 to a faile
 
 ### Elephant
 
-Elephant Proboscideans are adapted to warm climates and often possess large ears used for heat regulation and expressive gesture.
+Elephant Proboscines are adapted to warm climates and often possess large ears used for heat regulation and expressive gesture.
 
 ### Mammoth
 
-Mammoth Proboscideans possess dense fur, cold-weather endurance, and strong northern route traditions.
+Mammoth Proboscines possess dense fur, cold-weather endurance, and strong northern route traditions.
 
 ### Mastodon
 
@@ -151,7 +151,7 @@ Mastodon communities preserve forest, wetland, and old-growth route histories di
 
 ---
 
-## XI. Playing a Proboscidean
+## XI. Playing a Proboscine
 
 Consider:
 
@@ -168,7 +168,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Proboscidean lineage does not indicate perfect memory, calmness, wisdom, emotional availability, carrying capacity for others, or consent to trunk contact.
+> Proboscine lineage does not indicate perfect memory, calmness, wisdom, emotional availability, carrying capacity for others, or consent to trunk contact.
 >
 > Lineage traits describe playable capacities. They do not assign morality, profession, political loyalty, or social role.
 
@@ -187,4 +187,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Bodily capacity never establishes consent to labor, examination, public access, or inherited obligation.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

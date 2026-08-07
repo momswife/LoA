@@ -8,10 +8,11 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Community consultation, molt registries, pheromonal translation studies, settlement plans, and delver testimony  
 **Folk Classification:** Chitinfolk  
+**Lineage Naming Standard:** Formal lineage names end in _-id_  
 **Registry Scope:** Terrestrial Insectoid, Arachnid, and Myriapod Peoples  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage and Individual Provision  
-**Living Lineages:** [[Formicid]], [[Mantid]], [[Arachnid]], and [[Myriapodan]]
+**Living Lineages:** [[Formicid]], [[Mantid]], [[Arachnid]], and [[Myriapodid]]
 
 ---
 
@@ -19,7 +20,7 @@
 
 **Chitinfolk** is the modern collective classification for terrestrial sapient peoples whose bodies follow insectoid, arachnid, or myriapod patterns.
 
-The category includes Formicids, Mantids, Arachnids, and Myriapodans. It does not imply a shared empire, hive mind, diet, reproductive system, or degree of individuality.
+The category includes Formicids, Mantids, Arachnids, and Myriapodids. It does not imply a shared empire, hive mind, diet, reproductive system, or degree of individuality.
 
 Chitin is body tissue, not armor issued at birth. Additional limbs are anatomy, not public tools. Familiar resemblance to small animals does not reduce a person’s scale of thought.
 
@@ -79,7 +80,7 @@ Mantid peoples with grasping forelimbs, exceptional stillness, rapid motion, and
 
 Spider, Scorpion, and related peoples whose silk, venom, vibration sense, and varied body forms support extensive craft and kinship traditions.
 
-### [[Myriapodan]]
+### [[Myriapodid]]
 
 Centipede- and Millipede-like peoples whose many-limbed motion, subterranean architecture, and segmental body knowledge challenge humanoid assumptions about access.
 

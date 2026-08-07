@@ -1,6 +1,6 @@
 > _“A shore is not where the sea ends. It is where two kinds of obligation meet.”_
 
-# Merfolk
+# Meran
 
 **Filed Division:** Ministry of Delving Operations — The Living Atlas  
 **Responsible Office:** Peoples, Lineages, and Cultural Recognition  
@@ -10,7 +10,7 @@
 **Document Class:** _Sapient Aquatic Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, submerged records, habitat study, and delver testimony  
 **Folk Classification:** [[∅ Aquaticfolk|Aquaticfolk]]  
-**Lineage Classification:** Merfolk  
+**Lineage Classification:** Meran  
 **Registry Scope:** Tailed Aquatic Peoples, Tide Cities, and Shore Access  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
@@ -21,49 +21,49 @@
 
 ## I. Lineage Overview
 
-Merfolk are tailed Aquaticfolk whose bodies combine an upright torso with a powerful fishlike lower form. Their settlements include reef cities, river courts, deep-water archives, kelp districts, and dry-access embassies constructed around water rather than treating it as a utility.
+Merans—widely known as **Merfolk**—are tailed Aquaticfolk whose bodies combine an upright torso with a powerful fishlike lower form. Their settlements include reef cities, river courts, deep-water archives, kelp districts, and dry-access embassies constructed around water rather than treating it as a utility.
 
-Surface stories often cast Merfolk as mysterious singers, romantic visitors, or servants of undersea royalty. Modern Merfolk are citizens, laborers, priests, skeptics, delvers, smugglers, scholars, and politicians. Their tails do not make every coastline their home, and beauty is not a civic duty.
+Surface stories often cast Merans as mysterious singers, romantic visitors, or servants of undersea royalty. Modern Merans are citizens, laborers, priests, skeptics, delvers, smugglers, scholars, and politicians. Their tails do not make every coastline their home, and beauty is not a civic duty.
 
 ---
 
 ## II. Origins and Collective Memory
 
-The oldest Merfolk records describe several independent transformations rather than one ancestral kingdom. Some lines claim descent from Brethren who entered permanent covenants with the sea. Others remember water spirits who accepted mortal continuity, or Aquaticfolk communities whose bodies changed near early Labyrinth tides.
+The oldest Meran records describe several independent transformations rather than one ancestral kingdom. Some lines claim descent from Brethren who entered permanent covenants with the sea. Others remember water spirits who accepted mortal continuity, or Aquaticfolk communities whose bodies changed near early Labyrinth tides.
 
-The **Two-Water Accord** recognizes both salt and fresh Merfolk polities and forbids ocean crowns from claiming river-tailed peoples as colonies.
+The **Two-Water Accord** recognizes both salt and fresh Meran polities and forbids ocean crowns from claiming river-tailed peoples as colonies.
 
 ---
 
 ## III. Body and Environmental Needs
 
-Merfolk possess powerful tails, fins of varied placement, gills or amphibious lungs, and upper bodies displaying broad Humanoid diversity. Their scales and fins may be luminous, patterned, armored, translucent, or nearly absent.
+Merans possess powerful tails, fins of varied placement, gills or amphibious lungs, and upper bodies displaying broad Humanoid diversity. Their scales and fins may be luminous, patterned, armored, translucent, or nearly absent.
 
-On land, most use rolling water chairs, support cradles, enchanted mobility harnesses, or flooded channels. Carrying a Merfolk without consent is not accessibility. Drying fins for display is bodily harm.
+On land, most use rolling water chairs, support cradles, enchanted mobility harnesses, or flooded channels. Carrying a Meran without consent is not accessibility. Drying fins for display is bodily harm.
 
 ---
 
 ## IV. Society and Kinship
 
-Merfolk households include current-families, spawning and adoptive kin, reef blocks, river courts, temple schools, trade flotillas, and surface-water partnerships.
+Meran households include current-families, spawning and adoptive kin, reef blocks, river courts, temple schools, trade flotillas, and surface-water partnerships.
 
-The **Guest Current** requires hosts to state water depth, salinity, temperature, privacy, and exit access before a Merfolk enters a residence or institution.
+The **Guest Current** requires hosts to state water depth, salinity, temperature, privacy, and exit access before a Meran enters a residence or institution.
 
 ---
 
 ## V. Inner Life and Modern Debate
 
-Merfolk cultures admire adaptability between environments, voice, memory of currents, hospitality, political patience, and the right to withdraw beneath public notice.
+Meran cultures admire adaptability between environments, voice, memory of currents, hospitality, political patience, and the right to withdraw beneath public notice.
 
 Their shadow is ceremonial burden. People with striking fins or voices may be required to represent an entire polity, while ordinary maintenance and disability remain unseen.
 
 ---
 
-## VI. Merfolk Peoples in Modern Aerathon
+## VI. Meran Peoples in Modern Aerathon
 
 ### Allemance
 
-Canal embassies and bathhouse districts make Merfolk visible in Allemance while water access remains class-bound.
+Canal embassies and bathhouse districts make Merans visible in Allemance while water access remains class-bound.
 
 ### Oria
 
@@ -71,7 +71,7 @@ Heated fjords, deep lakes, and under-ice routes support small but old communitie
 
 ### Vinyot
 
-Merfolk dominate portions of harbor trade, performance, salvage law, and illegal submerged broadcasting.
+Merans dominate portions of harbor trade, performance, salvage law, and illegal submerged broadcasting.
 
 ### Arneria
 
@@ -83,11 +83,11 @@ Large reef and kelp cities shape Al'Ari politics, shipping, worship, and storm r
 
 ---
 
-## VII. Merfolk Delvers
+## VII. Meran Delvers
 
-Merfolk delvers excel in flooded Labyrinths, current navigation, underwater rescue, acoustic communication, and negotiating water-bound hazards. Mixed-environment expeditions require mobility plans that do not strand them when passages dry.
+Meran delvers excel in flooded Labyrinths, current navigation, underwater rescue, acoustic communication, and negotiating water-bound hazards. Mixed-environment expeditions require mobility plans that do not strand them when passages dry.
 
-A crew must never assume that water is automatically safe because a Merfolk is present. Salinity, pressure, contamination, magic, and temperature remain material conditions.
+A crew must never assume that water is automatically safe because a Meran is present. Salinity, pressure, contamination, magic, and temperature remain material conditions.
 
 ---
 
@@ -143,30 +143,30 @@ During a short or long rest, you can configure an approved mobility harness or w
 
 ### Triton
 
-Triton Merfolk maintain martial, diplomatic, and deep-border traditions and often possess strong pressure tolerance.
+Triton Merans maintain martial, diplomatic, and deep-border traditions and often possess strong pressure tolerance.
 
 ### Reef-Tailed
 
-Reef-Tailed Merfolk display extraordinary fin and scale variation and build densely layered coral, kelp, and stone communities.
+Reef-Tailed Merans display extraordinary fin and scale variation and build densely layered coral, kelp, and stone communities.
 
 ### River-Tailed
 
-River-Tailed Merfolk are adapted to freshwater, seasonal depth, and the politics of channels controlled far upstream.
+River-Tailed Merans are adapted to freshwater, seasonal depth, and the politics of channels controlled far upstream.
 
 ### Deep-Tailed
 
-Deep-Tailed Merfolk possess low-light adaptations and cultures shaped by pressure, silence, and long vertical travel.
+Deep-Tailed Merans possess low-light adaptations and cultures shaped by pressure, silence, and long vertical travel.
 
 ---
 
-## XI. Playing a Merfolk
+## XI. Playing a Meran
 
 Consider:
 
 - Which water shaped you?
 - How do you move comfortably on land?
 - Who controls your Guest Current?
-- What story about Merfolk do you despise?
+- What story about Merans do you despise?
 - Where do sea and shore obligations conflict?
 
 A character may embrace, reinterpret, or reject every tradition described above. Environment and body create circumstances, not personality.
@@ -176,7 +176,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Merfolk lineage does not indicate monarchy, beauty, musical talent, romantic availability, ocean citizenship, or consent to being carried and displayed.
+> Meran lineage does not indicate monarchy, beauty, musical talent, romantic availability, ocean citizenship, or consent to being carried and displayed.
 >
 > Dry access and wet access are accessibility obligations. Neither environment is culturally neutral.
 
@@ -195,4 +195,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Environmental adaptation never establishes consent to hazardous exposure, bodily sampling, salvage, or compulsory access work.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

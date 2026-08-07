@@ -8,6 +8,7 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Community consultation, civic registries, household archives, delver records, and comparative historical study  
 **Folk Classification:** Brethren  
+**Lineage Naming Standard:** Historic and self-chosen names retained; no shared suffix  
 **Registry Scope:** Sapient Peoples, Shared Civic Traditions, and Homeland Variance  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted  

@@ -8,6 +8,7 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Protected community testimony, anomalous lineage studies, delver reports, treaty records, and campaign review files  
 **Folk Classification:** Mythicfolk  
+**Lineage Naming Standard:** Intentionally nonuniform; established names retained  
 **Registry Scope:** Rare, Anomalous, Transformed, and Campaign-Sensitive Sapient Lineages  
 **Recognition Status:** Personhood Independent of Play Eligibility  
 **Delver Eligibility:** Lineage-Specific Review  
@@ -123,7 +124,7 @@ DM review establishes flight progression, carrying, body shape, armor, and the r
 
 ### [[Gorgonite]]
 
-Gorgonites—also called Medusans or Medusa Folk—are snake-crowned people with controlled stone-affecting gazes. They are distinct from [[Serpentine]] Scalefolk.
+Gorgonites—also called Medusans or Medusa Folk—are snake-crowned people with controlled stone-affecting gazes. They are distinct from [[Ophidian]] Scalefolk.
 
 DM review establishes gaze safety, mirrors, petrification limits, living-crown boundaries, and relevant body-horror consent.
 

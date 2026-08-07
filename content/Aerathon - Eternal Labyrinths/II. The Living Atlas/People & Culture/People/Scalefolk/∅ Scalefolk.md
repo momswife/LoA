@@ -8,10 +8,12 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Community consultation, molt records, settlement archaeology, and comparative lineage study  
 **Folk Classification:** Scalefolk  
+**Lineage Naming Standard:** Formal lineage names end in _-ian_  
 **Registry Scope:** Terrestrial and Littoral Reptilian Peoples  
 **Recognition Status:** Full Sapient Recognition  
+**Population Status:** Common; Historically Fragmented Across Other Registries  
 **Delver Eligibility:** Determined by Lineage and Individual Capability  
-**Living Lineages:** [[Saurian]], [[Crocodilian]], and [[Serpentine]]
+**Living Lineages:** [[Saurian]], [[Crocodilian]], [[Ophidian]], [[Gekkonian]], [[Chamaelian]], [[Varanian]], and [[Chelonian]]
 
 ---
 
@@ -27,11 +29,13 @@ They are not cold-blooded in the moral sense.
 
 They are not one ancient empire waiting to return.
 
+They are a common presence across warm cities, deserts, river systems, marshes, islands, forests, and engineered cold-climate settlements. Their apparent rarity in older archives comes from being divided among monster ledgers, draconic appendices, Beastfolk registries, and local names rather than from small population.
+
 ---
 
 ## II. Origins and the Broken Scale Registers
 
-Old records repeatedly confused biological resemblance with draconic descent. Saurians were described as failed Dragonborn, Serpentines as incomplete Naga, and Crocodilians as speaking monsters.
+Old records repeatedly confused biological resemblance with draconic descent. Saurians were described as failed Dragonborn, Ophidians as incomplete Naga, and Crocodilians as speaking monsters. Gekkonians and Chamaelians were filed as magical familiars, Varanians as war beasts, and Chelonians as immobile landscape spirits.
 
 The **Broken Scale Registers** are the surviving administrative volumes in which communities crossed out those imposed labels and wrote household names over them.
 
@@ -41,11 +45,11 @@ Modern classification follows self-identification, collective history, and body 
 
 ## III. Boundary with Other Folk
 
-Testudinan turtle peoples remain [[∅ Aquaticfolk|Aquaticfolk]] because water routes, nesting shore law, and shell-ledger identity are central to their classification.
+Testudinan sea-turtle peoples remain [[∅ Aquaticfolk|Aquaticfolk]] because water routes, nesting shore law, and shell-ledger identity are central to their classification. Terrestrial Tortoise peoples are recognized as [[Chelonian]] Scalefolk.
 
 [[Dragonborn]] and [[Kobold|named Kobolds]] remain [[∅ Mythicfolk|Mythicfolk]] because their records concern draconic pact and emergent sapience.
 
-Serpentine Scalefolk are distinct from the mythic [[Gorgonite|Gorgonites]], whose living crown and petrifying resonance arise through curse, divine inheritance, or transformation.
+Ophidian Scalefolk are distinct from the mythic [[Gorgonite|Gorgonites]], whose living crown and petrifying resonance arise through curse, divine inheritance, or transformation.
 
 A person may participate in more than one community without becoming an administrative contradiction.
 
@@ -75,15 +79,31 @@ Heat and shade are common public responsibilities. A seat in the sun can be an a
 
 ### [[Saurian]]
 
-Gecko, Chameleon, Monitor, and Iguana peoples associated with climbing, color, sun architecture, and varied arboreal or terrestrial traditions.
+Iguana, Skink, Anole, Agamid, and related lizard peoples associated with sun architecture, crested display, rapid movement, and varied arboreal or terrestrial traditions.
 
 ### [[Crocodilian]]
 
 Crocodile, Alligator, Caiman, and Gharial peoples shaped by river margins, patient motion, powerful bodies, and nesting-water law.
 
-### [[Serpentine]]
+### [[Ophidian]]
 
 Viper, Cobra, Boa, Python, and Colubrid peoples with limbless or partially limbed bodies, chemical senses, and strong traditions concerning gaze, venom, and bodily fear.
+
+### [[Gekkonian]]
+
+Gecko peoples whose adhesive movement, nocturnal or jewel-bright bodies, vertical neighborhoods, and tail customs shape distinct access and privacy law.
+
+### [[Chamaelian]]
+
+Chameleon peoples with independently mobile eyes, prehensile bodies, specialized tongues, and color languages that cannot be translated without context and consent.
+
+### [[Varanian]]
+
+Monitor and Komodo peoples known for strong chemical senses, distance endurance, heat-route traditions, and resistance to the assumption that visible power establishes predatory intent.
+
+### [[Chelonian]]
+
+Terrestrial Tortoise peoples whose shells, long household memory, dryland engineering, and deliberate public life differ from aquatic Testudinan traditions.
 
 ---
 
@@ -103,11 +123,11 @@ Scale fashion, shed-skin markets, industrial heat, and broadcast combat generate
 
 ### Arneria
 
-Desert Saurian and Serpentine communities maintain extensive sun, shade, burrow, and night-route traditions.
+Desert Saurian, Ophidian, Varanian, and Chelonian communities maintain extensive sun, shade, burrow, and night-route traditions.
 
 ### Al'Ar
 
-Crocodilian river mouths and island Saurian communities participate deeply in littoral trade and storm refuge.
+Crocodilian river mouths and island Saurian, Gekkonian, and Chamaelian communities participate deeply in littoral trade and storm refuge.
 
 ---
 
@@ -137,9 +157,10 @@ A dragon is not automatically an ancestor.
 
 - Scalefolk do experience complex emotion.
 - Temperature needs do not determine personality.
-- Venom is not universal among Serpentines.
+- Venom is not universal among Ophidians.
 - Crocodilian stillness is not laziness.
-- Color change is not permission to read a Saurian’s private state.
+- Color change is not permission to read a Chamaelian’s private state.
+- A Chelonian shell does not make its owner slow-minded or available as shelter.
 - Scales are not armor equivalent in every lineage.
 - Dragonborn are not the nobility of all scaled peoples.
 
@@ -183,4 +204,3 @@ Scalefolk identity offers embodied histories, not assigned temperament.
 — Reptilian resemblance does not establish monster status, draconic ownership, or reduced civic recognition.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

@@ -1,4 +1,4 @@
-> _“Changing color is not confession. Sometimes skin is only speaking to light.”_
+> _“A wall is a road once a city remembers to build for more than feet.”_
 
 # Saurian
 
@@ -11,7 +11,7 @@
 **Primary Evidence:** Community consultation, settlement records, molt archives, and delver testimony  
 **Folk Classification:** [[∅ Scalefolk|Scalefolk]]  
 **Lineage Classification:** Saurian  
-**Registry Scope:** Gecko, Chameleon, Monitor, and Iguana Kinships  
+**Registry Scope:** Iguana, Skink, Anole, Agamid, and Related Lizard Kinships  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Environmental Provision  
 **Common Names:** Lizardfolk, Sunscales, Wall-Runners  
@@ -21,9 +21,9 @@
 
 ## I. Lineage Overview
 
-Saurians are diverse Scalefolk including Gecko, Chameleon, Monitor, and Iguana peoples. They inhabit deserts, forests, cities, cliffs, islands, and engineered cold-region enclaves.
+Saurians are diverse Scalefolk including Iguana, Skink, Anole, Agamid, and related lizard peoples not represented by a more specialized lineage record. They inhabit deserts, forests, cities, cliffs, islands, and engineered cold-region enclaves.
 
-They are often grouped under the popular term **Lizardfolk**, though many prefer the more specific lineage or household name. Their cultures are associated with sun architecture, wall and canopy movement, color privacy, and the politics of temperature access.
+They are often grouped under the popular term **Lizardfolk**, though many prefer the more specific lineage or household name. Their cultures are associated with sun architecture, wall and canopy movement, crested display, and the politics of temperature access.
 
 ---
 
@@ -37,9 +37,9 @@ The **Wall Is a Road** declaration transformed access law by recognizing vertica
 
 ## III. Body and Sensory Life
 
-Saurians possess scales, tails, claws, varied eyes, and lineage-specific features such as adhesive digits, independently mobile eyes, crests, or dewlaps.
+Saurians possess scales, tails, claws, varied eyes, and lineage-specific features such as crests, dewlaps, dorsal spines, broad climbing toes, or streamlined burrowing bodies.
 
-Some change color through physiology, emotion, temperature, communication, or camouflage. No observer is entitled to translate that change without cultural and individual knowledge.
+Some shift shade through temperature, circulation, stress, or display, though not with the full color range associated with [[Chamaelian|Chamaelians]]. No observer is entitled to translate a bodily display without cultural and individual knowledge.
 
 ---
 
@@ -47,7 +47,7 @@ Some change color through physiology, emotion, temperature, communication, or ca
 
 Households include sun courts, wall neighborhoods, orchard communities, desert burrows, study circles, and molt cohorts.
 
-The **Declared Color** practice lets a person state the meaning of a public display rather than allowing witnesses to invent it.
+The **Declared Crest** practice lets a person state the meaning of a public display rather than allowing witnesses to invent it.
 
 ---
 
@@ -71,7 +71,7 @@ Thermal halls and observatory walls support cold-climate Saurians.
 
 ### Vinyot
 
-Fashion and surveillance industries fight over color-pattern ownership.
+Fashion and surveillance industries fight over scale-pattern ownership and the collection of thermal data.
 
 ### Arneria
 
@@ -79,13 +79,13 @@ Desert and oasis Saurians maintain the largest historic populations.
 
 ### Al'Ar
 
-Island Gecko and Iguana communities shape climbing, agriculture, and storm architecture.
+Island Iguana and Anole communities shape climbing, agriculture, and storm architecture.
 
 ---
 
 ## VII. Saurian Delvers
 
-Saurian delvers are climbers, scouts, heat readers, watchers, and route designers. Their grip and color adaptation are powerful but limited by surface, light, injury, and exhaustion.
+Saurian delvers are climbers, scouts, heat readers, watchers, and route designers. Their grip and rapid movement are powerful but limited by surface, temperature, injury, and exhaustion.
 
 ---
 
@@ -125,27 +125,27 @@ After spending 10 minutes in suitable warmth or shade, gain temporary hit points
 
 ### Saurian Adaptation
 
-Choose one adaptation from your sublineage: Gecko Climb, Chameleon Veil, Monitor Endurance, or Iguana Crest.
+Choose one adaptation from your sublineage: Anole Climb, Skink Sprint, Iguana Crest, or Agamid Endurance.
 
 ---
 
 ## X. Recognized Sublineages
 
-### Gecko
+### Anole
 
-You gain a climbing speed equal to your walking speed and can climb difficult surfaces while keeping one hand free.
+You gain a climbing speed equal to your walking speed. When you take the Dash action while climbing, difficult surfaces do not cost additional movement that turn.
 
-### Chameleon
+### Skink
 
-Proficiency bonus times per long rest, use a bonus action to gain advantage on your next Stealth check before the end of the turn.
-
-### Monitor
-
-You have advantage on saving throws against exhaustion caused by forced marches and gain proficiency in Survival.
+When you take the Dash action, your walking speed increases by an additional 10 feet until the end of the turn. You may use this feature a number of times equal to your proficiency bonus per long rest.
 
 ### Iguana
 
 Gain proficiency in Intimidation or Performance. As a reaction when a creature enters your reach, impose disadvantage on its next opportunity attack before your next turn.
+
+### Agamid
+
+You have advantage on saving throws against exhaustion caused by heat or forced marches and gain proficiency in Survival.
 
 ---
 
@@ -154,7 +154,7 @@ Gain proficiency in Intimidation or Performance. As a reaction when a creature e
 Consider:
 
 - What surface counts as a road?
-- Who may interpret your colors?
+- Who may interpret your visible displays?
 - How do you manage temperature?
 - What does your molt cohort mean?
 - When do you choose visibility?
@@ -166,7 +166,7 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Saurian lineage does not indicate emotional coldness, camouflage, regeneration, draconic descent, primitive culture, or consent to color and scale analysis.
+> Saurian lineage does not indicate emotional coldness, camouflage, regeneration, draconic descent, primitive culture, or consent to display and scale analysis.
 >
 > Scales, shed skin, venom, eggs, teeth, and thermal data are protected bodily materials.
 
@@ -183,4 +183,3 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

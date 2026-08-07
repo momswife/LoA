@@ -27,7 +27,7 @@ Gorgonites are rare Mythicfolk whose living serpentine crowns and stone-affectin
 
 The Ministry favors **Gorgonite** over **Medusa folk** because Medusa appears in several traditions as a personal name, title, ancestor, or imposed monster label. **Medusan** remains an accepted community term where chosen.
 
-Gorgonites are distinct from [[Serpentine]] Scalefolk. A serpentine body alone does not create a petrifying inheritance, living crown, or Mythicfolk classification.
+Gorgonites are distinct from [[Ophidian]] Scalefolk. A serpentine body alone does not create a petrifying inheritance, living crown, or Mythicfolk classification.
 
 ---
 

@@ -1,6 +1,6 @@
 > _“A clever hand is only a hand. The choice of what it builds belongs to the person.”_
 
-# Primate
+# Primatine
 
 **Filed Division:** Ministry of Delving Operations — The Living Atlas  
 **Responsible Office:** Peoples, Lineages, and Cultural Recognition  
@@ -10,34 +10,34 @@
 **Document Class:** _Sapient Lineage Record / Grade-I Authenticity_  
 **Primary Evidence:** Community consultation, household records, delver testimony, and comparative material study  
 **Folk Classification:** [[∅ Beastfolk|Beastfolk]]  
-**Lineage Classification:** Primate  
+**Lineage Classification:** Primatine  
 **Registry Scope:** Ape, Monkey, and Lemur Kinships  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Unrestricted with Lineage-Appropriate Provision  
-**Common Names:** Apefolk, Monkeyfolk, Lemurfolk  
+**Common Names:** Primates, Apefolk, Monkeyfolk, Lemurfolk  
 **Playtest Status:** Initial Lineage Mechanics
 
 ---
 
 ## I. Lineage Overview
 
-Primates are Ape, Monkey, and Lemur Beastfolk distinguished by grasping hands, climbing adaptations, expressive faces, and traditions built around canopy, cliff, and communal tool use.
+Primatines are Ape, Monkey, and Lemur Beastfolk distinguished by grasping hands, climbing adaptations, expressive faces, and traditions built around canopy, cliff, and communal tool use.
 
-This dossier requires unusual care. Primate imagery has been used in several worlds to dehumanize real peoples. Aerathian records therefore reject any comparison between Primate lineage and intelligence, civilization, primitiveness, or the worth of other populations.
+This dossier requires unusual care. Primatine imagery has been used in several worlds to dehumanize real peoples. Aerathian records therefore reject any comparison between Primatine lineage and intelligence, civilization, primitiveness, or the worth of other populations.
 
 ---
 
 ## II. Origins and Collective Memory
 
-Primate kinships appear in ancient canopy settlements, cliff archives, orchard routes, and tool-sharing circles. Their technologies favored fiber, living wood, portable platforms, and objects later archives failed to preserve.
+Primatine kinships appear in ancient canopy settlements, cliff archives, orchard routes, and tool-sharing circles. Their technologies favored fiber, living wood, portable platforms, and objects later archives failed to preserve.
 
-The **Empty Hand Record** states that absence of surviving stone or metal is not absence of culture. It became central to archaeological reform after scholars repeatedly described decayed Primate cities as untouched wilderness.
+The **Empty Hand Record** states that absence of surviving stone or metal is not absence of culture. It became central to archaeological reform after scholars repeatedly described decayed Primatine cities as untouched wilderness.
 
 ---
 
 ## III. Body and Sensory Life
 
-Primates are varied Humanoids with grasping hands and feet in many sublineages, strong shoulders, mobile faces, tails in some Monkey and Lemur peoples, and excellent depth judgment.
+Primatines are varied Humanoids with grasping hands and feet in many sublineages, strong shoulders, mobile faces, tails in some Monkey and Lemur peoples, and excellent depth judgment.
 
 Tail, hand, and facial expression are culturally contextual. Observers must not treat visible emotion as public truth or assume a grasping foot is available for labor.
 
@@ -53,13 +53,13 @@ Tool sharing is common, but ownership remains explicit. The **Offered Grip** req
 
 ## V. Inner Life and Modern Debate
 
-Primate communities admire curiosity, dexterity, social attention, play, inventive use, and multi-generational teaching.
+Primatine communities admire curiosity, dexterity, social attention, play, inventive use, and multi-generational teaching.
 
 Their shadow is performance pressure. Expressiveness can become an expectation to entertain; cleverness can become compulsory problem solving; sociability can erase the right to solitude.
 
 ---
 
-## VI. Primate Peoples in Modern Aerathon
+## VI. Primatine Peoples in Modern Aerathon
 
 ### Allemance
 
@@ -71,7 +71,7 @@ Cold-climate communities build enclosed vertical gardens and rope-supported wint
 
 ### Vinyot
 
-Port cranes, broadcast performance, and research institutions employ many Primates, sometimes exploitatively.
+Port cranes, broadcast performance, and research institutions employ many Primatines, sometimes exploitatively.
 
 ### Arneria
 
@@ -83,11 +83,11 @@ Rainforest and island canopy communities maintain living bridges and storm-flexi
 
 ---
 
-## VII. Primate Delvers
+## VII. Primatine Delvers
 
-Primate delvers are climbers, scouts, riggers, artificers, acrobats, and rescuers. Their ability to manipulate while climbing expands options but does not eliminate fall risk.
+Primatine delvers are climbers, scouts, riggers, artificers, acrobats, and rescuers. Their ability to manipulate while climbing expands options but does not eliminate fall risk.
 
-Crews should not expect the Primate to test every vertical path or perform for broadcast audiences.
+Crews should not expect the Primatine to test every vertical path or perform for broadcast audiences.
 
 ---
 
@@ -139,19 +139,19 @@ When you fall, use your reaction to reduce the effective distance by a number of
 
 ### Ape
 
-Ape Primates are generally broad-framed, tailless, and associated with ground-canopy transition communities and powerful climbing.
+Ape Primatines are generally broad-framed, tailless, and associated with ground-canopy transition communities and powerful climbing.
 
 ### Monkey
 
-Monkey Primates display extensive variation, often including tails, compact frames, and traditions of rapid canopy travel.
+Monkey Primatines display extensive variation, often including tails, compact frames, and traditions of rapid canopy travel.
 
 ### Lemur
 
-Lemur Primates commonly possess large eyes, strong leaping adaptations, and island or nocturnal cultural histories.
+Lemur Primatines commonly possess large eyes, strong leaping adaptations, and island or nocturnal cultural histories.
 
 ---
 
-## XI. Playing a Primate
+## XI. Playing a Primatine
 
 Consider:
 
@@ -168,7 +168,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 ## XII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
-> Primate lineage must never be used as an analogy for real-world ethnicity, intelligence, primitiveness, criminality, or civilization. It does not create consent to climbing, entertainment, or physical contact.
+> Primatine lineage must never be used as an analogy for real-world ethnicity, intelligence, primitiveness, criminality, or civilization. It does not create consent to climbing, entertainment, or physical contact.
 >
 > Lineage traits describe playable capacities. They do not assign morality, profession, political loyalty, or social role.
 
@@ -187,4 +187,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Bodily capacity never establishes consent to labor, examination, public access, or inherited obligation.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

@@ -8,6 +8,7 @@
 **Document Class:** _Folk Overview / Grade-I Authority_  
 **Primary Evidence:** Community consultation, submerged settlement surveys, current-route testimony, acoustic records, and delver reports  
 **Folk Classification:** Aquaticfolk  
+**Lineage Naming Standard:** Formal lineage names end in _-an_  
 **Registry Scope:** Marine, Littoral, and Deepwater Peoples  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage, Environment, and Individual Capability  
@@ -148,9 +149,9 @@ Octopus, Squid, and Cuttlefish peoples known for flexible bodies, chromatophoric
 
 A provisional convergent lineage including Angler, Lantern, Gulper, and other pressure-adapted deepwater peoples. Abyssans are grouped through shared life below ordinary sunlight rather than close biological relationship.
 
-### [[Merfolk]]
+### [[Meran]]
 
-Humanoid-tailed and dual-environment peoples shaped by reef cities, current law, surface exchange, and the difficulty of building civic life across water and air.
+Merans—commonly called Merfolk—are humanoid-tailed and dual-environment peoples shaped by reef cities, current law, surface exchange, and the difficulty of building civic life across water and air.
 
 ### [[Ichthyan]]
 
