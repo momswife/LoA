@@ -1,54 +1,262 @@
-> _"The Labyrinth's twistiest corridors can't compare to the path back to your own front door. And one is certainly better lit."_
+> _“The Labyrinth’s twistiest corridors cannot compare to the path back to your own front door. One is certainly better lit.”_
 
-___
-## **Overview**
+# Halfling
 
-Halflings in Aerathon are not wanderers by default, but neither are they strangers to wonder. Known across the realm for their uncanny luck, community-centered living, and a love of hearth and harvest, halflings are often underestimated in the delving world. Yet beneath their wide smiles and warm meals lies a race as quietly resilient as the stone walls of the Labyrinths themselves.
-
-Halflings mostly hail from the gentle river valleys of Vinyot and the grasslands of Allemance, though scattered hamlets can be found wherever the soil is kind and neighbors kinder. Their homes are often carved into hillsides or built snug beneath tree canopies, filled with laughter, stories, and an abundance of seasonal pastries. They rarely seek the spotlight, but when duty, danger, or curiosity calls, halflings rise.
-
-Within the world of delving, halflings are sought-after scouts, survivalists, and morale-keepers. Their small size and light tread make them ideal for sneaking or mapping tight spaces, while their deep sense of community translates into selfless bravery and loyalty under pressure. Few can deny the effectiveness of a halfling who knows what they’re fighting for.
-
-The Labyrinths, to a halfling, are less about glory and more about making sure everyone comes home again.
-
----
-
-## **Heritage Traits**
-
-### **Allemance**
-
-Allemagnian halflings are famous for their vineyards, spice farms, and local festivals. They often work as scribes, bakers, and town reeves, weaving tightly-knit communities around shared stories and old recipes. Among the baronial intrigue of the Allemagnian heartlands, halflings are the invisible grease between gears.
-
-**Community Keeper.** You gain proficiency in Persuasion. Whenever you take the Help action to assist a creature with a Charisma-based skill, they may add your proficiency bonus to their roll even if they are already proficient.
+**Folk Classification:** [[‎ Brethren|Brethren]]  
+**Lineage Classification:** Halfling  
+**Registry Scope:** Sapient Lineage, Community Practice, and Homeland Variance  
+**Recognition Status:** Full Sapient Recognition  
+**Delver Eligibility:** Unrestricted  
+**Common Names:** Halflings, Hearthfolk, Smallfolk  
+**Date of Revised Filing:** 7th Cycle, 3388 A.D.
 
 ---
 
-### **Oria**
+## I. Lineage Overview
 
-Few halflings brave the frigid peaks of Oria, but those who do are resolute hill-folk, shepherds and stewards who survive by banding together against the mountain. They rarely leave home—unless the snow fails to stop falling, or the wolves grow too bold.
+Halflings are Small Humanoids whose cultures are widely associated with hearth, cultivation, luck, neighborhood life, and the practical labor of bringing people home.
 
-**Hillhold Grit.** You gain resistance to cold damage. In addition, you have advantage on Constitution saving throws made to resist the effects of cold weather and fatigue.
+They are numerous in Vinyot’s riverlands and Allemance’s grasslands, with established communities across Oria, Arneria, Al'Ar, and the roads between them.
 
----
+Halflings are often portrayed as sheltered people who become heroes only when ordinary life is interrupted.
 
-### **Vinyot**
+This mistakes home for an absence of adventure.
 
-The riverlands of Vinyot are the true heartland of halfling culture. Its halflings are expert gardeners, poets, and lore-keepers. Many serve as innkeepers to traveling delvers, and some even sponsor labyrinth expeditions just to spice up the stories back home.
+Maintaining food, shelter, celebration, safety, and mutual care amid political and Labyrinth instability is difficult public work. Halfling communities produce farmers, navigators, magistrates, smugglers, physicians, scouts, innkeepers, archivists, wardens, and delvers.
 
-**Hospitality Magic.** You learn the _friends_ cantrip and can cast _goodberry_ once per long rest. Wisdom is your spellcasting ability for these spells.
+Their central value is not comfort.
 
----
-
-### **Arneria**
-
-In the tangled groves and dunes of the Attamek, halflings serve as herbalists, camelherds, and ghost story collectors. Arnerian halflings are among the best desert navigators, relying on deep intuition and sun-watching traditions passed down through generations.
-
-**Suncall Step.** You ignore difficult terrain caused by sand, loose gravel, or brush. Additionally, once per long rest, you can cast _pass without trace_ without expending a spell slot.
+It is the belief that survival should lead back to a life worth surviving for.
 
 ---
 
-### **Al'Ar**
+## II. Origins and Collective Memory
 
-Island halflings of Al’Ar are storm-folk, fishers, and reef divers. They have a reputation for being lucky in the worst of circumstances—an anchor line catching just in time, a reef opening underfoot instead of crushing them against it.
+Halflings appear unevenly in the earliest Brethren record. Some Dawn traditions describe them as keepers of the small continuities grand designs overlook. Other accounts preserve independent river, hill, and woodland origins followed by covenant with larger Brethren settlements.
 
-**Saltblessed.** You gain a swimming speed equal to your walking speed. When you make a saving throw to avoid being stunned or restrained, you can roll a d4 and add it to the result. You can do this a number of times equal to your proficiency bonus per long rest.
+Royal archives routinely ignored Halfling history because their communities favored local records over monumental ones.
+
+Recipe books, seed exchanges, flood marks, guest ledgers, neighborhood songs, and inherited footpaths preserve a different archive.
+
+### The Returning Light
+
+A common story tells of a traveler who carries a lamp into darkness. Every grand household asks what wonders the lamp revealed.
+
+The traveler’s Halfling neighbor asks whether enough oil remains to light the way home.
+
+The lesson is not timidity. It is logistical love.
+
+### Luck
+
+Halfling luck is debated as divine favor, probability sensitivity, community folklore, or selective memory around improbable survival.
+
+Halflings generally discourage relying upon luck when preparation is possible.
+
+---
+
+## III. Body, Scale, and Built Space
+
+Halflings are Small Humanoids with extensive variation in build, complexion, hair, features, and mobility.
+
+Their homes often use low work surfaces, deep seating, layered storage, rounded thresholds, efficient heating, and rooms designed for several simultaneous activities.
+
+Mixed-height communities pioneered adjustable counters, dual handrails, platform steps, and serving customs that do not make smaller guests request access publicly.
+
+Halfling size is routinely confused with childhood.
+
+Speaking over a Halfling, lifting them without permission, using diminutives, or treating adult anger as charming is demeaning.
+
+Their light step and compact build can be advantageous in confined terrain. They do not make every narrow passage safe or every Halfling a natural scout.
+
+---
+
+## IV. Society, Hospitality, and Boundaries
+
+Halfling households include families, hill communities, river neighborhoods, inns, farms, caravans, kitchens, religious circles, delver support networks, and chosen kin.
+
+Hospitality is structured work.
+
+It includes food, information, bedding, safety, introductions, accessibility, and knowing when a guest must be refused.
+
+### Guest-Right
+
+Guest-right protects both host and guest through stated expectations. A guest receives safety and basic care. The guest respects household boundaries and does not convert generosity into permanent entitlement.
+
+### The Closed Door
+
+Many Halfling communities treat the ability to close one’s door without ending kinship as a sign of healthy belonging.
+
+Care that requires constant access becomes surveillance.
+
+Halfling reformers have used this principle to challenge unpaid emotional labor, compulsory hosting, and the assumption that community-minded people cannot desire privacy.
+
+---
+
+## V. Inner Life, Virtue, and Shadow
+
+Halfling communities commonly admire hospitality, courage, practicality, humor, attentiveness, gratitude, and steady mutual aid.
+
+| Admired Quality | Constructive Expression | Potential Shadow |
+|---|---|---|
+| Hospitality | Making safety shareable | Serving others until no private life remains |
+| Contentment | Valuing what already exists | Punishing ambition as disloyalty |
+| Courage | Acting for people and place | Taking reckless risks to protect an image of home |
+| Practicality | Solving immediate needs | Avoiding conflicts without quick solutions |
+| Humor | Restoring perspective | Hiding fear and anger behind charm |
+| Community | Sharing burden | Enforcing conformity through intimacy |
+
+A recurring Halfling fear is returning home changed and discovering that belonging depended upon remaining recognizable.
+
+Some minimize their experiences. Some transform the household. Some build new homes with people met on the road.
+
+---
+
+## VI. Halflings in Modern Aerathon
+
+### Allemance
+
+Allemagnian Halflings are farmers, vintners, bakers, scribes, reeves, and political organizers. Their festivals create local cohesion and can conceal who performs the unpaid labor.
+
+### Oria
+
+Oric Halflings maintain hillholds, herds, winter stores, rescue shelters, and inter-House supply routes. Survival depends upon cooperation without romanticizing hardship.
+
+### Vinyot
+
+Vinyot’s riverlands are a major Halfling heartland. Gardeners, poets, innkeepers, lore-keepers, and expedition sponsors shape public culture.
+
+Broadcast crews increasingly recruit Halflings as “morale personalities,” a role many resist.
+
+### Arneria
+
+Arnerian Halflings are herbalists, camelherds, navigators, ghost-story collectors, and caravan hosts. Their routes depend upon ecological reading and reciprocal refuge.
+
+### Al'Ar
+
+Al'Ari Halflings are fishers, reef divers, storm wardens, cooks, and harbor organizers. Their luck stories celebrate survival while rarely naming the preparation beneath it.
+
+---
+
+## VII. Halflings and Delving
+
+Halfling delvers commonly serve as scouts, survivalists, medics, quartermasters, cooks, negotiators, route markers, and morale keepers.
+
+Their strengths include:
+
+- Moving through confined spaces
+- Tracking supplies others treat as trivial
+- Recognizing when fatigue is becoming dangerous
+- Establishing camps and return procedures
+- Maintaining community under pressure
+- Refusing to confuse treasure with success
+
+Their most important delving question is often:
+
+**How does everyone get back?**
+
+This does not make Halflings risk-averse. Many take extraordinary risks once they understand who benefits and what return requires.
+
+A crew that expects one Halfling to carry everyone’s morale has failed its own logistics.
+
+---
+
+## VIII. Names, Titles, and Address
+
+Examples include:
+
+- Bera Applecross
+- Camil Reedstep
+- Della Warmwindow
+- Ennis Far-Hearth
+- Fara Three-Pies
+- Jory Rainbarrel
+- Lio Bramblepath
+- Mara Guestwise
+- Tessa Stormluck
+- Venn Home-Again
+
+Common titles include **Hearth Keeper**, **Guest-Witness**, **Store Reader**, **Pathlighter**, **River Reeve**, and **Return Cook**.
+
+Terms such as _little one_, _child_, and _cute_ should not be used for an adult without invitation.
+
+---
+
+## IX. D&D Lineage Framework
+
+Use the campaign’s approved Halfling ancestry traits for creature type, size, speed, luck, bravery, and other core features.
+
+The Heritage Traits below represent upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+
+Halfling luck does not permit the DM or party to disregard reasonable safety planning.
+
+---
+
+## X. Heritage Traits
+
+### Allemance — Community Keeper
+
+You gain proficiency in Persuasion. Whenever you take the Help action to assist a creature with a Charisma-based skill, they may add your proficiency bonus to their roll even if they are already proficient.
+
+### Oria — Hillhold Grit
+
+You gain resistance to cold damage. In addition, you have advantage on Constitution saving throws made to resist the effects of cold weather and fatigue.
+
+### Vinyot — Hospitality Magic
+
+You learn the _friends_ cantrip and can cast _goodberry_ once per long rest. Wisdom is your spellcasting ability for these spells.
+
+### Arneria — Suncall Step
+
+You ignore difficult terrain caused by sand, loose gravel, or brush. Additionally, once per long rest, you can cast _pass without trace_ without expending a spell slot.
+
+### Al'Ar — Saltblessed
+
+You gain a swimming speed equal to your walking speed. When you make a saving throw to avoid being stunned or restrained, you can roll a d4 and add it to the result. You can do this a number of times equal to your proficiency bonus per long rest.
+
+---
+
+## XI. Playing a Halfling
+
+Consider:
+
+- What makes a place home to you?
+- Who taught you how to host and how to refuse?
+- What risk is worth taking?
+- What does your community expect you to maintain?
+- Do you trust your luck?
+- What ambition surprised the people who raised you?
+- Who performs the invisible labor in your party?
+- What ritual marks a safe return?
+- What changed while you were away?
+- Which door may you close without losing kinship?
+
+A Halfling may dislike cooking, hate rural life, seek fame, avoid community, possess terrible luck, or prefer the Labyrinth to home.
+
+Hearth is a relationship, not a destiny.
+
+---
+
+## XII. Registry Advisory
+
+> [!note] MDO Registry Advisory  
+> Halfling lineage does not indicate childhood, harmlessness, domestic skill, cheerfulness, risk aversion, or willingness to provide food and emotional care.
+>
+> Hospitality requires reciprocal boundaries. Community expectation does not override privacy, rest, compensation, or the right to leave.
+>
+> Never lift, carry, pat, or physically reposition a Halfling adult without consent.
+
+---
+
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+
+**Filed & Authenticated**  
+**Ministry of Delving Operations — The Living Atlas**  
+**Document Class:** Sapient Lineage Record / Grade-I Authenticity  
+**Registry Division:** Peoples, Lineages, and Cultural Recognition  
+**Primary Compilation:** Keeper Aeska Mourn-Wind  
+**Cross-Verification:** Researcher Falyn Onarra, Lt. Salvia Korrin  
+**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+
+— Lineage-based assignment to unpaid domestic, morale, scout, or provisioning labor constitutes a protected-rights violation.
+
+**——— ⭕ END OF FILE ⭕ ———**

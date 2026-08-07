@@ -13,6 +13,9 @@
 **Date of Filing:** 3731 A.D. (Age of Spectacle)  
 **Document Class:** _Natural Fauna Record / Verified Authenticity_
 
+> [!warning] NORTHERN RECORD LIMITATION
+> This classification is based on pre-cordon expeditions and archived testimony. No Aurora Stag sighting within the Nattefrost has been authenticated since the plague closure; reported lights or moving forms may be animals, auroral distortion, temporal echoes, or fabrication.
+
 ---
 
 ## **I. Overview**

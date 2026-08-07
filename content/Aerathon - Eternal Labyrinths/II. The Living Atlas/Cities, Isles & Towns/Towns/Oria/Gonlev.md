@@ -3,7 +3,10 @@
 **Region:** **Oria**  
 **Nearest Authority:** **None**  
 **Settlement Type:** Isolated monastery-settlement  
-**Population:** ~300–400 (grandi feline monks and initiates)
+**Last Recorded Population:** ~300–400 grandi feline monks and initiates _(pre-plague estimate)_
+
+> [!danger] CURRENT STATUS — CONTACT LOST
+> No message attributed to **Gonlev** has been authenticated since the northern plague cordon closed the mountain approaches. No expedition has been authorized to confirm survivors or losses, and the monastery remains off-limits. The description below preserves the last pre-plague reconstruction. Present-tense claims about Gonlev are archival language, not evidence of current habitation.
 
 ---
 

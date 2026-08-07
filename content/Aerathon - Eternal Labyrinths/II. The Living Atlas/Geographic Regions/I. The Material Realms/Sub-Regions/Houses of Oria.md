@@ -67,6 +67,8 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 **Seat (Steward Family):** **Stonewarden**  
 **Structure:** Formal dual authority (House + MDO); governance constrained by doctrine to prevent expansion.
 
+> [!warning] Archival structure only. Frostguarde is inside the northern plague cordon; contact is lost and no present civic or Ministry authority there has been authenticated.
+
 - **Warden-Regent** appointed from the Stonewarden line (or proven successor).
     
 - Term is **strictly limited to ten years**, regardless of performance.

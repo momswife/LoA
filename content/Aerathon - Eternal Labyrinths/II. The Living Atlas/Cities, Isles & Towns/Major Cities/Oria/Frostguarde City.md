@@ -7,6 +7,9 @@
 **Date of Filing:** **11th Cycle, 3158 A.D.**  
 **Document Class:** _City Record / Grade-II Authenticity_
 
+> [!danger] CURRENT STATUS — NORTHERN PLAGUE CORDON
+> This city record predates the northern plague closure. No signal, census, or survivor contact attributed to **Frostguarde City** has been authenticated since the cordon was established. The city, its approaches, and every route toward the Nattefrost are off-limits. All population, governance, trade, and daily-life statements below describe the **last verified pre-plague record**; any claim of present activity or survival is speculation.
+
 ---
 
 ## **I. Overview**
@@ -18,7 +21,7 @@ The city is formally governed by **House Kaldryn**, an ancient Oric elk house wh
 Among travelers and scholars alike, Frostguarde is known as  
 **“The Lantern at the End of the Road.”**
 
-**Population:** ~18,000 permanent  
+**Last Verified Population:** ~18,000 permanent _(pre-plague record; current survival unknown)_
 **City Type:** Research Threshold City  
 **Primary Renown:** Cryo-temporal study, Nattefrost monitoring
 

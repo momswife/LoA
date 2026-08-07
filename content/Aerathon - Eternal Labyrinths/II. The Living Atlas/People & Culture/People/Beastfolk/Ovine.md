@@ -1,164 +1,443 @@
-**Ministry of Delving Operations — Annals & Antiquities**  
-**Species Classification:** Beastfolk (Ovine Lineage)  
-**Registry Scope:** Environmental Harmony & Beast Communication  
-**Recognition Status:** Full Delver Eligibility  
-**Date of Filing:** 3096 A.E.
+# Ovine
+
+**Folk Classification:** [[‎ Beastfolk|Beastfolk]]  
+**Lineage Classification:** Ovine  
+**Registry Scope:** Sapient Lineage and Homeland Variance  
+**Recognition Status:** Full Sapient Recognition  
+**Delver Eligibility:** Unrestricted  
+**Common Names:** Shepherdfolk, Green-Tongues, Quiet Horns  
+**Date of Revised Filing:** 7th Cycle, 3388 A.D.
 
 ---
 
-## **I. Racial Overview**
+## I. Lineage Overview
 
-Ovines are quiet wanderers and patient listeners, known across Aerathon not for strength or spectacle, but for **clarity of thought and depth of presence**. Wherever animals gather—fields, forests, coastlines—you will often find an ovine nearby, calmly conversing as though nothing in the world were amiss.
+Ovines are Sheep, Goat, and Ram Beastfolk who possess an inherited ability to communicate with ordinary Beasts.
 
-Each ovine is born with a sacred gift attributed to Pirhoua: the innate ability to speak with animals. This bond shapes their worldview profoundly. To an ovine, beasts are not lesser minds, but alternate perspectives—voices grounded in instinct, memory, and survival. Birds gossip. Livestock complain. Predators remember danger. Ovines listen to all of it.
+The gift shapes their societies profoundly.
 
-Their demeanor is gentle but not naïve. Many mistake an ovine’s slow pace and soft voice for dullness, only to discover—too late—that sheep see truths others rush past. Their insight earns them close kinship with druids, ligonines, and rural communities who rely on patience more than force.
+An Ovine child grows up knowing that the animals around them observe, remember, prefer, fear, complain, misunderstand, and sometimes lie within the limits of their minds.
 
-Ovines rarely delve for glory. They enter the Labyrinths to protect ecosystems, recover stolen beasts, or understand threats creeping toward untouched lands. In a party, an ovine is often the quiet center—the one others find themselves trusting without quite knowing why.
+Birds gossip.
+
+Livestock remember routine.
+
+Predators understand territory.
+
+Pack animals notice which handlers cause pain.
+
+Wild creatures may know that something unnatural entered the forest without possessing words for what it was.
+
+Ovines are therefore associated with patience, mediation, animal care, and environmental listening.
+
+They are also burdened by the stereotype of gentleness.
+
+Soft speech is treated as agreement. Shepherding becomes permission to direct people. Communication with Beasts becomes a public service anyone may demand.
+
+Ovine cultures ask:
+
+> What does listening require after the answer becomes inconvenient?
 
 ---
 
-## **II. Core Ovine Traits**
+## II. Origins and Collective Memory
 
-**Creature Type.** You are a Humanoid.
+Ovine traditions attribute **Mind for Beasts** to Pirhoua.
 
-**Ability Score Increase.** Your Wisdom score increases by 2.
+In the **Conversation at the First Fence**, mortals build a boundary to protect crops.
 
-**Speed.** Your walking speed is 30 feet.
+The builders debate wood, stone, gate, and ownership.
 
-**March on Hooves.**  
+An animal waits on the other side.
+
+Pirhoua asks the first Ovine what the animal thinks.
+
+The Ovine listens and answers:
+
+> It does not know what the fence means. It knows the water is now elsewhere.
+
+The fence is rebuilt with passage.
+
+The story does not command that every animal receive what it wants. It teaches that a decision affecting another life does not become wise merely because that life could not enter the meeting.
+
+### Shepherd Traditions
+
+Ovine shepherding is often misunderstood as domination.
+
+Traditional practice emphasizes negotiated pattern:
+
+- Learn where the animals already move.
+- Make danger legible.
+- Offer shelter and food.
+- Intervene when ordinary instinct cannot understand a magical or civic hazard.
+- Recognize that communication does not create obedience.
+
+These standards have not always been honored.
+
+Some Ovine estates became highly controlling. Some treated Beasts as dependents incapable of meaningful preference. Modern animal-speaking ethics developed partly through criticism from within the lineage.
+
+### Pirhoua’s Refusal
+
+One ritual account states that Pirhoua refused to answer a king who wanted to know whether his cavalry animals loved him.
+
+The god replied:
+
+> Ask them. Then survive hearing the difference between love and familiarity.
+
+The passage is frequently quoted in debates about labor, domestication, and power.
+
+---
+
+## III. Body and Pastoral Form
+
+Ovines commonly possess:
+
+- Hooved feet
+- Wool, hair, or mixed coats
+- Horns in many individuals
+- Strong balance
+- Ruminant or highly efficient digestion
+- Bodies suited to sustained travel
+- Climbing ability on rough natural terrain
+- Voices ordinary Beasts can understand
+
+Most are Medium.
+
+### Efficient Metabolism
+
+Ovines can sustain themselves on green vegetation.
+
+This does not mean a vegetation-only emergency diet is pleasant, culturally appropriate, or nutritionally ideal in every circumstance.
+
+Employers may not provide pasture in place of proper food.
+
+### Animal Speech
+
+Mind for Beasts allows comprehension and verbal communication.
+
+It does not increase a Beast’s intelligence.
+
+An animal’s testimony may include sensory impressions, simple relationships, routine, fear, pain, direction, and recent events. It may lack timekeeping, names, motive, or concepts outside the creature’s experience.
+
+An Ovine translator remains an interpreter, not the owner of the animal’s meaning.
+
+### Horns and Wool
+
+Horn and wool practices vary.
+
+Wool may be cut, styled, woven, donated, sold, or kept. Horns may be decorated or unadorned.
+
+Harvest and grooming require consent even when the material regrows.
+
+---
+
+## IV. Society and Kinship
+
+Ovine communities include pastoral households, mountain villages, animal refuges, schools, farms, temples, coastal settlements, urban mediation circles, and delver conservation teams.
+
+### The Listening Turn
+
+In many Ovine councils, a speaker must summarize the previous person’s position to that person’s satisfaction before disagreeing.
+
+This is the **Listening Turn**.
+
+The practice slows argument and exposes strategic misunderstanding.
+
+It can also pressure an injured person to restate harmful speech. Modern councils permit a witness or advocate to confirm understanding instead.
+
+### Shepherding People
+
+Ovine skill in group direction creates political tension.
+
+Some communities proudly use shepherd language for teaching and leadership.
+
+Others reject it when applied to sapient adults. They argue that care becomes paternalism when the guided person is not permitted to choose the route.
+
+### Animal Kin
+
+An animal may be household member, working partner, neighbor, messenger, dependent, sacred presence, or wild acquaintance.
+
+No universal Ovine doctrine treats all Beasts as legal persons.
+
+Many communities nevertheless recognize enforceable welfare, habitat, and testimony rights beyond those granted in ordinary law.
+
+---
+
+## V. Inner Life, Virtue, and Shadow
+
+Ovine communities commonly admire:
+
+- Listening
+- Patience
+- Mediation
+- Environmental attention
+- Quiet authority
+- Responsible guidance
+- Care for dependent lives
+- Clarity without haste
+
+These values cast long shadows.
+
+| Admired Quality | Constructive Expression | Potential Shadow |
+|---|---|---|
+| Listening | Understanding before action | Delaying necessary judgment |
+| Gentleness | Reducing needless harm | Avoiding honest conflict |
+| Guidance | Helping others navigate danger | Paternalism |
+| Patience | Allowing trust to form | Enduring exploitation |
+| Animal empathy | Recognizing other perspectives | Projecting human meaning onto Beasts |
+| Quiet authority | Leading without spectacle | Exercising power without scrutiny |
+
+A recurring Ovine fear is that being trusted will become being responsible for every conflict in the room.
+
+Some accept permanent mediation. Some become forcefully direct. Some refuse to explain animals to people who will ignore the answer. Others build lives in which listening is personal rather than professional.
+
+### Internal Divisions
+
+Modern Ovines debate:
+
+- Whether Beast testimony belongs in court
+- Whether animal messenger use constitutes labor requiring care
+- Whether shepherd language should apply to sapient leadership
+- Whether Pirhoua’s gift creates sacred duty
+- How farms should respond when animals oppose ordinary husbandry
+- Whether Ovine translators can speak neutrally across unequal power
+- How wild habitats should be represented in civic decisions
+
+---
+
+## VI. Ovines in Modern Aerathon
+
+### Allemance
+
+Allemancian Ovines are shepherds, growers, teachers, brewers, village mediators, animal healers, and keepers of the Green.
+
+Their quiet authority is respected. It may also be used to avoid giving them formal power while relying upon their labor to keep communities peaceful.
+
+### Oria
+
+Oric Ovines maintain cold-weather herds, survival schools, House food systems, mountain routes, and animal warning networks.
+
+Their self-sufficiency is admired, sometimes to the point that aid arrives late.
+
+### Vinyot
+
+Vinyoti Ovines work in negotiation, deception detection, animal trade, agriculture, entertainment, and commercial mediation.
+
+Their harmless reputation can become strategic cover. It can also cause institutions to ignore Ovine testimony until repeated by someone considered more forceful.
+
+### Arneria
+
+Arnerian Ovines serve as wildlife readers, pilgrimage guides, temple mediators, caravan shepherds, and guardians of Bat’yan fauna.
+
+They are especially skilled at recognizing when ordinary animals have fled something unnatural.
+
+### Al’Ar
+
+Al’Ari Ovines communicate with aquatic Beasts, maintain island schools, guide mixed-species fleets, and coordinate storm evacuation.
+
+The term **school teacher** deliberately carries two meanings: teaching young people and coordinating groups of aquatic life.
+
+---
+
+## VII. Ovines and Delving
+
+Ovines serve as environmental interpreters, animal handlers, scouts, climbers, support casters, and mediators.
+
+Their advantages include:
+
+- Communication with Beasts
+- Animal messenger magic
+- Forced-march endurance
+- Climbing without hands on suitable surfaces
+- Strong observational context
+- Supportive sublineage abilities
+
+Labyrinth Beasts may not behave like ordinary Beasts. Some are copies, vessels, memories, or sapient beings misclassified through appearance.
+
+An Ovine should never be forced to “prove” an entity is safe by speaking to it first.
+
+A common warning states:
+
+> Understanding the animal does not make the animal harmless—or the hunter correct.
+
+---
+
+## VIII. Names, Titles, and Address
+
+Examples include:
+
+- Asha Green-Tongue
+- Brann Highhoof
+- Cera Listening-Turn
+- Dela Woolbright
+- Eren Fauna-Friend
+- Havi Quiet-Horn
+- Jora Open-Passage
+- Mera Stoneclimb
+- Oren Pirhoua’s Question
+- Sella First-Shepherd
+- Tavi Many-Messages
+- Venn Unfenced
+
+Living titles include:
+
+- **Beast Speaker**
+- **Listening Judge**
+- **Green Warden**
+- **School Teacher**
+- **Passage Keeper**
+- **Fauna Reader**
+- **Quiet Horn**
+
+---
+
+## IX. D&D Lineage Traits
+
+### Creature Type
+
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Wisdom score increases by 2.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### March on Hooves
+
 You have advantage on saving throws made to avoid exhaustion from forced marches.
 
-**Efficient Metabolism.**  
+### Efficient Metabolism
+
 You can sustain yourself indefinitely on any green vegetation.
 
-**Mind for Beasts.**  
-You can comprehend and verbally communicate with Beasts. They offer insights limited by their intelligence but will always share basic observations from the last 24 hours.  
-Once per long rest, you can cast _animal messenger_ at 2nd level without expending a spell slot. Wisdom is your spellcasting ability.
+### Mind for Beasts
 
-**Shepherd Step.**  
+You can comprehend and verbally communicate with Beasts.
+
+They offer insights limited by their intelligence but will always share basic observations from the last 24 hours.
+
+Once per long rest, you can cast `animal messenger` at 2nd level without expending a spell slot. Wisdom is your spellcasting ability.
+
+### Shepherd Step
+
 You have a climbing speed of 15 feet on non-sheer surfaces and do not require your hands to climb this way.
 
 ---
 
-## **III. Ovine Subraces**
+## X. Recognized Sublineages
 
-Ovine lineage expresses itself through three ancestral forms. These subraces reflect **temperament and instinct**, not hierarchy.
-
----
-
-### **Sheep**
+### Sheep
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
-**Size.** Medium  
-**Typical Height.** 5’4” – 6’4”
+**Size.** Your size is Medium.
 
-**Quiet Authority.**  
-When you use the Help action, the assisted creature gains advantage on one additional roll of the same type before the start of your next turn.
+**Quiet Authority.** When you use the Help action, the assisted creature gains advantage on one additional roll of the same type before the start of your next turn.
 
-**Racial Quirks**
-
-- Soft-spoken confidence
-    
-- Naturally trusted in group settings
-    
-- Prefers mediation over confrontation
-    
-
----
-
-### **Goat**
+### Goat
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
 
-**Size.** Medium  
-**Typical Height.** 5’2” – 6’2”
+**Size.** Your size is Medium.
 
-**Sure-Footed Climber.**  
-You ignore difficult terrain caused by loose stone, rubble, or steep natural inclines.  
-When you fall at least 10 feet, you can reduce the fall damage by an amount equal to your proficiency bonus × 5.
+**Sure-Footed Climber.** You ignore difficult terrain caused by loose stone, rubble, or steep natural inclines.
 
-**Racial Quirks**
+When you fall at least 10 feet, you can reduce the falling damage by an amount equal to your proficiency bonus × 5.
 
-- Curious to a fault
-    
-- Enjoys heights and precarious terrain
-    
-- Known for stubborn independence
-    
-
----
-
-### **Ram**
+### Ram
 
 **Ability Score Increase.** Your Strength score increases by 1.
 
-**Size.** Medium  
-**Typical Height.** 5’8” – 6’8”
+**Size.** Your size is Medium.
 
-**Headlong Charge.**  
-If you move at least 15 feet straight toward a creature and hit it with a melee weapon attack on the same turn, the target must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your Strength modifier) or be knocked prone.  
+**Headlong Charge.** If you move at least 15 feet straight toward a creature and hit it with a melee weapon attack on the same turn, the target must succeed on a Strength saving throw or be knocked prone.
+
+The DC equals `8 + your proficiency bonus + your Strength modifier`.
+
 You can use this feature a number of times equal to your proficiency bonus per long rest.
 
-**Racial Quirks**
-
-- Direct and unyielding
-    
-- Protective of territory and companions
-    
-- Values resolve over caution
-    
-
 ---
 
-## **IV. Regional Variance (Pastoral Practice)**
+## XI. Homeland Imprints
 
-Though unified by gift and temperament, ovines express their role differently depending on where they walk and listen.
+### Allemance — Shepherds on the Green
 
----
+Once per turn, when you hit with a reach weapon and roll the maximum on any damage die, you may force the target, if Large or smaller, to make a Strength or Dexterity saving throw or be knocked prone.
 
-### **Allemance**
+The DC equals `8 + your weapon attack bonus`.
 
-**Shepherds on the Green.**  
-Once per turn, when you hit with a reach weapon and roll the maximum on any damage die, you may force the target (Large or smaller) to make a Strength or Dexterity saving throw (DC = 8 + your weapon attack bonus) or be knocked prone.
+### Oria — Self-Sufficient Herder
 
----
+You are immune to extreme cold.
 
-### **Oria**
+You gain proficiency in Survival and learn one cantrip from the druid spell list. Wisdom is your spellcasting ability.
 
-**Self-Sufficient Herder.**  
-You are immune to extreme cold. You gain proficiency in Survival and learn one cantrip from the druid spell list. Wisdom is your spellcasting ability.
+### Vinyot — Underestimated
 
----
-
-### **Vinyot**
-
-**Underestimated.**  
 When making a Charisma (Deception) check against a creature with Intelligence 13 or higher, you are considered proficient and double your proficiency bonus.
 
+### Arneria — Find a Friend in Fauna
+
+With 1 minute of observation, you learn the type, number, and direction of the highest-CR Beast within 1 mile.
+
+You also know if that creature fled something unnatural.
+
+Once you use this trait, you cannot use it again until you finish a long rest.
+
+### Al’Ar — School Teacher
+
+When you cast `animal messenger` targeting aquatic Beasts, you may target a number of creatures equal to your proficiency bonus.
+
+Each may carry a different message to a different destination.
+
 ---
 
-### **Arneria**
+## XII. Playing an Ovine
 
-**Find a Friend in Fauna.**  
-With 1 minute of observation, you learn the type, number, and direction of the highest-CR Beast within 1 mile. You also know if that creature fled something unnatural. Once per long rest.
+Consider:
+
+- Which animal first told you something adults ignored?
+- When does listening become avoidance?
+- Do you accept shepherd language?
+- What does Pirhoua’s gift mean to you?
+- Which creature do you consistently misunderstand?
+- Who assumes you will mediate?
+- What conflict requires your direct anger?
+- What boundary needs an animal’s perspective?
+- How do you respond when gentleness is mistaken for weakness?
+- What do you choose not to translate?
+
+An Ovine may be loud, impatient, poor with animals, confrontational, urban, carnivorous by choice, or uninterested in Pirhoua.
+
+Their lineage permits conversation.
+
+It does not guarantee agreement.
 
 ---
 
-### **Al’Ar**
-
-**School Teacher.**  
-When you cast _animal messenger_ targeting aquatic Beasts, you may target a number of creatures equal to your proficiency bonus. Each may carry a different message to a different destination.
+> [!note] MDO Registry Advisory  
+> Ovine lineage does not indicate docility, innocence, religious devotion, willingness to mediate, or consent to animal-handling work.
+>
+> Beast testimony must be represented within the limits of the animal’s intelligence and the interpreter’s uncertainty.
+>
+> Wool, horn, and other bodily materials require ordinary informed consent.
 
 ---
 
-━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━  
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+
 **Filed & Authenticated**  
-**Ministry of Delving Operations — Annals & Antiquities (Environmental Harmony & Cultural Studies)**  
-**Document Class:** Regional Record / Grade-I Authenticity  
+**Ministry of Delving Operations — The Living Atlas**  
+**Document Class:** Sapient Lineage Record / Grade-I Authenticity  
+**Registry Division:** Peoples, Lineages, and Cultural Recognition  
+**Environmental Consultation:** Beast Communication and Habitat Office  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
-**Cross-Verification:** Lt. Salvia Korrin (Arc. Scriv.), Researcher Falyn Onarra (Sociology Unit)  
-— Certified under Charter §§ 2-B, 5-E, and 9-I.  
-— Exploitation, silencing, or forced displacement of ovine populations constitutes a **Class-2 Ecological and Sociocultural Violation** under Ministry Law.  
+**Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
+**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+
+— Forced translation, animal-mediated coercion, or unauthorized harvesting of Ovine bodily material constitutes a protected-rights violation under Ministry charter.
+
 **——— ⭕ END OF FILE ⭕ ———**

@@ -13,6 +13,9 @@
 **Date of Filing:** 3730 A.D. (Age of Spectacle)  
 **Document Class:** _Natural Fauna Record / Verified Authenticity_
 
+> [!warning] NORTHERN RECORD LIMITATION
+> Verified observations in this file predate the plague cordon. Frost-Mane presence or migration inside the Nattefrost cannot currently be confirmed; all post-cordon tracks, calls, and relay images are speculative.
+
 ---
 
 ## **I. Overview**

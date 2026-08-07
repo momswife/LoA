@@ -1,45 +1,265 @@
-> _"I am the fire of my clan. I am the wind of our ascent. I am the roar that breaks the silence. I am the name they will remember."_
+> _“I am the fire of my clan. I am the wind of our ascent. I am the roar that breaks the silence. I am the name they will remember.”_
 
-____
+# Dragonborn
 
-## **Overview**
-
-Dragonborn in Aerathon are not merely scaled warriors or walking remnants of draconic ancestry—they are the living echoes of the Labyrinths' oldest pacts. Many were forged in the crucible of the early delving wars, when dragons sought champions to claim footholds within the expanding gates. Those mortals who survived became something more. Their descendants are the Dragonborn of today: proud, tempest-blooded folk with honor etched into their very breath.
-
-Unlike the dragons of legend, Dragonborn do not hoard. They do not slumber for centuries or speak in riddles. Their pride lies in their heritage, their discipline, and their clarity of purpose. They are warriors, tacticians, and loyal crewmates—but never pawns. Though many hold to clan structures or ancestral codes, just as many have carved their own creeds from the stone of the world.
-
-In the Labyrinths, Dragonborn are often seen as symbols of authority or divine challenge. Their elemental breath and unwavering will make them natural anchors in any delving crew. And while they bear no wings, the legacy of dragons flies with them in every vow, every strike, every roar.
+**Folk Classification:** [[‎ Mythicfolk|Mythicfolk]]  
+**Lineage Classification:** Dragonborn  
+**Registry Scope:** Draconic Descent, Pact Transformation, and Homeland Variance  
+**Recognition Status:** Full Sapient Recognition  
+**Delver Eligibility:** Conditional Draconic Review  
+**Player Access:** DM Approval Required  
+**Common Names:** Dragonborn, Wyrm-Marked, Breathkin  
+**Date of Revised Filing:** 7th Cycle, 3388 A.D.
 
 ---
 
-## **Heritage Traits**
+## I. Lineage Overview
 
-### **Allemance**
+Dragonborn are mortal Humanoids shaped by draconic descent, ancient pact, deliberate transformation, and elemental inheritance.
 
-Allemagnian Dragonborn are sought as ceremonial guards, duelists, and bearers of ancient titles. Their martial forms are precise and expressive, blending swordplay with fiery breath and graceful arcs.
+Their oldest confirmed lines emerged during the early delving wars, when dragons sought champions able to claim territory around expanding gates. Some mortals entered those pacts willingly. Some were transformed by rulers, cults, or dragons without meaningful choice. Some modern clans descend from people who took draconic power and then destroyed the power that granted it.
 
-**Court-Forged.** You gain proficiency with one martial weapon of your choice. Additionally, you can reroll a 1 on any damage die for your breath weapon once per use.
+Dragonborn are not lesser dragons.
 
-### **Oria**
+They do not inherit a dragon’s morality, authority, hoard, title, enemy, or right to command.
 
-Orians revere their volcanic ancestors—a tradition alive in the highlands where red and gold-scaled Dragonborn duel beneath ash-choked skies. They often serve as volcanic wardens or oathbound enforcers.
+Many Dragonborn value discipline, clarity of purpose, clan memory, and public vows. Just as many resist those traditions because “honor” has been used to preserve obligations nobody living agreed to carry.
 
-**Lava-Blooded.** You gain resistance to fire damage (or immunity if you already have resistance). When you fail a Strength saving throw, you can reroll it. Once you do so, you must finish a long rest.
+Their elemental breath makes them visible.
 
-### **Vinyot**
+Their most important inheritance is the right to decide what that visibility means.
 
-Vinyotian Dragonborn often shed ancestral burdens and forge names through trade, invention, and enterprise. Their elemental breath finds new uses as tools of innovation.
+---
 
-**Guild Ember.** You gain proficiency with one set of artisan’s tools of your choice. You can cast _heat metal_ once per long rest without requiring material components. Constitution is your spellcasting ability for it.
+## II. Origins and the First Pacts
 
-### **Arneria**
+The oldest Dragonborn records are contracts, scar genealogies, battlefield songs, volcanic shrines, and the remains of transformation chambers near early Labyrinth gates.
 
-The Beylik remembers the tyranny of ancient wyrms, but their descendants who rose from that flame found ways to redeem their blood. Arnerian Dragonborn often join the Sunbull's creeds, living by honor, clarity, and self-mastery.
+No single dragon created the lineage.
 
-**Brand of the Dawn.** Once per long rest, when you would deal fire, radiant, or lightning damage, you can choose to ignore resistance to that damage type for one creature you can see within 60 feet.
+Red, gold, blue, green, white, black, bronze, silver, and other elemental lines appear through separate events. Modern scale color does not prove a specific ancestor, elemental expression, or moral tendency.
 
-### **Al'Ar**
+### Champions Who Refused
 
-On the Feline Isles, the Dragonborn are deep-voiced lorekeepers and monastery teachers. Their stories flow like lava, heated by breath and chilled by truth. Some even believe the Isles' volcanic ridges were shaped by their earliest ancestors.
+Several foundational stories end with transformed champions rejecting a dragon’s final command.
 
-**Isle Roar.** When you use your breath weapon, you can choose to emit a deafening roar instead. Creatures of your choice within 15 feet must succeed on a Constitution saving throw (DC equals your breath weapon DC) or be deafened and unable to take reactions until the start of their next turn.
+In the **Roar After Silence**, a cohort discovers that their promised defensive war is a territorial claim. They speak their orders aloud before witnesses, burn the contract, and retain the bodies the pact gave them.
+
+The story supports a central legal principle:
+
+Transformation cannot be repossessed when service ends.
+
+### False Genealogies
+
+Dragons, noble houses, and collectors frequently claim authority through forged bloodlines. Confirmed ancestry may matter to a character’s history, but it does not make every claimant truthful or every old agreement binding.
+
+---
+
+## III. Body, Scale, and Elemental Expression
+
+Dragonborn are generally Medium Humanoids with scales, draconic facial structure, claws, powerful voices, and an internal organ or arcane matrix capable of producing elemental breath.
+
+Horns, crests, tails, frills, scale texture, color, body shape, and elemental expression vary considerably.
+
+Scale color does not reliably identify breath type.
+
+Elemental organs require care. Illness, injury, magical exhaustion, environmental exposure, and emotion may alter breath pressure. A misfire is a medical event, not evidence that the Dragonborn “lost control of their nature.”
+
+Some Dragonborn cannot use a breath weapon or choose not to. Some use assistive focus masks or regulate breath through practiced forms.
+
+Touching scales, tapping horns, requesting shed material, or asking for a breath demonstration without invitation is intrusive.
+
+---
+
+## IV. Clan, Creed, and Chosen Oath
+
+Dragonborn households include clans, military descendants, monastery lines, urban families, craft circles, shrines, expedition companies, and people deliberately living outside every inherited structure.
+
+A **clan** may preserve ancestry, shared transformation history, mutual support, a dragon’s former territory, or an oath rewritten by descendants.
+
+It does not automatically command every member.
+
+### The Creed
+
+Many Dragonborn compose a personal **creed** naming the principles by which they intend to use power. A creed may be revised publicly when experience reveals its failure.
+
+The revision is often more respected than flawless adherence to an immature vow.
+
+### Breath Courtesy
+
+Communities establish ventilation, practice chambers, nonflammable spaces, emergency signs, and customs for declaring breath use before it occurs.
+
+These are ordinary accommodations, not containment measures.
+
+---
+
+## V. Inner Life, Virtue, and Shadow
+
+Dragonborn communities commonly admire discipline, candor, courage, self-command, loyalty, memorable action, and responsibility for power.
+
+| Admired Quality | Constructive Expression | Potential Shadow |
+|---|---|---|
+| Honor | Acting consistently with stated principles | Protecting reputation over truth |
+| Discipline | Practicing safe control of power | Treating emotion as failure |
+| Loyalty | Sustaining chosen obligation | Serving inherited authority without review |
+| Pride | Refusing imposed inferiority | Measuring worth through dominance |
+| Clarity | Naming purpose before action | Rejecting ambiguity that needs patience |
+| Power | Accepting responsibility for capacity | Believing capability creates entitlement |
+
+A recurring Dragonborn fear is that failure will be attributed not to one choice but to the dangerous essence others already expected.
+
+Some pursue absolute control. Some become flamboyant. Some conceal elemental abilities. Others refuse to apologize for occupying space visibly.
+
+---
+
+## VI. Dragonborn in Modern Aerathon
+
+### Allemance
+
+Allemagnian Dragonborn are ceremonial guards, duelists, advocates, performers, and bearers of contested titles. Courts value draconic spectacle while limiting Dragonborn political authority.
+
+### Oria
+
+Oric Dragonborn maintain volcanic shrines, ashland settlements, rescue companies, and oath traditions associated with ancient red and gold lines. Clan authority is strongest here and most actively debated.
+
+### Vinyot
+
+Vinyoti Dragonborn use elemental breath in craft, industry, entertainment, and licensed delving. Commercial employers regularly attempt to classify breath as equipment rather than bodily labor.
+
+### Arneria
+
+Arnerian Dragonborn live beneath the memory of ancient wyrm tyranny. Many follow creeds of self-mastery, public service, or the Sunbull while rejecting the idea that redemption is owed for ancestry alone.
+
+### Al'Ar
+
+Al'Ari Dragonborn are lorekeepers, monastery teachers, volcanic guides, smiths, and deep-voiced performers. Island traditions treat elemental force as rhythm requiring release, pause, and response.
+
+---
+
+## VII. Dragonborn and Delving
+
+Dragonborn delvers commonly serve as front-line anchors, elemental specialists, tacticians, ward breakers, negotiators, and expedition leaders.
+
+Their strengths include:
+
+- Elemental area control
+- Resistance to particular environmental hazards
+- Commanding vocal presence
+- Familiarity with pact and clan structures
+- Disciplined response under pressure
+- Recognizing draconic territorial behavior
+
+Labyrinths may react strongly to draconic blood or presentation. Doors may accept a Dragonborn as an heir. Guardians may challenge them as an intruder. Hoards may attempt to name them as owner.
+
+None of these reactions proves legitimate descent or obligation.
+
+Before entering a draconic site, the crew should decide who may answer lineage-based challenges and how the Dragonborn can refuse the role entirely.
+
+---
+
+## VIII. Names, Titles, and Address
+
+Examples include:
+
+- Akra Ember-Creed
+- Drazhen Ashwake
+- Ilyra Unclaimed Scale
+- Kael Roar-After
+- Mira Volcanic Glass
+- Nahris Contract-Burned
+- Othra Dawnbrand
+- Rhogar Quiet Breath
+- Sava No-Wyrm
+- Veyra Storm-Clan
+
+Dragonborn names may identify clan, element, creed, transformation line, mentor, refusal, or chosen achievement.
+
+Calling a Dragonborn _little dragon_, _drake_, _lizard_, _wyrmling_, or _hoarder_ is demeaning unless explicitly welcomed.
+
+A draconic title does not establish legal command over a person carrying related ancestry.
+
+---
+
+## IX. D&D Lineage Framework
+
+> [!warning] DM Approval Required  
+> Confirm the campaign’s Dragonborn version, breath-weapon action economy, damage scaling, ancestry, and setting ties before play.
+
+Use the campaign’s approved Dragonborn ancestry traits for creature type, size, speed, breath weapon, damage resistance, and other core features.
+
+The Heritage Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+
+---
+
+## X. Heritage Traits
+
+### Allemance — Court-Forged
+
+You gain proficiency with one martial weapon of your choice. Additionally, you can reroll a 1 on any damage die for your breath weapon once per use.
+
+### Oria — Lava-Blooded
+
+You gain resistance to fire damage, or immunity if you already have resistance. When you fail a Strength saving throw, you can reroll it. Once you do so, you must finish a long rest.
+
+### Vinyot — Guild Ember
+
+You gain proficiency with one set of artisan’s tools of your choice. You can cast _heat metal_ once per long rest without requiring material components. Constitution is your spellcasting ability for it.
+
+### Arneria — Brand of the Dawn
+
+Once per long rest, when you would deal fire, radiant, or lightning damage, you can choose to ignore resistance to that damage type for one creature you can see within 60 feet.
+
+### Al'Ar — Isle Roar
+
+When you use your breath weapon, you can choose to emit a deafening roar instead. Creatures of your choice within 15 feet must succeed on a Constitution saving throw (DC equals your breath weapon DC) or be deafened and unable to take reactions until the start of their next turn.
+
+---
+
+## XI. Playing a Dragonborn
+
+Consider:
+
+- What produced your draconic inheritance?
+- Does any dragon claim your clan?
+- What does your creed require?
+- When did you revise it?
+- How do you feel about your breath weapon?
+- Which display of power do strangers expect?
+- What part of clan life sustains you?
+- What inherited title do you reject?
+- Is honor private conduct, public reputation, or both?
+- What ordinary activity makes you feel least mythic?
+
+A Dragonborn may be timid, undisciplined, physically slight, clanless, nonmartial, indifferent to dragons, unable to breathe an element, or hostile to inherited honor traditions.
+
+Power creates responsibility.
+
+It does not create destiny.
+
+---
+
+## XII. Registry and Table Advisory
+
+> [!warning] Rare Lineage Advisory  
+> Dragonborn characters require agreement about draconic history, active claimants, public rarity, and approved mechanics.
+>
+> Dragonborn lineage does not indicate allegiance to dragons, hoarding behavior, martial ability, elemental control, honor culture, or inherited contract.
+>
+> Breath, scales, blood, shed material, and transformation records may not be sampled, licensed, compelled, or treated as institutional equipment without informed consent.
+
+---
+
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+
+**Filed & Authenticated**  
+**Ministry of Delving Operations — The Living Atlas**  
+**Document Class:** Rare Sapient Lineage Record / Grade-I Authenticity  
+**Registry Division:** Peoples, Lineages, and Cultural Recognition  
+**Draconic Review:** Pact and Transformation Desk  
+**Primary Compilation:** Keeper Aeska Mourn-Wind  
+**Cross-Verification:** Lt. Salvia Korrin, Priest-Analyst Thera Daan  
+**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+
+— Draconic ancestry does not validate inherited command, compulsory service, bodily licensing, or claims of ownership.
+
+**——— ⭕ END OF FILE ⭕ ———**

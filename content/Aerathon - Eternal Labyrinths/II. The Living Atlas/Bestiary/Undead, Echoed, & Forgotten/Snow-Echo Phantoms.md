@@ -13,6 +13,9 @@
 **Date of Filing:** 3734 A.D.  
 **Document Class:** _Cryo-Echo Undead Record / Grade-III Hazard_
 
+> [!warning] NORTHERN RECORD LIMITATION
+> Snow-Echo Phantoms remain documented outside the cordon, but no report attributed to the Nattefrost, Frostguarde, or Gonlev is presently verifiable. Northern figures and voices may be plague victims, phantoms, temporal echoes, damaged relays, or deliberate falsehoods.
+
 ---
 
 ## **I. Overview**

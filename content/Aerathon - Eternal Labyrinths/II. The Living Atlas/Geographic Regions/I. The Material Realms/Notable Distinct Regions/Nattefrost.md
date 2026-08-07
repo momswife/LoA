@@ -13,6 +13,9 @@
 **Date of Filing:** 3229 A.D. (Age of Spectacle)  
 **Document Class:** _Field Record / Grade-I Authenticity_
 
+> [!danger] CURRENT STATUS — PLAGUE EXCLUSION ZONE
+> The Nattefrost and all northern approaches are closed under plague cordon. Human entry is prohibited, automated reports are intermittent and unauthenticated, and no survivor contact from Frostguarde or Gonlev has been verified. The observations below are historical field records. Any purported post-cordon sighting, transmission, migration, or settlement activity must be treated as speculation or temporal echo until independently authenticated.
+
 ---
 
 ## **I. Overview**
@@ -113,9 +116,9 @@ Artifacts stored in Vault #119, Louvain Branch, triple seal Vell / Korrin / Daan
 
 - **Classification:** Level IV Cryo-Temporal Hazard Zone.
     
-- **Access:** Restricted to automated survey drones; human entry suspended indefinitely.
+- **Access:** Prohibited. Human entry and authorized rescue attempts are suspended; surviving drone fragments are not considered proof of present conditions.
     
-- **Active Operations:**
+- **Last Authorized Operations (pre-cordon):**
     
     - _Project Stillhour_ — attempt to record the Nameless Choir.
         

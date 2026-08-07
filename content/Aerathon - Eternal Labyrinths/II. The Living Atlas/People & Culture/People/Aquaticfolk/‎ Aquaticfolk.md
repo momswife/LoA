@@ -1,4 +1,4 @@
-# Aquaticfolk Overview
+# ‎ Aquaticfolk Overview
 
 **Folk Classification:** Aquaticfolk  
 **Registry Scope:** Marine, Littoral, and Deepwater Peoples  
@@ -121,23 +121,23 @@ Whale, Dolphin, and Porpoise peoples shaped by breath, acoustic memory, long mig
 
 Shark, Ray, Skate, and Sawfish peoples with strong electroreceptive traditions, current discipline, and cultural debates concerning hunger, restraint, and the misuse of predatory imagery.
 
-### Pinnipedan — Planned Filing
+### [[Pinnipedan]]
 
 Seal, Sea Lion, and Walrus peoples associated with littoral settlements, ice margins, communal rest grounds, amphibious travel, and the defense of places that exist between sea and shore.
 
-### Sirenian — Planned Filing
+### [[Sirenian]]
 
 Manatee and Dugong peoples whose communities often center grazing waters, patient stewardship, warm shallows, intergenerational teaching, and resistance to outsiders mistaking gentleness for passivity.
 
-### Testudinan — Planned Filing
+### [[Testudinan]]
 
 Sea Turtle peoples shaped by long routes, shell inheritance, nesting shores, return, and the political consequences of carrying one’s shelter while depending upon distant land.
 
-### Cephalopodan — Planned Filing
+### [[Cephalopodan]]
 
 Octopus, Squid, and Cuttlefish peoples known for flexible bodies, chromatophoric language, distributed craft traditions, intense privacy, and social systems in which color, posture, and concealment may carry legal meaning.
 
-### Abyssan — Planned Filing
+### [[Abyssan]]
 
 A provisional convergent lineage including Angler, Lantern, Gulper, and other pressure-adapted deepwater peoples. Abyssans are grouped through shared life below ordinary sunlight rather than close biological relationship.
 

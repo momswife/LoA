@@ -48,9 +48,9 @@ This teaching survives in the phrase **root connected**.
 
 To be root connected does not simply mean loving plants. It means recognizing consequence beneath the visible surface.
 
-Many Bovine histories also remember the **Iron-Mane Forgefiefs**, ancient kinships in which horned clans maintained upland farms, metalworks, road fortifications, and refuge halls. Surviving accounts disagree over whether these were independent Bovine polities or mixed settlements later simplified by historians.
+Scattered Bovine records describe upland steadings where horned households maintained farms, road fortifications, refuge halls, and exchanges with neighboring forges. No surviving evidence supports treating these communities as one named civilization.
 
-What is clear is that strength and cultivation were not separate duties. A wall protected the field. A plow shaped the same earth from which ore was taken. A forge consumed timber that had to be replanted. Authority followed the ability to keep those relationships in balance.
+What the fragments do show is that strength and cultivation were not separate duties. A wall protected the field. A plow shaped soil whose water and timber also sustained nearby craft. Authority followed the ability to keep those relationships in balance.
 
 Later Crown systems preserved the labor and discarded the balance.
 

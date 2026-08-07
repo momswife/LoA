@@ -62,7 +62,9 @@ Loyalty to the Vanlig line is strong—but never assumed permanent.
 **Steward Family:** **Stonewarden**  
 **Renown:** Extreme-environment defense, existential threat containment
 
-House Frostguarde exists by mandate, not ambition. It is the only Oric House operating under **formal dual authority** with the **Ministry of Delving Operations**.
+> [!warning] The following describes the last verified pre-plague structure. Frostguarde is inside the northern cordon, contact has been lost, and no current Warden-Regent or surviving house authority has been authenticated.
+
+House Frostguarde existed by mandate, not ambition. It was the only Oric House operating under **formal dual authority** with the **Ministry of Delving Operations**.
 
 - The **Stonewarden family** appoints a **Warden-Regent** for fixed ten-year terms
     
@@ -71,8 +73,9 @@ House Frostguarde exists by mandate, not ambition. It is the only Oric House ope
 - All growth, prestige, and dynastic accumulation are forbidden
     
 
-Frostguarde does not compete for leadership.  
-It holds the line.
+Frostguarde did not compete for leadership.
+
+It held the line.
 
 ---
 
