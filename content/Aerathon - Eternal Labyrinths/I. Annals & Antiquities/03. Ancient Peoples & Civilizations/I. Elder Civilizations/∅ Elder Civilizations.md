@@ -140,5 +140,6 @@ They do not belong to it.
 - [[The Stone Throne of Dhalraen]]
 - [[The Sun Court of Vaelcour]]
 - [[Lesser Crowns & Sacred Realms]]
+- [[River Kingdoms of Old Louvain]]
 - [[The Age of Crowns]]
 - [[Chronological Timeline of Aerathon]]

@@ -1,4 +1,4 @@
-> _Where the lanterns burned, even an enemy could rest.”_
+> _“Where the lanterns burned, even an enemy could rest.”_
 
 ---
 
@@ -6,7 +6,8 @@
 
 ### _Keepers of the Road and Architects of Hospitality_
 
-**Filed Division:** Ministry of Delving Operations — _Cultural & Historical Inquiry Division_  
+**Filed Division:** Ministry of Delving Operations — Annals & Antiquities  
+**Responsible Office:** Historical Institutions Bureau  
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law Historian & Keeper of Roadlore)  
 **Advisory Editors:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Researcher Falyn Onarra (Beastfolk Sociologist), Curator Rook-of-Rings (Relics Registrar)  
 **Date of Filing:** 4th Cycle, 3112 A.D.  
@@ -15,7 +16,7 @@
 ~~
 
 **Era Classification:** _Late Second Era (Age of Chains)_ → _Early Third Era (Ember Age)_  
-**Primary Peoples:** Itinerant Brethren monks, mixed Beastfolk pilgrims, roadside clergy orders  
+**Primary Peoples:** Itinerant Brethren and Beastfolk pilgrims, roadside clergy orders  
 **Known Artifacts:** The Lantern Codex, Waystone Maps of Yarrow, the First Guest’s Token  
 **Duration:** Approx. 400 years; later absorbed into the Free Guild courier networks
 
@@ -68,7 +69,7 @@ Many waystones remain active, faintly glowing across Aerathon’s old roads.
 ## **Social Impact**
 
 The Lantern fellowship softened centuries of xenophobia between Brethren and Beastfolk.  
-Mixed caravans of artisans, monks, and hunters traveled under their protection, laying cultural groundwork for the eventual **Great Drift**.  
+Mixed caravans of artisans, monks, and hunters traveled under their protection, laying cultural groundwork for the later **Drift Migrations**.  
 Every Lantern Hostel doubled as a gathering place where stories, laws, and recipes crossed species lines.
 
 In time, the Pilgrims were recognized not as outlaws but _necessary infrastructure_.  

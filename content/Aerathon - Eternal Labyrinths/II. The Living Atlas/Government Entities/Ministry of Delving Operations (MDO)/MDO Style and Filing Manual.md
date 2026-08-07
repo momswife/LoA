@@ -1508,7 +1508,7 @@ Do not reproduce entire sections from another document.
 
 Preferred:
 
-> Cross-Wind marriages may involve a rite known as Turning the Wing. See [[I. Annals & Antiquities/Ancient Peoples & Culture/IV. Shared Customs & Ways/Birth, Bond, & Burial#Turning the Wing|Turning the Wing]].
+> Cross-Wind marriages may involve a rite known as Turning the Wing. See [[I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/Birth, Bond, & Burial#Turning the Wing|Turning the Wing]].
 
 Avoid copying the full ceremony into every cultural entry.
 

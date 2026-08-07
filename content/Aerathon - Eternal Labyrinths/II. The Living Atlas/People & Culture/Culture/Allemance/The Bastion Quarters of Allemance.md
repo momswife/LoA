@@ -6,7 +6,8 @@
 
 ### _Cities as Shields and the Craft of Endurance_
 
-**Filed Division:** Ministry of Delving Operations — _Structural & Historical Engineering Bureau_  
+**Filed Division:** Ministry of Delving Operations — The Living Atlas  
+**Responsible Office:** Allemagnian Cultural History Desk  
 **Primary Compiler:** Professor Arav Dhal-Senn (Antiquities Restoration & Resonant Masonry Specialist)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Warden Cyra Hesh (Environmental Hazard Assessment)  
 **Date of Filing:** 3rd Cycle, 3016 A.D.  

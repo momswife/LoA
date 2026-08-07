@@ -624,7 +624,7 @@ A traditional vow reads:
 
 > “The wind that raised me shall always know my name. But yours is the wind beneath which I choose to return.”
 
-The complete rite is recorded in [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/Ancient Peoples & Culture/IV. Shared Customs & Ways/Birth, Bond, & Burial#Turning the Wing|Birth, Bond, & Burial — Turning the Wing]].
+The complete rite is recorded in [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/Birth, Bond, & Burial#Turning the Wing|Birth, Bond, & Burial — Turning the Wing]].
 
 ---
 

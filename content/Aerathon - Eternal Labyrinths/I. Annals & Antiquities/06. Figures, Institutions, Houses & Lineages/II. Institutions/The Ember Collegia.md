@@ -6,9 +6,10 @@
 
 ### _The Guilds Before Guilds, and the Craftsmen Who Spoke in Sparks_
 
-**Filed Division:** Ministry of Delving Operations — _Arcane & Historical Inquiry Division_  
+**Filed Division:** Ministry of Delving Operations — Annals & Antiquities  
+**Responsible Office:** Historical Institutions Bureau  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Collegium Reconstruction Specialist)  
-**Advisory Editors:** Professor Arav Dhal-Senn (Antiquities Restoration & Former Collegium Scholar), Archivist Emeritus Venn Tarras (Ancient Linguistics), Inspector Jao “Greyglass” Vell (Forensic Thaumaturgy)  
+**Advisory Editors:** Professor Arav Dhal-Senn (Antiquities Restoration & Collegium Material Specialist), Archivist Emeritus Venn Tarras (Ancient Linguistics), Inspector Jao “Greyglass” Vell (Forensic Thaumaturgy)  
 **Date of Filing:** 14th Cycle, 3159 A.D.  
 **Document Class:** _Institutional Chronicle / Grade-II Scholastic Archive_
 
@@ -36,7 +37,9 @@ The Collegia’s experiments laid the groundwork for modern magitech, artificery
 
 ## **Founding & Philosophy**
 
-Founded by the dwarf-sage **Arav Dhal-Senn** (yes, the same who later joined the MDO centuries hence as an authority on antiquities), the Collegia began as a small alliance of disenfranchised scholars expelled from the College of Law and Light.
+The Collegia began as a small alliance of disenfranchised scholars expelled from the College of Law and Light.
+
+Later charter copies attribute their unification to a figure called the **First Temperant**, but surviving versions disagree over the founder’s ancestry, personal name, and original discipline. The institution encouraged campuses to claim a local founder, making later biographies unreliable.
 
 They rejected divine permission as a precondition for invention. Instead, they posited that **the ember**—a flame sustained beyond its source—was the truest symbol of mortal persistence.  
 Their laboratories were temples of labor, their prayers the sound of hammer and quill.
@@ -92,8 +95,9 @@ However, the Collegia’s success bred fear. Crowned powers labeled them heretic
 
 ## **Decline & Dissolution**
 
-The Collegia’s downfall came not through war, but absorption. As delver guilds rose, Collegium facilities were nationalized, their professors “rebranded” as guild instructors.  
-By the **Age of Delving**, the Collegia name existed only as a metaphor—a nod to craftsmanship as virtue.
+The Collegia’s downfall came through fragmentation, appropriation, and eventual absorption. During the late Ember Age and early Collapse, governments seized major facilities, independent campuses became fortified workshops, and many professors entered successor schools under new charters.
+
+Delver guilds later occupied several surviving Collegium sites and claimed descent from their teachings. By the **Age of Delving**, the Collegia name existed primarily as a metaphor—a reference to craftsmanship as civic virtue rather than a continuous organization.
 
 Ironically, their belief that knowledge should circulate like heat directly inspired the **Free Guild Accords**—the same bureaucratic system that replaced them.
 
