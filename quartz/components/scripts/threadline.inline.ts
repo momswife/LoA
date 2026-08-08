@@ -7,8 +7,8 @@ import {
 } from "../data/threadlinePosts"
 import { selectThreadlinePost } from "../data/threadlineSelection"
 
-const minimumSwapDelay = 75_000
-const maximumSwapDelay = 6 * 60_000
+const minimumSwapDelay = 60_000
+const maximumSwapDelay = 3 * 60_000
 const minimumInitialAge = 20_000
 const maximumInitialAge = 28 * 60_000
 const accountCooldown = 35 * 60_000

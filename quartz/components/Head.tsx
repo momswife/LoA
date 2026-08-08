@@ -5,6 +5,17 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../../.quartz/plugins"
+
+const initializeDefaultTheme = `
+try {
+  if (localStorage.getItem("theme") === null) {
+    localStorage.setItem("theme", "dark")
+  }
+} catch {
+  document.documentElement.setAttribute("saved-theme", "dark")
+}
+`
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -100,6 +111,7 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        <script dangerouslySetInnerHTML={{ __html: initializeDefaultTheme }} />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
