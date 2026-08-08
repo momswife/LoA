@@ -141,7 +141,7 @@ Horned and great-bodied kinships including Angus, Bison, and Yak peoples. Bovine
 
 ### [[Canine]]
 
-Wolf, Dog, and Hound peoples associated with scent memory, coordinated action, chosen loyalty, and disagreement over when belonging becomes obedience.
+Wolf, Dog, Hound, and Coyote peoples associated with scent memory, coordinated action, chosen loyalty, adaptability, and disagreement over when belonging becomes obedience.
 
 ### [[Celerine]]
 

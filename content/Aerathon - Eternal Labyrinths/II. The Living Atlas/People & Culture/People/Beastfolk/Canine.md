@@ -19,7 +19,7 @@
 
 ## I. Lineage Overview
 
-Canines are Wolf, Dog, and Hound Beastfolk known for scent memory, expressive communication, and a remarkable ability to coordinate with people whose habits differ from their own.
+Canines are Wolf, Dog, Hound, and Coyote Beastfolk known for scent memory, expressive communication, and a remarkable ability to coordinate with people whose habits differ from their own.
 
 They are found in royal courts, shepherd camps, caravans, docks, neighborhood watches, theater companies, broadcast crews, temples, and delver parties.
 
@@ -85,6 +85,14 @@ Some was enforced through breeding houses, military registries, debt contracts, 
 
 Modern Canine identity contains both histories. Pride in service cannot be understood honestly without acknowledging the systems that attempted to own it.
 
+### The Coyote Roads
+
+Coyote communities developed along open country, settlement edges, caravan crossings, and places where a reliable plan rarely survived first contact with weather, hunger, law, or opportunity.
+
+Their road-lore prizes improvisation, alert humor, and the ability to make another attempt without pretending the first one succeeded. Many stories center upon an ancestral **Coyote**: a hungry traveler, boastful problem-solver, boundary-crosser, and frequent author of their own misfortune. Coyote is not presented as a model every listener should imitate. The stories ask what cleverness costs, who pays for it, and whether laughter can leave enough room for repair.
+
+Outsiders often flatten this tradition into a claim that Coyote people are naturally deceptive. Coyote scholars reject that reading. Adaptability is a survival practice, not evidence of dishonesty, and a comic story is not a confession.
+
 ---
 
 ## III. Body and Sensory Form
@@ -100,7 +108,7 @@ Canines commonly possess:
 - Broad vocal ranges
 - Bodies adapted for steady travel
 
-Most are Medium, though Dog sublineages display considerable variation.
+Most are Medium, though Dog and Coyote sublineages display considerable variation.
 
 ### Scent
 
@@ -208,6 +216,7 @@ Modern Canines debate:
 - Whether public emotional culture leaves enough room for privacy
 - When protective intervention becomes paternalism
 - Whether inherited road obligations should survive modern borders
+- Whether outsiders celebrate Coyote adaptability while ignoring the displacement and scarcity that made it necessary
 
 ---
 
@@ -373,6 +382,18 @@ Hound Canines possess strong scent inheritance and bodies adapted for sustained 
 
 **Long Haul.** When you succeed on a Constitution saving throw to resist exhaustion, you may treat the result as if you had rolled a natural 20 for determining additional effects.
 
+### Coyote
+
+Coyote Canines are lean, adaptable people shaped by open country, settlement margins, and traditions that turn survival, error, and reversal into memorable stories.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Adaptive Cunning.** You gain proficiency in one of the following skills of your choice: Deception, Investigation, Sleight of Hand, or Survival.
+
+**Hard to Corner.** When a creature misses you with an attack, you can use your reaction to move up to 10 feet without provoking opportunity attacks from that creature. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
 ---
 
 ## XI. Homeland Imprints
@@ -417,6 +438,7 @@ Consider:
 - Is leadership a desire, skill, burden, or performance?
 - What kind of solitude restores you?
 - When did you last return by choice?
+- Which story about Coyote do you tell differently from your family?
 
 A Canine may be solitary, private, disloyal, poor at teamwork, physically unexpressive, or uninterested in leadership.
 
