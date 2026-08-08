@@ -113,7 +113,15 @@ Use the person’s stated name and lineage. Body form does not supply a nickname
 
 ### Creature Type and Size
 
-You are a Humanoid, Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium, except where a sublineage says otherwise.
 
 ### Speed
 
@@ -139,21 +147,71 @@ Your bite is a natural weapon dealing 1d6 piercing damage. Once per turn after h
 
 Crocodile peoples are prominent in warm rivers, deltas, estuaries, and coastal channels.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Estuarine Lungs.** You can hold your breath for up to 1 hour instead of 30 minutes. You have advantage on saving throws against environmental stress caused by transitions between fresh and salt water.
+
 ### Alligator
 
 Alligator peoples often inhabit freshwater marsh, lake, and temperate wetland systems.
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Marsh Sense.** You gain proficiency in Perception or Survival and have advantage on checks with that skill made to detect movement through reeds, mud, or shallow water.
 
 ### Caiman
 
 Caiman communities include compact-bodied river and rainforest peoples with dense littoral settlement traditions.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Littoral Sprint.** Your swimming speed increases to 35 feet. Moving between land and water does not cost you extra movement.
+
 ### Gharial
 
 Gharial peoples possess narrow jaws adapted to fish-rich rivers and maintain extensive current and sandbank knowledge.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Current Reader.** You gain proficiency in Nature. After studying a river for 1 minute, you know its direction and approximate speed and can identify visible sandbanks or undertows that would endanger an ordinary swimmer.
+
 ---
 
-## XI. Playing a Crocodilian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Lockgate Keeper
+
+You gain proficiency with mason's tools or water vehicles. You have advantage on checks made to operate or assess locks, levees, sluices, and floodgates.
+
+### Oria — Cold-Marsh Patience
+
+You ignore the effects of extreme cold while submerged and have advantage on Constitution saving throws made to remain motionless for a long period.
+
+### Vinyot — Canal Crowdreader
+
+You gain proficiency in Insight. After observing a dock or canal for 10 minutes, you can identify which route currently carries the heaviest traffic and which is least watched.
+
+### Arneria — Riverbank Law
+
+You gain proficiency in History or Survival. You can recognize common signs marking water rights, safe crossings, and seasonal flood boundaries.
+
+### Al'Ar — Storm-Channel Swimmer
+
+You have advantage on Athletics checks made to swim through surf or strong currents. Your Hold Breath duration is doubled during a storm.
+
+---
+
+## XII. Playing a Crocodilian
 
 Consider:
 
@@ -167,7 +225,7 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Crocodilian lineage does not indicate lurking intent, violence, emotional stillness, territorial aggression, natural armor equivalent to equipment, or consent to jaw demonstrations.
@@ -187,4 +245,3 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 **Date of Revised Filing:** 7th Cycle, 3388 A.D.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

@@ -126,9 +126,21 @@ Names may mark species, garden, season, vessel, cultivator, self-chosen purpose,
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Plant. Choose Small or Medium. Your walking speed is 30 feet.
+You are a Plant.
+
+### Ability Score Increase
+
+Your Wisdom score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your growth tradition.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Photosynthetic Rest
 
@@ -150,17 +162,61 @@ You know the _druidcraft_ cantrip. At 3rd level, you can cast _goodberry_ once p
 
 Flowering Leshials cultivate scent, color, pollinator relationships, and seasonal display while resisting the assumption that beauty exists for public access.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Flowering Signal.** You gain proficiency in Performance or Persuasion. You can create or suppress a harmless floral scent within 5 feet of yourself as a bonus action.
+
 ### Root and Tuber
 
 Root-bodied Leshials often maintain deep substrate reserves, strong regrowth traditions, and households that travel through divided plantings.
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Deep Reserve.** Once per long rest when damage would reduce you to 0 hit points, you can drop to 1 hit point instead if you are touching natural earth or carrying a portion of your home substrate.
 
 ### Thorn and Vine
 
 Thorn and Vine Leshials use climbing, entangling growth, and living construction. Protective anatomy does not imply an aggressive disposition.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Thorn and Vine.** You gain a climbing speed of 20 feet. Your thorns or vines are natural weapons that deal `1d4 + your Strength or Dexterity modifier` piercing damage, chosen when you make the attack.
+
 ---
 
-## XI. Playing a Leshial
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Courtyard Cultivar
+
+You gain proficiency in Insight or Persuasion. You can identify the ordinary intended use of a cultivated public garden after examining it for 1 minute.
+
+### Oria — Glasshouse Growth
+
+You ignore the effects of extreme cold. Bright artificial light can satisfy the light requirement of Photosynthetic Rest.
+
+### Vinyot — Market Bloom
+
+You gain proficiency in Performance. As part of a long rest, you can alter one nonfunctional feature of your flowers, leaves, or surface growth to a new natural color or arrangement.
+
+### Arneria — Caravan Cutting
+
+You gain proficiency in Survival. You require half as much water as normal and have advantage on checks made to keep a plant or cutting alive during overland travel.
+
+### Al'Ar — Saltgarden Vine
+
+You gain a swimming speed of 20 feet. Saltwater and heavy rain do not interfere with Photosynthetic Rest or your natural growth.
+
+---
+
+## XII. Playing a Leshial
 
 Consider:
 
@@ -175,7 +231,7 @@ A Leshial may cherish, revise, or reject their cultivation history. Growth is po
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Leshial lineage does not indicate ownership, druidic allegiance, harmlessness, edibility, medicinal value, or need for unsolicited tending.

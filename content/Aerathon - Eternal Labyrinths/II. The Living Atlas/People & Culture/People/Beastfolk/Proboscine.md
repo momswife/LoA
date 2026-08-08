@@ -113,9 +113,21 @@ Names may record household, place, profession, chosen refusal, or a relationship
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid, Medium. Your walking speed is 30 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Powerful Build
 
@@ -135,23 +147,85 @@ Gain proficiency in History or Survival. Once per long rest, add a d4 to a faile
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Sublineages
 
 ### Elephant
 
 Elephant Proboscines are adapted to warm climates and often possess large ears used for heat regulation and expressive gesture.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Heatwise Ears.** You ignore the effects of extreme heat and have advantage on Wisdom (Perception) checks that rely on hearing.
+
 ### Mammoth
 
 Mammoth Proboscines possess dense fur, cold-weather endurance, and strong northern route traditions.
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Cold-Hardened.** You have resistance to cold damage and ignore the effects of extreme cold.
 
 ### Mastodon
 
 Mastodon communities preserve forest, wetland, and old-growth route histories distinct from open-grassland traditions.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Old-Growth Wayfinder.** Nonmagical difficult terrain caused by plants or mud does not cost you extra movement. You have advantage on Wisdom (Survival) checks made to navigate forests and wetlands.
+
 ---
 
-## XI. Playing a Proboscine
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+A homeland represents upbringing and cultural experience. It does not need to match your birthplace or ancestry.
+
+### Allemance — Civic Foundation
+
+You gain proficiency with mason's tools or in Persuasion.
+
+After examining a structure for 1 minute, you can identify its load-bearing elements, intended public function, and any visible feature that prevents safe access by a Medium creature.
+
+Allemancian Proboscines shape civic works and diplomacy around the principle that public space must carry every member of the public.
+
+### Oria — Snow-Road Keeper
+
+Nonmagical difficult terrain caused by ice or snow does not cost you extra movement. You cannot become lost in snowy terrain except by magical means.
+
+Oric Proboscines preserve winter routes as shared memory rather than private advantage.
+
+### Vinyot — Harbor Anchor
+
+You have advantage on saving throws and ability checks made to resist being pushed, pulled, or knocked prone.
+
+When a creature within 5 feet of you is pushed or pulled, you can use your reaction to reduce that forced movement by 10 feet.
+
+Vinyoti Proboscines learn that steadiness is most valuable when it keeps someone else from being swept away.
+
+### Arneria — Water Rememberer
+
+You gain proficiency in Survival. After studying the ground and air for 1 minute, you know the direction of the nearest natural source of drinkable water within 1 mile, if one is present.
+
+Arnerian Proboscines carry water-route knowledge between caravans without allowing any one company to own the road to survival.
+
+### Al'Ar — Storm-Refuge Builder
+
+You gain proficiency with carpenter's tools.
+
+Allies of your size or smaller can treat you as half cover against ranged attacks while they are within 5 feet of you and you are not incapacitated.
+
+Al'Ari Proboscines build harbors and storm refuges around a simple promise: strength should make more room, not claim more of it.
+
+---
+
+## XII. Playing a Proboscine
 
 Consider:
 
@@ -165,7 +239,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Proboscine lineage does not indicate perfect memory, calmness, wisdom, emotional availability, carrying capacity for others, or consent to trunk contact.

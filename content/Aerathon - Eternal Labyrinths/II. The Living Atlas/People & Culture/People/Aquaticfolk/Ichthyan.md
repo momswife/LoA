@@ -113,9 +113,17 @@ Names may identify water, route, household, bodily change, or chosen public rela
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type and Size
+### Creature Type
 
-You are a Humanoid, Small or Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your sublineage.
 
 ### Speed
 
@@ -145,21 +153,75 @@ Choose freshwater, saltwater, or variable water. You have advantage on saves aga
 
 Reef peoples favor maneuverability, color language, and dense settlements where sight lines change by the hour.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Reef Maneuver.** While submerged, you can take the Disengage action as a bonus action a number of times equal to your proficiency bonus per long rest.
+
 ### River Ichthyans
 
 River peoples preserve seasonal routes, upstream law, and relationships between source, floodplain, and mouth.
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Upstream Endurance.** Your swimming speed increases to 40 feet. You have advantage on Strength (Athletics) checks made to swim against a current or hold position in moving water.
 
 ### Open-Water Ichthyans
 
 Open-Water peoples are adapted to endurance, distant acoustic reference, and communities that travel without visible landmarks.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Bluewater Bearing.** You cannot become lost in open water except by magical means. You have advantage on saving throws made to resist exhaustion caused by long-distance swimming.
+
 ### Eel Ichthyans
 
 Eel peoples possess elongated bodies, strong electrochemical awareness in some families, and den-centered traditions.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Electroreception.** While submerged, your Lateral Sense also detects creatures that remain still unless they are Constructs or Undead.
+
+**Defensive Spark.** You know the `shocking grasp` cantrip. Intelligence is your spellcasting ability for it.
+
 ---
 
-## XI. Playing an Ichthyan
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Canal-School Guide
+
+You gain proficiency with water vehicles. Allies traveling in a formation you direct have advantage on checks made to avoid becoming separated in crowds, canals, or poor visibility.
+
+### Oria — Under-Ice Listener
+
+You have resistance to cold damage while submerged. You also have advantage on Perception checks made to hear through ice or determine its thickness.
+
+### Vinyot — Market School
+
+You gain proficiency in Persuasion. When at least one ally is within 10 feet of you, you can add a d4 to one Charisma check you make; you regain this trait after a long rest.
+
+### Arneria — Sourcekeeper
+
+You gain proficiency in Nature. After studying a river or canal for 1 minute, you can determine its general direction of flow and whether a major obstruction or contamination lies within 1 mile upstream.
+
+### Al'Ar — Bluewater Formation
+
+When an ally within 10 feet of you begins swimming, you can use your reaction to let it move an additional 10 feet without provoking opportunity attacks from one creature you can see.
+
+You may use this trait a number of times equal to your proficiency bonus per long rest.
+
+---
+
+## XII. Playing an Ichthyan
 
 Consider:
 
@@ -173,7 +235,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Ichthyan lineage does not indicate forgetfulness, schooling obedience, decorative value, edibility, emotional simplicity, or universal water tolerance.

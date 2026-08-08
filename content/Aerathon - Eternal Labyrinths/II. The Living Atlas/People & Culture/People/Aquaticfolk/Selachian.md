@@ -430,6 +430,8 @@ They include many local forms adapted to reef, open sea, cold water, estuary, an
 
 **Ability Score Increase.** Your Strength score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Bite.** You have teeth that you can use to make unarmed strikes.
 
 When you hit with them, the strike deals piercing damage equal to `1d6 + your Strength modifier`.
@@ -444,6 +446,8 @@ Some possess defensive barbs. Others do not.
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Siltcloak.** You can attempt to Hide while lightly obscured by silt, sand, fog, aquatic vegetation, or moving water.
 
 While underwater, you may take the Hide action as a bonus action a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
@@ -455,6 +459,8 @@ Sawfish Selachians possess an elongated rostrum lined with tooth-like structures
 The rostrum is part of the body, not a public tool or weapon to be handled by others.
 
 **Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Rostral Sweep.** Your rostrum is a natural weapon that deals `1d6 + your Strength modifier` slashing damage on a hit.
 

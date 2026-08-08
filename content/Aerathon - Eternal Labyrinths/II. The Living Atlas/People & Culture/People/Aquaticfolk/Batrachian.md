@@ -116,9 +116,17 @@ Names may identify water, route, household, bodily change, or chosen public rela
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type and Size
+### Creature Type
 
-You are a Humanoid, Small or Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your sublineage.
 
 ### Speed
 
@@ -148,21 +156,79 @@ Choose slippery or warning skin. Slippery grants advantage to escape grapples; w
 
 Frog Batrachians are commonly powerful leapers and include river, pond, and ground-dwelling communities.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Springing Evasion.** After you jump at least 10 feet on your turn, opportunity attacks against you are made with disadvantage until the end of that turn.
+
 ### Toad
 
 Toad Batrachians often possess sturdier bodies, burrowing traditions, and stronger tolerance for seasonal dryness.
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Dry-Season Burrower.** You have a burrowing speed of 5 feet through loose earth, sand, or mud while both hands are free. You cannot use this speed through worked stone or solid rock.
 
 ### Tree Frog
 
 Tree Frog Batrachians have adhesive digits, climbing adaptations, and canopy-wetland cultures.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small.
+
+**Adhesive Climber.** You have a climbing speed equal to your walking speed. You can climb difficult surfaces, including ceilings, without making an ability check if the surface is solid and reasonably clean.
+
 ### Dart Frog
 
 Dart Frog communities maintain bright warning traditions and careful law around bodily toxins and unwanted harvesting.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small.
+
+**Warning Secretion.** You know the `poison spray` cantrip, and Constitution is your spellcasting ability for it. If Skin Defense already grants you poison resistance, the cantrip's range increases by 5 feet.
+
 ---
 
-## XI. Playing a Batrachian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Chorus Coordinator
+
+You gain proficiency in Performance. A creature that can hear you can understand the urgency of your calls even when it does not share a language with you.
+
+Proficiency bonus times per long rest, you can take the Help action from up to 10 feet away if the creature you assist can hear you.
+
+### Oria — Icewater Skin
+
+You ignore the effects of extreme cold while wet or submerged. You also have advantage on saving throws made to resist exhaustion caused by cold water.
+
+### Vinyot — Canal Signal
+
+You know the `message` cantrip. Wisdom, Intelligence, or Charisma is your spellcasting ability for it, chosen when you select this imprint.
+
+When both you and the target are touching the same body of water, the spell's range is doubled.
+
+### Arneria — Oasis Rainkeeper
+
+You can cast `create or destroy water` once per long rest without expending a spell slot. Wisdom is your spellcasting ability for it.
+
+You have advantage on Nature checks made to judge the health or contamination of a spring, cistern, or wetland.
+
+### Al'Ar — Storm-Pond Leaper
+
+You have advantage on saving throws made to resist being pushed or knocked prone by wind, waves, or moving water.
+
+When you begin a jump while touching water, increase the maximum distance of that jump by 5 feet, subject to your available movement.
+
+---
+
+## XII. Playing a Batrachian
 
 Consider:
 
@@ -176,7 +242,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Batrachian lineage does not indicate poison, loudness, emotional instability, primitive life, dependence upon a chorus, or consent to skin contact and secretion sampling.

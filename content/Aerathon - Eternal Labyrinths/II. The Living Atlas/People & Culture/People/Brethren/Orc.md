@@ -118,9 +118,17 @@ Names may record household, place, profession, chosen refusal, or a relationship
 
 You are a Humanoid.
 
-### Size and Speed
+### Ability Score Increase
 
-You are Medium. Your walking speed is 30 feet.
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Darkvision
 
@@ -136,23 +144,67 @@ When reduced to 0 hit points but not killed outright, you can drop to 1 hit poin
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Traditions
 
 ### Hearth Orcs
 
 Hearth Orc traditions emphasize neighborhood defense, cultivation, food preservation, and the conversion of former military infrastructure into public life.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Hearth Guard.** When an ally within 5 feet takes damage, you can use your reaction to reduce that damage by your proficiency bonus. You may use this trait a number of times equal to your proficiency bonus per long rest.
+
 ### Road Orcs
 
 Road Orc communities preserve caravan law, mobile craft, animal care, and the right to refuse borders created after their routes.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Long Route.** You gain proficiency in Survival and have advantage on saving throws made to resist exhaustion caused by forced marches.
 
 ### Hold Orcs
 
 Hold Orcs maintain mountain, fortification, and deep-road traditions often shared with Dwarven and Goliath neighbors.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Stonebrace.** You have advantage on ability checks and saving throws made to resist being pushed, pulled, or knocked prone while touching earth or stone.
+
 ---
 
-## XI. Playing an Orc
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Neighborhood Steward
+
+You gain proficiency in Insight or Persuasion. After spending 10 minutes in a settlement, you can identify a nearby public gathering place, mutual-aid point, or source of ordinary food and shelter.
+
+### Oria — Forge-Relief Crew
+
+You gain proficiency with smith's tools or mason's tools. You have advantage on checks made to clear wreckage or safely support a damaged structure.
+
+### Vinyot — Arena Refusal
+
+You gain proficiency in Intimidation or Performance. You have advantage on saving throws against effects that would magically compel you to attack an ally.
+
+### Arneria — Borderless Road
+
+Nonmagical difficult terrain caused by sand, gravel, or brush does not cost you extra movement. You require half as much water during overland travel.
+
+### Al'Ar — Breakwater Runner
+
+You gain a swimming speed of 25 feet. When you use Adrenaline Rush, nonmagical difficult terrain does not cost you extra movement until the end of that turn.
+
+---
+
+## XII. Playing an Orc
 
 Consider:
 
@@ -166,7 +218,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Orcish lineage does not indicate aggression, military training, pain tolerance, criminality, obedience to clan, or willingness to perform dangerous labor.

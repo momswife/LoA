@@ -113,9 +113,17 @@ Names may record household, place, profession, chosen refusal, or a relationship
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type and Size
+### Creature Type
 
-You are a Humanoid, Small or Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your sublineage.
 
 ### Speed
 
@@ -135,23 +143,83 @@ When you fall, use your reaction to reduce the effective distance by a number of
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Sublineages
 
 ### Ape
 
 Ape Primatines are generally broad-framed, tailless, and associated with ground-canopy transition communities and powerful climbing.
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
 ### Monkey
 
 Monkey Primatines display extensive variation, often including tails, compact frames, and traditions of rapid canopy travel.
+
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Prehensile Tail.** You can use your tail to perform simple object interactions, such as opening an unlocked door, retrieving a stowed object, or holding a tool or Tiny object. Your tail cannot wield a weapon or shield, use a magic item, perform somatic spell components, or complete a task that requires fine manual control.
 
 ### Lemur
 
 Lemur Primatines commonly possess large eyes, strong leaping adaptations, and island or nocturnal cultural histories.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small.
+
+**Night-Leaper.** You have darkvision out to 60 feet. You can also make a running long jump or high jump after moving only 5 feet on foot, rather than 10 feet.
+
 ---
 
-## XI. Playing a Primatine
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+A homeland represents upbringing and cultural experience. It does not need to match your birthplace or ancestry.
+
+### Allemance — Rooftop Conservatory
+
+You gain proficiency in Performance or Sleight of Hand.
+
+Moving through the space of a nonhostile creature does not cost you extra movement, and nonmagical crowds do not count as difficult terrain for you.
+
+Allemancian Primatines learn to cross theaters, workshops, and rooftop neighborhoods without treating a crowded city as a flat surface.
+
+### Oria — Winter-Hall Rigger
+
+You ignore the effects of extreme cold. You have advantage on ability checks made to tie, secure, release, or evaluate ropes, knots, harnesses, and suspended platforms.
+
+Oric Primatines maintain enclosed vertical gardens and rope-supported halls where a failed knot can endanger an entire household.
+
+### Vinyot — Harbor Catch
+
+You gain proficiency with water vehicles.
+
+When a creature you can reach begins to fall or would be pulled past you, you can use your reaction to catch it. If its size is no larger than yours, its movement stops; if it is larger, reduce the distance it falls or is pulled by a number of feet equal to five times your proficiency bonus.
+
+Vinyoti Primatines train around cranes, rigging, and busy docks where catching a slipping hand matters more than applause.
+
+### Arneria — Orchard Pathkeeper
+
+You gain proficiency in Nature. You know the `druidcraft` cantrip, and Wisdom is your spellcasting ability for it.
+
+Arnerian Primatines preserve cliff orchards by reading small changes in wind, blossom, soil, and fruit.
+
+### Al'Ar — Living-Bridge Walker
+
+Nonmagical difficult terrain caused by plants does not cost you extra movement. You also have advantage on saving throws made to resist being knocked prone or moved by strong wind.
+
+Al'Ari Primatines grow storm-flexible homes and bridges that survive by bending without becoming directionless.
+
+---
+
+## XII. Playing a Primatine
 
 Consider:
 
@@ -165,7 +233,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Primatine lineage must never be used as an analogy for real-world ethnicity, intelligence, primitiveness, criminality, or civilization. It does not create consent to climbing, entertainment, or physical contact.

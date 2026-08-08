@@ -113,9 +113,21 @@ Names may record household, place, profession, chosen refusal, or a relationship
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid, Medium. Your walking speed is 30 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Keen Smell
 
@@ -135,23 +147,85 @@ Once per long rest when damage would reduce you to 0 hit points, you can drop to
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Sublineages
 
 ### Pig
 
 Pig Porcines display enormous physical and cultural variety and are prominent in agricultural and urban food traditions.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Household Resourcefulness.** You gain proficiency with cook's utensils or brewer's supplies. You also gain proficiency in one of the following skills of your choice: Insight, Investigation, or Nature.
+
 ### Boar
 
 Boar Porcines often possess dense bristles, pronounced tusks, and strong forest or highland traditions.
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Tusks.** Your tusks are natural weapons that deal `1d6 + your Strength modifier` piercing damage on a hit.
 
 ### Warthog
 
 Warthog Porcines are adapted to heat, dry grassland, and exposed routes where shade and water law are central.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Open-Ground Runner.** Your walking speed increases to 35 feet. Nonmagical difficult terrain caused by dry earth, loose soil, or undergrowth does not cost you extra movement.
+
 ---
 
-## XI. Playing a Porcine
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+A homeland represents upbringing and cultural experience. It does not need to match your birthplace or ancestry.
+
+### Allemance — Keeper of the Open Table
+
+During a short rest, you can prepare a restorative meal if you have food and cook's utensils or brewer's supplies. Choose a number of creatures up to your proficiency bonus that spend one or more Hit Dice during the rest. Each chosen creature regains additional hit points equal to your proficiency bonus.
+
+Once you use this trait, you cannot use it again until you finish a long rest.
+
+Allemancian Porcines preserve hospitality as a practice of consent: nourishment is offered, never imposed.
+
+### Oria — Winter Cellarer
+
+You ignore the effects of extreme cold. You also have advantage on Wisdom (Survival) checks made to find, preserve, or safely identify food in cold environments.
+
+Oric Porcines maintain root cellars and winter kitchens that turn careful preparation into communal survival.
+
+### Vinyot — Salvage Appraiser
+
+You gain proficiency in Investigation.
+
+After examining a broken or discarded object for 1 minute, you can determine its original purpose, whether it can be repaired, and the general kind of materials required. You have advantage on checks made to recover usable components from it.
+
+Vinyoti Porcines learn to recognize value in what crowded markets and industries leave behind.
+
+### Arneria — Oasis Provisioner
+
+You gain proficiency in Survival. When you forage successfully, you find twice as much food and water as you normally would.
+
+You also have advantage on Constitution saving throws made to resist exhaustion caused by extreme heat or lack of water.
+
+Arnerian Porcines are trusted keepers of caravan stores and the fragile soils surrounding desert water sources.
+
+### Al'Ar — Ash-Field Cultivator
+
+Nonmagical difficult terrain caused by ash, loose volcanic soil, or storm debris does not cost you extra movement. You also have advantage on checks made to protect food, seed, or other supplies from nonmagical fire, wind, and rain.
+
+Al'Ari Porcines build storm stores and cultivate volcanic ground without mistaking abundance for permanence.
+
+---
+
+## XII. Playing a Porcine
 
 Consider:
 
@@ -165,7 +239,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Porcine lineage does not indicate dirtiness, greed, appetite, brutality, culinary labor, poison immunity, or consent to food-based jokes and comparisons.
@@ -187,4 +261,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Bodily capacity never establishes consent to labor, examination, public access, or inherited obligation.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

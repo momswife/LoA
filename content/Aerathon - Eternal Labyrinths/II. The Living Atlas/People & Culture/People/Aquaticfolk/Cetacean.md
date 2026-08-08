@@ -433,6 +433,8 @@ Player-character Whale Cetaceans are Medium, though their weight and carrying re
 
 **Ability Score Increase.** Your Strength score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 **Deep Resonance.** As an action, choose one creature within 30 feet that can hear you. It must succeed on a Constitution saving throw or be unable to take reactions until the start of your next turn.
@@ -449,6 +451,8 @@ Their reputation for cheerfulness is burdensome to individuals whose communicati
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Guiding Click.** You can take the Help action as a bonus action when aiding a creature within 30 feet that can hear you.
 
 You can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
@@ -460,6 +464,8 @@ Porpoise Cetaceans are typically compact, fast, and adapted to coastal, river-mo
 Many Porpoise communities value concise signaling and rapid correction over elaborate long-distance song.
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Wake-Step.** When a creature you can see misses you with an attack, you can use your reaction to move up to 10 feet without provoking opportunity attacks.
 

@@ -111,9 +111,21 @@ Use the person’s stated name and lineage. Body form does not supply a nickname
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid, Small or Medium. Your walking speed is 30 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your sublineage.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Scaled Hide
 
@@ -133,23 +145,65 @@ Choose one adaptation from your sublineage: Anole Climb, Skink Sprint, Iguana Cr
 
 ### Anole
 
-You gain a climbing speed equal to your walking speed. When you take the Dash action while climbing, difficult surfaces do not cost additional movement that turn.
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Anole Climb.** You gain a climbing speed equal to your walking speed. When you take the Dash action while climbing, difficult surfaces do not cost additional movement that turn.
 
 ### Skink
 
-When you take the Dash action, your walking speed increases by an additional 10 feet until the end of the turn. You may use this feature a number of times equal to your proficiency bonus per long rest.
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small.
+
+**Skink Sprint.** When you take the Dash action, your walking speed increases by an additional 10 feet until the end of the turn. You may use this feature a number of times equal to your proficiency bonus per long rest.
 
 ### Iguana
 
-Gain proficiency in Intimidation or Performance. As a reaction when a creature enters your reach, impose disadvantage on its next opportunity attack before your next turn.
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Iguana Crest.** Gain proficiency in Intimidation or Performance. As a reaction when a creature enters your reach, impose disadvantage on its next opportunity attack before your next turn.
 
 ### Agamid
 
-You have advantage on saving throws against exhaustion caused by heat or forced marches and gain proficiency in Survival.
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Agamid Endurance.** You have advantage on saving throws against exhaustion caused by heat or forced marches and gain proficiency in Survival.
 
 ---
 
-## XI. Playing a Saurian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Garden-Wall Citizen
+
+You gain proficiency in Persuasion or Nature. Nonmagical hedges and cultivated plants do not count as difficult terrain for you.
+
+### Oria — Hearthstone Thermoregulator
+
+You ignore the effects of extreme cold. You may activate Thermoregulation after 10 minutes near a safe fire even when shade or natural warmth is unavailable.
+
+### Vinyot — Platform Display
+
+You gain proficiency in Performance. After making a visible lineage display, you can take the Help action as a bonus action to aid one ally's next Charisma check; you regain this trait after a long rest.
+
+### Arneria — Sunwall Runner
+
+Nonmagical sand and loose gravel do not count as difficult terrain for you. You have advantage on checks made to locate shade or a safe basking surface.
+
+### Al'Ar — Rain-Garden Climber
+
+You gain a climbing speed of 20 feet. You have advantage on checks and saving throws made to retain your grip during heavy rain or strong wind.
+
+---
+
+## XII. Playing a Saurian
 
 Consider:
 
@@ -163,7 +217,7 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Saurian lineage does not indicate emotional coldness, camouflage, regeneration, draconic descent, primitive culture, or consent to display and scale analysis.

@@ -118,9 +118,17 @@ Names may record household, place, profession, chosen refusal, or a relationship
 
 You are a Humanoid.
 
-### Size and Speed
+### Ability Score Increase
 
-You are Small or Medium. Your walking speed is 30 feet.
+Your Charisma score increases by 2.
+
+### Size
+
+Your size is Small or Medium, your choice.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Celestial Resistance
 
@@ -140,23 +148,67 @@ At 3rd level, as a bonus action, manifest spectral wings, inner radiance, or a n
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Sublineages
 
 ### Dawn-Marked
 
 Dawn-Marked Aasimar manifest warmth, gold light, healing resonance, or solar imagery without implying Dawn Court allegiance.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Dawn Mercy.** When you use Healing Hands, you can reroll any healing die that rolls a 1. You must use the new result.
+
 ### Dusk-Marked
 
 Dusk-Marked Aasimar carry funerary, moonlit, or shadowed celestial signs and are often mistaken for fallen members of another lineage.
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Grave Calm.** You have darkvision out to 60 feet and advantage on saving throws made to avoid or end the frightened condition.
 
 ### Choir-Marked
 
 Choir-Marked Aasimar experience celestial inheritance primarily through voice, vibration, dreams, or the sensation of distant harmony.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Resonant Counsel.** You know the `thaumaturgy` cantrip. When you or an ally you can hear within 30 feet fails a saving throw against being charmed or frightened, you can use your reaction to add a d4 to the roll, potentially turning it into a success. You may use this reaction a number of times equal to your proficiency bonus per long rest.
+
 ---
 
-## XI. Playing an Aasimar
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Hearth Halo
+
+You gain proficiency in Persuasion. When you cast `light`, you can make its glow visible only to creatures you choose within its illuminated area.
+
+### Oria — Aurora Witness
+
+You ignore the effects of extreme cold and gain proficiency in Arcana. You have advantage on Arcana checks concerning auroras, celestial weather, and radiant phenomena.
+
+### Vinyot — Spotlight Control
+
+You gain proficiency in Performance. When you activate Celestial Revelation, you decide whether its visual signs are obvious, muted, or visible only to creatures you choose.
+
+### Arneria — Lantern Pilgrim
+
+You gain proficiency in Survival. Bright light you create cannot be extinguished by nonmagical wind, sand, or water.
+
+### Al'Ar — Storm Signal
+
+You gain proficiency with water vehicles. As an action, you can cause your Light Bearer glow to flash a coded signal visible up to 1 mile away in clear conditions.
+
+---
+
+## XII. Playing an Aasimar
 
 Consider:
 
@@ -170,7 +222,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Aasimar lineage does not establish goodness, holiness, prophecy, temple authority, emotional purity, or consent to divine service and public revelation.

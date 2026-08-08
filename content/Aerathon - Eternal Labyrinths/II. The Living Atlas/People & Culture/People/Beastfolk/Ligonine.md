@@ -284,6 +284,10 @@ You are a Humanoid.
 
 Your Constitution score increases by 2.
 
+### Speed
+
+Your walking speed is determined by your sublineage.
+
 ### A Mind Outside the Box
 
 When you make an Intelligence, Wisdom, or Charisma ability check that does not allow a specific skill proficiency, you are considered proficient in that check.
@@ -346,7 +350,11 @@ When you Dash in a straight line, your speed is doubled for that movement.
 
 ---
 
-## XI. Environmental Imprints
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the environment that most strongly shaped your character.
+
+Ligonine homelands are traditionally recorded by vertical environment rather than national border. Your imprint does not need to match your birthplace, current residence, or sublineage.
 
 ### Loamlink — Ligonine Focus
 

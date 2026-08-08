@@ -113,9 +113,17 @@ Names may identify water, route, household, bodily change, or chosen public rela
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type and Size
+### Creature Type
 
-You are a Humanoid, Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Charisma score increases by 2.
+
+### Size
+
+Your size is Medium.
 
 ### Speed
 
@@ -145,21 +153,71 @@ During a short or long rest, you can configure an approved mobility harness or w
 
 Triton Merans maintain martial, diplomatic, and deep-border traditions and often possess strong pressure tolerance.
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Border Training.** You gain proficiency with one martial weapon of your choice and have advantage on saving throws against environmental pressure.
+
 ### Reef-Tailed
 
 Reef-Tailed Merans display extraordinary fin and scale variation and build densely layered coral, kelp, and stone communities.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Reef Weave.** You gain proficiency in Acrobatics. While submerged, you can move through the space of a creature one size larger than you without treating it as difficult terrain.
 
 ### River-Tailed
 
 River-Tailed Merans are adapted to freshwater, seasonal depth, and the politics of channels controlled far upstream.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Channel Reader.** You have advantage on Survival checks made to navigate rivers, canals, and floodplains. Nonmagical currents do not move you unless you choose to be moved.
+
 ### Deep-Tailed
 
 Deep-Tailed Merans possess low-light adaptations and cultures shaped by pressure, silence, and long vertical travel.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Deep Sight.** You have darkvision out to 120 feet. While submerged in darkness, you can determine your depth and the direction of the water's surface.
+
 ---
 
-## XI. Playing a Meran
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — River-Court Envoy
+
+You gain proficiency in Insight or Persuasion. You can communicate simple ideas through formal gesture with any creature that knows at least one language and can see you.
+
+### Oria — Under-Ice Traveler
+
+You have resistance to cold damage and can hold your breath for up to 1 hour if you are unable to breathe normally because your gills are dry or obstructed.
+
+### Vinyot — Harbor Broadcaster
+
+You gain proficiency in Performance. Your voice carries clearly through heavy rain, surf, crowds, and ordinary underwater noise to a distance of 300 feet.
+
+### Arneria — Canal Negotiator
+
+You gain proficiency with water vehicles. You have advantage on checks made to navigate locks, irrigation channels, reservoirs, and other controlled waterways.
+
+### Al'Ar — Open-Sea Harness
+
+Your swimming speed increases by 5 feet. You can configure your Shore Mobility harness during a short rest instead of requiring the full rest to complete.
+
+---
+
+## XII. Playing a Meran
 
 Consider:
 
@@ -173,7 +231,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Meran lineage does not indicate monarchy, beauty, musical talent, romantic availability, ocean citizenship, or consent to being carried and displayed.

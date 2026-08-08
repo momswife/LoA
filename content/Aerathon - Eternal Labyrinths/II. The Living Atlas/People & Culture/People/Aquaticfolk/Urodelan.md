@@ -116,9 +116,17 @@ Names may identify water, route, household, bodily change, or chosen public rela
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type and Size
+### Creature Type
 
-You are a Humanoid, Small or Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your sublineage.
 
 ### Speed
 
@@ -148,21 +156,71 @@ You have advantage on checks and saving throws made to avoid being knocked prone
 
 Salamander Urodelans include woodland, cave, stream, and heat-associated families with highly varied markings.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Sure-Footed Climber.** You have a climbing speed of 20 feet and have advantage on checks made to keep your footing on wet stone, roots, or fallen timber.
+
 ### Newt
 
 Newt peoples often move seasonally between land and water and preserve strong pond-return traditions.
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Seasonal Adaptation.** When you finish a long rest, choose your walking speed or swimming speed. The chosen speed increases by 5 feet until your next long rest.
 
 ### Axolotl
 
 Axolotl peoples commonly retain external gills and other youthful anatomical traits throughout adulthood; these do not indicate immaturity.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Persistent Renewal.** When Restorative Tissue lets you add your proficiency bonus to magical healing, add twice your proficiency bonus instead.
+
 ### Olm
 
 Olm communities inhabit dark cave waters and possess strong nonvisual spatial traditions.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Small.
+
+**Cave Sense.** You have darkvision out to 120 feet. While submerged, you have blindsight out to 10 feet and cannot use that blindsight while deafened.
+
 ---
 
-## XI. Playing an Urodelan
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Recovery Advocate
+
+You gain proficiency in Medicine. When you use the Help action on a creature spending Hit Dice during a short rest, it can reroll one Hit Die and must use the new result.
+
+### Oria — Ice-Spring Endurance
+
+You ignore the effects of extreme cold while wet or submerged. You have advantage on saving throws made to resist exhaustion caused by cold.
+
+### Vinyot — Canal Medic
+
+You gain proficiency with herbalism kits. Moving through a nonhostile creature's space does not cost extra movement when you are approaching a creature that is unconscious or injured.
+
+### Arneria — Oasis Regrowth
+
+You have advantage on Survival checks made to locate water. When you finish a long rest with access to clean water, you regain one additional expended Hit Die.
+
+### Al'Ar — Rain-Cistern Swimmer
+
+Nonmagical rain and heavy surf do not impose disadvantage on your Perception checks. Your swimming speed increases by 5 feet during storms or heavy rainfall.
+
+---
+
+## XII. Playing an Urodelan
 
 Consider:
 
@@ -176,7 +234,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Urodelan lineage does not indicate immortality, painless regrowth, youth, medical availability, laboratory value, or consent to injury and tissue sampling.

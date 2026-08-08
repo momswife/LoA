@@ -342,6 +342,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Many-Handed.** You may draw, stow, or interact with two objects whenever you could ordinarily interact with one.
 
 You have advantage on Dexterity (Sleight of Hand) checks made to manipulate several small objects as part of the same task.
@@ -350,6 +352,8 @@ You have advantage on Dexterity (Sleight of Hand) checks made to manipulate seve
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Jet Escape.** When a creature misses you with an attack while you are underwater, you may use your reaction to move up to half your swimming speed without provoking opportunity attacks.
 
 You can use this trait a number of times equal to your proficiency bonus per long rest.
@@ -357,6 +361,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 ### Cuttlefish
 
 **Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Living Camouflage.** You can attempt to Hide while lightly obscured by natural terrain, water, shadow, or a surface large enough to cover most of your body.
 

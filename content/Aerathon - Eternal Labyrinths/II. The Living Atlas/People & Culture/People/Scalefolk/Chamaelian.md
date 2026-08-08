@@ -127,9 +127,21 @@ Color names may be personal, ironic, ceremonial, inaccessible to ordinary sight,
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid. Choose Small or Medium. Your walking speed is 30 feet, and you have a climbing speed of 20 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your tradition.
+
+### Speed
+
+Your walking speed is 30 feet, and you have a climbing speed of 20 feet.
 
 ### Panoramic Sight
 
@@ -151,17 +163,61 @@ You have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks mad
 
 Forest traditions use layered greens, branch routes, rain timing, and color speech suited to changing canopy light.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Canopy Veil.** You gain proficiency in Nature and can attempt to hide when lightly obscured by leaves, vines, or other natural foliage.
+
 ### Horned Chamaelians
 
 Horned peoples cultivate crests and horns through personal decoration, challenge display, lineage history, and ceremonial art.
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Crest and Horn.** Your horns are natural weapons dealing `1d6 + your Strength modifier` bludgeoning damage. You may use Strength instead of Charisma for Performance checks involving a physical display.
 
 ### Garden Chamaelians
 
 Garden communities are strongly urban, using built plantings, mirror law, controlled light, and public color performances.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Public Color.** You gain proficiency in Performance and know the `prestidigitation` cantrip. Charisma is your spellcasting ability for it.
+
 ---
 
-## XI. Playing a Chamaelian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Courtyard Colorist
+
+You gain proficiency in Insight. After observing a willing creature for 1 minute, you can establish a simple private color signal the two of you recognize for the next 24 hours.
+
+### Oria — Frost-Pattern Watcher
+
+You ignore the effects of extreme cold. Color Veil can match snow, ice, and bare stone even when your natural coloration normally favors warmer terrain.
+
+### Vinyot — Living Marquee
+
+You gain proficiency in Persuasion or Performance. When you use Color Veil, you may create an eye-catching pattern instead of camouflage, gaining advantage on your next check with the chosen skill before the end of the turn.
+
+### Arneria — Shade Turner
+
+You ignore the effects of extreme heat. After remaining still for 1 minute, you can identify the coolest visible route or shaded location within 300 feet.
+
+### Al'Ar — Rain-Branch Grip
+
+You have advantage on saving throws made to resist being moved by wind. Rain and ordinary wetness do not interfere with Prehensile Balance or your climbing speed.
+
+---
+
+## XII. Playing a Chamaelian
 
 Consider:
 
@@ -176,7 +232,7 @@ Color language offers expression and misunderstanding, not emotional transparenc
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Chamaelian lineage does not indicate deceit, shyness, surveillance skill, emotional legibility, perfect camouflage, or consent to color recording and analysis.

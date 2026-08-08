@@ -121,9 +121,21 @@ Titles may identify ring, substrate, vocation, fruiting season, or a memory inte
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Plant. Choose Small or Medium. Your walking speed is 30 feet.
+You are a Plant.
+
+### Ability Score Increase
+
+Your Wisdom score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your growth tradition.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Darkvision
 
@@ -149,17 +161,61 @@ Gain proficiency in Medicine, Nature, or Survival.
 
 Ring communities form temporary or lasting networks for memory, sensation, governance, and care under explicit connection law.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Network Chorus.** Once per long rest when you use Spore Speech, you can connect a number of willing creatures up to your proficiency bonus instead of one. Every participant can communicate with every other connected participant while within 30 feet of you.
+
 ### Wander-Caps
 
 Wander-Caps maintain highly mobile bodies and carry small home substrates rather than remaining joined to a permanent bed.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Wandering Fruition.** Your walking speed increases to 35 feet. Nonmagical fungal growth, leaf litter, and soft decaying matter do not count as difficult terrain for you.
 
 ### Lichen-Kin
 
 Lichen-Kin arise through stable symbiosis and often use plural bodily language without implying more than one legal person.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Lichen Hold.** You gain a climbing speed of 20 feet on natural stone and wood. You have advantage on saving throws made to resist exhaustion caused by extreme heat or cold.
+
 ---
 
-## XI. Playing a Mycelial
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Cellar Commons
+
+You gain proficiency in Insight. When you use Spore Speech with a willing creature during a short rest, either participant can add a d4 to one Insight check concerning the other before the next long rest.
+
+### Oria — Frost-Fruiting Colony
+
+You ignore the effects of extreme cold. You have advantage on Nature checks made to identify fungi, lichen, or decay beneath snow and ice.
+
+### Vinyot — Understreet Network
+
+You gain proficiency in Investigation. After touching a wall or street for 1 minute, you can determine whether a cellar, drain, or other hollow space lies within 30 feet below it.
+
+### Arneria — Oasis Decomposer
+
+You gain proficiency in Survival. You have advantage on checks made to turn spoiled organic material into safe soil or identify whether decay has contaminated nearby water.
+
+### Al'Ar — Stormlog Colony
+
+You gain a swimming speed of 20 feet and can hold your breath for up to 1 hour. Heavy rain does not disperse Spore Speech unless you choose to end it.
+
+---
+
+## XII. Playing a Mycelial
 
 Consider:
 
@@ -174,7 +230,7 @@ Connection can create intimacy. It does not eliminate secrets, disagreement, or 
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Mycelial lineage does not indicate hive-mindedness, contagion, necromancy, emotional transparency, willingness to connect, or consent to collect spores.

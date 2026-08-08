@@ -127,9 +127,21 @@ Titles may describe route, orientation, night work, eye care, or household ledge
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid. Choose Small or Medium. Your walking speed is 30 feet, and you have a climbing speed equal to your walking speed.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your tradition.
+
+### Speed
+
+Your walking speed is 30 feet, and you have a climbing speed equal to your walking speed.
 
 ### Adhesive Grip
 
@@ -151,17 +163,61 @@ When you become grappled or restrained by a creature, you may use your reaction 
 
 Night-Eye communities include Leopard, House, Cave, and other Gekkonians whose lives emphasize darkness, vibration, and low-light color.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Deep Night Eyes.** Your darkvision increases to 120 feet. You have advantage on Perception checks made to detect movement in dim light or darkness.
+
 ### Day-Jewel
 
 Day-Jewel Gekkonians include brightly colored island and forest peoples with active daytime markets, visual display, and sun-safe architecture.
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Jewel Display.** You gain proficiency in Performance or Persuasion and know the `prestidigitation` cantrip. Charisma is your spellcasting ability for it.
 
 ### Sand-Toe
 
 Sand-Toe communities use fringed digits, cool burrows, and carefully timed movement in desert regions where ordinary adhesion is unreliable.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Small.
+
+**Sand-Toe Passage.** Nonmagical sand does not count as difficult terrain for you, and you ignore the effects of extreme heat. Your Adhesive Grip works normally on dry, sandy stone.
+
 ---
 
-## XI. Playing a Gekkonian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Eaves and Courtyards
+
+You gain proficiency in Investigation. After observing a building's exterior for 1 minute, you can identify an ordinary route to its roof or upper floor if one is visible and publicly accessible.
+
+### Oria — Icewall Pads
+
+You ignore the effects of extreme cold. Your Adhesive Grip works normally on stable nonmagical ice.
+
+### Vinyot — Signboard Runner
+
+You gain proficiency in Performance. Moving across signs, awnings, scaffolds, and other urban climbing surfaces does not draw more attention than walking at street level unless you choose otherwise.
+
+### Arneria — Cool-Stone Sleeper
+
+You gain proficiency in Survival. After touching stone for 1 minute, you can determine whether a cooler sheltered space lies within 100 feet on the other side or below it.
+
+### Al'Ar — Rainwall Climber
+
+Rain and ordinary wetness do not interfere with Adhesive Grip. You have advantage on saving throws made to resist being moved by wind while climbing.
+
+---
+
+## XII. Playing a Gekkonian
 
 Consider:
 
@@ -176,7 +232,7 @@ Vertical movement offers perspective and access, not universal agility or emotio
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Gekkonian lineage does not indicate burglary, voyeurism, nocturnal secrecy, wall access to private space, regenerative immunity, or consent to pad, eye, and tail examination.

@@ -330,6 +330,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Meadow Reader.** You have advantage on Nature and Survival checks concerning aquatic plants and shallow-water ecosystems.
 
 You know the `druidcraft` cantrip.
@@ -337,6 +339,8 @@ You know the `druidcraft` cantrip.
 ### Loggerhead
 
 **Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Powerful Jaw.** Your beak is a natural weapon that deals `1d6 + your Strength modifier` slashing damage.
 
@@ -346,11 +350,15 @@ When you hit an object with it, you deal double damage.
 
 **Ability Score Increase.** Your Constitution score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Cold Route.** You have resistance to cold damage and ignore the effects of extreme cold while immersed in water.
 
 ### Hawksbill
 
 **Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Reef Passage.** Moving through nonmagical difficult terrain caused by coral, rock, wreckage, or aquatic vegetation costs you no extra movement.
 

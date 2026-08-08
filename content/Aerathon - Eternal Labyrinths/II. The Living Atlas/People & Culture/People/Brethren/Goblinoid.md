@@ -118,6 +118,18 @@ Names may record household, place, profession, chosen refusal, or a relationship
 
 You are a Humanoid with Fey ancestry.
 
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is determined by your sublineage.
+
+### Speed
+
+Your walking speed is 30 feet.
+
 ### Darkvision
 
 You have darkvision out to 60 feet.
@@ -132,23 +144,65 @@ Choose Goblin, Hobgoblin, or Bugbear from the recognized sublineages below. Your
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Sublineages
 
 ### Goblin
 
-You are Small and have a walking speed of 30 feet. **Nimble Escape:** you can take the Disengage or Hide action as a bonus action. **Fury of the Small:** proficiency bonus times per long rest, deal extra damage equal to your proficiency bonus to a creature larger than you.
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small.
+
+**Nimble Escape.** You can take the Disengage or Hide action as a bonus action.
+
+**Fury of the Small.** When you damage a creature larger than you, you can deal extra damage equal to your proficiency bonus. You may use this trait a number of times equal to your proficiency bonus per long rest.
 
 ### Hobgoblin
 
-You are Medium and have a walking speed of 30 feet. **Fey Gift:** proficiency bonus times per long rest, take the Help action as a bonus action; from 3rd level, the assisted creature also gains temporary hit points equal to your proficiency bonus.
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Fey Gift.** You can take the Help action as a bonus action a number of times equal to your proficiency bonus per long rest. From 3rd level, the assisted creature also gains temporary hit points equal to your proficiency bonus.
 
 ### Bugbear
 
-You are Medium and have a walking speed of 30 feet. **Long-Limbed:** your reach is 5 feet greater when you make a melee attack on your turn. **Quiet Giant:** gain proficiency in Stealth.
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Long-Limbed.** Your reach is 5 feet greater when you make a melee attack on your turn.
+
+**Quiet Giant.** You gain proficiency in Stealth.
 
 ---
 
-## XI. Playing a Goblinoid
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Three-Doors Neighbor
+
+You gain proficiency in Persuasion. When you take the Help action to assist an ally with a Charisma check, it may add your proficiency bonus even if it is already proficient.
+
+### Oria — Workshop Watch
+
+You gain proficiency in Investigation. You have advantage on checks made to notice unsafe machinery, improvised traps, or concealed maintenance passages.
+
+### Vinyot — Crowdline Operator
+
+You gain proficiency in Deception or Performance. Nonmagical crowds do not count as difficult terrain for you.
+
+### Arneria — Caravan Door
+
+You gain proficiency in Survival. You and willing allies can move through one another's spaces without treating them as difficult terrain while traveling overland.
+
+### Al'Ar — Rigging Cohort
+
+You gain proficiency with water vehicles and a climbing speed of 20 feet while climbing ropes, nets, ladders, or ship rigging.
+
+---
+
+## XII. Playing a Goblinoid
 
 Consider:
 
@@ -162,7 +216,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Goblinoid lineage does not indicate criminality, savagery, military rank, scavenging, dirtiness, expendability, or allegiance to a conquering power.

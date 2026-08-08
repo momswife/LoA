@@ -127,9 +127,21 @@ A person may use different names in different forms. Ask what may be repeated an
 > [!warning] DM Approval Required  
 > Mutable form can strongly affect intrigue, identity, and safety themes. Establish transformation limits, impersonation consent, and recognition procedures before play.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Fey. Choose Small or Medium whenever you complete a long rest; your statistics do not otherwise change. Your walking speed is 30 feet.
+You are a Fey.
+
+### Ability Score Increase
+
+Your Charisma score increases by 2.
+
+### Size
+
+Choose Small or Medium whenever you complete a long rest; your statistics do not otherwise change.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Mutable Form
 
@@ -151,17 +163,61 @@ You have advantage on saving throws against effects that would magically alter y
 
 Hearth-face Changelings maintain one or more forms associated with safety, kinship, rest, or private community life.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** You can be Small or Medium as described by Mutable Form.
+
+**Familiar Presence.** You gain proficiency in Insight. After you finish a long rest with a willing creature, you and that creature have advantage on checks made to recognize one another through mundane disguises or changes of form until either of you finishes a long rest without the other.
+
 ### Open Masks
 
 Open-mask traditions treat visible transformation as art, rhetoric, gender practice, or ordinary dress.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** You can be Small or Medium as described by Mutable Form.
+
+**Fluid Performer.** You gain proficiency in Performance. You can use Mutable Form as a bonus action a number of times equal to your proficiency bonus per long rest.
 
 ### Unmarked Houses
 
 Unmarked Houses minimize transformation records and teach survival under hostile identity law.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** You can be Small or Medium as described by Mutable Form.
+
+**Unrecorded Step.** You gain proficiency in Stealth. Creatures have disadvantage on checks made to identify or track you solely from a secondhand description of a form you are no longer using.
+
 ---
 
-## XI. Playing a Changeling
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Salon of Many Faces
+
+You gain proficiency in History or Persuasion. After observing a formal gathering for 10 minutes, you can identify its expected forms of address and the person presently treated as its host.
+
+### Oria — Winter Mask
+
+You ignore the effects of extreme cold. Mutable Form can alter the apparent texture and seasonal coloration of your body, though it still does not change your clothing or equipment.
+
+### Vinyot — Contracted Likeness
+
+You gain proficiency in Insight. You have advantage on checks made to recognize magical image alteration, concealed identity clauses, or unauthorized use of a person's likeness.
+
+### Arneria — Veil-Market Adept
+
+You gain proficiency with disguise kits. When using a disguise kit on another willing creature, you can apply or remove the disguise in half the normal time.
+
+### Al'Ar — Crew Face
+
+You gain proficiency with water vehicles. A willing creature that has seen at least two of your forms can recognize you by voice and movement even when it cannot clearly see your face.
+
+---
+
+## XII. Playing a Changeling
 
 Consider:
 
@@ -177,7 +233,7 @@ Mutable form expands expression. It does not make every relationship a lie.
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] DM Approval Required  
 > Agree upon impersonation boundaries, disclosure themes, involuntary transformation, identity documents, and whether copies of player characters may appear.

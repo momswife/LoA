@@ -339,6 +339,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Freshwater Ease.** You have advantage on Wisdom (Survival) checks made in rivers, estuaries, springs, and wetlands.
 
 When you regain hit points by spending Hit Dice during a short rest while immersed in clean fresh water, add your Wisdom modifier to one die.
@@ -346,6 +348,8 @@ When you regain hit points by spending Hit Dice during a short rest while immers
 ### Dugong
 
 **Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Seagrass Route.** You always know the direction of the nearest natural coast or healthy aquatic plant bed within 5 miles, provided one exists.
 

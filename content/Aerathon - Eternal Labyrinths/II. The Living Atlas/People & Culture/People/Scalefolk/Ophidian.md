@@ -116,7 +116,15 @@ Use the person’s stated name and lineage. Body form does not supply a nickname
 
 ### Creature Type and Size
 
-You are a Humanoid, Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Medium.
 
 ### Speed
 
@@ -140,23 +148,65 @@ Choose one feature from your sublineage below.
 
 ### Viper
 
-You possess venom. Once per long rest after hitting with a bite, deal an additional 1d6 poison damage and the target must save against poison using DC 8 + proficiency bonus + Constitution modifier.
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Venomous Bite.** Once per long rest after hitting with a bite, deal an additional `1d6` poison damage and the target must save against poison using DC 8 + your proficiency bonus + your Constitution modifier.
 
 ### Cobra
 
-As a bonus action proficiency bonus times per long rest, flare your hood; one creature within 10 feet has disadvantage on its next attack against you before your next turn.
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Hood Display.** As a bonus action, flare your hood; one creature within 10 feet has disadvantage on its next attack against you before your next turn. You may use this trait a number of times equal to your proficiency bonus per long rest.
 
 ### Boa or Python
 
-You count as one size larger for grappling and carrying capacity.
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Constricting Build.** You count as one size larger for grappling and carrying capacity.
 
 ### Colubrid
 
-Your walking speed increases by 5 feet, and you can move through the space of a creature one size larger than you without treating it as difficult terrain.
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Quick Coil.** Your walking speed increases by 5 feet, and you can move through the space of a creature one size larger than you without treating it as difficult terrain.
 
 ---
 
-## XI. Playing a Ophidian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Hearth-Coil Etiquette
+
+You gain proficiency in Insight. A willing creature sharing your space does not impede your movement while you use Coiling Grip on an object or environmental anchor rather than a creature.
+
+### Oria — Frost-Den Keeper
+
+You ignore the effects of extreme cold and have advantage on Survival checks made to locate shelter underground or inside stone structures.
+
+### Vinyot — Crowd-Scent Reader
+
+You gain proficiency in Investigation. Chemical Sense can distinguish a familiar creature's trail from a nonmagical crowd if the trail is no more than 1 hour old.
+
+### Arneria — Sandline Traveler
+
+Nonmagical difficult terrain caused by sand does not cost you extra movement. You have advantage on saving throws made to resist exhaustion caused by extreme heat.
+
+### Al'Ar — Rigging Coil
+
+You gain proficiency with water vehicles. Coiling Grip grants you advantage on checks and saving throws made to keep hold of ropes, rigging, and rails during storms.
+
+---
+
+## XII. Playing an Ophidian
 
 Consider:
 
@@ -170,7 +220,7 @@ Lineage creates embodied circumstances, not assigned temperament or destiny.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Ophidian lineage does not indicate deception, venom, seduction, cult allegiance, Gorgon ancestry, emotional coldness, or consent to restraint and venom extraction.

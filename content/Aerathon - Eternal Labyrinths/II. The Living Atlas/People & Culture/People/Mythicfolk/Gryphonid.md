@@ -127,9 +127,21 @@ Terms such as mount, beast, pet, royal stock, or treasure animal are degrading. 
 > [!warning] DM Approval Required  
 > Flight and composite body shape strongly affect maps, hazards, equipment, rescue, and encounter balance. Establish the campaign’s flight progression before play.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Monstrosity, Medium. Your walking speed is 30 feet.
+You are a Monstrosity.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Keen Sight
 
@@ -155,17 +167,61 @@ At 1st level, you may glide: when falling, use your reaction to move 2 feet hori
 
 Crown traditions descend from palace and gate communities and lead many efforts to end inherited service compacts.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Chosen Guardian.** When a creature within 5 feet of you is hit by an attack, you can use your reaction to grant it a +2 bonus to AC against that attack, potentially causing it to miss. You may use this trait a number of times equal to your proficiency bonus per long rest.
+
 ### Storm Gryphonids
 
 Storm eyries cultivate powerful-weather flight, sea-cliff rescue, and kinship with modern Avianfolk [[Modern Stormriders|Stormriders]].
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Stormwise.** You have resistance to thunder damage and advantage on saving throws made to resist being moved by wind.
 
 ### Dust Gryphonids
 
 Dust Gryphonids inhabit mesas, desert ruins, and warm thermals, maintaining wide territories through refuge rather than ownership.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Thermal Reader.** You gain proficiency in Survival. You ignore the effects of extreme heat and can identify the direction of the strongest natural rising air within 300 feet.
+
 ---
 
-## XI. Playing a Gryphonid
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Gatehouse Citizen
+
+You gain proficiency in Insight or Persuasion. After observing an entrance for 1 minute, you can identify its ordinary traffic pattern and any visible accessibility problem for a winged or quadrupedal body.
+
+### Oria — Aurora Eyrie
+
+You ignore the effects of extreme cold. Snow and ice do not prevent you from using Wings to glide, though magical weather can still do so.
+
+### Vinyot — Skyline Rescue
+
+You gain proficiency in Acrobatics. When using Wings to glide, you can carry a willing creature of your size or smaller, but both of you descend 2 feet for every 1 foot moved horizontally.
+
+### Arneria — Mesa Refuge
+
+You gain proficiency in Survival. You have advantage on checks made to find shelter from heat, sand, or aerial observation.
+
+### Al'Ar — Sea-Cliff Stormrider
+
+You gain proficiency with water vehicles. When falling over water, Wings reduce your effective falling distance by an additional 10 feet.
+
+---
+
+## XII. Playing a Gryphonid
 
 Consider:
 
@@ -181,7 +237,7 @@ Composite form creates no split loyalty, and wings create no duty to fly.
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] DM Approval Required  
 > Review flight level, carrying creatures, armor, squeezing, ladders, wing injury, and maps that assume Humanoid anatomy.

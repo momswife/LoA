@@ -336,6 +336,8 @@ Once you use this trait, you cannot use it again until you finish a long rest.
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Slip Through.** When you take the Disengage action, you may move through the space of any creature one size larger than you as though it were difficult terrain.
 
 You may take the Disengage action as a bonus action a number of times equal to your proficiency bonus per long rest.
@@ -344,6 +346,8 @@ You may take the Disengage action as a bonus action a number of times equal to y
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Carrying Bark.** When a creature within 30 feet that can hear you fails a saving throw, you may use your reaction to add `1d4` to its result, potentially turning failure into success.
 
 You can use this trait a number of times equal to your proficiency bonus per long rest.
@@ -351,6 +355,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 ### Walrus
 
 **Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 

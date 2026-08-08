@@ -127,9 +127,21 @@ Medusa may be honored, rejected, or used personally. Never assign it to an indiv
 > [!warning] DM Approval Required  
 > Petrification is a severe control effect. This player package uses temporary stiffness rather than permanent petrification; stronger gaze effects should remain story abilities under explicit table agreement.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Monstrosity, Medium. Your walking speed is 30 feet.
+You are a Monstrosity.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Darkvision
 
@@ -157,17 +169,61 @@ You have advantage on saving throws against gaze effects and magic that requires
 
 Veiled Houses use lenses, fabric, jewelry, posture, and etiquette as chosen gaze language rather than signs of shame.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Veil Reader.** You gain proficiency in Insight. Wearing a veil or tinted lenses does not impose disadvantage on your sight-based Perception checks in ordinary light.
+
 ### Temple Crowns
 
 Temple-descended Gorgonites preserve guardian, oracle, sculpture, and curse-breaking traditions while debating inherited service.
+
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Stone Lore.** You gain proficiency in History. When examining worked stone, you can determine its approximate age, the kind of tools used to shape it, and whether it has been altered by petrification magic.
 
 ### Unveiled Circles
 
 Unveiled Circles emphasize public visibility, gaze-control education, and the refusal to make safety indistinguishable from disappearance.
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Public Composure.** You gain proficiency in Intimidation or Persuasion and have advantage on saving throws against being frightened by a creature you can see.
+
 ---
 
-## XI. Playing a Gorgonite
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Courtyard Lenswork
+
+You gain proficiency with jeweler's tools. During a long rest, you can create or repair a simple nonmagical veil, lens, or mirror for yourself or another creature.
+
+### Oria — Aurora Stone
+
+You ignore the effects of extreme cold. You have advantage on checks made to identify how light, ice, or crystal will reflect a visible gaze or beam.
+
+### Vinyot — Camera-Safe Gaze
+
+You gain proficiency in Performance. Your Stone Glance cannot be transmitted through an ordinary recording, broadcast, or nonmagical image unless you explicitly permit it when the image is made.
+
+### Arneria — Mirror-Market Etiquette
+
+You gain proficiency in Insight. You can accurately determine the direction from which a visible reflection originates, even in a crowded field of mirrors.
+
+### Al'Ar — Saltglass Guardian
+
+You gain proficiency with glassblower's tools. You have advantage on saving throws against being blinded by bright light, spray, or reflected glare.
+
+---
+
+## XII. Playing a Gorgonite
 
 Consider:
 
@@ -183,7 +239,7 @@ Fear and control are parts of a Gorgonite story only if the player wants them to
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] DM Approval Required  
 > Establish gaze safety, mirrors, accidental effects, friendly targets, petrification recovery, body-horror limits, and whether stronger story petrification exists.

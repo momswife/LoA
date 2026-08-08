@@ -114,9 +114,21 @@ Names may record household, place, profession, chosen refusal, or a relationship
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid, Small or Medium. Your walking speed is 30 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Small or Medium, your choice.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Elemental Heritage
 
@@ -128,27 +140,69 @@ You have advantage on Intelligence (Arcana) checks made to identify portals or e
 
 ---
 
-## X. Recognized Sublineages and Traditions
+## X. Recognized Sublineages
 
 ### Airborn
 
-You have resistance to lightning damage, know the _gust_ cantrip, and can hold your breath indefinitely while conscious.
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Elemental Gifts.** You have resistance to lightning damage, know the _gust_ cantrip, and can hold your breath indefinitely while conscious.
 
 ### Earthborn
 
-You have resistance to acid damage, know the _mold earth_ cantrip, and ignore nonmagical difficult terrain made of earth or stone.
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Elemental Gifts.** You have resistance to acid damage, know the _mold earth_ cantrip, and ignore nonmagical difficult terrain made of earth or stone.
 
 ### Fireborn
 
-You have resistance to fire damage and know the _produce flame_ cantrip.
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Elemental Gifts.** You have resistance to fire damage and know the _produce flame_ cantrip.
 
 ### Waterborn
 
-You have resistance to cold damage, know the _shape water_ cantrip, and gain a swimming speed equal to your walking speed.
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Elemental Gifts.** You have resistance to cold damage, know the _shape water_ cantrip, and gain a swimming speed equal to your walking speed.
 
 ---
 
-## XI. Playing an Elementborn
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Civic Channel
+
+You gain proficiency with one artisan's tool of your choice and know the `mending` cantrip. Your chosen Elementborn spellcasting ability also applies to `mending`.
+
+### Oria — Thermal Balance
+
+You have advantage on Constitution saving throws made to resist exhaustion caused by extreme heat or cold. After 10 minutes in an extreme environment, you can accurately judge whether it is becoming more or less dangerous.
+
+### Vinyot — Showpiece Control
+
+You gain proficiency in Arcana or Performance. You can suppress harmless visible signs of your elemental heritage or intensify them enough to provide dim light within 5 feet.
+
+### Arneria — Caravan Vessel
+
+You gain proficiency in Survival. You can safely carry drinking water or maintain a small cooking flame without special equipment, regardless of your chosen element.
+
+### Al'Ar — Storm Accord
+
+You gain proficiency with water vehicles. You have advantage on saving throws made to resist being pushed or knocked prone by wind, waves, or moving water.
+
+---
+
+## XII. Playing an Elementborn
 
 Consider:
 
@@ -162,7 +216,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Elemental inheritance does not determine personality, profession, alignment, spellcasting ability, or consent to hazardous environmental work.

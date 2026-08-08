@@ -126,9 +126,21 @@ Tree names may be personal, familial, biological, occupational, or none of these
 > [!warning] Playtest Mechanics  
 > These traits represent a mobile Arboreal suitable for player characters and require DM approval until testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Plant, Medium. Your walking speed is 30 feet.
+You are a Plant.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Barkskin
 
@@ -150,17 +162,61 @@ As a bonus action, you extend flexible branches. Until the end of your turn, you
 
 Canopy traditions emphasize wide crowns, aerial gardens, shade law, and relationships with Avianfolk and climbing peoples.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Canopy Reach.** You gain a climbing speed of 20 feet. Branching Reach also grants advantage on the next Wisdom (Perception) check you make before the end of the turn.
+
 ### Ironwood Arboreals
 
 Ironwoods cultivate dense bodies, firebreak knowledge, and deliberate long-term construction.
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Ironwood Frame.** You count as one size larger when determining carrying capacity and the weight you can push, drag, or lift. When you take fire damage, you can use your reaction to gain resistance to that instance of damage; you may do so a number of times equal to your proficiency bonus per long rest.
 
 ### Mangrove Arboreals
 
 Mangrove communities live across water and land, forming mobile-root settlements whose boundaries change with tide and storm.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Mangrove Root.** You gain a swimming speed equal to your walking speed and can hold your breath for up to 1 hour. Mud and shallow water do not count as difficult terrain for you.
+
 ---
 
-## XI. Playing an Arboreal
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Public Canopy
+
+You gain proficiency in Persuasion. During a short rest, a number of willing creatures equal to your proficiency bonus can shelter against ordinary sun and rain beneath or beside you.
+
+### Oria — Frost-Ring Memory
+
+You have resistance to cold damage. After examining natural wood for 1 minute, you can determine whether it grew through an unusually severe winter or fire.
+
+### Vinyot — Rooted Infrastructure
+
+You gain proficiency in Investigation. You have advantage on checks made to assess whether roots, foundations, pipes, and other buried structures are damaging one another.
+
+### Arneria — Oasis Grove
+
+You ignore the effects of extreme heat and gain proficiency in Survival. After touching natural earth for 1 minute, you know whether drinkable water lies within 300 feet below you.
+
+### Al'Ar — Stormroot
+
+You have advantage on saving throws made to resist being moved or knocked prone by wind and waves. Heavy rain counts as access to water for Rooted Rest.
+
+---
+
+## XII. Playing an Arboreal
 
 Consider:
 
@@ -175,7 +231,7 @@ Long life or tree form does not require serenity, wisdom, or ecological vocation
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Arboreal lineage does not indicate land ownership, public access, ancient knowledge, druidic allegiance, immobility, or compulsory environmental service.

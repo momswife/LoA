@@ -113,9 +113,17 @@ Names may identify water, route, household, bodily change, or chosen public rela
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type and Size
+### Creature Type
 
-You are a Humanoid, Small or Medium.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your sublineage.
 
 ### Speed
 
@@ -145,21 +153,73 @@ You have advantage on checks and saves against being moved while touching a stab
 
 Crab peoples excel in lateral movement, burrow and reef architecture, and intertidal communities.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Sideways Escape.** You can take the Disengage action as a bonus action. You may use this trait a number of times equal to your proficiency bonus per long rest.
+
 ### Lobster
 
 Lobster peoples are often cold-water adapted and maintain long-lived deep-shelter and mineral traditions.
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Coldwater Carapace.** You have resistance to cold damage and ignore the effects of extreme cold while submerged.
 
 ### Mantis Shrimp
 
 Mantis Shrimp peoples possess extraordinary color perception and rapid striking appendages requiring disciplined care.
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Spectrum Sight.** You have advantage on checks and saving throws made to recognize visual illusions, magical disguises, or deliberately altered coloration.
+
+**Hammer Strike.** When you hit with Grasping Claw, you can deal additional bludgeoning damage equal to your proficiency bonus. You may do so a number of times equal to your proficiency bonus per long rest.
+
 ### Cleaner Shrimp
 
 Cleaner Shrimp communities are associated with medicine and mutual care but reject assumptions of compulsory healing service.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Small.
+
+**Practiced Care.** You gain proficiency in Medicine. When you successfully stabilize a dying creature, you can cause it to regain 1 hit point. Once you restore hit points this way, you cannot do so again until you finish a long rest.
+
 ---
 
-## XI. Playing a Crustacean
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Breakwater Mason
+
+You gain proficiency with mason's tools. You have advantage on checks made to assess or repair walls, docks, levees, and other structures regularly exposed to water.
+
+### Oria — Frost-Shell Keeper
+
+You ignore the effects of extreme cold. During a short rest, you can safely preserve one day's rations for a number of creatures equal to your proficiency bonus without special equipment.
+
+### Vinyot — Dockside Exchange
+
+You gain proficiency in Insight. After observing a market, port, or work crew for 10 minutes, you can identify who appears to coordinate its informal exchange of goods and favors.
+
+### Arneria — Oasis Burrower
+
+Nonmagical difficult terrain caused by sand, salt, or mud does not cost you extra movement. You have advantage on Survival checks made to locate water in arid terrain.
+
+### Al'Ar — Reef Brace
+
+Your swimming speed increases by 5 feet. When you would be moved by wind, waves, or currents, you can use your reaction to reduce that forced movement by 10 feet.
+
+---
+
+## XII. Playing a Crustacean
 
 Consider:
 
@@ -173,7 +233,7 @@ A character may embrace, reinterpret, or reject every tradition described above.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Crustacean lineage does not indicate emotional hardness, combat ability, food status, replaceable limbs, public ownership of shed shell, or consent to molt observation.
@@ -195,4 +255,3 @@ A character may embrace, reinterpret, or reject every tradition described above.
 — Environmental adaptation never establishes consent to hazardous exposure, bodily sampling, salvage, or compulsory access work.
 
 **——— ⭕ END OF FILE ⭕ ———**
-

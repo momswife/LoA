@@ -127,9 +127,21 @@ Names referring to age, shell, speed, or stillness may be chosen, ironic, ceremo
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid, Medium. Your walking speed is 30 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Integrated Shell
 
@@ -155,17 +167,61 @@ Gain proficiency in History or Nature.
 
 Dryland communities maintain water law, heat routes, burrow courtyards, and seasonal economies across arid regions.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Dryland Reserve.** You ignore the effects of extreme heat and require half as much water as normal.
+
 ### Forest Chelonians
 
 Forest peoples preserve low-route agriculture, leaf-litter craft, orchard settlements, and rain calendars.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Underbrush Path.** Nonmagical difficult terrain caused by plants does not cost you extra movement. You gain proficiency in Nature.
 
 ### Giant Chelonians
 
 Giant Tortoise communities are associated with island histories, long civic memory, and body-scale access distinct from combat strength.
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
 ---
 
-## XI. Playing a Chelonian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Long-Table Citizen
+
+You gain proficiency in Persuasion. If a conversation lasts at least 10 minutes, you can add your Wisdom modifier to one Persuasion check made during it.
+
+### Oria — Snow-Shell Traveler
+
+You ignore the effects of extreme cold. You have advantage on ability checks and saving throws made to keep your footing on ice.
+
+### Vinyot — Crowd Shelter Protocol
+
+You gain proficiency in Insight. A willing creature of your size or smaller can treat you as half cover while within 5 feet of you and while you are not incapacitated.
+
+### Arneria — Cistern Witness
+
+You gain proficiency in Survival. After examining a cistern, well, or reservoir for 1 minute, you can determine whether its water level changed significantly within the last 24 hours.
+
+### Al'Ar — Tide-Shell
+
+You gain a swimming speed of 25 feet and can hold your breath for up to 30 minutes.
+
+---
+
+## XII. Playing a Chelonian
 
 Consider:
 
@@ -180,7 +236,7 @@ A shell offers protection and embodiment, not a personality built from patience.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Chelonian lineage does not indicate slowness of thought, wisdom, passivity, great age, public shelter, aquatic identity, or consent to shell contact and decoration.

@@ -394,6 +394,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Lurelight.** As a bonus action, choose one creature within 30 feet that can see your Living Lantern.
 
 It must succeed on a Wisdom saving throw or have disadvantage on Wisdom (Perception) checks made to perceive creatures other than you until the start of your next turn.
@@ -406,6 +408,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 **Ability Score Increase.** Your Intelligence score increases by 1.
 
+**Size.** Your size is Medium.
+
 **Signal Sequence.** You can communicate simple concepts silently through bioluminescent sequence to any creature within 60 feet that understands Abyssan Light.
 
 You learn the `light` cantrip. Intelligence is your spellcasting ability.
@@ -413,6 +417,8 @@ You learn the `light` cantrip. Intelligence is your spellcasting ability.
 ### Gulper
 
 **Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
 
 **Expansive Maw.** Your bite is a natural weapon that deals `1d6 + your Strength modifier` piercing damage.
 

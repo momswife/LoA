@@ -127,9 +127,21 @@ Terms such as man-eater, dragon, apex beast, or cold hunter are demeaning when i
 > [!warning] Playtest Mechanics  
 > These traits are an initial Aerathon playtest package and require DM approval until table testing is complete.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Humanoid, Medium. Your walking speed is 30 feet.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Powerful Build
 
@@ -155,17 +167,61 @@ Your bite is a natural weapon dealing 1d6 piercing damage. Once per turn when yo
 
 River Monitor communities combine swimming, flood reading, agriculture, and trade across warm inland waterways.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**River Monitor.** You gain a swimming speed equal to your walking speed and have advantage on Survival checks made to read floods or navigate rivers.
+
 ### Tree Monitors
 
 Tree Monitor peoples often possess lighter frames, strong climbing traditions, and canopy routes shared with Gekkonians and Avianfolk.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Tree Monitor.** You gain a climbing speed equal to your walking speed and have advantage on checks made to retain your grip.
 
 ### Komodo Peoples
 
 Komodo traditions center island ecology, powerful bodies, scent law, and strict medical consent concerning venom.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Komodo Venom.** You have resistance to poison damage. Once per long rest when you hit with Driving Bite, you can deal an additional `1d6` poison damage.
+
 ---
 
-## XI. Playing a Varanian
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Civic Hauler
+
+You gain proficiency with one artisan's tool. When determining carrying capacity for tools, construction materials, or public supplies, you count as two sizes larger instead of one.
+
+### Oria — Furnace-Road Endurance
+
+You ignore the effects of extreme cold. You have advantage on saving throws against exhaustion caused by alternating rapidly between extreme heat and cold.
+
+### Vinyot — Long-Shift Reserve
+
+You gain proficiency in Insight. Once per long rest when you roll initiative without any temporary hit points, you gain temporary hit points equal to your proficiency bonus.
+
+### Arneria — Caravan Scentline
+
+You gain proficiency in Survival. When tracking a willing or familiar creature through arid terrain by scent, you can move at normal travel pace without taking the usual tracking penalty.
+
+### Al'Ar — Island Channeler
+
+You gain a swimming speed of 25 feet. You have advantage on checks made to follow a scent across saltwater or through heavy rain.
+
+---
+
+## XII. Playing a Varanian
 
 Consider:
 
@@ -180,7 +236,7 @@ Strength and scent offer capabilities, never assigned temperament or profession.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Varanian lineage does not indicate predation, violence, military fitness, venom, emotional coldness, tirelessness, or consent to scent and saliva collection.

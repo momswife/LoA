@@ -123,9 +123,21 @@ Terms such as mount, half-horse, beast of burden, or riderless are degrading whe
 > [!warning] DM Approval Required  
 > Centaur bodies interact strongly with mounts, climbing, squeezing, vehicles, equipment, and dungeon architecture. Establish rulings before play.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Fey, Medium. Your walking speed is 40 feet.
+You are a Fey.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 40 feet.
 
 ### Equine Build
 
@@ -151,17 +163,61 @@ Gain proficiency in Animal Handling, Nature, or Survival.
 
 Road communities treat routes as maintained relationships, carrying news, supplies, names, and obligations between settlements.
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Route Memory.** You gain proficiency in Survival and cannot become lost while following a constructed road, marked caravan route, or route you have traveled before except by magical means.
+
 ### Court Centaurs
 
 Court Centaurs build permanent accessible settlements around assembly spaces, orchards, broad halls, and civic grooming grounds.
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Civic Bearing.** You gain proficiency in Persuasion. When you take the Help action to assist a Charisma check, the creature you assist may add your proficiency bonus even if it is already proficient.
 
 ### Highland Centaurs
 
 Highland communities use compact bodies, strong lungs, and carefully engineered switchback routes in steep country.
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Highland Frame.** You are acclimated to high altitude. A climb that requires hands and feet costs you 2 feet of movement for each foot climbed instead of 4.
+
 ---
 
-## XI. Playing a Centaur
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Broad-Street Courier
+
+Nonmagical crowds do not count as difficult terrain for you. You gain proficiency in Investigation checks made to locate an address, public office, or ordinary service within a settlement.
+
+### Oria — Snowshoe Road
+
+Nonmagical difficult terrain caused by ice or snow does not cost you extra movement. You have advantage on saving throws made to resist exhaustion caused by cold.
+
+### Vinyot — Processional Pace
+
+You gain proficiency in Performance. Willing creatures moving within 5 feet of you can match your pace and are not separated from you by nonmagical crowds.
+
+### Arneria — Well-Road Keeper
+
+You gain proficiency in Survival. When traveling overland, you can carry food and water for one additional creature without counting it against your carrying capacity.
+
+### Al'Ar — Causeway Runner
+
+You have advantage on Athletics and Acrobatics checks made on wet docks, narrow causeways, or in heavy surf. Shallow water does not count as difficult terrain for you.
+
+---
+
+## XII. Playing a Centaur
 
 Consider:
 
@@ -177,7 +233,7 @@ Speed, strength, and road history do not require restlessness or service.
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] DM Approval Required  
 > Review climbing, mounts, squeezing, fall hazards, armor fitting, vehicles, and maps with inaccessible vertical routes before play.

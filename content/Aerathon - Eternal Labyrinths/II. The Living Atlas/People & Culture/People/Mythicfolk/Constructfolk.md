@@ -127,9 +127,21 @@ A maker designation, serial, model, or function is not a public name unless the 
 > [!warning] DM Approval Required  
 > Constructfolk bodies can interact strongly with healing, survival, and equipment rules. Approve the chassis, repair fiction, and campaign technology before play.
 
-### Creature Type, Size, and Speed
+### Creature Type
 
-You are a Construct. Choose Small or Medium. Your walking speed is 30 feet.
+You are a Construct.
+
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Small or Medium, chosen when you select your chassis tradition.
+
+### Speed
+
+Your walking speed is 30 feet.
 
 ### Constructed Resilience
 
@@ -155,17 +167,61 @@ The _mending_ cantrip can stabilize you when you are dying if cast within touch 
 
 Metal, wood, ceramic, and stone chassis emphasize repairable structure, visible craft lineages, and debates over maker marks.
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Reinforced Chassis.** When you are not wearing armor, your base Armor Class is 13 + your Dexterity modifier, to a maximum Dexterity bonus of +2. You can use a shield and retain this benefit.
+
 ### Woven Bodies
 
 Cloth, cord, paper, fiber, and flexible lattice bodies often use replaceable layers and portable inscription.
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Flexible Chassis.** You have advantage on checks made to escape a grapple. You can squeeze through a space suitable for a creature one size smaller than you without spending extra movement.
 
 ### Vessel-Born
 
 Vessel-Born Constructfolk awakened when a spirit, copied self, or emergent mind inhabited a body originally built for another purpose.
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Small or Medium, your choice.
+
+**Echoed Aptitude.** Choose Arcana, History, Investigation, Nature, or Religion. You gain proficiency in that skill. When you finish a long rest, you may replace it with another skill from this list.
+
 ---
 
-## XI. Playing a Constructfolk Character
+## XI. Homeland Imprints
+
+If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
+
+### Allemance — Guild-Repaired
+
+You gain proficiency with one artisan's tool of your choice. When another creature uses that tool to repair or modify your body with your consent, it can add your proficiency bonus to its check.
+
+### Oria — Cold-Rated Chassis
+
+You ignore the effects of extreme cold. Nonmagical ice does not interfere with your joints, integrated tools, or ordinary movement.
+
+### Vinyot — Public-Facing Body
+
+You gain proficiency in Performance or Persuasion. As part of a long rest, you can change one nonfunctional cosmetic feature of your chassis using materials worth 1 gp.
+
+### Arneria — Dust-Sealed Frame
+
+You know the `mending` cantrip. Sand and dust do not impose disadvantage on checks made with your Integrated Tool.
+
+### Al'Ar — Saltproof Joints
+
+You gain a swimming speed of 25 feet. Your body and integrated tool are unaffected by ordinary saltwater corrosion.
+
+---
+
+## XII. Playing a Constructfolk Character
 
 Consider:
 
@@ -181,7 +237,7 @@ Constructed origin is history. It is never a complete personality or binding ins
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] DM Approval Required  
 > Decide how spells, poisons, food, rest, repair, replacement bodies, and anti-construct effects interact before play.
