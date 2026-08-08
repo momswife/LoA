@@ -367,9 +367,9 @@ export async function handleBuild(argv) {
           build.onLoad({ filter: /\.inline\.(ts|js)$/ }, async (args) => {
             let text = await promises.readFile(args.path, "utf8")
 
-            // remove default exports that we manually inserted
-            text = text.replace("export default", "")
-            text = text.replace("export", "")
+            // Inline scripts run inside an IIFE, so remove only actual module export modifiers.
+            // A plain string replacement also corrupts identifiers such as `exportButton`.
+            text = text.replace(/^(\s*)export\s+(?:default\s+)?/gm, "$1")
 
             const sourcefile = path.relative(path.resolve("."), args.path)
             const resolveDir = path.dirname(sourcefile)

@@ -79,14 +79,13 @@ function initAerathonMap(map: HTMLElement) {
   const saveButton = map.querySelector<HTMLButtonElement>('[data-map-editor="save"]')
   const cancelButton = map.querySelector<HTMLButtonElement>('[data-map-editor="cancel"]')
   const deleteButton = map.querySelector<HTMLButtonElement>('[data-map-editor="delete"]')
-  const pinsExportPanel = map.querySelector<HTMLElement>(".aerathon-map__pins-panel")
-  const exportField = map.querySelector<HTMLTextAreaElement>(".aerathon-map__pins-yaml")
-  const exportCopyButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-copy")
-  const exportToggleButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
+  const exportButton = map.querySelector<HTMLButtonElement>(".aerathon-map__pins-toggle")
+  const exportStatus = map.querySelector<HTMLElement>('[data-map-export="status"]')
   const locationsPanel = map.querySelector<HTMLElement>(".aerathon-map__locations-panel")
   const locationsList = map.querySelector<HTMLOListElement>(".aerathon-map__locations-list")
   const locationsSearch = map.querySelector<HTMLInputElement>(".aerathon-map__locations-search")
   const locationsProgress = map.querySelector<HTMLElement>(".aerathon-map__locations-progress")
+  const locationsSaveState = map.querySelector<HTMLElement>(".aerathon-map__locations-save-state")
   const locationsHint = map.querySelector<HTMLElement>(".aerathon-map__locations-hint")
   const locationsToggleButton = map.querySelector<HTMLButtonElement>(
     ".aerathon-map__locations-toggle",
@@ -136,6 +135,7 @@ function initAerathonMap(map: HTMLElement) {
   let fullscreenRequestPending = false
   let fullscreenActive = false
   let fullscreenReflowTimer: number | undefined
+  let exportFeedbackTimer: number | undefined
   let cameraAnimationFrame: number | undefined
   let interactionAnimationFrame: number | undefined
   let locationScrollAnimationFrame: number | undefined
@@ -436,35 +436,61 @@ function initAerathonMap(map: HTMLElement) {
 
   const copyText = async (text: string) => {
     if (navigator.clipboard?.writeText) {
-      await navigator.clipboard.writeText(text)
-      return
+      try {
+        await navigator.clipboard.writeText(text)
+        return
+      } catch {
+        // Fall through to the synchronous clipboard fallback below.
+      }
     }
-    if (!exportField) return
-    exportField.focus()
-    exportField.select()
-    document.execCommand("copy")
+
+    const fallback = document.createElement("textarea")
+    fallback.value = text
+    fallback.readOnly = true
+    fallback.style.position = "fixed"
+    fallback.style.inset = "0 auto auto -9999px"
+    fallback.style.opacity = "0"
+    document.body.append(fallback)
+    fallback.focus()
+    fallback.select()
+    try {
+      if (!document.execCommand("copy")) throw new Error("Clipboard copy was rejected")
+    } finally {
+      fallback.remove()
+    }
   }
 
-  const openExportPanel = () => {
-    if (!pinsExportPanel || !editMode) return
-    if (pinsExportPanel instanceof HTMLDetailsElement) pinsExportPanel.open = true
-    pinsExportPanel.classList.add("is-open")
+  const setExportState = (state: "ready" | "draft" | "copied" | "error") => {
+    if (!locationsSaveState) return
+    locationsSaveState.dataset.state = state
+    locationsSaveState.textContent =
+      state === "copied"
+        ? "YAML copied"
+        : state === "error"
+          ? "Copy failed"
+          : state === "draft"
+            ? "Changes not copied"
+            : "Ready to export"
   }
 
-  const closeExportPanel = () => {
-    if (!pinsExportPanel) return
-    if (pinsExportPanel instanceof HTMLDetailsElement) pinsExportPanel.open = false
-    pinsExportPanel.classList.remove("is-open")
+  const markExportDirty = () => {
+    if (editMode) setExportState("draft")
   }
 
-  const updateExportPanel = (showPanel = false) => {
-    if (!exportField) return
-    exportField.value = exportedYaml()
-    if (showPanel) openExportPanel()
-  }
-
-  const syncExportPanel = () => {
-    if (editMode) updateExportPanel()
+  const showExportFeedback = (message: string, state: "copied" | "error") => {
+    if (exportFeedbackTimer !== undefined) window.clearTimeout(exportFeedbackTimer)
+    if (exportStatus) exportStatus.textContent = message
+    if (exportButton) exportButton.textContent = message
+    setExportState(state)
+    exportFeedbackTimer = window.setTimeout(
+      () => {
+        exportFeedbackTimer = undefined
+        if (exportStatus) exportStatus.textContent = ""
+        if (exportButton)
+          exportButton.textContent = datasetMode ? "Export full YAML" : "Export pins"
+      },
+      state === "copied" ? 1800 : 3500,
+    )
   }
 
   const positionFromPointer = (event: PointerEvent) => {
@@ -796,7 +822,7 @@ function initAerathonMap(map: HTMLElement) {
       syncButton(target.pin, target.button)
       persistPins()
       renderLocationList()
-      syncExportPanel()
+      markExportDirty()
     } finally {
       hidePopup()
       closeEditor()
@@ -828,7 +854,7 @@ function initAerathonMap(map: HTMLElement) {
     activeEditorPin = null
     editorDraft = null
     renderLocationList()
-    syncExportPanel()
+    markExportDirty()
   }
 
   const zoomAt = (nextScale: number, clientX: number, clientY: number) => {
@@ -980,7 +1006,7 @@ function initAerathonMap(map: HTMLElement) {
         }
         persistPins()
         renderLocationList()
-        syncExportPanel()
+        markExportDirty()
         showPopup(pin, button)
       }
       pinDrag = null
@@ -1049,7 +1075,7 @@ function initAerathonMap(map: HTMLElement) {
   viewport.addEventListener("pointerdown", (event) => {
     if (
       (event.target as HTMLElement).closest(
-        ".aerathon-map__pin, .aerathon-map__popup, .aerathon-map__controls, .aerathon-map__legend, .aerathon-map__editor, .aerathon-map__pins-panel, .aerathon-map__locations-panel",
+        ".aerathon-map__pin, .aerathon-map__popup, .aerathon-map__controls, .aerathon-map__legend, .aerathon-map__editor, .aerathon-map__locations-panel",
       )
     ) {
       return
@@ -1149,7 +1175,6 @@ function initAerathonMap(map: HTMLElement) {
     event.preventDefault()
     event.stopPropagation()
     saveActivePinFromEditor()
-    updateExportPanel(true)
   })
   cancelButton?.addEventListener("click", (event) => {
     event.preventDefault()
@@ -1174,32 +1199,14 @@ function initAerathonMap(map: HTMLElement) {
     editorDraft = null
     persistPins()
     renderLocationList()
-    syncExportPanel()
+    markExportDirty()
   })
-  exportCopyButton?.addEventListener("click", () => {
-    updateExportPanel()
-    if (!exportField) return
-    void copyText(exportField.value)
-      .then(() => {
-        if (!exportCopyButton) return
-        exportCopyButton.textContent = "Copied"
-        window.setTimeout(() => {
-          exportCopyButton.textContent = "Copy"
-        }, 1500)
-      })
-      .catch(() => {
-        exportField.focus()
-        exportField.select()
-        if (exportCopyButton) exportCopyButton.textContent = "Press Ctrl+C"
-      })
-  })
-  exportToggleButton?.addEventListener("click", (event) => {
+  exportButton?.addEventListener("click", (event) => {
     event.preventDefault()
     event.stopPropagation()
-    updateExportPanel(true)
-  })
-  pinsExportPanel?.addEventListener("toggle", () => {
-    if (pinsExportPanel instanceof HTMLDetailsElement && pinsExportPanel.open) updateExportPanel()
+    void copyText(exportedYaml())
+      .then(() => showExportFeedback("YAML copied ✓", "copied"))
+      .catch(() => showExportFeedback("Copy failed", "error"))
   })
   locationsToggleButton?.addEventListener("click", (event) => {
     event.preventDefault()
@@ -1231,7 +1238,6 @@ function initAerathonMap(map: HTMLElement) {
   const handleDocumentKeydown = (event: KeyboardEvent) => {
     if (event.key === "Escape") {
       hidePopup()
-      closeExportPanel()
       if (fallbackFullscreen) {
         fallbackFullscreen = false
         syncFullscreenState()
@@ -1289,7 +1295,7 @@ function initAerathonMap(map: HTMLElement) {
       closeEditor()
       renderAllPins()
       renderLocationList()
-      syncExportPanel()
+      markExportDirty()
     } catch {
       console.warn("Another tab sent invalid pin data; this tab was not changed.")
     }
@@ -1303,6 +1309,7 @@ function initAerathonMap(map: HTMLElement) {
   window.addCleanup(() => resizeObserver.disconnect())
   window.addCleanup(() => {
     if (fullscreenReflowTimer !== undefined) window.clearTimeout(fullscreenReflowTimer)
+    if (exportFeedbackTimer !== undefined) window.clearTimeout(exportFeedbackTimer)
     if (interactionAnimationFrame !== undefined) cancelAnimationFrame(interactionAnimationFrame)
     if (locationScrollAnimationFrame !== undefined)
       cancelAnimationFrame(locationScrollAnimationFrame)
@@ -1320,7 +1327,7 @@ function initAerathonMap(map: HTMLElement) {
     )
   }
   renderLocationList()
-  syncExportPanel()
+  setExportState("ready")
   applyTransform()
 }
 

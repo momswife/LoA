@@ -352,7 +352,8 @@ function renderMap(
       <button class="aerathon-map__control" type="button" data-map-zoom="reset" aria-label="Reset map view">Reset</button>
       <button class="aerathon-map__control aerathon-map__locations-toggle" type="button" data-map-locations="toggle">Locations</button>
       <button class="aerathon-map__control aerathon-map__fullscreen-toggle" type="button" data-map-fullscreen aria-label="Expand map to fullscreen">Expand</button>
-      <button class="aerathon-map__control aerathon-map__pins-toggle" type="button" data-map-export="toggle">${exportLabel}</button>
+      <button class="aerathon-map__control aerathon-map__pins-toggle" type="button" data-map-export="copy">${exportLabel}</button>
+      <span class="aerathon-map__export-status" data-map-export="status" role="status" aria-live="polite"></span>
     </div>
     <details class="aerathon-map__legend">
       <summary>Map Key</summary>
@@ -370,7 +371,7 @@ function renderMap(
         <h3>Locations</h3>
         <div class="aerathon-map__locations-meta">
           <span class="aerathon-map__locations-progress"></span>
-          <span class="aerathon-map__locations-save-state" data-state="draft">Export required</span>
+          <span class="aerathon-map__locations-save-state" data-state="ready">Ready to export</span>
         </div>
       </div>
       <input class="aerathon-map__locations-search" type="search" placeholder="Search locations" aria-label="Search locations" />
@@ -421,21 +422,10 @@ function renderMap(
         </div>
       </details>
       <div class="aerathon-map__editor-actions">
-        <button type="button" data-map-editor="save">Save &amp; export YAML</button>
+        <button type="button" data-map-editor="save">Save location</button>
         <button type="button" data-map-editor="delete">${dataset ? "Unplace" : "Delete"}</button>
       </div>
     </section>
-    <details class="aerathon-map__pins-panel" aria-label="Export map data">
-      <summary class="aerathon-map__pins-summary">${exportLabel}</summary>
-      <div class="aerathon-map__pins-panel-header">
-        <h3>Complete replacement file</h3>
-        <div class="aerathon-map__pins-panel-actions">
-          <button class="aerathon-map__pins-copy" type="button" data-map-export="copy">Copy</button>
-        </div>
-      </div>
-      ${dataset ? '<p class="aerathon-map__pins-status" data-state="draft">Copy everything below and replace the entire locations YAML file.</p>' : ""}
-      <textarea class="aerathon-map__pins-yaml" data-map-export="yaml" readonly></textarea>
-    </details>
   </div>
 </div>`
 }

@@ -50,6 +50,17 @@
   display: inline-block;
 }
 
+.aerathon-map__export-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .aerathon-map__control {
   min-width: 1.7rem;
   height: 1.7rem;
@@ -640,6 +651,14 @@
   text-transform: uppercase;
 }
 
+.aerathon-map__locations-save-state[data-state="copied"] {
+  color: #2f7d4a;
+}
+
+.aerathon-map__locations-save-state[data-state="error"] {
+  color: #b33a32;
+}
+
 .aerathon-map__locations-hint {
   color: var(--secondary);
   font-weight: 700;
@@ -856,115 +875,6 @@
   --aerathon-marker-color: #a95d82;
 }
 
-.aerathon-map__pins-panel {
-  position: absolute;
-  left: 1rem;
-  bottom: 1rem;
-  z-index: 4;
-  display: none;
-  width: auto;
-  max-width: calc(100% - 2rem);
-  padding: 0;
-  border: 1px solid color-mix(in srgb, var(--secondary) 34%, var(--lightgray));
-  border-radius: 8px;
-  background: color-mix(in srgb, var(--light) 95%, transparent);
-  box-shadow: 0 0.8rem 2rem color-mix(in srgb, var(--dark) 20%, transparent);
-  color: var(--darkgray);
-  cursor: default;
-}
-
-.aerathon-map.is-editing .aerathon-map__pins-panel {
-  display: block;
-}
-
-.aerathon-map__pins-panel[open] {
-  width: min(26rem, calc(100% - 2rem));
-  padding: 0.8rem;
-}
-
-.aerathon-map__pins-panel,
-.aerathon-map__pins-panel * {
-  box-sizing: border-box;
-}
-
-.aerathon-map__pins-summary {
-  padding: 0.55rem 0.7rem;
-  cursor: pointer;
-  font-size: 0.82rem;
-  font-weight: 700;
-  list-style: none;
-}
-
-.aerathon-map__pins-summary::-webkit-details-marker {
-  display: none;
-}
-
-.aerathon-map__pins-summary::before {
-  display: inline-block;
-  margin-right: 0.4rem;
-  content: "▸";
-}
-
-.aerathon-map__pins-panel[open] > .aerathon-map__pins-summary {
-  margin: -0.8rem -0.8rem 0.7rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--gray) 32%, transparent);
-}
-
-.aerathon-map__pins-panel[open] > .aerathon-map__pins-summary::before {
-  content: "▾";
-}
-
-.aerathon-map__pins-panel-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-  margin-bottom: 0.55rem;
-}
-
-.aerathon-map__pins-panel-actions {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: 0.35rem;
-}
-
-.aerathon-map__pins-panel h3 {
-  margin: 0;
-  font-size: 1rem;
-}
-
-.aerathon-map__pins-panel button {
-  padding: 0.4rem 0.6rem;
-  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
-  border-radius: 6px;
-  background: var(--light);
-  color: var(--darkgray);
-  cursor: pointer;
-  font: 700 0.78rem/1 var(--bodyFont);
-}
-
-.aerathon-map__pins-status {
-  margin: 0 0 0.55rem;
-  color: var(--gray);
-  font-size: 0.76rem;
-  line-height: 1.4;
-}
-
-.aerathon-map__pins-panel textarea {
-  width: 100%;
-  max-width: 100%;
-  min-height: 10rem;
-  max-height: 18rem;
-  padding: 0.5rem;
-  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
-  border-radius: 6px;
-  background: color-mix(in srgb, var(--light) 96%, var(--dark) 4%);
-  color: var(--dark);
-  font: 400 0.78rem/1.35 var(--codeFont);
-  resize: vertical;
-}
-
 .right.sidebar > .aerathon-map__legend--sidebar {
   position: sticky;
   top: 5.5rem;
@@ -1083,13 +993,6 @@
     top: 0.65rem;
     right: auto;
     left: 0.65rem;
-  }
-
-  .aerathon-map__pins-panel {
-    top: auto;
-    bottom: 0.75rem;
-    left: 0.75rem;
-    width: calc(100% - 1.5rem);
   }
 
   .aerathon-map__locations-panel {
