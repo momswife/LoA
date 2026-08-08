@@ -228,7 +228,7 @@ Patents were enforced through mercenary violence.
 
 In approximately **2186 A.D.**, twelve major guild-states sent representatives to the **Furnace Assembly of Vastel**.
 
-There they established the **Concord of Flame**.
+There they established the [[The Concord of Flame|**Concord of Flame**]].
 
 Its founding creed declared:
 
@@ -267,7 +267,7 @@ Its existence nevertheless shaped every later debate concerning relic ownership 
 
 ## **VI. The Ember Collegia**
 
-The most influential institution of the age was the **Ember Collegia**, a transregional fellowship devoted to elemental transformation, practical spellcraft, and the study of creation without divine mediation.
+The most influential institution of the age was [[The Ember Collegia|the **Ember Collegia**]], a transregional fellowship devoted to elemental transformation, practical spellcraft, and the study of creation without divine mediation.
 
 It did not begin as a single academy.
 
@@ -275,7 +275,7 @@ It emerged from an alliance of furnace schools, hidden imperial workshops, dwarv
 
 ### **Cael Emberwright**
 
-**Master Cael Emberwright** is recognized as the Collegia’s first presiding Master and its most visible public founder.
+[[Cael Emberwright|**Master Cael Emberwright**]] is recognized as the Collegia’s first presiding Master and its most visible public founder.
 
 Cael was reportedly born within an imperial labor workshop and spent his early life maintaining sacred engines he was forbidden to understand.
 
@@ -430,7 +430,7 @@ Former imperial citizens still carried centuries of prejudice. Some guild-states
 
 Beastfolk confederations were equally wary of joining new institutions built within former imperial cities.
 
-Around **2324 A.D.**, representatives from several guild-states and Beastfolk kinships negotiated the agreement later called the **Treaty of Breath and Beast**.
+Around **2324 A.D.**, representatives from several guild-states and Beastfolk kinships negotiated the agreement later called the [[The Treaty of Breath & Beast|**Treaty of Breath and Beast**]].
 
 The treaty recognized that Beastfolk communities possessed lawful traditions predating imperial rule and could not be treated as populations awaiting Brethren governance.
 
@@ -567,7 +567,7 @@ It changed what wars were fought over.
 
 Guild-states battled for ore, trade routes, skilled labor, water, patents, and access to ancient sites.
 
-These conflicts are collectively called the **Wars of Making**.
+These conflicts are collectively called [[The Wars of Making|the **Wars of Making**]].
 
 ### **The Brass Quarrel**
 
@@ -720,7 +720,7 @@ The achievements of the Ember Age carried costs its institutions were slow to ac
 
 ### **Ignition Catastrophes**
 
-Uncontrolled elemental sympathy caused entire districts to combust when one experimental system ignited every similar substance around it.
+The first [[The Ignition Catastrophes and Cinder Years|**Ignition Catastrophes**]] included uncontrolled elemental sympathy that caused entire districts to combust when one experimental system ignited every similar substance around it.
 
 In the **Redglass Burning**, windows melted before timber caught fire. Survivors reported reflections continuing to burn after the streets had cooled.
 
@@ -780,7 +780,7 @@ Its members withheld technical aid from rivals, concealed accidents, and ignored
 
 ### **The Cinder Years**
 
-The period from approximately **2571 to 2599 A.D.** is called the **Cinder Years**.
+The period from approximately **2571 to 2599 A.D.** is called [[The Ignition Catastrophes and Cinder Years|the **Cinder Years**]].
 
 During these decades:
 
@@ -813,7 +813,7 @@ The event convinced several governments that Ember technology had exceeded their
 
 In 2594 A.D., surviving members of the Concord attempted to restrict high-order elemental work, autonomous spell engines, and large-scale Weave extraction.
 
-The resulting **Ash Accords** were signed by many of the same states that immediately violated them.
+The resulting [[The Ash Accords|**Ash Accords**]] were signed by many of the same states that immediately violated them.
 
 ### **The Final Fracture**
 

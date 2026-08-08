@@ -136,7 +136,7 @@ Their rulers became known collectively as the **Three High Thrones**.
 
 Early Louvain developed around buried resonant towers whose bells could be heard beneath the earth before storms, magical disturbances, and major deaths.
 
-Its earliest reliably attested monarch, **Queen Maelis Bell-Born**, was crowned in 44 A.D. after surviving the opening of the deepest bell tower.
+Its earliest reliably attested monarch, [[Queen Maelis Bell-Born|**Queen Maelis Bell-Born**]], was crowned in 44 A.D. after surviving the opening of the deepest bell tower.
 
 Louvain’s rulers claimed the divine virtue of **Judgment**.
 
@@ -148,7 +148,7 @@ The earliest ancestors of the Ministry’s archival traditions emerged within Lo
 
 Dhalraen rose among mountain citadels and dwarven forge enclaves. Its rulers claimed the divine virtue of **Endurance** and presented themselves as guardians of physical reality against spiritual disorder.
 
-Its traditional founder, **Othran the Unbroken**, was said to have remained seated upon a molten throne for six days while priests recited the names of his ancestors.
+Its traditional founder, [[Othran the Unbroken|**Othran the Unbroken**]], was said to have remained seated upon a molten throne for six days while priests recited the names of his ancestors.
 
 Dhalraen’s strength rested upon mining, fortification, roads, sacred engineering, and disciplined armies.
 
@@ -203,7 +203,7 @@ It was a world of competing sacred claims, each certain that heaven had spoken m
 
 ## **VI. The War of Seven Crowns**
 
-Between approximately **372 and 411 A.D.**, rival monarchies fought a prolonged series of conflicts now collectively known as the **War of Seven Crowns**.
+Between approximately **372 and 411 A.D.**, rival monarchies fought a prolonged series of conflicts now collectively known as [[The War of Seven Crowns|the **War of Seven Crowns**]].
 
 The wars began over a newly uncovered Orichalcum structure called the **Chamber of Measures**.
 
@@ -234,7 +234,7 @@ The conflict established practices that would define later Crown politics:
 
 The wars ended only when the three strongest kingdoms agreed that divine legitimacy could be shared, measured, and ranked.
 
-That agreement became the **Crown Concord** of 420 A.D.
+That agreement became the [[The Crown Concord|**Crown Concord**]] of 420 A.D.
 
 ---
 
@@ -376,7 +376,7 @@ In practice, it allowed the state to enter every home without opening the door.
 
 ## **X. Faith Courts and Sacred Justice**
 
-The first **Faith Courts** arose in Louvain and spread throughout the Concord kingdoms.
+The first [[The Faith Courts|**Faith Courts**]] arose in Louvain and spread throughout the Concord kingdoms.
 
 Their purpose was to determine not only whether a law had been broken, but whether an act offended the divine structure believed to support that law.
 
@@ -529,7 +529,7 @@ Their species was.
 
 ### **Tharos, the Seven-Ringed King**
 
-The strongest surviving challenge to the Crown claim that Beastfolk lacked organized civilization is the record of **Tharos**, later remembered as **Tharos Ravelmane**, the Seven-Ringed King.
+The strongest surviving challenge to the Crown claim that Beastfolk lacked organized civilization is the record of [[Tharos Ravelmane, the Seven-Ringed King|**Tharos Ravelmane, the Seven-Ringed King**]].
 
 He rose in western Vinyot during the ninth century A.D., when Crown-aligned settlements, hunting companies, and fortified roads were expanding into the **Fortunata Hills** and the lower approaches of the **Betemere Mountains**.
 
@@ -712,7 +712,7 @@ Others consider it propaganda intended to justify expanding royal authority duri
 
 ### **The Binding Concord**
 
-In 1091 A.D., the remaining High Thrones and major Faith Courts signed the **Binding Concord**.
+In 1091 A.D., the remaining High Thrones and major Faith Courts signed the [[The Binding Concord|**Binding Concord**]].
 
 The treaty attempted to preserve divine law despite the absence of reliable divine response.
 

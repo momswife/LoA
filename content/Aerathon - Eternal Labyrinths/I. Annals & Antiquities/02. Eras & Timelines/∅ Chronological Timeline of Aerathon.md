@@ -222,7 +222,7 @@ The Ministry records both positions and certifies neither as complete.
 |**c. 1460 A.D.**|The Faith Loom links major imperial temples through synchronized prayer and Orichalcum circuitry.|Grade-II Reconstruction|
 |**c. 1700–1900 A.D.**|Beastfolk memory networks, dissident workshops, and unsanctioned resonance traditions spread beneath imperial rule.|Grade-III Tradition|
 |**c. 1940 A.D.**|The first coordinated Echo-Wars begin across imperial labor territories.|Grade-II Reconstruction|
-|**2073 A.D.**|The Cathedral of Harmonium at Sol Oranna implodes during a combined Beastfolk and Brethren uprising.|Grade-I Anchor|
+|**2073 A.D.**|[[The Cathedral of Harmonium|The Cathedral of Harmonium]] at Sol Oranna implodes during a combined Beastfolk and Brethren uprising.|Grade-I Anchor|
 |**2073 A.D.**|The event later called the **First Withholding** marks the last uncontested public miracle of the imperial order.|Grade-II Reconstruction|
 |**2073–2099 A.D.**|Imperial authority fractures; surviving provinces declare independence or collapse into local rule.|Grade-I Reconstruction|
 |**2100 A.D.**|Guild-states and liberated confederations become the dominant political order. The Ember Age begins.|Grade-I Boundary|
@@ -410,7 +410,7 @@ Several portions of the historical record remain unresolved.
 
 ### **The Beginning of the Dawning**
 
-The Ministry can measure Weave stabilization at Sunwound Crater, but cannot prove whether the event occurred simultaneously across all Aerathon.
+The Ministry can measure Weave stabilization at [[The Sunwound Crater|Sunwound Crater]], but cannot prove whether the event occurred simultaneously across all Aerathon.
 
 ### **The Origin of the Beastfolk**
 

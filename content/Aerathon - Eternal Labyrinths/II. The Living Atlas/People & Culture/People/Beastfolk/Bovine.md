@@ -61,7 +61,7 @@ What the fragments do show is that strength and cultivation were not separate du
 
 Later Crown systems preserved the labor and discarded the balance.
 
-During the Age of Chains, Bovine communities were disproportionately marked for agricultural service, siege work, quarry labor, and military transport. The [[01. The Treaty of Breath & Beast|Treaty of Breath & Beast]] granted selected horned households limited legal recognition, often through patrons who still controlled their land or employment.
+During the Age of Chains, Bovine communities were disproportionately marked for agricultural service, siege work, quarry labor, and military transport. The later [[The Treaty of Breath & Beast|Treaty of Breath & Beast]] gave participating Ember-Era communities stronger grounds to challenge inherited status and assert kinship or territorial claims, although employers and local patrons still controlled enforcement in many jurisdictions.
 
 Some Bovine families preserve an ancestor’s Mark of Breath beside a broken yoke.
 

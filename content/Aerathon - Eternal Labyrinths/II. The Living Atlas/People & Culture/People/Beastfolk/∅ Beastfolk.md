@@ -39,7 +39,7 @@ A person might therefore be recorded as:
 
 These are registry terms. They are not required forms of everyday self-description.
 
-Many Beastfolk identify first by family, settlement, profession, faith, historical kinship, or homeland. Some use the Ministry lineage readily. Others regard it as useful only when dealing with officials. A smaller number reject the Beastfolk category because of its association with old Crown registries and the conditional personhood laws that followed the [[01. The Treaty of Breath & Beast|Treaty of Breath & Beast]].
+Many Beastfolk identify first by family, settlement, profession, faith, historical kinship, or homeland. Some use the Ministry lineage readily. Others regard it as useful only when dealing with officials. A smaller number reject the Beastfolk category because of its association with old Crown registries and the conditional recognition systems that later followed the [[The Treaty of Breath & Beast|Treaty of Breath & Beast]].
 
 The Ministry retains the classification because it supports legal recognition, medical practice, accessible equipment, and lineage-specific rights. It also acknowledges that a useful category may still carry an unjust history.
 
@@ -211,9 +211,9 @@ Recognition remains open to revision. Smaller kinships may seek independent stan
 
 Beastfolk peoples possessed cities, laws, faiths, and treaties long before Brethren courts debated whether to recognize them as persons.
 
-The [[01. The Treaty of Breath & Beast|Treaty of Breath & Beast]] did not grant Beastfolk personhood. It granted limited recognition within several Crown systems that had already presumed the authority to deny it.
+The [[The Treaty of Breath & Beast|Treaty of Breath & Beast]] did not grant Beastfolk personhood. In 2324 A.D., it required participating Ember-Era guild-states to recognize names, kinship, territory, and legal traditions they had previously presumed authority to dismiss.
 
-The treaty’s **Mark of Breath** became both passport and shackle. It permitted selected Beastfolk to own property, enter guilds, and receive legal standing under Brethren law. It also made recognition conditional upon patronage, registration, and obedience.
+The treaty’s **Mark of Breath** became both passport and shackle. Early forms allowed a bearer to demonstrate recognized standing without disclosing a complete kinship record. Later jurisdictions demanded marks as a condition of property, guild entry, travel, or legal standing and tied them to patronage, registration, and obedience.
 
 The later Vel-Orann Betrayal transformed the mark into a tool of seizure and collective punishment.
 

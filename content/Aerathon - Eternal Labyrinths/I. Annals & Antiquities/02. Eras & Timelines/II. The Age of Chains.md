@@ -105,17 +105,17 @@ It is not a neutral description of the oppressed.
 
 ## **III. Founding of the Empire of Law and Light**
 
-The Empire of Law and Light emerged from the **Binding Concord** of 1091 A.D.
+The Empire of Law and Light emerged from the [[The Binding Concord|**Binding Concord**]] of 1091 A.D.
 
 That treaty had granted mortal religious authorities the power to preserve divine law even when no divine answer could be verified. Over the following nine years, the remaining Crown institutions surrendered increasing authority to a central council of magistrates, arch-priests, military commanders, and sacred engineers.
 
-In 1100 A.D., **High Archon Edrast of Vaelcour** declared the Crown Era complete.
+In 1100 A.D., [[High Archon Edrast of Vaelcour|**High Archon Edrast of Vaelcour**]] declared the Crown Era complete.
 
 He did not abolish the old monarchies.
 
 He placed them beneath a higher law.
 
-The proclamation was delivered from the newly constructed **Cathedral of Harmonium** in Sol Oranna before representatives of Louvain, Dhalraen, Vaelcour, and more than thirty lesser Crown territories.
+The proclamation was delivered from the newly constructed [[The Cathedral of Harmonium|**Cathedral of Harmonium**]] in Sol Oranna before representatives of Louvain, Dhalraen, Vaelcour, and more than thirty lesser Crown territories.
 
 Edrast declared:
 
@@ -187,7 +187,7 @@ Its members could invalidate regional gods, dissolve temples, or declare a long-
 
 The Magistracy administered civil law, population classification, labor allocation, marriage, inheritance, and punishment.
 
-Its courts replaced most surviving Faith Courts.
+Its courts replaced most surviving [[The Faith Courts|Faith Courts]].
 
 ### **The Harmonium Works**
 
@@ -295,7 +295,7 @@ Beastfolk were frequently subjected to devices calibrated only for Brethren phys
 
 ### **The Registry of Souls**
 
-Every subject was entered into a centralized record containing:
+Every subject was entered into the [[The Registry of Souls|Registry of Souls]], a centralized record system containing:
 
 - name;
     
@@ -467,7 +467,7 @@ It attempted to sever the ways those bodies remembered themselves.
 
 ## **X. Tharos, the Seven Rings, and the War Against Memory**
 
-The memory of **Tharos Ravelmane**, the Seven-Ringed King, posed a unique threat to imperial doctrine.
+The memory of [[Tharos Ravelmane, the Seven-Ringed King|**Tharos Ravelmane, the Seven-Ringed King**]] posed a unique threat to imperial doctrine.
 
 Tharos had ruled an independent Beastfolk kingdom in western Vinyot before the empire existed. He had united multiple kinships, resisted Crown expansion, restored the worship of the Old Beastfolk Pantheon, and demonstrated power that Brethren authorities could neither claim nor adequately explain.
 
@@ -582,7 +582,7 @@ Temples increased compulsory prayer.
 
 Relics were stripped from conquered regions.
 
-Magically sensitive subjects were used as living conductors.
+Magically sensitive subjects were organized into [[The Living Conductor Lines|living conductor lines]] and used as components of the Loom.
 
 Beastfolk songs were recorded, dissected, and repurposed to stabilize Harmonium tones.
 
@@ -610,7 +610,7 @@ It helped teach reality how to become trapped inside an instruction.
 
 ## **XII. Expansion, Provincial Wars, and Imperial Violence**
 
-The Empire of Law and Light expanded through conquest, treaty, conversion, and administrative absorption.
+The campaigns now collected as [[The Imperial Provincial Wars|the **Imperial Provincial Wars**]] expanded the Empire of Law and Light through conquest, treaty, conversion, and administrative absorption.
 
 Its armies were accompanied by priests, scribes, engineers, surveyors, and Registry officials.
 
@@ -724,7 +724,7 @@ The workers heard history organizing itself.
 
 ## **XIV. The Echo-Wars**
 
-The rebellions collectively known as the **Echo-Wars** transformed scattered resistance into a shared struggle against imperial law.
+The rebellions collectively known as the [[The Echo-Wars|**Echo-Wars**]] transformed scattered resistance into a shared struggle against imperial law.
 
 They were not a single war.
 
@@ -793,7 +793,7 @@ It also made the entire system vulnerable to a single failure.
 
 ## **XV. The Fall of Sol Oranna and the First Withholding**
 
-By 2073 A.D., rebel networks had reached Sol Oranna.
+By 2073 A.D., rebel networks had reached Sol Oranna. Their final struggle produced [[The Fall of Sol Oranna and the First Withholding|the **Fall of Sol Oranna and the First Withholding**]].
 
 The uprising within the capital involved Beastfolk laborers, Collared Legion veterans, Brethren scholars, dwarven engineers, dissident clergy, Registry workers, and residents of the outer circles.
 

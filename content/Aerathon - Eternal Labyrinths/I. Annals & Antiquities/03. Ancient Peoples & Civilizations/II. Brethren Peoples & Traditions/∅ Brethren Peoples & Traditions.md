@@ -44,7 +44,7 @@ This archive records their ancient cultures, households, systems of teaching, ci
 
 - the origin reconstruction preserved in [[The Creation of the Brethren]];
 - the civilizational records filed under [[Elder Civilizations]];
-- the histories of specific institutions filed under [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/06. Figures, Institutions, Houses & Lineages/index|Figures, Institutions, Houses & Lineages]];
+- the histories of specific institutions filed under [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/05. Figures, Institutions, Houses & Lineages/index|Figures, Institutions, Houses & Lineages]];
 - or modern ancestry records maintained within [[∅ Brethren|The Living Atlas]].
 
 ---
