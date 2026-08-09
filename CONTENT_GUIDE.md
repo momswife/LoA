@@ -2,6 +2,10 @@
 
 This guide keeps the Obsidian vault pleasant to write in and predictable to publish.
 
+For the complete repository conventions, page-family standards, canon rules, and validation workflow,
+read `WIKI_STYLE_GUIDE.md`. Formal in-world records should also follow the MDO Style and Filing Manual
+linked there.
+
 ## Publishing Rules
 
 - Public notes live in `content/Aerathon - Eternal Labyrinths/`.
@@ -59,3 +63,6 @@ Most public records should keep the in-world archive format:
 - Certification or archive notes at the end when appropriate.
 
 Templates are available in `content/templates/`.
+
+Templates are starting points. Remove unused sections before publishing rather than filing empty
+headings.

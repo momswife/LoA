@@ -8,8 +8,12 @@ status: Draft
 draft: true
 ---
 
+<!-- Remove sections that do not serve this subject before publishing. -->
+
 > _"[Opening quotation or archival excerpt.]"_  
 > — **[Speaker or source]**
+
+# [Page Title]
 
 **Filed Division:** _[Ministry division or filing office]_  
 **Primary Compiler:** [Name and office]  
