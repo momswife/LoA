@@ -351,7 +351,7 @@ Others appear to maintain a private collapse of causality held together by optim
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Chiropterid communities commonly admire:
 
@@ -444,7 +444,7 @@ These disputes have intensified as more Chiropterids are born beneath fixed grav
 
 ---
 
-## VI. The Astral Sea and the Sky-Reeve Question
+### The Astral Sea and the Sky-Reeve Question
 
 No authenticated Sky-Reeve record confirms Chiropterid membership among the ancient clans.
 
@@ -520,7 +520,7 @@ It is a Chiropterid answer to it.
 
 ---
 
-## VII. Chiropterids in Modern Aerathon
+## VI. Chiropterid Peoples in Modern Aerathon
 
 Chiropterids remain uncommon compared with most Avianfolk lineages, but established communities now exist throughout the Five Greater Regions.
 
@@ -636,7 +636,7 @@ It may still belong to the same people.
 
 ---
 
-## VIII. Chiropterids and Delving
+## VII. Chiropterid Delvers
 
 Chiropterids are valued as planar sensitives, scouts, gliders, investigators, dream-crafters, storage specialists, and observers of dimensional instability.
 
@@ -723,7 +723,7 @@ The Ministry adopted these rules after several incidents involving alchemical re
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Chiropterid names vary between Astral and regional communities.
 
@@ -793,7 +793,7 @@ A better question is which name they wish recorded.
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Chiropterid character has the following traits.
 
@@ -803,7 +803,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Charisma score increases by 2, and your Dexterity score increases by 1.
+Your Charisma score increases by 2.
 
 ### Size
 
@@ -855,11 +855,17 @@ You can use this trait a number of times equal to your proficiency bonus. You re
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Chiropterid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Flying Fox Sublineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Long-Winged Reserve.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You also have advantage on Constitution saving throws made to resist exhaustion from a forced march.
 
 Flying Fox Chiropterids are among the largest members of the lineage.
 
@@ -875,6 +881,12 @@ Questions regarding this matter are common and rarely interesting.
 
 ### Vampire Bat Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, chosen when you select this sublineage.
+
+**Ground Skitter.** You have a climbing speed equal to your walking speed. You can move across ceilings while leaving at least one hand free, provided the surface can support you.
+
 Vampire Bat Chiropterids are generally compact, warm-adapted, and capable of moving with unusual agility along solid surfaces.
 
 Their muzzles are short, their ears sensitive, and their bodies suited to rapid terrestrial movement as well as gliding.
@@ -889,6 +901,12 @@ The assumption that every Vampire Chiropterid is dangerous has caused far more h
 
 ### Leaf-Nosed and Horseshoe Bat Sublineages
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Focused Echolocation.** While you are not deafened, you have blindsight out to a range of 10 feet.
+
 Leaf-Nosed and Horseshoe Bat Chiropterids possess elaborate structures around the nose and face that assist with directing sound and astral resonance.
 
 Their forms vary enormously, with fur and membranes appearing in brown, grey, black, cream, gold, orange, or patterned combinations.
@@ -898,6 +916,12 @@ Many are highly skilled at distinguishing overlapping echoes.
 Their ancestral sanctuaries often contained dense architecture, hanging gardens, and intricately folded chambers through which sound traveled along deliberate paths.
 
 ### Long-Eared Bat Sublineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Acute Hearing.** You gain proficiency in the Perception skill. You also have advantage on Wisdom (Perception) checks that rely on hearing.
 
 Long-Eared Chiropterids possess exceptionally large and mobile ears.
 
@@ -913,6 +937,12 @@ They also do not owe anyone an account of what they did hear.
 
 ### Fishing Bat Sublineage
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Waterside Hunter.** You have a swimming speed of 30 feet, and you can hold your breath for up to 15 minutes.
+
 Fishing Bat Chiropterids possess strong feet, long claws, and bodies adapted to movement near water.
 
 Their material communities commonly settle around rivers, lakes, coasts, reservoirs, and cavern pools. Many become capable swimmers despite their lineage’s Astral origins.
@@ -922,6 +952,12 @@ Fishing Bat traditions often place emphasis upon timing, surface awareness, and 
 They possess close relationships with Anatid, Pelagid, and some Aquaticfolk communities.
 
 ### Ghost Bat Sublineage
+
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Veil Sense.** You can cast _detect magic_ once with this trait without requiring material components. Charisma is your spellcasting ability for this spell, and you regain the ability to cast it when you finish a long rest.
 
 Ghost Bat Chiropterids commonly possess pale grey, cream, white, or silver fur and broad wings.
 
@@ -935,6 +971,12 @@ Others have no interest in explaining for the hundredth time that being pale and
 
 ### Free-Tailed Bat Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, chosen when you select this sublineage.
+
+**Open-Air Glide.** While using your **Wings** to glide, you can move 2 feet horizontally for every 1 foot you descend.
+
 Free-Tailed Chiropterids possess long, narrow wings and tails extending beyond the flight membrane.
 
 They are often swift gliders and excel at launching from open heights.
@@ -945,7 +987,7 @@ Many modern Free-Tailed Chiropterids participate in Veilriding, aerial racing, c
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 Choose one Homeland Imprint representing the place or plane that most strongly shaped your character.
 
@@ -1015,7 +1057,7 @@ Al’Ari Chiropterids learn to make a route from whatever height, wind, rope, ro
 
 ---
 
-## XIII. Playing a Chiropterid
+## XII. Playing a Chiropterid
 
 When creating a Chiropterid character, consider:
 
@@ -1067,6 +1109,8 @@ Their lineage comes from a world where reality could be revised.
 Their choices determine what they preserve when it cannot.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Chiropterid lineage does not indicate blood consumption, nocturnal obligation, prophetic ability, emotional instability, lack of historical awareness, or suitability for planar experimentation.

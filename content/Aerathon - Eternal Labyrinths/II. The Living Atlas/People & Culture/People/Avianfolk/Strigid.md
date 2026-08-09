@@ -248,7 +248,7 @@ It can also become unbearably slow when participants use procedure to avoid maki
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Strigid communities commonly admire:
 
@@ -326,7 +326,7 @@ These arguments frequently turn upon the distinction between guarding knowledge 
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Strigids served throughout the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]] as night navigators, weather observers, signal listeners, rescue pilots, and keepers of the hours between the formal Wind-Tithes.
 
@@ -395,7 +395,7 @@ Unofficial versions include approximately the same number.
 
 ---
 
-## VII. Strigids in Modern Aerathon
+## VI. Strigid Peoples in Modern Aerathon
 
 Strigids live throughout the Five Greater Regions.
 
@@ -461,7 +461,7 @@ Many become navigators, stage technicians, night performers, storm listeners, he
 
 ---
 
-## VIII. Strigids and Delving
+## VII. Strigid Delvers
 
 Strigids are frequently recruited as scouts, watchers, investigators, navigators, sentries, and specialists in low-light environments.
 
@@ -509,7 +509,7 @@ Experienced Strigids therefore test silence through controlled movement, thrown 
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Strigid naming traditions vary by region.
 
@@ -571,7 +571,7 @@ Calling one **all-seeing** is both inaccurate and likely to provoke a demonstrat
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Strigid character has the following traits.
 
@@ -581,7 +581,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -633,11 +633,17 @@ You can use this trait a number of times equal to your proficiency bonus. You re
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Strigid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Barn Owl Sublineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Directional Hearing.** You gain proficiency in the Perception skill and have advantage on Wisdom (Perception) checks that rely on hearing.
 
 Barn Owl Strigids commonly possess pale plumage, long legs, heart-shaped facial discs, and dark eyes.
 
@@ -649,6 +655,12 @@ Their association with abandoned buildings and silent flight has made them figur
 
 ### Horned Owl Sublineage
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Heavy Talons.** Your talons deal slashing damage equal to 1d6 + your Strength modifier instead of the damage normally dealt by your Talons trait.
+
 Horned Owl Strigids are generally broad-bodied and powerfully built, with prominent feather tufts above the eyes.
 
 Their plumage often includes brown, black, grey, rust, and cream barring.
@@ -656,6 +668,12 @@ Their plumage often includes brown, black, grey, rust, and cream barring.
 Many are adapted to forests, mountains, and cold regions. Their size and appearance have produced a reputation for severity that individuals may either cultivate or find deeply inconvenient.
 
 ### Snowy Owl Sublineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Cold-Plumed.** You have resistance to cold damage.
 
 Snowy Owl Strigids possess dense white plumage marked by varying degrees of black, grey, or brown barring.
 
@@ -666,6 +684,12 @@ Many Snowy communities maintain traditions of long-distance observation and seas
 The assumption that they are naturally unemotional is largely the result of outsiders struggling to read subtle expression through dense facial plumage.
 
 ### Screech Owl Sublineage
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Dissonant Cry.** When a creature fails its saving throw against your Skyward Pulse, you can prevent it from taking reactions until the start of your next turn. Once you use this trait, you cannot use it again until you finish a long rest.
 
 Screech Owl Strigids are generally smaller in stature and may possess grey, brown, or rust-colored plumage.
 
@@ -679,6 +703,12 @@ Several Screech communities consider the stereotype useful because it shortens u
 
 ### Burrowing Owl Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Ground Runner.** Your walking speed increases to 30 feet. You also have a burrowing speed of 10 feet through sand or loose earth, but you cannot leave a stable tunnel behind you.
+
 Burrowing Owl Strigids possess long legs, compact bodies, and strong terrestrial adaptations.
 
 They are comfortable living near or beneath the ground and often inhabit grasslands, deserts, tunnels, low settlements, and reclaimed ruins.
@@ -689,6 +719,12 @@ Their relationship with underground space has made them particularly valuable in
 
 ### Fish Owl Sublineage
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**River Talons.** You have a swimming speed of 30 feet, and you can hold your breath for up to 10 minutes.
+
 Fish Owl Strigids are commonly large-framed, with powerful feet and plumage adapted to rivers, lakes, coasts, and wetlands.
 
 Their feathers may be less completely sound-dampening than those of other Strigids due to frequent exposure to water.
@@ -696,6 +732,12 @@ Their feathers may be less completely sound-dampening than those of other Strigi
 Fish Owl communities often maintain close relationships with maritime peoples and [[∅ Aquaticfolk|Aquaticfolk]] settlements.
 
 ### Hawk Owl Sublineage
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Day Hunter.** Your flying speed increases to 60 feet.
 
 Hawk Owl Strigids possess longer tails, narrower wings, and more visibly raptor-like silhouettes than many other Strigids.
 
@@ -707,7 +749,7 @@ Hawk Owl Strigids generally find this bureaucratic confusion amusing until it de
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -763,7 +805,7 @@ It gives the thunder somewhere to arrive.
 
 ---
 
-## XIII. Playing a Strigid
+## XII. Playing a Strigid
 
 When creating a Strigid character, consider:
 
@@ -805,6 +847,8 @@ Their lineage teaches them to listen.
 It does not require them to remain silent.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Strigid lineage does not indicate supernatural wisdom, emotional detachment, prophetic ability, nocturnal profession, or suitability for surveillance work.

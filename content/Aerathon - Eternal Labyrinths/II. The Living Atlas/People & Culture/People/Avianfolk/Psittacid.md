@@ -279,7 +279,7 @@ Psittacids continue to argue about every version.
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Psittacid communities commonly admire:
 
@@ -366,7 +366,7 @@ They are not necessarily hostile.
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Psittacids served throughout the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]] as signal relays, diplomatic voices, ritual reciters, weather callers, harness engineers, and Stormriders.
 
@@ -449,7 +449,7 @@ This prohibition has not eliminated organized full-sequence recitation.
 
 ---
 
-## VII. Psittacids in Modern Aerathon
+## VI. Psittacid Peoples in Modern Aerathon
 
 Psittacids live throughout the Five Greater Regions, with particularly large communities in warm forests, coastal settlements, major cities, and trade centers.
 
@@ -544,7 +544,7 @@ It delights nearly everyone else.
 
 ---
 
-## VIII. Psittacids and Delving
+## VII. Psittacid Delvers
 
 Psittacids commonly serve as communicators, negotiators, support specialists, scouts, interpreters, magical performers, and investigators.
 
@@ -608,7 +608,7 @@ A convincing imitation remains convincing.
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Psittacid naming traditions vary significantly by region and sublineage.
 
@@ -672,7 +672,7 @@ Context is essential.
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Psittacid character has the following traits.
 
@@ -682,7 +682,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Charisma score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -736,11 +736,17 @@ You can use this bonus action a number of times equal to your proficiency bonus.
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Psittacid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Grey Parrot Sublineage
+
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Precise Recall.** You gain proficiency in the History skill. You can accurately reproduce any nonmagical sound or voice you heard within the last 30 days, subject to the normal contest described by Echoed Voice.
 
 Grey Parrot Psittacids commonly possess ash-grey plumage, pale facial markings, dark beaks, and red or maroon tails.
 
@@ -752,6 +758,12 @@ Many others use their precision primarily to repeat embarrassing remarks at the 
 
 ### Macaw Sublineage
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Crushing Beak.** Your beak is a natural weapon, which you can use to make unarmed strikes. On a hit, it deals piercing damage equal to 1d6 + your Strength modifier instead of the bludgeoning damage normal for an unarmed strike.
+
 Macaw Psittacids are often tall, broad-winged, and vividly colored.
 
 Common plumage includes scarlet, blue, gold, green, and combinations of several colors. Their long tails and strong beaks give them striking silhouettes.
@@ -761,6 +773,12 @@ Macaw communities possess strong traditions of public art, aerial display, long-
 Their visibility can make privacy difficult, particularly in settlements where few other Psittacids live.
 
 ### Cockatoo Sublineage
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Expressive Crest.** You gain proficiency in either the Insight or Performance skill (choose when you select this sublineage).
 
 Cockatoo Psittacids commonly possess movable crests and plumage ranging through white, black, grey, rose, yellow, and red.
 
@@ -772,6 +790,12 @@ The stereotype that they are inherently destructive usually comes from people wh
 
 ### Kea Sublineage
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Highland Problem-Solver.** You gain proficiency in the Investigation skill, and you have advantage on saving throws made to resist the effects of extreme cold.
+
 Kea Psittacids are adapted to mountains, cold highlands, and harsh environments uncommon among most of the lineage.
 
 Their plumage is often olive, green, brown, or dark grey, with vivid color concealed beneath the wings.
@@ -781,6 +805,12 @@ Kea communities are renowned for curiosity, mechanical experimentation, and the 
 They are also renowned for not always asking whether the object’s owner wanted it understood.
 
 ### Amazon Sublineage
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Commanding Voice.** You gain proficiency in the Intimidation skill. If you already have that proficiency, you may instead choose Persuasion.
 
 Amazon Psittacids are generally sturdy, green-plumed, and marked with yellow, blue, red, white, or purple around the face and wings.
 
@@ -796,6 +826,12 @@ Sometimes they indicate only confidence and volume.
 
 ### Lory and Lorikeet Sublineages
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Flower-Climber.** You gain proficiency in the Nature skill and have a climbing speed of 25 feet.
+
 Lory and Lorikeet Psittacids are commonly slender, agile, and brilliantly colored.
 
 Their tongues and beaks are adapted to nectar, fruit, and flowering plants. Many communities maintain close relationships with orchard keepers, gardeners, forest settlements, and traveling pollination routes.
@@ -805,6 +841,12 @@ Their diets may require accommodations not commonly available in colder regions.
 Lory and Lorikeet art often incorporates floral color, sweetness, fermentation, and seasonal abundance.
 
 ### Parakeet and Budgerigar Sublineages
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Flock Chatter.** You can take the Help action as a bonus action. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Parakeet and Budgerigar Psittacids tend to be compact, quick-moving, and highly social.
 
@@ -820,7 +862,7 @@ At first.
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -878,7 +920,7 @@ It is answered loudly enough to know the difference.
 
 ---
 
-## XIII. Playing a Psittacid
+## XII. Playing a Psittacid
 
 When creating a Psittacid character, consider:
 
@@ -922,6 +964,8 @@ Their lineage allows them to carry many voices.
 It does not make their own voice any less real.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Psittacid lineage does not indicate musical talent, dishonesty, compulsive imitation, emotional instability, willingness to perform, or suitability for public-facing work.

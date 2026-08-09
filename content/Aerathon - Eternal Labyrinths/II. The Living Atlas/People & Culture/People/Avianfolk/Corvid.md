@@ -199,7 +199,7 @@ It is the refusal to assume that something has become meaningless merely because
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Corvid communities commonly admire:
 
@@ -271,7 +271,7 @@ These disputes can become intense because they concern who possesses the right t
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Corvids played a vital role within the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]], though they were less celebrated in surviving Stormrider legends than the pilots who flew directly into the thunder.
 
@@ -347,7 +347,7 @@ The riders consider irritating traditionalists one of the few pleasures that rem
 
 ---
 
-## VII. Corvids in Modern Aerathon
+## VI. Corvid Peoples in Modern Aerathon
 
 Corvids can be found throughout all Five Greater Regions.
 
@@ -411,7 +411,7 @@ When storms destroy homes, Corvid communities are often among the first to catal
 
 ---
 
-## VIII. Corvids and Delving
+## VII. Corvid Delvers
 
 Corvids are frequently recruited as investigators, scouts, interpreters, trap analysts, salvagers, negotiators, and chroniclers.
 
@@ -461,7 +461,7 @@ It does prevent some of the more embarrassing deaths.
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Corvid names vary considerably by homeland and community.
 
@@ -538,7 +538,7 @@ This should not automatically be interpreted as deception.
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Corvid character has the following traits.
 
@@ -548,7 +548,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Intelligence score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -592,17 +592,29 @@ You can use this trait a number of times equal to your proficiency bonus. You re
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Corvid sublineages describe broad physiological inheritances. They do not determine personality, culture, morality, profession, or homeland.
 
 ### Raven Lineage
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Gravewise.** You gain proficiency in either the Intimidation or Religion skill (choose when you select this sublineage).
 
 Raven Corvids are often large-framed, long-winged, and capable of producing deep, highly varied vocalizations.
 
 Many possess glossy black plumage with blue or violet iridescence. Their historic association with funerary rites, battlefields, and prophecy has produced numerous superstitions that vary from reverence to distrust.
 
 ### Crow and Rook Lineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Many Eyes.** You can take the Help action as a bonus action. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Crow and Rook Corvids are among the most widespread sublineage.
 
@@ -612,11 +624,23 @@ The assumption that they always act collectively is misleading. Their communitie
 
 ### Magpie Lineage
 
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Appraiser's Eye.** You gain proficiency in the Investigation skill. After examining a nonmagical object for 1 minute, you can estimate its market value and tell whether it has been visibly altered or counterfeited.
+
 Magpie Corvids commonly possess contrasting black-and-white plumage, long tails, and expressive body language.
 
 They are strongly associated with collecting beautiful objects. While many Magpies do appreciate decoration and craft, the belief that they compulsively steal anything that shines is both inaccurate and insulting.
 
 ### Jay Lineage
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Carrying Call.** You know the *message* cantrip. Charisma is your spellcasting ability for it, and you do not require its material component.
 
 Jay Corvids include numerous brightly marked populations, often displaying blue, green, grey, white, or barred plumage.
 
@@ -626,11 +650,23 @@ Some Jay communities have developed elaborate public-speaking, warning-call, and
 
 ### Jackdaw and Chough Lineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Narrow-Winged.** Squeezing through a smaller space does not cost you extra movement, and you have advantage on Dexterity (Acrobatics) checks made to pass safely through confined spaces.
+
 Jackdaw and Chough Corvids are generally compact, agile flyers with strong communal traditions.
 
 Many are adapted to cliffs, towers, ruins, or mountain settlements. Historic populations served as messengers between Sky-Reeve outposts and as keepers of narrow aerial routes inaccessible to larger flyers.
 
 ### Nutcracker Lineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Cache Memory.** You gain proficiency in the Survival skill. You always know which direction is north, and you can accurately retrace any route you personally traveled within the last 30 days.
 
 Nutcracker Corvids tend to possess sturdy beaks, strong spatial memory, and adaptations suited to forests and highland environments.
 
@@ -638,7 +674,7 @@ Several communities maintain extensive seed stores and play important roles in f
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -692,7 +728,7 @@ Among Al’Ari Corvids, laughter in disaster is often the first sign that someon
 
 ---
 
-## XIII. Playing a Corvid
+## XII. Playing a Corvid
 
 When creating a Corvid character, consider:
 
@@ -728,6 +764,8 @@ Their lineage teaches them to recognize connections.
 It does not decide what they will do with them.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Corvid lineage does not indicate criminal inclination, dishonesty, compulsive collection, secret-keeping, or suitability for intelligence work.

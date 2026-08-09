@@ -409,7 +409,7 @@ It is to arrive knowing that someone watched the entire crossing.
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Limnid communities commonly admire:
 
@@ -525,7 +525,7 @@ These debates often become most intense during drought, when cultural principles
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Limnids occupied the wet lower reaches, cloud gardens, and rain-fed infrastructure of the ancient [[The Sky-Reeve Clans]].
 
@@ -646,7 +646,7 @@ The Mist-Riders noted that the purpose of a flight was usually to reach somewher
 
 ---
 
-## VII. Limnids in Modern Aerathon
+## VI. Limnid Peoples in Modern Aerathon
 
 Limnids live throughout the Five Greater Regions, though their largest communities remain concentrated around humid forests, rivers, wetlands, caverns, and regions with reliable rainfall.
 
@@ -729,7 +729,7 @@ They build communities that can move with it.
 
 ---
 
-## VIII. Limnids and Delving
+## VII. Limnid Delvers
 
 Limnids are commonly recruited as scouts, climbers, environmental observers, alchemical specialists, healers, and explorers of vertical or water-damaged chambers.
 
@@ -828,7 +828,7 @@ Waiting until the Limnid collapses is not evidence that the chamber was safe unt
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Limnid naming traditions vary substantially between sublineages and regions.
 
@@ -898,7 +898,7 @@ Only one meaning is generally safe.
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Limnid character has the following traits.
 
@@ -908,7 +908,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -987,11 +987,17 @@ This trait does not identify magical poisons, invisible creatures, or substances
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Limnid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Flying Frog Sublineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Canopy Sail.** While using your Gliding Form, you can move up to 2 feet horizontally for every 1 foot you descend.
 
 Flying Frog Limnids possess broad webbing between the fingers and toes, adhesive pads, powerful legs, and skin flaps that assist with gliding.
 
@@ -1024,6 +1030,12 @@ Most Flying Frogs prefer to inspect the landing first.
 
 ### Wandering Salamander Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Tail Rudder.** You gain proficiency in the Acrobatics skill, and nonmagical difficult terrain created by branches, vines, or dense canopy does not cost you extra movement.
+
 Wandering Salamander Limnids possess long limbs, gripping feet, flattened bodies, and flexible tails capable of precise aerial adjustment.
 
 Their coloration often resembles redwood bark, moss, lichen, wet stone, or dark leaves.
@@ -1036,6 +1048,12 @@ They are among the lineage’s most precise controlled gliders.
 
 ### Arboreal Salamander Sublineage
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Powerful Jaws.** Your jaws are a natural weapon, which you can use to make unarmed strikes. On a hit, they deal piercing damage equal to 1d6 + your Strength modifier instead of the bludgeoning damage normal for an unarmed strike.
+
 Arboreal Salamander Limnids tend to be heavier and more powerfully built than Wandering Salamanders.
 
 They possess strong jaws, muscular tails, broad gripping feet, and bodies suited to climbing through dense branches, hollows, and wet stone.
@@ -1047,6 +1065,12 @@ Arboreal Salamander communities often construct homes within living trees, cliff
 Their heavier bodies make them less efficient over long glides but highly capable during steep, controlled descents.
 
 ### Newt Sublineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Amphibious.** You can breathe air and water, and your swimming speed increases to 30 feet.
 
 Newt Limnids possess smooth or textured skin, long tails, webbed extremities, and expanded membranes along the limbs and tail.
 
@@ -1079,6 +1103,12 @@ Some Newt populations can regenerate damaged tissue more effectively than other 
 
 ### Flying Snake Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Serpentine Frame.** You count as one size smaller when determining which spaces you can squeeze through, and standing from prone costs you only 5 feet of movement.
+
 Flying Snake Limnids possess elongated bodies, flexible ribs, scaled skin, and serpentine lower forms.
 
 To glide, they flatten and widen the body while moving through the air in controlled lateral waves.
@@ -1110,7 +1140,7 @@ Some scholars argue that they should possess a separate lineage designation. Fly
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -1164,7 +1194,7 @@ Al’Ari Limnids know that when the rain changes the route, hesitation is simply
 
 ---
 
-## XIII. Playing a Limnid
+## XII. Playing a Limnid
 
 When creating a Limnid character, consider:
 
@@ -1218,6 +1248,8 @@ Their lineage teaches them to survive between environments.
 It does not require them to belong fully to either.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Limnid lineage does not indicate aquatic residence, poisonous physiology, emotional passivity, regenerative ability, willingness to handle hazardous substances, or suitability for water-management labor.

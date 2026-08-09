@@ -119,7 +119,7 @@ This custom is frequently misunderstood by outsiders. Raptorids may appear slow 
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Raptorid communities commonly admire:
 
@@ -174,7 +174,7 @@ These arguments prevent Raptorid culture from becoming singular or stagnant.
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Of all modern Avianfolk lineages, Raptorids maintain one of the strongest cultural connections to the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]].
 
@@ -219,7 +219,7 @@ Even the ancient Wind-Mothers who denounced the first riders are believed to hav
 
 ---
 
-## VII. Raptorids in Modern Aerathon
+## VI. Raptorid Peoples in Modern Aerathon
 
 Raptorids live throughout the Five Greater Regions.
 
@@ -271,7 +271,7 @@ Stormriding is widely practiced, though not always formally. Many Al’Ari Rapto
 
 ---
 
-## VIII. Raptorids and Delving
+## VII. Raptorid Delvers
 
 Raptorids are frequently recruited as scouts, breach observers, rescue specialists, and aerial combatants.
 
@@ -303,7 +303,7 @@ A common delver maxim warns:
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Raptorid naming traditions vary by region.
 
@@ -359,7 +359,7 @@ Calling an accomplished flyer a **Stormrider** may be complimentary. Addressing 
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Raptorid character has the following traits.
 
@@ -369,7 +369,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -413,11 +413,17 @@ The target must also succeed on a Strength saving throw against your **Skyward P
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Raptorid sublineages describe broad physiological inheritances. They do not determine personality, culture, profession, or homeland.
 
 ### Eagle Lineage
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 Eagle Raptorids are commonly broad-winged and powerfully built. Many possess exceptional soaring endurance and plumage marked by strong contrasts around the head, shoulders, or tail.
 
@@ -425,17 +431,35 @@ They are often associated with leadership because of old heraldic traditions, th
 
 ### Hawk and Kite Lineage
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Urban Wing.** You can take the Disengage action as a bonus action. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
 Hawk and Kite Raptorids possess highly varied builds adapted to forests, plains, cities, or open hills.
 
 They are often skilled at changing altitude quickly and navigating irregular terrain. Urban populations have become particularly adept at moving through towers, bridges, cranes, and crowded rooflines.
 
 ### Falcon and Kestrel Lineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Breakneck Acceleration.** Your flying speed increases to 60 feet.
+
 Falcon and Kestrel Raptorids tend toward narrow wings, light frames, and rapid aerial acceleration.
 
 They are heavily represented in racing and courier traditions, though the assumption that every Falcon desires speed has become a common source of irritation.
 
 ### Vulture and Condor Lineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Carrion Ward.** You have advantage on saving throws against poison and disease.
 
 Vulture and Condor Raptorids are adapted traditions for endurance, high-altitude soaring, and survival across harsh distances.
 
@@ -445,13 +469,19 @@ Despite this, outsiders frequently associate them with death or misfortune. Most
 
 ### Osprey Lineage
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Water Hunter.** You have a swimming speed of 30 feet, and you can hold your breath for up to 10 minutes.
+
 Osprey Raptorids possess adaptations suited to coastal, river, and lake environments.
 
 Their feet are often especially capable of gripping wet or shifting surfaces. Osprey communities commonly maintain close relationships with [[∅ Aquaticfolk|Aquaticfolk]] settlements and maritime cultures.
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -507,7 +537,7 @@ It is an announcement that danger has not yet won.
 
 ---
 
-## XIII. Playing a Raptorid
+## XII. Playing a Raptorid
 
 When creating a Raptorid character, consider:
 
@@ -539,6 +569,8 @@ Their lineage gives them wings.
 It does not decide where they fly.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Raptorid lineage does not indicate predatory temperament, military aptitude, territorial behavior, or suitability for command.

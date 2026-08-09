@@ -315,7 +315,7 @@ Aerial ability is not a measure of cultural legitimacy.
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Petaurid communities commonly admire:
 
@@ -420,7 +420,7 @@ Who is responsible for the landing—the traveler, the routekeeper, or everyone 
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Petaurids were present within the lower infrastructure of the ancient [[The Sky-Reeve Clans]], though surviving histories rarely grant them the prominence given to Stormriders, Wind-Mothers, or high-altitude pilots.
 
@@ -509,7 +509,7 @@ The Petaurid answer survives in several records:
 
 ---
 
-## VII. Petaurids in Modern Aerathon
+## VI. Petaurid Peoples in Modern Aerathon
 
 Petaurids live throughout the Five Greater Regions, particularly in forests, cliff settlements, dense cities, old towers, and communities with substantial vertical infrastructure.
 
@@ -615,7 +615,7 @@ It needs to remain intact until everyone has crossed.
 
 ---
 
-## VIII. Petaurids and Delving
+## VII. Petaurid Delvers
 
 Petaurids are commonly recruited as scouts, climbers, navigators, trap inspectors, rescue specialists, and explorers of vertical chambers.
 
@@ -702,7 +702,7 @@ A visible landing is not proof of a reachable landing.
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Petaurid naming traditions vary by region and sublineage.
 
@@ -768,7 +768,7 @@ Calling one **afraid to leap** may result in being asked to demonstrate the rout
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Petaurid character has the following traits.
 
@@ -778,7 +778,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -840,11 +840,17 @@ You can use this trait a number of times equal to your proficiency bonus. You re
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Petaurid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Sugar Glider Sublineage
+
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Social Anchor.** You gain proficiency in the Persuasion skill. You can take the Help action as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
 Sugar Glider Petaurids are generally compact, agile, and highly social.
 
@@ -858,6 +864,12 @@ It does not mean every Sugar Glider is enthusiastic about pastries, though many 
 
 ### Flying Squirrel Sublineage
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Tail Rudder.** While using your Gliding Membrane, you can move up to 3 feet horizontally for every 1 foot you descend.
+
 Flying Squirrel Petaurids are among the most widespread members of the lineage.
 
 Their fur may be grey, brown, rust, black, white, or patterned. Their tails are generally broad and heavily furred, providing considerable aerial control.
@@ -869,6 +881,12 @@ They are known for adapting established architecture into connected aerial route
 Property owners do not always appreciate the improvements.
 
 ### Colugo Sublineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Full Mantle.** You can use your Gliding Membrane while wearing medium armor, though not while wearing heavy armor.
 
 Colugo Petaurids possess some of the broadest patagia within the lineage.
 
@@ -884,6 +902,12 @@ Colugos generally regard the observer as an unfinished combination of poor manne
 
 ### Feathertail Glider Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Fine Control.** The movement granted by Canopy Bound increases to 20 feet, and you may end that movement clinging to a climbable vertical surface.
+
 Feathertail Glider Petaurids are typically light-framed and distinguished by flattened tails edged with stiff hair resembling a feather.
 
 Their tails provide exceptional control during short, precise glides.
@@ -896,6 +920,12 @@ Their small frames can lead others to underestimate their endurance or treat adu
 
 ### Greater Glider Sublineage
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
 Greater Glider Petaurids are generally taller, heavier, and more thickly furred than most members of the lineage.
 
 Their coloration may include black, brown, grey, cream, white, or mottled combinations. Their ears are often large and rounded.
@@ -905,6 +935,12 @@ Greater Glider communities frequently inhabit cold high forests, mountain woodla
 They excel at long, stable glides but may require broader launch and landing spaces than smaller sublineages.
 
 ### Anomalure Sublineage
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Scaled Brace.** When an effect would move you against your will, you can use your reaction to reduce that movement by 10 feet and avoid being knocked from a surface you are climbing. You can do so a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
 Anomalure Petaurids are distinguished by strong climbing claws, broad membranes, and rows of stiff scales beneath portions of the tail.
 
@@ -920,7 +956,7 @@ This has become a recurring point of negotiation in Vinyoti rental agreements.
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -974,7 +1010,7 @@ Al’Ari Petaurids know that waiting for the perfect route is another way of giv
 
 ---
 
-## XIII. Playing a Petaurid
+## XII. Playing a Petaurid
 
 When creating a Petaurid character, consider:
 
@@ -1024,6 +1060,8 @@ Their lineage teaches them to identify the landing.
 It does not promise that the landing will remain.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Petaurid lineage does not indicate cowardice, nervous temperament, architectural expertise, nocturnal habits, willingness to climb, or suitability for courier and maintenance work.

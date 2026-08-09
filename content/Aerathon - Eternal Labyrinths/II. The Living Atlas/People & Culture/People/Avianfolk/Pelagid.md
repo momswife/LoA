@@ -249,7 +249,7 @@ Deciding when the place should be reclaimed is rarely simple.
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Pelagid communities commonly admire:
 
@@ -353,7 +353,7 @@ Those who keep the light burning are sometimes remembered only when it goes out.
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Pelagids played a vital role within the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]] as far-route navigators, storm observers, current chartkeepers, supply carriers, and messengers between isolated aerial settlements.
 
@@ -436,7 +436,7 @@ The evidence remains incomplete, partly because the ocean claimed many of their 
 
 ---
 
-## VII. Pelagids in Modern Aerathon
+## VI. Pelagid Peoples in Modern Aerathon
 
 Pelagids live throughout the Five Greater Regions, though their largest populations remain concentrated along coastlines, islands, major rivers, and skyship routes.
 
@@ -531,7 +531,7 @@ Both are considered acceptable.
 
 ---
 
-## VIII. Pelagids and Delving
+## VII. Pelagid Delvers
 
 Pelagids commonly serve as navigators, scouts, long-range messengers, rescue specialists, flooded-chamber explorers, and observers of environmental anomalies.
 
@@ -616,7 +616,7 @@ The Labyrinth appears to account for that tendency.
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Pelagid naming traditions vary widely by homeland and sublineage.
 
@@ -684,7 +684,7 @@ The difference depends almost entirely upon whether the speaker has ever kept a 
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Pelagid character has the following traits.
 
@@ -694,7 +694,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Constitution score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -750,11 +750,17 @@ You can use this reaction a number of times equal to your proficiency bonus. You
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Pelagid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Albatross Sublineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Effortless Soar.** When you take the Dash action while flying, opportunity attacks against you have disadvantage until the end of that turn. You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
 Albatross Pelagids commonly possess enormous wingspans, long bodies, and pale plumage marked by black, grey, brown, or gold.
 
@@ -765,6 +771,12 @@ Albatross communities maintain some of the most extensive Horizon Records in Aer
 Their endurance has produced a reputation for emotional stoicism. Many individuals find this expectation burdensome, especially when exhaustion or grief is interpreted as personal failure.
 
 ### Gull Sublineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Harbor Forager.** You gain proficiency in either the Investigation or Survival skill (choose when you select this sublineage). You have advantage on ability checks made to find food or safe shelter near a coast or settlement.
 
 Gull Pelagids are highly adaptable and widely distributed.
 
@@ -780,6 +792,12 @@ It does explain why Gulls are often excellent salvagers, negotiators, and urban 
 
 ### Tern Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Far-Migrant.** Your flying speed increases to 60 feet.
+
 Tern Pelagids tend toward slender bodies, narrow wings, forked tails, and swift, precise flight.
 
 Many undertake extraordinary migrations between distant seasonal homes. Their plumage often includes white, grey, black, and occasional red or orange markings.
@@ -789,6 +807,12 @@ Tern communities frequently maintain relationships across several regions and co
 Individuals who choose permanent settlement may face assumptions that they have abandoned tradition.
 
 ### Pelican Sublineage
+
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Rescue Haul.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You also have advantage on Strength (Athletics) checks made to carry or pull a willing or incapacitated creature through water.
 
 Pelican Pelagids are commonly large-framed, broad-winged, and distinguished by expandable throat pouches.
 
@@ -802,6 +826,12 @@ Requests to “hold something for a moment” should be made politely and accept
 
 ### Cormorant Sublineage
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Deep-Plunge.** Your swimming speed increases to 40 feet, and you can hold your breath for up to 30 minutes.
+
 Cormorant Pelagids possess dense, dark plumage, long necks, powerful feet, and exceptional underwater mobility.
 
 Unlike many water-resistant Avianfolk, their feathers may absorb a controlled amount of water, reducing buoyancy and improving diving ability.
@@ -813,6 +843,12 @@ Cormorant communities are common around rocky coasts, rivers, island settlements
 Their comfort beneath the surface makes them especially valuable in salvage and rescue work, though many resent being treated as natural diving equipment.
 
 ### Frigatebird Sublineage
+
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Stay Aloft.** As a bonus action, you can fly up to 10 feet without provoking opportunity attacks. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Frigatebird Pelagids possess long wings, forked tails, and extremely lightweight bodies suited to sustained flight.
 
@@ -826,6 +862,12 @@ Their association with taking food from other flyers has produced an unfair repu
 
 ### Puffin Sublineage
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Cold-Water Plumage.** You have resistance to cold damage.
+
 Puffin Pelagids are compact, cold-adapted, and capable swimmers.
 
 They commonly possess black-and-white plumage with brightly colored beaks and facial markings. Their wings are suited both to rapid flight and underwater propulsion.
@@ -838,7 +880,7 @@ Puffins generally tolerate the observation until it becomes an excuse to treat t
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -898,7 +940,7 @@ Find me if you can.
 
 ---
 
-## XIII. Playing a Pelagid
+## XII. Playing a Pelagid
 
 When creating a Pelagid character, consider:
 
@@ -944,6 +986,8 @@ Their lineage prepares them to cross great distances.
 It does not require them to leave.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Pelagid lineage does not indicate wanderlust, emotional detachment, maritime profession, navigational expertise, willingness to transport cargo, or resistance to exhaustion beyond ordinary physiological limits.

@@ -253,7 +253,7 @@ Within the community, the exchange may be perfectly ordered.
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Passerid communities commonly admire:
 
@@ -329,7 +329,7 @@ These debates are especially fierce where music, religion, politics, and commerc
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Passerids held an essential role within the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]].
 
@@ -407,7 +407,7 @@ Performers generally consider the absence of mass electrocution an improvement.
 
 ---
 
-## VII. Passerids in Modern Aerathon
+## VI. Passerid Peoples in Modern Aerathon
 
 Passerids live throughout the Five Greater Regions.
 
@@ -475,7 +475,7 @@ A song that cannot survive change, they argue, was already dead.
 
 ---
 
-## VIII. Passerids and Delving
+## VII. Passerid Delvers
 
 Passerids commonly serve as coordinators, scouts, negotiators, support specialists, navigators, signalers, and magical performers.
 
@@ -518,7 +518,7 @@ It is less useful when no one remembers which response they were assigned.
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Passerid naming traditions vary widely.
 
@@ -588,7 +588,7 @@ Shouting one frivolously is considered inconsiderate.
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Passerid character has the following traits.
 
@@ -598,7 +598,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Charisma score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -644,11 +644,17 @@ You can use this trait a number of times equal to your proficiency bonus. You re
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Passerid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Sparrow Sublineage
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Crowded-Sky.** You can move through the space of any creature one size larger than you, and nonmagical difficult terrain created by crowds does not cost you extra movement.
 
 Sparrow Passerids are generally compact, quick, and widely distributed.
 
@@ -660,6 +666,12 @@ Some Sparrow Passerids embrace that symbolism. Others resent being treated as or
 
 ### Finch and Canary Sublineages
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Clear Note.** When a creature benefits from your Resonant Call, it also gains temporary hit points equal to your proficiency bonus.
+
 Finch and Canary Passerids commonly possess short, strong beaks and highly varied plumage.
 
 Yellow, red, orange, black, white, brown, and patterned coloration are all common. Many communities possess elaborate vocal traditions, though singing skill remains learned rather than guaranteed.
@@ -670,6 +682,12 @@ Modern Passerids regard involuntary use in such work as a serious historical abu
 
 ### Swallow and Martin Sublineages
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Swift-Winged.** Your flying speed increases to 60 feet.
+
 Swallow and Martin Passerids tend toward narrow wings, forked or tapered tails, and agile aerial movement.
 
 They are strongly represented among migratory communities, couriers, sailors, and people who spend much of their lives moving between seasonal homes.
@@ -679,6 +697,12 @@ Their arrival is treated as a sign of renewal in many regions.
 This symbolism can create pressure upon individuals who would prefer to settle permanently.
 
 ### Starling Sublineage
+
+**Ability Score Increase.** Your Intelligence score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Murmuration Step.** When an ally you can see within 30 feet of you moves, you can use your reaction to move up to 10 feet without provoking opportunity attacks. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Starling Passerids often possess dark plumage marked by iridescence, speckles, or seasonal patterning.
 
@@ -692,6 +716,12 @@ Moving together requires each participant to remain acutely aware of everyone ne
 
 ### Lark and Wren Sublineages
 
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size can be Small or Medium (choose when you select this sublineage).
+
+**Shelter Builder.** You gain proficiency in the Survival skill and have advantage on ability checks made to find or construct shelter from natural materials.
+
 Lark and Wren Passerids are generally small-framed and known for strong voices relative to their size.
 
 Larks are often associated with open country, high song, and dawn traditions. Wrens are more commonly connected with dense vegetation, narrow spaces, and intricate shelter-building.
@@ -704,6 +734,12 @@ It is sometimes extremely tiring.
 
 ### Thrush and Nightingale Sublineages
 
+**Ability Score Increase.** Your Charisma score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Soothing Refrain.** You gain proficiency in the Persuasion skill. At the end of a short rest, choose one creature other than yourself that heard you sing or speak during the rest. That creature gains temporary hit points equal to your proficiency bonus + your Charisma modifier (minimum of 1).
+
 Thrush and Nightingale Passerids commonly possess complex, resonant voices and plumage ranging from subdued earth tones to striking blue, orange, or speckled patterns.
 
 Their sublineages are strongly associated with poetry, mourning, courtship, and artistic performance.
@@ -712,7 +748,7 @@ Many individuals find these expectations restrictive, particularly when their in
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -772,7 +808,7 @@ Sometimes the storm should know it has been heard.
 
 ---
 
-## XIII. Playing a Passerid
+## XII. Playing a Passerid
 
 When creating a Passerid character, consider:
 
@@ -810,6 +846,8 @@ Their lineage gives weight to the voice.
 It does not require them to use it for anyone else.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Passerid lineage does not indicate musical talent, emotional availability, cheerfulness, willingness to perform, or suitability for diplomatic and entertainment work.

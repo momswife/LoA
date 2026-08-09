@@ -236,7 +236,7 @@ Conflicts are especially common in Vinyot, where privately controlled docks, air
 
 ---
 
-## V. Inner Life, Virtue, and Shadow
+## V. Inner Life and Modern Debate
 
 Anatid communities commonly admire:
 
@@ -316,7 +316,7 @@ Does belonging come from staying, returning, or being welcomed when one does?
 
 ---
 
-## VI. The Sky-Reeve Inheritance
+### The Sky-Reeve Inheritance
 
 Anatids served throughout the ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]] as route guides, weather observers, water-landing specialists, rescue flyers, and keepers of the lower currents.
 
@@ -404,7 +404,7 @@ Modern Anatid Stormriders remain common in relay races, long-distance courses, a
 
 ---
 
-## VII. Anatids in Modern Aerathon
+## VI. Anatid Peoples in Modern Aerathon
 
 Anatids live throughout all Five Greater Regions.
 
@@ -487,7 +487,7 @@ The tradition lies not in following the same path forever, but in ensuring that 
 
 ---
 
-## VIII. Anatids and Delving
+## VII. Anatid Delvers
 
 Anatids are commonly recruited as scouts, rescue specialists, navigators, flooded-chamber explorers, transporters, and defensive support.
 
@@ -540,7 +540,7 @@ The Labyrinth is adept at punishing the person who mistakes carrying the burden 
 
 ---
 
-## IX. Names, Titles, and Address
+## VIII. Names, Titles, and Address
 
 Anatid naming traditions vary by region, sublineage, and flyway.
 
@@ -604,7 +604,7 @@ Calling one **flightless** as an insult is both inaccurate in many cases and lik
 
 ---
 
-## X. D&D Lineage Traits
+## IX. D&D Lineage Traits
 
 Your Anatid character has the following traits.
 
@@ -614,7 +614,7 @@ You are a Humanoid.
 
 ### Ability Score Increase
 
-Your Dexterity score increases by 2, and your Constitution score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Size
 
@@ -664,11 +664,17 @@ You can use this trait a number of times equal to your proficiency bonus. You re
 
 ---
 
-## XI. Recognized Sublineages
+## X. Recognized Sublineages
 
 Anatid sublineages represent distinct hereditary and physiological branches within the broader lineage. They may influence appearance, anatomy, inherited adaptations, and cultural history, but do not determine personality, morality, profession, or homeland.
 
 ### Duck Sublineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Marshwise.** You gain proficiency in the Survival skill. Nonmagical difficult terrain caused by mud, reeds, or shallow water does not cost you extra movement.
 
 Duck Anatids are among the most varied and widespread members of the lineage.
 
@@ -682,6 +688,12 @@ Duck Anatids generally consider surviving nearly everywhere a sufficient respons
 
 ### Goose Sublineage
 
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Long Formation.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You also have advantage on Constitution saving throws made to resist exhaustion from a forced march.
+
 Goose Anatids are commonly tall, powerfully built, and adapted for long migrations.
 
 Their plumage often includes grey, white, brown, black, or barred patterns. Many possess strong voices capable of carrying across great distances.
@@ -694,6 +706,12 @@ Most distinguish carefully between unprovoked aggression and ensuring that a cle
 
 ### Swan Sublineage
 
+**Ability Score Increase.** Your Strength score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Powerful Wings.** When a Large or smaller creature fails its saving throw against your **Skyward Pulse**, you can push it 10 feet instead of 5 feet.
+
 Swan Anatids are generally large-bodied, long-necked, and physically powerful.
 
 Their plumage may be white, black, grey, or marked by contrasting coloration. Their movements upon water are often described as graceful, leading outsiders to assume equal calm beneath the surface.
@@ -703,6 +721,12 @@ Swan communities possess traditions of ceremony, territorial guardianship, partn
 Individuals may find the expectation of elegance restrictive—particularly when angry, frightened, injured, or simply uninterested in appearing composed.
 
 ### Loon Sublineage
+
+**Ability Score Increase.** Your Wisdom score increases by 1.
+
+**Size.** Your size is Medium.
+
+**Deep Diver.** Your swimming speed increases to 40 feet, and you can hold your breath for up to 1 hour.
 
 Loon Anatids possess long bodies, strong legs, and exceptional diving ability.
 
@@ -716,6 +740,12 @@ Their calls have become associated with loneliness and omens in outsider folklor
 
 ### Grebe Sublineage
 
+**Ability Score Increase.** Your Dexterity score increases by 1.
+
+**Size.** Your size is Small or Medium, chosen when you select this sublineage.
+
+**Reed Concealment.** You can take the Hide action while lightly obscured by mist, reeds, or other aquatic vegetation. Moving through nonmagical aquatic vegetation does not cost you extra movement.
+
 Grebe Anatids are highly accomplished swimmers and divers, often possessing compact wings, strong legs, and distinctive head or neck plumage.
 
 Some Grebes have reduced long-distance flight ability compared with other Anatids, while others migrate normally.
@@ -726,7 +756,7 @@ Elaborate courtship dances and ceremonial movements are common in several Grebe 
 
 ---
 
-## XII. Homeland Imprints
+## XI. Homeland Imprints
 
 If the campaign uses Homeland Imprints, choose one trait representing the region that most strongly shaped your character.
 
@@ -784,7 +814,7 @@ The community is measured by what it gathers again.
 
 ---
 
-## XIII. Playing an Anatid
+## XII. Playing an Anatid
 
 When creating an Anatid character, consider:
 
@@ -826,6 +856,8 @@ Their lineage teaches them how to return.
 It does not decide where they belong.
 
 ---
+
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Anatid lineage does not indicate docility, aggression, monogamy, migratory obligation, aquatic profession, or willingness to provide transport.
