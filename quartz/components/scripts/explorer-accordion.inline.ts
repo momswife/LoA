@@ -62,22 +62,6 @@ if (explorerAccordionRoot.dataset.explorerAccordionReady !== "true") {
     button?.setAttribute("aria-expanded", String(open))
   }
 
-  const collapseSiblingFolders = (item: Element, changes: Map<string, boolean>) => {
-    const siblings = item.parentElement?.children
-    if (!siblings) return
-
-    for (const sibling of siblings) {
-      if (sibling === item) continue
-      const siblingOuter = getFolderOuter(sibling)
-      if (!siblingOuter?.classList.contains("open")) continue
-
-      siblingOuter.classList.remove("open")
-      syncFolderAria(sibling, false)
-      const siblingPath = getFolderPath(sibling)
-      if (siblingPath) changes.set(siblingPath, true)
-    }
-  }
-
   const focusActiveBranch = (explorer: HTMLElement) => {
     for (const item of explorer.querySelectorAll("li")) {
       const outer = getFolderOuter(item)
@@ -96,7 +80,6 @@ if (explorerAccordionRoot.dataset.explorerAccordionReady !== "true") {
         syncFolderAria(item, true)
         const folderPath = getFolderPath(item)
         if (folderPath) changes.set(folderPath, false)
-        collapseSiblingFolders(item, changes)
       }
       item = item.parentElement?.closest("li") ?? null
     }
@@ -121,31 +104,61 @@ if (explorerAccordionRoot.dataset.explorerAccordionReady !== "true") {
     (event) => {
       const target = event.target
       if (!(target instanceof Element)) return
+
+      const explorerToggle = target.closest<HTMLElement>(".explorer-toggle")
+      if (explorerToggle) {
+        const explorer = explorerToggle.closest<HTMLElement>(".explorer")
+        if (!explorer) return
+
+        event.preventDefault()
+        event.stopPropagation()
+        const collapsed = explorer.classList.toggle("collapsed")
+        explorer.setAttribute("aria-expanded", String(!collapsed))
+
+        const mobileLayout = window.matchMedia("(max-width: 800px)").matches
+        document.documentElement.classList.toggle("mobile-no-scroll", mobileLayout && !collapsed)
+        return
+      }
+
       const control = target.closest<HTMLElement>(".folder-button, .folder-icon")
       const explorer = control?.closest<HTMLElement>(".explorer")
       const item = control?.closest("li")
       if (!explorer || !item) return
 
-      requestAnimationFrame(() => {
-        const outer = getFolderOuter(item)
-        if (!outer) return
+      const outer = getFolderOuter(item)
+      if (!outer) return
 
-        const open = outer.classList.contains("open")
-        const changes = new Map<string, boolean>()
-        const folderPath = getFolderPath(item)
-        if (folderPath) changes.set(folderPath, !open)
-        syncFolderAria(item, open)
-        if (open) collapseSiblingFolders(item, changes)
-        persistFolderChanges(explorer, changes)
-      })
+      event.preventDefault()
+      event.stopPropagation()
+      const open = outer.classList.toggle("open")
+      syncFolderAria(item, open)
+
+      const folderPath = getFolderPath(item)
+      if (folderPath) persistFolderChanges(explorer, new Map([[folderPath, !open]]))
     },
     true,
   )
 
   const treeObserver = new MutationObserver((mutations) => {
-    if (mutations.some((mutation) => mutation.addedNodes.length > 0)) {
-      scheduleActiveBranchFocus()
-    }
+    const explorerTreeChanged = mutations.some((mutation) => {
+      const target = mutation.target
+      if (
+        target instanceof Element &&
+        (target.matches(".explorer-ul") || target.closest(".explorer-ul"))
+      ) {
+        return true
+      }
+
+      return [...mutation.addedNodes].some(
+        (node) =>
+          node instanceof Element &&
+          (node.matches(".explorer-ul") ||
+            node.querySelector(".explorer-ul") !== null ||
+            node.closest(".explorer-ul") !== null),
+      )
+    })
+
+    if (explorerTreeChanged) scheduleActiveBranchFocus()
   })
   treeObserver.observe(document.body, { childList: true, subtree: true })
 

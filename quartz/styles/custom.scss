@@ -788,6 +788,39 @@ a.home-gateway__card--current.internal {
   }
 }
 
+// Keep closing explorer branches from lingering as visible, untouchable content.
+// Branches may remain open beside one another; only the branch a reader closes is hidden.
+.explorer-content .folder-outer {
+  visibility: hidden;
+  pointer-events: none;
+  transition-property: grid-template-rows;
+
+  &.open {
+    visibility: visible;
+    pointer-events: auto;
+  }
+}
+
+@media all and (max-width: 800px) {
+  html.mobile-no-scroll {
+    overflow: hidden;
+  }
+
+  .explorer.collapsed > .explorer-content {
+    pointer-events: none;
+    transition:
+      transform 200ms ease,
+      visibility 0s linear 200ms;
+  }
+
+  .explorer:not(.collapsed) > .explorer-content {
+    pointer-events: auto;
+    transition:
+      transform 200ms ease,
+      visibility 0s linear;
+  }
+}
+
 ul.toc-content.overflow > li > a {
   display: inline-block;
   max-width: 100%;
