@@ -21,7 +21,6 @@ import { PageTitle } from "../../.quartz/plugins/page-title/dist/index.js"
 import { ReaderMode } from "../../.quartz/plugins/reader-mode/dist/index.js"
 import { Search } from "../../.quartz/plugins/search/dist/index.js"
 import { TableOfContents } from "../../.quartz/plugins/table-of-contents/dist/index.js"
-import { TagList } from "../../.quartz/plugins/tag-list/dist/index.js"
 
 export { componentRegistry, defineComponent } from "./registry"
 export { External } from "./external"
@@ -52,5 +51,4 @@ export {
   PageTitle,
   ReaderMode,
   Search,
-  TagList,
 }

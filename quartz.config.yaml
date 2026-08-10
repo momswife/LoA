@@ -96,24 +96,11 @@ plugins:
     options:
       renderEngine: katex
     order: 80
-  - source: github:quartz-community/citations
-    enabled: false
-    order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
     order: 90
-  - source: github:quartz-community/ox-hugo
-    enabled: false
-    order: 91
-  - source: github:quartz-community/roam
-    enabled: false
-    order: 92
-  - source: github:quartz-community/fonts
-    enabled: false
   - source: github:quartz-community/remove-draft
     enabled: true
-  - source: github:quartz-community/explicit-publish
-    enabled: false
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
@@ -125,12 +112,6 @@ plugins:
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
-  - source: github:quartz-community/stacked-pages
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -140,8 +121,6 @@ plugins:
       enableRSS: true
   - source: github:quartz-community/favicon
     enabled: true
-  - source: github:quartz-community/og-image
-    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -159,11 +138,6 @@ plugins:
     layout:
       position: left
       priority: 50
-  - source: github:quartz-community/graph
-    enabled: false
-    layout:
-      position: right
-      priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -172,11 +146,6 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
-  - source: github:quartz-community/backlinks
-    enabled: false
-    layout:
-      position: right
-      priority: 50
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -187,11 +156,6 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
-  - source: github:quartz-community/tag-list
-    enabled: false
-    layout:
-      position: beforeBody
-      priority: 30
   - source: github:quartz-community/page-title
     enabled: true
     layout:
@@ -217,22 +181,12 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
-    enabled: false
-    options:
-      provider: giscus
-      options: {}
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/footer
     enabled: true
     options:
       links:
         GitHub: https://github.com/momswife/LoA
         Quartz Engine: https://quartz.jzhao.xyz/
-  - source: github:quartz-community/recent-notes
-    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -266,14 +220,6 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: false
-    options:
-      theme: its-theme
-      variation: ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:

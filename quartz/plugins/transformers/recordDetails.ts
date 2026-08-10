@@ -53,8 +53,13 @@ function splitRows(children: ElementContent[]): ElementContent[][] {
 }
 
 function removeEndOfFileMarker(children: ElementContent[]): ElementContent[] {
-  return children.flatMap((child) => {
-    if (!isElement(child, "p")) return [child]
+  const result: ElementContent[] = []
+
+  for (const child of children) {
+    if (!isElement(child, "p")) {
+      result.push(child)
+      continue
+    }
 
     const rows = splitRows(child.children)
     const filingStart = rows.findIndex((row) =>
@@ -66,15 +71,23 @@ function removeEndOfFileMarker(children: ElementContent[]): ElementContent[] {
           row.map(textContent).join(""),
         ),
     )
-    const paragraphChildren = footerRows.flatMap((row, index) => [
-      ...(index > 0
-        ? [{ type: "element", tagName: "br", properties: {}, children: [] } satisfies Element]
-        : []),
-      ...row,
-    ])
+    const paragraphChildren: ElementContent[] = []
+    for (const [index, row] of footerRows.entries()) {
+      if (index > 0) {
+        paragraphChildren.push({
+          type: "element",
+          tagName: "br",
+          properties: {},
+          children: [],
+        })
+      }
+      paragraphChildren.push(...row)
+    }
 
-    return [{ ...child, children: paragraphChildren }]
-  })
+    result.push({ ...child, children: paragraphChildren })
+  }
+
+  return result
 }
 
 function trimLeadingPunctuation(children: ElementContent[]): ElementContent[] {

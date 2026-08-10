@@ -1,8 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { FullSlug } from "./quartz/util/path"
-import { concatenateResources } from "./quartz/util/resources"
-import explorerAccordionScript from "./quartz/components/scripts/explorer-accordion.inline"
 import type { ExplorerOptions } from "./.quartz/plugins/explorer/dist/index.js"
 
 const siteExplorerOptions = {
@@ -26,13 +24,9 @@ const siteExplorerOptions = {
   },
 } satisfies Partial<ExplorerOptions>
 
-const createSiteExplorer = () => {
-  const explorer = Component.Explorer({
-    ...siteExplorerOptions,
-  })
-  explorer.afterDOMLoaded = concatenateResources(explorer.afterDOMLoaded, explorerAccordionScript)
-  return explorer
-}
+// Reuse one Explorer instance across content and list layouts so its lifecycle
+// script is registered only once.
+const siteExplorer = Component.Explorer(siteExplorerOptions)
 
 const siteBreadcrumbOptions = {
   hideTopLevelFolder: false,
@@ -82,6 +76,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/momswife/LoA",
+      "Beast World": "https://thedelversguide.com/",
       "Quartz Engine": "https://quartz.jzhao.xyz/",
     },
   }),
@@ -119,7 +114,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
   ],
-  left: [createSiteExplorer()],
+  left: [siteExplorer],
   right: [
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
@@ -131,6 +126,6 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [siteListBreadcrumbs, Component.ArticleTitle(), Component.ContentMeta()],
-  left: [createSiteExplorer()],
+  left: [siteExplorer],
   right: [],
 }

@@ -4,7 +4,6 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../../.quartz/plugins"
 
 const initializeDefaultTheme = `
 try {
@@ -17,12 +16,7 @@ try {
 `
 
 export default (() => {
-  const Head: QuartzComponent = ({
-    cfg,
-    fileData,
-    externalResources,
-    ctx,
-  }: QuartzComponentProps) => {
+  const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
       (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
@@ -42,9 +36,6 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
-    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
-    )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image-lorevault.png`
     const ogImageDefaultAlt =
       "The Lore Vault of Aerathon, an illuminated fantasy archive of maps and records"
@@ -82,22 +73,18 @@ export default (() => {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
-        {!usesCustomOgImage && (
-          <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta property="og:image:secure_url" content={ogImageDefaultPath} />
-            <meta property="og:image:width" content="1732" />
-            <meta property="og:image:height" content="908" />
-            <meta property="og:image:alt" content={ogImageDefaultAlt} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta name="twitter:image:alt" content={ogImageDefaultAlt} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
-          </>
-        )}
+        <meta property="og:image" content={ogImageDefaultPath} />
+        <meta property="og:image:url" content={ogImageDefaultPath} />
+        <meta property="og:image:secure_url" content={ogImageDefaultPath} />
+        <meta property="og:image:width" content="1732" />
+        <meta property="og:image:height" content="908" />
+        <meta property="og:image:alt" content={ogImageDefaultAlt} />
+        <meta name="twitter:image" content={ogImageDefaultPath} />
+        <meta name="twitter:image:alt" content={ogImageDefaultAlt} />
+        <meta
+          property="og:image:type"
+          content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+        />
 
         {cfg.baseUrl && (
           <>

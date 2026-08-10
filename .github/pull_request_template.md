@@ -13,6 +13,8 @@ Describe what changed and why.
 ## Checks
 
 - [ ] `npm run check`
+- [ ] `npm run wiki:format:check`
+- [ ] `npm run wiki:check`
 - [ ] `npm test`
 - [ ] `npm run build`
 

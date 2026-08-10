@@ -64,6 +64,11 @@ async function transpileWorkerScript() {
     packages: "external",
     sourcemap: true,
     sourcesContent: false,
+    // Match the primary build context. Note Properties bundles gray-matter's unused
+    // JavaScript frontmatter engine even though this site supplies YAML/TOML engines.
+    logOverride: {
+      "direct-eval": "silent",
+    },
     plugins: [
       {
         name: "css-and-scripts-as-text",

@@ -17,6 +17,7 @@ These rules apply repository-wide unless a more specific nested `AGENTS.md` says
   - `III. Monthly Ledger/` contains provisional notices, reports, rumors, and missions.
 - `content/templates/` contains unpublished authoring templates.
 - `quartz/` and the root Quartz configuration are site code, not canon.
+- Quartz v5 uses `quartz.config.yaml` through `quartz.ts`; `quartz.layout.ts` is the intentional project-specific layout override. Do not recreate the retired `quartz.config.ts` entry point.
 - Do not hand-edit generated or local-state paths: `public/`, `node_modules/`, `.quartz/`, `.quartz-cache/`, `.obsidian/`, or `tsconfig.tsbuildinfo`.
 
 ## Editorial Work and Canon

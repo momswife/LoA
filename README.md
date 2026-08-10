@@ -11,6 +11,8 @@ This repository is an owned fork of Quartz v5. The Quartz engine remains vendore
 - `content/templates/` - authoring templates ignored by Quartz publishing.
 - `quartz/` - vendored Quartz static-site engine.
 - `quartz.config.yaml` - site configuration, theme, plugins, layout, and publishing behavior.
+- `quartz.ts` - active Quartz v5 entry point; loads the YAML configuration and project overrides.
+- `quartz.layout.ts` - project-owned component arrangement and interactive layout behavior passed to the v5 loader.
 - `quartz.lock.json` - locked community-plugin revisions used for reproducible builds.
 - `public/` - generated site output. Do not edit by hand.
 - `.quartz-cache/` and `node_modules/` - local generated/dependency folders.
@@ -45,13 +47,17 @@ Run checks:
 ```sh
 npm run check
 npm test
+npm run wiki:format:check
+npm run wiki:check
 ```
 
 ## Publishing
 
 GitHub Pages is deployed from branch `master` by `.github/workflows/deploy.yml`.
 
-The workflow installs dependencies with `npm ci`, builds the site with `npm run build`, uploads `public/`, and deploys through GitHub Pages.
+The workflow installs dependencies and locked Quartz plugins, runs the TypeScript, formatting, test,
+and wiki-consistency checks, builds the site, and deploys `public/` through GitHub Pages. Pull requests
+into `master` run the same validation in `.github/workflows/ci.yaml`.
 
 ## Authoring Notes
 
