@@ -3,7 +3,7 @@
 
 ---
 
-# **The Age of Collapse**
+# The Age of Collapse
 
 ### _Era IV — Silence, Fracture, and the Death of Certainty_
 
@@ -21,7 +21,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Age of Collapse** was not a single apocalypse.
 
@@ -57,7 +57,7 @@ Labyrinths did.
 
 ---
 
-## **II. Fragmented Sources and Collapse-Era Truth**
+## II. Fragmented Sources and Collapse-Era Truth
 
 The Age of Collapse is one of the most difficult periods to reconstruct.
 
@@ -94,7 +94,7 @@ Chronological contradiction is one of the defining facts of the era.
 
 ---
 
-## **III. The World at the Edge of Failure**
+## III. The World at the Edge of Failure
 
 At the beginning of 2600 A.D., much of Aerathon still appeared prosperous.
 
@@ -136,7 +136,7 @@ By the time the pattern became undeniable, the institutions capable of respondin
 
 ---
 
-## **IV. The Ruin of the Guild-States**
+## IV. The Ruin of the Guild-States
 
 The great guild-states did not all fall in the same manner.
 
@@ -148,7 +148,7 @@ Some sealed themselves away.
 
 Some survived by becoming harsher than the empires they had replaced.
 
-### **Vastel and the War of Necessary Works**
+### Vastel and the War of Necessary Works
 
 Vastel’s **Assembly of Necessary Works** fractured when its member guilds could no longer agree which civic systems deserved dwindling magical power.
 
@@ -166,7 +166,7 @@ No formal armies marched. Guilds instead sabotaged one another’s infrastructur
 
 By 2661 A.D., entire districts of Vastel were operating under different laws, temperatures, and local measures of time.
 
-### **The Brass Republic**
+### The Brass Republic
 
 The Brass Republic survived longer than many neighboring states by enforcing strict rationing and dismantling unstable machinery.
 
@@ -178,7 +178,7 @@ The Republic began confiscating private tools, regulating speech considered like
 
 In rejecting the old empire’s sacred hierarchy, it created a hierarchy of necessity.
 
-### **The Sealed Forges**
+### The Sealed Forges
 
 Several Arnerian forge-cities closed their gates and withdrew beneath the earth.
 
@@ -188,7 +188,7 @@ Others were not heard from again.
 
 Centuries later, delvers discovered forge complexes whose machinery still operated and whose inhabitants had become something other than the people who first sealed the doors.
 
-### **The River Houses**
+### The River Houses
 
 The mobile River Houses abandoned poisoned channels and divided into wandering fleets.
 
@@ -196,7 +196,7 @@ Their shell-ledgers became increasingly important as conventional archives were 
 
 Several modern Arnerian communities trace their legal identity to a single living record-bearer who survived the entire migration.
 
-### **The High Aeries**
+### The High Aeries
 
 Avian settlements suffered heavily as atmospheric magic destabilized.
 
@@ -216,7 +216,7 @@ Trust had become scarce.
 
 ---
 
-## **V. The Collapse Concord**
+## V. The Collapse Concord
 
 In **2632 A.D.**, surviving guilds, Beastfolk confederations, religious authorities, and regional governments assembled at the fortress-city of **Cindervault**.
 
@@ -245,7 +245,7 @@ It also established the first interregional categories for magical hazards.
 
 These classifications were inconsistent and often symbolic, but they became distant ancestors of modern Breach Law.
 
-### **The Unmaking Crews**
+### The Unmaking Crews
 
 Specialist teams traveled between cities deactivating dangerous Ember machinery.
 
@@ -261,7 +261,7 @@ Some obeyed the Concord.
 
 Others altered reports, left machines running, and hoped they would outlast the people depending upon them.
 
-### **Failure of the Concord**
+### Failure of the Concord
 
 The Collapse Concord survived as a united authority for less than a generation.
 
@@ -281,7 +281,7 @@ Modern Ministry principles of containment, quarantine, documentation, and contro
 
 ---
 
-## **VI. Faith and the Quiet Pantheon**
+## VI. Faith and the Quiet Pantheon
 
 The gods had been inconsistent since the end of the Age of Crowns.
 
@@ -305,7 +305,7 @@ The phrase did not refer to a new group of gods.
 
 It described the old gods as they were experienced by a world that no longer expected clear reply.
 
-### **The Withholding Hypothesis**
+### The Withholding Hypothesis
 
 In **2897 A.D.**, a coalition of Brethren theologians formalized the **Withholding Hypothesis**.
 
@@ -329,7 +329,7 @@ For many, worship became an act performed without expectation of reward.
 
 ---
 
-## **VII. Hunger, Weather, and the Great Displacement**
+## VII. Hunger, Weather, and the Great Displacement
 
 The Collapse was experienced most commonly not as metaphysical crisis, but as hunger.
 
@@ -343,7 +343,7 @@ Some crops grew rapidly and provided no nourishment.
 
 Others developed memory-bearing properties, causing those who ate them to dream of strangers.
 
-### **The Grey Harvests**
+### The Grey Harvests
 
 Between approximately **2668 and 2704 A.D.**, large portions of Allemance and western Vinyot suffered repeated crop failure.
 
@@ -357,13 +357,13 @@ Caravans were attacked for seed.
 
 Several guild councils fell after citizens discovered protected stores reserved for officials.
 
-### **The Black Channels**
+### The Black Channels
 
 Arnerian waterways darkened from centuries of alchemical runoff and magical residue.
 
 Communities abandoned poisoned deltas and moved inland, carrying water-law, family records, and seed stocks upon mobile shell archives.
 
-### **The Storm Without Season**
+### The Storm Without Season
 
 In Oria, aetheric storms ceased following recognizable seasonal patterns.
 
@@ -373,7 +373,7 @@ Lightning struck upward from the earth.
 
 Mountain settlements survived by constructing layered shelters and learning to interpret storm resonance as warning.
 
-### **The Collapse Migrations**
+### The Collapse Migrations
 
 Millions crossed Aerathon during these centuries.
 
@@ -393,7 +393,7 @@ Modern Aerathon’s cultural complexity owes much to these desperate roads.
 
 ---
 
-## **VIII. The Beastfolk Preservation Networks**
+## VIII. The Beastfolk Preservation Networks
 
 While many Brethren institutions failed around fixed capitals and external archives, numerous Beastfolk cultures relied upon mobile, embodied, and communal forms of preservation.
 
@@ -401,7 +401,7 @@ These methods did not prevent suffering.
 
 They did allow knowledge to survive without requiring stable buildings, governments, or territory.
 
-### **The Stone-Song Choirs**
+### The Stone-Song Choirs
 
 The Stone-Song Confederacy fractured into regional choirs as long-distance communication failed.
 
@@ -413,7 +413,7 @@ Different regions preserved different versions of the same events.
 
 This produced the **Dissonance Councils**, assemblies in which conflicting songs were performed together rather than forcing one to replace the other.
 
-### **The Shell-Ledger Caravans**
+### The Shell-Ledger Caravans
 
 Shell-Ledger Houses became mobile archives.
 
@@ -421,7 +421,7 @@ Record-bearers traveled with refugee populations, preserving contracts, births, 
 
 Some bore so many inscriptions that later additions had to be recorded upon metal plates attached to harnesses or carried by designated descendants.
 
-### **The Pride of Seven Roads**
+### The Pride of Seven Roads
 
 Leonine, ursine, vulpine, equine, and allied communities formed guarded routes connecting isolated settlements.
 
@@ -431,7 +431,7 @@ Its roads were not necessarily seven in number. The title evoked completeness, s
 
 The Pride established road law based upon hospitality, safe passage, witnessed exchange, and collective punishment for betrayal.
 
-### **The Mourn-Howl Circles**
+### The Mourn-Howl Circles
 
 Canine and vulpine communities developed rites in which grief was expressed communally through controlled howling, breath, percussion, and spoken remembrance.
 
@@ -449,7 +449,7 @@ Many modern pre-descent rituals descend from Collapse-era mourning practice.
 
 ---
 
-## **IX. The Great Drift**
+## IX. The Great Drift
 
 Between **2810 and 2930 A.D.**, the Weaves of Matter, Meaning, and Motion underwent a prolonged period of global instability.
 
@@ -459,7 +459,7 @@ It was neither a migration nor a single magical disaster.
 
 It was a chronospheric crisis during which time, distance, memory, and physical identity ceased behaving consistently.
 
-### **Geographic Displacement**
+### Geographic Displacement
 
 Islands vanished and returned in altered positions.
 
@@ -471,7 +471,7 @@ Mountain passes opened into coastlines.
 
 Some places became geographically accessible only on specific days.
 
-### **Temporal Displacement**
+### Temporal Displacement
 
 Settlements slipped hours, years, or decades out of synchronization with neighboring regions.
 
@@ -481,7 +481,7 @@ Military patrols arrived at battles long after both armies had disappeared.
 
 A village in southern Allemance recorded eighty-three summers during a period measured elsewhere as eleven years.
 
-### **Mnemonic Displacement**
+### Mnemonic Displacement
 
 People forgot portions of their lives while objects retained them.
 
@@ -493,7 +493,7 @@ Stone carried names no living person claimed.
 
 Ruins mourned architects who were still alive.
 
-### **Identity Echoes**
+### Identity Echoes
 
 Some individuals encountered alternate versions of themselves shaped by decisions they did not remember making.
 
@@ -511,13 +511,13 @@ No accepted theory explains why particular places remained stable.
 
 ---
 
-## **X. Memory Anchoring**
+## X. Memory Anchoring
 
 The Great Drift made conventional chronology unreliable.
 
 Communities survived by developing techniques to anchor identity and sequence.
 
-### **Communal Recitation**
+### Communal Recitation
 
 Settlements gathered at regular intervals to recite:
 
@@ -536,13 +536,13 @@ Settlements gathered at regular intervals to recite:
 
 If the following recitation differed, the discrepancy was investigated.
 
-### **Living Witnesses**
+### Living Witnesses
 
 Communities assigned individuals to memorize the same record independently.
 
 These witnesses were kept apart during severe Drift conditions so that one alteration would not necessarily affect all of them.
 
-### **Mnemonic Wards**
+### Mnemonic Wards
 
 Stone-Song practitioners, artificers, and surviving priests developed magical patterns intended to preserve memory within a limited area.
 
@@ -552,7 +552,7 @@ They were imperfect.
 
 Some preserved the wrong version of events with extraordinary strength.
 
-### **Object Testimony**
+### Object Testimony
 
 Shell-Ledger Houses and Brethren archivists increasingly treated objects as witnesses.
 
@@ -560,7 +560,7 @@ A damaged tool, stained garment, altered door, or displaced foundation could pre
 
 This principle remains central to modern MDO forensic practice.
 
-### **The Anchor Bells**
+### The Anchor Bells
 
 Several settlements installed bells tuned to local resonance.
 
@@ -574,7 +574,7 @@ It was infrastructure.
 
 ---
 
-## **XI. The Convergence Courts**
+## XI. The Convergence Courts
 
 During the late Collapse, several Brethren scholars attempted to restore reliable divine and magical law through a system called **Equivalential Magic**.
 
@@ -600,7 +600,7 @@ Several Drift-touched districts returned to ordinary chronology.
 
 Desperate cities embraced the Courts.
 
-### **The Cost of Equivalence**
+### The Cost of Equivalence
 
 The system demanded strict definition.
 
@@ -620,7 +620,7 @@ Every successful equation made the next contradiction more dangerous.
 
 ---
 
-## **XII. The First Collapse Breach**
+## XII. The First Collapse Breach
 
 In approximately **2912 A.D.**, the Convergence Courts attempted their largest working.
 
@@ -648,7 +648,7 @@ Seven urban centers disappeared or were transformed beyond recognition.
 
 The event became known as the **First Collapse Breach**.
 
-### **The Hollow Radius**
+### The Hollow Radius
 
 The land surrounding each vanished city remained unnaturally quiet.
 
@@ -656,7 +656,7 @@ Magic entered but did not return in recognizable form.
 
 Travelers reported hearing conversations that had occurred years earlier or seeing buildings from places far beyond the region.
 
-### **The Convergence Remnants**
+### The Convergence Remnants
 
 Some Court mechanisms survived as relics capable of enforcing a single definition upon nearby reality.
 
@@ -668,7 +668,7 @@ A “sentence” written within a surviving chamber might become physically impo
 
 Modern Ministry containment procedures treat Convergence relics as highly dangerous.
 
-### **The End of Grand Restoration**
+### The End of Grand Restoration
 
 After the Breach, large-scale attempts to repair the Weaves nearly ceased.
 
@@ -678,13 +678,13 @@ The new goal was survival within what remained.
 
 ---
 
-## **XIII. Echo Plagues, Living Relics, and Unbound Magic**
+## XIII. Echo Plagues, Living Relics, and Unbound Magic
 
 The later Collapse produced magical phenomena that no longer required active casters.
 
 Spells persisted, reproduced, adapted, or attached themselves to language and behavior.
 
-### **Echo Plagues**
+### Echo Plagues
 
 An Echo Plague spread through repeated words, gestures, memories, or emotional states.
 
@@ -700,7 +700,7 @@ Others were tied to location.
 
 Many ended only when the pattern sustaining them was interrupted or forgotten.
 
-### **Living Relics**
+### Living Relics
 
 Objects altered by repeated use or intense meaning began acting with apparent intention.
 
@@ -710,7 +710,7 @@ A civic seal might continue approving laws for a government that no longer exist
 
 A children’s toy might defend an abandoned house against anyone unable to name the family who lived there.
 
-### **Calcified Spells**
+### Calcified Spells
 
 Some magical effects became permanent matter.
 
@@ -720,7 +720,7 @@ Flames became red mineral formations that remained painfully hot.
 
 Illusions hardened into structures whose interiors did not correspond to their visible shape.
 
-### **Memory Weather**
+### Memory Weather
 
 Certain storms carried voices, dreams, or emotional impressions.
 
@@ -736,7 +736,7 @@ It had become environment.
 
 ---
 
-## **XIV. The Emergence of the Labyrinths**
+## XIV. The Emergence of the Labyrinths
 
 The first true **Labyrinths** emerged during the Age of Collapse.
 
@@ -773,7 +773,7 @@ Creatures emerged that reflected fear, doctrine, memory, or symbolic law.
 
 Relics appeared within them bearing functions no known culture had designed.
 
-### **Theories of Formation**
+### Theories of Formation
 
 Collapse-era peoples offered several explanations:
 
@@ -792,7 +792,7 @@ Collapse-era peoples offered several explanations:
 
 The Ministry has not adopted a single explanation.
 
-### **Early Response**
+### Early Response
 
 The first known response was sealing.
 
@@ -812,7 +812,7 @@ Necessity simply grew larger than it.
 
 ---
 
-## **XV. The Memory-Labyrinth of Tharos**
+## XV. The Memory-Labyrinth of Tharos
 
 One of the most significant early formations appeared in western Vinyot, beneath lands once associated with the kingdom of **Tharos Ravelmane**, the Seven-Ringed King.
 
@@ -824,7 +824,7 @@ His betrayal and disappearance occurred long before the first true Labyrinths.
 
 Yet when the western formation emerged, it organized itself around his memory.
 
-### **The Returning Kingdom**
+### The Returning Kingdom
 
 Early witnesses described chambers resembling royal roads, fortress halls, shrines, battlements, and burial spaces from a state no surviving map acknowledged.
 
@@ -846,7 +846,7 @@ The formation did not merely preserve the place where Tharos had fallen.
 
 It attempted to preserve the kingdom that history had removed around him.
 
-### **Ministry Interpretation**
+### Ministry Interpretation
 
 The prevailing theory holds that centuries of suppressed worship, grief, ancestral memory, broken oaths, and deliberate historical erasure accumulated around the site.
 
@@ -875,7 +875,7 @@ It formed around the memory that city’s conquerors had tried hardest to erase.
 
 ---
 
-## **XVI. The First Delvers and the Subterranean Refuge**
+## XVI. The First Delvers and the Subterranean Refuge
 
 The earliest people to enter Labyrinths were not professional adventurers.
 
@@ -889,7 +889,7 @@ Some believed descent was an act of apology to the world.
 
 Some were sent because their communities considered them expendable.
 
-### **Wound-Listeners**
+### Wound-Listeners
 
 Several Beastfolk traditions describe early explorers as **wound-listeners**.
 
@@ -899,13 +899,13 @@ Their goal was not conquest.
 
 It was to understand what memory governed the place.
 
-### **Ash-Surveyors**
+### Ash-Surveyors
 
 Descendants of Ember Foldwalkers approached Labyrinths as technical hazards.
 
 They mapped chambers, marked safe routes, measured magical fluctuations, and attempted to retrieve useful devices.
 
-### **Penitent Descents**
+### Penitent Descents
 
 Quiet Pantheon sects entered Labyrinths believing the structures contained the dreams, burdens, or imprisoned voices of the gods.
 
@@ -913,7 +913,7 @@ Some descended unarmed.
 
 Few returned.
 
-### **The First Refuge Settlements**
+### The First Refuge Settlements
 
 As surface conditions worsened, communities began living near stable entrances.
 
@@ -936,7 +936,7 @@ These communities developed early rules governing:
 - and the treatment of changed returnees.
     
 
-### **The Charter Camps**
+### The Charter Camps
 
 Guild remnants, Beastfolk councils, caravan leaders, and refugee communities formed protective agreements around major entrances.
 
@@ -954,7 +954,7 @@ The Age of Delving began.
 
 ---
 
-## **XVII. Principal Chronology**
+## XVII. Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -979,7 +979,7 @@ The Age of Delving began.
 
 ---
 
-## **XVIII. Historical Legacy and Unresolved Questions**
+## XVIII. Historical Legacy and Unresolved Questions
 
 The Age of Collapse destroyed the expectation that civilization moved naturally toward greater stability.
 
@@ -999,7 +999,7 @@ Pre-descent rituals descend from mourners and wound-listeners.
 
 The Ministry itself is built from the instinct to classify danger before danger changes its name.
 
-### **What Caused the Great Drift?**
+### What Caused the Great Drift?
 
 The leading theories include:
 
@@ -1020,7 +1020,7 @@ The Great Drift began before the First Collapse Breach.
 
 The Breach may have intensified an existing crisis rather than caused it.
 
-### **Did Beastfolk Traditions Resist the Drift More Effectively?**
+### Did Beastfolk Traditions Resist the Drift More Effectively?
 
 Several embodied and communal record systems proved more resilient than isolated written archives.
 
@@ -1028,7 +1028,7 @@ This does not mean Beastfolk communities were immune.
 
 It means their preservation methods were often better suited to a world in which buildings, borders, and individual memory could not be trusted.
 
-### **Are Labyrinths Wounds or Remedies?**
+### Are Labyrinths Wounds or Remedies?
 
 They destroyed settlements, altered people, and preserved dangerous magic.
 
@@ -1038,13 +1038,13 @@ A wound does not usually keep its victim alive.
 
 A remedy does not usually fill itself with monsters.
 
-### **Why Did Tharos Become a Labyrinthal Anchor?**
+### Why Did Tharos Become a Labyrinthal Anchor?
 
 Possible explanations include the strength of his worship, the seven rings, divine intervention, the scale of his betrayal, the deliberate erasure of his kingdom, or the survival of an ancient oath beneath western Vinyot.
 
 No explanation accounts for every known feature.
 
-### **Did the Convergence Courts Discover Something True?**
+### Did the Convergence Courts Discover Something True?
 
 Their methods produced genuine stability before the catastrophe.
 
@@ -1052,7 +1052,7 @@ It remains possible that their central theory was correct and their final proof 
 
 Replication is prohibited.
 
-### **How Much of the Surface Was Lost?**
+### How Much of the Surface Was Lost?
 
 Large territories remain poorly mapped or chronometrically uncertain.
 
@@ -1060,7 +1060,7 @@ Some cities may have been destroyed.
 
 Others may still exist outside ordinary sequence.
 
-### **Did the Collapse End?**
+### Did the Collapse End?
 
 The official boundary is 2950 A.D.
 
@@ -1081,7 +1081,7 @@ They descended instead.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

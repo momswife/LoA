@@ -1,7 +1,7 @@
 > _“The first Labyrinth was not discovered when someone found the first door. It was discovered when survivors realized the door had remembered them.”_  
 > — **Archivist Yelna Stonevoice**, _Lecture upon the Earliest Descents_
 
-# **The First Recorded Labyrinths**
+# The First Recorded Labyrinths
 
 ### _Ancient Accounts, Early Descents, and the Historical Recognition of Impossible Places_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Purpose of This Record**
+## I. Purpose of This Record
 
 No scholar can presently identify the first Labyrinth.
 
@@ -55,7 +55,7 @@ It means the earliest surviving cases that modern scholars can identify with rea
 
 ---
 
-## **II. The Problem of the First Record**
+## II. The Problem of the First Record
 
 A structure does not enter history merely because someone encounters it.
 
@@ -106,7 +106,7 @@ A credible early Labyrinth record must demonstrate several recognized characteri
 
 ---
 
-## **III. Criteria for Historical Identification**
+## III. Criteria for Historical Identification
 
 An ancient site or account is classified as a probable Labyrinth when it contains multiple signs such as:
 
@@ -137,7 +137,7 @@ Several appearing together strongly suggest Labyrinth activity.
 
 ---
 
-## **IV. Before the Word “Labyrinth”**
+## IV. Before the Word “Labyrinth”
 
 The modern term is relatively recent.
 
@@ -179,7 +179,7 @@ They show that ancient peoples recognized impossible places long before they pos
 
 ---
 
-## **V. The Song of the Buried Horizon**
+## V. The Song of the Buried Horizon
 
 The oldest widely studied account is an Old Court oral cycle commonly translated as **The Song of the Buried Horizon**.
 
@@ -214,7 +214,7 @@ The song does not state that the mother spoke, changed position freely, or recog
 
 She simply repeated the act she had been performing before her death.
 
-### **Reliability**
+### Reliability
 
 The account is preserved in several geographically separated traditions.
 
@@ -237,7 +237,7 @@ It remains impossible to locate the original entrance.
 
 ---
 
-## **VI. The Ledger of the Ninth Foundation**
+## VI. The Ledger of the Ninth Foundation
 
 The oldest substantial Brethren record is known as **The Ledger of the Ninth Foundation**.
 
@@ -276,7 +276,7 @@ Centuries later, excavators reopened the temple ruins and found no staircase.
 
 A fragment of the original lower stone was preserved, however. Modern analysis identifies it as architectonically consistent with Labyrinth-generated material.
 
-### **Reliability**
+### Reliability
 
 The ledger is incomplete but possesses strong physical provenance.
 
@@ -286,7 +286,7 @@ Its greatest strength is that the author recorded practical measurements rather 
 
 ---
 
-## **VII. The House of Returning Doors**
+## VII. The House of Returning Doors
 
 A third early account survives through civic complaints rather than scripture.
 
@@ -319,7 +319,7 @@ Each carried a household plate belonging to the condemned family.
 
 The surviving structure disappeared before systematic study could begin.
 
-### **Historical Importance**
+### Historical Importance
 
 The House of Returning Doors demonstrates that early Labyrinths were not always discovered as ancient underground complexes.
 
@@ -342,7 +342,7 @@ This challenged the early belief that Labyrinths were exclusively ancient ruins.
 
 ---
 
-## **VIII. The Ash-Stair Descent**
+## VIII. The Ash-Stair Descent
 
 The first surviving record resembling a modern expedition is the **Ash-Stair Descent**, conducted late in the Ember Age.
 
@@ -390,7 +390,7 @@ Modern review suggests they were Echoes created by the deaths of the missing exp
 
 ---
 
-## **IX. The Ash-Stair Maps**
+## IX. The Ash-Stair Maps
 
 Three maps survive from the Ash-Stair expedition.
 
@@ -420,7 +420,7 @@ The Ash-Stair Descent established one of the earliest principles of delving:
 
 ---
 
-## **X. The First Recovery of a Verified Relic**
+## X. The First Recovery of a Verified Relic
 
 The Ash-Stair survivors returned with an object now called the **Foundation Key**.
 
@@ -451,7 +451,7 @@ This dispute became an early ancestor of modern relic law.
 
 ---
 
-## **XI. The First Recognized Echo Record**
+## XI. The First Recognized Echo Record
 
 The earliest surviving account now confidently identified as an Echo comes from the Ash-Stair report.
 
@@ -491,7 +491,7 @@ Modern soul doctrine provides the answer:
 
 ---
 
-## **XII. The Proliferation during the Age of Collapse**
+## XII. The Proliferation during the Age of Collapse
 
 Labyrinth reports increased dramatically during the Age of Collapse.
 
@@ -540,11 +540,11 @@ The Age of Collapse transformed Labyrinths from rare wonders into unavoidable el
 
 ---
 
-## **XIII. Beastfolk and Brethren Interpretations**
+## XIII. Beastfolk and Brethren Interpretations
 
 The two peoples preserved different aspects of early encounters.
 
-### **Brethren Records**
+### Brethren Records
 
 Brethren accounts emphasized:
 
@@ -561,7 +561,7 @@ Brethren accounts emphasized:
 
 They preserved detailed written descriptions but often forced unfamiliar phenomena into established religious or political categories.
 
-### **Beastfolk Records**
+### Beastfolk Records
 
 Beastfolk traditions emphasized:
 
@@ -590,7 +590,7 @@ Together, they provide a clearer account than either alone.
 
 ---
 
-## **XIV. When Separate Sites Became One Phenomenon**
+## XIV. When Separate Sites Became One Phenomenon
 
 For centuries, impossible places were studied as unrelated local events.
 
@@ -631,7 +631,7 @@ The word described a problem of causality as much as navigation.
 
 ---
 
-## **XV. The First Delvers**
+## XV. The First Delvers
 
 The earliest people to enter Labyrinths did not call themselves delvers.
 
@@ -679,7 +679,7 @@ Most early safety rules exist because someone died before the rule had a name.
 
 ---
 
-## **XVI. Early Misunderstandings**
+## XVI. Early Misunderstandings
 
 The first records contain several recurring errors.
 
@@ -719,7 +719,7 @@ without understanding or caring what any of them meant to the observer.
 
 ---
 
-## **XVII. Records Created by Labyrinths**
+## XVII. Records Created by Labyrinths
 
 Certain supposed ancient records may have been produced by Labyrinths rather than by the cultures attributed to them.
 
@@ -753,7 +753,7 @@ Provenance must include the origin of the record, not merely the age of its mate
 
 ---
 
-## **XVIII. What the Earliest Records Prove**
+## XVIII. What the Earliest Records Prove
 
 The earliest credible accounts demonstrate that Labyrinths have long possessed the ability to:
 
@@ -786,7 +786,7 @@ The underlying phenomena remain familiar to modern delvers.
 
 ---
 
-## **XIX. What the Earliest Records Do Not Prove**
+## XIX. What the Earliest Records Do Not Prove
 
 These records do not establish:
 
@@ -820,23 +820,23 @@ Reality may have begun remembering long before anyone returned to write it down.
 
 ---
 
-## **XX. Ministry Chronological Classification**
+## XX. Ministry Chronological Classification
 
 The Ministry presently divides early Labyrinth history into four broad periods.
 
-### **Period One: Unrecognized Encounters**
+### Period One: Unrecognized Encounters
 
 Ancient accounts describe impossible places without identifying a shared phenomenon.
 
-### **Period Two: Sacred and Local Interpretation**
+### Period Two: Sacred and Local Interpretation
 
 Communities classify individual Labyrinths as temples, curses, tombs, ancestral places, or divine wounds.
 
-### **Period Three: Comparative Recognition**
+### Period Three: Comparative Recognition
 
 Scholars compare distant accounts and identify consistent Labyrinth behavior.
 
-### **Period Four: Organized Delving**
+### Period Four: Organized Delving
 
 Expeditions become repeatable, documented, licensed, and eventually institutionalized.
 
@@ -848,7 +848,7 @@ History does not advance evenly.
 
 ---
 
-## **XXI. Ministry Position**
+## XXI. Ministry Position
 
 The Ministry recognizes the following conclusions as established or strongly supported:
 
@@ -910,7 +910,7 @@ They were the same impossible question opening its doors in many places.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

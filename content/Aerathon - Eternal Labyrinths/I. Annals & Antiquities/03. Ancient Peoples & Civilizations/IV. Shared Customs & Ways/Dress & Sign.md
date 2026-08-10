@@ -2,7 +2,7 @@
 
 ---
 
-# **Dress & Sign**
+# Dress & Sign
 
 ### _The Language of Cloth, Metal, and Motion Across Eras_
 
@@ -12,7 +12,7 @@
 **Date of Filing:** 4th Cycle, 3013 A.D.  
 **Document Class:** _Semiotic Anthropology Record / Grade-II Cultural Lexicon Archive_
 
-~~
+---
 
 **Era Classification:** _Trans-Era Cultural Constant (First through Sixth Eras)_  
 **Primary Peoples:** Cross-cultural (Brethren, Beastfolk, and hybrid guild populations)  
@@ -21,7 +21,7 @@
 
 ---
 
-## **Overview**
+## Overview
 
 Throughout Aerathon’s history, **clothing has been confession**.  
 Every age, empire, and creed has clothed itself not merely for protection but for declaration — of station, of loyalty, of truth.  
@@ -32,7 +32,7 @@ The Ministry defines these customs collectively as the **Semiotics of Presentati
 
 ---
 
-## **Status & Station**
+## Status & Station
 
 During the **Age of Crowns**, hierarchy was literally worn:
 
@@ -58,7 +58,7 @@ Mixed societies blurred these codes, leading to early color-standard laws — ir
 
 ---
 
-## **The Era of Symbols**
+## The Era of Symbols
 
 With the rise of delver guilds during the **Age of Delving**, fashion became codified messaging.  
 Badges, pins, and tabards evolved into **Signwear** — layered elements carrying enchanted thread that glowed under guild light or resonated when near allies.
@@ -77,7 +77,7 @@ Cultural historians identify three prevailing “languages” of clothing from t
 
 ---
 
-## **Gesture & Motion as Language**
+## Gesture & Motion as Language
 
 Beyond fabric, Aerathon’s cultures employ **micro-gestures** that act as punctuation to the visible word:
 
@@ -95,7 +95,7 @@ Ministry field manuals include a glossary of fifty such gestures under the secti
 
 ---
 
-## **Taboos and Transgressions**
+## Taboos and Transgressions
 
 The misuse of signwear carries grave insult.  
 To wear another’s braid, clan clasp, or insignia without permission is **theft of self**, punishable by ritual humiliation or exile.  
@@ -106,7 +106,7 @@ The MDO maintains legal authority over all recognized insignia, and forging one 
 
 ---
 
-## **Modern Continuations**
+## Modern Continuations
 
 Even in the **Age of Spectacle**, the language of dress thrives:
 
@@ -122,7 +122,7 @@ Even in the **Age of Spectacle**, the language of dress thrives:
 Despite changes, every delver still checks a companion’s clothing before a delve — for color, for emblem, for the telltale seams that say _friend_ or _fraud_.
 
 ---
-## **Known Sites & Artifacts**
+## Known Sites & Artifacts
 
 | Artifact / Site                     | Location                         | Notes                                                                                          |
 | ----------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -130,8 +130,8 @@ Despite changes, every delver still checks a companion’s clothing before a del
 | **Road-Clasps of the Seven Prides** | Vinyot Merchant Museum           | Silver-gold hair clasps worn by caravan dueling masters; marks of commerce and challenge.      |
 | **Echo-Weave Sashes**               | Allemance Guild Hall             | Cloth that resonates faintly when near others of the same make; used for group coordination.   |
 | **Guild Emblem of Accord**          | Central Louvain                  | Monumental mosaic representing the unification of independent guild banners under one charter. |
-___
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+---
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Sociocultural & Historical Inquiry Division**  

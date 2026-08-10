@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-# **Brethren Peoples & Traditions**
+# Brethren Peoples & Traditions
 
 ### _The Many Mortal Peoples Who Made Continuity into a Way of Life_
 
@@ -24,7 +24,7 @@ aliases:
 
 ---
 
-## **I. Purpose and Scope**
+## I. Purpose and Scope
 
 **Brethren** is not the name of one species, nation, kingdom, religion, or civilization.
 
@@ -49,7 +49,7 @@ This archive records their ancient cultures, households, systems of teaching, ci
 
 ---
 
-## **II. What the Word “Brethren” Means**
+## II. What the Word “Brethren” Means
 
 The earliest confirmed forms of the word are plural.
 
@@ -74,7 +74,7 @@ Any record claiming that only Brethren could reason, build, govern, write, or pr
 
 ---
 
-## **III. Creation, Descent, and Historical Membership**
+## III. Creation, Descent, and Historical Membership
 
 The dominant Ministry reconstruction holds that the first Brethren were shaped principally under the Dawn Court during the [[The First Making|First Making]]. They were intended to learn designs, repair them, teach them, and alter them when the conditions of mortal life changed.
 
@@ -107,7 +107,7 @@ They are not identical.
 
 ---
 
-## **IV. The First Communities Were Not Separate Worlds**
+## IV. The First Communities Were Not Separate Worlds
 
 The earliest recoverable settlements do not show a continent cleanly divided between Brethren and Beastfolk.
 
@@ -127,7 +127,7 @@ It was an argument over which kinds of relationship the future was required to p
 
 ---
 
-## **V. No First Brethren Nation**
+## V. No First Brethren Nation
 
 There was no single First Brethren kingdom.
 
@@ -147,27 +147,27 @@ Brethren history is a history of related peoples, not a lost racial empire.
 
 ---
 
-## **VI. Shared Inheritances**
+## VI. Shared Inheritances
 
 Brethren societies differed sharply, but five inheritances recur often enough to warrant comparison.
 
-### **Names**
+### Names
 
 Names established individual identity across household, profession, office, worship, and law. Many people carried several names, each recognized within a different relationship.
 
-### **Record**
+### Record
 
 Writing allowed instruction and obligation to survive absent witnesses. Records preserved extraordinary knowledge and made large societies possible. They also allowed distant authorities to classify people who had no power over the record made about them.
 
-### **Craft**
+### Craft
 
 Craft joined knowledge to repeatable action. A technique could be taught beyond one family, examined, revised, and preserved through a school or lineage of practice.
 
-### **Oath**
+### Oath
 
 Chosen words could create kin-like obligation among strangers. Oaths supported marriages, guilds, military companies, trade partnerships, temples, governments, and peace between peoples.
 
-### **Office**
+### Office
 
 Authority could belong to a role that survived its holder. This allowed courts, schools, workshops, councils, and crowns to endure. It also allowed institutions to protect themselves long after they ceased fulfilling their original purpose.
 
@@ -181,7 +181,7 @@ Its forms were not.
 
 ---
 
-## **VII. Household, Kinship, and Belonging**
+## VII. Household, Kinship, and Belonging
 
 Brethren household life cannot be reduced to dynastic bloodline.
 
@@ -209,7 +209,7 @@ Household records, burial practice, work songs, and local law reveal a much wide
 
 ---
 
-## **VIII. Relations with Beastfolk**
+## VIII. Relations with Beastfolk
 
 Brethren and Beastfolk relations were never one continuous conflict.
 
@@ -238,7 +238,7 @@ They were participants in the same ancient world and co-authors of many works la
 
 ---
 
-## **IX. Archival Structure**
+## IX. Archival Structure
 
 The planned records within this section proceed from shared origin toward increasingly specific cultural history:
 
@@ -257,11 +257,11 @@ The [[Pilgrims of the Three Lanterns]] are likewise filed as an interpeoples ins
 
 The [[River Kingdoms of Old Louvain]] are filed under Elder Civilizations because they were political societies rather than a general human tradition.
 
-The [[The Bastion-Quarters of Allemance|Bastion-Quarters of Allemance]] are filed in the Living Atlas because their defining development followed widespread Labyrinth emergence.
+The [[The Bastion Quarters of Allemance|Bastion-Quarters of Allemance]] are filed in the Living Atlas because their defining development followed widespread Labyrinth emergence.
 
 ---
 
-## **X. The Boundary with the Living Atlas**
+## X. The Boundary with the Living Atlas
 
 This archive concerns pre-Labyrinth peoples and traditions.
 
@@ -285,7 +285,7 @@ It is not a command that the living remain unchanged.
 
 ---
 
-## **Related Records**
+## Related Records
 
 - [[The First Making]]
 - [[The Creation of the Brethren]]
@@ -311,7 +311,7 @@ It is not a command that the living remain unchanged.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

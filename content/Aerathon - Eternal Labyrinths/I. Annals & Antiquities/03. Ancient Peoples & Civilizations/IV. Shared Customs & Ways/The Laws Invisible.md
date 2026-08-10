@@ -2,7 +2,7 @@
 
 ---
 
-# **The Laws Invisible**
+# The Laws Invisible
 
 ### _The Unwritten Codes That Outlived Every Throne_
 
@@ -12,7 +12,7 @@
 **Date of Filing:** 10th Cycle, 3027 A.D.  
 **Document Class:** _Ethical Compendium / Grade-II Customary-Law Archive_
 
-~~
+---
 
 **Era Classification:** _Trans-Era Cultural Constant (Rooted in Early First Era)_  
 **Primary Peoples:** Cross-cultural (Brethren and Beastfolk alike)  
@@ -21,7 +21,7 @@
 
 ---
 
-## **Overview**
+## Overview
 
 The **Laws Invisible** are not laws in parchment or ink, but a constellation of shared customs, courtesies, and taboos that have guided Aerathon’s peoples through every age of rebuilding.  
 They formed when written order failed—when the crowns fell, the labyrinths rose, and survival required understanding rather than decree.
@@ -32,7 +32,7 @@ The Ministry classifies them as **“meta-legal constructs”**, but to the comm
 
 ---
 
-## **Core Tenets**
+## Core Tenets
 
 Though varying by region, four principles appear across nearly all surviving records:
 
@@ -57,7 +57,7 @@ Together, they form an unspoken social code that transcends origin and faith, ho
 
 ---
 
-## **Cultural Expressions**
+## Cultural Expressions
 
 These laws are memorialized in art and ritual rather than scripture.
 
@@ -74,7 +74,7 @@ The most complete compiled reference, the **Codex of Oaths Unwritten**, was asse
 
 ---
 
-## **Moral Interpretation**
+## Moral Interpretation
 
 To the Ministry, the Laws Invisible demonstrate that cultural morality predated divine instruction — an argument used frequently in theological reform.  
 To delvers, they are _instinctive safety rules_: never betray a host, never refuse a duel, heed the bell, honor your word.  
@@ -84,7 +84,7 @@ Beastfolk storytellers claim the world itself enforces these laws through unseen
 
 ---
 
-## **Continuing Influence**
+## Continuing Influence
 
 Modern guild charters embed Invisible Law directly into their code:
 
@@ -105,7 +105,7 @@ A child in Louvain, a merchant in Arneria, and a delver in the depths all still 
 
 ---
 
-## **Known Sites & Artifacts**
+## Known Sites & Artifacts
 
 | Artifact / Site                  | Location                    | Notes                                                                                     |
 | -------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------- |
@@ -113,8 +113,8 @@ A child in Louvain, a merchant in Arneria, and a delver in the depths all still 
 | **Bell-Peace Tablets**           | Allemance Archives          | Clay records used to train warding students; emit tonal resonance when broken.            |
 | **Codex of Oaths Unwritten**     | Louvain Ministry Collection | Compiled breaches and precedents of Invisible Law; restricted due to paradox risk.        |
 | **The Duel-Banner of Vel-Orann** | Private Collection          | Banner used to halt a 12-day battle; still refuses to catch flame.                        |
-___
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+---
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Sociocultural Inquiry Division**  

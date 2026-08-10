@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-# **The Ember Age**
+# The Ember Age
 
 ### _Era III — Revolution, Invention, and the Reforging of the World_
 
@@ -26,7 +26,7 @@ aliases:
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Ember Age** began when the peoples of Aerathon discovered that the fall of an empire did not immediately produce freedom.
 
@@ -56,7 +56,7 @@ It also proved that mortals could destroy without it.
 
 ---
 
-## **II. Historical Sources and Revolutionary Myth**
+## II. Historical Sources and Revolutionary Myth
 
 The Ember Age produced an enormous volume of writing, though much of it was partisan.
 
@@ -95,7 +95,7 @@ It removed many of the locks placed around it.
 
 ---
 
-## **III. The World After the Empire**
+## III. The World After the Empire
 
 The former Empire of Law and Light did not become a collection of peaceful republics upon the destruction of Sol Oranna.
 
@@ -111,7 +111,7 @@ Many communities still had masters.
 
 They simply had more of them.
 
-### **The Breaking of the Registries**
+### The Breaking of the Registries
 
 Throughout the former empire, crowds seized local Registry halls and destroyed records of caste, ownership, Faith Density, and assigned occupation.
 
@@ -131,7 +131,7 @@ The compromise adopted in several territories became known as the **Ash-and-Ink 
 
 The phrase remains common within the Ministry’s Annals Division.
 
-### **The Return of Names**
+### The Return of Names
 
 Former imperial subjects reclaimed family names, clan names, professional titles, divine names, and regional identities suppressed by the Registry of Souls.
 
@@ -145,7 +145,7 @@ The Ember Age considered that choice sacred.
 
 ---
 
-## **IV. The Guild-States**
+## IV. The Guild-States
 
 In the absence of empire, the most dependable surviving institutions were workshops, labor fraternities, caravan unions, forge houses, healing circles, and technical schools.
 
@@ -168,7 +168,7 @@ A foundry council that organized winter fuel became responsible for food distrib
 
 These polities became known as **guild-states**.
 
-### **Vastel**
+### Vastel
 
 Built among the surviving bell towers and riverworks of old Louvain, **Vastel** became one of the age’s most influential cities.
 
@@ -180,7 +180,7 @@ This system rewarded usefulness.
 
 It also encouraged guilds to exaggerate how indispensable they were.
 
-### **The Brass Republic of Oranna**
+### The Brass Republic of Oranna
 
 Several settlements rose beyond the ruins of Sol Oranna.
 
@@ -190,13 +190,13 @@ Its first governors included a locksmith, a baker, a former Collared Legion capt
 
 The Republic forbade the construction of concentric districts, regarding circles as symbols of imperial hierarchy.
 
-### **Küzmek and the Sealed Forges**
+### Küzmek and the Sealed Forges
 
 In Arneria, dwarven and Beastfolk artificers established fortified production cities around forges hidden during the imperial period.
 
 These cities became known for heat-resistant ceramics, subterranean water systems, and contracts engraved upon metal plates designed to survive fire.
 
-### **The River Houses**
+### The River Houses
 
 Along the shifting deltas, chelonian-led communities governed through mobile assemblies. No capital remained in one place long enough to be seized.
 
@@ -204,7 +204,7 @@ Their councils traveled with the water.
 
 Their law traveled upon their shells.
 
-### **The High Aeries**
+### The High Aeries
 
 Avian Beastfolk reclaimed mountain passes and sky routes once restricted by imperial flight law. Several aeries became centers of long-distance communication, weather study, and aerial cartography.
 
@@ -214,7 +214,7 @@ They were united mostly by opposition to anyone claiming one should exist.
 
 ---
 
-## **V. The Concord of Flame**
+## V. The Concord of Flame
 
 By the twenty-second century A.D., conflict among the guild-states threatened to replace imperial domination with endless commercial war.
 
@@ -265,7 +265,7 @@ Its existence nevertheless shaped every later debate concerning relic ownership 
 
 ---
 
-## **VI. The Ember Collegia**
+## VI. The Ember Collegia
 
 The most influential institution of the age was [[The Ember Collegia|the **Ember Collegia**]], a transregional fellowship devoted to elemental transformation, practical spellcraft, and the study of creation without divine mediation.
 
@@ -273,7 +273,7 @@ It did not begin as a single academy.
 
 It emerged from an alliance of furnace schools, hidden imperial workshops, dwarven craft houses, Beastfolk resonance circles, and former temple laboratories.
 
-### **Cael Emberwright**
+### Cael Emberwright
 
 [[Cael Emberwright|**Master Cael Emberwright**]] is recognized as the Collegia’s first presiding Master and its most visible public founder.
 
@@ -289,7 +289,7 @@ This principle shaped Ember alchemy, metallurgy, architecture, political rhetori
 
 Cael organized the first Furnace Assemblies, defended the right of former laborers to teach, and helped transform scattered workshops into a recognizable intellectual movement.
 
-### **Arav Dhal-Senn**
+### Arav Dhal-Senn
 
 Records later identify **Arav Dhal-Senn** as one of the Collegia’s principal codifiers.
 
@@ -299,7 +299,7 @@ The relationship between the historical Dhal-Senn and the modern antiquarian of 
 
 The era dossier records only that the name appears repeatedly in authenticated Collegia material.
 
-### **Oaths and Tenets**
+### Oaths and Tenets
 
 Early Collegians swore the **Ten Flame Oaths**, a set of personal promises associated with Cael’s founding assemblies.
 
@@ -315,7 +315,7 @@ Their complete wording and later interpretations belong to the dedicated Collegi
 
 ---
 
-## **VII. Magic Without Gods**
+## VII. Magic Without Gods
 
 The greatest intellectual transformation of the Ember Age was the development of reproducible non-divine spellcraft.
 
@@ -323,7 +323,7 @@ Imperial magic had depended upon relic access, licensed prayer, inherited author
 
 Ember researchers sought methods that could be taught, repeated, tested, and corrected.
 
-### **The Tri-Weave Application Model**
+### The Tri-Weave Application Model
 
 Around **2270 A.D.**, Collegia scholars formalized the **Tri-Weave Application Model**.
 
@@ -346,7 +346,7 @@ Sacred chants became repeatable tonal sequences.
 
 Relics became mechanisms whose behavior might be investigated rather than merely revered.
 
-### **Arcana Common**
+### Arcana Common
 
 Imperial Harmonium was dense with theological authority and restricted terminology.
 
@@ -356,7 +356,7 @@ Arcana Common allowed researchers who did not share religion, ancestry, or spoke
 
 It also made dangerous knowledge far easier to spread.
 
-### **The Open Spark Debate**
+### The Open Spark Debate
 
 Not every guild agreed that all magical education should be public.
 
@@ -370,7 +370,7 @@ Modern Ministry licensing descends partly from the Banked Flame position, while 
 
 ---
 
-## **VIII. The New Social Order**
+## VIII. The New Social Order
 
 The Ember Age rejected imperial caste but did not eliminate inequality.
 
@@ -380,7 +380,7 @@ A talented apprentice could rise farther than an imperial laborer ever could.
 
 A person without guild recognition might still remain powerless.
 
-### **Apprenticeship**
+### Apprenticeship
 
 Education centered upon apprenticeship.
 
@@ -390,7 +390,7 @@ Some guilds paid apprentices.
 
 Others trapped them in debt contracts little different from the bondage they claimed to oppose.
 
-### **Citizenship by Contribution**
+### Citizenship by Contribution
 
 Many guild-states granted political rights according to work performed for the community.
 
@@ -402,7 +402,7 @@ The age repeatedly struggled with the question:
 
 Must a person prove usefulness to deserve belonging?
 
-### **Women and Inheritance**
+### Women and Inheritance
 
 The collapse of hereditary profession weakened many Crown- and imperial-era restrictions.
 
@@ -410,7 +410,7 @@ Guild inheritance often passed through demonstrated skill rather than gender or 
 
 Several of the age’s most influential artificers, negotiators, and city-founders were women whose names would have been absent from imperial office.
 
-### **Religion**
+### Religion
 
 Worship became voluntary in most Concord territories.
 
@@ -422,7 +422,7 @@ The Ember peoples worshipped anyway—but increasingly without granting temples 
 
 ---
 
-## **IX. The Treaty of Breath and Beast**
+## IX. The Treaty of Breath and Beast
 
 The relationship between Brethren and Beastfolk communities did not become equal merely because the empire fell.
 
@@ -459,13 +459,13 @@ Even so, the treaty became one of the most important legal foundations of later 
 
 ---
 
-## **X. The Beastfolk Renaissance**
+## X. The Beastfolk Renaissance
 
 The Ember Age was not merely a period in which Beastfolk communities joined Brethren innovation.
 
 It was an age in which traditions preserved under imperial suppression reemerged as major civilizational powers.
 
-### **The Stone-Song Confederacy**
+### The Stone-Song Confederacy
 
 Ursine and allied resonance-keepers formed the **Stone-Song Confederacy**, linking communities through chambers where law and memory were preserved in calibrated vibration.
 
@@ -475,7 +475,7 @@ Their central principle held:
 
 Stone-Song chambers allowed testimony to survive fire, censorship, and conventional decay. They became courts, schools, archives, and places of communal mourning.
 
-### **The Shell-Ledger Houses**
+### The Shell-Ledger Houses
 
 Chelonian archivists of the Arnerian deltas formalized the **Shell-Ledger Houses**.
 
@@ -483,7 +483,7 @@ Contracts, genealogies, migrations, debts, and historical testimony were engrave
 
 The body became an archive no invading state could easily confiscate without revealing the violence required to do so.
 
-### **The Iron-Mane Forgefiefs**
+### The Iron-Mane Forgefiefs
 
 Leonine and other western Beastfolk smithing communities established fortified craft territories remembered as the **Iron-Mane Forgefiefs**.
 
@@ -495,7 +495,7 @@ Seven-ring imagery reappeared throughout the Forgefiefs as a symbol of independe
 
 No authenticated source confirms that any of the actual rings of Tharos were recovered.
 
-### **The Return of the Old Gods**
+### The Return of the Old Gods
 
 Shrines to the Old Beastfolk Pantheon emerged from concealment.
 
@@ -509,19 +509,19 @@ His historical importance increasingly was.
 
 ---
 
-## **XI. Industry, Transit, and the Crafted World**
+## XI. Industry, Transit, and the Crafted World
 
 The Ember Age transformed the material shape of Aerathon.
 
 Guild-states competed to solve problems the empire had addressed through centralized sacred machinery.
 
-### **Elemental Engines**
+### Elemental Engines
 
 Engineers developed devices powered by bound heat, pressure, wind, water, and controlled resonance.
 
 These engines drove pumps, lifts, workshops, mills, furnaces, and experimental vehicles.
 
-### **Signal Towers**
+### Signal Towers
 
 Vastel’s repurposed bell towers became the basis for long-distance coded communication.
 
@@ -529,7 +529,7 @@ Different combinations of sound, light, smoke, and harmonic pulse carried news b
 
 Messages that once required weeks of travel could cross a region in a day.
 
-### **The Ember Roads**
+### The Ember Roads
 
 Guild coalitions repaired imperial roads and constructed new routes designed around trade rather than military occupation.
 
@@ -537,7 +537,7 @@ Roadhouses offered tools, medical aid, translation, and emergency shelter.
 
 Several evolved into permanent settlements.
 
-### **Atmospheric Craft**
+### Atmospheric Craft
 
 Avian engineers and Brethren artificers developed gliding vessels, storm anchors, and early liftcraft.
 
@@ -547,7 +547,7 @@ Some flew.
 
 Several continued flying after their crews had died and were not recovered until the Age of Collapse.
 
-### **Public Works**
+### Public Works
 
 The age constructed aqueducts, communal furnaces, heat-stone housing, mechanical irrigation, resonance bridges, and illuminated streets.
 
@@ -559,7 +559,7 @@ The wonders of the world no longer belonged only behind sacred doors.
 
 ---
 
-## **XII. Rivalries and the Wars of Making**
+## XII. Rivalries and the Wars of Making
 
 Innovation did not eliminate war.
 
@@ -569,7 +569,7 @@ Guild-states battled for ore, trade routes, skilled labor, water, patents, and a
 
 These conflicts are collectively called [[The Wars of Making|the **Wars of Making**]].
 
-### **The Brass Quarrel**
+### The Brass Quarrel
 
 Vastel and the Brass Republic fought a prolonged economic conflict over the right to reproduce a self-cooling alloy.
 
@@ -577,13 +577,13 @@ Neither side declared formal war.
 
 Both employed sabotage, industrial espionage, apprentice theft, and manipulated supply shortages.
 
-### **The Furnace Sieges**
+### The Furnace Sieges
 
 Several independent forge cities were attacked after refusing to surrender newly developed defensive alloys to the Concord of Flame.
 
 The sieges ended only when the forges threatened to release molten metal into the besieging armies’ river systems.
 
-### **The War of Borrowed Thunder**
+### The War of Borrowed Thunder
 
 Oria’s early stormwrights developed engines capable of redirecting lightning.
 
@@ -591,7 +591,7 @@ Neighboring states demanded access, fearing the technology could be used against
 
 The resulting war destroyed three storm towers and permanently altered seasonal weather across portions of the region.
 
-### **The Quiet Patent Killings**
+### The Quiet Patent Killings
 
 Between approximately 2380 and 2410 A.D., a succession of inventors died under suspicious circumstances shortly before presenting major discoveries.
 
@@ -607,7 +607,7 @@ Its brightest cities cast very long shadows.
 
 ---
 
-## **XIII. Reverberant Folds**
+## XIII. Reverberant Folds
 
 The earliest known proto-labyrinthal structures had appeared during the Age of Chains, where abandoned imperial commands continued reshaping local reality.
 
@@ -625,7 +625,7 @@ A house built through grief might add rooms for children who had never lived.
 
 Unlike later Labyrinths, most Folds were limited in scale and strongly bound to one event, process, or emotional structure.
 
-### **The First Documented Entries**
+### The First Documented Entries
 
 Around **2410 A.D.**, researchers deliberately entered and mapped several Folds.
 
@@ -650,7 +650,7 @@ Some returned with memories of events that had not happened.
 
 Others returned followed by rooms.
 
-### **The Collegia Position**
+### The Collegia Position
 
 Most Collegia scholars believed Folds were accidental consequences of magical saturation.
 
@@ -664,13 +664,13 @@ The Ministry recognizes Reverberant Folds as direct predecessors to later Labyri
 
 ---
 
-## **XIV. Culture of the Living Flame**
+## XIV. Culture of the Living Flame
 
 The Ember Age developed a philosophy centered upon transformation.
 
 To remain unchanged was often treated as a form of decay.
 
-### **Entropy Aesthetics**
+### Entropy Aesthetics
 
 Artists deliberately used materials that rusted, melted, cracked, faded, or changed with touch.
 
@@ -678,7 +678,7 @@ A finished work was considered less honest than one still becoming something els
 
 Buildings displayed gears, supports, channels, and repair marks rather than concealing them.
 
-### **The Festival of First Failure**
+### The Festival of First Failure
 
 Apprentices publicly presented their earliest failed creations.
 
@@ -686,13 +686,13 @@ The festival celebrated the belief that failure should be examined rather than h
 
 Some cities awarded greater honor to an instructive disaster than to a safe but unoriginal success.
 
-### **Forge Names**
+### Forge Names
 
 Craftspeople often adopted professional names after completing a masterwork or surviving a major accident.
 
 Names such as Emberwright, Glasshand, Third-Bell, Ashlung, Rivermender, and Twice-Forged became common.
 
-### **The Broken Halo**
+### The Broken Halo
 
 A popular symbol of the age depicted a shattered divine halo reshaped into a gear or furnace ring.
 
@@ -700,7 +700,7 @@ To supporters, it represented liberation from sacred hierarchy.
 
 To traditional believers, it represented dangerous arrogance.
 
-### **Death and Remembrance**
+### Death and Remembrance
 
 Cremation became common in many Brethren guild-states, with ashes mixed into bricks, glass, ink, or workshop clay.
 
@@ -714,17 +714,17 @@ It simply became less willing to leave immortality entirely to the gods.
 
 ---
 
-## **XV. The Price of Progress**
+## XV. The Price of Progress
 
 The achievements of the Ember Age carried costs its institutions were slow to acknowledge.
 
-### **Ignition Catastrophes**
+### Ignition Catastrophes
 
 The first [[The Ignition Catastrophes and Cinder Years|**Ignition Catastrophes**]] included uncontrolled elemental sympathy that caused entire districts to combust when one experimental system ignited every similar substance around it.
 
 In the **Redglass Burning**, windows melted before timber caught fire. Survivors reported reflections continuing to burn after the streets had cooled.
 
-### **Alchemical Pollution**
+### Alchemical Pollution
 
 Industrial runoff poisoned rivers, darkened coastal waters, and altered wildlife.
 
@@ -732,7 +732,7 @@ Several guild-states concealed contamination data to protect trade.
 
 The blackening of the Arnerian sea channels began during this period, though its worst effects emerged later.
 
-### **Aether Exhaustion**
+### Aether Exhaustion
 
 Repeated magical extraction weakened local Weave stability.
 
@@ -742,13 +742,13 @@ Weather became unpredictable.
 
 Some regions developed zones where magic failed entirely beside areas where it activated without a caster.
 
-### **The Furnace Poor**
+### The Furnace Poor
 
 As successful guilds accumulated wealth, workers in lesser workshops endured dangerous conditions, debt contracts, and exposure to unstable materials.
 
 The language of merit allowed new elites to claim that poverty reflected insufficient skill rather than unequal access.
 
-### **Constructed Life**
+### Constructed Life
 
 Several schools produced artificial servants, elemental laborers, memory vessels, and partially self-willed mechanisms.
 
@@ -768,7 +768,7 @@ It was not solved.
 
 ---
 
-## **XVI. The Cinder Years and the End of the Age**
+## XVI. The Cinder Years and the End of the Age
 
 The Ember Age ended through accumulation rather than a single catastrophe.
 
@@ -778,7 +778,7 @@ The Concord of Flame had weakened.
 
 Its members withheld technical aid from rivals, concealed accidents, and ignored shared limits upon dangerous experimentation.
 
-### **The Cinder Years**
+### The Cinder Years
 
 The period from approximately **2571 to 2599 A.D.** is called [[The Ignition Catastrophes and Cinder Years|the **Cinder Years**]].
 
@@ -799,7 +799,7 @@ During these decades:
 
 The world no longer contained magical failure within the places where that failure began.
 
-### **The Nine-Day Furnace**
+### The Nine-Day Furnace
 
 In 2582 A.D., an experimental city-core continued increasing its output despite every attempt to extinguish it.
 
@@ -809,13 +809,13 @@ The city survived only after Stone-Song practitioners altered the resonance of t
 
 The event convinced several governments that Ember technology had exceeded their ability to control it.
 
-### **The Ash Accords**
+### The Ash Accords
 
 In 2594 A.D., surviving members of the Concord attempted to restrict high-order elemental work, autonomous spell engines, and large-scale Weave extraction.
 
 The resulting [[The Ash Accords|**Ash Accords**]] were signed by many of the same states that immediately violated them.
 
-### **The Final Fracture**
+### The Final Fracture
 
 No single event marks the end of the Ember Age.
 
@@ -835,7 +835,7 @@ It escaped the forge.
 
 ---
 
-## **XVII. Principal Chronology**
+## XVII. Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -862,7 +862,7 @@ It escaped the forge.
 
 ---
 
-## **XVIII. Historical Legacy and Unresolved Questions**
+## XVIII. Historical Legacy and Unresolved Questions
 
 The Ember Age remains one of the most admired periods in Aerathonian history.
 
@@ -888,7 +888,7 @@ Public works, signal systems, industrial magic, and delving equipment still use 
 
 The Ministry’s own containment laws exist because Ember inventors repeatedly demonstrated what happens when curiosity is granted power without accountability.
 
-### **Who Founded the Ember Collegia?**
+### Who Founded the Ember Collegia?
 
 Cael Emberwright is recognized as its first presiding Master and public founder.
 
@@ -896,7 +896,7 @@ Arav Dhal-Senn is recognized as a principal codifier whose reforms transformed t
 
 Neither role requires the erasure of the other.
 
-### **Were the Guild-States Truly Free?**
+### Were the Guild-States Truly Free?
 
 They eliminated many hereditary restrictions and forms of bondage.
 
@@ -904,19 +904,19 @@ They also developed debt labor, monopolistic charters, political exclusion, and 
 
 The age expanded freedom without making it universal.
 
-### **Were Reverberant Folds Accidents?**
+### Were Reverberant Folds Accidents?
 
 The dominant theory holds that they formed through magical saturation and concentrated meaning.
 
 Some evidence suggests Fold structures occasionally contained symbols or architectures predating the events believed to have created them.
 
-### **Did the Collegia Know Collapse Was Coming?**
+### Did the Collegia Know Collapse Was Coming?
 
 Several late records warned of aether exhaustion, self-sustaining spell systems, and instability within the Three Weaves.
 
 Whether these warnings were ignored, suppressed, misunderstood, or considered politically impossible to act upon remains disputed.
 
-### **What Happened to Cael Emberwright?**
+### What Happened to Cael Emberwright?
 
 No authenticated record describes his death.
 
@@ -924,7 +924,7 @@ Later Collegia traditions variously claim he died in a furnace accident, entered
 
 No theory has been proven.
 
-### **What Became of the Artificial Lives?**
+### What Became of the Artificial Lives?
 
 Constructs, memory vessels, and elemental laborers disappear from most civic records during the Collapse.
 
@@ -946,7 +946,7 @@ They were also unprepared for how many hands would reach for the flame.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

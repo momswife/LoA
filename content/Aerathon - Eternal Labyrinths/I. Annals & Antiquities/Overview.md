@@ -26,3 +26,12 @@ These records are the archive's best-supported interpretations, not unquestionab
 
 > [!note] Archival Guidance
 > Contradictions between Annals are preserved intentionally. Compare sources before treating any reconstruction as settled history.
+
+## Browse the Annals
+
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/index|Fundamentals of Recorded Reality]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/index|Eras & Timelines]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/index|Ancient Peoples & Civilizations]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/04. Conflicts, Catastrophes, & Treaties/index|Conflicts, Catastrophes, & Treaties]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/05. Figures, Institutions, Houses & Lineages/index|Figures, Institutions, Houses & Lineages]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/06. Relics, Ruins, & Archaeological Records/index|Relics, Ruins, & Archaeological Records]]

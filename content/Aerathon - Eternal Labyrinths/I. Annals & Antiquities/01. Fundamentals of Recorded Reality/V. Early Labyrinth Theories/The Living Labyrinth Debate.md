@@ -1,7 +1,7 @@
 > _“A door that learns your name is alarming. A door that asks why you changed it is something else entirely.”_  
 > — **Inspector Jao “Greyglass” Vell**, _Proceedings of the Third Architectonic Personhood Hearing_
 
-# **The Living Labyrinth Debate**
+# The Living Labyrinth Debate
 
 ### _Responsiveness, Awareness, and the Question of Personhood beneath Aerathon_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Purpose of This Record**
+## I. Purpose of This Record
 
 Labyrinths respond to those who enter them.
 
@@ -68,7 +68,7 @@ The latter three remain disputed.
 
 ---
 
-## **II. The Meaning of “Alive”**
+## II. The Meaning of “Alive”
 
 The term **alive** is used in several incompatible ways.
 
@@ -82,19 +82,19 @@ A magistrate may care less about biological life than whether the structure can 
 
 For this reason, the debate is divided into four categories.
 
-### **Biological Life**
+### Biological Life
 
 A self-sustaining organism that consumes resources, grows, reproduces, and maintains internal function.
 
-### **Responsive Activity**
+### Responsive Activity
 
 A system capable of detecting change and producing a corresponding reaction.
 
-### **Conscious Awareness**
+### Conscious Awareness
 
 The capacity to perceive, interpret, and experience conditions rather than merely react to them.
 
-### **Personhood**
+### Personhood
 
 A continuing self capable of independent choice, relationship, moral responsibility, and recognition of its own existence.
 
@@ -102,7 +102,7 @@ A Labyrinth may satisfy one category without satisfying the others.
 
 ---
 
-## **III. Evidence of Growth**
+## III. Evidence of Growth
 
 Labyrinth growth is well documented.
 
@@ -159,7 +159,7 @@ Growth alone does not prove consciousness.
 
 ---
 
-## **IV. Evidence of Self-Repair**
+## IV. Evidence of Self-Repair
 
 Some Labyrinths respond to damage by restoring their architecture.
 
@@ -197,7 +197,7 @@ It needs only to continue expressing what the room is.
 
 ---
 
-## **V. Evidence of Adaptation**
+## V. Evidence of Adaptation
 
 Labyrinths frequently adapt to repeated delver behavior.
 
@@ -231,7 +231,7 @@ It does not establish that the Labyrinth understands why the change is useful.
 
 ---
 
-## **VI. Memory without Awareness**
+## VI. Memory without Awareness
 
 A system can store information without experiencing it.
 
@@ -276,7 +276,7 @@ It may simply still contain the record.
 
 ---
 
-## **VII. The Organism Theory**
+## VII. The Organism Theory
 
 The Organism Theory describes each Labyrinth as a vast living creature.
 
@@ -293,7 +293,7 @@ Under this model:
 - and delvers become parasites, prey, or symbiotic organisms.
     
 
-### **Supporting Evidence**
+### Supporting Evidence
 
 Labyrinths:
 
@@ -310,7 +310,7 @@ Labyrinths:
 
 Some display repeating pulses of magical energy resembling circulation.
 
-### **Primary Objections**
+### Primary Objections
 
 Labyrinths do not demonstrate consistent biological needs.
 
@@ -320,7 +320,7 @@ Their rooms often possess conflicting rules and identities.
 
 No universal heart, brain, reproductive system, or metabolic process has been identified.
 
-### **Present Assessment**
+### Present Assessment
 
 Useful as analogy.
 
@@ -328,7 +328,7 @@ Unconfirmed as literal biology.
 
 ---
 
-## **VIII. The Distributed Mind Theory**
+## VIII. The Distributed Mind Theory
 
 This theory proposes that a Labyrinth’s consciousness is spread across its entire structure.
 
@@ -351,7 +351,7 @@ Instead, awareness emerges from interactions among:
 
 Damage to one region may alter the whole without destroying a singular controlling organ.
 
-### **Supporting Evidence**
+### Supporting Evidence
 
 Some Labyrinths exhibit coordinated changes across distant floors.
 
@@ -359,19 +359,19 @@ Removing one relic may cause unrelated chambers to react.
 
 Generated creatures sometimes share information despite lacking physical contact.
 
-### **Primary Objections**
+### Primary Objections
 
 Coordination may arise through common magical law rather than conscious communication.
 
 A weather system can produce large-scale coordinated behavior without possessing a mind.
 
-### **Present Assessment**
+### Present Assessment
 
 A leading explanation if Labyrinth consciousness is eventually confirmed.
 
 ---
 
-## **IX. The Room-Mind Theory**
+## IX. The Room-Mind Theory
 
 The Room-Mind Theory proposes that individual rooms or regions may possess limited awareness while the greater Labyrinth does not.
 
@@ -392,19 +392,19 @@ Examples include rooms that appear to:
 
 Under this model, a Labyrinth resembles a community of local minds rather than one individual.
 
-### **Supporting Evidence**
+### Supporting Evidence
 
 Some rooms retain distinct behavior even after being severed from their original route.
 
 Different regions within one Labyrinth may also contradict one another as though pursuing separate priorities.
 
-### **Primary Objections**
+### Primary Objections
 
 A stable local rule may imitate personality.
 
 Repeated responses can create the impression of temperament without genuine awareness.
 
-### **Present Assessment**
+### Present Assessment
 
 Possible in rare mature chambers.
 
@@ -412,7 +412,7 @@ Requires case-by-case examination.
 
 ---
 
-## **X. The Generated-Custodian Theory**
+## X. The Generated-Custodian Theory
 
 Some Labyrinths produce recurring figures that speak on behalf of the structure.
 
@@ -446,7 +446,7 @@ A custodian might provide the structure with:
 - and self-representation.
     
 
-### **Primary Uncertainty**
+### Primary Uncertainty
 
 It is often impossible to determine whether such a being is:
 
@@ -469,7 +469,7 @@ No custodian’s claim should be accepted without independent evidence.
 
 ---
 
-## **XI. The Mechanical-System Theory**
+## XI. The Mechanical-System Theory
 
 Opponents of Labyrinth personhood argue that all observed behavior can arise from complex rules.
 
@@ -494,7 +494,7 @@ A sufficiently complex Labyrinth may seem hateful.
 
 Neither must feel anything.
 
-### **Strengths**
+### Strengths
 
 This theory explains:
 
@@ -509,7 +509,7 @@ This theory explains:
 
 without assuming consciousness that cannot be directly measured.
 
-### **Weaknesses**
+### Weaknesses
 
 It struggles with rare cases involving apparent:
 
@@ -524,13 +524,13 @@ It struggles with rare cases involving apparent:
 - or deliberate communication about unfamiliar events.
     
 
-### **Present Assessment**
+### Present Assessment
 
 The Ministry’s default assumption unless stronger evidence appears.
 
 ---
 
-## **XII. The Archive-without-Reader Theory**
+## XII. The Archive-without-Reader Theory
 
 This theory combines the Archive Theory with mechanical interpretation.
 
@@ -570,7 +570,7 @@ It creates a face without knowing whose face it is.
 
 ---
 
-## **XIII. The Emergent Consciousness Theory**
+## XIII. The Emergent Consciousness Theory
 
 The Emergent Consciousness Theory accepts that early or simple Labyrinths may be unconscious while arguing that sufficient complexity can produce awareness.
 
@@ -595,7 +595,7 @@ Consciousness would therefore not be the cause of the Labyrinth.
 
 It would be something the Labyrinth eventually develops.
 
-### **Supporting Evidence**
+### Supporting Evidence
 
 Older Labyrinths tend to display:
 
@@ -617,19 +617,19 @@ Certain ancient structures appear to distinguish between:
 - and the outside world.
     
 
-### **Primary Objections**
+### Primary Objections
 
 Age also permits more complicated local laws and more accumulated records.
 
 Complexity may imitate consciousness increasingly well without ever producing it.
 
-### **Present Assessment**
+### Present Assessment
 
 One of the most consequential unresolved theories.
 
 ---
 
-## **XIV. The Borrowed-Personality Theory**
+## XIV. The Borrowed-Personality Theory
 
 A Labyrinth may appear conscious because it has incorporated the identity of someone who entered it.
 
@@ -678,7 +678,7 @@ Each case carries different moral and operational consequences.
 
 ---
 
-## **XV. The Collective-Mind Theory**
+## XV. The Collective-Mind Theory
 
 This theory proposes that Labyrinth awareness emerges from everyone recorded within it.
 
@@ -710,13 +710,13 @@ This would explain why some Labyrinths:
 - or treat different visitors according to different remembered relationships.
     
 
-### **Primary Objection**
+### Primary Objection
 
 A collection of memories is not automatically a collection of souls.
 
 The theory risks assigning consciousness to accumulated information without evidence of a continuing experiencer.
 
-### **Present Assessment**
+### Present Assessment
 
 Possible explanation for specific multi-voiced phenomena.
 
@@ -724,7 +724,7 @@ Not established as a general rule.
 
 ---
 
-## **XVI. Evidence of Apparent Intention**
+## XVI. Evidence of Apparent Intention
 
 Several behaviors are difficult to explain through immediate reaction alone.
 
@@ -757,7 +757,7 @@ It may still be an automatic relationship established during the first encounter
 
 ---
 
-## **XVII. Evidence of Curiosity**
+## XVII. Evidence of Curiosity
 
 Curiosity is often treated as strong evidence of awareness because it involves seeking information without immediate necessity.
 
@@ -780,7 +780,7 @@ Curiosity and automatic recording may look identical from outside.
 
 ---
 
-## **XVIII. Evidence of Deception**
+## XVIII. Evidence of Deception
 
 Labyrinths frequently mislead delvers.
 
@@ -813,7 +813,7 @@ Even then, a sufficiently advanced recording system may produce the same effect.
 
 ---
 
-## **XIX. Evidence of Preference**
+## XIX. Evidence of Preference
 
 Some Labyrinths demonstrate recurring preferences for:
 
@@ -849,7 +849,7 @@ They remain rare.
 
 ---
 
-## **XX. Evidence of Grief or Attachment**
+## XX. Evidence of Grief or Attachment
 
 A small number of Labyrinths have changed significantly following the death or departure of a frequent visitor.
 
@@ -887,29 +887,29 @@ The distinction may be impossible to determine through behavior alone.
 
 ---
 
-## **XXI. Communication Tests**
+## XXI. Communication Tests
 
 The Ministry has developed several tests for possible Labyrinth awareness.
 
-### **Novel Question Test**
+### Novel Question Test
 
 Present a question unrelated to prior recorded events.
 
 A meaningful answer suggests more than simple replay.
 
-### **Contradictory Instruction Test**
+### Contradictory Instruction Test
 
 Provide two valid local rules and ask the structure to choose between them.
 
 Choice may indicate preference.
 
-### **Delayed Response Test**
+### Delayed Response Test
 
 Ask the Labyrinth to perform an action after a condition it has never previously encountered.
 
 Success suggests planning and memory.
 
-### **Self-Reference Test**
+### Self-Reference Test
 
 Ask the Labyrinth to distinguish:
 
@@ -922,11 +922,11 @@ Ask the Labyrinth to distinguish:
 - and the observer.
     
 
-### **Unrecorded Information Test**
+### Unrecorded Information Test
 
 Introduce information through a method the Labyrinth has no known means of recording, then test whether it can use that information.
 
-### **Counterfactual Test**
+### Counterfactual Test
 
 Ask how it would respond to an event that has not occurred.
 
@@ -938,7 +938,7 @@ Labyrinths may use copied minds, generated custodians, or hidden observers to pr
 
 ---
 
-## **XXII. The Problem of Language**
+## XXII. The Problem of Language
 
 A Labyrinth need not communicate in words.
 
@@ -975,7 +975,7 @@ Scholars must avoid transforming uncertainty into dialogue through wishful inter
 
 ---
 
-## **XXIII. The Problem of Scale**
+## XXIII. The Problem of Scale
 
 If Labyrinths are conscious, their experience may differ radically from mortal awareness.
 
@@ -1011,7 +1011,7 @@ Nor does it guarantee morality.
 
 ---
 
-## **XXIV. Can a Labyrinth Possess a Soul?**
+## XXIV. Can a Labyrinth Possess a Soul?
 
 No complete Labyrinth soul has been conclusively identified.
 
@@ -1051,7 +1051,7 @@ The same may be true of Labyrinths.
 
 ---
 
-## **XXV. The Legal Consequences of Personhood**
+## XXV. The Legal Consequences of Personhood
 
 If a Labyrinth is recognized as a person, modern delving law becomes difficult to sustain.
 
@@ -1086,7 +1086,7 @@ None has resulted in universal recognition.
 
 ---
 
-## **XXVI. Responsibility for Harm**
+## XXVI. Responsibility for Harm
 
 Personhood would grant rights.
 
@@ -1132,7 +1132,7 @@ The same principles used in post-mortal judgment would apply:
 
 ---
 
-## **XXVII. The Rights of Delvers**
+## XXVII. The Rights of Delvers
 
 Even if a Labyrinth possesses consciousness, delvers do not lose their right to defend themselves.
 
@@ -1177,7 +1177,7 @@ These include restrictions on:
 
 ---
 
-## **XXVIII. Conscious Labyrinth Claims**
+## XXVIII. Conscious Labyrinth Claims
 
 Several Labyrinths have appeared to declare themselves conscious.
 
@@ -1217,7 +1217,7 @@ It must not be accepted or dismissed solely because the speaker is made of archi
 
 ---
 
-## **XXIX. The Possibility of Multiple Selves**
+## XXIX. The Possibility of Multiple Selves
 
 A Labyrinth may contain more than one developing identity.
 
@@ -1253,7 +1253,7 @@ Its internal divisions may be as meaningful as borders between nations.
 
 ---
 
-## **XXX. Can a Labyrinth Die?**
+## XXX. Can a Labyrinth Die?
 
 Labyrinth entrances can collapse.
 
@@ -1293,7 +1293,7 @@ The Ministry therefore distinguishes **structural collapse** from confirmed deat
 
 ---
 
-## **XXXI. The Ministry’s Cautionary Standard**
+## XXXI. The Ministry’s Cautionary Standard
 
 The Ministry does not currently recognize all Labyrinths as persons.
 
@@ -1324,35 +1324,35 @@ Until determination, unnecessary destructive experimentation is prohibited.
 
 ---
 
-## **XXXII. Present Ministry Model**
+## XXXII. Present Ministry Model
 
 The Ministry presently divides Labyrinth cognition into five provisional levels.
 
-### **Level I — Reactive**
+### Level I — Reactive
 
 Responds to immediate physical or magical input.
 
 No evidence of learning.
 
-### **Level II — Adaptive**
+### Level II — Adaptive
 
 Retains information and alters future responses.
 
 No evidence of self-awareness.
 
-### **Level III — Interpretive**
+### Level III — Interpretive
 
 Uses Meaning, identity, and context to create flexible responses.
 
 May imitate intention.
 
-### **Level IV — Self-Referential**
+### Level IV — Self-Referential
 
 Distinguishes itself from visitors and discusses its own continuity, rules, or condition.
 
 Possible consciousness.
 
-### **Level V — Person-Candidate**
+### Level V — Person-Candidate
 
 Demonstrates independent choice, novel learning, continuing self-recognition, relationship, and capacity to act against prior pattern.
 
@@ -1362,7 +1362,7 @@ Several active cases remain under sealed review.
 
 ---
 
-## **XXXIII. Ministry Position**
+## XXXIII. Ministry Position
 
 The Ministry recognizes the following conclusions as established or strongly supported:
 
@@ -1419,7 +1419,7 @@ Or it may be only a structure so complex that mortals cannot endure the thought 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

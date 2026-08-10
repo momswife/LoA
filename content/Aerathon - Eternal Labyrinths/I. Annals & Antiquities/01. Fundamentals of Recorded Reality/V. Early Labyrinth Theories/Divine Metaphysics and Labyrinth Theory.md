@@ -1,7 +1,7 @@
 > _“The first scholars asked which god had built the Labyrinths. The better question came later: why would a structure that resembles every god obey none of them?”_  
 > — **Archivist Yelna Stonevoice**, _Errors of the First Delving Century_
 
-# **Divine Metaphysics and Labyrinth Theory**
+# Divine Metaphysics and Labyrinth Theory
 
 ### _The Earliest Attempts to Explain Impossible Architecture, Sacred Resemblance, and the Reality Recorded beneath Aerathon_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Purpose of This Record**
+## I. Purpose of This Record
 
 Labyrinths are among the most heavily studied and least fully understood structures in Aerathon.
 
@@ -54,7 +54,7 @@ It establishes what is known, what was once believed, and which early theories r
 
 ---
 
-## **II. What Is Known with Confidence**
+## II. What Is Known with Confidence
 
 Before discussing theories, several observations must be separated from interpretation.
 
@@ -89,7 +89,7 @@ Claims concerning why they occur remain theoretical.
 
 ---
 
-## **III. Why Early Scholars Suspected Divine Origin**
+## III. Why Early Scholars Suspected Divine Origin
 
 The first major Labyrinth surveys occurred in cultures that already understood the world through the Two Pantheons.
 
@@ -137,7 +137,7 @@ As evidence accumulated, that explanation became harder to sustain.
 
 ---
 
-## **IV. The Temple-Below Theory**
+## IV. The Temple-Below Theory
 
 The oldest widespread explanation described Labyrinths as buried temples or divine sanctuaries.
 
@@ -171,7 +171,7 @@ The Ministry no longer accepts that all Labyrinths began as temples.
 
 ---
 
-## **V. The Divine Battlefield Theory**
+## V. The Divine Battlefield Theory
 
 As knowledge of the War of the Two Heavens expanded, scholars proposed that Labyrinths were the preserved battlefields of divine conflict.
 
@@ -228,7 +228,7 @@ It does not adequately explain everything those Labyrinths later became.
 
 ---
 
-## **VI. The Divine Prison Theory**
+## VI. The Divine Prison Theory
 
 A related early theory held that the Labyrinths were created as prisons.
 
@@ -270,7 +270,7 @@ The structure and its prisoner must be investigated separately.
 
 ---
 
-## **VII. The Edict-Vent Theory**
+## VII. The Edict-Vent Theory
 
 After the Quiet Edict became better understood, theologians proposed that Labyrinths served as pressure vents for restricted divine power.
 
@@ -312,7 +312,7 @@ A Labyrinth may absorb divine pressure because of what it is, rather than exist 
 
 ---
 
-## **VIII. The Symbolic-Law Theory**
+## VIII. The Symbolic-Law Theory
 
 One of the most durable early theories proposed that Labyrinths obey **symbolic law** rather than ordinary architecture.
 
@@ -359,11 +359,11 @@ Meaningful architecture does not require a conscious author.
 
 ---
 
-## **IX. Labyrinths and the Three Weaves**
+## IX. Labyrinths and the Three Weaves
 
 Modern scholarship explains symbolic behavior through the Three Weaves.
 
-### **Matter**
+### Matter
 
 Labyrinths create or rearrange physical substance:
 
@@ -380,13 +380,13 @@ Labyrinths create or rearrange physical substance:
 - and artificial environments.
     
 
-### **Meaning**
+### Meaning
 
 They assign identity, role, relationship, and symbolic importance.
 
 A room may become a throne room not because it contains a throne, but because the Labyrinth recognizes someone within it as a ruler.
 
-### **Motion**
+### Motion
 
 They control sequence, transformation, direction, and change.
 
@@ -402,7 +402,7 @@ This is why a Labyrinth can create convincing architecture without constructing 
 
 ---
 
-## **X. The Living Architecture Theory**
+## X. The Living Architecture Theory
 
 Some early delvers believed Labyrinths were enormous living beings.
 
@@ -448,7 +448,7 @@ Whether responsiveness constitutes life remains disputed.
 
 ---
 
-## **XI. The Dreaming Theory**
+## XI. The Dreaming Theory
 
 The discovery of the Dreaming produced a new explanation.
 
@@ -479,7 +479,7 @@ It is not sufficient as a universal origin.
 
 ---
 
-## **XII. The Shattersea Theory**
+## XII. The Shattersea Theory
 
 The Shattersea’s capacity to preserve memory and alternate reflection led scholars to propose that Labyrinths were solidified portions of its recorded past.
 
@@ -519,7 +519,7 @@ It interprets—often badly.
 
 ---
 
-## **XIII. The Archive Theory**
+## XIII. The Archive Theory
 
 The **Archive Theory** emerged from repeated evidence that Labyrinths retain information.
 
@@ -577,7 +577,7 @@ It is the Labyrinth’s damaged record of the moment they were lost.
 
 ---
 
-## **XIV. Does the Labyrinth Understand What It Records?**
+## XIV. Does the Labyrinth Understand What It Records?
 
 The Archive Theory does not require Labyrinths to understand reality as mortals do.
 
@@ -617,7 +617,7 @@ They are often accurate in detail and wrong in understanding.
 
 ---
 
-## **XV. The Origin-Record Theory**
+## XV. The Origin-Record Theory
 
 One of the most controversial extensions of the Archive Theory proposes that Labyrinths do not merely record events occurring inside them.
 
@@ -657,7 +657,7 @@ It is presently one of the strongest explanations for Labyrinths that preserve h
 
 ---
 
-## **XVI. The Mortal-Feeding Theory**
+## XVI. The Mortal-Feeding Theory
 
 A more troubling early model proposed that Labyrinths require mortal experience in order to grow.
 
@@ -703,7 +703,7 @@ It does not prove that they require intruders to survive.
 
 ---
 
-## **XVII. The Trial Theory**
+## XVII. The Trial Theory
 
 Many cultures interpreted Labyrinths as tests.
 
@@ -757,7 +757,7 @@ They have not necessarily proven themselves good.
 
 ---
 
-## **XVIII. Divine Phenomena inside Labyrinths**
+## XVIII. Divine Phenomena inside Labyrinths
 
 Labyrinths can reproduce divine imagery and portions of sacred law.
 
@@ -795,7 +795,7 @@ A Labyrinth can reproduce the shape of judgment without possessing justice.
 
 ---
 
-## **XIX. Labyrinths and the Veiled Meridian**
+## XIX. Labyrinths and the Veiled Meridian
 
 Labyrinths occasionally interfere with death.
 
@@ -841,7 +841,7 @@ Soul verification is required.
 
 ---
 
-## **XX. What the Early Theories Got Right**
+## XX. What the Early Theories Got Right
 
 Despite their errors, the earliest scholars identified several enduring principles.
 
@@ -872,7 +872,7 @@ These findings remain central to modern theory.
 
 ---
 
-## **XXI. What the Early Theories Got Wrong**
+## XXI. What the Early Theories Got Wrong
 
 Early scholarship repeatedly mistook resemblance for origin.
 
@@ -899,7 +899,7 @@ It is that a sufficiently accurate imitation encourages observers to supply an e
 
 ---
 
-## **XXII. Present Ministry Position**
+## XXII. Present Ministry Position
 
 The Ministry currently uses a combined model.
 
@@ -932,7 +932,7 @@ The question of ultimate origin remains open.
 
 ---
 
-## **XXIII. Ministry Position**
+## XXIII. Ministry Position
 
 The Ministry recognizes the following conclusions as established or strongly supported:
 
@@ -981,7 +981,7 @@ What they found instead was a structure capable of remembering all of them.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

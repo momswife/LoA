@@ -3,7 +3,7 @@
 
 ---
 
-# **The Age of Spectacle**
+# The Age of Spectacle
 
 ### _Era VI — Memory as Currency, Truth as Performance_
 
@@ -23,7 +23,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Age of Spectacle** is the present age of Aerathon.
 
@@ -55,7 +55,7 @@ Spectacle requires only an audience.
 
 ---
 
-## **II. The Difficulty of Recording the Present**
+## II. The Difficulty of Recording the Present
 
 The Age of Spectacle possesses more records than every preceding era combined.
 
@@ -95,7 +95,7 @@ It suffers from evidence owned by interested parties.
 
 ---
 
-## **III. The Beginning of the Age**
+## III. The Beginning of the Age
 
 The Age of Spectacle officially begins in **3300 A.D.**
 
@@ -131,7 +131,7 @@ A new age had begun.
 
 ---
 
-## **IV. The Louvain Concordat and the Archive-State**
+## IV. The Louvain Concordat and the Archive-State
 
 The political foundation of the era was established before its official beginning.
 
@@ -141,7 +141,7 @@ The Concordat was intended to prevent any single guild, noble house, or Ministry
 
 Instead, it created a government dependent upon all three.
 
-### **The Ministry as Government**
+### The Ministry as Government
 
 The MDO had originally governed entrances, relics, guild licenses, and breaches.
 
@@ -170,7 +170,7 @@ A Ministry record did not merely describe a legal condition.
 
 It often created one.
 
-### **Updates to the Archive**
+### Updates to the Archive
 
 Many Louvain decrees are issued as **Archive Updates** rather than traditional laws.
 
@@ -194,7 +194,7 @@ The Labyrinths have repeatedly challenged that assumption.
 
 ---
 
-## **V. The Architecture of Observation**
+## V. The Architecture of Observation
 
 Modern spectacle depends upon a vast network of magical structures collectively known as **Scrying Architecture**.
 
@@ -202,19 +202,19 @@ It connects Divine Oculi, mirror arrays, scryline towers, guild channels, memory
 
 The network possesses three broad layers.
 
-### **The Material Layer**
+### The Material Layer
 
 Mythril-threaded stone, codified obsidian, echo crystal, etched silver, and reinforced conduits provide physical anchoring for the system.
 
-### **The Resonance Layer**
+### The Resonance Layer
 
 Magical harmonics translate raw perception into sight, sound, emotional pressure, temporal position, and measurable arcane data.
 
-### **The Transmission Layer**
+### The Transmission Layer
 
 The Arcanet carries these records between Oculi, guild halls, Ministry offices, broadcast studios, and public viewing locations.
 
-### **Divine Oculi**
+### Divine Oculi
 
 Divine Oculi are mobile witnessing instruments assigned to official expeditions.
 
@@ -226,7 +226,7 @@ An Oculi record is evidence.
 
 It is not judgment.
 
-### **Reality Anchoring**
+### Reality Anchoring
 
 Scrying architecture does more than produce entertainment.
 
@@ -242,7 +242,7 @@ The gaze can also become a cage.
 
 ---
 
-## **VI. The Grand Scrying Network**
+## VI. The Grand Scrying Network
 
 The **Grand Scrying Network**, commonly called the **GSN**, developed from late Delving-era relay halls and regional emergency channels.
 
@@ -256,7 +256,7 @@ Broadcasters noticed.
 
 Within the first decade of the Spectacle Age, the network evolved into Aerathon’s dominant public medium.
 
-### **Guildstreams**
+### Guildstreams
 
 Major guilds maintain dedicated channels featuring:
 
@@ -275,7 +275,7 @@ Major guilds maintain dedicated channels featuring:
 - and controlled access to guild life.
     
 
-### **Public Viewing Halls**
+### Public Viewing Halls
 
 Cities maintain Arcanet theatres where large audiences watch expeditions together.
 
@@ -283,7 +283,7 @@ These halls resemble a mixture of civic chamber, sporting arena, temple, and tav
 
 Crowds cheer rescues, debate tactics, mourn deaths, place wagers, and vote upon sanctioned expedition decisions.
 
-### **Narrators and Observers**
+### Narrators and Observers
 
 Licensed commentators translate magical, tactical, and historical events for the public.
 
@@ -293,7 +293,7 @@ Poor commentary can destroy reputations.
 
 Deliberately false commentary can trigger Ministry sanction.
 
-### **Control of Attention**
+### Control of Attention
 
 The GSN determines which expeditions receive prominent coverage, which guilds gain narrative focus, and which tragedies become global events.
 
@@ -307,7 +307,7 @@ It decides which truth the world sees first.
 
 ---
 
-## **VII. The Arcane Broadcast Authority**
+## VII. The Arcane Broadcast Authority
 
 The first years of public livecasting produced widespread manipulation.
 
@@ -346,7 +346,7 @@ The Authority regulates:
 - and the use of recorded Labyrinth material.
     
 
-### **The Four Principal Offices**
+### The Four Principal Offices
 
 The **Scrytech Regulation Office** inspects equipment and transmission stability.
 
@@ -356,7 +356,7 @@ The **Public Influence and Sentiment Control Bureau** monitors mass charms, audi
 
 The **Narrative Authentication Office** verifies historical claims, commentary, relic descriptions, and public summaries.
 
-### **Regulatory Power**
+### Regulatory Power
 
 The ABA may suspend a broadcast, freeze a sponsorship, seize illegal scrytech, issue public censure, or refer a case to the Ministerial Tribunal.
 
@@ -370,7 +370,7 @@ Its practical task is determining whether truth can survive production.
 
 ---
 
-## **VIII. The Guild Powers of the Modern Age**
+## VIII. The Guild Powers of the Modern Age
 
 Guilds entered the Age of Spectacle as institutions.
 
@@ -378,7 +378,7 @@ They became powers comparable to governments, corporations, religious orders, an
 
 Each major guild represents a different answer to what delving should mean.
 
-### **The Free Company of Louvain**
+### The Free Company of Louvain
 
 The Free Company remains the Ministry’s sole directly sponsored S-Class guild and its principal civic ally.
 
@@ -407,7 +407,7 @@ The Company represents the belief that delving remains a service.
 
 Whether the Ministry shares that belief as deeply as it claims remains disputed.
 
-### **The Argent Banner**
+### The Argent Banner
 
 The Argent Banner embodies delving as heroic performance.
 
@@ -419,7 +419,7 @@ Its supporters argue that inspiration sustains civilization.
 
 Its critics argue that the Banner no longer recognizes a difference between courage and presentation.
 
-### **The Crimson Reavers**
+### The Crimson Reavers
 
 The Crimson Reavers grew from frontier warbands, banned companies, deserters, mercenaries, and delvers who rejected formal authority.
 
@@ -435,7 +435,7 @@ Public condemnation does not reduce an audience.
 
 It often enlarges one.
 
-### **The Iron-Bough Syndicate**
+### The Iron-Bough Syndicate
 
 Founded in **3289 A.D.**, the Iron-Bough Syndicate began during the final years of the Age of Delving.
 
@@ -462,7 +462,7 @@ Its economic independence threatens the Ministry’s ability to regulate it.
 
 Iron-Bough represents the transformation of the guild from fellowship into corporation.
 
-### **The Verdant Collision**
+### The Verdant Collision
 
 Founded in **3321 A.D.**, the Verdant Collision emerged in response to surface corruption caused by aggressive Labyrinth exploitation.
 
@@ -476,7 +476,7 @@ It has less wealth than its rivals.
 
 It possesses greater moral credibility than nearly all of them.
 
-### **The Emberlight Union**
+### The Emberlight Union
 
 The Emberlight Union arose during the opening decades of the Age of Spectacle.
 
@@ -490,7 +490,7 @@ Critics call its work distraction.
 
 Citizens continue gathering beneath its lights.
 
-### **The Dawnwright Circe**
+### The Dawnwright Circe
 
 The Dawnwright Circe preserves the First Light training traditions of the previous age.
 
@@ -500,7 +500,7 @@ Nearly every major guild recruits from its graduates.
 
 In an age that rewards immediate fame, the Circe maintains the unfashionable principle that a living novice is more valuable than a dead prodigy.
 
-### **The Cinderpaw Pact**
+### The Cinderpaw Pact
 
 The Cinderpaw Pact is not merely a guild.
 
@@ -516,13 +516,13 @@ The Pact’s refusal of spectacle is itself a powerful public symbol.
 
 ---
 
-## **IX. Rank, Merit, and Public Worth**
+## IX. Rank, Merit, and Public Worth
 
 Guild classification originated in the Age of Delving as a measure of institutional capacity.
 
 During the Age of Spectacle, rank became identity.
 
-### **Guild Classes**
+### Guild Classes
 
 |Class|Modern Meaning|
 |---|---|
@@ -532,7 +532,7 @@ During the Age of Spectacle, rank became identity.
 |**C-Class**|Apprentice, training, or supervised order|
 |**D-Class**|Temporary crews and provisionally licensed delvers|
 
-### **Performance Metrics**
+### Performance Metrics
 
 Modern guilds are evaluated through statistics including:
 
@@ -557,7 +557,7 @@ The Ministry’s **Annual Performance Index** includes both operational and publ
 
 This has made public favor an administrative resource.
 
-### **UDMI and the Fame Engine**
+### UDMI and the Fame Engine
 
 The **UDMI** evaluates demonstrated delver competence, reliability, and field contribution.
 
@@ -575,7 +575,7 @@ It has never agreed upon what merit is.
 
 ---
 
-## **X. Sponsorship and the Ownership of Heroes**
+## X. Sponsorship and the Ownership of Heroes
 
 A modern sponsorship is a sanctioned pact among a delver or guild and a patron.
 
@@ -608,7 +608,7 @@ Their names are spoken during broadcasts.
 
 Their interests enter expedition decisions.
 
-### **Narrative Clauses**
+### Narrative Clauses
 
 Modern contracts may govern:
 
@@ -633,7 +633,7 @@ Some contracts continue after death.
 
 A fallen delver’s image may remain commercially active for generations.
 
-### **The Sponsored Self**
+### The Sponsored Self
 
 Successful delvers increasingly maintain separate identities:
 
@@ -652,19 +652,19 @@ The law has not fully determined which one owns a life.
 
 ---
 
-## **XI. Audience Power**
+## XI. Audience Power
 
 The audience of the Age of Spectacle is not passive.
 
 Sanctioned systems permit viewers to influence expeditions through magical and financial participation.
 
-### **Tipcasting**
+### Tipcasting
 
 Viewers transmit minor boons supporting stamina, clarity, morale, or magical recovery.
 
 Large audiences can produce significant effects.
 
-### **Labyrinth Polls**
+### Labyrinth Polls
 
 Some regulated formations allow audiences to vote upon routes, challenges, tactical restrictions, or puzzle conditions.
 
@@ -672,13 +672,13 @@ These votes are presented as participation.
 
 Delvers sometimes describe them as remote command by strangers who bear none of the risk.
 
-### **Blessing Tokens**
+### Blessing Tokens
 
 Rare audience-generated glyphs can reinforce wards, alter probability, or provide emergency protection.
 
 Accounts of tokens reversing death remain disputed and heavily regulated.
 
-### **Live Betting**
+### Live Betting
 
 Public wagers affect guild value, sponsor behavior, and audience interest.
 
@@ -686,7 +686,7 @@ During highly unstable events, betting may create enormous emotional resonance a
 
 The ABA requires odds to freeze during major Core pings, Convergence flares, and N-Class anomalies.
 
-### **The Armed Crowd**
+### The Armed Crowd
 
 The collective attention of millions possesses magical weight.
 
@@ -702,7 +702,7 @@ The Labyrinth may be watching the crowd.
 
 ---
 
-## **XII. The Memory Market**
+## XII. The Memory Market
 
 The Age of Spectacle trades not only in images but in experience.
 
@@ -725,13 +725,13 @@ These memories may be used for:
 - and commercial consumption.
     
 
-### **Bound Runs**
+### Bound Runs
 
 Certified memories are reviewed for curse contamination, coercion, alteration, and dangerous emotional resonance.
 
 They are released with contextual notes and lawful ownership records.
 
-### **Raw Runs**
+### Raw Runs
 
 Illegal memory recordings circulate without filtration.
 
@@ -739,7 +739,7 @@ They may contain terror, pain, dying impressions, compulsions, Labyrinth echoes,
 
 Thrillseekers seek them precisely because they are unsafe.
 
-### **Memory Ownership**
+### Memory Ownership
 
 Current law has not resolved whether a memory belongs entirely to:
 
@@ -756,7 +756,7 @@ Current law has not resolved whether a memory belongs entirely to:
 - or the public whose support enabled the descent.
     
 
-### **The Second Trauma**
+### The Second Trauma
 
 Delvers often report that reliving an event through edited broadcasts feels different from remembering it privately.
 
@@ -772,7 +772,7 @@ In severe cases, the public version of an event becomes more stable than the mem
 
 ---
 
-## **XIII. Registry Culture and the Right to Forget**
+## XIII. Registry Culture and the Right to Forget
 
 Public Registry Nodes exist throughout major Ministry-chartered cities.
 
@@ -784,7 +784,7 @@ The system was created to prevent falsification.
 
 It has produced a culture terrified of absence.
 
-### **The Recorded Life**
+### The Recorded Life
 
 Citizens increasingly maintain public memory threads containing:
 
@@ -805,7 +805,7 @@ Citizens increasingly maintain public memory threads containing:
 
 To lack a record can limit travel, employment, legal protection, and social trust.
 
-### **Deletion Anxiety**
+### Deletion Anxiety
 
 The phrase **“He who deletes is damned”** arose from the belief that removing a record damages not only history but the reality stabilized around it.
 
@@ -813,7 +813,7 @@ Unauthorized deletion is a serious offense.
 
 This makes correction difficult when records contain abuse, humiliation, coercion, or falsehood.
 
-### **Cognitive Autonomy**
+### Cognitive Autonomy
 
 Beastfolk unions and privacy advocates petition for a legally protected **right to unrecorded life**.
 
@@ -838,13 +838,13 @@ The other fears never being allowed to forget.
 
 ---
 
-## **XIV. Faith in the Watching Age**
+## XIV. Faith in the Watching Age
 
 The gods remain quiet.
 
 The public has found new forms of worship.
 
-### **The Eyes of the Many**
+### The Eyes of the Many
 
 The **Eyes of the Many** teach that collective observation grants a form of immortality.
 
@@ -854,7 +854,7 @@ Their temples resemble amphitheatres lined with mirrors, memory crystals, and re
 
 The faithful chant the deeds of fallen delvers until individual voices become indistinguishable.
 
-### **Celebrity as Demigodhood**
+### Celebrity as Demigodhood
 
 Popular delvers receive offerings, imitation relics, devotional art, and public shrines.
 
@@ -868,7 +868,7 @@ Few delvers claim literal divinity.
 
 Some no longer need to.
 
-### **Traditional Faith**
+### Traditional Faith
 
 Old gods, Beastfolk pantheons, ancestral practices, Quiet Pantheon sects, and restored regional faiths continue.
 
@@ -876,7 +876,7 @@ Many reject the idea that an audience resembles a god.
 
 Others incorporate broadcasts into worship, treating witnessed descent as communal prayer.
 
-### **The Archive Heresy**
+### The Archive Heresy
 
 A growing philosophical movement argues that the Archive has become the new divine power of Aerathon.
 
@@ -888,7 +888,7 @@ Ministry practice occasionally appears less certain.
 
 ---
 
-## **XV. The Labyrinths Reflect Back**
+## XV. The Labyrinths Reflect Back
 
 The most dangerous development of the era is the apparent response of Labyrinths to observation.
 
@@ -896,7 +896,7 @@ The first verified observer-responsive architecture appeared in 3197 A.D.
 
 Since 3300 A.D., the phenomenon has intensified.
 
-### **Stage Logic**
+### Stage Logic
 
 Modern formations increasingly produce:
 
@@ -923,13 +923,13 @@ Walls display earlier broadcasts.
 
 Rooms appear to wait for a particular decision.
 
-### **Spectral Feedback**
+### Spectral Feedback
 
 Lt. Salvia Korrin and other Breach analysts use the term **Spectral Feedback** for the cycle through which observation alters the Labyrinth, the altered Labyrinth changes the broadcast, and the broadcast shapes future expectation.
 
 No clear beginning remains within that cycle.
 
-### **Mirror-Class Events**
+### Mirror-Class Events
 
 Mirror-Class anomalies document themselves.
 
@@ -941,7 +941,7 @@ Others become more dangerous when watched.
 
 The Ministry formally adopted the Mirror-Class designation around **3362 A.D.**
 
-### **The Reflexive Labyrinth**
+### The Reflexive Labyrinth
 
 The leading modern theory proposes that centuries of maps, stories, fear, law, and recorded descent have become part of the material from which Labyrinths shape themselves.
 
@@ -951,11 +951,11 @@ The Labyrinth has begun studying the world in return.
 
 ---
 
-## **XVI. Refusal, Resistance, and the Unwatched**
+## XVI. Refusal, Resistance, and the Unwatched
 
 Not every delver accepts the terms of the age.
 
-### **The Ghostveil Accord**
+### The Ghostveil Accord
 
 The Ghostveil movement advocates:
 
@@ -970,7 +970,7 @@ The Ghostveil movement advocates:
 
 Its supporters include healers, retired delvers, Beastfolk unions, and some Free Company officers.
 
-### **The Mirrorless**
+### The Mirrorless
 
 The Mirrorless destroy or disable Oculi during expeditions.
 
@@ -980,19 +980,19 @@ The Ministry classifies them as extremists.
 
 Several Mirrorless predictions have later proven accurate.
 
-### **Stalwart Privacy**
+### Stalwart Privacy
 
 The Free Company’s Stalwart circles often conceal the names and locations of recovering delvers.
 
 This practice conflicts with registry policy but is defended as necessary for rehabilitation.
 
-### **Cinderpaw Refusal**
+### Cinderpaw Refusal
 
 The Cinderpaw Pact permits little external observation of its descents.
 
 Its members argue that ancestral grief is not entertainment and that recovered Beastfolk memory belongs first to the people from whom it was taken.
 
-### **The Quiet Rooms**
+### The Quiet Rooms
 
 Across Louvain and other cities, informal sanctuaries offer spaces without active recording.
 
@@ -1010,7 +1010,7 @@ It is an actively defended condition.
 
 ---
 
-## **XVII. The Present Year: 3388 A.D.**
+## XVII. The Present Year: 3388 A.D.
 
 The Age of Spectacle has lasted only eighty-eight years.
 
@@ -1020,7 +1020,7 @@ Its laws remain unsettled.
 
 Its technologies continue changing faster than the ethical structures intended to govern them.
 
-### **Current Political Tensions**
+### Current Political Tensions
 
 The Ministry faces growing conflict among:
 
@@ -1037,13 +1037,13 @@ The Ministry faces growing conflict among:
 - and broadcast consortia whose wealth rivals states.
     
 
-### **Ecological Reckoning**
+### Ecological Reckoning
 
 The Verdant Collision and allied researchers warn that repeated extraction is damaging surface ecosystems and causing Labyrinth traits to spread beyond recognized entrances.
 
 Iron-Bough and other industrial powers argue that modern civilization cannot survive without expanded recovery.
 
-### **Narrative Instability**
+### Narrative Instability
 
 Several authenticated expeditions now possess conflicting official versions.
 
@@ -1053,7 +1053,7 @@ In others, all participants remember events absent from the recording.
 
 The Narrative Authentication Office has not determined whether these are fraud, Drift recurrence, or Labyrinthal revision.
 
-### **N-Class Teams**
+### N-Class Teams
 
 Core-selected **N-Class teams**, including **Unit N-7**, receive heightened protection and scrutiny.
 
@@ -1076,7 +1076,7 @@ The Ministry publicly describes these measures as precaution.
 
 Internally, several divisions regard N-Class teams as possible indicators that the present age is approaching another threshold.
 
-### **The Unnamed Future**
+### The Unnamed Future
 
 No Seventh Era has been officially recognized.
 
@@ -1101,9 +1101,9 @@ It changes when the old explanation can no longer contain the world.
 
 ---
 
-## **XVIII. Principal Chronology and Historical Assessment**
+## XVIII. Principal Chronology and Historical Assessment
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -1125,7 +1125,7 @@ It changes when the old explanation can no longer contain the world.
 |**c. 3374 A.D.**|Conflicting authenticated versions of the same expeditions become a recognized archival category.|Grade-II Reconstruction|
 |**3388 A.D.**|Present year; N-Class activity, observer feedback, and archive instability intensify.|Grade-I Anchor|
 
-### **Historical Assessment**
+### Historical Assessment
 
 The Age of Spectacle has achieved forms of connection no earlier civilization possessed.
 
@@ -1143,7 +1143,7 @@ These achievements are real.
 
 So are their costs.
 
-### **Does Observation Protect Reality?**
+### Does Observation Protect Reality?
 
 In many Labyrinths, recorded observation provides stability.
 
@@ -1151,13 +1151,13 @@ In others, attention appears to feed complexity, hostility, or self-awareness.
 
 Both may be true.
 
-### **Who Owns a Delver’s Life?**
+### Who Owns a Delver’s Life?
 
 Contracts, guild law, sponsorship, public interest, and memory rights provide different answers.
 
 None fully account for the person beneath the recorded identity.
 
-### **Can the Ministry Regulate an Industry It Depends Upon?**
+### Can the Ministry Regulate an Industry It Depends Upon?
 
 Guilds provide infrastructure, rescue, revenue, and public confidence.
 
@@ -1165,19 +1165,19 @@ The Ministry governs them while relying upon their cooperation.
 
 The balance is increasingly unstable.
 
-### **Are the Labyrinths Learning Narrative?**
+### Are the Labyrinths Learning Narrative?
 
 Stage logic, recurring figures, observer response, and self-documentation suggest more than random adaptation.
 
 Whether the Labyrinths understand stories or merely reflect them remains unresolved.
 
-### **Can a Record Become More Real Than an Event?**
+### Can a Record Become More Real Than an Event?
 
 Narrative overwrite and conflicting authenticated footage suggest that records may now influence memory, public belief, and perhaps physical history.
 
 This possibility remains under restricted investigation.
 
-### **What Comes After Spectacle?**
+### What Comes After Spectacle?
 
 The present age cannot see beyond its own reflection.
 
@@ -1198,7 +1198,7 @@ Like every power Aerathon has inherited, it will be judged by who controls it, w
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

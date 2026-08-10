@@ -1,7 +1,7 @@
 > _“Every theory of the Labyrinth begins by mistaking one true thing for the whole truth.”_  
 > — **Magister Selka Vorr**, _Arguments beneath the World_
 
-# **Theories of Labyrinth Origin**
+# Theories of Labyrinth Origin
 
 ### _Competing Explanations for the First Labyrinths, the Formation of New Entrances, and the Growth of Recorded Reality_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Purpose of This Record**
+## I. Purpose of This Record
 
 The origin of the Labyrinths remains unknown.
 
@@ -55,17 +55,17 @@ The same answer may not govern all three.
 
 ---
 
-## **II. Origin, Formation, and Growth**
+## II. Origin, Formation, and Growth
 
 A Labyrinth’s history may contain several separate causes.
 
-### **Origin**
+### Origin
 
 The event or condition that first made Labyrinth existence possible.
 
 This may belong to the earliest history of Aerathon and need not be repeated whenever a new entrance appears.
 
-### **Formation**
+### Formation
 
 The local event that causes a specific Labyrinth to emerge, awaken, or become accessible.
 
@@ -86,7 +86,7 @@ Possible triggers include:
 - or structural contact with an existing Labyrinth.
     
 
-### **Growth**
+### Growth
 
 The process through which a Labyrinth adds, alters, or reorganizes rooms, creatures, memories, and laws after formation.
 
@@ -111,9 +111,9 @@ For example, the War of the Two Heavens might have created the first conditions 
 
 ---
 
-# **PART ONE: DIVINE AND COSMOLOGICAL THEORIES**
+## PART ONE: DIVINE AND COSMOLOGICAL THEORIES
 
-## **III. The Divine Construction Theory**
+### III. The Divine Construction Theory
 
 The oldest formal theory claims that the gods created the Labyrinths intentionally.
 
@@ -130,7 +130,7 @@ Suggested purposes include:
 - or preserving places from destruction.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Labyrinths frequently contain:
 
@@ -147,7 +147,7 @@ Labyrinths frequently contain:
 
 Some chambers appear too precise or functional to be accidental.
 
-### **Primary Objections**
+#### Primary Objections
 
 No god has established uncontested authorship.
 
@@ -168,7 +168,7 @@ The gods appear capable of influencing Labyrinths.
 
 This does not prove they created them.
 
-### **Present Assessment**
+#### Present Assessment
 
 Possible for individual structures.
 
@@ -176,7 +176,7 @@ Unsupported as a universal explanation.
 
 ---
 
-## **IV. The Divine Battlefield Theory**
+### IV. The Divine Battlefield Theory
 
 This theory proposes that Labyrinths grew from wounds left by the War of the Two Heavens.
 
@@ -201,7 +201,7 @@ Where those laws could not reconcile, reality folded around the contradiction.
 
 The resulting wounds became the earliest Labyrinths.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Some deep regions contain:
 
@@ -218,7 +218,7 @@ Some deep regions contain:
 
 Certain Labyrinths are located near known Primordial Scars or ancient conflict zones.
 
-### **Primary Objections**
+#### Primary Objections
 
 Many Labyrinths contain no identifiable war material.
 
@@ -226,7 +226,7 @@ Some reproduce places and events far younger than the divine conflict.
 
 Others appear in regions with no known connection to the war.
 
-### **Present Assessment**
+#### Present Assessment
 
 One of the strongest explanations for the earliest Labyrinth conditions.
 
@@ -234,7 +234,7 @@ Insufficient as a complete explanation for later formation and growth.
 
 ---
 
-## **V. The Divine Prison Theory**
+### V. The Divine Prison Theory
 
 The Divine Prison Theory holds that Labyrinths were created to contain forces that could not safely be destroyed.
 
@@ -257,7 +257,7 @@ Possible prisoners include:
 
 The shifting corridors, guardian populations, and escalating depths are interpreted as layers of containment.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Several Labyrinths contain sealed entities surrounded by:
 
@@ -272,7 +272,7 @@ Several Labyrinths contain sealed entities surrounded by:
 
 Some floors clearly function as prisons.
 
-### **Primary Objections**
+#### Primary Objections
 
 A prison inside a Labyrinth does not prove the entire Labyrinth was created as a prison.
 
@@ -289,7 +289,7 @@ Labyrinths can also build new containment around:
 
 The prisoner may be older or younger than the surrounding rooms.
 
-### **Present Assessment**
+#### Present Assessment
 
 Verified in specific cases.
 
@@ -297,7 +297,7 @@ Unverified as the origin of Labyrinths generally.
 
 ---
 
-## **VI. The Quiet Edict Theory**
+### VI. The Quiet Edict Theory
 
 This theory links Labyrinth formation to the Quiet Edict.
 
@@ -331,7 +331,7 @@ Divine authority that could no longer enter Aerathon directly accumulated along:
 
 Labyrinths formed where that pressure folded inward.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Labyrinths often contain stronger and more literal divine manifestations than ordinary surface regions.
 
@@ -346,13 +346,13 @@ They also frequently form near:
 - and sites of failed manifestation.
     
 
-### **Primary Objections**
+#### Primary Objections
 
 Evidence suggests some Labyrinth-like phenomena may predate the Quiet Edict.
 
 The Edict may also have altered existing structures rather than created them.
 
-### **Present Assessment**
+#### Present Assessment
 
 A strong explanation for why Labyrinths became more active, accessible, or numerous after divine withdrawal.
 
@@ -360,7 +360,7 @@ Uncertain as an explanation for the first Labyrinths.
 
 ---
 
-## **VII. The Edict-Vent Theory**
+### VII. The Edict-Vent Theory
 
 A narrower form of the Quiet Edict Theory proposes that Labyrinths act as pressure vents.
 
@@ -377,7 +377,7 @@ Under this model, Labyrinths prevent:
 - and the collapse of boundaries between the Two Heavens and Aerathon.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Some Labyrinths become unstable when divine pressure nearby increases.
 
@@ -392,7 +392,7 @@ Others appear to:
 
 Certain breaches have worsened after aggressive sealing efforts, suggesting the structure was relieving pressure.
 
-### **Primary Objections**
+#### Primary Objections
 
 Many Labyrinths create hazards rather than prevent them.
 
@@ -400,7 +400,7 @@ No evidence proves the system was intentionally designed.
 
 A wound can drain pressure without having been made as a drain.
 
-### **Present Assessment**
+#### Present Assessment
 
 Operationally important.
 
@@ -408,15 +408,15 @@ Whether Labyrinths stabilize the world intentionally or incidentally remains unk
 
 ---
 
-# **PART TWO: PLANAR THEORIES**
+## PART TWO: PLANAR THEORIES
 
-## **VIII. The Hidden Plane Overlap Theory**
+### VIII. The Hidden Plane Overlap Theory
 
 This theory proposes that Labyrinths form where Aerathon intersects imperfectly with one or more Hidden Planes.
 
 Each plane could contribute different Labyrinth behaviors.
 
-### **The Shattersea**
+#### The Shattersea
 
 May provide:
 
@@ -429,7 +429,7 @@ May provide:
 - and preserved environments.
     
 
-### **The Dreaming**
+#### The Dreaming
 
 May provide:
 
@@ -442,7 +442,7 @@ May provide:
 - and unrealized possibilities given form.
     
 
-### **The Feywilds**
+#### The Feywilds
 
 May provide:
 
@@ -455,7 +455,7 @@ May provide:
 - and places where death becomes new living form.
     
 
-### **The Netherworld**
+#### The Netherworld
 
 May contribute:
 
@@ -468,7 +468,7 @@ May contribute:
 - and post-mortal imagery.
     
 
-### **The Wanehollow**
+#### The Wanehollow
 
 May produce:
 
@@ -481,13 +481,13 @@ May produce:
 - and architecture defined by absence.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Verified planar breaches exist within some Labyrinths.
 
 Individual floors occasionally display laws strongly aligned with one Hidden Plane.
 
-### **Primary Objections**
+#### Primary Objections
 
 No single Hidden Plane explains every Labyrinth.
 
@@ -495,7 +495,7 @@ Many Labyrinth regions show mixed planar characteristics that do not naturally c
 
 It is also possible that Labyrinths imitate the planes rather than originate from them.
 
-### **Present Assessment**
+#### Present Assessment
 
 Strong for individual floors and formation incidents.
 
@@ -503,7 +503,7 @@ Weak as a single universal origin theory.
 
 ---
 
-## **IX. The Interstitial Structure Theory**
+### IX. The Interstitial Structure Theory
 
 Some scholars argue that Labyrinths do not originate in any known plane.
 
@@ -522,7 +522,7 @@ These interstitial regions may have formed where:
 
 Labyrinth entrances would therefore be local openings into structures that are not fully within Aerathon.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 This theory explains:
 
@@ -537,13 +537,13 @@ This theory explains:
 
 It also explains why destroying a surface entrance rarely destroys the Labyrinth itself.
 
-### **Primary Objections**
+#### Primary Objections
 
 “Between the planes” may merely rename the mystery rather than solve it.
 
 No stable interstitial realm has been mapped independently of a Labyrinth.
 
-### **Present Assessment**
+#### Present Assessment
 
 A useful spatial model.
 
@@ -551,7 +551,7 @@ Not yet a proven causal model.
 
 ---
 
-## **X. The Single Labyrinth Theory**
+### X. The Single Labyrinth Theory
 
 The most extreme planar theory proposes that every Labyrinth entrance connects to one vast underlying structure.
 
@@ -566,7 +566,7 @@ Under this model, apparently separate Labyrinths are:
 
 of a single impossible system.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Researchers have identified:
 
@@ -581,7 +581,7 @@ Researchers have identified:
 - and rare corridors believed to connect geographically separate sites.
     
 
-### **Primary Objections**
+#### Primary Objections
 
 Labyrinths often possess incompatible laws and histories.
 
@@ -589,7 +589,7 @@ No expedition has crossed reliably from one known entrance system to another.
 
 Repeated features may result from shared formation principles rather than physical unity.
 
-### **Present Assessment**
+#### Present Assessment
 
 Unproven.
 
@@ -599,9 +599,9 @@ Confirmation would transform all existing containment policy.
 
 ---
 
-# **PART THREE: MEMORY AND REALITY THEORIES**
+## PART THREE: MEMORY AND REALITY THEORIES
 
-## **XI. The World-Memory Theory**
+### XI. The World-Memory Theory
 
 The World-Memory Theory proposes that Aerathon itself records significant events.
 
@@ -611,7 +611,7 @@ Some become embedded so deeply into Matter, Meaning, and Motion that they remain
 
 Labyrinths form where this recorded reality becomes capable of expressing itself physically.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Labyrinths reproduce:
 
@@ -628,13 +628,13 @@ Labyrinths reproduce:
 
 Some records appear too old or obscure to have come from known delvers.
 
-### **Primary Objections**
+#### Primary Objections
 
 The theory does not explain why records become dangerous, interactive structures rather than passive impressions.
 
 It also does not identify what gives the memory the power to create physical reality.
 
-### **Present Assessment**
+#### Present Assessment
 
 One of the strongest explanations for Labyrinth content.
 
@@ -642,7 +642,7 @@ Incomplete as an explanation for structure and agency.
 
 ---
 
-## **XII. The Archive Theory**
+### XII. The Archive Theory
 
 The Archive Theory describes Labyrinths as systems that record relationships among the Three Weaves.
 
@@ -663,7 +663,7 @@ They may record:
 
 A sufficiently complete record can be re-expressed as physical reality.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 This model explains:
 
@@ -684,13 +684,13 @@ It also explains why reconstruction is often flawed.
 
 The Labyrinth may preserve some relationships while losing others.
 
-### **Primary Objections**
+#### Primary Objections
 
 Archive Theory explains how Labyrinths reproduce reality.
 
 It does not fully explain why the Labyrinth exists, what first enabled recording, or whether the process is intentional.
 
-### **Present Assessment**
+#### Present Assessment
 
 The strongest current model for Labyrinth behavior.
 
@@ -698,7 +698,7 @@ Not a complete origin theory by itself.
 
 ---
 
-## **XIII. The Catastrophic Imprint Theory**
+### XIII. The Catastrophic Imprint Theory
 
 This theory proposes that Labyrinths form when an event places too much Meaning into one location for ordinary reality to absorb.
 
@@ -721,7 +721,7 @@ Possible triggering events include:
 
 Reality responds by folding the event inward and building a structure around it.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Several Labyrinth entrances have appeared after major disasters.
 
@@ -736,13 +736,13 @@ The resulting interiors often reflect:
 - and the unresolved conflict.
     
 
-### **Primary Objections**
+#### Primary Objections
 
 Not every catastrophe creates a Labyrinth.
 
 Some Labyrinths emerge gradually without one identifiable triggering event.
 
-### **Present Assessment**
+#### Present Assessment
 
 Strong explanation for particular formation events.
 
@@ -750,7 +750,7 @@ The unknown factor is what makes one event imprint deeply enough while another f
 
 ---
 
-## **XIV. The Wounded-Reality Theory**
+### XIV. The Wounded-Reality Theory
 
 The Wounded-Reality Theory treats Labyrinths as a form of scar tissue.
 
@@ -764,7 +764,7 @@ Under this model, the Labyrinth is neither the original wound nor its cure.
 
 It is the scar formed around it.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Labyrinths frequently:
 
@@ -777,13 +777,13 @@ Labyrinths frequently:
 - and continue reorganizing after the initiating event has ended.
     
 
-### **Primary Objections**
+#### Primary Objections
 
 Some Labyrinths actively expand into stable regions.
 
 Others create new contradictions rather than contain old ones.
 
-### **Present Assessment**
+#### Present Assessment
 
 A leading explanation for why Labyrinth boundaries exist.
 
@@ -791,9 +791,9 @@ May describe the world’s response to Labyrinth formation rather than the Labyr
 
 ---
 
-# **PART FOUR: MORTAL AND INTENTIONAL THEORIES**
+## PART FOUR: MORTAL AND INTENTIONAL THEORIES
 
-## **XV. The Mortal-Creation Theory**
+### XV. The Mortal-Creation Theory
 
 This theory argues that mortal civilizations created the first Labyrinths.
 
@@ -825,7 +825,7 @@ Labyrinths may have begun as:
 - or engines intended to rewrite reality.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Some floors contain:
 
@@ -842,7 +842,7 @@ Some floors contain:
 
 Certain relics resemble components rather than treasures.
 
-### **Primary Objections**
+#### Primary Objections
 
 Many Labyrinth regions exceed any known mortal capability.
 
@@ -850,7 +850,7 @@ Controls may have been added later.
 
 A chamber shaped for mortals may have copied mortal architecture rather than been built by mortals.
 
-### **Present Assessment**
+#### Present Assessment
 
 Plausible for specific Labyrinth complexes.
 
@@ -858,7 +858,7 @@ No known mortal civilization is confirmed as the universal creator.
 
 ---
 
-## **XVI. The Orichalcum Engine Theory**
+### XVI. The Orichalcum Engine Theory
 
 A specialized Mortal-Creation Theory links Labyrinths to ancient Orichalcum systems.
 
@@ -886,13 +886,13 @@ Their visible metal may have since:
 - or become the source of relic-grade materials.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Some deep Labyrinth regions contain alloys with Orichalcum-like resonance.
 
 The structures also display behaviors consistent with self-modifying magical machinery.
 
-### **Primary Objections**
+#### Primary Objections
 
 Confirmed Orichalcum deposits are rare.
 
@@ -900,13 +900,13 @@ Many Labyrinths contain no trace of the material.
 
 The theory also depends heavily upon reconstructions of a poorly understood ancient age.
 
-### **Present Assessment**
+#### Present Assessment
 
 A serious but highly speculative model.
 
 ---
 
-## **XVII. The Designed-System Theory**
+### XVII. The Designed-System Theory
 
 This theory proposes that Labyrinths were intentionally created by an unknown intelligence.
 
@@ -934,7 +934,7 @@ Apparent evidence of design includes:
 - and the production of objects useful to surface civilization.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Many Labyrinths behave too systematically to appear wholly accidental.
 
@@ -953,7 +953,7 @@ They often create:
 
 in recognizable relationships.
 
-### **Primary Objections**
+#### Primary Objections
 
 Pattern does not prove a planner.
 
@@ -963,7 +963,7 @@ Labyrinths frequently act inconsistently, wastefully, or self-destructively.
 
 The supposed design may emerge from local rules rather than conscious intention.
 
-### **Present Assessment**
+#### Present Assessment
 
 Unresolved.
 
@@ -971,7 +971,7 @@ Cannot be accepted or dismissed solely from apparent complexity.
 
 ---
 
-## **XVIII. The Mortal-Feeding Theory**
+### XVIII. The Mortal-Feeding Theory
 
 The Mortal-Feeding Theory proposes that Labyrinths grow by recording those who enter them.
 
@@ -994,7 +994,7 @@ Delvers provide:
 
 The Labyrinth later incorporates this material into new floors, creatures, and trials.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Long-monitored Labyrinths adapt to repeated delver behavior.
 
@@ -1011,7 +1011,7 @@ They have reproduced:
 - and the Echoes of those who died within.
     
 
-### **Primary Objections**
+#### Primary Objections
 
 The term “feeding” implies need or hunger.
 
@@ -1019,7 +1019,7 @@ The Labyrinth may record delvers automatically without depending upon them.
 
 Some sealed Labyrinths continue growing despite decades without confirmed entry.
 
-### **Present Assessment**
+#### Present Assessment
 
 Strong evidence that mortal experience influences growth.
 
@@ -1027,7 +1027,7 @@ No proof that mortal experience is required for survival.
 
 ---
 
-## **XIX. The Attention Theory**
+### XIX. The Attention Theory
 
 A modern extension of the Mortal-Feeding Theory argues that Labyrinths respond not only to physical entry but to observation.
 
@@ -1044,19 +1044,19 @@ Publicly discussed Labyrinths may therefore become more likely to reproduce:
 - and widely repeated stories.
     
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Highly publicized Labyrinths sometimes begin displaying imagery associated with their public reputation.
 
 Broadcast expeditions have recorded changes occurring soon after audience reactions.
 
-### **Primary Objections**
+#### Primary Objections
 
 Public attention often coincides with increased exploration, magical surveillance, and relic disturbance.
 
 The apparent effect may be caused by intrusion rather than awareness.
 
-### **Present Assessment**
+#### Present Assessment
 
 Actively investigated.
 
@@ -1064,9 +1064,9 @@ Potentially significant in the Age of Spectacle.
 
 ---
 
-# **PART FIVE: COMPOSITE MODELS**
+## PART FIVE: COMPOSITE MODELS
 
-## **XX. The Multiple-Origin Model**
+### XX. The Multiple-Origin Model
 
 The Multiple-Origin Model proposes that the word **Labyrinth** describes a family of related phenomena rather than one species of structure.
 
@@ -1085,19 +1085,19 @@ Under this theory:
 
 They later developed similar behavior because all interact with the same Three Weaves and the same damaged laws of Aerathon.
 
-### **Strengths**
+#### Strengths
 
 This model explains the extreme diversity among known Labyrinths.
 
 It allows apparently contradictory evidence to remain valid.
 
-### **Weaknesses**
+#### Weaknesses
 
 It risks defining Labyrinths so broadly that the category loses explanatory value.
 
 It also does not explain why different origins produce such similar features.
 
-### **Present Assessment**
+#### Present Assessment
 
 The current Ministry preference.
 
@@ -1105,7 +1105,7 @@ Used provisionally rather than declared proven.
 
 ---
 
-## **XXI. The First-Wound and Later-Growth Model**
+### XXI. The First-Wound and Later-Growth Model
 
 This composite theory separates primordial origin from modern behavior.
 
@@ -1133,7 +1133,7 @@ This model combines:
 - and Mortal-Feeding Theory.
     
 
-### **Present Assessment**
+#### Present Assessment
 
 The most widely used working model among current Ministry theorists.
 
@@ -1141,7 +1141,7 @@ Still unable to explain whether the first wound was accidental, deliberate, or i
 
 ---
 
-## **XXII. The Self-Propagation Theory**
+### XXII. The Self-Propagation Theory
 
 This model proposes that new Labyrinths are created by existing Labyrinths.
 
@@ -1162,19 +1162,19 @@ A mature Labyrinth may extend through:
 
 A distant site may appear independent while actually being a new branch.
 
-### **Supporting Evidence**
+#### Supporting Evidence
 
 Some entrances have emerged after Labyrinth relics were transported into previously stable regions.
 
 Several new sites reproduce the laws of older known Labyrinths.
 
-### **Primary Objections**
+#### Primary Objections
 
 Correlation does not prove propagation.
 
 A relic may awaken an existing weakness rather than plant a new structure.
 
-### **Present Assessment**
+#### Present Assessment
 
 High containment relevance.
 
@@ -1182,7 +1182,7 @@ Unconfirmed.
 
 ---
 
-## **XXIII. What Would Count as Proof?**
+### XXIII. What Would Count as Proof?
 
 No theory should be accepted merely because it explains familiar evidence.
 
@@ -1207,7 +1207,7 @@ The origin question remains open because the evidence is produced by structures 
 
 ---
 
-## **XXIV. Dangers of Origin Certainty**
+### XXIV. Dangers of Origin Certainty
 
 Claims of Labyrinth origin carry political and religious consequences.
 
@@ -1251,7 +1251,7 @@ The answer determines who believes they have the right to control the depths.
 
 ---
 
-## **XXV. Ministry Position**
+### XXV. Ministry Position
 
 The Ministry recognizes the following conclusions as established or strongly supported:
 
@@ -1310,7 +1310,7 @@ It permits none everywhere.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

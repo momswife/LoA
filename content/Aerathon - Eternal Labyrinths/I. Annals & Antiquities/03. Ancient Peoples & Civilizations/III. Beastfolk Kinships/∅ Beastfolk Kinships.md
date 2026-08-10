@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-# **Beastfolk Kinships**
+# Beastfolk Kinships
 
 ### _The Ancient Peoples Who Made Relationship into Law_
 
@@ -24,7 +24,7 @@ aliases:
 
 ---
 
-## **I. Purpose and Scope**
+## I. Purpose and Scope
 
 **Beastfolk** is not the name of one species, nation, faith, or way of life.
 
@@ -45,7 +45,7 @@ This archive records ancient Beastfolk kinship, household life, territorial prac
 
 ---
 
-## **II. What “Kinship” Means**
+## II. What “Kinship” Means
 
 In modern speech, kinship often means descent or family resemblance.
 
@@ -71,7 +71,7 @@ It was to admit that their condition could require something of you.
 
 ---
 
-## **III. Ancient and Modern Classifications**
+## III. Ancient and Modern Classifications
 
 The oldest surviving Beastfolk records group peoples through **animal kinships** rather than the modern lineage taxonomy used by the Living Atlas.
 
@@ -98,7 +98,7 @@ They do not overrule how living peoples name themselves now.
 
 ---
 
-## **IV. No First Beastfolk Nation**
+## IV. No First Beastfolk Nation
 
 There was no unified First Beastfolk kingdom.
 
@@ -118,27 +118,27 @@ They organized different facts.
 
 ---
 
-## **V. Shared Inheritances**
+## V. Shared Inheritances
 
 Beastfolk cultures differed profoundly, but five inherited questions recur across the ancient record.
 
-### **Who Must Be Heard?**
+### Who Must Be Heard?
 
 Councils commonly distributed voice according to consequence. Residents, travelers, downstream communities, absent relatives, animal populations, burial keepers, and future users might require different representatives. This made deliberation slow. It also made it difficult for one ruler to dispose of a shared territory through a single signature.
 
-### **What Travels Through the Family?**
+### What Travels Through the Family?
 
 Inheritance included names, craft, property, memory, routes, ritual roles, injuries, and unfinished promises. The [[The Creation of the Beastfolk#V. The Jackal Charge|Jackal Charge]] expressed the principle that the dead could leave obligations requiring care, investigation, fulfillment, amendment, or refusal.
 
-### **When Does Care Become Control?**
+### When Does Care Become Control?
 
 An inherited duty could preserve a watershed for centuries. It could also trap a descendant inside a promise they never chose. Ancient Beastfolk societies argued constantly over whether an obligation remained alive when it harmed the people expected to carry it.
 
-### **How Is Land Answered?**
+### How Is Land Answered?
 
 Territory was rarely imagined as ownerless. It already contained use, memory, danger, dependence, and life. A claim became legitimate through continuing conduct: maintaining passage, protecting water, tending burial places, accepting seasonal limits, and answering for harm.
 
-### **How May Authority End?**
+### How May Authority End?
 
 Many early offices were conditional. A route-speaker, hunt-leader, flood-listener, oath-voice, or grief-keeper held authority because a task required it. Review, challenge, removal, rotation, and ceremonial surrender were therefore central parts of office.
 
@@ -148,7 +148,7 @@ Their disagreements produced the kinships recorded here.
 
 ---
 
-## **VI. Household, Adoption, and Chosen Relation**
+## VI. Household, Adoption, and Chosen Relation
 
 Ancient Beastfolk households were often wider than a single line of descent.
 
@@ -173,7 +173,7 @@ The weakest used the language of family to conceal unpaid labor or demand obedie
 
 ---
 
-## **VII. Relations with Brethren**
+## VII. Relations with Brethren
 
 Beastfolk and Brethren peoples shared the ancient world from the [[The First Making|First Making]] onward.
 
@@ -187,7 +187,7 @@ These relations are examined from both archival directions in [[Brethren Relatio
 
 ---
 
-## **VIII. Major Cultural Networks**
+## VIII. Major Cultural Networks
 
 Six ancient networks preserve especially rich evidence of Beastfolk law and cultural exchange.
 
@@ -206,7 +206,7 @@ Each became influential because its practices could cross the borders of one lin
 
 ---
 
-## **IX. Archival Cautions**
+## IX. Archival Cautions
 
 Beastfolk history reaches the Ministry through unequal preservation.
 
@@ -224,9 +224,9 @@ It is to show where later certainty exceeded the evidence.
 
 ---
 
-## **X. Archive Guide**
+## X. Archive Guide
 
-### **Origins and Shared Practice**
+### Origins and Shared Practice
 
 - [[The First Beastfolk]]
 - [[Kinship, Clan & Chosen Family]]
@@ -234,7 +234,7 @@ It is to show where later certainty exceeded the evidence.
 - [[Councils, Custodians & Collective Law]]
 - [[Beastfolk Relations with Brethren]]
 
-### **Kinships and Cultural Networks**
+### Kinships and Cultural Networks
 
 - [[The Stone-Song Confederacy]]
 - [[Pride of Seven Roads]]
@@ -245,7 +245,7 @@ It is to show where later certainty exceeded the evidence.
 
 ---
 
-## **Related Records**
+## Related Records
 
 - [[The Creation of the Beastfolk]]
 - [[The Creation of the Brethren]]

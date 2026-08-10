@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-# **The Age of Crowns**
+# The Age of Crowns
 
 ### _Era I — The Reign of Blood, Bell, and Sacred Law_
 
@@ -26,7 +26,7 @@ aliases:
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Age of Crowns** was the first recognized historical era after the Dawning and the first age in which mortal civilizations attempted to inherit the authority of vanished wonders.
 
@@ -54,7 +54,7 @@ Many Beastfolk traditions remember it by another name:
 
 ---
 
-## **II. Historical Sources and Evidentiary Limits**
+## II. Historical Sources and Evidentiary Limits
 
 The Age of Crowns is better documented than the Orichalcum period, though far less reliably than its surviving royal chronicles suggest.
 
@@ -96,7 +96,7 @@ Where they agree, the result is often more reliable than either alone.
 
 ---
 
-## **III. The World After the Dawning**
+## III. The World After the Dawning
 
 The first centuries after 0 A.D. were shaped by settlement around surviving Orichalcum sites.
 
@@ -126,13 +126,13 @@ It was believed to endanger the sacred machinery upon which society depended.
 
 ---
 
-## **IV. The Three High Thrones**
+## IV. The Three High Thrones
 
 Although hundreds of lesser crowns rose throughout the era, three Brethren kingdoms dominated the surviving record: **Louvain**, **Dhalraen**, and **Vaelcour**.
 
 Their rulers became known collectively as the **Three High Thrones**.
 
-### **The Bell-Crown of Louvain**
+### The Bell-Crown of Louvain
 
 Early Louvain developed around buried resonant towers whose bells could be heard beneath the earth before storms, magical disturbances, and major deaths.
 
@@ -144,7 +144,7 @@ Their court valued records, public petition, measured punishment, and the belief
 
 The earliest ancestors of the Ministry’s archival traditions emerged within Louvain’s temple courts.
 
-### **The Stone Throne of Dhalraen**
+### The Stone Throne of Dhalraen
 
 Dhalraen rose among mountain citadels and dwarven forge enclaves. Its rulers claimed the divine virtue of **Endurance** and presented themselves as guardians of physical reality against spiritual disorder.
 
@@ -154,7 +154,7 @@ Dhalraen’s strength rested upon mining, fortification, roads, sacred engineeri
 
 Its kings governed alongside dwarven master-smiths, though rarely as equals.
 
-### **The Sun Court of Vaelcour**
+### The Sun Court of Vaelcour
 
 Vaelcour controlled fertile southern plains and several surviving solar mechanisms believed to predate the Dawning.
 
@@ -168,7 +168,7 @@ Its later obsession with purity, measured lineage, and spiritual inheritance wou
 
 ---
 
-## **V. Lesser Crowns and Sacred Realms**
+## V. Lesser Crowns and Sacred Realms
 
 Beyond the High Thrones existed dozens of smaller kingdoms, crowned city-states, sacred principalities, itinerant monarchies, and temple domains.
 
@@ -201,7 +201,7 @@ It was a world of competing sacred claims, each certain that heaven had spoken m
 
 ---
 
-## **VI. The War of Seven Crowns**
+## VI. The War of Seven Crowns
 
 Between approximately **372 and 411 A.D.**, rival monarchies fought a prolonged series of conflicts now collectively known as [[The War of Seven Crowns|the **War of Seven Crowns**]].
 
@@ -238,7 +238,7 @@ That agreement became the [[The Crown Concord|**Crown Concord**]] of 420 A.D.
 
 ---
 
-## **VII. The Crown Concord**
+## VII. The Crown Concord
 
 The Crown Concord established the dominant political order of the middle Crown Era.
 
@@ -274,35 +274,35 @@ The blood had to perform.
 
 ---
 
-## **VIII. Crown Society and Daily Life**
+## VIII. Crown Society and Daily Life
 
 Crown society was divided into recognized **Orders**, each believed to occupy a divinely ordained role.
 
-### **The Anointed**
+### The Anointed
 
 Kings, queens, princely houses, high clergy, and families accepted as bearers of sacred lineage.
 
 They possessed land, magical education, military command, and direct access to powerful relics.
 
-### **The Ordained**
+### The Ordained
 
 Priests, judges, scribes, physicians, miracle interpreters, astronomers, and sanctioned scholars.
 
 They translated divine intention into law and maintained the machinery of faith.
 
-### **The Crafted**
+### The Crafted
 
 Smiths, builders, masons, bellwrights, weavers, alchemists, and licensed artisans.
 
 Their labor was respected when it served sacred institutions and feared when it approached independent understanding.
 
-### **The Rooted**
+### The Rooted
 
 Farmers, fishers, shepherds, miners, household servants, and most laborers.
 
 The Rooted were praised as the foundation of the kingdom while rarely permitted to influence it.
 
-### **The Unplaced**
+### The Unplaced
 
 Wanderers, foreign migrants, hedge mages, unsanctioned craftspeople, outcast scholars, and those without recognized lineage.
 
@@ -328,7 +328,7 @@ From the road, its laws changed with every bell tower.
 
 ---
 
-## **IX. Faith as Administration**
+## IX. Faith as Administration
 
 The Crown kingdoms transformed worship into the first great bureaucracy of post-Dawning Aerathon.
 
@@ -336,7 +336,7 @@ Temples did not merely perform rites.
 
 They counted belief.
 
-### **Petition Ledgers**
+### Petition Ledgers
 
 Citizens submitted formal prayers requesting healing, protection, favorable weather, fertility, legal relief, safe travel, or release from debt.
 
@@ -346,7 +346,7 @@ A noble’s request might reach an oracle within a Span.
 
 A laborer’s petition could remain unanswered for years.
 
-### **Faith Taxation**
+### Faith Taxation
 
 Temples collected coin, grain, labor, crafted goods, and prescribed acts of devotion. These offerings were believed to sustain divine attention and were redistributed through authorized miracles.
 
@@ -354,7 +354,7 @@ In many kingdoms, worship became a civic obligation.
 
 Failure to attend temple could be treated not as impiety, but as theft from the spiritual resources of the community.
 
-### **The Prayer Census**
+### The Prayer Census
 
 Beginning around 641 A.D., several Crown kingdoms conducted formal censuses of religious participation.
 
@@ -362,7 +362,7 @@ Households recorded which gods they worshipped, how often they prayed, and wheth
 
 These censuses became the earliest predecessors of the Faith Registries later imposed by the Empire of Law and Light.
 
-### **Sacred Scheduling**
+### Sacred Scheduling
 
 Coronations, harvests, marriages, campaigns, trials, and executions were scheduled according to divine observance.
 
@@ -374,7 +374,7 @@ In practice, it allowed the state to enter every home without opening the door.
 
 ---
 
-## **X. Faith Courts and Sacred Justice**
+## X. Faith Courts and Sacred Justice
 
 The first [[The Faith Courts|**Faith Courts**]] arose in Louvain and spread throughout the Concord kingdoms.
 
@@ -397,7 +397,7 @@ Evidence could include:
 - and the accused person’s response to controlled miracles.
     
 
-### **Trial by Relic**
+### Trial by Relic
 
 The accused was exposed to an enchanted object believed to reject falsehood, corruption, or spiritual impurity.
 
@@ -407,7 +407,7 @@ Burning, sickness, silence, or death might indicate guilt.
 
 Modern Ministry study has demonstrated that many such relics responded to fear, blood chemistry, magical aptitude, inherited resonance, or unknown factors unrelated to morality.
 
-### **The White Ash Judgment**
+### The White Ash Judgment
 
 One of the age’s most infamous trials occurred in **717 A.D.**, when **Lady Hestra Vael** of Vaelcour was accused of poisoning her elder brother.
 
@@ -425,7 +425,7 @@ The case is now taught in MDO legal training as an early example of ritual evide
 
 ---
 
-## **XI. Magic and the Orichalcum Principle**
+## XI. Magic and the Orichalcum Principle
 
 Crown-era magic was founded upon the belief that all legitimate spellcraft descended from **Orichalcum resonance**.
 
@@ -433,13 +433,13 @@ Theologians taught that Orichalcum retained the first harmony of creation. Throu
 
 This process became known as **faith quenching**.
 
-### **Miracle Regulators**
+### Miracle Regulators
 
 Orichalcum relics stabilized, restricted, or localized magical effects.
 
 A regulator might permit healing within a temple, prevent fire inside a royal archive, suppress unsanctioned magic in a courtroom, or strengthen the walls of a sacred city.
 
-### **Sacrist Engineers**
+### Sacrist Engineers
 
 Dwarven and Brethren craftspeople trained to maintain sacred machinery were called sacrist engineers.
 
@@ -449,7 +449,7 @@ Their knowledge was essential.
 
 Their understanding threatened the claim that only royalty and clergy possessed sacred authority.
 
-### **Restricted Smelting**
+### Restricted Smelting
 
 By the eighth century, most High Thrones had declared raw Orichalcum the property of the Crown.
 
@@ -463,11 +463,11 @@ Fragments stolen during the Crown Era would later become vital to dissident arti
 
 ---
 
-## **XII. Dwarves, Elves, and Sacred Craft**
+## XII. Dwarves, Elves, and Sacred Craft
 
 The Age of Crowns was dominated politically by Brethren monarchies, but those monarchies relied heavily upon dwarven and elven communities.
 
-### **Dwarven Enclaves**
+### Dwarven Enclaves
 
 Dwarven smiths understood more about Orichalcum than most Crown priests, though they rarely described their methods in theological terms.
 
@@ -483,7 +483,7 @@ Others sealed their halls, concealed their methods, or withdrew into mountain te
 
 Techniques preserved by these communities later resurfaced among the first self-taught artificers.
 
-### **Elven Isolates**
+### Elven Isolates
 
 Elven communities often served as astronomers, gardeners, physicians, ritualists, and interpreters of long celestial cycles.
 
@@ -497,7 +497,7 @@ No Crown authority accepted responsibility.
 
 ---
 
-## **XIII. Beastfolk in the Closed Eye**
+## XIII. Beastfolk in the Closed Eye
 
 Crown-era Brethren records often describe Beastfolk as scattered wilderness populations, spirits in mortal shape, malformed Brethren, divine servants, or dangerous creatures beyond the borders of civilization.
 
@@ -509,7 +509,7 @@ The contradiction is no longer treated as a mystery of Beastfolk development.
 
 It is treated as evidence of Crown-era erasure.
 
-### **The Age of the Closed Eye**
+### The Age of the Closed Eye
 
 Many Beastfolk cultures remember the Crown Era as the **Age of the Closed Eye**, when the gods of the royal temples saw only those placed before sanctioned altars.
 
@@ -527,7 +527,7 @@ Their personal names were seldom recorded.
 
 Their species was.
 
-### **Tharos, the Seven-Ringed King**
+### Tharos, the Seven-Ringed King
 
 The strongest surviving challenge to the Crown claim that Beastfolk lacked organized civilization is the record of [[Tharos Ravelmane, the Seven-Ringed King|**Tharos Ravelmane, the Seven-Ringed King**]].
 
@@ -610,13 +610,13 @@ Its origin belongs here.
 
 ---
 
-## **XIV. Heresy, the Uncrowned, and Resistance**
+## XIV. Heresy, the Uncrowned, and Resistance
 
 The Crown Era was never as unified as its official histories suggest.
 
 Resistance appeared in many forms.
 
-### **The Uncrowned Schools**
+### The Uncrowned Schools
 
 Unsanctioned scholars argued that relics responded to knowledge, intent, and training rather than sacred blood.
 
@@ -626,7 +626,7 @@ Most schools survived only briefly before discovery.
 
 Their teachings continued through coded workshop marks, embroidery, children’s games, songs, and fragments hidden within ordinary tools.
 
-### **The Ashen Petitioners**
+### The Ashen Petitioners
 
 This movement emerged among families whose prayers had remained unanswered despite years of faithful taxation.
 
@@ -638,7 +638,7 @@ Their creed was simple:
 
 The movement was repeatedly suppressed but never eliminated.
 
-### **The Bellwright Conspiracy**
+### The Bellwright Conspiracy
 
 In 934 A.D., several Louvain bellwrights were accused of altering temple bells so they carried public grievances across the city during royal ceremonies.
 
@@ -648,7 +648,7 @@ Thirty-one artisans were executed.
 
 The bells continued speaking for nine nights.
 
-### **The Uncrowned Rising**
+### The Uncrowned Rising
 
 Between approximately 931 and 948 A.D., rural communities, artisans, hedge mages, dissident clergy, and displaced peoples carried out coordinated revolts throughout several Crown territories.
 
@@ -664,7 +664,7 @@ Later imperial historians dismissed it as criminal unrest. Ember philosophers re
 
 ---
 
-## **XV. Decline and the Binding Concord**
+## XV. Decline and the Binding Concord
 
 By the final century of the Age of Crowns, the institutions built upon divine certainty had begun to fail.
 
@@ -680,7 +680,7 @@ Some relics ceased functioning entirely.
 
 Others continued obeying laws that no living priest understood.
 
-### **The Hollow Masses**
+### The Hollow Masses
 
 The first widely authenticated **Hollow Mass** occurred in Dhalraen in 1012 A.D.
 
@@ -700,7 +700,7 @@ Temples concealed many of them. Petition ledgers were altered. Failed prayers we
 
 None of these explanations restored the miracles.
 
-### **The Last Kingly Visitation**
+### The Last Kingly Visitation
 
 Vaelcour records claim that in 1056 A.D. a divine figure appeared before King Aereth IV and warned that the gods would soon withdraw from mortal rule.
 
@@ -710,7 +710,7 @@ Some historians accept it as a genuine warning.
 
 Others consider it propaganda intended to justify expanding royal authority during a period of declining faith.
 
-### **The Binding Concord**
+### The Binding Concord
 
 In 1091 A.D., the remaining High Thrones and major Faith Courts signed the [[The Binding Concord|**Binding Concord**]].
 
@@ -751,7 +751,7 @@ The Age of Chains began.
 
 ---
 
-## **XVI. Principal Chronology**
+## XVI. Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -779,7 +779,7 @@ The Age of Chains began.
 
 ---
 
-## **XVII. Historical Legacy and Unresolved Questions**
+## XVII. Historical Legacy and Unresolved Questions
 
 The Age of Crowns created many institutions that later ages claimed to reject.
 
@@ -795,21 +795,21 @@ Even the MDO’s insistence upon authenticated authority bears an uncomfortable 
 
 The era also left unresolved questions.
 
-### **Were the First Crowns Truly Divine?**
+### Were the First Crowns Truly Divine?
 
 Some retain functions no modern artificer can reproduce. Others have been exposed as sophisticated relic interfaces mistaken for proof of sacred blood.
 
-### **Did Noble Lineages Carry Measurable Power?**
+### Did Noble Lineages Carry Measurable Power?
 
 Certain families displayed unusual resonance, though whether this resulted from inheritance, relic exposure, magical alteration, selective marriage, or fabricated evidence remains disputed.
 
-### **What Was Deliberately Erased?**
+### What Was Deliberately Erased?
 
 Beastfolk testimony, elven archives, hidden workshop records, and the history of Tharos all suggest that Crown scribes systematically removed peoples and events that challenged royal theology.
 
 The scale of that erasure remains unknown.
 
-### **What Became of the Seven Rings?**
+### What Became of the Seven Rings?
 
 No complete Crown-era record describes their fate after the betrayal of Tharos.
 
@@ -817,7 +817,7 @@ Later accounts disagree over whether they were divided, buried, stolen, sealed w
 
 This matter remains under restricted investigation.
 
-### **Why Did the Gods Grow Silent?**
+### Why Did the Gods Grow Silent?
 
 Crown theologians blamed moral decline.
 
@@ -843,7 +843,7 @@ It also taught rulers that order could be mistaken for holiness—and that a rec
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

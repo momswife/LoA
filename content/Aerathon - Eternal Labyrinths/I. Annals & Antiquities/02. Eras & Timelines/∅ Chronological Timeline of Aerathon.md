@@ -3,7 +3,7 @@
 
 ---
 
-# **The Chronological Timeline of Aerathon**
+# The Chronological Timeline of Aerathon
 
 ### _A Unified Record of the Eras, Transitions, and Civilizations That Shaped the Known World_
 
@@ -19,7 +19,7 @@
 
 ---
 
-## **I. Mandate of the Unified Timeline**
+## I. Mandate of the Unified Timeline
 
 The **Chronological Timeline of Aerathon** is the Ministry’s controlling framework for the ordering of recorded history.
 
@@ -48,7 +48,7 @@ It is to provide a common spine upon which those differences may be responsibly 
 
 ---
 
-## **II. Principles of Era Classification**
+## II. Principles of Era Classification
 
 The Ministry recognizes six historical ages following the Dawning, preceded by an unnumbered period of Deep Time and Orichalcum civilization.
 
@@ -77,7 +77,7 @@ The beginning of an age marks the point at which a new order became historically
 
 Observer-responsive Labyrinths, for example, were verified during the late Age of Delving. The **Age of Spectacle** did not begin until observation itself became a central political, economic, and cultural force.
 
-### **Chronological Confidence**
+### Chronological Confidence
 
 Dates in this record are assigned one of four confidence levels:
 
@@ -94,7 +94,7 @@ Within Annals & Antiquities, visible uncertainty is a form of accuracy.
 
 ---
 
-## **III. Master Era Register**
+## III. Master Era Register
 
 Official ranges use non-overlapping years. The stated beginning of each age is the first year governed by that classification.
 
@@ -117,13 +117,13 @@ No Seventh Era has been formally recognized.
 
 ---
 
-## **IV. Deep Time and the Orichalcum Dawn**
+## IV. Deep Time and the Orichalcum Dawn
 
 Before the Dawning lies the oldest and least stable portion of Aerathonian history.
 
 Ministry scholars divide this period into two broad categories.
 
-### **Deep Time**
+### Deep Time
 
 Deep Time includes the prehistoric formation of the world, the oldest divine conflicts, the emergence of primordial peoples, and events for which no continuous mortal chronology survives.
 
@@ -133,7 +133,7 @@ The Ministry accepts that such conflicts occurred.
 
 It does not certify their traditional sequence as literal fact.
 
-### **The Orichalcum Dawn**
+### The Orichalcum Dawn
 
 The later pre-Dawning period was dominated by cultures capable of shaping **Orichalcum**, a living alloy responsive to intent, meaning, and harmonic structure.
 
@@ -162,7 +162,7 @@ From that point onward, continuous mortal chronology becomes possible.
 
 ---
 
-## **V. Era I — The Age of Crowns**
+## V. Era I — The Age of Crowns
 
 ### _0–1099 A.D. — The Reign of Blood and Law_
 
@@ -176,7 +176,7 @@ Law became ritual.
 
 History became the property of those authorized to preserve it.
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -199,7 +199,7 @@ The crown became a chain.
 
 ---
 
-## **VI. Era II — The Age of Chains**
+## VI. Era II — The Age of Chains
 
 ### _1100–2099 A.D. — The Law Made Flesh_
 
@@ -213,7 +213,7 @@ Beastfolk traditions sharply reject this account of their origin.
 
 The Ministry records both positions and certifies neither as complete.
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -235,7 +235,7 @@ The Age of Chains ended when divine law could no longer command obedience and mo
 
 ---
 
-## **VII. Era III — The Ember Age**
+## VII. Era III — The Ember Age
 
 ### _2100–2599 A.D. — Revolution, Invention, and Reforging_
 
@@ -247,7 +247,7 @@ The period is remembered as a renaissance.
 
 It was also an age of profound recklessness.
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -272,7 +272,7 @@ It simply became less capable of carrying it.
 
 ---
 
-## **VIII. Era IV — The Age of Collapse**
+## VIII. Era IV — The Age of Collapse
 
 ### _2600–2949 A.D. — Silence, Fracture, and the Death of Certainty_
 
@@ -286,7 +286,7 @@ Labyrinths spread from isolated anomalies into a defining feature of survival.
 
 The period survives unevenly in the record because the institutions responsible for recording it were themselves collapsing.
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -309,7 +309,7 @@ The Age of Collapse ended when surviving societies ceased regarding the Labyrint
 
 ---
 
-## **IX. Era V — The Age of Delving**
+## IX. Era V — The Age of Delving
 
 ### _2950–3299 A.D. — Order from Below_
 
@@ -323,7 +323,7 @@ The Ministry did not create delving.
 
 It created the laws, classifications, and records by which delving became a civilization.
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -346,7 +346,7 @@ The decisive change occurred when the people of Aerathon began organizing societ
 
 ---
 
-## **X. Era VI — The Age of Spectacle**
+## X. Era VI — The Age of Spectacle
 
 ### _3300 A.D.–Present — Memory as Currency, Truth as Performance_
 
@@ -358,7 +358,7 @@ The archive has become both authority and entertainment.
 
 The Labyrinths appear to have noticed.
 
-### **Principal Chronology**
+### Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -381,7 +381,7 @@ It is merely the form that modern Aerathon currently mistakes for permanence.
 
 ---
 
-## **XI. Recognized Era Transitions**
+## XI. Recognized Era Transitions
 
 Era transitions are rarely single events. The dates below identify the point at which one historical order became more influential than the one it replaced.
 
@@ -404,15 +404,15 @@ It ends when that logic can no longer reliably govern the world it created.
 
 ---
 
-## **XII. Disputed Chronology and Present Assessment**
+## XII. Disputed Chronology and Present Assessment
 
 Several portions of the historical record remain unresolved.
 
-### **The Beginning of the Dawning**
+### The Beginning of the Dawning
 
 The Ministry can measure Weave stabilization at [[The Sunwound Crater|Sunwound Crater]], but cannot prove whether the event occurred simultaneously across all Aerathon.
 
-### **The Origin of the Beastfolk**
+### The Origin of the Beastfolk
 
 Brethren imperial records describe engineered or altered populations. Beastfolk oral traditions describe awakening, inheritance, or the recovery of identities deliberately erased during the Age of Crowns.
 
@@ -420,19 +420,19 @@ Both bodies of evidence contain demonstrable truth.
 
 Neither explains the whole.
 
-### **The First Labyrinth**
+### The First Labyrinth
 
 Proto-labyrinthal distortions existed during the Age of Chains. Reverberant Folds were entered during the Ember Age. Large self-sustaining Labyrinths became widespread during the Collapse.
 
 The phrase **First Labyrinth** is therefore considered imprecise unless the writer specifies the type of formation being discussed.
 
-### **The Great Drift**
+### The Great Drift
 
 The Great Drift is fixed to **2810–2930 A.D.**
 
 Centuries-long migrations associated with its aftermath must not be presented as a separate event bearing the same name.
 
-### **The Beginning of Spectacle**
+### The Beginning of Spectacle
 
 Observer-responsive formations were documented in 3197 A.D., but the Age of Spectacle begins in 3300 A.D.
 
@@ -440,7 +440,7 @@ The distinction is intentional.
 
 A phenomenon may exist long before civilization reorganizes itself around that phenomenon.
 
-### **The Proposed Seventh Era**
+### The Proposed Seventh Era
 
 Several Ministry analysts believe Aerathon approaches another threshold.
 
@@ -469,7 +469,7 @@ Until then, the record remains open.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

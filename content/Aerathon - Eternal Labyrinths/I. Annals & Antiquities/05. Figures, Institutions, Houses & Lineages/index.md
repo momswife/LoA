@@ -18,7 +18,7 @@ tags:
 
 ---
 
-# **Figures, Institutions, Houses & Lineages**
+# Figures, Institutions, Houses & Lineages
 
 ### _The People Who Founded Authority, the Bodies That Preserved It, and the Inheritances That Survived Them_
 
@@ -34,7 +34,7 @@ tags:
 
 ---
 
-## **I. Purpose and Scope**
+## I. Purpose and Scope
 
 This archive records historical actors whose influence cannot be understood only through the civilizations or events around them.
 
@@ -59,7 +59,7 @@ This archive asks narrower questions:
 
 ---
 
-## **II. Ownership Boundaries**
+## II. Ownership Boundaries
 
 The surrounding divisions answer different questions.
 
@@ -80,7 +80,7 @@ Duplicate ownership is not.
 
 ---
 
-## **III. Biography under Uncertain Evidence**
+## III. Biography under Uncertain Evidence
 
 Ancient biography is rarely a complete account of one life.
 
@@ -110,7 +110,7 @@ Contradiction is retained where resolving it would require choosing the version 
 
 ---
 
-## **IV. Institutions as Durable Action**
+## IV. Institutions as Durable Action
 
 An institution is more than a named gathering.
 
@@ -132,19 +132,19 @@ Institutions should therefore be judged through function, access, review, and co
 
 ---
 
-## **V. Houses, Dynasties, and Lineages**
+## V. Houses, Dynasties, and Lineages
 
 These terms are related but not interchangeable.
 
-### **House**
+### House
 
 A household or political body that maintains a shared name, estate, office, obligation, or claim. Membership may involve descent, adoption, oath, marriage, service, or legal incorporation.
 
-### **Dynasty**
+### Dynasty
 
 A sequence of rulers whose succession is presented as continuity. A dynasty may pass through blood, adoption, marriage, ritual recognition, or deliberate rewriting.
 
-### **Lineage**
+### Lineage
 
 A descent or transmission relationship. It may be familial, professional, sacred, magical, commemorative, or imposed by the state.
 
@@ -154,7 +154,7 @@ The [[The Living Conductor Lines|Living Conductor Lines]] were lineages because 
 
 ---
 
-## **VI. Continuity Is a Claim**
+## VI. Continuity Is a Claim
 
 Ancient names carry modern value.
 
@@ -177,7 +177,7 @@ No record in this section establishes modern sovereignty merely by documenting a
 
 ---
 
-## **VII. Comparative Historical Spine**
+## VII. Comparative Historical Spine
 
 | Period | Figure, Institution, or Lineage | Principal Historical Role |
 |---|---|---|
@@ -197,9 +197,9 @@ This table records conventional placement, not complete biography or institution
 
 ---
 
-## **VIII. Archive Guide**
+## VIII. Archive Guide
 
-### **I. Figures, Sovereigns & Founders**
+### I. Figures, Sovereigns & Founders
 
 - [[Queen Maelis Bell-Born]]
 - [[Othran the Unbroken]]
@@ -208,7 +208,7 @@ This table records conventional placement, not complete biography or institution
 - [[High Archon Edrast of Vaelcour]]
 - [[Cael Emberwright]]
 
-### **II. Institutions, Orders & Learned Bodies**
+### II. Institutions, Orders & Learned Bodies
 
 - [[The Canal Collegium]]
 - [[The Faith Courts]]
@@ -216,7 +216,7 @@ This table records conventional placement, not complete biography or institution
 - [[Pilgrims of the Three Lanterns]]
 - [[The Ember Collegia]]
 
-### **III. Houses, Dynasties & Inherited Offices**
+### III. Houses, Dynasties & Inherited Offices
 
 - [[The Bell-Born Dynasty]]
 - [[The Bearer Line of Dhalraen]]
@@ -224,7 +224,7 @@ This table records conventional placement, not complete biography or institution
 - [[The Ravelmane Claimants and Seven-Ring Lineages]]
 - [[The Living Conductor Lines]]
 
-### **Related Cultural Bodies Filed Elsewhere**
+### Related Cultural Bodies Filed Elsewhere
 
 - [[The Stone-Song Confederacy]]
 - [[Pride of Seven Roads]]
@@ -237,7 +237,7 @@ These are filed under Ancient Peoples & Civilizations because their defining ide
 
 ---
 
-## **IX. Ministry Conclusions**
+## IX. Ministry Conclusions
 
 1. Biography, institution, and lineage require different kinds of evidence.
 2. Founding legends often preserve political ideals more reliably than personal detail.

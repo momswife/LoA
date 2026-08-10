@@ -2,7 +2,7 @@
 
 ---
 
-# **Birth, Bond, and Burial**
+# Birth, Bond, and Burial
 
 ### _Ceremonies of Flesh, Fur, and Faith Across Aerathon_
 
@@ -12,7 +12,7 @@
 **Date of Filing:** 9th Cycle, 3091 A.D.  
 **Document Class:** _Cross-Species Ritual Compendium / Grade-II Ceremonial Archive_
 
-~~
+---
 
 **Era Classification:** _Trans-Era Cultural Record_  
 **Primary Peoples:** Brethren, Beastfolk, and hybrid communities across all regions  
@@ -21,7 +21,7 @@
 
 ---
 
-## **Overview**
+## Overview
 
 Across Aerathon’s long memory, three rites have remained immutable in form if not in meaning — **Birth**, **Bond**, and **Burial**.  
 Whether among the high spires of Louvain, the storm-wracked cliffs of Vinyot, or the deep warrens of the Beastfolk clans, these rituals mark the three moments when the soul is measured: its arrival, its joining, and its release.
@@ -31,7 +31,7 @@ Though thousands of customs exist, each speaks the same truth: _to live is to le
 
 ---
 
-## **Birth: First Breath and First Sound**
+## Birth: First Breath and First Sound
 
 ### _How the newborn is welcomed by their world._
 
@@ -46,7 +46,7 @@ The Ministry has found that infant blessing objects recovered from ruins (bells,
 
 ---
 
-## **Bond: The Joining of Blood, Breath, or Oath**
+## Bond: The Joining of Blood, Breath, or Oath
 
 ### _Partnerships, marriages, pacts — the rituals that define belonging._
 
@@ -67,7 +67,7 @@ The Ministry has found that infant blessing objects recovered from ruins (bells,
 
 ---
 
-## **Burial: Return to Element and Memory**
+## Burial: Return to Element and Memory
 
 ### _Death as transformation, not cessation._
 
@@ -97,7 +97,7 @@ Death may vary in language, but its ritual grammar remains universal.
 
 ---
 
-## **Symbolism Across Cultures**
+## Symbolism Across Cultures
 
 Though their forms differ, three symbols unify Aerathon’s birth, bond, and burial:
 
@@ -112,7 +112,7 @@ Ministry scholars note that these elements correspond exactly to delver protocol
 
 ---
 
-## **Known Sites & Artifacts**
+## Known Sites & Artifacts
 
 |Artifact / Site|Location|Notes|
 |---|---|---|
@@ -120,8 +120,8 @@ Ministry scholars note that these elements correspond exactly to delver protocol
 |**Golden Leash of Hearthhome**|Private Collection, Vinyot|Ancestral bonding chain linking six generations; still warm to the touch when held.|
 |**Ember-Urns of Arneria**|Desert catacombs|Clay urns embedded with flame glyphs; believed to reignite faintly each solstice.|
 |**Wind-Veil Tokens**|Sky-Reeve ruins|Thin silver discs given to mourners; vibrate softly in high altitude.|
-___
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+---
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Anthropological & Cultural Inquiry Division**  

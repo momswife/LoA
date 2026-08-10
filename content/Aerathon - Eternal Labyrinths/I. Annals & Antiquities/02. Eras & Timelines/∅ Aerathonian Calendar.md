@@ -3,7 +3,7 @@
 
 ---
 
-# **The Aerathonian Calendar**
+# The Aerathonian Calendar
 
 ### _Standard Reckoning of Wreaths, Cycles, Knots, Spans, and Turns_
 
@@ -19,7 +19,7 @@
 
 ---
 
-## **I. Mandate and Authority**
+## I. Mandate and Authority
 
 The **Aerathonian Calendar** is the official civil, historical, and operational reckoning recognized throughout Ministry-chartered Aerathon.
 
@@ -35,7 +35,7 @@ It is to ensure that, when lives depend upon the answer, all parties can agree u
 
 ---
 
-## **II. Origins of the Standard Reckoning**
+## II. Origins of the Standard Reckoning
 
 Before the standard calendar, Aerathon possessed hundreds of systems of timekeeping.
 
@@ -57,7 +57,7 @@ A world capable of losing centuries required a calendar that could be rebuilt fr
 
 ---
 
-## **III. The Dawning Reckoning**
+## III. The Dawning Reckoning
 
 Official years are recorded in **A.D. — After Dawning**.
 
@@ -84,7 +84,7 @@ Even that distinction remains disputed.
 
 ---
 
-## **IV. Structure of the Wreath**
+## IV. Structure of the Wreath
 
 The Aerathonian year is called a **Wreath**.
 
@@ -122,13 +122,13 @@ It does not recognize any single explanation for it.
 
 ---
 
-## **V. Seasons and the Twelve Cycles**
+## V. Seasons and the Twelve Cycles
 
 The Wreath is divided into four Seasonal Quarters of ninety Spans each.
 
 These quarters describe the traditional climate and aetheric rhythm of the **Louvain Meridian**. They do not guarantee identical weather across every continent, altitude, plane, or Labyrinth zone.
 
-### **Winter Quarter**
+### Winter Quarter
 
 |Cycle|Position|Common Significance|
 |---|---|---|
@@ -136,7 +136,7 @@ These quarters describe the traditional climate and aetheric rhythm of the **Lou
 |**Frostreach**|Midwinter|Endurance rites, supply audits, defensive preparation, memorial vigils|
 |**Embermarch**|Late Winter|Forge observances, thaw feasts, reopening of seasonal routes|
 
-### **Spring Quarter**
+### Spring Quarter
 
 |Cycle|Position|Common Significance|
 |---|---|---|
@@ -144,7 +144,7 @@ These quarters describe the traditional climate and aetheric rhythm of the **Lou
 |**Goldgrove**|Midspring|Youth ceremonies, games, artistic festivals, local gatherings|
 |**Brightmoor**|Late Spring|Surveying, invention fairs, cartographic revision, expedition preparation|
 
-### **Summer Quarter**
+### Summer Quarter
 
 |Cycle|Position|Common Significance|
 |---|---|---|
@@ -152,7 +152,7 @@ These quarters describe the traditional climate and aetheric rhythm of the **Lou
 |**Ashvale**|Midsummer|Combat trials, forge festivals, heat rites, hazard training|
 |**Redfall**|Late Summer|Trade fairs, harvest markets, diplomatic bonds, itinerant revels|
 
-### **Autumn Quarter**
+### Autumn Quarter
 
 |Cycle|Position|Common Significance|
 |---|---|---|
@@ -166,7 +166,7 @@ In ledger notation, Glintwane is designated **01** and Snowturn **12**.
 
 ---
 
-## **VI. The Six-Day Knot**
+## VI. The Six-Day Knot
 
 A six-Span week is called a **Knot**.
 
@@ -193,7 +193,7 @@ The Ministry recognizes both interpretations.
 
 ---
 
-## **VII. Spans, Turns, and Standard Measurements**
+## VII. Spans, Turns, and Standard Measurements
 
 A civil day is called a **Span**.
 
@@ -208,7 +208,7 @@ Each Span contains twenty-four **Marks** and is divided into four six-Mark **Tur
 
 Local names such as **Dawnturn**, **Highturn**, **Duskturn**, and **Veilturn** remain common. Official records use numbered Turns unless regional terminology is itself relevant to the evidence.
 
-### **Standard Units**
+### Standard Units
 
 |Unit|Official Definition|Common Use|
 |---|---|---|
@@ -231,7 +231,7 @@ This distinction is mandatory in Ministry records.
 
 ---
 
-## **VIII. Official Dates and the Louvain Meridian**
+## VIII. Official Dates and the Louvain Meridian
 
 The full written date follows this order:
 
@@ -290,7 +290,7 @@ An approximate truth is preferable to a confident falsehood.
 
 ---
 
-## **IX. Labyrinth Time and Chronometric Control**
+## IX. Labyrinth Time and Chronometric Control
 
 Time within a Labyrinth is never presumed to match exterior time.
 
@@ -341,7 +341,7 @@ Grade-I authentication requires agreement between at least two independent measu
 
 ---
 
-## **X. Official Observances and Restricted Dates**
+## X. Official Observances and Restricted Dates
 
 The following observances are recognized throughout Ministry-chartered territories.
 
@@ -378,7 +378,7 @@ The distinction is often ignored by the public and carefully preserved by the Mi
 
 ---
 
-## **XI. Regional Reckonings and Historical Conversion**
+## XI. Regional Reckonings and Historical Conversion
 
 The Ministry recognizes that no calendar is culturally neutral.
 
@@ -418,7 +418,7 @@ Sometimes it is the only surviving evidence that time behaved differently there.
 
 ---
 
-## **XII. Legal Force and Archival Caution**
+## XII. Legal Force and Archival Caution
 
 The Aerathonian Calendar possesses legal force wherever Ministry charter is recognized.
 
@@ -463,7 +463,7 @@ It does not guarantee that the world agrees.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

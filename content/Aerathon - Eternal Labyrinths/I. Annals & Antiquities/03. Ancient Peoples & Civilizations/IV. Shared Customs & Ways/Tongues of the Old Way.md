@@ -2,7 +2,7 @@
 
 ---
 
-# **Tongues of the Old Way**
+# Tongues of the Old Way
 
 ### _The Lost Languages That Still Command the World_
 
@@ -12,7 +12,7 @@
 **Date of Filing:** 7th Cycle, 3114 A.D.  
 **Document Class:** _Linguistic & Resonance Record / Grade-II Pre-Canonical Lexicon Archive_
 
-~~
+---
 
 **Era Classification:** _Linguistic Lineages Spanning First through Fifth Eras_  
 **Primary Peoples:** Brethren scholars, Beastfolk storytellers, and pre-Labyrinth delver orders  
@@ -21,7 +21,7 @@
 
 ---
 
-## **Overview**
+## Overview
 
 Every civilization in Aerathon built its order upon the same foundation: **language as law**.  
 From the glowing runes of the Orichalcum Age to the soft growl-tones of the Stone-Song Confederacy, words were never mere description — they were instruments of control.
@@ -31,7 +31,7 @@ Fragments of ancient grammar still echo in modern spellwork, oathcraft, and laby
 
 ---
 
-## **The Auric Line**
+## The Auric Line
 
 **Origin:** Orichalcum Age  
 **Nature:** Ideographic inscription that captured _intent_ rather than phonetic sound.  
@@ -43,7 +43,7 @@ Lt. Korrin’s breach analysis indicates the Labyrinth walls’ shifting inscrip
 
 ---
 
-## **The Harmonium Tongue**
+## The Harmonium Tongue
 
 **Origin:** Convergence Courts  
 **Nature:** Hybrid of divine liturgy and arcane notation.  
@@ -54,7 +54,7 @@ Certain binding spells still include vestigial Harmonium prefixes (_cor-_, _ven-
 
 ---
 
-## **Knot-Script and Road Cant**
+## Knot-Script and Road Cant
 
 **Origin:** Pride of Seven Roads & Pilgrims of the Three Lanterns  
 **Nature:** Physical and linguistic hybrid.  
@@ -66,7 +66,7 @@ Ministry interpreters learn basic Knot-Script to read encoded rescue cords left 
 
 ---
 
-## **Stone-Tongue and Echo-Law**
+## Stone-Tongue and Echo-Law
 
 **Origin:** Stone-Song Confederacy  
 **Nature:** Harmonic resonance language relying on tone rather than symbol.  
@@ -77,7 +77,7 @@ The Ministry’s Resonance Bureau has confirmed that certain echo chambers benea
 
 ---
 
-## **Common Speech and the Fracture of Babel**
+## Common Speech and the Fracture of Babel
 
 After the **Great Drift**, no single tongue could unite Aerathon.  
 Trade necessitated compromise, birthing **Common**, a linguistic alloy of Harmonium syntax, Road Cant brevity, and Beastfolk idiom.  
@@ -88,7 +88,7 @@ To the Ministry, this suggests that **the more widely understood a language beco
 
 ---
 
-## **Language and the Labyrinths**
+## Language and the Labyrinths
 
 The Labyrinths themselves appear to **speak**.  
 Glyphs within their walls shift in recognizable linguistic morphologies, sometimes mirroring known scripts, sometimes forming impossible ones.  
@@ -105,8 +105,8 @@ Lt. Korrin theorizes that the Labyrinths function as **linguistic reactors**, tr
 
 If true, then the Tongues of the Old Way were not forgotten — they simply moved underground.
 
-___
-## **Known Sites & Artifacts**
+---
+## Known Sites & Artifacts
 
 |Artifact / Site|Location|Notes|
 |---|---|---|
@@ -114,7 +114,7 @@ ___
 |**Harmonium Lexicons**|Prism Vault of Louvain|Half-scorched index of divine equations; several entries redacted by Ministry order.|
 |**Knot-Script Nets**|Vinyot Caravansary|Trade ropes displaying contract text; glow faintly when touched by Beastfolk descendants.|
 |**Stone-Tongue Relay**|Caverns of Hollowfall|Natural amplifier repeating words with altered meaning — function unknown.|
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Linguistics Bureau**  

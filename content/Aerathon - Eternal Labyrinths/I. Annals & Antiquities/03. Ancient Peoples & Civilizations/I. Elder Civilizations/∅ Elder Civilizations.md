@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-# **Elder Civilizations**
+# Elder Civilizations
 
 ### _The Kingdoms, Courts, and Ordered Peoples of the Pre-Labyrinth World_
 
@@ -19,7 +19,7 @@ aliases:
 
 ---
 
-## **I. Purpose and Scope**
+## I. Purpose and Scope
 
 The designation **Elder Civilizations** applies to the kingdoms, city-states, confederated realms, sacred polities, and other organized societies that arose before the emergence of the Eternal Labyrinths.
 
@@ -39,7 +39,7 @@ A people need not have possessed a crown, permanent capital, or written language
 
 ---
 
-## **II. The Problem of Ancient Identity**
+## II. The Problem of Ancient Identity
 
 Modern maps cannot be placed cleanly over the ancient world.
 
@@ -60,7 +60,7 @@ Where uncertainty remains, it is retained.
 
 ---
 
-## **III. The Earliest Civilizations**
+## III. The Earliest Civilizations
 
 The oldest recoverable societies are collectively described as the **Orichalcum Civilizations**.
 
@@ -72,7 +72,7 @@ Their disappearance created the first great rupture in mortal history.
 
 ---
 
-## **IV. The Convergence Courts**
+## IV. The Convergence Courts
 
 The **Convergence Courts** arose during the closing centuries of the Orichalcum world.
 
@@ -86,7 +86,7 @@ The philosophical conflicts that destroyed the Courts scattered their scholars a
 
 ---
 
-## **V. The Crowned Realms**
+## V. The Crowned Realms
 
 The fall of the Convergence Courts gave rise to the civilizations of the **Age of Crowns**.
 
@@ -104,7 +104,7 @@ Around them stood dozens of lesser kingdoms, sacred principalities, temple domai
 
 ---
 
-## **VI. Civilizations and Their Peoples**
+## VI. Civilizations and Their Peoples
 
 A civilization is not synonymous with an ancestry.
 
@@ -120,7 +120,7 @@ The present index concerns the civilizations themselves: the structures people b
 
 ---
 
-## **VII. The End of the Elder World**
+## VII. The End of the Elder World
 
 The elder civilizations did not fall in a single catastrophe.
 
@@ -136,7 +136,7 @@ They do not belong to it.
 
 ---
 
-## **Related Records**
+## Related Records
 
 - [[The Orichalcum Civilizations]]
 - [[The Convergence Courts]]

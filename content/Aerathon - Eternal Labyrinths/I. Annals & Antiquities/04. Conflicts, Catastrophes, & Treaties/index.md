@@ -18,7 +18,7 @@ tags:
 
 ---
 
-# **Conflicts, Catastrophes, & Treaties**
+# Conflicts, Catastrophes, & Treaties
 
 ### _The Events That Broke, Bound, and Remade the Pre-Labyrinth World_
 
@@ -34,7 +34,7 @@ tags:
 
 ---
 
-## **I. Purpose and Scope**
+## I. Purpose and Scope
 
 This archive answers one question:
 
@@ -55,7 +55,7 @@ The [[The War of Two Heavens|War of Two Heavens]] and [[The Quiet Edict|Quiet Ed
 
 ---
 
-## **II. An Event Is Not Its Era**
+## II. An Event Is Not Its Era
 
 An era dossier summarizes many developments across centuries.
 
@@ -73,17 +73,17 @@ The event record asks **how, for whom, and at what cost**.
 
 ---
 
-## **III. Event Classes**
+## III. Event Classes
 
-### **Wars, Rebellions, and Campaigns**
+### Wars, Rebellions, and Campaigns
 
 These records examine organized violence and sustained coercive struggle. A single named “war” may contain conventional battle, sabotage, administrative seizure, famine, propaganda, forced migration, legal exclusion, and resistance carried through ordinary labor.
 
-### **Catastrophes and Civilizational Ruptures**
+### Catastrophes and Civilizational Ruptures
 
 These records examine events whose harm exceeded the institution, city, or system that produced them. Catastrophe may be sudden, like the Inversion at Sol Oranna, or cumulative, like the Cinder Years.
 
-### **Treaties, Concords, and Political Settlements**
+### Treaties, Concords, and Political Settlements
 
 These records examine attempts to end conflict, rank authority, distribute obligation, or prevent recurrence. A signed agreement is not treated automatically as peace. Its legitimacy depends upon who could negotiate, who was bound, who was protected, and who retained the power to withdraw recognition.
 
@@ -93,7 +93,7 @@ The [[The Fall of Sol Oranna and the First Withholding|Fall of Sol Oranna]] was 
 
 ---
 
-## **IV. Evidentiary Cautions**
+## IV. Evidentiary Cautions
 
 Conflict records are unusually unreliable.
 
@@ -115,7 +115,7 @@ Some uncertainty was produced deliberately by destroying the records of the harm
 
 ---
 
-## **V. Chronological Spine**
+## V. Chronological Spine
 
 | Period or Date | Event | Principal Change |
 |---|---|---|
@@ -139,7 +139,7 @@ This chronology is selective. Smaller wars, local settlements, persecutions, and
 
 ---
 
-## **VI. War and the Language of Civilization**
+## VI. War and the Language of Civilization
 
 Ancient powers rarely described their own violence as conquest alone.
 
@@ -163,7 +163,7 @@ An unlawful regime does not make everyone living within it a willing agent.
 
 ---
 
-## **VII. Catastrophe and Responsibility**
+## VII. Catastrophe and Responsibility
 
 Ancient catastrophe was often described as punishment, fate, or failed miracle.
 
@@ -180,7 +180,7 @@ Responsibility may be distributed without disappearing.
 
 ---
 
-## **VIII. Treaty Does Not Mean Consent**
+## VIII. Treaty Does Not Mean Consent
 
 Ancient agreements were shaped by unequal standing.
 
@@ -205,9 +205,9 @@ It is to understand what the peace required people to accept.
 
 ---
 
-## **IX. Archive Guide**
+## IX. Archive Guide
 
-### **I. Wars, Rebellions & Campaigns**
+### I. Wars, Rebellions & Campaigns
 
 - [[The Thesis Wars]]
 - [[The War of Seven Crowns]]
@@ -215,13 +215,13 @@ It is to understand what the peace required people to accept.
 - [[The Echo-Wars]]
 - [[The Wars of Making]]
 
-### **II. Catastrophes & Civilizational Ruptures**
+### II. Catastrophes & Civilizational Ruptures
 
 - [[The Sundering Silence]]
 - [[The Fall of Sol Oranna and the First Withholding]]
 - [[The Ignition Catastrophes and Cinder Years]]
 
-### **III. Treaties, Concords & Political Settlements**
+### III. Treaties, Concords & Political Settlements
 
 - [[The Crown Concord]]
 - [[The Binding Concord]]
@@ -229,7 +229,7 @@ It is to understand what the peace required people to accept.
 - [[The Treaty of Breath & Beast]]
 - [[The Ash Accords]]
 
-### **Foundational Events Filed Elsewhere**
+### Foundational Events Filed Elsewhere
 
 - [[The First Concord and Its Breaking]]
 - [[The War of Two Heavens]]
@@ -238,7 +238,7 @@ It is to understand what the peace required people to accept.
 
 ---
 
-## **X. Ministry Position**
+## X. Ministry Position
 
 The Ministry recognizes the following principles for this archive:
 

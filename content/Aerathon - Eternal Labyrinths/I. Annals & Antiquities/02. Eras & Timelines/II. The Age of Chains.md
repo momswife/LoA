@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-# **The Age of Chains**
+# The Age of Chains
 
 ### _Era II — The Law Made Flesh_
 
@@ -26,7 +26,7 @@ aliases:
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Age of Chains** was the age in which sacred authority ceased waiting for the gods to answer.
 
@@ -60,7 +60,7 @@ Its enemies remembered that order as a thousand-year cage.
 
 ---
 
-## **II. Historical Sources and Imperial Distortion**
+## II. Historical Sources and Imperial Distortion
 
 The Age of Chains produced more written material than any previous era.
 
@@ -103,7 +103,7 @@ It is not a neutral description of the oppressed.
 
 ---
 
-## **III. Founding of the Empire of Law and Light**
+## III. Founding of the Empire of Law and Light
 
 The Empire of Law and Light emerged from the [[The Binding Concord|**Binding Concord**]] of 1091 A.D.
 
@@ -129,7 +129,7 @@ In reality, it was the first government to claim authority over every soul withi
 
 ---
 
-## **IV. Sol Oranna and the Seven Circles**
+## IV. Sol Oranna and the Seven Circles
 
 **Sol Oranna**, the imperial capital, was built around a surviving Orichalcum pillar capable of emitting a continuous harmonic pulse.
 
@@ -165,11 +165,11 @@ A wall built from light.
 
 ---
 
-## **V. The Imperial Order**
+## V. The Imperial Order
 
 The empire was governed through overlapping religious, legal, and administrative authorities.
 
-### **The High Archon**
+### The High Archon
 
 The High Archon served as the mortal executor of divine law.
 
@@ -177,31 +177,31 @@ Unlike Crown-era monarchs, the Archon did not claim to embody a god. The office 
 
 Succession was determined through bloodline, political selection, Faith Density, and approval by the Synod of Lamps.
 
-### **The Synod of Lamps**
+### The Synod of Lamps
 
 The Synod interpreted scripture, standardized worship, and determined which miracles were doctrinally legitimate.
 
 Its members could invalidate regional gods, dissolve temples, or declare a long-practiced custom spiritually dangerous.
 
-### **The Magistracy of Measure**
+### The Magistracy of Measure
 
 The Magistracy administered civil law, population classification, labor allocation, marriage, inheritance, and punishment.
 
 Its courts replaced most surviving [[The Faith Courts|Faith Courts]].
 
-### **The Harmonium Works**
+### The Harmonium Works
 
 This office maintained the empire’s sacred machinery, including the Faith Loom, prayer pylons, miracle regulators, and climate engines.
 
 It employed sacrist engineers, dwarven artificers, coerced laborers, and sanctioned scholars.
 
-### **The Chorus Wardens**
+### The Chorus Wardens
 
 The Chorus Wardens acted as religious police, investigators, and suppressors of unauthorized worship.
 
 They monitored sermons, songs, symbols, names, and public speech for signs of doctrinal contamination.
 
-### **The Provincial Archons**
+### The Provincial Archons
 
 The empire’s territories were divided into provinces governed by appointed Archons.
 
@@ -217,7 +217,7 @@ It converted them into offices.
 
 ---
 
-## **VI. The Doctrine of Chains**
+## VI. The Doctrine of Chains
 
 The ideological foundation of the empire was the **Doctrine of Chains**.
 
@@ -266,7 +266,7 @@ It became the first shared image of resistance across peoples who had once posse
 
 ---
 
-## **VII. Faith Density and the Registry of Souls**
+## VII. Faith Density and the Registry of Souls
 
 The Empire of Law and Light attempted to measure spiritual worth through a system known as **Faith Density**.
 
@@ -293,7 +293,7 @@ Political enemies were retested until they failed.
 
 Beastfolk were frequently subjected to devices calibrated only for Brethren physiology and then punished for producing “incorrect” results.
 
-### **The Registry of Souls**
+### The Registry of Souls
 
 Every subject was entered into the [[The Registry of Souls|Registry of Souls]], a centralized record system containing:
 
@@ -330,7 +330,7 @@ Its practical purpose was to ensure that no soul could escape notice.
 
 ---
 
-## **VIII. Daily Life Beneath the Light**
+## VIII. Daily Life Beneath the Light
 
 Life within the empire varied greatly by caste, province, species, and proximity to the capital.
 
@@ -350,13 +350,13 @@ Trade moved beneath common law across enormous distances.
 
 That stability was purchased through constant obedience.
 
-### **Household Devotion**
+### Household Devotion
 
 Every registered household maintained a sanctioned prayer space.
 
 Families were required to recite approved verses at dawn and dusk. Local officials performed surprise inspections to confirm that household icons, names, and devotional records remained current.
 
-### **Labor and Calling**
+### Labor and Calling
 
 Professions were frequently inherited.
 
@@ -364,7 +364,7 @@ A smith’s child was expected to enter metalwork. A soldier’s child entered m
 
 Changing professions required temple approval.
 
-### **Marriage and Birth**
+### Marriage and Birth
 
 Marriage licenses were issued according to caste, Faith Density, ancestry, and perceived spiritual compatibility.
 
@@ -372,7 +372,7 @@ Children were tested within their first Wreath and entered into the Registry of 
 
 Those whose resonance differed significantly from their families could be reassigned to temple schools, work houses, or corrective institutions.
 
-### **Curfews and Bells**
+### Curfews and Bells
 
 Cities observed **holy curfews** enforced through the Faith Loom.
 
@@ -380,7 +380,7 @@ At the appointed Mark, street lamps changed color, gates sealed, and unauthorize
 
 In several provinces, the sun itself was artificially prolonged to enforce work quotas or shortened during periods of unrest.
 
-### **Public Festivals**
+### Public Festivals
 
 Imperial festivals celebrated law, unity, victory, and the defeat of disorder.
 
@@ -392,7 +392,7 @@ It simply called the audience a congregation.
 
 ---
 
-## **IX. Beastfolk Under Imperial Rule**
+## IX. Beastfolk Under Imperial Rule
 
 The Empire of Law and Light did not create the Beastfolk.
 
@@ -425,7 +425,7 @@ The classifications had no consistent cultural or biological foundation.
 
 They existed to make ownership easier to administer.
 
-### **Labor and Bondage**
+### Labor and Bondage
 
 Beastfolk were assigned to mines, roads, plantations, military units, temple works, and relic excavation sites.
 
@@ -435,7 +435,7 @@ Others belonged legally to temples, military offices, guilds, or the imperial st
 
 A Beastfolk subject who escaped private ownership remained imperial property unless formally manumitted.
 
-### **The Collared Legions**
+### The Collared Legions
 
 Several Beastfolk military units were formed under Brethren command.
 
@@ -445,7 +445,7 @@ Imperial propaganda praised the Collared Legions as proof that even “unformed 
 
 Surviving veterans remembered them as armies forced to conquer the roads by which their own families might have escaped.
 
-### **Division as Policy**
+### Division as Policy
 
 The empire deliberately separated kinships believed capable of collective resistance.
 
@@ -465,7 +465,7 @@ It attempted to sever the ways those bodies remembered themselves.
 
 ---
 
-## **X. Tharos, the Seven Rings, and the War Against Memory**
+## X. Tharos, the Seven Rings, and the War Against Memory
 
 The memory of [[Tharos Ravelmane, the Seven-Ringed King|**Tharos Ravelmane, the Seven-Ringed King**]] posed a unique threat to imperial doctrine.
 
@@ -484,7 +484,7 @@ His life disproved several imperial necessities:
 
 The empire therefore declared his memory illegal.
 
-### **The Tharos Interdict**
+### The Tharos Interdict
 
 Issued in **1137 A.D.**, the Tharos Interdict prohibited:
 
@@ -503,7 +503,7 @@ Imperial documents renamed him **Tharos the Feral** and described his kingdom as
 
 Possession of a seven-ring symbol could be treated as sedition.
 
-### **Suppression of the Old Beastfolk Gods**
+### Suppression of the Old Beastfolk Gods
 
 The empire recast the Old Beastfolk Pantheon as a collection of demons, false masks, or corrupted servants of recognized Brethren deities.
 
@@ -513,7 +513,7 @@ Priests were executed, enslaved, or forced to reinterpret their gods through app
 
 Some cults survived by disguising divine names as family ancestors, animals, constellations, rivers, or instructions within ordinary work songs.
 
-### **The Western Pacifications**
+### The Western Pacifications
 
 Between approximately 1128 and 1194 A.D., imperial forces carried out repeated campaigns through western Vinyot.
 
@@ -531,7 +531,7 @@ His name survived precisely because it was forbidden.
 
 ---
 
-## **XI. Magic, the Faith Loom, and Manufactured Miracle**
+## XI. Magic, the Faith Loom, and Manufactured Miracle
 
 The empire’s control depended upon a vast magical infrastructure known as the **Faith Loom**.
 
@@ -539,7 +539,7 @@ The Loom linked major temples, prayer pylons, relic chambers, and administrative
 
 It allowed imperial authorities to collect, redirect, and amplify magical resonance across entire regions.
 
-### **Functions of the Loom**
+### Functions of the Loom
 
 The Faith Loom could:
 
@@ -564,7 +564,7 @@ The system gave the appearance that the gods remained actively involved in imper
 
 Many citizens never knew where divine intervention ended and engineered resonance began.
 
-### **The Cathedral of Harmonium**
+### The Cathedral of Harmonium
 
 At the center of the network stood the Cathedral of Harmonium in Sol Oranna.
 
@@ -574,7 +574,7 @@ Imperial doctrine called it the **Heart of Law**.
 
 Later artificers described it as a dangerously overburdened resonance engine.
 
-### **The Cost of Miracles**
+### The Cost of Miracles
 
 The Loom required immense energy.
 
@@ -588,7 +588,7 @@ Beastfolk songs were recorded, dissected, and repurposed to stabilize Harmonium 
 
 Some imperial miracles may have been powered directly by the suffering of those the empire classified as spiritually inferior.
 
-### **Proto-Labyrinthal Distortions**
+### Proto-Labyrinthal Distortions
 
 In regions where the Loom failed, reality sometimes continued obeying an abandoned command.
 
@@ -608,7 +608,7 @@ It helped teach reality how to become trapped inside an instruction.
 
 ---
 
-## **XII. Expansion, Provincial Wars, and Imperial Violence**
+## XII. Expansion, Provincial Wars, and Imperial Violence
 
 The campaigns now collected as [[The Imperial Provincial Wars|the **Imperial Provincial Wars**]] expanded the Empire of Law and Light through conquest, treaty, conversion, and administrative absorption.
 
@@ -618,13 +618,13 @@ To conquer a region was not merely to defeat its defenders.
 
 It was to rename its roads, measure its people, register its gods, and assign every surviving thing a lawful purpose.
 
-### **The Western Pacifications**
+### The Western Pacifications
 
 These campaigns dismantled the remaining political and religious structures associated with Tharos in western Vinyot.
 
 They established forts, labor roads, temple colonies, and imperial hunting preserves across former Beastfolk territory.
 
-### **The Stone Reconciliation**
+### The Stone Reconciliation
 
 Dwarven enclaves that resisted imperial inspection were subjected to a series of sieges between approximately 1260 and 1318 A.D.
 
@@ -634,7 +634,7 @@ Imperial sources called this reconciliation.
 
 Dwarven histories call it theft.
 
-### **The Bell Province Purges**
+### The Bell Province Purges
 
 Louvain retained a strong culture of petition and public record inherited from the Crown Era.
 
@@ -642,7 +642,7 @@ When local magistrates began recording complaints against imperial officials, th
 
 Several archives were sealed, judges removed, and bell towers placed under Chorus Warden control.
 
-### **The Southern Census Wars**
+### The Southern Census Wars
 
 In the southern deltas, mobile communities repeatedly evaded imperial registration by changing settlements with the rivers.
 
@@ -650,7 +650,7 @@ The empire responded by redirecting waterways, burning reed cities, and declarin
 
 These conflicts introduced the earliest known mobile shell-ledgers used to preserve identity when written registries were destroyed or seized.
 
-### **The War of the Hollow Sun**
+### The War of the Hollow Sun
 
 During the seventeenth century A.D., several provinces rebelled after prolonged use of solar engines altered local climate and caused widespread crop failure.
 
@@ -662,11 +662,11 @@ The provincial capital surrendered when its people began losing the ability to d
 
 ---
 
-## **XIII. Resistance Before the Echo-Wars**
+## XIII. Resistance Before the Echo-Wars
 
 Resistance persisted throughout the Age of Chains, though it rarely began as open warfare.
 
-### **The Unwritten Names**
+### The Unwritten Names
 
 Beastfolk families concealed children from the Registry by refusing to speak their true names before imperial witnesses.
 
@@ -674,7 +674,7 @@ Public names were changed repeatedly.
 
 True names were preserved only in burial rites, hidden songs, or marks beneath clothing.
 
-### **The Keepers of the Open Gate**
+### The Keepers of the Open Gate
 
 This western Vinyotian tradition preserved the memory of Tharos and the Night of Open Gates.
 
@@ -684,13 +684,13 @@ The organization’s true structure remains unknown. Imperial reports alternatel
 
 It may have been all four.
 
-### **The Ash Communion**
+### The Ash Communion
 
 Descendants of the Crown-era Ashen Petitioners preserved rejected prayers and evidence of failed miracles.
 
 They taught that no authority could claim divine legitimacy merely because it controlled a temple.
 
-### **Forge Refugees**
+### Forge Refugees
 
 Dwarven artificers, Brethren engineers, and Beastfolk laborers created hidden workshops beyond imperial supervision.
 
@@ -698,7 +698,7 @@ They repaired escape tools, disabled collars, forged Registry seals, and develop
 
 Their work formed part of the technical foundation of the later Ember Age.
 
-### **The Quiet Clergy**
+### The Quiet Clergy
 
 Some imperial priests remained publicly obedient while secretly altering labor orders, hiding fugitives, falsifying Faith Density results, and preserving forbidden scripture.
 
@@ -706,7 +706,7 @@ The empire called them corrupted lamps.
 
 Later generations called them proof that institutions are never as united as their seals suggest.
 
-### **The First Stone-Songs**
+### The First Stone-Songs
 
 Beastfolk laborers discovered that rhythmic striking could disrupt Orichalcum systems.
 
@@ -722,7 +722,7 @@ The workers heard history organizing itself.
 
 ---
 
-## **XIV. The Echo-Wars**
+## XIV. The Echo-Wars
 
 The rebellions collectively known as the [[The Echo-Wars|**Echo-Wars**]] transformed scattered resistance into a shared struggle against imperial law.
 
@@ -730,7 +730,7 @@ They were not a single war.
 
 They were decades of uprisings, sabotage, cultural revival, military revolt, and magical disruption linked through sound and memory.
 
-### **The Whisper Years**
+### The Whisper Years
 
 From approximately 1870 to 1939 A.D., hidden songs spread through mines, roads, military camps, plantations, and temple workshops.
 
@@ -751,7 +751,7 @@ Chorus Wardens attempted to ban unsanctioned music.
 
 Workers responded by encoding messages through tools, footsteps, breathing, and the movement of chains.
 
-### **The First Echo-War**
+### The First Echo-War
 
 In approximately 1940 A.D., coordinated uprisings erupted across several western and central provinces.
 
@@ -761,7 +761,7 @@ Brethren laborers, dwarven artificers, Unharmonious citizens, and dissident cler
 
 The empire suppressed the largest uprisings but failed to eliminate the underlying techniques.
 
-### **The Severing Campaigns**
+### The Severing Campaigns
 
 Imperial authorities attempted to destroy resonant resistance by mutilating singers, banning communal work, separating kinships, and replacing metal tools with less responsive materials.
 
@@ -771,7 +771,7 @@ The songs continued through drums, walls, water pipes, stamping feet, and the hu
 
 Every attempt to silence the rebellion taught it another language.
 
-### **The Second Echo-War**
+### The Second Echo-War
 
 Beginning in the early decades of the twenty-first century A.D., resistance became more coordinated and openly military.
 
@@ -791,7 +791,7 @@ It also made the entire system vulnerable to a single failure.
 
 ---
 
-## **XV. The Fall of Sol Oranna and the First Withholding**
+## XV. The Fall of Sol Oranna and the First Withholding
 
 By 2073 A.D., rebel networks had reached Sol Oranna. Their final struggle produced [[The Fall of Sol Oranna and the First Withholding|the **Fall of Sol Oranna and the First Withholding**]].
 
@@ -805,7 +805,7 @@ Others say they intended to free the living conductors beneath it.
 
 A third tradition claims the rebels sought only to interrupt the capital’s control long enough for the Seventh Circle to escape.
 
-### **The Inversion**
+### The Inversion
 
 During the uprising, multiple rebel choirs introduced conflicting resonance into the central Orichalcum pillar.
 
@@ -819,7 +819,7 @@ Then the Cathedral imploded in a spiral of white radiance.
 
 The event destroyed the central government, shattered the Faith Loom, and consumed large portions of Sol Oranna.
 
-### **The First Withholding**
+### The First Withholding
 
 Imperial survivors called the event the **First Withholding**.
 
@@ -843,7 +843,7 @@ Or the distinction between them.
 
 ---
 
-## **XVI. Fracture and Transition**
+## XVI. Fracture and Transition
 
 The destruction of Sol Oranna did not immediately end the Empire of Law and Light.
 
@@ -889,7 +889,7 @@ The **Ember Age** began.
 
 ---
 
-## **XVII. Principal Chronology**
+## XVII. Principal Chronology
 
 |Date|Event|Confidence|
 |---|---|---|
@@ -916,7 +916,7 @@ The **Ember Age** began.
 
 ---
 
-## **XVIII. Historical Legacy and Unresolved Questions**
+## XVIII. Historical Legacy and Unresolved Questions
 
 The Age of Chains left Aerathon with its first broadly unified systems of law, roads, measurement, communication, and magical infrastructure.
 
@@ -936,7 +936,7 @@ The difference between regulation and bondage is therefore not merely historical
 
 It is a question every modern institution must continue answering.
 
-### **Did the Empire Create Beastfolk?**
+### Did the Empire Create Beastfolk?
 
 No surviving evidence supports the imperial claim that Beastfolk first appeared as engineered labor populations.
 
@@ -946,7 +946,7 @@ The possibility that imperial laboratories altered, divided, or created particul
 
 It does not explain Beastfolk existence as a whole.
 
-### **Did the Old Beastfolk Gods Answer Tharos?**
+### Did the Old Beastfolk Gods Answer Tharos?
 
 Imperial records invested considerable effort in destroying the claim.
 
@@ -954,19 +954,19 @@ That effort itself suggests the tradition possessed unusual political or metaphy
 
 The eventual Labyrinth formed around Tharos’s memory may preserve evidence that cannot yet be interpreted safely.
 
-### **Was the Faith Loom Divine?**
+### Was the Faith Loom Divine?
 
 The Loom produced effects indistinguishable from large-scale miracles.
 
 Whether it channeled divine power, collective belief, Orichalcum resonance, coerced life, or all four remains disputed.
 
-### **Did the Loom Cause the First Labyrinths?**
+### Did the Loom Cause the First Labyrinths?
 
 The empire produced numerous self-sustaining magical distortions.
 
 These were not yet the vast, adaptive Labyrinths of later ages, but they demonstrate that reality could become trapped within accumulated law, memory, and command.
 
-### **Why Did the Gods Withdraw?**
+### Why Did the Gods Withdraw?
 
 Imperial theology blamed rebellion.
 
@@ -976,7 +976,7 @@ Later scholars blamed the collapse of a system that had mistaken engineered reso
 
 No explanation accounts for every surviving event.
 
-### **What Survived Sol Oranna?**
+### What Survived Sol Oranna?
 
 Large portions of the lower city remain inaccessible.
 
@@ -1002,7 +1002,7 @@ It was that chains and connection were the same thing.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities**  

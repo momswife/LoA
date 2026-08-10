@@ -19,7 +19,7 @@ tags:
 
 ---
 
-# **Relics, Ruins, & Archaeological Records**
+# Relics, Ruins, & Archaeological Records
 
 ### _What Survived, What Was Recovered, and What the Material Record Refuses to Confirm_
 
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-## **I. Purpose and Scope**
+## I. Purpose and Scope
 
 This archive records the material remains through which Aerathon’s ancient history is tested.
 
@@ -55,7 +55,7 @@ Interpretation remains a separate act.
 
 ---
 
-## **II. Ownership Boundaries**
+## II. Ownership Boundaries
 
 The surrounding divisions answer different questions.
 
@@ -78,23 +78,23 @@ Duplicate ownership is not.
 
 ---
 
-## **III. Relic, Artifact, Instrument, and Regalia**
+## III. Relic, Artifact, Instrument, and Regalia
 
 These terms are not interchangeable.
 
-### **Artifact**
+### Artifact
 
 Any object shaped, altered, selected, or arranged through intentional action.
 
-### **Relic**
+### Relic
 
 An artifact or natural object retaining unusual sacred, magical, mnemonic, legal, or historical significance. A relic need not remain active.
 
-### **Instrument**
+### Instrument
 
 An object whose function can be demonstrated through controlled operation or repeated contextual evidence.
 
-### **Regalia**
+### Regalia
 
 An object used to signify or enact office. Regalia may also be a relic or instrument, but possession of it does not necessarily transmit the office.
 
@@ -106,7 +106,7 @@ The archive classifies by evidence, not owner preference.
 
 ---
 
-## **IV. Ruins Are Layered Events**
+## IV. Ruins Are Layered Events
 
 A ruin is not a civilization frozen at the moment of abandonment.
 
@@ -131,7 +131,7 @@ Every site record therefore distinguishes original fabric, later alteration, mod
 
 ---
 
-## **V. Provenance and Custody**
+## V. Provenance and Custody
 
 **Provenance** is the documented history of where an object came from, where it moved, and under whose control.
 
@@ -155,7 +155,7 @@ Present custody is recorded only where it materially affects conservation, authe
 
 ---
 
-## **VI. Copies, Replicas, and Labyrinth Recurrences**
+## VI. Copies, Replicas, and Labyrinth Recurrences
 
 Aerathon’s material record contains more than originals and forgeries.
 
@@ -176,7 +176,7 @@ They make it a different kind of evidence.
 
 ---
 
-## **VII. Dating Material That Remembers**
+## VII. Dating Material That Remembers
 
 Ordinary archaeological dating assumes matter changes in one direction.
 
@@ -202,7 +202,7 @@ Records therefore date components, interventions, and contexts separately where 
 
 ---
 
-## **VIII. Human Remains and Bound Memory**
+## VIII. Human Remains and Bound Memory
 
 Archaeology does not acquire unrestricted rights over the dead.
 
@@ -226,7 +226,7 @@ Where communities retain a documented relationship to remains or memory, consult
 
 ---
 
-## **IX. The Evidentiary Limits of Regalia**
+## IX. The Evidentiary Limits of Regalia
 
 Ancient regalia attracts modern sovereignty claims.
 
@@ -246,7 +246,7 @@ Modern authority requires a modern basis.
 
 ---
 
-## **X. Comparative Material Spine**
+## X. Comparative Material Spine
 
 | Historical Context | Material Record | Principal Evidentiary Value |
 |---|---|---|
@@ -264,9 +264,9 @@ Modern authority requires a modern basis.
 
 ---
 
-## **XI. Archive Guide**
+## XI. Archive Guide
 
-### **I. Relics & Sacred Instruments**
+### I. Relics & Sacred Instruments
 
 - [[The First Bell-Crown]]
 - [[The Stone Throne]]
@@ -275,7 +275,7 @@ Modern authority requires a modern basis.
 - [[The Concord Sphere of Miras]]
 - [[The Warbell of Korr]]
 
-### **II. Ruins & Archaeological Sites**
+### II. Ruins & Archaeological Sites
 
 - [[The Sunwound Crater]]
 - [[The Prism Vault]]
@@ -284,7 +284,7 @@ Modern authority requires a modern basis.
 - [[The Palace Below Vaelcour]]
 - [[The Cathedral of Harmonium]]
 
-### **III. Tablets, Archives & Material Records**
+### III. Tablets, Archives & Material Records
 
 - [[The Sunwheel Tablets]]
 - [[The Twelve Theses of Unity]]
@@ -293,7 +293,7 @@ Modern authority requires a modern basis.
 - [[The Golden Leaves and Covered Mirrors]]
 - [[The Crucible Oath Tablets]]
 
-### **Additional Records Reserved for Expansion**
+### Additional Records Reserved for Expansion
 
 Future filings should include the Humming Sea Pillars, the Auric Lens of Vinyot, Mirror Forum of Elandeir, Temple of Interwoven Scales, First Petition Door, River Chimes, Ancestor Walls, Sealed Depths, Great Mirrors, Buried Hearths, Royal Necropolis of Marrow Hall, and other material subjects already identified in the preceding archives.
 
@@ -301,7 +301,7 @@ Their mention here does not establish present location, access, authenticity, or
 
 ---
 
-## **XII. Ministry Conclusions**
+## XII. Ministry Conclusions
 
 1. Material survival establishes existence more readily than meaning.
 2. Authentic objects can preserve false, coerced, or politically edited claims.
