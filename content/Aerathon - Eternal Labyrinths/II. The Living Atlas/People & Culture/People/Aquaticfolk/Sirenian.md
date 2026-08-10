@@ -345,6 +345,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 When you regain hit points by spending Hit Dice during a short rest while immersed in clean fresh water, add your Wisdom modifier to one die.
 
+Manatee Sirenians are most strongly associated with warm rivers, springs, estuaries, and sheltered coastal waters. Their detailed knowledge of freshwater change often supports stewardship and navigation, but their unhurried movement should not be mistaken for passivity or consent to displacement.
+
 ### Dugong
 
 **Ability Score Increase.** Your Charisma score increases by 1.
@@ -354,6 +356,8 @@ When you regain hit points by spending Hit Dice during a short rest while immers
 **Seagrass Route.** You always know the direction of the nearest natural coast or healthy aquatic plant bed within 5 miles, provided one exists.
 
 You gain proficiency in Persuasion.
+
+Dugong Sirenians commonly inhabit coasts, lagoons, and broad seagrass routes, with bodies suited to sustained travel between scattered feeding grounds. Many households preserve maps of plant beds and shoreline change across generations, though route knowledge does not determine profession or temperament.
 
 ---
 

@@ -150,6 +150,8 @@ You have advantage on Intelligence (Arcana) checks made to identify portals or e
 
 **Elemental Gifts.** You have resistance to lightning damage, know the _gust_ cantrip, and can hold your breath indefinitely while conscious.
 
+Airborn may manifest through wind-tossed hair, unusually light steps, clouded skin, pressure changes, a carrying voice, or thunder beneath the breath. Their bodies reflect air resonance in many forms, none of which makes them flighty, unreliable, or naturally opposed to settled life.
+
 ### Earthborn
 
 **Ability Score Increase.** Your Strength score increases by 1.
@@ -157,6 +159,8 @@ You have advantage on Intelligence (Arcana) checks made to identify portals or e
 **Size.** Your size is Small or Medium, your choice.
 
 **Elemental Gifts.** You have resistance to acid damage, know the _mold earth_ cantrip, and ignore nonmagical difficult terrain made of earth or stone.
+
+Earthborn may bear mineral skin, crystalline growth, metallic coloration, heavy footfalls, or a quiet awareness of surrounding stone. These signs connect the body to elemental earth without prescribing stubbornness, endurance, craft, or any other personality or profession.
 
 ### Fireborn
 
@@ -166,6 +170,8 @@ You have advantage on Intelligence (Arcana) checks made to identify portals or e
 
 **Elemental Gifts.** You have resistance to fire damage and know the _produce flame_ cantrip.
 
+Fireborn may radiate warmth, shed sparks, carry ember-like eyes, trail smoke, or display hair and markings that move like flame. Safe heat release and environmental care vary by individual; visible fire resonance is not anger and creates no obligation to provide warmth or ignition.
+
 ### Waterborn
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
@@ -173,6 +179,8 @@ You have advantage on Intelligence (Arcana) checks made to identify portals or e
 **Size.** Your size is Small or Medium, your choice.
 
 **Elemental Gifts.** You have resistance to cold damage, know the _shape water_ cantrip, and gain a swimming speed equal to your walking speed.
+
+Waterborn may possess fluid movement, damp or reflective skin, drifting hair, misted breath, or voices carrying the cadence of rain and current. Their resonance can arise from oceans, rivers, ice, storms, or planar inheritance, and does not make them calm, changeable, or emotionally transparent.
 
 ---
 

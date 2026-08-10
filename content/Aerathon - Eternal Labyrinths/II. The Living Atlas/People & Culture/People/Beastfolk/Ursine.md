@@ -338,6 +338,8 @@ You may only retain one spell this way at a time.
 
 **Toughen Up.** When you roll initiative, you may immediately spend a number of Hit Dice up to half your level, minimum 1, to gain that many temporary hit points. These last for 10 minutes.
 
+Brown Bear Ursines possess powerful frames and coats ranging through brown, gold, rust, grey, and near-black across forest, mountain, grassland, and city populations. Their physical resilience supports many ways of life and should not be treated as evidence of aggression or an invitation to absorb danger for others.
+
 ### Polar Bear
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
@@ -348,6 +350,8 @@ You may only retain one spell this way at a time.
 
 When you succeed on a Wisdom saving throw, you gain advantage on your next attack roll or ability check before the end of your next turn.
 
+Polar Bear Ursines commonly possess pale dense fur, broad feet, and bodies adapted to ice, cold coasts, and long crossings between stable ground. Their traditions preserve precise memories of seasonal routes and thinning shelter, while cold tolerance does not make hazardous exposure comfortable or compulsory.
+
 ### Black Bear
 
 **Ability Score Increase.** Your Intelligence score increases by 1.
@@ -357,6 +361,8 @@ When you succeed on a Wisdom saving throw, you gain advantage on your next attac
 **Quiet Recall.** You gain proficiency in History.
 
 When you make an Intelligence (History or Arcana) check related to events you personally witnessed, treat a d20 roll of 9 or lower as a 10.
+
+Black Bear Ursines tend toward compact, agile builds well suited to forests, slopes, climbing, and settlement margins. The registry name identifies a broad hereditary branch rather than a universal coat color, and its members are no more naturally solitary or harmless than other Ursines.
 
 ---
 

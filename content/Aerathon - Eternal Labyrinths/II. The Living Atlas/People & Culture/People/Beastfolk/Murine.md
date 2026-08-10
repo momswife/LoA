@@ -336,6 +336,8 @@ You treat dim light as bright light.
 
 **Collective Magic.** As a reaction, when a creature within 60 feet loses concentration on a spell, you may expend a spell slot equal to or higher than its level to sustain it. The spell continues for its full remaining duration.
 
+Mouse Murines are Small-bodied people with fine facial expression, precise movement, and inherited access to Voiceless Speech. Their silent conversations sustain intimacy and coordination in places built to overlook them, but do not make Mouse communities secretive by nature or grant outsiders permission to decode them.
+
 ### Rat
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
@@ -347,6 +349,8 @@ You treat dim light as bright light.
 Once you use this feature, you cannot use it again until you finish a long rest.
 
 **Survivable.** You can survive twice as long without food or water.
+
+Rat Murines range from compact Small bodies to sturdier Medium frames and inhabit rural, urban, maritime, and subterranean communities throughout Aerathon. Their ability to endure scarcity and repurpose lingering magic reflects generations of adaptation; it does not excuse institutions that expect Rats to survive neglect.
 
 ---
 

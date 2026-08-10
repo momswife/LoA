@@ -154,6 +154,8 @@ Choose one feature from your sublineage below.
 
 **Venomous Bite.** Once per long rest after hitting with a bite, deal an additional `1d6` poison damage and the target must save against poison using DC 8 + your proficiency bonus + your Constitution modifier.
 
+Viper Ophidians include heavy-bodied and slender branches adapted to deserts, forests, rocklands, wetlands, and cultivated country. Their folding fangs and venom require individualized care and clear safety practice; possession of either is a bodily fact, not a statement of threat or intent.
+
 ### Cobra
 
 **Ability Score Increase.** Your Charisma score increases by 1.
@@ -161,6 +163,8 @@ Choose one feature from your sublineage below.
 **Size.** Your size is Medium.
 
 **Hood Display.** As a bonus action, flare your hood; one creature within 10 feet has disadvantage on its next attack against you before your next turn. You may use this trait a number of times equal to your proficiency bonus per long rest.
+
+Cobra Ophidians possess expandable hoods used in communication, ceremony, temperature management, warning, and deliberate display. A raised hood may carry many meanings within different communities, and observers are not entitled to interpret it as aggression without context.
 
 ### Boa or Python
 
@@ -170,6 +174,8 @@ Choose one feature from your sublineage below.
 
 **Constricting Build.** You count as one size larger for grappling and carrying capacity.
 
+Boa and Python Ophidians possess muscular coils and nonvenomous bodies adapted to arboreal, terrestrial, riverine, or burrowing life. Their strength supports movement and self-defense, but does not grant others permission to request restraint, carrying, or constriction labor.
+
 ### Colubrid
 
 **Ability Score Increase.** Your Wisdom score increases by 1.
@@ -177,6 +183,8 @@ Choose one feature from your sublineage below.
 **Size.** Your size is Medium.
 
 **Quick Coil.** Your walking speed increases by 5 feet, and you can move through the space of a creature one size larger than you without treating it as difficult terrain.
+
+Colubrid Ophidians form the lineage’s broadest and most physically varied registry branch, including many slender, swift, climbing, burrowing, and water-associated peoples. Most lack medically significant venom, though exceptions exist, and no single habitat or cultural tradition defines the branch.
 
 ---
 

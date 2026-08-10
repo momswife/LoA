@@ -336,6 +336,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 You know the `druidcraft` cantrip.
 
+Green Turtle Testudinans are adapted to warm shallows, seagrass meadows, and long migrations between feeding and nesting waters. Their communities often maintain environmental records across immense distances, while rejecting the assumption that patient travel means resistance to change.
+
 ### Loggerhead
 
 **Ability Score Increase.** Your Strength score increases by 1.
@@ -346,6 +348,8 @@ You know the `druidcraft` cantrip.
 
 When you hit an object with it, you deal double damage.
 
+Loggerhead Testudinans commonly possess broad heads, powerful beaks, and sturdy shells suited to open coasts and hard-shelled food. Their physical force is a feeding and survival adaptation, not evidence of aggression or consent to demolition work.
+
 ### Leatherback
 
 **Ability Score Increase.** Your Constitution score increases by 1.
@@ -353,6 +357,8 @@ When you hit an object with it, you deal double damage.
 **Size.** Your size is Medium.
 
 **Cold Route.** You have resistance to cold damage and ignore the effects of extreme cold while immersed in water.
+
+Leatherback Testudinans possess ridged, comparatively flexible shells and bodies capable of crossing cold, deep, and widely separated waters. Their far-ranging routes connect communities that surface maps often treat as unrelated, making safe migration corridors a central concern in many Leatherback households.
 
 ### Hawksbill
 
@@ -363,6 +369,8 @@ When you hit an object with it, you deal double damage.
 **Reef Passage.** Moving through nonmagical difficult terrain caused by coral, rock, wreckage, or aquatic vegetation costs you no extra movement.
 
 You gain proficiency in Investigation.
+
+Hawksbill Testudinans commonly possess narrow beaks and maneuverable bodies suited to complex reefs, wrecks, and rocky passages. Their intricately patterned shells have made them targets of exploitative trade, so many communities maintain strict laws governing images, shed material, and bodily access.
 
 ---
 

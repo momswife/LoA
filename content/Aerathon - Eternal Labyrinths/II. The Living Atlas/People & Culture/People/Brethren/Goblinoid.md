@@ -156,6 +156,8 @@ Choose Goblin, Hobgoblin, or Bugbear from the recognized sublineages below. Your
 
 **Fury of the Small.** When you damage a creature larger than you, you can deal extra damage equal to your proficiency bonus. You may use this trait a number of times equal to your proficiency bonus per long rest.
 
+Goblins are Small, quick-moving Goblinoids with highly varied features and long histories in warrens, night markets, mobile camps, and settlements built within neglected infrastructure. Their size does not indicate childhood, and their talent for escape and improvisation does not imply dishonesty.
+
 ### Hobgoblin
 
 **Ability Score Increase.** Your Intelligence score increases by 1.
@@ -163,6 +165,8 @@ Choose Goblin, Hobgoblin, or Bugbear from the recognized sublineages below. Your
 **Size.** Your size is Medium.
 
 **Fey Gift.** You can take the Help action as a bonus action a number of times equal to your proficiency bonus per long rest. From 3rd level, the assisted creature also gains temporary hit points equal to your proficiency bonus.
+
+Hobgoblins are generally Medium, broad-framed people whose communities range from disciplined fellowships to farms, workshops, theaters, and extended households. Some reclaim traditions of coordinated service, but no Hobgoblin is born an officer, strategist, or subordinate within a supposed natural hierarchy.
 
 ### Bugbear
 
@@ -173,6 +177,8 @@ Choose Goblin, Hobgoblin, or Bugbear from the recognized sublineages below. Your
 **Long-Limbed.** Your reach is 5 feet greater when you make a melee attack on your turn.
 
 **Quiet Giant.** You gain proficiency in Stealth.
+
+Bugbears are tall, long-limbed Goblinoids whose reach and quiet movement suit forests, ruins, confined approaches, and many ordinary crafts. Their size and stillness are routinely used to cast them as threats or heavy laborers, neither of which follows from lineage.
 
 ---
 

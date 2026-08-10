@@ -344,6 +344,8 @@ You have a climbing speed of 15 feet on non-sheer surfaces and do not require yo
 
 **Quiet Authority.** When you use the Help action, the assisted creature gains advantage on one additional roll of the same type before the start of your next turn.
 
+Sheep Ovines commonly possess dense wool or hair, varied horns, and bodies suited to sustained travel across open or cultivated country. Many Sheep communities value attentive coordination and support that does not seize control, though soft speech and communal instinct do not indicate docility.
+
 ### Goat
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
@@ -353,6 +355,8 @@ You have a climbing speed of 15 feet on non-sheer surfaces and do not require yo
 **Sure-Footed Climber.** You ignore difficult terrain caused by loose stone, rubble, or steep natural inclines.
 
 When you fall at least 10 feet, you can reduce the falling damage by an amount equal to your proficiency bonus × 5.
+
+Goat Ovines possess strong balance, divided hooves, and highly varied coats and horns suited to mountains, cliffs, scrub, farms, and vertical cities. Their confidence on difficult terrain is frequently misrepresented as recklessness; curiosity does not erase judgment or another person’s boundaries.
 
 ### Ram
 
@@ -365,6 +369,8 @@ When you fall at least 10 feet, you can reduce the falling damage by an amount e
 The DC equals `8 + your proficiency bonus + your Strength modifier`.
 
 You can use this feature a number of times equal to your proficiency bonus per long rest.
+
+Ram Ovines are a heavy-framed, strongly horned branch whose inherited builds favor forceful movement and close defense. In Ministry usage, **Ram** names a recognized physiological sublineage rather than a gender, and Ram Ovines of every identity may inherit its crowns and charge traditions.
 
 ---
 

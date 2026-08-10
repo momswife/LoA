@@ -342,6 +342,8 @@ Once you use this trait, you cannot use it again until you finish a long rest.
 
 You may take the Disengage action as a bonus action a number of times equal to your proficiency bonus per long rest.
 
+Seal Pinnipedans commonly possess compact, streamlined bodies and sensitive whiskers suited to cold coasts, ice margins, quiet coves, and open water. Their communities use vocal, tactile, rhythmic, and wake-based communication, and should not be presumed timid merely because some traditions favor quiet gathering.
+
 ### Sea Lion
 
 **Ability Score Increase.** Your Charisma score increases by 1.
@@ -352,6 +354,8 @@ You may take the Disengage action as a bonus action a number of times equal to y
 
 You can use this trait a number of times equal to your proficiency bonus per long rest.
 
+Sea Lion Pinnipedans are often strong through the shoulders and forelimbs, allowing comparatively upright and agile movement across shore structures. Their carrying voices support harbor coordination and public assembly, but volume does not confer authority or require a person to perform.
+
 ### Walrus
 
 **Ability Score Increase.** Your Strength score increases by 1.
@@ -361,6 +365,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 **Tusks.** Your tusks are natural weapons that deal `1d6 + your Strength modifier` piercing damage.
+
+Walrus Pinnipedans possess heavy frames, exceptionally sensitive whiskers, and tusks that may assist with display, defense, movement, craft, or individual identity. Their communities are strongly represented along cold shelves and ice routes, though neither size nor tusks assign a martial or laboring role.
 
 ---
 

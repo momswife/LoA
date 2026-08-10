@@ -15,7 +15,7 @@
 **Registry Scope:** Aerial Peoples, Recognized Lineages, and Cultural Identity  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage and Individual Capability  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** 8th Cycle, 3388 A.D.
 
 ---
 
@@ -33,7 +33,7 @@ Avianfolk are not simply birdfolk.
 
 The classification includes:
 
-- Feathered peoples capable of sustained flight
+- Feathered peoples capable of powered flight, whether sustained or brief
     
 - Waterfowl and ocean-ranging aerial peoples
     
@@ -197,7 +197,7 @@ None of these determines personality, morality, faith, or profession.
 
 ## IV. Recognized Avianfolk Lineages
 
-The Living Atlas currently recognizes ten major Avianfolk lineages.
+The Living Atlas currently recognizes eleven major Avianfolk lineages.
 
 ### [[Raptorid|Raptorid]]
 
@@ -246,6 +246,14 @@ Water-linked feathered Avianfolk descended from ducks, geese, swans, loons, greb
 Anatid cultures are shaped by migration, layered belonging, communal defense, shore rights, returning routes, and the sharing of burdens within a formation.
 
 They possess major populations beneath the North Gale and South Zephyr, with smaller West Cyclone communities along migration and trade routes.
+
+### [[Galliformid|Galliformid]]
+
+Ground-adapted feathered Avianfolk descended from ptarmigan, grouse, partridges, quail, pheasants, turkeys, peafowl, junglefowl, guineafowl, and related peoples.
+
+Galliformid traditions frequently concern practical shelter, clear warning, communal readiness, chosen visibility, and the relationship between sudden flight and knowledgeable movement upon the ground.
+
+They possess major populations beneath the North Gale and South Zephyr, with established communities throughout all Five Greater Regions.
 
 ### [[Pelagid]]
 
@@ -516,8 +524,8 @@ The Wind territories follow ancient settlement, migration, and aerial routes rat
 
 | Wind               | Common Values                                                       | Principal Regions                                                                                                                                                                                                                                                                                                                                                                                                                         | Common Lineages                                                                        |
 | ------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **North Gale**     | Endurance, preservation, duty, preparation, ancestral continuity    | [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria\|Oria]] and northern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Allemance\|Allemance]]                                                                                                                                                                                                                                        | [[Strigid]], [[Raptorid]], [[Corvid]], [[Anatid]]                                     |
-| **South Zephyr**   | Abundance, cultivation, kinship, hospitality, beauty, communal life | Southern and southeastern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Vinyot\|Vinyot]], Parts of [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Al'Ar\|Al'Ar]], and [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Bat'yan\|Bat'yan]]                                                                                                                                          | [[Limnid]], [[Psittacid]], [[Passerid]], [[Petaurid]]                                  |
+| **North Gale**     | Endurance, preservation, duty, preparation, ancestral continuity    | [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria\|Oria]] and northern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Allemance\|Allemance]]                                                                                                                                                                                                                                        | [[Strigid]], [[Raptorid]], [[Corvid]], [[Anatid]], [[Galliformid]]                    |
+| **South Zephyr**   | Abundance, cultivation, kinship, hospitality, beauty, communal life | Southern and southeastern [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Vinyot\|Vinyot]], Parts of [[II. The Living Atlas/Modern Geopolitics/Regional Politics/Al'Ar\|Al'Ar]], and [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Bat'yan\|Bat'yan]]                                                                                                                                          | [[Limnid]], [[Psittacid]], [[Passerid]], [[Petaurid]], [[Galliformid]]                |
 | **East Tempest**   | Courage, oath, challenge, transformation, decisive action           | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria\|Arneria]] and parts of [[II. The Living Atlas/Modern Geopolitics/Sub-Regional Politics/Bat'yan\|Bat'yan]]                                                                                                                                                                                                         | [[Raptorid]], [[Limnid]], [[Psittacid]], [[Passerid]], [[Chiropterid]]                 |
 | , **West Cyclone** | Movement, independence, exploration, adaptation, return             | Portions of [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance\|Allemance]], [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot\|Vinyot]], [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar\|Al'Ar]], & [[II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Glasrún\|Glasrún]] |                                                                                        |
 

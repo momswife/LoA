@@ -348,6 +348,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 
 You have advantage on Dexterity (Sleight of Hand) checks made to manipulate several small objects as part of the same task.
 
+Octopus Cephalopodans commonly possess broad, highly flexible arms and strong tactile awareness suited to dens, reefs, workshops, and confined structures. Their ability to coordinate several limbs supports distinctive arts and crafts, but does not make their time or bodies communal equipment.
+
 ### Squid
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
@@ -358,6 +360,8 @@ You have advantage on Dexterity (Sleight of Hand) checks made to manipulate seve
 
 You can use this trait a number of times equal to your proficiency bonus per long rest.
 
+Squid Cephalopodans tend toward streamlined mantles, strong fins, and forceful jet movement suited to open water and rapid changes in depth. Many communities preserve long pelagic routes, though speed and mobility do not imply impatience or a dislike of settled life.
+
 ### Cuttlefish
 
 **Ability Score Increase.** Your Charisma score increases by 1.
@@ -367,6 +371,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 **Living Camouflage.** You can attempt to Hide while lightly obscured by natural terrain, water, shadow, or a surface large enough to cover most of your body.
 
 You gain proficiency in Stealth.
+
+Cuttlefish Cephalopodans often possess broad mantles, rippling fins, and exceptionally detailed chromatic patterning. Their camouflage may express privacy, communication, ceremony, play, or environmental adaptation; concealment is not evidence of dishonest intent.
 
 ---
 

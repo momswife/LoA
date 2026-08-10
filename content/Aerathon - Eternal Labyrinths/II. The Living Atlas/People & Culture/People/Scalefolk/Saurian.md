@@ -151,6 +151,8 @@ Choose one adaptation from your sublineage: Anole Climb, Skink Sprint, Iguana Cr
 
 **Anole Climb.** You gain a climbing speed equal to your walking speed. When you take the Dash action while climbing, difficult surfaces do not cost additional movement that turn.
 
+Anole Saurians commonly possess broad climbing pads, slender frames, and dewlaps or other highly visible signaling structures. Their color and display practices vary by family and region, and no bodily change should be assigned an emotional meaning without the individual’s context.
+
 ### Skink
 
 **Ability Score Increase.** Your Dexterity score increases by 1.
@@ -158,6 +160,8 @@ Choose one adaptation from your sublineage: Anole Climb, Skink Sprint, Iguana Cr
 **Size.** Your size is Small.
 
 **Skink Sprint.** When you take the Dash action, your walking speed increases by an additional 10 feet until the end of the turn. You may use this feature a number of times equal to your proficiency bonus per long rest.
+
+Skink Saurians tend toward smooth scales, streamlined bodies, and compact limbs suited to rapid travel through ground cover, stone gaps, burrows, and dense cities. Some branches possess reduced limbs or unusually long bodies, requiring equipment shaped to the individual rather than a single assumed form.
 
 ### Iguana
 
@@ -167,6 +171,8 @@ Choose one adaptation from your sublineage: Anole Climb, Skink Sprint, Iguana Cr
 
 **Iguana Crest.** Gain proficiency in Intimidation or Performance. As a reaction when a creature enters your reach, impose disadvantage on its next opportunity attack before your next turn.
 
+Iguana Saurians commonly possess robust frames, strong tails, and crests, dewlaps, or dorsal spines used in identity and public display. Island, forest, desert, and urban communities have distinct needs, and an extended crest or dewlap does not inherently signal aggression.
+
 ### Agamid
 
 **Ability Score Increase.** Your Constitution score increases by 1.
@@ -174,6 +180,8 @@ Choose one adaptation from your sublineage: Anole Climb, Skink Sprint, Iguana Cr
 **Size.** Your size is Small or Medium, your choice.
 
 **Agamid Endurance.** You have advantage on saving throws against exhaustion caused by heat or forced marches and gain proficiency in Survival.
+
+Agamid Saurians include bearded, spined, sail-backed, and other heat-adapted branches associated with dry country, rocky uplands, open woodland, and sun-built cities. Their thermoregulation and endurance reflect environmental inheritance rather than stoicism, severity, or indifference to discomfort.
 
 ---
 

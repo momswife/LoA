@@ -269,6 +269,8 @@ You have advantage on checks made to locate small, hidden, or valuable objects, 
 
 When identifying magical objects or deciphering runes, you may use Sleight of Hand in place of Arcana or Investigation, provided you have physically touched the item.
 
+Named Kobolds with Hoarder’s Luck develop an exacting awareness of small objects, hidden joins, and the personal histories carried by possessions. The adaptation describes focused attention rather than compulsive theft, and many such Kobolds keep strict rules distinguishing discovery, salvage, borrowing, and ownership.
+
 ### Squatters of the Forgotten
 
 If you spend at least 8 hours within a ruin, sewer, Labyrinth margin, or abandoned structure, you gain the following benefits:
@@ -277,9 +279,13 @@ If you spend at least 8 hours within a ruin, sewer, Labyrinth margin, or abandon
 - You detect the nearest active source of magic within 30 feet, as if by _detect magic_
 - You learn whether the structure was once sacred, arcane, or mundane in origin
 
+Squatters of the Forgotten become deeply attuned to ruins and discarded structures after making them into lived places rather than passing camps. The registry title is reclaimed by some and rejected by others; the adaptation conveys environmental familiarity, not legal ownership or permission to displace existing residents.
+
 ### Adopted Origin
 
 A named Kobold may select one regional trait from any other Beastfolk species, representing where they emerged, were raised, or were claimed. This choice reflects social adoption rather than ancestry and is subject to DM and Ministry verification.
+
+Named Kobolds with an Adopted Origin locate belonging in the people and places that recognized, raised, or welcomed them rather than in an imagined biological purity. The adaptation records lived kinship without erasing earlier warren relationships or making an adopted community responsible for proving the Kobold’s personhood.
 
 ---
 

@@ -404,6 +404,8 @@ The DC equals `8 + your proficiency bonus + your Charisma modifier`.
 
 You can use this trait a number of times equal to your proficiency bonus per long rest.
 
+Angler Abyssans commonly possess a luminous lure extending from the brow, crown, or face and bodies adapted to patient movement through deep darkness. Their lights may serve as language, wayfinding, art, or controlled attention; they do not indicate deceitful intent or an obligation to guide strangers.
+
 ### Lantern
 
 **Ability Score Increase.** Your Intelligence score increases by 1.
@@ -413,6 +415,8 @@ You can use this trait a number of times equal to your proficiency bonus per lon
 **Signal Sequence.** You can communicate simple concepts silently through bioluminescent sequence to any creature within 60 feet that understands Abyssan Light.
 
 You learn the `light` cantrip. Intelligence is your spellcasting ability.
+
+Lantern Abyssans carry bioluminescent structures capable of producing intricate sequences rather than a single simple glow. Many trace kinship and safe passage through answering-light networks, while retaining strict customs about when a bodily signal is public and when it is private.
 
 ### Gulper
 
@@ -425,6 +429,8 @@ You learn the `light` cantrip. Intelligence is your spellcasting ability.
 When you hit a creature no more than one size larger than you with this attack, you may attempt to grapple it as a bonus action.
 
 You can attempt this bonus-action grapple a number of times equal to your proficiency bonus per long rest.
+
+Gulper Abyssans possess expandable mouths, flexible tissues, and other adaptations suited to long intervals between reliable food. The capacity of their bodies is routinely exaggerated into stories of endless hunger, though appetite, diet, and restraint vary as widely among Gulpers as among any other people.
 
 ---
 

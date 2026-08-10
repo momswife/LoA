@@ -318,6 +318,8 @@ Crafting a pair requires 8 hours, 50 gp, and a DC 15 Dexterity (glassblower’s 
 
 **Quick Fix.** You know the `mending` cantrip. Intelligence is your spellcasting ability.
 
+Mole Ligonines possess compact digging bodies, highly sensitive touch, and eyes whose needs vary from ordinary low-light accommodation to specialized lenses. Their underground communities have produced influential traditions of spatial study, repair, and soil stewardship, though no Mole is obligated to serve as an engineer or excavator.
+
 ### Armadillo
 
 **Ability Score Increase.** Your Strength score increases by 1.
@@ -331,6 +333,8 @@ Crafting a pair requires 8 hours, 50 gp, and a DC 15 Dexterity (glassblower’s 
 **Defensive Ball.** When you take the Dash, Disengage, or Dodge action, reduce nonmagical bludgeoning, piercing, and slashing damage you take by 3 until the start of your next turn.
 
 When you Dash in a straight line, your speed is doubled for that movement.
+
+Armadillo Ligonines possess layered protective plates and strong limbs suited to digging, running, and crossing exposed ground. Curling or bracing is a bodily defense rather than a sign of emotional withdrawal, and many Armadillos resent being treated as movable cover for other people.
 
 ### Sloth
 
@@ -347,6 +351,8 @@ When you Dash in a straight line, your speed is doubled for that movement.
 **Long Arms.** Your unarmed strikes have a reach of 5 feet greater than normal.
 
 **Slow and Steady.** If you didn’t move or use a bonus action or reaction since your last turn, the first Strength or Dexterity ability check or attack you make on your turn is made with advantage.
+
+Sloth Ligonines commonly possess long arms, curved claws, and bodies adapted to secure movement through canopies and other vertical spaces. Their deliberate pace conserves effort and conceals considerable strength; it does not indicate laziness, dullness, or indifference to urgency.
 
 ---
 
