@@ -3,7 +3,7 @@
 
 ---
 
-# **Standardized Mission & Bounty Ranking System (SMB-RS)**
+# Standardized Mission & Bounty Ranking System (SMB-RS)
 
 ### _Ministerial Classification for All External Contracts, Bounties, Field Missions & Off-Labyrinth Operations_
 
@@ -16,13 +16,13 @@ This ensures fair compensation, appropriate delver deployment, and public trust 
 
 ---
 
-# **I. Mission Rank Structure**
+## I. Mission Rank Structure
 
 Each non-labyrinth bounty or mission is placed into one of **six ranks**, determined by risk metrics, magical volatility, monster presence, and geopolitical ramifications.
 
 ---
 
-## **Rank E — Minor Field Tasks**
+### Rank E — Minor Field Tasks
 
 **Risk:** Negligible  
 **Threat:** Mundane creatures, petty theft, basic patrols  
@@ -42,7 +42,7 @@ D-Rank and above.
 
 ---
 
-## **Rank D — Localized Hazards**
+### Rank D — Localized Hazards
 
 **Risk:** Mild  
 **Threat:** Minor spellcasters, weak monsters, small criminal groups  
@@ -62,7 +62,7 @@ D-Rank delvers with clean UDMI score.
 
 ---
 
-## **Rank C — High-Risk Field Missions**
+### Rank C — High-Risk Field Missions
 
 **Risk:** Moderate  
 **Threat:** Skilled foes, magical anomalies, monster packs  
@@ -82,7 +82,7 @@ C-Rank or mixed C/D teams under supervision.
 
 ---
 
-## **Rank B — Critical Threat Contracts**
+### Rank B — Critical Threat Contracts
 
 **Risk:** Severe  
 **Threat:** Monster elites, dangerous criminals, relic-active foes  
@@ -102,7 +102,7 @@ B-Rank delvers or above.
 
 ---
 
-## **Rank A — National-Level Bounties**
+### Rank A — National-Level Bounties
 
 **Risk:** Extreme  
 **Threat:** Army-level monsters, major political targets, relic catastrophes  
@@ -123,7 +123,7 @@ Ministerial oversight mandatory.
 
 ---
 
-## **Rank S — World-Risk Missions**
+### Rank S — World-Risk Missions
 
 **Risk:** Existential  
 **Threat:** Convergence-touched foes, catastrophic relic activations, divine anomalies  
@@ -144,7 +144,7 @@ ABA blackout protocols commonly used.
 
 ---
 
-# **II. Mission Classification Metrics**
+## II. Mission Classification Metrics
 
 Each mission is assigned rank based on six criteria:
 
@@ -160,7 +160,7 @@ These metrics are weighed by the **Mission Assignment Sphere (MAS)**—a Ministe
 
 ---
 
-# **III. Contract Issuers**
+## III. Contract Issuers
 
 Approved issuers include:
 
@@ -179,7 +179,7 @@ Unauthorized issuers attempting to hire delvers are guilty of **Contract Launder
 
 ---
 
-# **IV. Rewards & Payout Structures**
+## IV. Rewards & Payout Structures
 
 Payout is based on:
 
@@ -207,7 +207,7 @@ Rank E missions award basic wages unless otherwise incentivized.
 
 ---
 
-# **V. Ethical Restrictions**
+## V. Ethical Restrictions
 
 Delvers must **not**:
 
@@ -226,7 +226,7 @@ All ethical violations apply under the broader **Ethical Delving Guidelines**.
 
 ---
 
-# **VI. Role of Divine Oculi in External Missions**
+## VI. Role of Divine Oculi in External Missions
 
 Though primarily stationed in Labyrinths, Oculi may deploy to high-ranking missions to:
 
@@ -243,33 +243,33 @@ Oculi presence instantly upgrades mission monitoring to **Integrity Tier-4**.
 
 ---
 
-# **VII. Special Provisions for N-Class Teams**
+## VII. Special Provisions for N-Class Teams
 
 Due to their Convergence significance, N-Class teams (e.g., **Unit N-7**) follow modified SMB-RS protocols.
 
-### **1. Rank B–S Missions Are Auto-Authorized**
+#### 1. Rank B–S Missions Are Auto-Authorized
 
 N-Class teams may take these without standard approval delays.
 
-### **2. Convergence Hazard Monitoring**
+#### 2. Convergence Hazard Monitoring
 
 Mission rank may _escalate_ mid-operation if N-Class resonance alters threat profile.
 
-### **3. Arcanet Core Oversight**
+#### 3. Arcanet Core Oversight
 
 All N-Class external missions are monitored directly by the Core, tracking emergent patterns.
 
-### **4. Fame & UDMI Decoupling**
+#### 4. Fame & UDMI Decoupling
 
 N-Class teams do not gain Fame Engine bonuses from external missions to prevent destabilizing influence.
 
-### **5. Ministerial Escort Allowed but Not Required**
+#### 5. Ministerial Escort Allowed but Not Required
 
 N-Class teams can operate autonomously except in political missions.
 
 ---
 
-# **VIII. Why the SMB-RS Matters**
+## VIII. Why the SMB-RS Matters
 
 Without this system:
 
@@ -292,7 +292,7 @@ It preserves order in a world where danger often walks freely.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (External Operations Bureau)**  

@@ -1,11 +1,11 @@
-# **MDO FIELD MEMO — LOOSE MONSTER ALERT**
+# MDO FIELD MEMO — LOOSE MONSTER ALERT
 
 **Ministry of Delving Operations**  
 **Living Atlas Division — External Operations Bureau**
 
 ---
 
-## **I. Mission Rank**
+## I. Mission Rank
 
 **Rank C+ — High-Risk Field Mission (Veteran Classification)**  
 Category: **Labyrinth Spillover — Confirmed**
@@ -14,7 +14,7 @@ _(Rank C+, used for exceptionally dangerous C-tier missions, sits between C and 
 
 ---
 
-## **II. Threat Designation**
+## II. Threat Designation
 
 Loose Monster — **Heavy Impact Predator**  
 Location: **Northwall Timber Expanse, Vinyot Frontier**  
@@ -22,7 +22,7 @@ Confirmed Labyrinth Origin: **Floor 8 (Moss Cavern Sectors)**
 
 ---
 
-## **III. Description**
+## III. Description
 
 The target is a **Pinehide Mauler**, a thick-framed labyrinth beast characterized by:
 
@@ -50,7 +50,7 @@ A mild corruption signature has been detected.
 
 ---
 
-## **IV. Mission Objectives**
+## IV. Mission Objectives
 
 1. **Track and neutralize** the Pinehide Mauler.
     
@@ -63,7 +63,7 @@ A mild corruption signature has been detected.
 
 ---
 
-## **V. Compensation**
+## V. Compensation
 
 - **Base Payout:** 180 gp
     
@@ -78,7 +78,7 @@ Further bonus may be issued if a breach point is confirmed and reported.
 
 ---
 
-## **VI. Clearance Requirements**
+## VI. Clearance Requirements
 
 **Eligible Delvers:**
 
@@ -100,7 +100,7 @@ Unauthorized attempts constitute **Contract Interference (§7-B)**.
 
 ---
 
-## **VII. Addenda**
+## VII. Addenda
 
 • Mild corruption present—**corpse must be submitted for Registry analysis.**  
 • A **post-mission breach inspection** is required.  
@@ -109,7 +109,7 @@ Unauthorized attempts constitute **Contract Interference (§7-B)**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (External Operations Bureau)**  

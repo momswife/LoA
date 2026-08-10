@@ -1,9 +1,9 @@
-# **MDO FIELD MEMO — LOOSE MONSTER ALERT**
+# MDO FIELD MEMO — LOOSE MONSTER ALERT
 
 **Ministry of Delving Operations**  
 **Living Atlas Division — External Operations Bureau**
 
-## **I. Mission Rank**
+## I. Mission Rank
 
 **Rank C — High-Risk Field Mission**  
 Classification per SMB-RS (Standardized Mission & Bounty Ranking System)  
@@ -11,7 +11,7 @@ Category: **Labyrinth Spillover — Confirmed**
 
 ---
 
-## **II. Threat Designation**
+## II. Threat Designation
 
 Loose Monster — **Shadow Predator Variant**  
 Location: **Southridge Farmlands, Vinyot March**  
@@ -19,7 +19,7 @@ Probable Labyrinth Origin: **Floor 12 (Lower Umbral Paths)**
 
 ---
 
-## **III. Description**
+## III. Description
 
 The entity is identified as a **Gloomback Strider**, a cold-leeching predator native to the dim, frost-laden halls of Floor 12. It is known for:
 
@@ -38,7 +38,7 @@ No evidence of major curse bloom, though **trace corruption signatures** have be
 
 ---
 
-## **IV. Objectives**
+## IV. Objectives
 
 1. **Track and neutralize** the Gloomback Strider.
     
@@ -51,7 +51,7 @@ No evidence of major curse bloom, though **trace corruption signatures** have be
 
 ---
 
-## **V. Compensation**
+## V. Compensation
 
 - **Base Payout:** 120 gp
     
@@ -66,7 +66,7 @@ Additional compensation may be awarded if a breach point is discovered and repor
 
 ---
 
-## **VI. Clearance Requirements**
+## VI. Clearance Requirements
 
 **Eligible Delvers:**
 
@@ -88,7 +88,7 @@ Unauthorized participation constitutes **Contract Interference (§7-B)**.
 
 ---
 
-## **VII. Addenda**
+## VII. Addenda
 
 • Trace corruption detected; **corpse must undergo Ministerial inspection** within 12 hours of subdual.  
 • Confirm Floor-12 origin via frost-echo sampling and Oculi resonance check.  
@@ -97,7 +97,7 @@ Unauthorized participation constitutes **Contract Interference (§7-B)**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (External Operations Bureau)**  

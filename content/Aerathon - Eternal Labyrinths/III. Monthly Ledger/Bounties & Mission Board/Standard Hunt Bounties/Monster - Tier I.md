@@ -1,18 +1,18 @@
-# **MDO FIELD MEMO — EXTERNAL BOUNTY CONTRACT**
+# MDO FIELD MEMO — EXTERNAL BOUNTY CONTRACT
 
 **Ministry of Delving Operations**  
 **Living Atlas Division — External Operations Bureau**
 
 ---
 
-## **I. Mission Rank**
+## I. Mission Rank
 
 **Rank D — Localized Hazard Contract**  
 Classification per SMB-RS (Standardized Mission & Bounty Ranking System)
 
 ---
 
-## **II. Threat Designation**
+## II. Threat Designation
 
 Loose Monster — Confirmed Wildland Spillover  
 Location: **Brookhollow Grain Road, East Vinyot**  
@@ -20,7 +20,7 @@ Probable Labyrinth Origin: **Floor 3 (Bridge Rot Sector)**
 
 ---
 
-## **III. Description**
+## III. Description
 
 The target is a **Chasm Gnawer**, a subterranean vermin-beast native to the brittle plank-bridges and unstable cliff-pockets of the Labyrinth’s early floors.
 
@@ -40,7 +40,7 @@ No corruption signatures or curse residues detected.
 
 ---
 
-## **IV. Mission Objectives**
+## IV. Mission Objectives
 
 1. **Track and capture or neutralize** the Chasm Gnawer.
     
@@ -53,7 +53,7 @@ No corruption signatures or curse residues detected.
 
 ---
 
-## **V. Compensation**
+## V. Compensation
 
 - **Base Payout:** 40 gp
     
@@ -68,7 +68,7 @@ Payment issued upon confirmation via Divine Oculi or Ministerial witness.
 
 ---
 
-## **VI. Clearance Requirements**
+## VI. Clearance Requirements
 
 **Eligible Delvers:**
 
@@ -88,7 +88,7 @@ Payment issued upon confirmation via Divine Oculi or Ministerial witness.
 
 ---
 
-## **VII. Addenda**
+## VII. Addenda
 
 • No signs of mutation, curse bloom, or relic-induced behavior.  
 • Creature likely displaced by minor labyrinthic floor-tilt event.  
@@ -97,7 +97,7 @@ Payment issued upon confirmation via Divine Oculi or Ministerial witness.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (External Operations Bureau)**  
