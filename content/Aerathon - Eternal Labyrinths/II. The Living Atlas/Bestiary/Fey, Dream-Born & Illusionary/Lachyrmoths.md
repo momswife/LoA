@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Fey/Dreamborn/Illusionary Phenomena Archive)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Faith Oversight & Emotional Resonance Studies)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Emotion-Born Entity Record / Grade-II Hazard Verified_
 
 ---

@@ -46,8 +46,8 @@ During equinox storms, the entire gorge glows as though filled with aurorae.
 |**1127**|First mapped by explorer Kethra Vellorin; reports “voices beneath the water.”|Initial lore dissemination.|
 |**2289**|Founding of Bardic Evermeet; formal study of sonic magic begins.|Establishment of music-magic curriculum.|
 |**2740**|“Resonance Flood” — over-chanting collapsed southern cliff; created secondary echo basin.|300+ casualties; foundation of safety code.|
-|**3512**|Discovery of Harmonic Caverns; resonance readings reach divine frequency tier (M-13).|Sealed for controlled access.|
-|**3725**|Universal Symphony recorded for first time using Ministry phonograph crystal.|Data archived; audio induces lucid dreaming.|
+|**3166**|Discovery of Harmonic Caverns; resonance readings reach divine frequency tier (M-13).|Sealed for controlled access.|
+|**3379**|Universal Symphony recorded for first time using Ministry phonograph crystal.|Data archived; audio induces lucid dreaming.|
 ---
 ## IV. Cultural & Religious Significance
 
@@ -109,7 +109,7 @@ MDO directive mandates decibel limits for all performances within canyon bounds.
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
-|**Crystal Phonograph of Δ-40**|Captures 3725 Symphony; playback induces lucid reverie lasting 3 min.|B|
+|**Crystal Phonograph of Δ-40**|Captures 3379 Symphony; playback induces lucid reverie lasting 3 min.|B|
 |**Lyre of Falling Stars**|Instrument forged from canyon crystal; plays itself during storms.|A|
 |**Echo Pendant**|Stores one spoken phrase for release upon shattering.|C|
 |**Conductor’s Baton of Evermeet**|Focus channeling collective performance into single spell.|A|

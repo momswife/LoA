@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)  
 **Primary Compiler:** Researcher Falyn Onarra (Beastfolk Sociology & Adaptation Studies)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics), Curator Rook-of-Rings (Relics Registrar & Tharos Rings Specialist)  
-**Date of Filing:** 3730 A.D. (Age of Spectacle)  
+**Date of Filing:** 3384 A.D. (Age of Spectacle)\
 **Document Class:** _Natural Fauna Record / Verified Authenticity_
 
 ---

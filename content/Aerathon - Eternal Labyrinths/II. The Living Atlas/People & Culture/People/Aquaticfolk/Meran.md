@@ -33,6 +33,8 @@ The oldest Meran records describe several independent transformations rather tha
 
 The **Two-Water Accord** recognizes both salt and fresh Meran polities and forbids ocean crowns from claiming river-tailed peoples as colonies.
 
+The Accord also established that changing salinity does not end civic identity. Families displaced between river, estuary, and sea may adapt bodily care without becoming subjects of the nearest water court. Modern Meran historians use this principle when surface dams and magical tides force a community into water different from that named in its oldest record.
+
 ---
 
 ## III. Body and Environmental Needs
@@ -49,6 +51,8 @@ Meran households include current-families, spawning and adoptive kin, reef block
 
 The **Guest Current** requires hosts to state water depth, salinity, temperature, privacy, and exit access before a Meran enters a residence or institution.
 
+Surface-water partnerships pair a dry-space household with a water-maintenance circle, but they are not guardianships. The Meran participant controls movement, guests, and keys to their channel or pool. Assistance becomes accessible hospitality only when the person can enter, leave, and refuse it without forfeiting housing.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ The **Guest Current** requires hosts to state water depth, salinity, temperature
 Meran cultures admire adaptability between environments, voice, memory of currents, hospitality, political patience, and the right to withdraw beneath public notice.
 
 Their shadow is ceremonial burden. People with striking fins or voices may be required to represent an entire polity, while ordinary maintenance and disability remain unseen.
+
+Modern Meran politics also disputes who pays for water access. Land authorities often classify filled channels as luxury construction, while Merans describe them as streets, air, and sanitation at once. Reformers seek public water routes maintained as civic infrastructure without granting the state ownership of every body that depends upon them.
 
 ---
 

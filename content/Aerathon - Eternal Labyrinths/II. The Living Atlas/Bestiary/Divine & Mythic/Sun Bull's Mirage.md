@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Mythic Fauna & Environmental Phenomena)  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Environmental Anomalies)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Researcher Falyn Onarra (Beastfolk Sociology), Archivist Yelna Stonevoice (Cultural Songkeeping)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Ethereal Fauna Record / Grade-III Observation Verified_
 
 ---

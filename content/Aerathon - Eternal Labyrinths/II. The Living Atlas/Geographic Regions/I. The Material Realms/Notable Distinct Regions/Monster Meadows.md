@@ -43,10 +43,10 @@ Geomantic readings detect a rhythmic vibration — a **“pulse”** — beneath
 |**Date (A.D.)**|**Event**|**Recorded Casualties**|
 |---|---|---|
 |**2891**|Major Rift awakening. “The Bleeding Sky.” Over 300 delvers lost; first verified Riftborn flora.|≈ 310|
-|**3594**|“Silver Birth” — manifestation of cervitaur kin who later founded North-Quest Vigil.|Unknown|
-|**3688**|“The Cleansing Crusade.” Renowned slayer **[Parent’s Name — classified]** leads expedition to ‘purge’ the Rift. Operation fails catastrophically; entire band consumed by aberrant light. Hero’s remains never recovered.|87 confirmed dead|
-|**3719**|Minor tremor cluster. Rift hum registered at 8.6 bpm, lowest interval since records began.|0|
-|**3723**|Ongoing “Pulse Ascension.” Geomantic spikes suggest imminent re-opening within two years. Rift Watch begins evacuation drills.|Pending|
+|**3248**|“Silver Birth” — manifestation of cervitaur kin who later founded North-Quest Vigil.|Unknown|
+|**3342**|“The Cleansing Crusade.” Renowned slayer **[Parent’s Name — classified]** leads expedition to ‘purge’ the Rift. Operation fails catastrophically; entire band consumed by aberrant light. Hero’s remains never recovered.|87 confirmed dead|
+|**3373**|Minor tremor cluster. Rift hum registered at 8.6 bpm, lowest interval since records began.|0|
+|**3377**|Ongoing “Pulse Ascension.” Geomantic spikes suggest imminent re-opening within two years. Rift Watch begins evacuation drills.|Pending|
 Following the **Cleansing Crusade**, a memorial cairn known as the **Red Horn Marker** was erected at the eastern watchtower.  
 Pilgrims still visit yearly, believing the fallen hunter’s spirit wards the Rift from total awakening.  
 The Ministry regards this belief as “emotionally stabilizing but empirically unsubstantiated.”
@@ -101,7 +101,7 @@ Rift Watch catalogues 219 unique lifeforms; 86 show hybridization markers tracea
     
 - **Access:** Restricted to MDO field teams and licensed geomancers.
     
-- **Research Operations:** _Monster Meadows Pulse Survey_ (ongoing since 3711 A.D.).
+- **Research Operations:** _Monster Meadows Pulse Survey_ (ongoing since 3365 A.D.).
     
 - **Containment Protocol:** If pulse interval drops below 8 per minute, initiate Evacuation Tier 2 and seal Sleeping Mouth with aether cement.
     

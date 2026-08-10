@@ -34,6 +34,8 @@ Old accounts place Goblinoid ancestors in Fey territories later conquered by a w
 
 The **Three Doors Compact** rejects those assigned roles. Each door bears a different height and shape; all open into the same council chamber. The compact is a declaration that coordination does not require hierarchy by body.
 
+Goblinoid historians compare conquest records with household inventories, children’s counting games, and repairs found beneath official floors. These sources show continuity where imperial chronicles claimed only military occupation. Cooking niches, hidden drains, patched stairways, and reused cloth marks reveal families preserving civic life inside systems designed to see them only as units of war.
+
 ---
 
 ## III. Body and Sensory Life
@@ -50,6 +52,8 @@ Goblinoid households include warrens, street councils, disciplined fellowships, 
 
 The **Useful Ruin Principle** grants first consideration to people already maintaining an allegedly abandoned place. It emerged after cities repeatedly displaced Goblin neighborhoods only after residents made dangerous infrastructure livable.
 
+The principle does not romanticize unsafe housing. It requires authorities to recognize maintenance, offer residents ownership or negotiated relocation, and provide repairs before redevelopment profit is calculated. Hobgoblin contract circles and Bugbear night watches helped turn the custom into enforceable municipal practice in several cities.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -57,6 +61,8 @@ The **Useful Ruin Principle** grants first consideration to people already maint
 Goblinoid communities admire improvisation, mutual aid, precision under pressure, humor, hospitality without ceremony, and loyalty that remains chosen.
 
 Internal debate centers on discipline. Some reclaim coordinated martial traditions as collective protection. Others hear every uniform as the return of the conquered order.
+
+Younger councils often separate **formation** from **rank**. A group may train to move with precision while rotating command, publishing the limits of an officer’s authority, and preserving a clear right to leave. Critics consider even this too close to the old structure; supporters argue that abandoning coordination would surrender a hard-won skill to the conquerors who misused it.
 
 ---
 

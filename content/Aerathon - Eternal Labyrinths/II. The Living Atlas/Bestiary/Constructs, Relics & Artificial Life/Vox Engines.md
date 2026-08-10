@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Relic Constructs & Cognitive Automatons Archive)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Spatial Phenomena Lead)  
 **Advisory Editors:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Curator Rook-of-Rings (Relics Registrar), Archivist Yelna Stonevoice (Historian of Echo-Law)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Arcane Construct Record / Grade-IV Containment Verified_
 
 ---

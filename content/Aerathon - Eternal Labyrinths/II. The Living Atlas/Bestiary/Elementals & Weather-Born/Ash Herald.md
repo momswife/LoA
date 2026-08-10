@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Theological Aberration & Cataclysm Residue Archive)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Spatial Phenomena Lead)  
 **Advisory Editors:** Priest-Analyst Thera Daan (Faith Oversight), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Archivist Yelna Stonevoice (Echo-Law Historian)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Divine Aberration Record / Grade-IV Containment Verified_
 
 ---
@@ -73,7 +73,7 @@ The Herald leaves **footprints of gray ash** that evaporate into floating runes.
 
 Sightings correlate with catastrophic immolations:
 
-- **Verges of Ash:** Primary congregation site — seven manifestations since 3700.
+- **Verges of Ash:** Primary congregation site — seven manifestations since 3354.
     
 - **Ruins of Temptest’s Wake:** Appears each midsummer, tracing circles of soot on glass dunes.
     

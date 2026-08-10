@@ -1,5 +1,5 @@
 > _“You can hear it beneath the waves — the sound of the ocean remembering its own heartbeat.”_  
-> — **Researcher Falyn Onarra**, _Deepwater Expedition Log, Cycle 3727: The Namiran Drop_
+> — **Researcher Falyn Onarra**, _Deepwater Expedition Log, Cycle 3381: The Namiran Drop_
 
 ---
 
@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Marine Phenomena & Leviathanic Entities Archive)  
 **Primary Compiler:** Researcher Falyn Onarra (Beastfolk Sociology & Adaptation Studies)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Curator Rook-of-Rings (Relics Registrar)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Natural Leviathan Record / Grade-V Containment Verified_
 
 ---
@@ -70,9 +70,9 @@ Known to circle the Namiran Trench and southern Louvain current.
 Hydro-rune satellites suggest pressure pulses emanate from at least three locations — likely different segments of one body.  
 Occasional surface manifestations include:
 
-- **The Glass Whorl (3712):** A 40-mile circular vortex of boiling brine.
+- **The Glass Whorl (3366):** A 40-mile circular vortex of boiling brine.
     
-- **The Singing Fog (3720):** Low mist that vibrated with heartbeat frequency for nine days.
+- **The Singing Fog (3374):** Low mist that vibrated with heartbeat frequency for nine days.
     
 
 ---
@@ -92,7 +92,7 @@ Attempts to map its full shape via aetheric sonar resulted in instant instrument
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
-|**Mana Starvation**|Long-term leyline disruption causes hibernation; detected after the 3728 solar flare.|
+|**Mana Starvation**|Long-term leyline disruption causes hibernation; detected after the 3382 solar flare.|
 |**Resonant Interference**|Counter-pulse broadcast at inverse frequency can repel pressure wave for minutes.|
 |**Celestial Silence**|Radiant divine light (“Echo of Lathander”) disrupts bio-aether currents; unpredictable reaction.|
 |**Core Exposure**|If forced to surface, inner heat ignites oxygen, creating instant steam detonation.|

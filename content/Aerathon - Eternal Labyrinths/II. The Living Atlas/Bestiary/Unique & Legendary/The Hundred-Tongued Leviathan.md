@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Legendary Monsters & Apex Threats Archive)  
 **Primary Compiler:** Warden Cyra Hesh (Environmental Hazards & Oceanic Megafauna Division)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Cognitive Hazard Forensics), Archivist Yelna Stonevoice (Echo-Law Historian), Dr. Odrin Sallow (Magitech Resonance)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Legendary Entity Record / Grade-VI Cataclysmic Hazard_
 
 ---

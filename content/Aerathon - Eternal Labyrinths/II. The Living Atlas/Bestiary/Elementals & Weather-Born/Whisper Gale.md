@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Atmospheric & Aural Phenomena Registry)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law & Cultural Songkeeping)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Researcher Falyn Onarra (Beastfolk Sociology)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Elemental Phenomenon Record / Grade-II Observation Verified_
 
 ---

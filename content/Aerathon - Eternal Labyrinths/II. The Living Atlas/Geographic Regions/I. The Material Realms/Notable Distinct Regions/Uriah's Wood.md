@@ -46,9 +46,9 @@ All geomantic tools cease functioning within its heart; only emotional state app
 |---|---|---|
 |**2129**|First written account by Oric Lodge trappers: “forest where grief sleeps.”|Circulated as folklore.|
 |**2914**|Appearance of “Uriah” recorded; offered healing to widowed chieftain of Clan Grimhollow.|Beginning of cultic devotion.|
-|**3410**|Disappearances of seven Ministry botanists during mapping mission.|Investigation suspended.|
-|**3667**|“Silver Reprieve” phenomenon — mass remission of depressive illness in nearby settlements.|Correlated with light surge over the Wood.|
-|**3721**|Unverified manifestation of Uriah; conversation transcript logged by Agent Miren Vos.|Ongoing review.|
+|**3064**|Disappearances of seven Ministry botanists during mapping mission.|Investigation suspended.|
+|**3321**|“Silver Reprieve” phenomenon — mass remission of depressive illness in nearby settlements.|Correlated with light surge over the Wood.|
+|**3375**|Unverified manifestation of Uriah; conversation transcript logged by Agent Miren Vos.|Ongoing review.|
 ---
 ## IV. The Sorcerer Uriah
 
@@ -96,12 +96,12 @@ Clerical rites forbid harvest of Wood flora without consent; transgressors repor
 
 ## VII. Documented Encounters
 
-> _3721 A.D., Agent Miren Vos — Audio Log Excerpt_  
+> _3375 A.D., Agent Miren Vos — Audio Log Excerpt_\
 > “He asked why I carried so much stone in my chest.  
 > I said they were names. He smiled. ‘Then plant them.’  
 > When I looked down, my hands were full of seeds.”
 
-Recovered seeds later germinated into saplings bearing faces faintly reminiscent of lost delvers from the 3660s.  
+Recovered seeds later germinated into saplings bearing faces faintly reminiscent of lost delvers from c. 3314–3323 A.D.\
 Containment authorized; samples stored in Cryovault-42.
 
 ---

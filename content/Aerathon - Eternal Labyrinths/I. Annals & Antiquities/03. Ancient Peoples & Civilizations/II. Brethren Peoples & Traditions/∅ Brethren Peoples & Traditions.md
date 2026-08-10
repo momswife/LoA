@@ -287,6 +287,7 @@ It is not a command that the living remain unchanged.
 
 ## Related Records
 
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/V. Historical Classification & Reconstructed Peoples/01. From Ancient Kinship to Modern Folk Classification|From Ancient Kinship to Modern Folk Classification]]
 - [[The First Making]]
 - [[The Creation of the Brethren]]
 - [[The Creation of the Beastfolk]]
@@ -306,7 +307,7 @@ It is not a command that the living remain unchanged.
 - [[Education, Craft & Civic Life]]
 - [[Brethren Relations with Beastfolk]]
 - [[Beastfolk Kinships]]
-- **Shared Customs & Ways** _(planned archive)_
+- **Shared Customs & Ways** — maintained in the adjacent records beginning with [[Birth, Bond, & Burial]]
 - [[∅ Brethren|Modern Brethren Records]]
 
 ---

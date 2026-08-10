@@ -1,6 +1,6 @@
 > _“They walk as if following a horizon only they can see —  
 > eyes full of someone else’s reflection.”_  
-> — **Archivist Yelna Stonevoice**, _Wandering Echoes of the Forgotten Faiths, Cycle 3728_
+> — **Archivist Yelna Stonevoice**, _Wandering Echoes of the Forgotten Faiths, Cycle 3382_
 
 ---
 
@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law Historian & Dissonant Memory Research)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Priest-Analyst Thera Daan (Faith Oversight), Inspector Jao “Greyglass” Vell (Forensic Thanatomancy)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Wandering Echo-Undead Record / Grade-III Hazard_
 
 ---

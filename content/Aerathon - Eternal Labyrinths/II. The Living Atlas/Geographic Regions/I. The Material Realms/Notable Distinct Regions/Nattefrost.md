@@ -47,8 +47,8 @@ Average surface temperature: −68 °C. Wind velocity exceeds 90 knots during po
 |**1061**|Expedition of the Oric Lodges; first records of “singing snow.”|9 of 12 lost.|
 |**2230**|Establishment of Station Epsilon for geomantic core drilling.|Abandoned after time drift anomalies.|
 |**2905**|“Icewake Event”: discovery of frozen ruins beneath 200 ft of glacier.|Artifacts recovered, unidentified script.|
-|**3620**|Partial thaw exposes pre-Labyrinthal structures; investigation halted after auditory hallucinations.|Site resealed.|
-|**3726**|Latest probe by drone-relay. All transmissions cease at coordinate N 89° 22′ E 14° 01′.|Presumed atmospheric interference.|
+|**3274**|Partial thaw exposes pre-Labyrinthal structures; investigation halted after auditory hallucinations.|Site resealed.|
+|**3380**|Latest probe by drone-relay. All transmissions cease at coordinate N 89° 22′ E 14° 01′.|Presumed atmospheric interference.|
 ---
 ## IV. Phenomena
 

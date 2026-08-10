@@ -42,6 +42,8 @@ Some Leshials know their cultivator as parent, teacher, gardener, former owner, 
 
 Attempts to cultivate new Leshials succeed unpredictably. Many celebrated “methods” have produced only ordinary plants, magical hazards, or dependent growth that never becomes a person.
 
+Garden records are therefore written with two separate duties: care for any life deliberately brought forth, and recognize personhood when independent preference emerges. The first duty does not depend on awakening. The second cannot be delayed merely because a cultivator dislikes what the new person chooses.
+
 ---
 
 ## III. Body and Sensory Life
@@ -62,6 +64,8 @@ Leshial households are garden circles, seed families, pot caravans, conservatory
 
 Portable Leshial communities often trade decorated vessels and folded soil-cloths, allowing members to carry home substrate without pretending home is only dirt.
 
+Seed families may be biological, cultivated, adopted, or commemorative. Sharing a cutting can mean reproduction, healing, a gift of tissue, or nothing beyond horticultural care; the meaning belongs to the participants. Modern contracts forbid laboratories from assuming that viable tissue is unclaimed reproductive material.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -69,6 +73,8 @@ Portable Leshial communities often trade decorated vessels and folded soil-cloth
 Leshial thought frequently distinguishes **purpose** from **use**. A use may be assigned from outside; purpose must be inhabited or chosen.
 
 Modern debate concerns deliberate cultivation. Some communities welcome gardeners who help new Leshials emerge. Others fear population programs, commercial seed ownership, or children designed for work. Most agree that creating favorable conditions gives responsibility, never possession.
+
+A related dispute concerns cultivated traits. Drought tolerance, fragrance, medicinal sap, and ornamental color can be useful or beloved, yet corporations increasingly seek exclusive rights to reproduce them. Leshial councils answer that a bodily feature may enter a voluntary craft tradition, but no patent can own a living lineage.
 
 ---
 

@@ -36,6 +36,8 @@ Batrachian traditions begin in many marshes. The oldest common story describes a
 
 The **Drowned Boundary Cases** document wetland communities displaced because maps recorded only the dry season.
 
+Later cases required a **whole-season map** showing flood, drought, spawning water, burrows, raised paths, and the routes used when ordinary ground disappears. Batrachian historians consider these maps records of responsibility rather than ownership. A community’s claim is strongest where its members continued care through the season other authorities ignored.
+
 ---
 
 ## III. Body and Environmental Needs
@@ -52,6 +54,8 @@ Households include choruses, burrow neighborhoods, tree-platform circles, spawni
 
 A chorus is a civic practice as often as music. The **Answered Voice** rule requires public calls for participation to leave audible space for refusal, dissent, and nonvocal response.
 
+Choruses may assemble for flood warning, court testimony, mourning, courtship, art, or neighborhood location. Membership in one does not imply participation in another. Visual signs, water vibration, written marks, and designated quiet witnesses protect people who cannot or do not wish to answer vocally.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -59,6 +63,8 @@ A chorus is a civic practice as often as music. The **Answered Voice** rule requ
 Batrachian cultures admire responsiveness, transformation, humor, environmental honesty, patience through seasonal change, and voices used to locate one another.
 
 Their shadow is compulsory visibility. Quiet members may be accused of abandoning the chorus; transformed adults may be expected to narrate private bodily history.
+
+Modern debate focuses on metamorphosis records. Physicians value developmental histories, while employers and broadcasters use them to question identity or manufacture inspirational stories. Batrachian advocates support private continuity records controlled by the person, with no presumption that an earlier form is more innocent, authentic, or available for public discussion.
 
 ---
 

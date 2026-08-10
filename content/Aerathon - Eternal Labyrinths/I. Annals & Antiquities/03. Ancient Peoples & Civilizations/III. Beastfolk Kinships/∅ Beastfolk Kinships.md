@@ -247,6 +247,7 @@ It is to show where later certainty exceeded the evidence.
 
 ## Related Records
 
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/V. Historical Classification & Reconstructed Peoples/01. From Ancient Kinship to Modern Folk Classification|From Ancient Kinship to Modern Folk Classification]]
 - [[The Creation of the Beastfolk]]
 - [[The Creation of the Brethren]]
 - [[Brethren Peoples & Traditions]]

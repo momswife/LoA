@@ -37,6 +37,8 @@ The symbol now marks consensual networks, public fungal clinics, and homes in wh
 
 Population estimates are unreliable because one Mycelial may maintain several fruiting bodies while several individuals may share one substrate. Even the broadest estimates place living communities among Aerathon’s smallest recognized peoples.
 
+The Open Ring also shapes archival practice. A memory contributed to a network record must retain an exit condition: a date of deletion, a named keeper, or a method by which the contributor can withdraw access. Mycelial historians consider an eternal archive without a living consent process to be a sealed ring, however benevolent its founders intended it to be.
+
 ---
 
 ## III. Body and Sensory Life
@@ -57,6 +59,8 @@ Network membership is often governed by **three permissions**: permission to con
 
 Kinship may follow shared substrate without implying shared thought. Two people can grow from one bed and remain as distinct as any siblings.
 
+Network households appoint **edge keepers** whose task is to notice when invitation becomes pressure. Edge keepers do not police thought or decide who belongs. They maintain quiet rooms, disconnected routes, and ordinary ways to leave so that refusal does not require a public rupture.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -64,6 +68,8 @@ Kinship may follow shared substrate without implying shared thought. Two people 
 Mycelial philosophy treats decay as transformation without insisting that loss is good. Decomposition can nourish new life and still be grief.
 
 Debate centers upon civic networks. Advocates see voluntary sensory commons as profound mutual aid; critics warn that employers, states, and delver guilds will turn connection into monitoring. Both agree that refusal must remain practical, not merely legal.
+
+The hardest cases involve shared emergencies. A network can spread warning faster than speech, but an alarm may carry fear, pain, or memories the receiver did not choose. Current protocols favor the least intimate signal capable of protecting life and require deliberate reconnection after the crisis rather than assuming emergency access remains open.
 
 ---
 

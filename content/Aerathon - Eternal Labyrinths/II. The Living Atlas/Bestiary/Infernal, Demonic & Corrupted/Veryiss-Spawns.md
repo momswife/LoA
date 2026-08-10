@@ -17,7 +17,7 @@ aliases:
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Curse-Lineage Analyst)  
 **Advisory Editors:** Priest-Analyst Thera Daan (Faith Oversight), Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Echo-Law Historian)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Curse-Aberrant Record / Grade-V Combat & Cognitive Hazard_
 
 ---

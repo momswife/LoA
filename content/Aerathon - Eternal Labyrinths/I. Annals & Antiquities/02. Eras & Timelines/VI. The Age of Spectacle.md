@@ -13,10 +13,10 @@
 **Consulting Authorities:** Lt. Salvia Korrin, Director Halin Drauve, Researcher Falyn Onarra, Magistrate Talar Shellmark, Inspector Jao “Greyglass” Vell  
 **Original Predictive Memorandum:** 3297 A.D., late Age of Delving  
 **Formal Era Classification:** 3318 A.D., Age of Spectacle  
-**Current Consolidated Revision:** 3388 A.D.  
+**Current Consolidated Revision:** Late Redfall, 3388 A.D.\
 **Document Class:** _Era Dossier / Grade-I Contemporary Chronology_  
 **Official Duration:** **3300 A.D.–Present**  
-**Current Year:** **3388 A.D.**  
+**Current Date:** **Late Redfall, 3388 A.D.**\
 **Preceded By:** The Age of Delving  
 **Succeeded By:** No officially recognized era  
 **Ministry Classification:** _Ontological-Media and Observational Epoch_
@@ -1010,7 +1010,7 @@ It is an actively defended condition.
 
 ---
 
-## XVII. The Present Year: 3388 A.D.
+## XVII. The Present: Late Redfall, 3388 A.D.
 
 The Age of Spectacle has lasted only eighty-eight years.
 
@@ -1123,7 +1123,7 @@ It changes when the old explanation can no longer contain the world.
 |**c. 3350–3370 A.D.**|Stage-pattern architecture and self-documenting breaches increase sharply.|Grade-I Reconstruction|
 |**3362 A.D.**|The Arcane Breach Division formally adopts the Mirror-Class designation.|Grade-II Reconstruction|
 |**c. 3374 A.D.**|Conflicting authenticated versions of the same expeditions become a recognized archival category.|Grade-II Reconstruction|
-|**3388 A.D.**|Present year; N-Class activity, observer feedback, and archive instability intensify.|Grade-I Anchor|
+|**Late Redfall, 3388 A.D.**|Present date; N-Class activity, observer feedback, and archive instability intensify.|Grade-I Anchor|
 
 ### Historical Assessment
 
@@ -1205,7 +1205,7 @@ Like every power Aerathon has inherited, it will be judged by who controls it, w
 > **Contemporary Record Bureau**  
 > **Document Class:** _Era Dossier / Grade-I Contemporary Chronology_  
 > **Official Duration:** 3300 A.D.–Present  
-> **Current Revision:** 3388 A.D.  
+> **Current Revision:** Late Redfall, 3388 A.D.\
 > **Primary Compilation:** Archivist Yelna Stonevoice  
 > **Breach and Observational Review:** Lt. Salvia Korrin  
 > **Broadcast and Guild-Economic Review:** Director Halin Drauve  

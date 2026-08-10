@@ -104,7 +104,17 @@ Around them stood dozens of lesser kingdoms, sacred principalities, temple domai
 
 ---
 
-## VI. Civilizations and Their Peoples
+## VI. The Imperial Order
+
+The [[The Empire of Law and Light|Empire of Law and Light]] absorbed the High Thrones and many lesser realms at the beginning of the Age of Chains.
+
+It preserved Crown titles and ceremonies while transferring sovereignty to a central theocracy. Systems once used to test rulers were expanded across whole populations through sacred law, the Registry of Souls, Faith Density, and the Faith Loom.
+
+The empire became the last great civilization to govern much of the pre-Labyrinth world through one connected political order. Its fall did not erase its roads, records, institutions, or assumptions about who possessed the authority to classify another life.
+
+---
+
+## VII. Civilizations and Their Peoples
 
 A civilization is not synonymous with an ancestry.
 
@@ -120,7 +130,7 @@ The present index concerns the civilizations themselves: the structures people b
 
 ---
 
-## VII. The End of the Elder World
+## VIII. The End of the Elder World
 
 The elder civilizations did not fall in a single catastrophe.
 
@@ -146,6 +156,7 @@ They do not belong to it.
 - [[The Sun Court of Vaelcour]]
 - [[Lesser Crowns & Sacred Realms]]
 - [[River Kingdoms of Old Louvain]]
+- [[The Empire of Law and Light]]
 - [[Brethren Peoples & Traditions]]
 - [[Beastfolk Kinships]]
 - [[The Age of Crowns]]

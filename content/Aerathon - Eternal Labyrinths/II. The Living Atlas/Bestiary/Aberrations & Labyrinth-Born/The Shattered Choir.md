@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law & Cultural Songkeeping)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Keeper Aeska Mourn-Wind (Lament Literature Specialist)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Aberration Record / Grade-IV Containment Verified_
 
 ---

@@ -39,6 +39,8 @@ The **Long Heat Roads** were maps of condition rather than fixed pavement. Each 
 
 Modern route captains preserve this practice in delving, freight, migration, and disaster planning.
 
+Heat-road ledgers are updated by the people who actually complete a route. A prestigious surveyor cannot overrule a carrier who found the final shelter empty or the water brackish. The custom gives maintenance testimony equal weight with mapmaking and helps explain why Varanian logistics values reserve more than impressive arrival times.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The custom of **arrival with reserve** requires travelers and leaders to plan en
 
 Shared basking space is governed through queue, medical need, age, work schedule, and explicit hospitality rather than dominance.
 
+Large households often appoint a **reserve keeper** for a journey or public event. This is not always the strongest traveler. The keeper watches water, recovery time, alternate paths, and the needs people are reluctant to announce. Authority ends when the group returns, preventing logistical competence from hardening into permanent rank.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Varanian cultures commonly value endurance, direct speech, chemical memory, prep
 Modern debate concerns power. Public pride in great bodies and difficult routes can challenge historic shame, but it can also reproduce the expectation that every Varanian should intimidate, protect, carry, or endure.
 
 Rest without strategic purpose is a growing cultural movement.
+
+Its advocates organize warm rooms where nothing is repaired, guarded, carried, or planned. Critics call the practice an imported luxury; supporters answer that a culture of reserve must include the right not to spend every reserve on someone else. The disagreement is especially sharp in freight families whose survival has long depended on visible usefulness.
 
 ---
 

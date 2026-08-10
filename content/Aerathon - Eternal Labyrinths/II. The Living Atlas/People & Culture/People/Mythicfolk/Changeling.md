@@ -39,6 +39,8 @@ After the Sealed Names action, surviving records were closed or destroyed by cou
 
 No physical form is legally more authentic than another. The phrase **true face** is rejected in current Ministry practice.
 
+The sealed archives were not all destroyed. Some remain under community-controlled protection because they contain evidence of stolen children, confiscated property, and officials who ordered exposure campaigns. Changeling keepers distinguish preserving proof from reopening surveillance: a harmed person may seek the record, while curiosity and genealogy do not create access.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **mirror compact** lets a person specify which names and forms may be connec
 
 Some Changelings maintain one public identity. Others live through several enduring social selves without treating any as deception.
 
+Identity houses help members coordinate the practical consequences. They can hold mail under several chosen names, witness which relationships may be connected, and provide confirmation during medical emergencies without revealing unrelated forms. The house is trusted because it knows less than a central registry, not more.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Changeling cultures frequently value chosen presentation, privacy, improvisation
 Modern debate concerns stable documentation. Some activists seek identity papers that change easily; others fear that formal flexibility will increase surveillance. All reject magical testing imposed only upon mutable people.
 
 Shapechanging does not provide another person’s memories, habits, authority, or consent.
+
+The deepest modern disagreement concerns impersonation law. Some Changelings favor strict limits to protect a community already blamed for every uncertain face. Others warn that uniquely severe laws turn ordinary fraud into lineage policing. Both positions reject collective suspicion; the dispute is over whether equal law can be achieved before institutions stop treating mutability itself as probable cause.
 
 ---
 

@@ -33,6 +33,8 @@ Ancient shell middens once described as food waste contain inscribed molts, fami
 
 The **Soft-Shell Armistices** protected molting communities from predation and warfare during known vulnerable seasons. Modern law extends the principle to medical privacy and employment leave.
 
+The armistices succeeded because rival tidal councils agreed that bodily renewal could not remain safe if every absence invited conquest. Modern Crustacean jurists cite them as proof that protection need not depend on trust or affection. Clear limits, neutral witnesses, and consequences for exploitation can preserve dignity between communities that otherwise remain opponents.
+
 ---
 
 ## III. Body and Environmental Needs
@@ -49,6 +51,8 @@ Households include molt circles, reef blocks, burrow towns, armored caravans, cr
 
 The **New Shell Silence** grants a person control over visitors and public duties after molting. Care is offered through prepared water, mineral food, shelter, and the absence of demands.
 
+Molt circles are chosen care networks rather than permanent castes. A member may keep watch during one season and request distance during the next. Shed material is handled according to instructions given beforehand, especially when the person will be unable to communicate comfortably during recovery.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ The **New Shell Silence** grants a person control over visitors and public dutie
 Crustacean cultures admire preparation, structural thinking, boundaries, patience, renewal, and strength that acknowledges vulnerability.
 
 Their shadow is armor expectation. A person known for defense may be denied fear, softness, or the right to withdraw while recovering.
+
+Current labor campaigns address **shell depreciation**: industries that pay for a worker’s armored capacity while treating long-term wear as natural loss. Crustacean unions argue that cracked plates, mineral depletion, and failed molts are occupational injuries when caused by work. Natural armor changes the equipment required; it does not transfer the cost of danger to the body.
 
 ---
 

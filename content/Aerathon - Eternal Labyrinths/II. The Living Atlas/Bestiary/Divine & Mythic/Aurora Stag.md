@@ -1,5 +1,5 @@
 > _“The Aurora Stag does not run from the dawn — it carries it, stride by stride, across the snow.”_  
-> — **Researcher Falyn Onarra**, _Expedition Notes: Nattefrost Leyfront, 3729 A.D._
+> — **Researcher Falyn Onarra**, _Expedition Notes: Nattefrost Leyfront, 3383 A.D._
 
 ---
 
@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)  
 **Primary Compiler:** Researcher Falyn Onarra (Beastfolk Sociology & Adaptation Studies)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Natural Fauna Record / Verified Authenticity_
 
 > [!warning] NORTHERN RECORD LIMITATION

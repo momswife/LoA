@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Legendary Monsters & Apex Threats Archive)  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Prism Anomalies & Reflective Entities Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Echo-Law Historian), Dr. Odrin Sallow (Magitech Optics & Dimensional Refraction)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Legendary Entity Record / Grade-VI Catastrophic Hazard_
 
 ---

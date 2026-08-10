@@ -36,6 +36,8 @@ Wetland and spring records describe Urodelan communities tending waters believed
 
 The **No Second Wound Law** forbids inflicting a repeat injury merely because the first one healed visibly.
 
+The law grew from more than deliberate experiments. Employers once returned workers to the same hazardous task after skin and limb regrowth, treating visible closure as proof that no lasting harm remained. Urodelan healers documented changed sensation, exhaustion, fear, and lost function, establishing that recovery must be judged by the person rather than the observer.
+
 ---
 
 ## III. Body and Environmental Needs
@@ -52,6 +54,8 @@ Households include spring circles, lake neighborhoods, laboratory-reform groups,
 
 Care traditions emphasize consent checkpoints because a healing process can outlast the circumstances under which treatment began.
 
+Spring circles assign a **future voice** before prolonged care. This trusted person does not decide for the patient; they remind healers what limits, hopes, and exit conditions were stated while communication was easy. Authority ends when the patient resumes direct control or appoints someone else.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -59,6 +63,8 @@ Care traditions emphasize consent checkpoints because a healing process can outl
 Urodelan cultures admire renewal, patience, curiosity, medical honesty, adaptability, and the courage to name permanent change.
 
 Their shadow is recovery performance. People may be praised for healing until they feel forbidden to grieve what was lost.
+
+Current debate concerns commercial regrowth research. Some Urodelans participate proudly and regard careful study as shared medicine. Others point to consent forms signed under debt, injury, or employer pressure. Community clinics now separate treatment from recruitment so receiving care does not create an obligation to become research material.
 
 ---
 

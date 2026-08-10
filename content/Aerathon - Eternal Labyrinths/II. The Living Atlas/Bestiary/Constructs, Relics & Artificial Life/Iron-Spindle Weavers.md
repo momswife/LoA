@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Industrial Constructs & Adaptive Automatons Archive)  
 **Primary Compiler:** Curator Rook-of-Rings (Relics Registrar & Tharos Rings Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Researcher Falyn Onarra (Beastfolk Adaptation Studies)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Arcane Construct Record / Grade-II Containment Verified_
 
 ---

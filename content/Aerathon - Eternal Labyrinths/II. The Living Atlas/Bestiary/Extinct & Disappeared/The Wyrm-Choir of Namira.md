@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Leviathanic Phenomena Archive)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Faith Oversight & Divine Residue Analysis)  
 **Advisory Editors:** Researcher Falyn Onarra (Beastfolk Sociology), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Lt. Salvia Korrin (Arcane Breach Liaison)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Anthropological Extinction Record / Grade-III Verified_
 
 ---

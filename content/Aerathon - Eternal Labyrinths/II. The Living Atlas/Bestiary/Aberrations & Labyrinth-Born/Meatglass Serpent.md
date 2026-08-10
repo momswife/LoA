@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Spatial Phenomena Lead)  
 **Advisory Editors:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Curator Rook-of-Rings (Relic Containment), Archivist Yelna Stonevoice (Cultural Songkeeping)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Aberration Record / Grade-III Containment Verified_
 
 ---
@@ -67,7 +67,7 @@ Post-feeding behavioral shifts often include mimicry of victim’s voice or gest
 Primarily localized in **lower Monster Meadows**, where heat, moisture, and ambient relic energy foster glass-fusion ecosystems.  
 Secondary sightings confirmed in flooded mines beneath **Porta Strega**, suggesting subterranean channel connection between rift systems.
 
-Ministry sonar from 3729 indicates at least **four living specimens** exceeding 40 ft in length within the main labyrinth chamber known as the “Cradle Vein.”
+Ministry sonar from 3383 indicates at least **four living specimens** exceeding 40 ft in length within the main labyrinth chamber known as the “Cradle Vein.”
 
 ---
 

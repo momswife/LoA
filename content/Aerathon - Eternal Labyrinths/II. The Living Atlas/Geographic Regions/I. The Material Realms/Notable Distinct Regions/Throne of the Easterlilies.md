@@ -52,8 +52,8 @@ Temporal drift tests show a consistent five-second delay between cause and echo 
 |**842**|First sighting by the Namiran explorer Tarelle Voss; ship _Auric Star_ lost after entering the storm wall.|Total loss.|
 |**1649**|Aarakocra storm-diver order records the “White Heart of the East Wind.”|No approach achieved.|
 |**2798**|MDO attempted Orbital Survey via Skyforge satellites. All images erased upon capture.|Data corruption.|
-|**3611**|_Voyage of the Serin’s Grace_: crew claims brief landfall and returns with lily pollen that neutralized magic for 13 days.|Containment breach; pollen sealed.|
-|**3720 – 3725**|Current series of controlled scrying projections conducted by Lt. Korrin. All terminate at 14.7 seconds exposure with sensory blanking.|Ongoing.|
+|**3265**|_Voyage of the Serin’s Grace_: crew claims brief landfall and returns with lily pollen that neutralized magic for 13 days.|Containment breach; pollen sealed.|
+|**3374 – 3379**|Current series of controlled scrying projections conducted by Lt. Korrin. All terminate at 14.7 seconds exposure with sensory blanking.|Ongoing.|
 No direct landing has been verified since the Age of Collapse. Only fragments of the Serin’s Grace’s log remain, inscribed in melted glass.
 
 ---
@@ -105,7 +105,7 @@ Those who return silent are considered “wind-witnessed” — spiritually scar
     
 - **Current Projects:**
     
-    - _Operation White Silence_ (3724 A.D. – Present): remote-drone study of atmospheric null-field.
+    - _Operation White Silence_ (3378 A.D. – Present): remote-drone study of atmospheric null-field.
         
     - _Lily Codex Translation_: Keeper Mourn-Wind compiling oral lore of Aarakocra storm-divers.
         
@@ -118,7 +118,7 @@ Those who return silent are considered “wind-witnessed” — spiritually scar
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
-|**Petal of Serin**|Translucent lily petal recovered 3611 A.D.; absorbs magic on contact.|A|
+|**Petal of Serin**|Translucent lily petal recovered 3265 A.D.; absorbs magic on contact.|A|
 |**Windless Hourglass**|Two-chamber device that measures silence instead of time.|B|
 |**Songless Horn**|Coral instrument from Aarakocra pilgrim; emits no sound yet disperses clouds.|C|
 Artifacts stored in Louvain Vault #103 under joint custody of Stonevoice & Korrin.
@@ -129,7 +129,7 @@ Artifacts stored in Louvain Vault #103 under joint custody of Stonevoice & Korri
 
 Each bloom measures nearly six feet tall, petal span three across, coloration pure white under sunlight, soft violet under moonlight.  
 Spectral analysis indicates the plants contain hollow fibers that vibrate at frequencies matching recorded angelic chorales.  
-When uprooted (by automaton probe, 3725 trial), the entire field bent toward the hole and ceased glowing for exactly one minute before resuming.
+When uprooted (by automaton probe, 3379 trial), the entire field bent toward the hole and ceased glowing for exactly one minute before resuming.
 
 > _“They mourned one of their own.”_ — Stonevoice, Observation Log Σ-9
 

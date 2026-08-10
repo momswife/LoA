@@ -46,9 +46,9 @@ Geomantic readings fluctuate hourly. During “triple phase” storms, the horiz
 |---|---|---|
 |**1776**|First recorded “Ash Drift.” Local flora replaced by obsidian glass overnight.|Birth of the term _Verge_.|
 |**2984**|Nether bleed incident: emergence of the **Charred Saints**, skeletal pilgrims emitting hymns in reverse.|Containment successful.|
-|**3591**|Founding of the Vinyot Breach Station by Lt. Korrin’s predecessor.|First sustained planar mapping.|
-|**3682**|“The Thrice-Burning.” Three cities partially phase into the Feywild; return fused into one malformed ruin.|1,200 casualties.|
-|**3720 – Present**|**Ongoing Convergence Ascension.** Simultaneous spikes in Fey and Nether frequencies suggest a coming “Trifold Window.”|Ministry Alert Level IV.|
+|**3245**|Founding of the Vinyot Breach Station by Lt. Korrin’s predecessor.|First sustained planar mapping.|
+|**3336**|“The Thrice-Burning.” Three cities partially phase into the Feywild; return fused into one malformed ruin.|1,200 casualties.|
+|**3374 – Present**|**Ongoing Convergence Ascension.** Simultaneous spikes in Fey and Nether frequencies suggest a coming “Trifold Window.”|Ministry Alert Level IV.|
 Rumors persist of **Fey Courts of Cinder** and **Nether Monarchs of Smoke** vying over the same territory, each claiming the scar as their rightful bridge to Aerathon.
 
 ---
@@ -103,7 +103,7 @@ ____
     
 - **Access:** Restricted to certified delving teams with planar stabilizers.
     
-- **Active Operation:** Project TRI-SPHERE (3721 – Present) — monitoring resonance harmonics using crystal tripods.
+- **Active Operation:** Project TRI-SPHERE (3375 – Present) — monitoring resonance harmonics using crystal tripods.
     
 - **Civilian Notice:** Ashline Settlements under evacuation alert every Midyear Solstice.
     

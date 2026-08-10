@@ -33,6 +33,8 @@ Ichthyan oral histories describe early shoals receiving will at different waters
 
 The **Uncounted School** remembers communities erased when officials counted bodies from above the surface and declared moving populations ownerless.
 
+Modern route records are maintained from within the water and across time. They note nurseries, feeding grounds, hazards, rest depth, and who may speak for a route while the school is elsewhere. Movement does not make the people transient in the legal sense; a repeated return can establish continuity as clearly as a wall.
+
 ---
 
 ## III. Body and Environmental Needs
@@ -49,6 +51,8 @@ Households include schools, dens, route families, reef blocks, river councils, s
 
 Schooling is cooperative awareness, not loss of individuality. The **Named Turn** requires every participant in a group maneuver to retain the right to break formation.
 
+Schools form for travel, defense, learning, work, ceremony, or play and may have entirely different membership. A person outside the formation can remain part of the household, while a temporary traveling companion need not become kin. Ichthyan law names the purpose before assigning any authority to the group.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ Schooling is cooperative awareness, not loss of individuality. The **Named Turn*
 Ichthyan cultures admire awareness, responsive coordination, environmental literacy, color and motion language, and collective escape.
 
 Their shadow is consensus pressure. A person who notices danger first may be blamed for disrupting formation; a person who leaves a school may be treated as rejecting all kinship.
+
+The central modern argument concerns automated schooling systems used in ports and broadcasts. Supporters value collision warnings and shared navigation. Critics note that a signal designed for safety can become a command enforced through crowd motion. Community standards now require a visible independent route and a way to identify whether an alert came from people, instruments, or an unknown source.
 
 ---
 

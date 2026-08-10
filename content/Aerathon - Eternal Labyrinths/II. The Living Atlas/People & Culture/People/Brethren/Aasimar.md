@@ -34,6 +34,8 @@ Aasimar lines arose through divine covenant, exposure to the Two Heavens, descen
 
 The **Right of the Unchosen Halo** establishes that descendants may accept, reinterpret, conceal, or refuse the purpose others attach to a blessing. A god may have intended a sign. The living person still decides what the sign means.
 
+Household records show that celestial inheritance rarely follows the orderly genealogies favored by temples. A sign may vanish for generations, appear among adopted kin after a shared covenant, or change its visible form without changing the family’s sense of continuity. Modern Aasimar historians therefore distinguish **inheritance** from ownership: a shrine may document a blessing, but it does not possess the people who carry it.
+
 ---
 
 ## III. Body and Sensory Life
@@ -50,6 +52,8 @@ Aasimar households are ordinary families, temple lineages, mutual-aid circles, c
 
 A **Witness of Refusal** accompanies anyone asked to accept prophecy, relic custody, or divine office. Their task is to ensure that reverence does not silence refusal.
 
+Mutual-aid circles also maintain rooms without reflective metal, choir resonance, or devotional iconography for people exhausted by being recognized. These are not anti-religious spaces. They allow an Aasimar to decide whether a manifestation is medical, spiritual, familial, or simply private before institutions begin competing to interpret it.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -57,6 +61,8 @@ A **Witness of Refusal** accompanies anyone asked to accept prophecy, relic cust
 Aasimar communities often admire mercy, discernment, courage, responsibility, hope, and the ability to distinguish service from submission.
 
 Their shadow is exemplary pressure. Aasimar are expected to forgive faster, suffer beautifully, and turn every wound into inspiration. Many build identities around the right to be petty, uncertain, funny, angry, or wonderfully ordinary.
+
+The principal modern division is not between faithful and faithless Aasimar. It is between institutions that treat celestial signs as public mandates and communities that place the bearer’s consent first. Many devout Aasimar support the second position precisely because they believe a covenant without refusal is obedience, not faith.
 
 ---
 

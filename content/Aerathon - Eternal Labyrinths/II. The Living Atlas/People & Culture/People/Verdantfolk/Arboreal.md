@@ -42,6 +42,8 @@ Modern records distinguish age from authority. A thousand-year memory can be val
 
 New Arboreal awakenings are separated by years or generations. Rooted individuals are often missed by census workers, but even corrected estimates leave the lineage exceptionally uncommon.
 
+The Standing Witness cases also changed the meaning of testimony. A rooted witness might observe one place across generations while knowing little of events beyond their soil, and a traveling official might know the wider law while misunderstanding the place itself. Arboreal courts now pair long observation with mobile corroboration rather than treating either perspective as complete.
+
 ---
 
 ## III. Body and Sensory Life
@@ -62,6 +64,8 @@ Two rooted Arboreals may share soil for centuries without being married, politic
 
 **Shade law** governs when bodily shelter becomes a public gift. Shade offered once does not establish permanent public access beneath someone’s canopy.
 
+Root-neighbor agreements distinguish shared soil from shared thought, politics, or property. They address water draw, fungal partners, fallen limbs, firebreaks, privacy, and the right to transplant. Because separation can injure every participant, the agreements emphasize planned departure without converting difficult movement into a ban on leaving.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -69,6 +73,8 @@ Two rooted Arboreals may share soil for centuries without being married, politic
 Arboreal cultures often value deliberation, continuity, hospitality, repair, and promises scaled to the time they require. Individuals are no more universally patient than stone buildings are universally peaceful.
 
 Modern debate concerns stewardship. Some Arboreals accept duties toward the ecosystems entwined with them; others reject the expectation that a tree-bodied citizen must serve as unpaid forest guardian. Responsibility follows relationship and agreement, not appearance.
+
+The dispute is most urgent in cities, where an Arboreal may improve air, shade a street, and stabilize soil simply by living. Municipalities often call those effects public services while refusing to fund care or guarantee the root zone. Advocates insist that a beneficial body remains a citizen before it becomes infrastructure.
 
 ---
 

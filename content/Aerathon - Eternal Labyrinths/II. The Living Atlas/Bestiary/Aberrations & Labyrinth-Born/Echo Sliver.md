@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Resonant Aberration Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Historian of Echo-Law), Curator Rook-of-Rings (Relic Containment)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Aberration Record / Grade-II Containment Verified_
 
 ---

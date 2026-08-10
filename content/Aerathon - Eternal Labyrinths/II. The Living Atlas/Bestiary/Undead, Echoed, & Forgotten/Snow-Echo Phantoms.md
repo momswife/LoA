@@ -1,5 +1,5 @@
 >_“When winter remembers the dead more clearly than the living, the snow begins to whisper… and sometimes, it answers itself.”_  
-> — **Archivist Yelna Stonevoice**, _Echo-Bound Climatics of the Northern Veil, Cycle 3730_
+> — **Archivist Yelna Stonevoice**, _Echo-Bound Climatics of the Northern Veil, Cycle 3384_
 
 ---
 
@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law Historian & Emotional Residue Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Priest-Analyst Thera Daan (Faith Oversight), Inspector Jao “Greyglass” Vell (Forensic Thanatomancy)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Cryo-Echo Undead Record / Grade-III Hazard_
 
 > [!warning] NORTHERN RECORD LIMITATION

@@ -39,6 +39,8 @@ During the **Veils Removed** hearings, Gorgonites testified that compulsory cove
 
 Modern gaze protocol emphasizes control training, opt-in protective equipment, environmental design, and responsibility proportionate to demonstrated ability.
 
+The hearings also rejected inherited liability. A child is not responsible for an ancestor’s curse, and a household cannot be fined for harm no member caused. Clinics now document the actual range, onset, reversibility, and control of an individual effect instead of assigning restrictions from a family name.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **meeting gaze covenant** specifies whether direct eye contact is safe, desi
 
 Children receive gaze education without being taught that their existence is a threat.
 
+Veil houses provide lenses, mirrors, medical care, crown tending, and rooms arranged for several kinds of eye contact. Despite the name, many are politically committed to the right not to veil. Their purpose is to make choices workable: protection must be available without becoming compulsory concealment.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Gorgonite cultures often value controlled power, testimony, beauty that refuses 
 Modern debate concerns public safety burdens. Some favor visible lenses or badges to prevent accidents. Others note that no universal marker distinguishes harmless gaze from dangerous ability and that compulsory signs convert every Gorgonite into a public warning.
 
 The right to be seen and the duty not to harm must be negotiated without making either absolute.
+
+Gorgonites disagree over whether public demonstrations help. Some believe controlled exhibitions replace panic with knowledge. Others note that every successful demonstration encourages strangers to demand another proof. The common ground is that education should be carried by institutions and paid educators, not extracted from whichever Gorgonite happens to enter the room.
 
 ---
 

@@ -1,6 +1,6 @@
 > _“Some plants take water.  
 > The Sin-Roots take **weakness** — and bloom with whatever shame you try to bury.”_  
-> — **Priest-Analyst Thera Daan**, _Corruptions of the Soil, Cycle 3724_
+> — **Priest-Analyst Thera Daan**, _Corruptions of the Soil, Cycle 3378_
 
 ---
 
@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Faith Oversight & Corruption Phenomena)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Echo-Law Historian), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Corrupted Flora Record / Grade-III Hazard_
 
 ---

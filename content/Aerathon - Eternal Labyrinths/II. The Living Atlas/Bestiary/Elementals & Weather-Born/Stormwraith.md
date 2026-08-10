@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Elemental & Atmospheric Phenomena Studies)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Spatial Phenomena Lead)  
 **Advisory Editors:** Researcher Falyn Onarra (Beastfolk Sociology), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Archivist Yelna Stonevoice (Echo-Law Historian)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Elemental Aberration Record / Grade-III Containment Verified_
 
 ---
@@ -84,7 +84,7 @@ Inspector Vell’s resonance logs show each Wraith carries a distinct harmonic p
 This rhythm, called the **Thunder Pulse**, can be mirrored to pacify or communicate with them.  
 Lt. Korrin’s experiments with grounding sigils demonstrate temporary containment achievable by **harmonic grounding forks** tuned to 432 Hz.
 
-Rogue occurrences have ignited three Ministry airships since 3726.  
+Rogue occurrences have ignited three Ministry airships since 3380.\
 Containment priority upgraded to _Grade-III Live Hazard._
 
 ---

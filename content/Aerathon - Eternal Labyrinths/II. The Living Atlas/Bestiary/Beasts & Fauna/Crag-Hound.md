@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)  
 **Primary Compiler:** Investigator Lokk Marren (Political Movements & Feral Ecology Oversight)  
 **Advisory Editors:** Researcher Falyn Onarra (Beastfolk Sociology), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics), Lt. Salvia Korrin (Arcane Breach Liaison)  
-**Date of Filing:** 3730 A.D. (Age of Spectacle)  
+**Date of Filing:** 3384 A.D. (Age of Spectacle)\
 **Document Class:** _Natural Fauna Record / Verified Authenticity_
 
 ---

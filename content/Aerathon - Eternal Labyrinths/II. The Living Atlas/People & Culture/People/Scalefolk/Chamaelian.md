@@ -39,6 +39,8 @@ The **Untranslated Court** refused all such evidence and required interpreters t
 
 Modern color lexicons remain community-specific. Even a trained interpreter asks what a display means to the individual using it.
 
+The ruling reshaped more than courtroom evidence. Painters, physicians, and theater directors began keeping paired records: one column for visible change and another for the person’s stated meaning. Chamaelian scholars still use the format to show how easily description becomes interpretation when the observer’s confidence goes unmarked.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **declared palette** lets a person identify which colors or patterns carry d
 
 Formal meetings often combine speech, gesture, written color, texture, and light so no single channel controls participation.
 
+Kinship may be maintained through **palette houses**, not because members share colors but because they agree how communication will be protected. A house can include non-Chamaelian relatives, people unable to change color, and members whose displays differ after illness or magic. Belonging rests on witnessed care, not visual conformity.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Chamaelian cultures often value contextual speech, visual artistry, careful obse
 Their recurring debate concerns concealment. Camouflage can provide safety and beauty, yet public institutions often reward Chamaelians for disappearing rather than altering hostile surroundings.
 
 Visibility may be celebration, protest, warning, fashion, or simply comfort.
+
+Broadcast culture has sharpened the conflict. Producers can alter light, saturation, and background to manufacture a meaning the speaker never expressed. Chamaelian advocates demand retention of original lighting records and the right to approve any caption that translates bodily color. Many artists oppose total standardization, arguing that ambiguity is part of the language rather than a flaw to be corrected.
 
 ---
 

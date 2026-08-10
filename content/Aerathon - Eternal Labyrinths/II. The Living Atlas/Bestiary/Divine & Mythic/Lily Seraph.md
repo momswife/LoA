@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Theological Aberration & Celestial Residue Archive)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law & Cultural Songkeeping)  
 **Advisory Editors:** Priest-Analyst Thera Daan (Faith Oversight), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Divine Aberration Record / Grade-IV Containment Verified_
 
 ---
@@ -66,7 +66,7 @@ However, when confronted with blasphemy, violence, or despair, the hymn shifts t
 
 Documented manifestations include:
 
-- **Throne of the Easterlilies** — primary genesis site; five confirmed appearances since 3702.
+- **Throne of the Easterlilies** — primary genesis site; five confirmed appearances since 3356.
     
 - **Temple Ruins of Namira’s Glass Fields** — single Seraph, petrified in mid-flight; now a Ministry reliquary.
     

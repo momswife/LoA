@@ -28,6 +28,7 @@ These records establish the shared metaphysical foundations used throughout the 
 
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/II. Laws of a Changed World/01. Archaic Magic and the First Artifacts|Archaic Magic and the First Artifacts]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/II. Laws of a Changed World/03. Divine Covenants and Sacred Oaths|Divine Covenants and Sacred Oaths]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/II. Laws of a Changed World/07. Faith Density|Faith Density]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/II. Laws of a Changed World/06. Miracles, Omens and Divine Limitations|Miracles, Omens and Divine Limitations]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/II. Laws of a Changed World/02. Mortal Magic and the Three Weaves|Mortal Magic and the Three Weaves]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/II. Laws of a Changed World/04. Patrons, Pacts and Borrowed Power|Patrons, Pacts and Borrowed Power]]

@@ -1,5 +1,5 @@
 > _“They flicker when they’re nervous — like candles startled by their own flame.”_  
-> — **Researcher Falyn Onarra**, _Field Notes on Dream-Touched Fauna, Cycle 3730_
+> — **Researcher Falyn Onarra**, _Field Notes on Dream-Touched Fauna, Cycle 3384_
 
 ---
 
@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)  
 **Primary Compiler:** Researcher Falyn Onarra (Beastfolk Sociology & Dream-Ecology)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Dream-Fey Entity Record / Grade-I Observation Verified_
 
 ---

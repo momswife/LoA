@@ -44,8 +44,8 @@ The Caves extend roughly 40 miles inland, though internal mapping suggests folde
 |**1449**|Feline mariners of Al’ar first document “Singing Tide.”|Cultural myth foundation.|
 |**2012**|Delver expedition led by Kerris Vay found first crystal corridors.|Seven missing.|
 |**2570**|Formation of the **Symphony Order** of Bards.|Caves declared holy site.|
-|**3418**|“Flood of Glass”: seismic event fused lower caverns into mirrored tubes.|Creation of Inverted Choir.|
-|**3725**|MDO acoustic probes detect harmonic signatures identical to Symphony Canyon at 1⁄12 scale.|Cross-site link confirmed.|
+|**3072**|“Flood of Glass”: seismic event fused lower caverns into mirrored tubes.|Creation of Inverted Choir.|
+|**3379**|MDO acoustic probes detect harmonic signatures identical to Symphony Canyon at 1⁄12 scale.|Cross-site link confirmed.|
 ---
 ## IV. Cultural Significance
 

@@ -10,14 +10,14 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Theological Aberration & Divine Residue Registry)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Faith Systems & Modern Worship Oversight)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Historian of Echo-Law), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Aberrant Theological Manifestation / Grade-IV Containment Verified_
 
 ---
 
 ## I. Overview
 
-The **Echo of Lathander** is a **divine afterimage** — a radiant apparition left behind by the god **Lathander, Lord of the Dawn**, following the **Second Collapse of Faith (cycle 3481)**, when celestial interference within Aerathon fractured direct worship channels.
+The **Echo of Lathander** is a **divine afterimage** — a radiant apparition left behind by the god **Lathander, Lord of the Dawn**, following the **Second Collapse of Faith (cycle 3135)**, when celestial interference within Aerathon fractured direct worship channels.
 
 Unlike avatars or angels, this entity **possesses no will of its own**; it acts as a **resonant reflection** of faith once poured into sunrise prayers.  
 It appears at first light over ruined temples, battlefield cairns, and cities where dawn hymns were sung for generations, manifesting as **a humanoid silhouette of refracted sunlight** hovering a few inches above the ground.

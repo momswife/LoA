@@ -33,6 +33,8 @@ Ancient route stones suggest Proboscine kinships maintained migration corridors 
 
 The **Road of Returned Names** was not one road but a practice: when a traveler reached the next community, they repeated the names of people encountered, ensuring that isolation did not erase existence.
 
+Route memory was distributed across companies rather than entrusted to a single celebrated keeper. One traveler carried water changes, another births and deaths, another damaged bridges, and another matters that could be spoken only to a named household. The practice explains why many Proboscine archives value corroboration: remembrance is strongest when several partial witnesses can answer one another.
+
 ---
 
 ## III. Body and Sensory Life
@@ -49,6 +51,8 @@ Households are families, route companies, memorial circles, water councils, and 
 
 The **Shared Weight** practice distributes emotional, archival, and physical burdens aloud before a journey. Anything assigned to “whoever is strongest” must be named and accepted.
 
+Memorial circles use the same principle after a death. One person may keep the formal name, another a favored story, another an unfinished obligation, and another the right to say that grief has become too heavy. Setting down a memory is not treated as betrayal. The circle exists so continuity does not depend upon one person’s endurance.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ The **Shared Weight** practice distributes emotional, archival, and physical bur
 Proboscine cultures admire care, continuity, patience, emotional candor, spatial awareness, and strength used without spectacle.
 
 Their shadow is compulsory remembrance. Individuals may be forced to serve as witnesses, mourners, or archives long after recollection becomes painful.
+
+The most visible modern dispute concerns public memorial culture. Cities and broadcasters prize Proboscine witnesses because their testimony carries an aura of perfect recall. Proboscine advocates demand ordinary evidentiary review, the right to refuse repeated retelling, and payment when remembrance becomes professional labor. Their slogan, **“credible is not inexhaustible,”** now appears in several witness-protection codes.
 
 ---
 

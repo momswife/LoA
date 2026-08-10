@@ -1,6 +1,6 @@
 > _“A Mendling does not fix what is broken.  
 > It reminds the world what it looked like before it cracked.”_  
-> — **Archivist Yelna Stonevoice**, _Veil-Thread Observations, Cycle 3726_
+> — **Archivist Yelna Stonevoice**, _Veil-Thread Observations, Cycle 3380_
 
 ---
 
@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law Historian & Dream-Ecology Specialist)  
 **Advisory Editors:** Researcher Falyn Onarra (Beastfolk Sociology), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Dream-Fey Entity Record / Grade-I Hazard Verified_
 
 ---

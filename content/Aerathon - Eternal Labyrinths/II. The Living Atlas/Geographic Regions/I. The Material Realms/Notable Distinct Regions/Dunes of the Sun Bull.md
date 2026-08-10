@@ -43,8 +43,8 @@ Surface temperatures exceed 65 °C by midday; compass readings fluctuate due to 
 |**942**|First Arnerian pilgrim caravans record “living light” within desert heart.|Origin of Sun Bull cult.|
 |**1881**|Discovery of fused-glass basin (Trampled Vale).|Solar readings exceed relic scale.|
 |**2670**|“March of Ash” — fanatical crusade attempts to capture holy flame; entire host perishes of exposure.|Area declared forbidden.|
-|**3549**|Delver survey detects buried ruins under 400 ft of sand; entry sealed by heat surge.|Excavation suspended.|
-|**3724**|Appearance of moving mirage herd; each shaped as translucent bulls of flame.|Classified as divine recurrence.|
+|**3203**|Delver survey detects buried ruins under 400 ft of sand; entry sealed by heat surge.|Excavation suspended.|
+|**3378**|Appearance of moving mirage herd; each shaped as translucent bulls of flame.|Classified as divine recurrence.|
 ---
 ## IV. Myth & Faith
 

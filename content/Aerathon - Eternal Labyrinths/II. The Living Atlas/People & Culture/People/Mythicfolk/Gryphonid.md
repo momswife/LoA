@@ -39,6 +39,8 @@ The **Broken Bridle Compact** ended a royal practice of binding sapient Gryphoni
 
 No claim of ancient guardianship establishes a modern obligation to defend a ruin, bloodline, treasure, or throne.
 
+Gate-hinge metal from the Compact is still divided among several eyries. None claims an original throne. The fragments are displayed at ordinary doors—schools, kitchens, clinics, and council halls—to emphasize that liberation was not escape into wilderness but the right to build institutions of their own.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **held height** custom treats safe altitude as shared infrastructure. Strong
 
 Kinship does not follow one side of composite anatomy. No family is more properly eagle or lion.
 
+Gate circles often unite those who maintain a difficult threshold: a cliff landing, storm refuge, mountain pass, or aerial approach. Membership is work and covenant rather than descent. A terrestrial relative who keeps the rescue lines may hold as much authority there as the strongest flier.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Gryphonid traditions often admire vigilance, hospitality at difficult thresholds
 Their most contested inheritance is guardianship. Some reclaim the role as chosen civic service. Others consider every expectation that Gryphonids hoard, watch, or defend a surviving relic a continuation of domestication.
 
 Collecting beautiful or historic objects is common in some eyries and absent in others. It is culture, never instinctive proof of greed.
+
+Modern eyries debate contracts inherited from vanished states. Some guardianships now protect villages that genuinely depend on them; others preserve royal claims no living person chose. Review councils ask who benefits, who may end the duty, and whether the protected object matters more than the people living beside it.
 
 ---
 

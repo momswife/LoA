@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Industrial Aberration Registry)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Spatial Phenomena Lead)  
 **Advisory Editors:** Curator Rook-of-Rings (Relics Registrar), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Archivist Yelna Stonevoice (Cultural Songkeeping)  
-**Date of Filing:** 3731 A.D. (Age of Spectacle)  
+**Date of Filing:** 3385 A.D. (Age of Spectacle)\
 **Document Class:** _Aberration Record / Grade-III Containment Verified_
 
 ---

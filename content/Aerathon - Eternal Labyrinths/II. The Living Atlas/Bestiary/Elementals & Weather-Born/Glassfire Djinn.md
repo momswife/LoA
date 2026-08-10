@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Elemental & Wish-Bearing Phenomena Registry)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Spatial Phenomena Lead)  
 **Advisory Editors:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Archivist Yelna Stonevoice (Echo-Law Historian), Curator Rook-of-Rings (Relics Registrar)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Elemental Aberration Record / Grade-IV Containment Verified_
 
 ---

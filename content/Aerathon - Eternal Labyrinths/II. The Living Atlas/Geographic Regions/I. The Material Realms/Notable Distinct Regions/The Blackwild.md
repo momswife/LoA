@@ -44,8 +44,8 @@ Internal mapping impossible. The forest’s geometry folds under observation— 
 |**901**|First colonial expedition enters Bat’yan; entire company vanishes after 17 days.|Declared “Curse Zone.”|
 |**1655**|Manifestation of **Demon King Veyriss**, sealed by Saint Drumphine. Residual corruption births Blackwild.|Founding of Paladin Order.|
 |**2583**|Construction of Ring of False Blessings; five paladins consumed in reverse sanctification.|Barrier established.|
-|**3470**|“Night Without Stars.” Outer villages annihilated; infernal aurora visible over half of Arneria.|600+ dead.|
-|**3718**|Current Ring renewal; wards weaken by 17% due to mana recoil.|Level IV alert status.|
+|**3124**|“Night Without Stars.” Outer villages annihilated; infernal aurora visible over half of Arneria.|600+ dead.|
+|**3372**|Current Ring renewal; wards weaken by 17% due to mana recoil.|Level IV alert status.|
 Paladins report hearing hymns sung backward during maintenance rites — identical to Saint Drumphine’s recorded psalms inverted.
 
 ---
@@ -89,7 +89,7 @@ Paladins stationed within its light display symptoms of **halo-fatigue**: skin t
 
 Renewal cycles now require external automatons; no human operator lasts beyond three iterations.
 
-> _“The Ring blesses all who enter. None return unblessed.”_ — Paladin Reth Solmere, final log, 3718 A.D.
+> _“The Ring blesses all who enter. None return unblessed.”_ — Paladin Reth Solmere, final log, 3372 A.D.
 
 ---
 
@@ -128,7 +128,7 @@ Stored under Vault #66, Louvain Branch, triple seal of Vell, Korrin, and Daan.
 
 - **Containment Integrity:** 83% (stable but declining).
     
-- **Projected Rift Reactivation:** ~3729 A.D. if ward decay continues.
+- **Projected Rift Reactivation:** ~3383 A.D. if ward decay continues.
     
 - **Civilian Risk Radius:** 9 miles (moderate).
     

@@ -33,6 +33,8 @@ Primatine kinships appear in ancient canopy settlements, cliff archives, orchard
 
 The **Empty Hand Record** states that absence of surviving stone or metal is not absence of culture. It became central to archaeological reform after scholars repeatedly described decayed Primatine cities as untouched wilderness.
 
+Canopy archaeology now looks for living foundations, pollen shifts, trained branch junctions, fiber impressions, and the repeated spacing of food trees. Primatine consultants insist that a forest can be both habitat and built inheritance. The reform has also reopened land claims where later settlers mistook a community’s biodegradable architecture for proof that nobody had lived there.
+
 ---
 
 ## III. Body and Sensory Life
@@ -49,6 +51,8 @@ Households include canopy neighborhoods, ground settlements, research circles, o
 
 Tool sharing is common, but ownership remains explicit. The **Offered Grip** requires a person to extend a hand before physical assistance begins.
 
+Teaching circles often pair demonstration with deliberate variation. A learner first repeats a safe technique, then changes one element and explains why. The practice values imitation as a form of attention without treating tradition as frozen. It also makes room for people whose bodies climb, grasp, or communicate differently from the local majority.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ Tool sharing is common, but ownership remains explicit. The **Offered Grip** req
 Primatine communities admire curiosity, dexterity, social attention, play, inventive use, and multi-generational teaching.
 
 Their shadow is performance pressure. Expressiveness can become an expectation to entertain; cleverness can become compulsory problem solving; sociability can erase the right to solitude.
+
+Modern organizers focus on **the right to an unread face**. Broadcast producers, employers, and even friends may claim that Primatine expression makes feelings obvious. Community advocates answer that a visible reaction is not a public statement. A person may mask, remain still, leave a crowded branch, or decline to translate the room without becoming dishonest or antisocial.
 
 ---
 

@@ -34,6 +34,8 @@ Several Orcish peoples arrived during separate Convergence migrations. Some were
 
 The **Unbinding Fires** commemorate communities that publicly destroyed hereditary war contracts. Weapons were not always burned: many were reforged into tools, door fittings, instruments, or memorial iron. The lesson is that ending forced purpose does not require erasing the skill used to survive it.
 
+Different communities remember the migrations differently. Some name an ancestral world, some a god’s betrayal, some an army’s desertion, and some only the first safe settlement after crossing. Modern Orc historians resist compressing those accounts into one origin. What unites them is the repeated struggle to keep outside powers from turning a history of conscription into an inherited identity.
+
 ---
 
 ## III. Body and Sensory Life
@@ -50,6 +52,8 @@ Orcish kinship includes clans, hearth circles, trade companies, neighborhoods, m
 
 Many communities practice the **Open Hand Oath**: before accepting service, each participant names what they will do, what they will not do, and how the obligation ends. An oath without an exit is considered a surviving fragment of conquest.
 
+Hearth circles preserve obligations across mixed households without requiring a single clan name. Membership may follow birth, adoption, shared work, marriage, rescue, or an explicitly renewed promise. A person who leaves remains part of the circle’s history but is not pursued as property. That distinction separates relationship from possession.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -57,6 +61,8 @@ Many communities practice the **Open Hand Oath**: before accepting service, each
 Orcish cultures commonly admire candor, endurance, generosity under scarcity, decisive protection, humor, and refusal of imposed purpose.
 
 Their recurring debate concerns strength: whether public pride repairs historic shame or quietly preserves the demand that every Orc remain useful in crisis. Modern Orc artists and teachers insist that softness, hesitation, scholarship, and ordinary domestic life are equally Orcish.
+
+The debate is visible in memorials. Older monuments often show an Orc standing armed between danger and everyone else. Newer works depict a door repaired, a child taught, a field replanted, or a weapon left untouched. Both honor survival; they disagree about whether survival must always look like readiness for the next war.
 
 ---
 

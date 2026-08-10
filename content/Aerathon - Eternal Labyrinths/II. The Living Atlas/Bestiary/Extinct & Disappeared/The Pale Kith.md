@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Subterranean Phenomena Archive)  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Deep-Earth Anthropology)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Historian of Echo-Law), Dr. Odrin Sallow (Magitech Safety & Mineral Consciousness)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Anthropological Extinction Record / Grade-II Verified_
 
 ---

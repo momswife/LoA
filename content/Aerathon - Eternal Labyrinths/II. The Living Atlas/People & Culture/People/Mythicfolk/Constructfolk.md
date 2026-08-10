@@ -39,6 +39,8 @@ The **Unsigned Petition** was submitted without a maker’s certification. Its a
 
 Modern recognition accepts self-testimony, sustained agency, relationship, and independent preference. A serial plate is provenance, not a legal name or deed.
 
+The Petition also established that uncertainty must be handled in favor of protection. A created being need not demonstrate philosophy, pain, or memory more convincingly than an organic stranger before officials stop dismantling them. Investigation may continue, but irreversible testing cannot be the price of recognition.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **Mutual Maintenance Compact** separates emergency repair from authority. A 
 
 Constructfolk can create later generations, but doing so is reproduction or community formation—not manufacture of inventory.
 
+Emancipation circles maintain **clean workshops** where repair tools, diagnostic records, and replacement parts are separated from maker claims. Members can ask for help without accepting a new owner. Some workshops are run entirely by Constructfolk; others include trusted organic mechanics bound by the same consent and confidentiality rules as healers.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Constructfolk philosophies ask whether selfhood lies in matter, memory, purpose,
 Modern debate concerns designed purpose. Some reclaim intended functions as vocation or heritage. Others regard every embedded directive as a surviving command to be removed. Both reject the claim that origin determines obedience.
 
 Emotion may be expressed through voice, light, posture, heat, sound, script, or nothing visible to an organic observer.
+
+Current disputes focus on continuity after major replacement. Courts often want one permanent component that proves the person remained the same. Constructfolk communities answer with the standards used for everyone else: remembered relationships, sustained commitments, self-recognition, and the testimony of those who knew them. A body rebuilt over time is not a vacant chassis awaiting a claimant.
 
 ---
 

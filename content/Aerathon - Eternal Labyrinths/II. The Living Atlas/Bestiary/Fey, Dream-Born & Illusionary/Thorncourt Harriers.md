@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Feyline Conflict Specialist)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics), Researcher Falyn Onarra (Beastfolk Sociology)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Fey Entity Record / Grade-III Combat Hazard_
 
 ---

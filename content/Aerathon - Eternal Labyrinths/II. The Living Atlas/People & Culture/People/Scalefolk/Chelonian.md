@@ -39,6 +39,8 @@ The **Moving Walls Declaration** established that a protective body does not bec
 
 Chelonian oral histories preserve roads measured by shade, water, edible scrub, and the time required for every household member to arrive.
 
+These route accounts name places where a group waited, doubled back, or altered pace for an injured traveler. Modern historians once removed such pauses as irrelevant detail. Chelonian keepers restored them because a road is not merely the line taken by the fastest body; it is the set of provisions that allowed the whole company to finish.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **long table** custom keeps deliberation open long enough for slow speakers,
 
 This tradition values complete participation, not delay for its own sake. Emergency councils use named authority and mandatory later review.
 
+The review is called **the return to the table**. Temporary decisions must be explained to those excluded by urgency, and powers granted during crisis expire unless the full council renews them. The custom has influenced civic emergency law far beyond Chelonian communities.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Chelonian cultures often value preparedness, continuity, dry humor, careful cons
 Their shadow is compulsory patience. Anger, urgency, speed, risk, and changing one’s mind are as Chelonian as deliberation.
 
 Modern youth movements reject the expectation that every long-lived person should become an archive or elder.
+
+They also challenge the idea that durability requires permanence. Young architects favor walls that can be moved, gardens designed for changing households, and offices with fixed retirement terms. Their elders are not uniformly opposed; many describe the movement as a return to the Moving Walls principle—a protected structure still has to permit life to change around it.
 
 ---
 

@@ -292,6 +292,7 @@ Modern authority requires a modern basis.
 - [[The Dhalraeni Burden Rolls]]
 - [[The Golden Leaves and Covered Mirrors]]
 - [[The Crucible Oath Tablets]]
+- [[Auric Line]]
 
 ### Additional Records Reserved for Expansion
 

@@ -1,5 +1,5 @@
 > _“Their bones remember the hymns their throats forgot — and they keep singing long after the choir has died.”_  
-> — **Priest-Analyst Thera Daan**, _Thanatological Hymnography, Cycle 3729_
+> — **Priest-Analyst Thera Daan**, _Thanatological Hymnography, Cycle 3383_
 
 ---
 
@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Death-Liturgical Phenomena & Echo-Afterlife Studies)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thanatomancy)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Echo-Necrotic Entity Record / Grade-IV Hazard_
 
 ---

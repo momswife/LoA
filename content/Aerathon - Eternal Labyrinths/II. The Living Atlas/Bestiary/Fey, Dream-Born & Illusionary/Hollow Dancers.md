@@ -1,5 +1,5 @@
 > _“They move like memories you’re trying not to recall — graceful, impossible, hollow in all the places a heart should be.”_  
-> — **Archivist Yelna Stonevoice**, _Feydream Observations, Cycle 3718_
+> — **Archivist Yelna Stonevoice**, _Feydream Observations, Cycle 3372_
 
 ---
 
@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law & Folkloric Apparition Studies)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics), Priest-Analyst Thera Daan (Faith Oversight)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Illusory Entity Record / Grade-II Hazard Verified_
 
 ---

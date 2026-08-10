@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Faith Oversight & Heretical Echo Phenomena)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Echo-Law Historian), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thanatological Forensics)  
-**Date of Filing:** 3734 A.D.  
+**Date of Filing:** 3388 A.D.\
 **Document Class:** _Sacral-Absent Deific Aberration / Grade-V Extreme Hazard_
 
 ---

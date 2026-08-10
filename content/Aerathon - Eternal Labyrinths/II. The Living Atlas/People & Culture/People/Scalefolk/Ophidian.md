@@ -36,6 +36,8 @@ Ophidian communities preserve desert burrows, forest coils, riverbank settlement
 
 The **Venom Truths** distinguish possession, capacity, intent, and action. Having venom does not mean threatening its use; lacking venom does not make a person more trustworthy.
 
+The Truths emerged from medical and legal disputes in which a venomous body was treated as a concealed weapon. Ophidian advocates insisted that bodily anatomy could require safety practice without becoming contraband. Modern agreements separate voluntary medical disclosure, workplace provision, criminal evidence, and public curiosity rather than allowing one question to answer all four.
+
 ---
 
 ## III. Body and Sensory Life
@@ -52,6 +54,8 @@ Households include coils, burrow circles, trade families, temple communities, he
 
 The **Announced Coil** custom asks before encircling a person or shared object, even when coiling is practical support rather than restraint.
 
+Heat commons operate through similarly explicit boundaries. A place may be open for warmth, closed for shedding, reserved for medical recovery, or available only to a named household. Because physical closeness can be thermally useful, Ophidian communities developed careful ways to offer contact without making refusal socially costly.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -59,6 +63,8 @@ The **Announced Coil** custom asks before encircling a person or shared object, 
 Ophidian cultures admire precision, restraint, perceptiveness, self-possession, direct boundaries, and survival without unnecessary motion.
 
 Their shadow is defensive secrecy. Constant suspicion can make explanation feel like surrender, leaving allies without information needed for care.
+
+Modern debate asks when privacy becomes isolation. Some circles favor standardized emergency cards so healers can act without demanding intimate history. Others fear any portable record will become another poison registry. The emerging compromise places control with the bearer and limits the card to instructions rather than justification.
 
 ---
 

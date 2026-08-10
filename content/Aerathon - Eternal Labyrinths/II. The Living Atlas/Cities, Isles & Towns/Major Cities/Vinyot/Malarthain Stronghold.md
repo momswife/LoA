@@ -8,11 +8,11 @@
 
 **Advisory Editors:** **Lt. Salvia Korrin** (Arc. Scriv., Field Verification), **Professor Arav Dhal-Senn** (Metallurgy & Mountain Industry), **Priest-Analyst Thera Daan** (Faithfield Anthropology)
 
-**Date of Filing:** **12th Cycle, 3388 A.D.**
+**Date of Filing:** **Late Redfall, 3388 A.D.**
 
 **Document Class:** __City Record / Grade-I Authenticity__
 
-**Addendum Status:** __Under-Crucible references amended by later Ministry chronology. Public records describe the site as resolved after 3509 A.D.; Cardwell family records remain sealed.__
+**Addendum Status:** __Current through late Redfall, 3388 A.D. Under-Crucible records remain restricted while the Nameless Labyrinth investigation is active.__
 
 ---
 
@@ -129,8 +129,6 @@ Malarthain records its history carefully, but not generously. Public chronologie
 | **3381** | Princess Lyla is born and Lady Neve dies in childbirth, pushing Elias into seclusion and intensifying his traditionalism. |
 
 | **3388** | The royal council elects to send knights of its order to become delvers and investigate the nearby Nameless Labyrinth. |
-
-| **3509** | The Under-Crucible is publicly opened, contained, and later marked as resolved. The full Cardwell record of what remained active is sealed. |
 
 ### The Siege of 3371
 
@@ -324,19 +322,19 @@ This begins to change as the **Nameless Labyrinth** opens near Malarthain and ol
 
 Under this interpretation, Cardwell encourages two of his most adept knights to become delvers—not for fame, not for wealth, but to defend Malarthain and investigate possible links between the Labyrinth, Malar, and the city’s buried past.
 
-### The Under-Crucible: Public Resolution, Private Secret
+### The Under-Crucible: Public Closure, Private Secret
 
-In the party-era crisis, the Under-Crucible is not yet a public dungeon. It exists as the sealed 3377 sinkhole site: a buried wound associated with monster emergence, Cecil’s death, the maiming of several defenders, and the loss of profitable mine access.
+As of late Redfall, **3388 A.D.**, the Under-Crucible is not a public dungeon. It exists in civic records as the sealed 3377 sinkhole site: a buried wound associated with monster emergence, Cecil’s death, the maiming of several defenders, and the loss of profitable mine access. With the nearby Nameless Labyrinth newly under investigation, Ministry analysts have reopened questions about whether the old collapse was ever geologically ordinary.
 
-Later public Ministry chronology records the Under-Crucible as officially opened in **3509 A.D.**, brought under regulation, and ultimately **resolved**. To most of Aerathon, it becomes an example of Malarthain’s discipline: the stronghold faced the Labyrinth beneath its feet, contained it, and returned to industry without allowing delver spectacle to swallow its identity.
+To most of Malarthain, the Under-Crucible remains closed and exhausted. House Cardwell permits no public delving there, and the Council of Rings treats unauthorized excavation as both a mine-safety crime and a threat to the city’s sovereignty.
 
-That is the public story.
+That is the public position.
 
 The Cardwell family knows the truth is more dangerous. The Under-Crucible remains active beneath Malarthain, but not in the way the public fears. It no longer behaves like an open monster wound. Instead, it continues to generate ore, replenishing sealed veins and feeding the city’s mines with a supply that should be geologically impossible.
 
 House Cardwell keeps this secret for several reasons. Revealing it would invite MDO intervention, rival claims, guild exploitation, and theological panic over whether Malar has blessed the city, tested it, or trapped it. The Council of Rings suspects irregularities in the city’s production, but only the Cardwell inner line knows the full truth: Malarthain’s prosperity is built atop a Labyrinth that never stopped giving.
 
-To the public, the Under-Crucible is resolved.
+To the public, the Under-Crucible is sealed.
 
 To House Cardwell, it is contained.
 

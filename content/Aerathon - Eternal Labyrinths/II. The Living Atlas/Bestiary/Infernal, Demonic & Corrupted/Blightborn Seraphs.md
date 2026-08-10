@@ -1,6 +1,6 @@
 > _“Once they were angels of renewal.  
 > Now they are wings full of hunger, weeping rot from a sky that no longer wants them.”_  
-> — **Priest-Analyst Thera Daan**, _Theology of Corruption, Cycle 3721_
+> — **Priest-Analyst Thera Daan**, _Theology of Corruption, Cycle 3375_
 
 ---
 
@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)  
 **Primary Compiler:** Priest-Analyst Thera Daan (Faith Oversight & Corruption Phenomena)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Archivist Yelna Stonevoice (Echo-Law Historian)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Corrupted Celestial Record / Grade-IV Combat Hazard_
 
 ---

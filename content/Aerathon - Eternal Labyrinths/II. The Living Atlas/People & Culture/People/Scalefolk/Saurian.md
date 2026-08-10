@@ -33,6 +33,8 @@ Early Saurian settlements used living shade, heated stone, reflective ceramics, 
 
 The **Wall Is a Road** declaration transformed access law by recognizing vertical travel surfaces as public routes rather than decoration.
 
+Later amendments required cities to document who could use each route in heat, rain, molt, injury, and old age. Saurian planners argued that a wall path usable only under ideal conditions was a recreational surface, not dependable infrastructure. That distinction now guides several mixed-body building codes.
+
 ---
 
 ## III. Body and Sensory Life
@@ -49,6 +51,8 @@ Households include sun courts, wall neighborhoods, orchard communities, desert b
 
 The **Declared Crest** practice lets a person state the meaning of a public display rather than allowing witnesses to invent it.
 
+Molt cohorts, sun courts, and households overlap in different ways. A cohort provides bodily care, a sun court manages shared thermal space, and a household carries continuing obligations. Treating any one of these as the natural government of all Saurians has caused repeated Ministry errors.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ The **Declared Crest** practice lets a person state the meaning of a public disp
 Saurian communities admire observation, economy of movement, environmental design, patient humor, adaptability, and clear bodily boundaries.
 
 Their shadow is self-concealment. People skilled at blending into surroundings may feel pressure to remain unobtrusive even when conditions harm them.
+
+The current access movement names this **the cost of adaptation**. Employers often praise Saurians for functioning in cold rooms, poor lighting, or inaccessible buildings, then cite that success as proof no change is needed. Organizers answer that endurance measures what a body survived, not what a public institution is entitled to demand.
 
 ---
 

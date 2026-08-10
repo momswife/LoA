@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)  
 **Primary Compiler:** Curator Rook-of-Rings (Relics Registrar & Thermal Anomaly Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics), Priest-Analyst Thera Daan (Faith Oversight)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Lesser Infernal Entity Record / Grade-II Hazard_
 
 ---

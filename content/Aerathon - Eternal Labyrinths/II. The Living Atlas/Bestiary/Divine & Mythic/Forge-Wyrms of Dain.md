@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Industrial Myth & Draconic Phenomena Registry)  
 **Primary Compiler:** Curator Rook-of-Rings (Relics Registrar & Tharos Rings Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Priest-Analyst Thera Daan (Faith Oversight)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Draconic Aberration Record / Grade-IV Containment Verified_
 
 ---
@@ -84,9 +84,9 @@ Should the creature perish, projections estimate Caer Dain’s foundations would
     
 - **Cycle 1388:** During the Stormfire Incident, the Wyrm emerged partially, redirecting a molten tsunami — saving the city.
     
-- **Cycle 3630:** Delver Expedition #1123 encountered fragmentary bones near molten tunnels; later confirmed to be Wyrm shed-plates, not remains.
+- **Cycle 3284:** Delver Expedition #1123 encountered fragmentary bones near molten tunnels; later confirmed to be Wyrm shed-plates, not remains.
     
-- **Cycle 3728:** Aether surge recorded beneath Forge-Keep; heartbeat spikes imply stirring.
+- **Cycle 3382:** Aether surge recorded beneath Forge-Keep; heartbeat spikes imply stirring.
     
 
 ---

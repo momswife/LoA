@@ -44,9 +44,9 @@ The storm wall rotates counter-clockwise year-round. Direct flight through its h
 |**2035**|First navigation logs of Tempestrise recorded by Namiran trade fleet; three ships lost.|Region declared unnavigable.|
 |**2566**|Founding of **The Aetherwatch**, precursor to modern Skyforge weather corps.|Continuous study begins.|
 |**3114**|“The Tenfold Gale” — ten supercells merge into single storm lasting 21 days.|Entire coastline reshaped.|
-|**3642**|_The Stormbirth of Chandelle Veyra_: Aarakocra diver attains elemental ignition during dive.|Creation of Stormborn Lineage.|
-|**3722**|Convergence surge detected; lightning arcs reach 30 mi inland.|Evacuation of coastal towns.|
-|**3728**|Current monitoring ongoing; predicted super-convergence within decade.|Alert Level III.|
+|**3296**|_The Stormbirth of Chandelle Veyra_: Aarakocra diver attains elemental ignition during dive.|Creation of Stormborn Lineage.|
+|**3376**|Convergence surge detected; lightning arcs reach 30 mi inland.|Evacuation of coastal towns.|
+|**3382**|Current monitoring ongoing; predicted super-convergence within decade.|Alert Level III.|
 ---
 ## IV. Cultural & Religious Significance
 

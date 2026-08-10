@@ -11,7 +11,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Prism Anomalies Expert)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Echo-Law Historian), Dr. Odrin Sallow (Magitech & Optical Transmutation Safety)  
-**Date of Filing:** 3733 A.D.  
+**Date of Filing:** 3387 A.D.\
 **Document Class:** _Reflexive Aberration Record / Grade-IV Cognitive & Combat Hazard_
 
 ---

@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law & Cultural Songkeeping)  
 **Advisory Editors:** Researcher Falyn Onarra (Beastfolk Sociology), Lt. Salvia Korrin (Arcane Breach Liaison), Inspector Jao “Greyglass” Vell (Thaumaturgic Forensics)  
-**Date of Filing:** 3730 A.D. (Age of Spectacle)  
+**Date of Filing:** 3384 A.D. (Age of Spectacle)\
 **Document Class:** _Natural Fauna Record / Verified Authenticity_
 
 ---

@@ -39,6 +39,8 @@ The **Six-Sided Street** ruling established that a route remains civic infrastru
 
 Modern communities preserve this history through turning maps whose “top” changes with the reader.
 
+The maps are also political records. They show which ledges were widened for children, where a non-climbing route was added, and which ceiling market lost access after a landlord sealed its stair. Gekkonian historians read those changes as evidence of who a city expected to participate in public life.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The custom of **named footing** asks a host to explain which surfaces are load-b
 
 Homes often use texture and vibration alongside color so navigation remains legible in darkness or through varied vision.
 
+Molt cohorts form another layer of kinship. Members share care during periods when skin, adhesive pads, vision, or balance are unusually sensitive. A cohort may last for a single season or for decades. Its duties are practical and confidential; helping with bodily transition does not grant authority over the person afterward.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -68,6 +72,8 @@ Gekkonian cultures often value adaptable perspective, quiet observation, spatial
 Modern debate concerns vertical access. Some communities favor universal climbing infrastructure; others argue that public life cannot depend upon an ability injured, elderly, disabled, or non-Gekkonian residents may not possess.
 
 The strongest designs offer several equivalent routes.
+
+The debate now extends to memory and status. Prestigious wall districts sometimes treat the stair route as a service entrance even when officials call it equal. Access councils therefore judge routes by destination, safety, travel time, and dignity—not mere existence. A city is not six-sided if only climbers reach the council chamber through the front.
 
 ---
 

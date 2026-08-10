@@ -12,7 +12,7 @@
 **Primary Compiler:** Archivist Yelna Stonevoice, Historian of Echo-Law  
 **Contributing Authorities:** Professor Arav Dhal-Senn, Lt. Salvia Korrin, Magistrate Talar Shellmark, Researcher Falyn Onarra  
 **Original Filing:** 3004 A.D., Age of Delving  
-**Current Consolidated Revision:** 3388 A.D., Age of Spectacle  
+**Current Consolidated Revision:** Late Redfall, 3388 A.D., Age of Spectacle\
 **Document Class:** _Unified Historical Record / Grade-I Chronological Authority_  
 **Verification Reference:** Charter §1-A — Chronometric Reconstruction Protocol  
 **Supersedes:** The Chronological Consolidation of 3004 A.D. and all pre-3388 era-boundary circulars
@@ -107,9 +107,9 @@ Official ranges use non-overlapping years. The stated beginning of each age is t
 |**III. Ember Age**|2100–2599 A.D.|500 years|Secular magic, guild civilization, and uncontrolled invention|
 |**IV. Age of Collapse**|2600–2949 A.D.|350 years|Faithfall, chronometric fracture, famine, and Labyrinth proliferation|
 |**V. Age of Delving**|2950–3299 A.D.|350 years|Reconstruction through exploration and the rise of the Ministry|
-|**VI. Age of Spectacle**|3300–Present|88 years as of 3388|Observation, broadcast culture, and commodified memory|
+|**VI. Age of Spectacle**|3300–Present|88 years through late Redfall, 3388|Observation, broadcast culture, and commodified memory|
 
-The present year is **3388 A.D.**
+The present date is **late Redfall, 3388 A.D.**—the closing stretch of summer.
 
 The world currently remains within the **Age of Spectacle**.
 
@@ -369,7 +369,7 @@ The Labyrinths appear to have noticed.
 |**c. 3341 A.D.**|Beastfolk unions submit the first coordinated petition for legal Cognitive Autonomy and the right to unrecorded life.|Grade-II Reconstruction|
 |**c. 3350–3370 A.D.**|Mirror-Class events, stage-pattern architecture, and self-documenting breaches increase significantly.|Grade-I Reconstruction|
 |**c. 3362 A.D.**|The Arcane Breach Division formally adopts the **Mirror-Class** designation.|Grade-II Reconstruction|
-|**3388 A.D.**|Present year. The Age of Spectacle remains the governing historical classification.|Grade-I Anchor|
+|**Late Redfall, 3388 A.D.**|Present date. The Age of Spectacle remains the governing historical classification.|Grade-I Anchor|
 
 The Age of Spectacle is only eighty-eight years old.
 
@@ -476,7 +476,7 @@ Until then, the record remains open.
 > **Chronometric Inquiry Office / Historical Reconstruction Bureau**  
 > **Document Class:** _Unified Historical Record / Grade-I Chronological Authority_  
 > **Original Compilation:** Archivist Yelna Stonevoice  
-> **Current Consolidated Revision:** 3388 A.D.  
+> **Current Consolidated Revision:** Late Redfall, 3388 A.D.\
 > **Temporal Review:** Professor Arav Dhal-Senn  
 > **Field and Breach Correlation:** Lt. Salvia Korrin  
 > **Charter Verification:** Magistrate Talar Shellmark  

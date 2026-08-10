@@ -39,6 +39,8 @@ The **Four Roads Compact** ended the practice of classifying Centaurs as a rider
 
 Origin stories remain plural. No Centaur must accept the claim that two beings were merged to make them.
 
+The Four Roads Compact also ended the division of inheritance between “rider property” and “animal property.” Centaur advocates still cite it when an insurer, stable, military office, or city tries to split one person across incompatible laws. Its importance is not that Centaurs need a special definition of personhood, but that institutions repeatedly designed around other bodies fail to recognize an undivided life.
+
 ---
 
 ## III. Body and Sensory Life
@@ -59,6 +61,8 @@ The **pace promise** states that a group travels at a speed that allows everyone
 
 Many Centaur communities maintain public grooming courts where bodily care occurs socially without becoming public permission to touch.
 
+Road families may include settled members who keep a return place, travelers who carry news, and non-Centaur kin who maintain accessible exchanges between routes. Movement does not give travelers greater authenticity. A household is measured by renewed obligation, not distance covered.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -66,6 +70,8 @@ Many Centaur communities maintain public grooming courts where bodily care occur
 Centaur cultures frequently value mobility, route knowledge, physical candor, hospitality, endurance, music carried at travel pace, and promises tied to arrival.
 
 Modern debate concerns freedom and settlement. Romantic stories insist Centaurs must roam. Settled Centaurs answer that accessible homes and political rootedness can be freely chosen, while travelers note that borders often make movement look voluntary only to those permitted to cross.
+
+Access organizers add that roads themselves can confine. A city may welcome Centaurs to haul freight while making schools, clinics, and council rooms unreachable. The modern **whole destination** standard asks whether a person can participate after arriving, not merely whether the street was wide enough to approach the door.
 
 ---
 

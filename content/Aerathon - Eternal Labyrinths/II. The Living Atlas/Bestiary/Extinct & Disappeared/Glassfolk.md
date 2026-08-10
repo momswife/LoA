@@ -10,7 +10,7 @@
 **Filed Division:** Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Anthropological Relic Archive)  
 **Primary Compiler:** Curator Rook-of-Rings (Relics Registrar & Tharos Rings Specialist)  
 **Advisory Editors:** Archivist Yelna Stonevoice (Historian of Echo-Law), Inspector Jao “Greyglass” Vell (Forensic Thaumaturge), Dr. Odrin Sallow (Magitech Advancement & Arcane Safety)  
-**Date of Filing:** 3732 A.D. (Age of Spectacle)  
+**Date of Filing:** 3386 A.D. (Age of Spectacle)\
 **Document Class:** _Anthropological Extinction Record / Grade-II Authenticity_
 
 ---

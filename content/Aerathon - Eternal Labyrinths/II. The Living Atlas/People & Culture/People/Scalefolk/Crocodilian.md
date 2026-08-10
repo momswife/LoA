@@ -33,6 +33,8 @@ Ancient Crocodilian communities maintained flood markers, nesting banks, ferry r
 
 The **Bank Kept Open** law protects both nesting areas and public passage without assuming that one right erases the other.
 
+Its oldest versions required ferry keepers, nesting households, fishers, and upstream settlements to mark seasonal claims before floodwater erased the boundaries. The resulting bank councils became skilled at governing places that physically changed from year to year. A fixed map could inform the council, but never overrule the water actually present.
+
 ---
 
 ## III. Body and Sensory Life
@@ -40,6 +42,8 @@ The **Bank Kept Open** law protects both nesting areas and public passage withou
 Crocodilians possess long jaws, strong tails, scutes, excellent swimming ability, and eyes and nostrils adapted to surface observation.
 
 Jaws are expressive and medically complex. Asking for a bite demonstration or testing scutes is intrusive. Their apparent armor does not make restraint safe.
+
+Tail space, water depth, basking access, and temperature are ordinary access needs. Scutes can conceal injury from an untrained observer, while cold can reduce movement without reducing awareness. Medical spaces should allow a Crocodilian to lie supported, keep the jaw unforced, and communicate without being interpreted as threatening merely for exposing teeth.
 
 ---
 
@@ -49,6 +53,8 @@ Households include nest families, river blocks, ferry companies, flood councils,
 
 The **Surface Signal** announces approach to a shared bank so stillness is not mistaken for absence and surprise does not become policy.
 
+Nest families and chosen basking circles overlap without being identical. Child care, flood response, ferry work, and ritual life may each create a different circle of responsibility. Crocodilian law generally names which relationship is speaking before it assigns authority, preventing parenthood, property, or professional skill from silently becoming rule over every other matter.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +62,8 @@ The **Surface Signal** announces approach to a shared bank so stillness is not m
 Crocodilian cultures admire patience, decisive action, territorial clarity, parental care, water literacy, and boundaries stated before conflict.
 
 Their shadow is delayed response. Waiting for certainty can allow harm to become entrenched; decisive action after long silence can appear without explanation.
+
+Modern reformers call this problem **the hidden threshold**. They ask councils to state what evidence would trigger action and to warn when that threshold is approaching. Traditionalists worry that public thresholds can be manipulated by rivals. Both sides agree that patience should produce better judgment, not merely postpone accountability.
 
 ---
 
@@ -86,6 +94,8 @@ Crocodilian settlements shape mangrove, lagoon, and storm-channel politics.
 ## VII. Crocodilian Delvers
 
 Crocodilian delvers excel in flooded ambush detection, rescue, anchoring, swimming, and decisive close defense. Parties must not assume they should lead every underwater breach.
+
+Labyrinths may counterfeit a familiar bank, hide movement beneath perfectly still water, change the depth after entry, or interpret territorial markings as a challenge. Crews use sounded routes, independent current markers, and agreed surface signals. Extraction plans must work on land and in water; natural swimming ability does not make an armored companion easy to recover through a narrow shaft.
 
 ---
 

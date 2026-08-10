@@ -34,6 +34,8 @@ Elementborn lines appeared wherever planar boundaries thinned during the Converg
 
 The **Four Vessels Debate** rejected attempts to organize Elementborn into personality castes. Its conclusion remains foundational: a vessel influences how force moves, not what the bearer intends.
 
+Surviving accounts describe some early Elementborn communities as boundary households: families maintaining safe wells, pressure chambers, cooling courts, or stone shelters where planar conditions could be managed collectively. These sites were neither elemental colonies nor medical wards. They were ordinary neighborhoods designed around bodies that nearby authorities had considered inconvenient.
+
 ---
 
 ## III. Body and Sensory Life
@@ -50,6 +52,8 @@ Elementborn often belong fully to non-Elementborn families and regional communit
 
 A **Weather Statement** is a voluntary declaration of current bodily conditions before high-risk magic. It communicates capacity without converting a person into a forecast for everyone else.
 
+Care circles often include non-Elementborn relatives and specialists from more than one tradition. A Waterborn child raised in a mountain household may inherit both the family’s civic obligations and techniques learned from distant humidity-keepers. Elementborn kinship is therefore not a separate nation hidden inside Brethren society; it is a network through which embodied knowledge travels among otherwise different homes.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -57,6 +61,8 @@ A **Weather Statement** is a voluntary declaration of current bodily conditions 
 Elementborn communities value balance, expression, adaptability, embodied knowledge, and the ability to release force safely.
 
 Their central debate concerns authenticity. Planar institutions may accuse material-born members of dilution, while mortal communities may treat visible manifestation as foreignness. Modern circles reject purity measured by intensity.
+
+Labor law is the debate’s practical edge. Forges, ships, mines, and weather stations have long paid for elemental resistance while ignoring the recovery that follows its use. Current organizers argue that a useful affinity remains a bodily capacity, not an employer-owned resource. The same protection applies to people whose manifestations are faint, intermittent, or deliberately suppressed.
 
 ---
 

@@ -33,6 +33,8 @@ Old Porcine kinships maintained truffle grounds, seed banks, forest clearings, r
 
 The **Table Without Carving** commemorates resistance to regimes that classified Porcine people beside livestock. At the meal, every dish is named by maker and source; no body at the table may be spoken of as food.
 
+Porcine historians also preserve **ground ledgers**: seasonal records of what a field received, what it yielded, and what must be returned before it can be used again. Some are written books; others are planted borders, marked jars, or recited work songs. Their importance is ethical rather than mystical. Land made productive by generations of labor is not empty merely because no palace stands upon it.
+
 ---
 
 ## III. Body and Sensory Life
@@ -49,6 +51,8 @@ Porcine households include farms, forest circles, urban kitchens, salvage cooper
 
 Food is often a language of consent and reciprocity. Declining a meal is permitted; pressuring someone to eat or commenting on appetite is not hospitality.
 
+Many households distinguish the **first table**, where urgent needs are met without question, from the **long table**, where contributors decide how stores will be shared through the season. This protects generosity from becoming quiet coercion. A guest may be fed immediately while still retaining a voice in any continuing obligation.
+
 ---
 
 ## V. Inner Life and Modern Debate
@@ -56,6 +60,8 @@ Food is often a language of consent and reciprocity. Declining a meal is permitt
 Porcine cultures admire resourcefulness, sensual attention, perseverance, generosity, ecological repair, and refusal to waste.
 
 Their shadow is overprovision: expressing care through constant supply until rest, grief, or uncertainty is buried beneath work.
+
+Current debate centers on ownership of repaired ground. Rural circles seek recognition for ancestral soil work; urban cooperatives argue that composting, kitchen labor, and waste recovery are also forms of civic stewardship. Younger Porcines increasingly reject the romantic idea that they belong naturally to farms. The shared claim is narrower: work that sustains others deserves safety, credit, and choice.
 
 ---
 
