@@ -1,3 +1,5 @@
+# Zaros
+
 ### _Lodge-Town of the Zaros Mountains_
 
 **Region:** **Oria**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Zaros** is hidden deep within the mountain range that shares its name, accessible only by a single road no wider than a wagon. Even within Oria, the lodge is frequently forgotten—so much so that university students studying Oric geography often omit it entirely.
 
@@ -19,7 +21,7 @@ Those who find their way in are welcomed enthusiastically, fed generously, and s
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Zaros is built into a sheltered mountain bowl.
 
@@ -36,7 +38,7 @@ The surrounding peaks block most weather and nearly all passing traffic. The sen
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Zaros is largely self-sufficient.
 
@@ -55,7 +57,7 @@ Pickles made with outside dill are permitted for trade and are widely regarded a
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Zaros is governed by a **Lodge Council**, composed of senior households and tradition-keepers.
 
@@ -70,7 +72,7 @@ No House claims Zaros directly, but its voice at the Housemeet is respected for 
 
 ---
 
-## **V. Labyrinth Pressure (Increasing)**
+## V. Labyrinth Pressure (Increasing)
 
 The Zaros Mountains have become a growing **Labyrinth hotspot**, though no single manifestation is publicly cataloged.
 
@@ -87,7 +89,7 @@ Discussion of Labyrinth specifics remains limited, in accordance with the Quiet 
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Zarosi are exuberant, superstitious, and intensely sincere.
 
@@ -113,7 +115,7 @@ These rules are enforced politely, firmly, and without explanation.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Stories associated with Zaros include:
 

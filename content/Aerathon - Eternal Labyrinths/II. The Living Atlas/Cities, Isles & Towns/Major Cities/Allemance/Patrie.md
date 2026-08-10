@@ -1,3 +1,5 @@
+# Patrie
+
 ### _Doorstep of the Pilgrimage — “We Were Moved. We Remained.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Anomalous Settlements & Displacement Events)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Patrie** is a large and culturally singular city located in **Bluebell Valley**, notable not for political authority, but for origin. It is the largest intact remnant of a **human metropolis from the Broken World**, relocated into Aerathon during a pre-Edict spatial anomaly in the mid-1400s A.D.
 
@@ -23,11 +25,11 @@ Today, Patrie is one of the most populous cities in Allemance by residents, yet 
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Patrie occupies the heart of **Bluebell Valley**, approached by newly laid stone roads that branch from older Allemantic trade routes. Terraced **coffee farms** climb the valley slopes, marking the transition from countryside to concrete.
 
-### **The Wheel City**
+### The Wheel City
 
 Patrie’s layout is radial:
 
@@ -40,7 +42,7 @@ Patrie’s layout is radial:
 
 This geometry predates its arrival in Aerathon and is believed to have contributed to the city’s structural survival during transposition.
 
-### **Material & Color**
+### Material & Color
 
 Patrie’s buildings are composed primarily of **concrete, steel, and composite stone**, materials uncommon elsewhere in Aerathon. Surfaces are painted in **loud, defiant colors**—acid greens, pinks, yellows, and blues. Banners of unreadable script and abstract design hang across streets, many stitched from salvaged Broken World materials.
 
@@ -49,7 +51,7 @@ It **declares it**.
 
 ---
 
-## **III. History**
+## III. History
 
 Patrie’s history begins not in Aerathon, but in the **Broken World**.
 
@@ -63,7 +65,7 @@ Only later did Allemance formalize its status, reorganizing surrounding lands in
 
 Restoration, not expansion, became Patrie’s defining mission.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **c. 1430–1460 A.D.** — **The Transposition Event**, relocating a ruined Broken World metropolis into Bluebell Valley during a pre-Edict spatial anomaly.
     
@@ -80,7 +82,7 @@ Restoration, not expansion, became Patrie’s defining mission.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Patrie is governed as a **baronial city**, not a seat of power.
 
@@ -95,7 +97,7 @@ Authority here is custodial, not expansionist.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Patrie’s economy blends survival, culture, and export.
 
@@ -114,7 +116,7 @@ Scavengers bringing usable materials from the Broken World are rewarded, feeding
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Patrie’s culture is shaped by memory rather than worship.
 
@@ -129,7 +131,7 @@ Street art, fashion, and music are protected expressions of identity. History is
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Patrie maintains layered defense:
 
@@ -144,7 +146,7 @@ Crimes involving heritage destruction or exploitation of preserved districts are
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Patrie maintains a **zero-tolerance posture** toward Labyrinth activity.
 
@@ -159,7 +161,7 @@ The city has already survived one impossible relocation.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -173,7 +175,7 @@ Patrie influences discourse, not policy.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Patrie is not a monument to divine action or political ambition. It is a city that **refused to disappear**, carrying its origin forward intact.
 
@@ -184,7 +186,7 @@ It **remembers**.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Coffee shops double as archival salons
     
@@ -197,7 +199,7 @@ It **remembers**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Anomalous Settlements & Displacement Events)**  

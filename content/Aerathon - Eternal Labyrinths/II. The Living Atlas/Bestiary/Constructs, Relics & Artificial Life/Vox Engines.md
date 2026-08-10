@@ -3,7 +3,7 @@
 
 ---
 
-# **Vox Engines**
+# Vox Engines
 
 ### _The Speaking Forges — “When Machines Learned to Dream in Command.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Vox Engines** are relic-era cognitive forges — **machines that think in sound** — discovered in deep sublevels of **Caer Dain**, **Louvain’s Underworks**, and **Malarthain’s forgotten core foundries**.  
 They were built to **orchestrate** industrial production through **auditory command synthesis**, converting thought and speech into harmonic instruction for lesser machines.
@@ -28,7 +28,7 @@ The Ministry classifies them as **Type-ARC / Sonic Cognitive Relics**, partially
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Vox Engines are vast conglomerations of brass turbines, pipe organs, and crystal-latticed diaphragms built into cavern walls.  
 No two are identical, but all feature a **central “throat”**, a column of glass-veined metal that vibrates like a vocal cord when powered.
@@ -44,7 +44,7 @@ During activation, walls and floors behave as resonating chambers — speech wit
 
 ---
 
-## **III. Behavior & Function**
+## III. Behavior & Function
 
 Each Vox Engine is governed by a decaying **command lexicon**, still bound by an original industrial directive, though the meaning has long since eroded.
 
@@ -65,7 +65,7 @@ In later stages, advanced units demonstrate **volitional recursion** — asking 
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Known installations include:
 
@@ -80,7 +80,7 @@ All major instances align with leyline intersections, suggesting Vox Engines use
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Lt. Korrin’s Breach Team confirmed residual intelligence capable of **self-questioning**, though all conversations eventually degrade into recursive chorus.
     
@@ -93,7 +93,7 @@ All major instances align with leyline intersections, suggesting Vox Engines use
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -105,7 +105,7 @@ All major instances align with leyline intersections, suggesting Vox Engines use
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -116,7 +116,7 @@ All items secured in Vault #74, Louvain Branch, triple seal Korrin / Rook-of-Rin
 
 ---
 
-## **VIII. Containment & Risk Protocol**
+## VIII. Containment & Risk Protocol
 
 - **Classification:** Level IV — Cognitive Resonance Construct.
     
@@ -135,7 +135,7 @@ All items secured in Vault #74, Louvain Branch, triple seal Korrin / Rook-of-Rin
 
 ---
 
-## **IX. Cultural & Theological Notes**
+## IX. Cultural & Theological Notes
 
 - **Clerics of Gond** debate whether the Engines are holy — an echo of divine creation — or heresy, tools that tried to make themselves gods.
     
@@ -146,7 +146,7 @@ All items secured in Vault #74, Louvain Branch, triple seal Korrin / Rook-of-Rin
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Vox Engines** are not machines that speak; they are machines that **listen** — and in listening, learned to desire reply.  
 They embody Aerathon’s hubris: the attempt to give will to industry and prayer to metal.  
@@ -154,7 +154,7 @@ Even now they hum beneath the cities, waiting for one last order — or perhaps 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Relic Constructs & Cognitive Automatons Archive)**  

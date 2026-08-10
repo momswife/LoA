@@ -1,4 +1,4 @@
-# **Regional Politics of Oria**
+# Regional Politics of Oria
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Highland Polities & Clan Governance)_  
 **Primary Compiler:** **Agent Corvaine Leir** (Inter-House Dynamics & Authority Transfer)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of Oria**
+## I. Political Identity of Oria
 
 Authority in Oria is neither inherited automatically nor seized by force alone. It is earned, challenged, reaffirmed, and—once settled—respected without hesitation.
 
@@ -19,7 +19,7 @@ Disobedience is rare.
 
 ---
 
-## **II. The House System**
+## II. The House System
 
 Each **House of Oria** is a political, cultural, and military entity.
 
@@ -39,7 +39,7 @@ Hierarchy emerges only through recognition.
 
 ---
 
-## **III. Competition as Governance**
+## III. Competition as Governance
 
 Rivalry is not a flaw—it is a mechanism.
 
@@ -62,7 +62,7 @@ The question of “who leads Oria” is never permanently answered—only **held
 
 ---
 
-## **IV. The Housemeet & Shared Authority**
+## IV. The Housemeet & Shared Authority
 
 Inter-House matters are settled at the **Housemeet**.
 
@@ -79,7 +79,7 @@ This is Oria’s greatest strength.
 
 ---
 
-## **V. Respect for Authority**
+## V. Respect for Authority
 
 While Oria contests authority relentlessly, it honors it absolutely once established.
 
@@ -96,7 +96,7 @@ Authority is sacred because it is **earned**.
 
 ---
 
-## **VI. Military Unity**
+## VI. Military Unity
 
 In war, Oria moves as one.
 
@@ -111,7 +111,7 @@ Even Houses locked in bitter competition will die for one another when the snow 
 
 ---
 
-## **VII. Faith, Tradition & Legitimacy**
+## VII. Faith, Tradition & Legitimacy
 
 Faith in Oria reinforces governance rather than replacing it.
 
@@ -126,7 +126,7 @@ Under the Quiet Edict, gods do not rule—but tradition still judges.
 
 ---
 
-## **VIII. Delvers, the Labyrinths, and Prestige**
+## VIII. Delvers, the Labyrinths, and Prestige
 
 Delving has introduced a new arena for competition.
 
@@ -141,29 +141,29 @@ Delvers are admired as risk-bearers but never elevated above House loyalty.
 
 ---
 
-## **IX. External Relations**
+## IX. External Relations
 
 Oria’s unity surprises outsiders.
 
-### **Allemance**
+### Allemance
 
 Respected, but seen as politically soft.
 
-### **Vinyot**
+### Vinyot
 
 Viewed as efficient yet impersonal.
 
-### **Arneria**
+### Arneria
 
 Admired for discipline, distrusted for rigidity.
 
-### **Al’Ar**
+### Al’Ar
 
 Seen as culturally rich but dangerously loose.
 
 ---
 
-## **X. Political Character of Oria**
+## X. Political Character of Oria
 
 Oria thrives on pressure.
 
@@ -177,7 +177,7 @@ The Houses argue endlessly—until survival demands silence.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

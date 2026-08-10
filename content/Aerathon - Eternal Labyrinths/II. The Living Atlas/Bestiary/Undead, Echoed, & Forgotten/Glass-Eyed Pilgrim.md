@@ -4,7 +4,7 @@
 
 ---
 
-# **Glass-Eyed Pilgrims**
+# Glass-Eyed Pilgrims
 
 ### _Wanderers Claimed by Forgotten Reflections — “When a Journey Outlives the Traveler.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Glass-Eyed Pilgrims** are undead wanderers whose souls have been partially absorbed by **reflective memory phenomena** — cursed mirrors, echo-lakes, broken cathedral glass, or remnants of the Shatterfall dust left by the Glassfolk.
 
@@ -34,7 +34,7 @@ The Ministry classifies them as **Type-UNF / Reflective Echo-Undead**, often har
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -57,7 +57,7 @@ When close, their eye-reflections behave independently, sometimes showing:
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Glass-Eyed Pilgrims exhibit unique echo-behavior tied to reflection-memory.
 
@@ -90,7 +90,7 @@ They rarely initiate aggression unless:
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 They are most often found in:
 
@@ -111,7 +111,7 @@ Emergence correlates strongly with **collective memory events**, such as anniver
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-Law analysis shows that Pilgrims’ glass-eyes store **imprinted memory shards**, not belonging to the corpse beneath.
     
@@ -130,7 +130,7 @@ Emergence correlates strongly with **collective memory events**, such as anniver
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -144,7 +144,7 @@ Doing so risks a **memory echo-inversion**, where you temporarily recall events 
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -155,7 +155,7 @@ Artifacts stored in Vault #118 (Louvain Branch — Reflective Echo Annex), dual 
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level III — Wandering Echo-Undead / Memory Hazard
     
@@ -170,7 +170,7 @@ Artifacts stored in Vault #118 (Louvain Branch — Reflective Echo Annex), dual 
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Louvain Pilgrims:** Consider them “failures of faith who still seek home.”
     
@@ -187,7 +187,7 @@ Artifacts stored in Vault #118 (Louvain Branch — Reflective Echo Annex), dual 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Glass-Eyed Pilgrims** are haunting remnants of forgotten journeys — undead walkers driven not by hunger or malice, but by echoes of memories that do not belong to them.  
 They follow old routes long erased from maps, searching endlessly for completion to a pilgrimage that died centuries before they did.
@@ -199,7 +199,7 @@ even when those who walked them are long gone.**
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)**  

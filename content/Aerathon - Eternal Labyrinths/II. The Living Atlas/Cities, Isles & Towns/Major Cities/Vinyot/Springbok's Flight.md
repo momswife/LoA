@@ -1,3 +1,5 @@
+# Springbok's Flight
+
 ### _The Twin Ascent — “Faith Climbs Before It Flies.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Sacred Cities & Pilgrimage Routes)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Springbok’s Flight** is a major city of **Vinyot**, revered not for wealth or force, but for **alignment**. Built amid steep coastal cliffs, the city is defined by two great ascending roads that rise east and west toward twin lighthouse-towers overlooking the sea.
 
@@ -28,11 +30,11 @@ For centuries, Springbok’s Flight has been a required passage for religious pi
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Springbok’s Flight is carved into a natural saddle between cliffs that fall sharply to the sea.
 
-### **The Twin Roads**
+### The Twin Roads
 
 - One road ascends westward, one eastward
     
@@ -43,7 +45,7 @@ Springbok’s Flight is carved into a natural saddle between cliffs that fall sh
 
 The climb is considered part of the rite.
 
-### **The Lighthouse Towers**
+### The Lighthouse Towers
 
 - Tall stone beacons visible far offshore
     
@@ -56,7 +58,7 @@ The city below is built low and orderly, careful not to overshadow the ascent.
 
 ---
 
-## **III. History**
+## III. History
 
 Springbok’s Flight began as a small cliffside settlement where early pilgrims stopped to pray before dangerous sea crossings. Over time, two separate shrines emerged—one honoring the Beast Mother’s will, the other Dramphine’s judgment.
 
@@ -66,7 +68,7 @@ The twin towers were raised not to compete, but to balance—an architectural de
 
 As pilgrimage traffic grew, the city expanded cautiously, ensuring that devotion remained central rather than diluted by excess.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **811 A.D.** — First recorded pilgrim shrine on the western cliff.
     
@@ -82,7 +84,7 @@ Faith, here, is meant to arrive on foot.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 The city is governed by a **Civic Conclave**, composed of:
 
@@ -97,7 +99,7 @@ No single faith governs the city. Authority exists to preserve neutrality and or
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Springbok’s Flight thrives quietly.
 
@@ -116,7 +118,7 @@ Commerce is deliberately restrained. Excess is considered a distraction.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith defines daily life.
 
@@ -133,7 +135,7 @@ Religious tourists are expected to **behave as though they are being witnessed**
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law enforcement is calm but uncompromising.
 
@@ -148,7 +150,7 @@ Springbok’s Flight is safe because it is predictable.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Springbok’s Flight has no Labyrinth entrances.
 
@@ -163,7 +165,7 @@ The city’s purpose is reflection, not descent.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -177,7 +179,7 @@ Springbok’s Flight shapes how faith moves through Aerathon.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Springbok’s Flight believes restraint is itself sacred.
 
@@ -187,7 +189,7 @@ It stands as proof that devotion does not require excess—and that a city can c
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Pilgrims often walk barefoot on one ascent
     
@@ -200,7 +202,7 @@ It stands as proof that devotion does not require excess—and that a city can c
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Sacred Cities & Pilgrimage Routes)**  

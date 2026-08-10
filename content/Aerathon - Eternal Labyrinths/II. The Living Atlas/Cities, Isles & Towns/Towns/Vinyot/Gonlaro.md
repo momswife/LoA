@@ -1,3 +1,5 @@
+# Gonlaro
+
 ### _Abandoned Settlement of the Cristalmonte Lowlands_
 
 **Region:** **Vinyot**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Gonlaro** was the largest and most ambitious attempt to settle **Kelvonostro**, founded between the **Cristalmonte River** and miles of surrounding swamp. Its purpose was simple and profitable: harvest insects at industrial scale and ship them downstream to be processed into fertilizer and animal feed for Vinyot’s expanding markets.
 
@@ -19,7 +21,7 @@ Gonlaro was never resettled.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 The remains of Gonlaro sit half-sunken in mud and reed.
 
@@ -36,7 +38,7 @@ A **perpetual black fog of insect swarms** hangs over the site, densest at dawn 
 
 ---
 
-## **III. Economy & Work (Former)**
+## III. Economy & Work (Former)
 
 Gonlaro existed entirely as an extraction site.
 
@@ -53,7 +55,7 @@ Most did not get the chance.
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 The town was governed by a **single project authority**, appointed directly from Dole.
 
@@ -70,7 +72,7 @@ Official responsibility for Gonlaro is still **disputed on paper**.
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 The mines beneath Gonlaro connected to a known subterranean route later identified as part of **the Loamlink**.
 
@@ -83,7 +85,7 @@ The area is now classified as **structurally unstable and spiritually active**.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Gonlaro is not quiet.
 
@@ -102,7 +104,7 @@ It is widely believed that **not everyone escaped**.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Stories associated with Gonlaro include:
 

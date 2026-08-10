@@ -1,3 +1,5 @@
+# Verglass
+
 ### _Hidden Village of the Bêtemère Plateau_
 
 **Region:** **Vinyot**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Verglass** is a secluded village hidden high within the **Bêtemère Mountains**, perched on a snowbound plateau encircled by sheer, impassable peaks. It is home to a tight-knit conclave of **snow cat beastfolk**, whose oral histories insist their people were uplifted separately from the felines of **Al’Ar**, following a different and older path.
 
@@ -17,7 +19,7 @@ The village does not participate meaningfully in Vinyotian trade, politics, or c
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Verglass sits on a broad, wind-scoured plateau under perpetual snow.
 
@@ -34,7 +36,7 @@ The surrounding peaks form a natural barrier. Avalanches and whiteout conditions
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Verglass is largely self-sufficient.
 
@@ -51,7 +53,7 @@ Trade is minimal and infrequent, conducted only with trusted intermediaries. Coi
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 The village is governed by a **Council of Elders**, chosen for memory, restraint, and survival wisdom rather than lineage.
 
@@ -66,7 +68,7 @@ No external authority is recognized. Vinyot’s capital holds no practical sway 
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 No Labyrinth site is publicly acknowledged near Verglass.
 
@@ -83,7 +85,7 @@ These traditions are not explained to outsiders. Questions are usually met with 
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 The people of Verglass are reserved, observant, and deeply communal.
 
@@ -100,7 +102,7 @@ Snow cats who leave the plateau are rare and often regarded with concern rather 
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Stories whispered outside Verglass include:
 

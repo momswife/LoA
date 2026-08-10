@@ -4,7 +4,7 @@
 
 ---
 
-# **Echo Sliver**
+# Echo Sliver
 
 ### _Sound Given Flesh — “The Voice That Forgot Its Body.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 An **Echo Sliver** is a parasitic auditory manifestation — a shard of sound that has detached from its originating event and grown predatory.  
 First documented within **abandoned resonance tunnels near Symphony Canyon**, these entities have since appeared in every region where acoustic or vibrational magic is overused.
@@ -26,7 +26,7 @@ To the untrained ear, it is merely the replay of a footstep or whispered word. T
 
 ---
 
-## **II. Manifestation & Appearance**
+## II. Manifestation & Appearance
 
 Echo Slivers have **no true body** in ordinary light.  
 They are visible only in **vibrational dust** or **mist**, appearing as thin distortions — crescent shapes bending air like liquid glass.
@@ -41,7 +41,7 @@ Echo Slivers “swim” through acoustics, shifting faster when noise is rhythmi
 
 ---
 
-## **III. Behavior & Feeding**
+## III. Behavior & Feeding
 
 Echo Slivers feed on **sound-borne life energy**, particularly the vibrational frequencies of a living creature’s heartbeat and voice.  
 They attach to any continuous tone — a word, breath, or scream — and consume the vibrational source until silence remains.
@@ -61,7 +61,7 @@ When multiple Slivers overlap, they form **Choruses**, capable of fracturing sto
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Echo Slivers emerge near:
 
@@ -76,7 +76,7 @@ Containment teams report increased activity following major concerts, collapses,
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin confirmed Slivers react aggressively to her voice modulation spells but retreat when presented with **anti-phase tone bursts**.  
 Spectro-runes record their “call” as negative amplitude — a void note beneath audible range.
@@ -87,7 +87,7 @@ Vell’s autopsy of recovered _Sound Husk_ (solidified Sliver remnant) showed cr
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -99,7 +99,7 @@ Vell’s autopsy of recovered _Sound Husk_ (solidified Sliver remnant) showed cr
 
 ---
 
-## **VII. Symptomatology of Exposure**
+## VII. Symptomatology of Exposure
 
 - Sudden absence of all echo in enclosed space.
     
@@ -114,7 +114,7 @@ Victims may survive but lose ability to speak above a whisper — termed _resona
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -125,7 +125,7 @@ All materials stored in Vault #112, Louvain Branch, double seal Vell & Korrin.
 
 ---
 
-## **IX. Containment & Risk Protocols**
+## IX. Containment & Risk Protocols
 
 - **Classification:** Level III — Non-Corporeal / Cognitive-Acoustic Threat.
     
@@ -138,7 +138,7 @@ All materials stored in Vault #112, Louvain Branch, double seal Vell & Korrin.
 
 ---
 
-## **X. Cultural Context**
+## X. Cultural Context
 
 - **Bards of Evermeet:** Believe Slivers are “songs that refused to die.” Some attempt communion to reclaim lost melodies — many end deaf or mad.
     
@@ -149,14 +149,14 @@ All materials stored in Vault #112, Louvain Branch, double seal Vell & Korrin.
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Echo Sliver** is the audible ghost of Aerathon’s own noise — proof that even sound, if ignored too long, learns hunger.  
 It is a mirror made of noise, a predator made of your footsteps, and a warning that some silences must be earned, not found.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)**  

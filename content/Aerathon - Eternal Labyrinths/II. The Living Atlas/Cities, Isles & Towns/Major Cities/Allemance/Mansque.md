@@ -1,3 +1,5 @@
+# Mansque
+
 ### _Barony Capital of the Esterfold_
 
 **Region:** **Allemance**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Mansque** is defined by a single, unavoidable landmark: a **500-foot tower** rising from the town’s center, visible for miles across the Esterfold. Some claim—without proof—that it can be seen from the Louvain peninsula on clear days.
 
@@ -17,7 +19,7 @@ The town grew around this pursuit—and adopted it, cautiously.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Mansque is built in concentric rings around the central tower.
 
@@ -34,7 +36,7 @@ The tower casts a long shadow at dawn and dusk. Locals treat this as ordinary.
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Mansque’s economy blends scholarship with administration.
 
@@ -53,7 +55,7 @@ Most residents possess **rudimentary arcane knowledge**—often a cantrip or two
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Mansque is ruled by **House Mansque**, with authority centralized in the tower.
 
@@ -68,7 +70,7 @@ Louvain recognizes Mansque’s authority and largely avoids interference, so lon
 
 ---
 
-## **V. Labyrinth Pressure (Managed)**
+## V. Labyrinth Pressure (Managed)
 
 No persistent Labyrinth manifestation exists within Mansque.
 
@@ -78,7 +80,7 @@ The tower’s collections include references to Labyrinths—but never maps, ent
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Mansque is curious, competitive, and aspirational.
 
@@ -95,7 +97,7 @@ The phrase **“Mansque Mage”** is used throughout Allemance to describe someo
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Talk heard in Mansque includes:
 

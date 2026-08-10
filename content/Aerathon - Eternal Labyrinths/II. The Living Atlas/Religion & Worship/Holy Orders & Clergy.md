@@ -1,3 +1,5 @@
+# Holy Orders & Clergy
+
 ### _Stewards of Faith in a World Where Fewer Delvers Believe_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Holy Orders once shaped nearly every aspect of Aerathon’s civic and delving life.  
 Clergy provided:
@@ -59,11 +61,11 @@ This register outlines the major active orders and their modern functions.
 
 ---
 
-## **II. Clerical Roles in a Secularizing Age**
+## II. Clerical Roles in a Secularizing Age
 
 Modern clergy serve three primary societal roles:
 
-### **1. Civic Functionaries**
+### 1. Civic Functionaries
 
 Managing temples as:
 
@@ -78,11 +80,11 @@ Managing temples as:
 - archives
     
 
-### **2. Cultural Stewards**
+### 2. Cultural Stewards
 
 Maintaining festivals, rites, marriages, funerals, and regional traditions.
 
-### **3. Psychological & Moral Support**
+### 3. Psychological & Moral Support
 
 Providing:
 
@@ -99,122 +101,122 @@ Clergy do **not** require delver devotion to remain relevant—they’ve adapted
 
 ---
 
-## **III. Holy Orders of the Modern Pantheon**
+## III. Holy Orders of the Modern Pantheon
 
 Below are the major orders still active throughout Aerathon, with notes on how delvers engage with (or avoid) them today.
 
 ---
 
-# **1. Orders of Protection & Vigilance**
+### 1. Orders of Protection & Vigilance
 
 _Deities: Helm, Tyr, Torm, Kelemvor_
 
-### **The Knights of the Gauntlet (Helm)**
+### The Knights of the Gauntlet (Helm)
 
 **Focus:** public safety, sentry training, labyrinth breach response  
 **Delver Relationship:** Pragmatic; delvers respect their skill, not their doctrine.
 
-### **The Scales of Tyr**
+### The Scales of Tyr
 
 **Focus:** arbitration, legal reform, truth-seeking  
 **Delver Relationship:** Minimal unless facing legal challenges.
 
-### **The Brotherhood of the Final Hour (Kelemvor)**
+### The Brotherhood of the Final Hour (Kelemvor)
 
 **Focus:** funerary rites, memorial walls, grief counseling  
 **Delver Relationship:** Strong emotional reliance after casualties, despite low devotion.
 
 ---
 
-# **2. Orders of Mercy & Healing**
+### 2. Orders of Mercy & Healing
 
 _Deities: Ilmater, Eldath, Chauntea_
 
-### **The Red Cords of Ilmater**
+### The Red Cords of Ilmater
 
 **Focus:** pain relief, trauma therapy, mobile aid stations  
 **Delver Relationship:** Very high—seen as indispensable healers, not religious authorities.
 
-### **The Verdant Hands (Chauntea/Eldath)**
+### The Verdant Hands (Chauntea/Eldath)
 
 **Focus:** rural medical aid, food distribution, peace initiatives  
 **Delver Relationship:** Low; delvers usually encounter them in travel, not guild life.
 
 ---
 
-# **3. Orders of Knowledge & Creation**
+### 3. Orders of Knowledge & Creation
 
 _Deities: Gond, Deneir, Oghma, Mystra, Savras_
 
-### **The Illuminated Scriptorium (Deneir)**
+### The Illuminated Scriptorium (Deneir)
 
 **Focus:** literacy, transcription, spell records  
 **Delver Relationship:** Moderate; essential for mapkeeping and relic cataloguing.
 
-### **The Artificer’s Covenant (Gond)**
+### The Artificer’s Covenant (Gond)
 
 **Focus:** invention, arcanotech repair, innovation ethics  
 **Delver Relationship:** High—guilds rely on them for gear and safety inspections.
 
-### **The Prognostic Chorus (Savras)**
+### The Prognostic Chorus (Savras)
 
 **Focus:** statistical divination, risk forecasting  
 **Delver Relationship:** Increasing; delvers rely on their “probability sheets,” not prophecy.
 
 ---
 
-# **4. Orders of Light, Joy & Inspiration**
+### 4. Orders of Light, Joy & Inspiration
 
 _Deities: Lathander, Sune, Selûne, Lliira, Milil_
 
-### **The Dawnkeepers (Lathander)**
+### The Dawnkeepers (Lathander)
 
 **Focus:** youth advocacy, rehabilitation programs, urban renewal  
 **Delver Relationship:** Symbolic; delvers respect their optimism but rarely join rites.
 
-### **The Sisters of the Seven Stars (Selûne)**
+### The Sisters of the Seven Stars (Selûne)
 
 **Focus:** migrant aid, night-shelter services  
 **Delver Relationship:** High among traveling delvers, but culturally—not religiously.
 
-### **The Rose Court (Sune)**
+### The Rose Court (Sune)
 
 **Focus:** art, therapy through beauty, social healing  
 **Delver Relationship:** Favored by creative guilds; devotion optional.
 
 ---
 
-# **5. Orders of Shadow, Sea & Calamity**
+### 5. Orders of Shadow, Sea & Calamity
 
 _Deities: Mask, Tymora, Shar, Talos, Umberlee, Loviatar, Malar_
 
-### **The Masked Fellowship**
+### The Masked Fellowship
 
 **Focus:** privacy rights, anonymity protection, undercity advocacy  
 **Delver Relationship:** Strong cultural influence; almost no formal religious adherence.
 
-### **Tymora’s Rolling Circle**
+### Tymora’s Rolling Circle
 
 **Focus:** luck rites, gamehouses, risk counseling  
 **Delver Relationship:** The most culturally significant among delvers—used as superstition only.
 
-### **The Silent Veil (Shar)**
+### The Silent Veil (Shar)
 
 **Focus:** grief work, emotional catharsis, destructive impulse management  
 **Delver Relationship:** Growing among delvers suffering labyrinth trauma.
 
-### **The Stormbound (Talos)**
+### The Stormbound (Talos)
 
 **Focus:** storm prediction, disaster readiness  
 **Delver Relationship:** Mostly avoided—Talos worshippers seen as thrill-seeking extremists.
 
 ---
 
-## **IV. Clergy Embedded in Guilds (Declining)**
+## IV. Clergy Embedded in Guilds (Declining)
 
 Once mandatory for major guilds, embedded clergy are now optional and increasingly rare.
 
-### **Roles Clerics Used to Fill:**
+### Roles Clerics Used to Fill:
 
 - blessing delves
     
@@ -227,7 +229,7 @@ Once mandatory for major guilds, embedded clergy are now optional and increasing
 - resolving moral disputes
     
 
-### **Roles They Fill Now:**
+### Roles They Fill Now:
 
 - crisis counseling
     
@@ -255,7 +257,7 @@ Clergy remain in:
 
 ---
 
-## **V. Training, Ordination & Regulation**
+## V. Training, Ordination & Regulation
 
 Clerics undergo regulated training overseen by:
 
@@ -283,7 +285,7 @@ Miracles are no longer an expectation.
 
 ---
 
-## **VI. Ministry Assessment**
+## VI. Ministry Assessment
 
 |Category|Status|
 |---|---|
@@ -303,7 +305,7 @@ not the believing.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)**  

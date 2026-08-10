@@ -1,3 +1,10 @@
+---
+aliases:
+  - Arneia
+---
+
+# Arneria
+
 ### _The Oathlands of Flame and Sky — “What Is Sworn Must Be Survived.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
@@ -8,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Arneria** is a land where belief is not abstract—it is **engineered, reforged, and enforced**. Stretching across scorched plains, volcanic highlands, and humid western jungles, the nation exists in a constant state of ritual maintenance. Faith here is not comfort. It is **infrastructure**.
 
@@ -23,15 +30,15 @@ The nation is governed from **Tilkisan**, a capital of controlled beauty and inh
 
 ---
 
-## **II. Geography & Sub-Regions**
+## II. Geography & Sub-Regions
 
 Arneria is divided less by borders than by **ritual climates**—zones where land, faith, and danger overlap differently.
 
-### **The Central Oathlands**
+### The Central Oathlands
 
 Arid plateaus and volcanic stonefields dominate the heart of Arneria. This region contains the capital, major Causeway routes, relic forges, and the densest concentration of Flame-Throne authority.
 
-### **Bat’yan — The Living Canopy**
+### Bat’yan — The Living Canopy
 
 To the west lies **Bat’yan**, a vast rainforest sub-region where rigid Arnerian control gives way to adaptation, ancestry, and motion. Settlements here are fluid, seasonal, and deeply tied to land memory rather than decree.
 
@@ -47,7 +54,7 @@ Stars appear wrong. Dreams travel farther than bodies. Certain heights, clearing
 
 ---
 
-## **III. History & Formation**
+## III. History & Formation
 
 Arneria rose where other nations collapsed inward.
 
@@ -66,11 +73,11 @@ Arneria remembers its gods not as saviors—but as **materials**.
 
 ---
 
-## **IV. People & Cultural Identity**
+## IV. People & Cultural Identity
 
 Arnerians are defined by **discipline and endurance**.
 
-### **Common Traits**
+### Common Traits
 
 - Oaths are binding beyond law
     
@@ -83,7 +90,7 @@ Elemental-touched bloodlines, Brethren ancestries, and ritual-adapted beastfolk 
 
 ---
 
-## **V. Governance & Power**
+## V. Governance & Power
 
 Arneria operates as a **federal theocratic state**.
 
@@ -98,7 +105,7 @@ Authority flows from **relic legitimacy**. Those who cannot maintain their oaths
 
 ---
 
-## **VI. The Capital: Tilkisan**
+## VI. The Capital: Tilkisan
 
 **Tilkisan** is Arneria’s unquestioned capital: administrative, ceremonial, and symbolic. Its architecture enforces hierarchy through elevation, sightlines, and access. Wealth flows upward; labor flows beneath.
 
@@ -110,7 +117,7 @@ No other city disputes Tilkisan’s status. Some simply resent it.
 
 ---
 
-## **VII. Faith & Philosophy**
+## VII. Faith & Philosophy
 
 Arnerian faith centers on the **Nine Flames**, abstract aspects of divinity treated as forces to be shaped and contained.
 
@@ -129,7 +136,7 @@ In Bat’yan, faith is quieter—woven into daily survival and ancestral memory 
 
 ---
 
-## **VIII. Economy & Trade**
+## VIII. Economy & Trade
 
 Arneria exports **conviction made material**.
 
@@ -155,7 +162,7 @@ Trade routes are tightly controlled; generosity is strategic.
 
 ---
 
-## **IX. Delving Culture**
+## IX. Delving Culture
 
 Delving in Arneria is considered **trial by ordeal**.
 
@@ -170,7 +177,7 @@ Bat’yan delvers operate differently—guided by land, dreams, and Astral pheno
 
 ---
 
-## **X. Relations with Other Regions**
+## X. Relations with Other Regions
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -182,7 +189,7 @@ Bat’yan delvers operate differently—guided by land, dreams, and Astral pheno
 
 ---
 
-## **XI. National Legacy**
+## XI. National Legacy
 
 Arneria believes the world survives because **someone is willing to suffer for its order**.
 
@@ -195,7 +202,7 @@ From the polished stone of Tilkisan to the living canopy of Bat’yan—where th
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

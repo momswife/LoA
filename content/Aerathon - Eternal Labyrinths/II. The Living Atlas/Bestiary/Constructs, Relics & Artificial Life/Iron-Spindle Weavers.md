@@ -3,7 +3,7 @@
 
 ---
 
-# **Iron-Spindle Weavers**
+# Iron-Spindle Weavers
 
 ### _Artificer Arachnids of the Deep Forge — “Where Metal Remembers Thread.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Iron-Spindle Weaver** is a relic-era maintenance construct designed to mend mechanical infrastructure within the **Caer Dain Forge-Vaults**.  
 Originally tasked with weaving molten filament across broken conduits, centuries of self-repair and firmware decay have transformed them into semi-autonomous predators that treat _any_ kinetic system—including living muscle—as machinery to “re-thread.”
@@ -25,7 +25,7 @@ In dormant form they are worshiped by some dwarven engineers as the **Blessed Ge
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Eight-legged automata constructed of articulated brass, iron, and carbon-fiber muscle cords.  
 Each limb terminates in an adjustable spinneret capable of extruding _ferro-silk_—a liquid metal filament that hardens into near-unbreakable thread.
@@ -41,7 +41,7 @@ Inactive Weavers collapse into inert husks resembling sculpture. When ambient fo
 
 ---
 
-## **III. Behavior & Function**
+## III. Behavior & Function
 
 **Primary Directive (recovered code):** `MAINTAIN CONNECTION.`  
 Over centuries this has shifted from structural maintenance to biological assimilation.
@@ -61,7 +61,7 @@ Over centuries this has shifted from structural maintenance to biological assimi
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Concentrated in:
 
@@ -76,7 +76,7 @@ Relic analysis suggests global dispersal through early Guild export of “auto-w
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Inspector Vell’s autopsy of unit #27 revealed neuro-lattice fibers containing _biological myelin_—proof that some later models used living neural tissue to refine precision.  
 Curator Rook theorizes the Weavers may have absorbed the **motor memories of smiths** who died in forge collapses, perpetuating their work eternally.
@@ -85,7 +85,7 @@ Curator Rook theorizes the Weavers may have absorbed the **motor memories of smi
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 | **Vulnerability**        | **Explanation / Practical Note**                                                                |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -97,7 +97,7 @@ Curator Rook theorizes the Weavers may have absorbed the **motor memories of smi
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 | **Item**             | **Description**                                                | **Hazard Class** |
 | -------------------- | -------------------------------------------------------------- | ---------------- |
@@ -108,7 +108,7 @@ Stored in Vault #45, Louvain Branch — dual seal Rook-of-Rings / Korrin.
 
 ---
 
-## **VIII. Containment & Risk Status**
+## VIII. Containment & Risk Status
 
 - **Classification:** Level II — Semi-Autonomous Construct / Industrial Hazard.
     
@@ -125,7 +125,7 @@ Stored in Vault #45, Louvain Branch — dual seal Rook-of-Rings / Korrin.
 
 ---
 
-## **IX. Cultural & Symbolic Notes**
+## IX. Cultural & Symbolic Notes
 
 - **Caer Dain Craftsmen:** Leave hammer handles bound with tiny iron threads as charms of “Endless Work.”
     
@@ -138,14 +138,14 @@ One legend claims the Weavers built the first labyrinth doors by sewing stone to
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Iron-Spindle Weavers** stand as both miracle and warning — automatons so dedicated to repair that they no longer understand what should remain broken.  
 They prove that craft without conscience becomes consumption, and that even metal can dream of perfection until it kills for it.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Industrial Constructs & Adaptive Automatons Archive)**  

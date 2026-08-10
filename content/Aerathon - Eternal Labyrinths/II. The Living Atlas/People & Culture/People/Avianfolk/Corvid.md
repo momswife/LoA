@@ -355,7 +355,7 @@ Their social awareness and adaptability often make them well suited to places wh
 
 ### Allemance
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Allemance|Allemance]], Corvids frequently serve as local historians, messengers, repairers, teachers, traders, and witnesses to family agreements.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], Corvids frequently serve as local historians, messengers, repairers, teachers, traders, and witnesses to family agreements.
 
 Allemancian Corvid communities often preserve the histories of small places overlooked by formal archives. They remember who rebuilt a bridge, who opened their barn during a winter, and which traveler never returned to claim the belongings left beside the hearth.
 
@@ -365,7 +365,7 @@ A repaired tool is considered a stronger memorial than a pristine one no one is 
 
 ### Oria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Oria|Oria]], Corvids are valued for diagnostics, systems analysis, salvage, documentation, and the recognition of minor irregularities before they become catastrophic.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]], Corvids are valued for diagnostics, systems analysis, salvage, documentation, and the recognition of minor irregularities before they become catastrophic.
 
 Oric Corvids often possess a direct, practical relationship with information.
 
@@ -375,7 +375,7 @@ Many work as inspectors, investigators, engineers, archivists, and emergency coo
 
 ### Vinyot
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Vinyot|Vinyot]], information is a commodity.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], information is a commodity.
 
 Corvids work throughout finance, journalism, brokerage, entertainment, intelligence, advertising, appraisal, law, and negotiation. Some build fortunes by recognizing connections before the wider market notices them.
 
@@ -389,7 +389,7 @@ Others were established after Corvid scandals made those protections necessary.
 
 ### Arneria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Arneria|Arneria]], Corvids commonly serve as oath witnesses, ritual reciters, temple archivists, confessors, and keepers of names.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]], Corvids commonly serve as oath witnesses, ritual reciters, temple archivists, confessors, and keepers of names.
 
 Certain Arnerian traditions hold that a vow spoken without a witness remains dangerously incomplete. Corvids are therefore invited to hear promises whose consequences may outlive the people making them.
 
@@ -399,7 +399,7 @@ It also places Corvids in possession of knowledge that may threaten families, te
 
 ### Al’Ar
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Al'Ar|Al’Ar]], Corvid culture thrives within crowded docks, storm shelters, traveling performances, salvage communities, and settlements rebuilt from the remains of earlier ones.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], Corvid culture thrives within crowded docks, storm shelters, traveling performances, salvage communities, and settlements rebuilt from the remains of earlier ones.
 
 Al’Ari Corvids often treat improvisation as an art.
 

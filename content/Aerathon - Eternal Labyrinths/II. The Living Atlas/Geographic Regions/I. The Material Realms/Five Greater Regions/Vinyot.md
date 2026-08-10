@@ -1,3 +1,5 @@
+# Vinyot
+
 ### _The League of Coin — “Every Promise Has a Price.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Economic Powers & Sovereign Leagues)_  
@@ -10,7 +12,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Vinyot** is Aerathon’s beating economic heart—a mercantile league of cities bound not by blood or banner, but by **contracts, coin, and mutual debt**. Where other nations are shaped by faith, lineage, or endurance, Vinyot is shaped by **flow**: of goods, of people, of money, of obligation.
 
@@ -25,11 +27,11 @@ It simply ensures that breaking away is more expensive than staying.
 
 ---
 
-## **II. Geography & Trade Routes**
+## II. Geography & Trade Routes
 
 Vinyot occupies Aerathon’s warm southern reaches: river deltas, estuaries, and long coastlines shaped for commerce.
 
-### **Key Geographic Features**
+### Key Geographic Features
 
 - **The Golden Delta:** Interlaced rivers feeding the League’s interior markets
     
@@ -44,21 +46,21 @@ Climate is humid, fertile, and unforgiving to neglect—ideal for trade, agricul
 
 ---
 
-## **III. Political Structure & Governance**
+## III. Political Structure & Governance
 
 Vinyot is governed through **economic authority rather than territorial rule**.
 
-### **The League of Coin**
+### The League of Coin
 
 A loose alliance of cities, guilds, and corporate bodies bound by trade pacts, mutual insurance, and shared currency standards.
 
-### **The Capital: Dole**
+### The Capital: Dole
 
 Dole serves as Vinyot’s administrative and diplomatic center. Its baronial authority enforces League-wide policy, taxation thresholds, and external agreements—often with harsh efficiency.
 
 The capital is **clean, controlled, and deeply resented** by cities that generate the wealth it collects.
 
-### **Councils & Power Centers**
+### Councils & Power Centers
 
 - **Council of Scales:** Merchant-princes and trade magnates
     
@@ -71,7 +73,7 @@ Power in Vinyot flows upward with coin—and outward with consequences.
 
 ---
 
-## **IV. Major Cities of Vinyot**
+## IV. Major Cities of Vinyot
 
 Vinyot’s identity is defined by its cities, each a different expression of commerce, survival, or belief:
 
@@ -98,7 +100,7 @@ Each city retains internal autonomy—but none escape League obligation.
 
 ---
 
-## **V. Law, Coin, & Contract**
+## V. Law, Coin, & Contract
 
 Law in Vinyot is **transactional**.
 
@@ -117,7 +119,7 @@ The League’s unspoken rule:
 
 ---
 
-## **VI. People & Cultural Identity**
+## VI. People & Cultural Identity
 
 Vinyoti culture prizes:
 
@@ -141,7 +143,7 @@ Hospitality exists—but is never free.
 
 ---
 
-## **VII. Economy & Influence**
+## VII. Economy & Influence
 
 Vinyot moves a majority of Aerathon’s liquid wealth.
 
@@ -167,7 +169,7 @@ The League’s true export is **dependence**.
 
 ---
 
-## **VIII. Faith & Philosophy**
+## VIII. Faith & Philosophy
 
 Faith in Vinyot is pragmatic.
 
@@ -186,7 +188,7 @@ Temples double as banks. Prayer is often indistinguishable from negotiation.
 
 ---
 
-## **IX. Delving & Risk Culture**
+## IX. Delving & Risk Culture
 
 Vinyot treats delving as **speculation**.
 
@@ -201,7 +203,7 @@ Failure is tolerated—provided the paperwork is sound.
 
 ---
 
-## **X. Relations with Other Regions**
+## X. Relations with Other Regions
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -215,7 +217,7 @@ The Ministry monitors Vinyot closely—not to restrain it, but to survive its ri
 
 ---
 
-## **XI. National Character**
+## XI. National Character
 
 Vinyot does not promise safety.  
 It promises **opportunity**—and the bill afterward.
@@ -228,7 +230,7 @@ Both are correct.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

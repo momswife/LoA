@@ -3,7 +3,7 @@
 
 ---
 
-# **Monster Meadows**
+# Monster Meadows
 
 ### _The Rift That Will Not Heal — “Where Monsters Come to Rest.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 South of the **Betemere Mountains**, where the **Quest River** bends into Allemance’s southern plain, lies a scar the cartographers refuse to erase.  
 **Monster Meadows** is both sanctuary and wound — a region where creatures of the Labyrinths gather in tranquil herds upon soil that still trembles with creation’s echo.
@@ -25,7 +25,7 @@ When dormant, it is pastoral and eerily serene; when awakened, it becomes a maw 
 
 ---
 
-## **II. Geography & Topography**
+## II. Geography & Topography
 
 |**Feature**|**Description**|
 |---|---|
@@ -38,7 +38,7 @@ Geomantic readings detect a rhythmic vibration — a **“pulse”** — beneath
 
 ---
 
-## **III. Phenomenon Chronology**
+## III. Phenomenon Chronology
 
 |**Date (A.D.)**|**Event**|**Recorded Casualties**|
 |---|---|---|
@@ -53,24 +53,24 @@ The Ministry regards this belief as “emotionally stabilizing but empirically u
 
 ---
 
-## **IV. Cultural Interpretations**
+## IV. Cultural Interpretations
 
-### **1. Beastfolk Traditions**
+### 1. Beastfolk Traditions
 
 Regarded as a **ground of atonement**. Beastfolk pilgrims bring relic tokens of slain kin to bury among the grasses, believing the Rift “remembers forgiveness.”
 
-### **2. Delver Superstition**
+### 2. Delver Superstition
 
 Delvers carry _black-soil charms_ — small pouches of meadow earth said to grant calm dreams. These charms often vibrate faintly during Rift surges, prompting emergency withdrawals.
 
-### **3. Theological Views**
+### 3. Theological Views
 
 Clerics of Ilmater and Loviatar both claim dominion: one calling it a cradle of mercy, the other a font of necessary suffering.  
 Neither faction holds sanctioned rites; both have lost clergy within the Sleeping Mouth.
 
 ---
 
-## **V. Ecology & Aberrations**
+## V. Ecology & Aberrations
 
 |**Entity**|**Classification**|**Behavioral Notes**|
 |---|---|---|
@@ -82,7 +82,7 @@ Rift Watch catalogues 219 unique lifeforms; 86 show hybridization markers tracea
 
 ---
 
-## **VI. Scientific Theories**
+## VI. Scientific Theories
 
 1. **Resonant Scar Model** — Residual Labyrinth core vibrates in feedback loop; each eruption is a harmonic reset.
     
@@ -95,7 +95,7 @@ Rift Watch catalogues 219 unique lifeforms; 86 show hybridization markers tracea
 
 ---
 
-## **VII. Current Status**
+## VII. Current Status
 
 - **Classification:** Level III Quarantine Zone.
     
@@ -110,7 +110,7 @@ Recent acoustic monitoring suggests synchronization between Rift pulse and seism
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -122,7 +122,7 @@ Artifacts stored in Louvain Annex Vault #47 under dual seal of Inspector Vell an
 
 ---
 
-## **IX. Field Observations**
+## IX. Field Observations
 
 > _Day 14:_ Grass hums in 5/4 rhythm; identical to heartbeat of subject E-9.  
 > _Day 17:_ Silver-eyed stag approached camp and lay beside watchfire. When touched, it shattered into light.  
@@ -131,14 +131,14 @@ Artifacts stored in Louvain Annex Vault #47 under dual seal of Inspector Vell an
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 Monster Meadows remains Aerathon’s paradox of peace and horror — a tranquil field built atop a divine wound that refuses to scar over.  
 It has buried would-be conquerors, comforted beasts, and whispered lullabies to every fool who thought courage alone could quiet a god’s heartbeat.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Aberrant Phenomena Registry)**  

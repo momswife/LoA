@@ -4,7 +4,7 @@
 
 ---
 
-# **The Hundred-Tongued Leviathan**
+# The Hundred-Tongued Leviathan
 
 ### _Abyssal Devourer of Voices — “Where the Sea Learns to Speak, and Then Regrets It.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Hundred-Tongued Leviathan** is one of Aerathon’s most feared oceanic apex entities — a titanic, ancient creature dwelling in the deepest trenches of the Namiran waters and the abyssal regions beneath Tempest’s Wake.
 
@@ -47,7 +47,7 @@ The Ministry designates it as **Type-LMG / Abyssal Voice Aberrant**, a near-myth
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -62,7 +62,7 @@ Its underside is lined with glowing sigils — not magical, but **bio-luminous r
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Leviathan is an apex predator, but its methods are **psychic, sonic, and emotional**, not purely physical.
 
@@ -89,7 +89,7 @@ It hunts rarely, but when active, its path becomes a graveyard.
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 The Leviathan’s territory is vast and almost unmappable:
 
@@ -117,7 +117,7 @@ Encounters spike during:
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Its tongues “speak” in frequencies outside normal perception — some affect emotions, others time sense, others dreams.
     
@@ -136,7 +136,7 @@ Encounters spike during:
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -164,7 +164,7 @@ The Leviathan’s psychic echo-touch can cause:
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -175,7 +175,7 @@ Artifacts stored in Vault #233 (Louvain — Aquatic Apex Annex), quadruple seal 
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level VI — Cataclysmic Oceanic Apex
     
@@ -191,7 +191,7 @@ Artifacts stored in Vault #233 (Louvain — Aquatic Apex Annex), quadruple seal 
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Namiran Sailors:** Call it “The Speaker in the Deep.” No one whistles at sea because “the Leviathan whistles back.”
     
@@ -208,7 +208,7 @@ Artifacts stored in Vault #233 (Louvain — Aquatic Apex Annex), quadruple seal 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Hundred-Tongued Leviathan** is a planetary-scale threat, a monstrously ancient voice-collector whose tongues speak with the drowned, the lost, and the forgotten.  
 Its mimicry breaks minds, its presence moves storms, and its hunger is not for bodies — but for **identity**.
@@ -220,7 +220,7 @@ And when it surfaces, the sea itself seems to scream.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Legendary Monsters & Apex Threats Archive)**  

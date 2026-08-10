@@ -3,7 +3,7 @@
 
 ---
 
-# **The Kasho’ta Caves**
+# The Kasho’ta Caves
 
 ### _Where the Sea Sings Back — “When Stone Learns to Echo.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Carved into the northeastern cliffs of the **Isle of Jarik**, the **Kasho’ta Caves** form a labyrinth of crystalline corridors that breathe with the sea.  
 When tides surge through their mouths, the entire network transforms into an instrument — stone vibrating, air trembling, and light refracted into shifting color.
@@ -25,7 +25,7 @@ For bards, the Caves are sacred ground; for delvers, they are a living labyrinth
 
 ---
 
-## **II. Geography & Structure**
+## II. Geography & Structure
 
 |**Feature**|**Description**|
 |---|---|
@@ -37,7 +37,7 @@ The Caves extend roughly 40 miles inland, though internal mapping suggests folde
 
 ---
 
-## **III. Chronology of Exploration**
+## III. Chronology of Exploration
 
 |**Date (A.D.)**|**Event**|**Result / Impact**|
 |---|---|---|
@@ -46,8 +46,8 @@ The Caves extend roughly 40 miles inland, though internal mapping suggests folde
 |**2570**|Formation of the **Symphony Order** of Bards.|Caves declared holy site.|
 |**3418**|“Flood of Glass”: seismic event fused lower caverns into mirrored tubes.|Creation of Inverted Choir.|
 |**3725**|MDO acoustic probes detect harmonic signatures identical to Symphony Canyon at 1⁄12 scale.|Cross-site link confirmed.|
-___
-## **IV. Cultural Significance**
+---
+## IV. Cultural Significance
 
 - **Bardic Pilgrimage:** Initiates of Jarik’s Song Colleges must spend one night within the Caves and return with a verse taught by the sea.
     
@@ -60,7 +60,7 @@ ___
 
 ---
 
-## **V. Documented Phenomena**
+## V. Documented Phenomena
 
 |**Designation**|**Nature**|**Effect**|
 |---|---|---|
@@ -69,7 +69,7 @@ ___
 |**Inverted Voices**|Planar Acoustic Anomaly|Echoes that answer questions posed aloud; content unpredictable.|
 |**The Symphony of Tides**|Tidal Harmonic Event|Occurs during solstice when five Tide Mouths resonate in perfect fifth; induces shared visions.|
 ____
-## **VI. Scientific Theories**
+## VI. Scientific Theories
 
 1. **Hydrosonic Ley Feedback:** Tidal currents recharge ley energy through resonant compression, creating audible mana flow.
     
@@ -82,7 +82,7 @@ ____
 
 ---
 
-## **VII. Fauna & Flora**
+## VII. Fauna & Flora
 
 |**Entity**|**Classification**|**Notes**|
 |---|---|---|
@@ -90,8 +90,8 @@ ____
 |**Coral Mimics**|Aberrant Flora|Grow in rhythm to nearby music; can crystallize if sung off-key.|
 |**Voice Eels**|Amphibious Fey|Emit melodies from gills; believed to guard deepest chambers.|
 |**The Mother Note**|Mythic Entity|Said to be the first sound ever made — heard only once, never forgotten.|
-___
-## **VIII. Hazards**
+---
+## VIII. Hazards
 
 |**Hazard**|**Description**|
 |---|---|
@@ -103,7 +103,7 @@ All entries require silence wards and noise-null boots by Ministry protocol.
 
 ---
 
-## **IX. Associated Artifacts**
+## IX. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -115,7 +115,7 @@ Stored in Vault #94, Louvain Branch — dual seal Stonevoice & Korrin.
 
 ---
 
-## **X. Modern Status**
+## X. Modern Status
 
 - **Classification:** Level II Resonant Containment Zone.
     
@@ -130,7 +130,7 @@ Stored in Vault #94, Louvain Branch — dual seal Stonevoice & Korrin.
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Kasho’ta Caves** remain the living lungs of Jarik — breathing in tide, exhaling song.  
 Every note born there echoes back from a time before language and a world before silence.  
@@ -138,7 +138,7 @@ To enter is to risk being remembered by stone long after you are gone.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Subterranean Resonance Archive)**  

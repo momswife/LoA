@@ -216,17 +216,39 @@ Titles such as **Memory Holder**, **Refrain Keeper**, **Long Witness**, **Star R
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Elf ancestry traits for creature type, size, speed, senses, trance, and other core features.
+### Creature Type
 
-The Homeland Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
 
-An Elf’s homeland need not match their birthplace, oldest residence, or family origin. For a long-lived person, the place that most strongly shaped them may be a comparatively recent home.
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Elf ancestry traits for senses, trance, and other core features.
 
 ---
 
-## X. Homeland Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Elf sublineages are currently documented. Do not infer ancestry from an Elf’s homeland, family, appearance, or oldest residence.
+
+Regional upbringing is represented by the Homeland Imprints below. For a long-lived person, the place that most strongly shaped them may be a comparatively recent home.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Mask and Mirror
 
@@ -250,7 +272,7 @@ You gain a swimming speed of 30 feet. While standing in saltwater, you can add y
 
 ---
 
-## XI. Playing an Elf
+## XII. Playing an Elf
 
 Consider:
 
@@ -273,7 +295,7 @@ It does not guarantee wisdom.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Elven lineage does not indicate magical training, emotional detachment, beauty, social refinement, historical knowledge, political neutrality, or consent to serve as a living archive.

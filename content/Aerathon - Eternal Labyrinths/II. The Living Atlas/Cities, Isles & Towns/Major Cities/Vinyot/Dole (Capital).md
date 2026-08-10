@@ -1,3 +1,5 @@
+# Dole
+
 ### _The Gilded Hill — “Clean Stone, Quiet Hunger.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Capital Cities & Baronic Seats)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Dole** is the capital of **Vinyot**, a radiant hill-city whose immaculate streets and cheerful pageantry mask one of the most tightly controlled baronies in Aerathon.
 
@@ -26,11 +28,11 @@ The city is governed by **Baroness Unknown**, a ruler infamous for impatience, c
 
 ---
 
-## **II. Geography & Urban Form**
+## II. Geography & Urban Form
 
 Dole rises from the surrounding lowlands as a **single, commanding hill**, terraced and paved with meticulous precision.
 
-### **A. The Lower Rings**
+### A. The Lower Rings
 
 - Dense residential quarters and markets
     
@@ -43,7 +45,7 @@ Crowding is severe, but disorder is not tolerated.
 
 ---
 
-### **B. The Gleamways**
+### B. The Gleamways
 
 Broad processional avenues leading upward.
 
@@ -58,7 +60,7 @@ The Gleamways exist to be seen.
 
 ---
 
-### **C. The Hilltop**
+### C. The Hilltop
 
 The summit of the city is reserved entirely for governance.
 
@@ -73,7 +75,7 @@ From here, authority does not look down—it **watches**.
 
 ---
 
-## **III. History & Rise to Capital**
+## III. History & Rise to Capital
 
 Dole was selected as Vinyot’s capital not for centrality, but for **controllability**.
 
@@ -83,9 +85,9 @@ Over time, this separation hardened into doctrine.
 
 ---
 
-## **IV. Governance & Rule**
+## IV. Governance & Rule
 
-### **Baroness Unknown**
+### Baroness Unknown
 
 - Title: Baroness of Dole, High Administrator of Vinyot
     
@@ -100,7 +102,7 @@ Punishments are swift, public, and memorable.
 
 ---
 
-### **Lady Briere**
+### Lady Briere
 
 - Role: Castellan of Dole Manor
     
@@ -117,7 +119,7 @@ Whether this is humor or warning is unclear.
 
 ---
 
-## **V. Peoples & Civic Life**
+## V. Peoples & Civic Life
 
 The people of Dole are **performatively content**.
 
@@ -143,7 +145,7 @@ The city rewards those who understand the rules and punishes those who forget th
 
 ---
 
-## **VI. Economy & Extraction**
+## VI. Economy & Extraction
 
 Dole itself produces little.
 
@@ -160,7 +162,7 @@ Coin moves upward. Goods move outward. Accountability moves nowhere.
 
 ---
 
-## **VII. Faith & Moral Order**
+## VII. Faith & Moral Order
 
 Faith in Dole is permitted, but regulated.
 
@@ -175,7 +177,7 @@ Moral authority is tolerated only when it reinforces civic obedience.
 
 ---
 
-## **VIII. Delvers, Guilds & the MDO**
+## VIII. Delvers, Guilds & the MDO
 
 Delvers are unwelcome unless useful.
 
@@ -199,7 +201,7 @@ Relations are professional, not warm.
 
 ---
 
-## **IX. Relations with Other Cities**
+## IX. Relations with Other Cities
 
 |**City / Region**|**Relationship**|**Summary**|
 |---|---|---|
@@ -211,7 +213,7 @@ Relations are professional, not warm.
 
 ---
 
-## **X. City Identity & Legacy**
+## X. City Identity & Legacy
 
 Dole believes that **order is mercy**, and that mercy must sometimes be enforced with a closed fist.
 
@@ -224,7 +226,7 @@ The Ministry classifies Dole as **administratively powerful, socially brittle**,
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Capital Cities & Baronic Seats)**  

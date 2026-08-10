@@ -5,7 +5,7 @@
 ---
 
 ![[2cc4ec2f-53a5-4cf4-86ef-f85a4e802863.png]]
-# **The Verdant Collision**
+# The Verdant Collision
 
 ### _A-Class Ecological Guild — “To Mend What Burns, To Breathe What Breaks.”_
 
@@ -16,7 +16,7 @@
 **Document Class:** _Private Charter Profile / Grade-II Authenticity_
 
 ---
-## **I. Overview**
+## I. Overview
 
 The **Verdant Collision** is an **A-Class guild of ecological delvers**, dedicated to studying, healing, and preserving the world’s labyrinthic ecosystems.  
 Operating from its headquarters in the **Rootspire Conservatory** within southern Vinyot, the guild acts as Aerathon’s foremost authority on **arcano-biological contamination**, **faunal symbiosis**, and **post-delving restoration**.
@@ -26,7 +26,7 @@ Its delvers are gardeners, biologists, and druids who risk their lives not for r
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | A-Class Hybrid Ecological Guild |  
 | **Affiliation** | Independent (Recognized by the MDO; not sponsored) |  
@@ -38,20 +38,20 @@ Its delvers are gardeners, biologists, and druids who risk their lives not for r
 
 ---
 
-## **III. Founding & Philosophy**
+## III. Founding & Philosophy
 
 The Verdant Collision emerged in **3321 A.D.**, during the later Age of Delving, when repeated exploitation of labyrinth flora began warping surface biomes.  
 Founded by a coalition of disillusioned engineers and Beastfolk druids, it declared that the labyrinths were **not dungeons to conquer, but living scars of the world**.
 
 The name “Verdant Collision” refers to the meeting of technology and nature—two forces long at war—finally learning to coexist.
 
-### **Guild Creed**
+### Guild Creed
 
 > _“We are not explorers. We are healers of the world’s fever.”_
 
 ---
 
-## **IV. Structure & Ranks**
+## IV. Structure & Ranks
 
 The guild divides into two symbiotic branches, mirroring its philosophy:
 
@@ -64,31 +64,31 @@ Each pair is responsible for maintaining the balance between **growth and contai
 
 ---
 
-## **V. Practices & Operations**
+## V. Practices & Operations
 
-### **1. The Rootspire Initiative**
+### 1. The Rootspire Initiative
 
 The guild’s flagship program—deploys mixed teams to reclaim labyrinth zones suffering from overharvesting or relic leakage.  
 Success is measured not in relics retrieved, but **in how much life remains** when they leave.
 
-### **2. The Bloom Trials**
+### 2. The Bloom Trials
 
 A rite of passage requiring new members to restore a “dead” patch of land.  
 Those who succeed see it bloom within one moon; those who fail are buried a seed to “learn patience.”
 
-### **3. The Living Map**
+### 3. The Living Map
 
 An evolving cartographic tapestry woven from living vines that records every known labyrinth and its health status.  
 The tapestry reacts to real-time field data, turning crimson where corruption spreads, and emerald where balance returns.
 
-### **4. The Pact of Rot**
+### 4. The Pact of Rot
 
 Rather than cremating fallen members, their remains are buried within containment gardens—feeding roots that grow into relic-carrying trees.  
 Each is marked by name and resonance sigil; their spirits are said to strengthen the weave.
 
 ---
 
-## **VI. Equipment & Relics**
+## VI. Equipment & Relics
 
 - **Verdant Coils:** Adaptive vine bracers functioning as grapples or life-sensors.
     
@@ -104,34 +104,34 @@ Unauthorized trade is treated as desecration.
 
 ---
 
-## **VII. Relations with Other Powers**
+## VII. Relations with Other Powers
 
-### **Ministry of Delving Operations**
+### Ministry of Delving Operations
 
 The Ministry maintains a neutral but favorable relationship, relying on the Collision for containment expertise.  
 Lt. Korrin personally advocates for their work, calling them “the conscience of delving.”  
 However, bureaucratic delays and industrial lobbying often undercut their funding.
 
-### **The Free Company of Louvain**
+### The Free Company of Louvain
 
 Allied. The Free Company often employs Collision engineers for labyrinth reclamation and to fortify Bell-Peace sanctuaries.  
 A shared philosophy—service over spectacle—unites them.
 
-### **The Argent Banner**
+### The Argent Banner
 
 Cordial yet critical. The Collision accuses the Banner of leaving labyrinths “half-dead and half-filmed,” forcing ecological collapse for broadcast aesthetics.
 
-### **The Crimson Reavers**
+### The Crimson Reavers
 
 Adversarial. Reaver warbands have repeatedly invaded root sanctuaries for resources. The guild’s retaliations are swift and quiet, leaving overgrown fields where bodies once lay.
 
-### **The Cinderpaw Pact**
+### The Cinderpaw Pact
 
 Mutual respect. The Pact supplies them with Ashbound Steel; in return, the Collision restores Beastfolk lands tainted by relic waste.
 
 ---
 
-## **VIII. Political & Cultural Influence**
+## VIII. Political & Cultural Influence
 
 Though not politically dominant, the Verdant Collision holds **moral power** across Aerathon.  
 Public opinion paints them as the “green priests” of the modern age—heroes without spectacle.  
@@ -141,7 +141,7 @@ Their existence has reshaped delver culture: younger guilds now adopt environmen
 
 ---
 
-## **IX. Economic Model**
+## IX. Economic Model
 
 Unlike most guilds, the Collision operates on **patronage and civic contract**, not relic profit.  
 Their services—purifying labyrinthic soil, detoxifying relic leakage, restoring resonance fields—are paid through Ministry subsidies and noble sponsorship.  
@@ -152,7 +152,7 @@ They have little wealth, but infinite credibility.
 
 ---
 
-## **X. Symbolism & Identity**
+## X. Symbolism & Identity
 
 - **Emblem:** Two intertwining vines—one green, one metallic—forming an endless spiral.
     
@@ -167,7 +167,7 @@ Every member wears a “growth ring” bracelet. Each delve adds another carved 
 
 ---
 
-## **XI. Public Evaluation**
+## XI. Public Evaluation
 
 |**Aspect**|**Assessment**|
 |---|---|
@@ -180,7 +180,7 @@ In an age where spectacle outweighs survival, they remain Aerathon’s last gard
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

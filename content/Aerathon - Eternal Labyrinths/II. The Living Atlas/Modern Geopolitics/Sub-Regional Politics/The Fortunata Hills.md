@@ -1,4 +1,4 @@
-# **Sub-Regional Politics of the Fortunata Hills**
+# Sub-Regional Politics of the Fortunata Hills
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Sub-Regional Governance & Cultural Strongholds)_  
 **Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Beastfolk Lineage)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of the Fortunata Hills**
+## I. Political Identity of the Fortunata Hills
 
 The **Fortunata Hills** are not governed as a province in the conventional sense.
 
@@ -18,7 +18,7 @@ The hills answer to **Malarthain Stronghold** not by law, but by **gravity**.
 
 ---
 
-## **II. Malarthain as Regional Anchor**
+## II. Malarthain as Regional Anchor
 
 Malarthain Stronghold functions as the **de facto capital** of the Fortunata Hills, though no such title is formally claimed.
 
@@ -37,7 +37,7 @@ No other settlement in the hills rivals Malarthain’s authority, and none serio
 
 ---
 
-## **III. Dual Authority as a Regional Model**
+## III. Dual Authority as a Regional Model
 
 The **dual-authority system** practiced within Malarthain—Inner Stronghold tradition balanced against Outer City industry—has become the **implicit political template** for the Fortunata Hills.
 
@@ -54,7 +54,7 @@ This separation is viewed not as inefficiency, but as **necessary restraint**.
 
 ---
 
-## **IV. Relationship to Vinyot**
+## IV. Relationship to Vinyot
 
 Though geographically within **northwestern Vinyot**, the Fortunata Hills remain politically distinct.
 
@@ -69,7 +69,7 @@ Vinyot benefits from Fortunata steel—but does not command it.
 
 ---
 
-## **V. Faith as Political Boundary**
+## V. Faith as Political Boundary
 
 The Fortunata Hills are the **last unified bastion of orthodox Beastfolk worship**, centered on Malar as resilience, hunt, and survival rather than savagery.
 
@@ -86,7 +86,7 @@ Settlements that abandon these rites often find themselves culturally isolated�
 
 ---
 
-## **VI. Military & Defensive Posture**
+## VI. Military & Defensive Posture
 
 There is no standing regional army.
 
@@ -103,7 +103,7 @@ Any large-scale threat to the Fortunata Hills would inevitably consolidate autho
 
 ---
 
-## **VII. Delvers & the Labyrinths**
+## VII. Delvers & the Labyrinths
 
 The region maintains a **restrictive stance** toward delvers.
 
@@ -118,7 +118,7 @@ The Fortunata Hills accept the Labyrinths as part of existence—but refuse to l
 
 ---
 
-## **VIII. Internal Tensions**
+## VIII. Internal Tensions
 
 While outwardly unified, the region faces quiet strain:
 
@@ -133,7 +133,7 @@ Thus far, tradition holds—but it must continue to prove itself.
 
 ---
 
-## **IX. The MDO’s Role**
+## IX. The MDO’s Role
 
 The **Ministry of Delving Operations** maintains a limited but respected presence.
 
@@ -148,7 +148,7 @@ The MDO is tolerated because it recognizes what not to touch.
 
 ---
 
-## **X. Political Character of the Fortunata Hills**
+## X. Political Character of the Fortunata Hills
 
 The Fortunata Hills do not seek relevance.  
 They **outlast** it.
@@ -160,7 +160,7 @@ Their power is not loud, fast, or adaptable—but it is trusted, proven, and dif
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

@@ -1,10 +1,15 @@
+---
+aliases:
+  - The Wanehallow
+---
+
 > _“Do not speak its name without silence between syllables.  
 > The Wanehollow listens only to what is missing.”_  
 > — **Inspector Jao “Greyglass” Vell**, _Field Account: Null Sector Breach_
 
 ---
 
-# **The Wanehollow**
+# The Wanehollow
 
 ### _The Third Realm — “Where the Light Forgets It Was Ever Warm.”_
 
@@ -16,7 +21,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Wanehollow** is the **Null Realm** — a metaphysical absence that exists wherever meaning erodes.  
 It has no geography, no light, and no native sound. The Ministry defines it not as a place, but as **a condition of reality in retreat**.
@@ -31,7 +36,7 @@ To encounter it is to be erased in increments — first your shadow, then your v
 
 ---
 
-## **II. Discovery & Early Accounts**
+## II. Discovery & Early Accounts
 
 The first official reference to the Wanehollow appears in a recovered **Tharos Ring transcript** dated prior to the First Collapse. The report describes a “pocket of soundless inversion” encountered beneath a labyrinth’s lower floor, where light fell upward and all speech turned to breath.
 
@@ -41,7 +46,7 @@ Its full presence, however, is accessible only through ritual nullification or d
 
 ---
 
-## **III. Observed Phenomena**
+## III. Observed Phenomena
 
 - **Acoustic Erasure:** Sound decays exponentially; the deeper the intrusion, the less meaning any word holds.
     
@@ -56,7 +61,7 @@ Ministry hazard tiers classify it as **Class-VII Cognitive Breach Environment.**
 
 ---
 
-## **IV. Theoretical Function**
+## IV. Theoretical Function
 
 Arcane theologians posit the Wanehollow as **the grave of unmade ideas** — the entropy necessary to balance creation’s surplus.  
 It is, in essence, **the recoil of existence**: what happens when the Dreaming imagines too much and the Shattersea remembers too long.
@@ -68,7 +73,7 @@ Faith scholars compare it to divine atrophy — where gods not worshipped simply
 
 ---
 
-## **V. Entities & Manifestations**
+## V. Entities & Manifestations
 
 |**Entity / Phenomenon**|**Description**|
 |---|---|
@@ -77,7 +82,7 @@ Faith scholars compare it to divine atrophy — where gods not worshipped simply
 |**The Silence King**|A mythic echo said to have been a god who prayed for stillness until the world granted it permanently. Possibly allegorical.|
 |**Memory Husk**|Physical residue of erased thought — dense ash that absorbs ink, magic, and emotion alike. Used illicitly by necromancers as cognitive armor.|
 ____
-## **VI. Religious and Cultural Interpretations**
+## VI. Religious and Cultural Interpretations
 
 - **Arneria:** Described as _The Thirteenth Flame’s Ash_, the ultimate fate of unworthy prayers.
     
@@ -92,7 +97,7 @@ Among delvers, it is simply called **“The Final Floor.”**
 
 ---
 
-## **VII. Known Entrances & Breaches**
+## VII. Known Entrances & Breaches
 
 - **Site V-11:** Collapsed chapel beneath the Arnerian Drowned Wastes — residual silence measurable for ten leagues.
     
@@ -105,7 +110,7 @@ Entry to all three requires psychic dampeners and signed absolution.
 
 ---
 
-## **VIII. Psychological Impact**
+## VIII. Psychological Impact
 
 Prolonged exposure induces the **White Sleep**, a state where subjects appear awake but forget breathing, hunger, or self-preservation.  
 Recovered survivors frequently repeat a single sentence, varying by individual but always ending in:
@@ -116,7 +121,7 @@ No subject has retained memory beyond thirty days post-recovery.
 
 ---
 
-## **IX. Ministry Response & Containment**
+## IX. Ministry Response & Containment
 
 Following the **Null Breach of Cycle 1395**, all research teams are limited to seven minutes of exposure, monitored via mnemonic tethers.  
 The Arcane Breach Division enforces **Protocol Stillglass**:
@@ -132,7 +137,7 @@ The Wanehollow remains officially **quarantined**, its study relegated to simula
 
 ---
 
-## **X. Symbolic & Philosophical Legacy**
+## X. Symbolic & Philosophical Legacy
 
 The Wanehollow is the fear at the center of every faith — that nothing, once forgotten, remains.  
 Where the Dreaming offers infinite possibility, the Wanehollow is **finality without consequence.**
@@ -147,7 +152,7 @@ The Ministry calls it _“the price of progress.”_
 
 ---
 
-### **Planar Feature: Hollow Resilience**
+### Planar Feature: Hollow Resilience
 
 _Any being or relic influenced by the Wanehollow gains the following trait:_
 
@@ -155,7 +160,7 @@ _Any being or relic influenced by the Wanehollow gains the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Hazard Containment & Cognitive Silence Bureau)**  

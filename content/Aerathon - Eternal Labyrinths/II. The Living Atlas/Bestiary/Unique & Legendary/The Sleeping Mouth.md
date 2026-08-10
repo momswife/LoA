@@ -4,7 +4,7 @@
 
 ---
 
-# **The Sleeping Mouth**
+# The Sleeping Mouth
 
 ### _Dormant World-Eater of the Deep Labyrinth — “The Labyrinth Dreams of Hunger, and This Is Its Dream Given Flesh.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Sleeping Mouth** is an ancient, dreambound apex entity believed to rest at the **lowest convergent tier of the Labyrinths** — a place theorized to be older than Aerathon, older than gods, older than memory itself.
 
@@ -42,7 +42,7 @@ Therefore, the entity is classified as **Type-LMG / Pre-Existential Cataclysmic 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 The Sleeping Mouth has no confirmed fully-visible form. Only partial awakenings, sensed through cracks in reality, have been documented.
 
@@ -69,7 +69,7 @@ Its presence is best described not by sight, but by **experience**:
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Though dormant, the Sleeping Mouth exhibits **dream-behaviors** that impact entire regions of the Labyrinths.
 
@@ -96,7 +96,7 @@ It does not awaken in a traditional sense — instead, it **turns over**, and th
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 The Sleeping Mouth rests at the **lowest uncharted level** of the Labyrinths, believed to be:
 
@@ -117,7 +117,7 @@ over something ancient and unfathomably hungry.
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Arcane triangulation suggests its body spans **hundreds of miles**, or exists partly outside physical space.
     
@@ -135,7 +135,7 @@ over something ancient and unfathomably hungry.
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 Though unkillable, the Sleeping Mouth has exploitable **stabilizing factors**.
 
@@ -161,7 +161,7 @@ If you hear breathing _behind your heartbeat_, turn back.
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -172,7 +172,7 @@ Artifacts stored in Vault #301 (Louvain — Apex Dimensional Annex), quintuple-s
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level VI — Cataclysmic Dormant Entity
     
@@ -192,7 +192,7 @@ Artifacts stored in Vault #301 (Louvain — Apex Dimensional Annex), quintuple-s
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Blackwild Shamans:** Call it “The Thing Beneath All Steps.”
     
@@ -211,7 +211,7 @@ Artifacts stored in Vault #301 (Louvain — Apex Dimensional Annex), quintuple-s
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Sleeping Mouth** is an ancient, dormant world-eater dreaming beneath the Labyrinths, older than gods, older than worlds, older than hunger itself.  
 It stirs in its sleep, shaking the deep floors, spawning nightmare-echoes, and reminding civilization that Aerathon rests atop an unfathomable maw waiting for its next breath.
@@ -221,7 +221,7 @@ If it wakes fully:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Legendary Monsters & Apex Threats Archive)**  

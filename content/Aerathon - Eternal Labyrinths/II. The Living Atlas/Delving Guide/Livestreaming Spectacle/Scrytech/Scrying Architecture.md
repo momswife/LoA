@@ -3,7 +3,7 @@
 
 ---
 
-# **Scrying Architecture**
+# Scrying Architecture
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Arcane Infrastructure Registry)_  
 **Primary Compiler:** Professor Arav Dhal-Senn (Antiquities Restoration & Scrytech Engineering)  
@@ -22,11 +22,11 @@ It is **the skeleton of truth** in Aerathon.
 
 ---
 
-# **I. Foundations of Scrying Architecture**
+## I. Foundations of Scrying Architecture
 
 Scrying systems rely on three fundamental layers:
 
-## **1. Structural Layer (Material)**
+### 1. Structural Layer (Material)
 
 Built from:
 
@@ -41,7 +41,7 @@ Built from:
 
 This layer houses anchoring points for Oculi, mirror arrays, and scry conduits.
 
-## **2. Resonance Layer (Magical)**
+### 2. Resonance Layer (Magical)
 
 A lattice of:
 
@@ -56,7 +56,7 @@ A lattice of:
 
 This layer translates raw perception into interpretable imagery.
 
-## **3. Transmission Layer (Arcanet)**
+### 3. Transmission Layer (Arcanet)
 
 Connects:
 
@@ -73,10 +73,10 @@ This layer ensures that what is seen is also **shared**, unchanged.
 
 ---
 
-# **II. Core Components of Scrying Architecture**
+## II. Core Components of Scrying Architecture
 
 
-## **1. Scryline Conduits**
+### 1. Scryline Conduits
 
 Channels of pure arcane resonance that carry visual and metaphysical data.
 
@@ -91,7 +91,7 @@ Conduits connect each Divine Oculi to the nearest Arcanet Anchors.
 
 ---
 
-## **2. Mirror Arrays**
+### 2. Mirror Arrays
 
 Massive floating lenses that:
 
@@ -108,7 +108,7 @@ Mirror arrays are the backbone of all public viewing.
 
 ---
 
-## **3. Liminal Projectors**
+### 3. Liminal Projectors
 
 Devices that stabilize:
 
@@ -125,7 +125,7 @@ Liminal Projectors prevent “ghost frames” and paradox overlays.
 
 ---
 
-## **4. Runic Discriminator Panels**
+### 4. Runic Discriminator Panels
 
 Embedded glyph-systems that:
 
@@ -142,7 +142,7 @@ These panels are essential for ABA enforcement.
 
 ---
 
-## **5. Resonance Anchors**
+### 5. Resonance Anchors
 
 Fixed arcane structures that:
 
@@ -159,7 +159,7 @@ Anchors must be recalibrated every 60 days by certified scrywrights.
 
 ---
 
-# **III. The Architecture–Labyrinth Interface**
+## III. The Architecture–Labyrinth Interface
 
 Scrying Architecture must contend with the fact that Labyrinths:
 
@@ -174,33 +174,33 @@ Scrying Architecture must contend with the fact that Labyrinths:
 
 To counteract this, the Ministry uses:
 
-### **1. Anti-Distortion Runes**
+#### 1. Anti-Distortion Runes
 
 Keep architecture coherent inside spatial loops.
 
-### **2. Etheric Dampeners**
+#### 2. Etheric Dampeners
 
 Prevent magical noise from corrupting footage.
 
-### **3. Paradox Weirs**
+#### 3. Paradox Weirs
 
 Protect Oculi from temporal collapse events.
 
-### **4. Reality Insertion Locks**
+#### 4. Reality Insertion Locks
 
 Force the Labyrinth to "accept" the presence of a scrying lens without mutating.
 
 ---
 
-# **IV. Integrity Protocols**
+## IV. Integrity Protocols
 
 Ministerial law requires:
 
-### **Calibration Every Delve**
+#### Calibration Every Delve
 
 Oculi and mirror arrays must be tuned within ±.02 resonance drift.
 
-### **Tamper-Detection**
+#### Tamper-Detection
 
 All systems alert the ABA automatically upon:
 
@@ -213,7 +213,7 @@ All systems alert the ABA automatically upon:
 - or false-signal insertion.
     
 
-### **Memory-Chain Recording**
+#### Memory-Chain Recording
 
 No deletions permitted without:
 
@@ -226,29 +226,29 @@ No deletions permitted without:
 
 ---
 
-# **V. Failure States & Safeguards**
+## V. Failure States & Safeguards
 
 Even scrying systems can fail. Known failure states include:
 
-### **1. Distortion Bloom**
+#### 1. Distortion Bloom
 
 Cause: overlapping resonance echoes.  
 Effect: fragmented visuals, phantom doubles.  
 Solution: deploy two or more mirror arrays.
 
-### **2. Echo Surge**
+#### 2. Echo Surge
 
 Cause: excessive emotional resonance from delvers.  
 Effect: memory imprint bleed.  
 Solution: dampener nodes.
 
-### **3. Oculi Desync**
+#### 3. Oculi Desync
 
 Cause: temporal fluctuation or curse shockwave.  
 Effect: freezing, reversed frames, false hazards.  
 Solution: emergency tether rune.
 
-### **4. Convergence Ping**
+#### 4. Convergence Ping
 
 Cause: Arcanet Core reacting to fate-aligned delvers.  
 Effect: system-wide recalc.  
@@ -256,11 +256,11 @@ Solution: full operational lockdown.
 
 ---
 
-# **VI. Scrying Architecture & N-Class Teams**
+## VI. Scrying Architecture & N-Class Teams
 
 N-Class (Core-selected) teams—such as **Unit N-7**—interact with Scrying Architecture in unprecedented ways.
 
-### **1. Resonance Amplification**
+#### 1. Resonance Amplification
 
 Their combined signatures cause:
 
@@ -271,7 +271,7 @@ Their combined signatures cause:
 - Stronger emotional echo capture
     
 
-### **2. Priority Routing**
+#### 2. Priority Routing
 
 All scryfeeds involving N-Class teams auto-route to:
 
@@ -282,12 +282,12 @@ All scryfeeds involving N-Class teams auto-route to:
 - Core administrative nodes
     
 
-### **3. Anti-Manipulation Immunity**
+#### 3. Anti-Manipulation Immunity
 
 Standard illusions fail outright.  
 Charm magic cannot be recorded as genuine sentiment.
 
-### **4. Convergence-Compatible Architecture**
+#### 4. Convergence-Compatible Architecture
 
 N-Class delves unlock additional functions:
 
@@ -298,7 +298,7 @@ N-Class delves unlock additional functions:
 - Oculi preemptive synchronization
     
 
-### **5. Restricted Memory Storage**
+#### 5. Restricted Memory Storage
 
 All N-Class delves receive:
 
@@ -315,7 +315,7 @@ These records may influence Ministerial decisions for decades.
 
 ---
 
-# **VII. Why Scrying Architecture Matters**
+## VII. Why Scrying Architecture Matters
 
 Without scrying architecture:
 
@@ -340,7 +340,7 @@ but because the Labyrinth demands watchers who cannot blink.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities Division (Arcane Infrastructure Registry)**  

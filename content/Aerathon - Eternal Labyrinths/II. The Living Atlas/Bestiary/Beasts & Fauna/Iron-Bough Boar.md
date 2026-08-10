@@ -3,7 +3,7 @@
 
 ---
 
-# **Iron-Bough Boar**
+# Iron-Bough Boar
 
 ### _Forged in Root and Blood — “Where the Trees Remember the Anvil.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Native to the temperate forests between **Louvain** and the **Malarthain strongholds**, the **Iron-Bough Boar** is an omnivorous ungulate species whose bones and tusks incorporate ferromagical ore drawn directly from the soil.  
 Centuries of habitation near refinery run-off, relic dust, and ley-tainted mulch have turned the once-common forest boar into a living forge animal.
@@ -25,7 +25,7 @@ Each rooting herd aerates and metal-salts the soil — a process vital to Louvai
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Iron-Bough Boars are massive, muscular quadrupeds cloaked in coarse charcoal fur threaded with metallic fibers.  
 The tusks, often mistaken for raw iron, are **ferrite-bone composites** capable of gouging stone.
@@ -42,7 +42,7 @@ During breeding season, males clash with enough force to ignite sparks visible a
 
 ---
 
-## **III. Habitat & Behavior**
+## III. Habitat & Behavior
 
 Iron-Bough herds roam mixed forest and old slag fields, preferring mineral-rich loam.  
 They dig complex burrows called **Root Forges**, where heat from friction and oxidized mud maintains constant warmth for piglets.
@@ -56,7 +56,7 @@ They dig complex burrows called **Root Forges**, where heat from friction and ox
 
 ---
 
-## **IV. Ecological Role**
+## IV. Ecological Role
 
 Despite property damage to sawmills and caravans, Iron-Bough Boars are essential to maintaining Louvain’s ore-infused ecosystems.  
 Their rooting redistributes ferric minerals and purges rot by heating soil pockets.  
@@ -66,7 +66,7 @@ Trees grown in their wake develop dark, iron-veined bark prized for relic housin
 
 ---
 
-## **V. Weakness & Delving Considerations**
+## V. Weakness & Delving Considerations
 
 | **Vulnerability**            | **Explanation / Practical Note**                                                                                                 |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@ Trees grown in their wake develop dark, iron-veined bark prized for relic housin
 
 ---
 
-## **VI. Associated Materials & Uses**
+## VI. Associated Materials & Uses
 
 | **Item**          | **Description**                        | **Use / Hazard**                                                                  |
 | ----------------- | -------------------------------------- | --------------------------------------------------------------------------------- |
@@ -89,7 +89,7 @@ Harvest limited to deceased specimens under **Living Atlas Directive §4-Metalli
 
 ---
 
-## **VII. Cultural Significance**
+## VII. Cultural Significance
 
 - **Beastfolk of Louvain:** View the Matron Anvil as symbol of endurance; her effigy stands at foundry gates.
     
@@ -102,7 +102,7 @@ In rural legend, the first Iron-Bough rose from a smith’s apprentice buried al
 
 ---
 
-## **VIII. Containment & Observation Status**
+## VIII. Containment & Observation Status
 
 - **Classification:** Level II — _Moderate Threat / High Ecological Value._
     
@@ -117,7 +117,7 @@ In rural legend, the first Iron-Bough rose from a smith’s apprentice buried al
 
 ---
 
-## **IX. Summary**
+## IX. Summary
 
 The **Iron-Bough Boar** is both beast and blacksmith — a creature that tempers the forest with every step.  
 It roots in slag and seed alike, shaping Louvain’s wilderness into something stronger than either alone.  
@@ -125,7 +125,7 @@ To hunt one is folly; to follow its trail is to walk where the world reforges it
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)**  

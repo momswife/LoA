@@ -4,7 +4,7 @@
 
 ---
 ![[e062b816-e700-4307-bad5-91ef7bb1e809.png]]
-# **The Free Company of Louvain**
+# The Free Company of Louvain
 
 ### _S-Class MDO-Sponsored Guild — “Light in Descent, Duty in Return.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Free Company of Louvain** is Aerathon’s **only S-Class guild directly sponsored by the Ministry of Delving Operations**, founded as a beacon for the lost, the unclaimed, and the unredeemed.  
 From its polished halls in Louvain’s **Hall of Orientation**, it trains and licenses the majority of the realm’s novice delvers.
@@ -28,7 +28,7 @@ Where the Hall enforces order, the Lodge remembers mercy.
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | S-Class Concordant (MDO-Sponsored) |  
 | **Affiliation** | Official Ministry Ally |  
@@ -41,9 +41,9 @@ Where the Hall enforces order, the Lodge remembers mercy.
 
 ---
 
-## **III. Dual Mandate**
+## III. Dual Mandate
 
-### **1. The Concordant Corps**
+### 1. The Concordant Corps
 
 The formal, regulated, and fully Ministry-sanctioned arm.  
 They oversee:
@@ -60,7 +60,7 @@ They oversee:
 Their creed:  
 _“Light in Descent, Duty in Return.”_
 
-### **2. The Stalwart Branch**
+### 2. The Stalwart Branch
 
 Unofficial. Unfunded. Unspoken of in public reports.  
 The Stalwart Souls offer sanctuary to:
@@ -83,9 +83,9 @@ The delvers call it **home**.
 
 ---
 
-## **IV. Structure & Leadership**
+## IV. Structure & Leadership
 
-### **High Command**
+### High Command
 
 |**Title**|**Name**|**Role**|
 |---|---|---|
@@ -94,7 +94,7 @@ The delvers call it **home**.
 |**Chief Instructor Ruzan Brokk**|Dwarven|Head of delver training, survival, and certifications.|
 |**Quartermaster Thesk Ulrathi**|Lizardfolk|Controls supplies, rations, and relic storage.|
 |**Chaplain Merindel Farseer**|Aasimar|Handles rites, Faithfield tuning, and memorial services.|
-### **Council of the Stalwart Lodge**
+### Council of the Stalwart Lodge
 
 |**Title**|**Name**|**Function**|
 |---|---|---|
@@ -102,10 +102,10 @@ The delvers call it **home**.
 |**Expedition Coordinator**|**Darla “Iron-Fangs” Velmire**|Assigns delves; tracks the missing and the lost.|
 |**Vault-Keeper**|**Hargun “Coin-Cutter” Fisk**|Ensures fair shares; manages debts and payouts.|
 |**Scribe of the Lost**|**Jessa the Silent**|Maintains the Namesong Ledger—every fallen name.|
-___
-## **V. Membership & Philosophy**
+---
+## V. Membership & Philosophy
 
-### **Who Joins the Free Company**
+### Who Joins the Free Company
 
 - Cadets seeking Ministry licensure
     
@@ -118,7 +118,7 @@ ___
 - The traumatized or broken seeking a last chance
     
 
-### **Core Beliefs**
+### Core Beliefs
 
 - **Unity Over Glory:** A single survivor is not a victory.
     
@@ -129,9 +129,9 @@ ___
 
 ---
 
-## **VI. Facilities**
+## VI. Facilities
 
-### **The Hall of Orientation (Louvain)**
+### The Hall of Orientation (Louvain)
 
 A grand fortress-school of marble, quartz, and auric inlays.  
 Contains:
@@ -145,7 +145,7 @@ Contains:
 - The Eternal Flame (used for initiation torches)
     
 
-### **The Rusted Lodge (Oria)**
+### The Rusted Lodge (Oria)
 
 A reclaimed barracks of timber and iron, stained by age and smoke.  
 More hearth than hall—long tables, battered bunks, and walls covered in memorial plates.
@@ -155,7 +155,7 @@ More hearth than hall—long tables, battered bunks, and walls covered in memori
 
 ---
 
-## **VII. Operations**
+## VII. Operations
 
 The Free Company is responsible for:
 
@@ -170,7 +170,7 @@ The Free Company is responsible for:
 
 ---
 
-## **VIII. Relations with Other Guilds**
+## VIII. Relations with Other Guilds
 
 |**Guild**|**Relationship**|**Context**|
 |---|---|---|
@@ -178,7 +178,7 @@ The Free Company is responsible for:
 |**Crimson Reavers**|Hostile|Counter-raids and trade-route protection.|
 |**Verdant Collision**|Allied|Shares healing, engineering, and safety research.|
 ____
-## **IX. Relationship with the Ministry**
+## IX. Relationship with the Ministry
 
 The Free Company is the Ministry’s **public face of stability**.  
 Yet internal memos show tension between duty and bureaucracy.
@@ -191,7 +191,7 @@ There is a quiet fear within the Ministry that the Stalwart Branch may someday b
 
 ---
 
-## **X. Public Image**
+## X. Public Image
 
 |**Group**|**Perception**|
 |---|---|
@@ -203,7 +203,7 @@ Despite modest ratings, their rescue broadcasts receive overwhelming donation sp
 
 ---
 
-## **XI. Symbolism**
+## XI. Symbolism
 
 - **Emblem:** An **ankh encircled by a multicolored star**, representing the breath of all lives.
     
@@ -221,7 +221,7 @@ The second for the Hall.
 
 ---
 
-## **XII. Outlook**
+## XII. Outlook
 
 Analysts predict the Free Company will remain the Ministry’s stabilizing force for generations.  
 But if the Stalwart Branch gains autonomy, the Ministry risks losing its most humanizing arm.
@@ -231,7 +231,7 @@ But if the Stalwart Branch gains autonomy, the Ministry risks losing its most hu
 > — Jessa the Silent
 
 ---
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

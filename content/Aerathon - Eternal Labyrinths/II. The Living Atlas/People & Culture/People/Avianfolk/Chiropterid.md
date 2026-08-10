@@ -528,7 +528,7 @@ Some arrived through sanctioned gates. Others emerged from Labyrinth breaches, f
 
 ### Allemance
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Allemance|Allemance]], Chiropterids often settle in converted barns, bell towers, communal lofts, old mills, and homes expanded to provide high sleeping spaces.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], Chiropterids often settle in converted barns, bell towers, communal lofts, old mills, and homes expanded to provide high sleeping spaces.
 
 Allemancian customs of hospitality and shared responsibility can ease the transition into material life.
 
@@ -544,7 +544,7 @@ Many Allemancian Chiropterids become deeply attached to objects repaired repeate
 
 ### Oria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Oria|Oria]], Chiropterids work in planar engineering, breach analysis, structural acoustics, magitech research, emergency inspection, and astral containment.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]], Chiropterids work in planar engineering, breach analysis, structural acoustics, magitech research, emergency inspection, and astral containment.
 
 Oric culture insists that imagination must survive contact with measurement.
 
@@ -573,7 +573,7 @@ The least successful produce memorable explosions and excellent revisions.
 
 ### Vinyot
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Vinyot|Vinyot]], portable storage, planar craft, novelty, and unusual performance all possess immediate commercial value.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], portable storage, planar craft, novelty, and unusual performance all possess immediate commercial value.
 
 Chiropterids work in art, transport, secure storage, entertainment, trade, fashion, architecture, magical research, and luxury fabrication.
 
@@ -604,7 +604,7 @@ Vinyoti officials generally agree until substantial revenue becomes involved.
 
 ### Arneria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Arneria|Arneria]], Chiropterids are often associated with liminal rites, dream interpretation, planar theology, confession, death vigils, and the study of spaces between defined states.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]], Chiropterids are often associated with liminal rites, dream interpretation, planar theology, confession, death vigils, and the study of spaces between defined states.
 
 Some Arnerian traditions regard them as living evidence that creation extends beyond the material world.
 
@@ -620,7 +620,7 @@ Some ask enough questions to be removed from the temple.
 
 ### Al’Ar
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Al'Ar|Al’Ar]], Chiropterids find cultures already comfortable with improvisation, performance, storms, temporary structures, and rebuilding after change.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], Chiropterids find cultures already comfortable with improvisation, performance, storms, temporary structures, and rebuilding after change.
 
 Al’Ari settlements often provide elevated walkways, hanging dwellings, flexible interiors, and public spaces adapted for gliding.
 

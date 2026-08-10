@@ -1,5 +1,7 @@
 > *“My pack may be gone… but my promise still lives in every heartbeat I protect.”*
-___
+---
+
+# Atticus
 
 ### _S-Rank Guardian Delver_
 
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 A towering wolf-kin Beastfolk marked by age, scars, and a grief he carries like armor, **Atticus of the First Howl** stands as one of the Ministry’s most decorated and enigmatic S-Rank delvers. Known across Aerathon for his unwavering loyalty and unmatched defensive ferocity, Atticus embodies a rare union of **compassion, discipline, and lethal precision** in a profession dominated by spectacle.
 
@@ -27,7 +29,7 @@ If you bleed with honor, they say, **Atticus will find you.**
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Founding member of _The Cinderpaw Pact_; currently operates independently as protector, enforcer, and mentor
     
@@ -40,7 +42,7 @@ If you bleed with honor, they say, **Atticus will find you.**
 
 ---
 
-## **III. Ideals & Creed**
+## III. Ideals & Creed
 
 - **Loyalty Is Legacy** — You protect what you cherish; you become what you defend.
     
@@ -53,26 +55,26 @@ The Ministry categorizes his philosophy under **Guardian-Class Behavioral Discip
 
 ---
 
-## **IV. Notable Exploits**
+## IV. Notable Exploits
 
-### **The Shattering of Crimson Peak**
+### The Shattering of Crimson Peak
 
 When a relic chamber collapsed atop a trapped delve team, Atticus carved through mimic-fused stone with nothing but Wardenfang and raw force. Survivors described him as _“a wall of fur and thunder, tearing daylight into the dark.”_
 
-### **The Howl of Moonlight Bastion**
+### The Howl of Moonlight Bastion
 
 During a planar shade siege, Atticus led unarmed villagers through a Labyrinth bypass while howling continuously to disorient the swarm. Echo-Law analysts confirm the howl caused six shades to collapse into vapor.
 
-### **The Last Hearth Oath**
+### The Last Hearth Oath
 
 After the loss of the Hearthbound, Atticus etched every packmate’s name into his armor plates. He vowed to take no relic for personal gain—only for preservation, peace, or protection.  
 He has never broken this vow.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Wardenfang**
+### Wardenfang
 
 Darksteel greataxe bound to an ancestral wolf-totem.
 
@@ -85,7 +87,7 @@ Darksteel greataxe bound to an ancestral wolf-totem.
 
 Considered a **Guardian-Aligned Relic** under Charter §6-F.
 
-### **Cloak of the Hearth Vow**
+### Cloak of the Hearth Vow
 
 Fireproof hide cloak made from remnants of the Hearthbound’s gear.
 
@@ -96,7 +98,7 @@ Fireproof hide cloak made from remnants of the Hearthbound’s gear.
 
 Artifact retains faint Echo-Law signatures from the fallen crew.
 
-### **Bracers of the Bonded Oath**
+### Bracers of the Bonded Oath
 
 Iron bands engraved with pulsing silver runes.
 
@@ -109,7 +111,7 @@ Classified as **Emotion-Linked Gear**, requiring psychological stability to wiel
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Clears:** 9 S-Rank, 25 A-Rank (10 rescue/escort operations)
     
@@ -124,7 +126,7 @@ His rescue operations are mandatory case studies for novice delvers.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > **“I’m not the strongest. I’m just the one still standing when you need me.”**  
 > GSN interview before the Labyrinth of Sundered Oaths.
@@ -137,7 +139,7 @@ His rescue operations are mandatory case studies for novice delvers.
 
 ---
 
-## **VIII. Rumors, Echoes & Anomalies**
+## VIII. Rumors, Echoes & Anomalies
 
 _(Unverified; under review by Arcane Breach Division.)_
 
@@ -154,7 +156,7 @@ Lt. Korrin lists these under **Echo-Resonant Guardian Phenomena**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

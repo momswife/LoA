@@ -3,7 +3,7 @@
 
 ---
 
-# **Nattefrost**
+# Nattefrost
 
 ### _The Crown of Ice — “Where the Sky Freezes First.”_
 
@@ -18,7 +18,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Beyond the **Elkbrother Islands** and north of all known settlements lies the **Nattefrost** — a realm of white horizon and eternal wind.  
 Here mountains dissolve into flat sheets of frozen glass, and sound itself seems to freeze mid-air before shattering into glittering dust.
@@ -28,7 +28,7 @@ Every step northward is a step into yesterday — and sometimes, into someone el
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 |**Feature**|**Description**|
 |---|---|
@@ -40,7 +40,7 @@ Average surface temperature: −68 °C. Wind velocity exceeds 90 knots during po
 
 ---
 
-## **III. Chronology of Exploration**
+## III. Chronology of Exploration
 
 |**Date (A.D.)**|**Event**|**Result / Impact**|
 |---|---|---|
@@ -49,8 +49,8 @@ Average surface temperature: −68 °C. Wind velocity exceeds 90 knots during po
 |**2905**|“Icewake Event”: discovery of frozen ruins beneath 200 ft of glacier.|Artifacts recovered, unidentified script.|
 |**3620**|Partial thaw exposes pre-Labyrinthal structures; investigation halted after auditory hallucinations.|Site resealed.|
 |**3726**|Latest probe by drone-relay. All transmissions cease at coordinate N 89° 22′ E 14° 01′.|Presumed atmospheric interference.|
-___
-## **IV. Phenomena**
+---
+## IV. Phenomena
 
 |**Designation**|**Nature**|**Effect**|
 |---|---|---|
@@ -58,24 +58,24 @@ ___
 |**Whisper Gale**|Auditory|Wind carries intelligible voices speaking names of the recently dead.|
 |**The Slow Snow**|Environmental|Flakes descend once every ten years, hanging motionless for months before falling.|
 |**Echo Auroras**|Optical / Psychic|Light curtains that mimic the observer’s emotions in color and shape.|
-___
-## **V. Inhabitants & Myths**
+---
+## V. Inhabitants & Myths
 
-### **1. The Frost-Walkers**
+### 1. The Frost-Walkers
 
 Shadowy silhouettes visible against the horizon; move contrary to wind direction. Believed to be remnants of lost delvers trapped between seconds.
 
-### **2. The Lodge Trial**
+### 2. The Lodge Trial
 
 Among northern Oria clans, surviving a night on the Nattefrost without fire is rite of passage. Scars of frostbite are called “the Ancestors’ signatures.”
 
-### **3. The Nameless Choir**
+### 3. The Nameless Choir
 
 When the wind stills (rarely), faint singing echoes from beneath the ice. Melody matches fragments of ancient hymns in extinct dialects.
 
 ---
 
-## **VI. Scientific Theories**
+## VI. Scientific Theories
 
 1. **Cryo-Temporal Compression Model** — The ice traps not just heat but chronological flow; melting releases displaced time in bursts of déjà vu.
     
@@ -88,7 +88,7 @@ When the wind stills (rarely), faint singing echoes from beneath the ice. Melody
 
 ---
 
-## **VII. Hazards**
+## VII. Hazards
 
 |**Hazard**|**Description**|
 |---|---|
@@ -100,7 +100,7 @@ Survival longer than 72 hours without thaumic shielding considered miraculous.
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -112,7 +112,7 @@ Artifacts stored in Vault #119, Louvain Branch, triple seal Vell / Korrin / Daan
 
 ---
 
-## **IX. Current Status**
+## IX. Current Status
 
 - **Classification:** Level IV Cryo-Temporal Hazard Zone.
     
@@ -129,7 +129,7 @@ Artifacts stored in Vault #119, Louvain Branch, triple seal Vell / Korrin / Daan
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Nattefrost** crowns Aerathon in silence — a kingdom of glass where time freezes, light forgets to move, and memory turns to snow.  
 It is less a place than a pause in the world’s breath, a reminder that even gods leave their winters behind.
@@ -138,7 +138,7 @@ Those who venture there do not seek discovery; they seek to prove that they can 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Polar & Temporal Phenomena Register)**  

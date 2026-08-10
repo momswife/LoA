@@ -1,3 +1,5 @@
+# Southwinds
+
 ### _The Harbor of Scars — “Every Breeze Remembers.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Maritime Cities & Post-Conflict Recovery)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Southwinds** is the largest port city along the **hot, humid southern shoreline of Vinyot**, positioned between the **Honeymoon River** and the **Auric River**, where inland trade meets the open routes toward **Arneria and the Long Sea**.
 
@@ -24,11 +26,11 @@ Southwinds bears deeper historical scars than any other Vinyotian port. It was t
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Southwinds stretches along fertile coastal lowlands, its cityscape shaped as much by wind as by water.
 
-### **The Shoreline**
+### The Shoreline
 
 - Warm, shallow waters suitable for extended anchorage
     
@@ -37,7 +39,7 @@ Southwinds stretches along fertile coastal lowlands, its cityscape shaped as muc
 - Sandy soil reinforced by stone foundations
     
 
-### **Urban Layout**
+### Urban Layout
 
 - **Lower Docks:** Warehouses, taverns, shipyards
     
@@ -50,11 +52,11 @@ Few structures predate the occupation. Most are **postwar constructions**, pract
 
 ---
 
-## **III. History**
+## III. History
 
 Southwinds was once a proud but unremarkable coastal city—until history arrived all at once.
 
-### **The Occupation**
+### The Occupation
 
 The **Unknown’s initial manifestation** occurred several miles east of the city. Within days, a human army swept through Southwinds and established it as their **primary coastal base**.
 
@@ -71,7 +73,7 @@ At the command of unseen authorities:
 
 Southwinds became an administrative and logistical hub for the occupation. Resistance was crushed quickly. Survival required silence.
 
-### **After the War**
+### After the War
 
 When the conflict ended, Southwinds made a defining choice:  
 **it refused entry to humans entirely.**
@@ -80,7 +82,7 @@ While neighboring cities benefited from shared reconstruction, labor, and goodwi
 
 Only in recent decades did curiosity about delvers and the wider world outweigh grief.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1429 A.D.** — Founding of Southwinds as a coastal trade port.
     
@@ -98,7 +100,7 @@ It simply chose when to look forward.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Southwinds is governed by a **Harbor Council**, composed of shipmasters, dock guild representatives, and civic stewards.
 
@@ -113,7 +115,7 @@ While humans may now walk its streets, **surveillance is constant and deliberate
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Southwinds thrives on movement.
 
@@ -132,7 +134,7 @@ The city profits enormously from traffic moving _through_ it—even if trust doe
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Southwinds is subdued.
 
@@ -149,7 +151,7 @@ Food, music, and storytelling carry memory where temples once stood.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Southwinds maintains a strong but restrained watch.
 
@@ -164,7 +166,7 @@ The city’s defense doctrine focuses on **never being taken again**.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Southwinds is not defined by the Labyrinths, but they pass through it.
 
@@ -180,7 +182,7 @@ Labyrinth chaos is not.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -194,7 +196,7 @@ Southwinds influences Aerathon by controlling **who passes and how quickly**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Southwinds is a city learning how to exist after violation.
 
@@ -205,7 +207,7 @@ It no longer bars its gates—but it does not open its arms either. Memory lives
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Locals still avoid rebuilding old bethel sites
     
@@ -218,7 +220,7 @@ It no longer bars its gates—but it does not open its arms either. Memory lives
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

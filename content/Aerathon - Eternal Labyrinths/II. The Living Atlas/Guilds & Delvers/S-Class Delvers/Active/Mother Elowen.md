@@ -1,6 +1,8 @@
 >“Mercy is not a gift. It is a wound one chooses to carry in place of another.”
 
-___
+---
+# Mother Elowen
+
 ### _S-Class Miracle-Bearer & Redeemer_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Divine Phenomena & Mortuary Mercy Bureau)  
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Mother Elowen of the Pale Hour** stands as one of Aerathon’s most revered—and most feared—S-Class delvers. A human priestess of **Ilmater**, seemingly untouched by age yet deeply touched by suffering, she treads where even hardened delvers break.
 
@@ -22,7 +24,7 @@ She has refused clerical rank, refused sainthood three times, and refuses to sto
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Unaligned; has operated with **all four major guilds** yet bound herself to none
     
@@ -35,7 +37,7 @@ She has refused clerical rank, refused sainthood three times, and refuses to sto
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Endurance Is Holiness** — Power is bearing pain without passing it on.
     
@@ -46,22 +48,22 @@ She has refused clerical rank, refused sainthood three times, and refuses to sto
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Severing of Ashlock Chain**
+### 1. The Severing of Ashlock Chain
 
 A soul-trap Labyrinth that forced the dying to relive agony in an endless loop.  
 Elowen walked calmly to its core and performed an Ilmatari rite known to only **two living priests**.  
 Hundreds of trapped souls whispered her name for days after death.
 
-### **2. The Mercyblade Trial**
+### 2. The Mercyblade Trial
 
 A delver accused of murdering his team was judged by Elowen herself.  
 She descended with him into the very Labyrinth he betrayed them in.  
 Only she returned—blade unstained.  
 _“He chose the last truth,”_ she said. _“I only witnessed it.”_
 
-### **3. The Quieting of the Crimson Choir**
+### 3. The Quieting of the Crimson Choir
 
 A cursed chorus of undead bards held a village hostage with grief-song.  
 Elowen knelt for an hour at dawn, sang a single line, and the Choir dissolved to dust—  
@@ -69,9 +71,9 @@ released from torment they no longer remembered.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **The Mercyblade**
+### The Mercyblade
 
 A modest longsword wrapped in prayer-cloth.
 
@@ -82,7 +84,7 @@ A modest longsword wrapped in prayer-cloth.
 - Glows **pale blue** near the irredeemable
     
 
-### **The Shroud of Pale Hours**
+### The Shroud of Pale Hours
 
 A shawl that constantly weeps soft, clean water.
 
@@ -93,7 +95,7 @@ A shawl that constantly weeps soft, clean water.
 - Blinds the damned when unfurled in judgment
     
 
-### **Prayerbeads of the Martyr’s Path**
+### Prayerbeads of the Martyr’s Path
 
 Each bead contains the final prayer of someone she saved—or failed to save.
 
@@ -104,7 +106,7 @@ Each bead contains the final prayer of someone she saved—or failed to save.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 11
     
@@ -119,7 +121,7 @@ Each bead contains the final prayer of someone she saved—or failed to save.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“I will carry this pain. You—walk free.”_  
 — To a cursed noble child, moments before taking their burden
@@ -132,7 +134,7 @@ _“Even the gods bled once. I simply never stopped.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Said to be immune to fire—yet **screams softly in her sleep** remembering it
     
@@ -145,7 +147,7 @@ _“Even the gods bled once. I simply never stopped.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Divine Phenomena & Mortuary Mercy Bureau)**  

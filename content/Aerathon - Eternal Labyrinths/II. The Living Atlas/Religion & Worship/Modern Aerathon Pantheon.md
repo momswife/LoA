@@ -1,3 +1,5 @@
+# Modern Aerathon Pantheon
+
 ### _How the People—And Fewer Delvers—Worship in the Age of Spectacle_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Modern Aerathon Pantheon** encompasses the 34 Near-Heaven deities whose worship shapes the cultural, civic, and psychological life of Aerathon.  
 Yet in recent decades—especially among **delvers**—religious devotion has declined sharply.
@@ -33,7 +35,7 @@ This dossier describes the pantheon as it appears **in practice**, not in cosmol
 
 ---
 
-## **II. The Pantheon in a Declining Devotional Age**
+## II. The Pantheon in a Declining Devotional Age
 
 City records and guild data show:
 
@@ -68,7 +70,7 @@ To most, these are **habits**, not faith.
 
 ---
 
-## **III. Sociological Groupings of the Modern Pantheon**
+## III. Sociological Groupings of the Modern Pantheon
 
 ### _Updated to reflect secular delver culture_
 
@@ -76,7 +78,7 @@ The pantheon divides into **five devotional blocs**, shaped by societal relevanc
 
 ---
 
-# **1. The Hearth & Harvest Bloc**
+### 1. The Hearth & Harvest Bloc
 
 _Chauntea, Eldath, Mielikki, Silvanus, Auril_
 
@@ -95,7 +97,7 @@ Minimal. Delvers rarely participate except during regional festivals.
 
 ---
 
-# **2. The Cities of Ink & Steel**
+### 2. The Cities of Ink & Steel
 
 _Azuth, Deneir, Oghma, Gond, Savras, Mystra, Waukeen_
 
@@ -113,7 +115,7 @@ Delvers respect these gods for practical reasons—mapmaking, crafting gear, scr
 
 ---
 
-# **3. The Vigilant & the Valiant**
+### 3. The Vigilant & the Valiant
 
 _Helm, Ilmater, Torm, Tyr, Tempus_
 
@@ -131,7 +133,7 @@ Delvers still perform Helm or Tempus rites out of tradition, but attendance is l
 
 ---
 
-# **4. The Bright & the Beautiful**
+### 4. The Bright & the Beautiful
 
 _Lathander, Sune, Lliira, Selûne, Milil_
 
@@ -149,7 +151,7 @@ Selûne is still invoked for safe night travel, but active devotion wanes.
 
 ---
 
-# **5. The Shadow, the Storm & the Unruly**
+### 5. The Shadow, the Storm & the Unruly
 
 _Mask, Tymora, Shar, Talos, Umberlee, Beshaba, Cyric, Loviatar, Bhaal, Malar, Talona, Myrkul_
 
@@ -175,23 +177,23 @@ Even these are not theological commitments—merely habits tied to the professio
 
 ---
 
-## **IV. How Worship Functions in Daily Life**
+## IV. How Worship Functions in Daily Life
 
 Daily worship persists across Aerathon, but with four major shifts:
 
-### **1. Ritual Over Belief**
+### 1. Ritual Over Belief
 
 People perform rites because they’re comforting, not because they expect divine action.
 
-### **2. Cultural Continuity**
+### 2. Cultural Continuity
 
 Temples act as community centers, not conduits to the divine.
 
-### **3. Symbol Without Doctrine**
+### 3. Symbol Without Doctrine
 
 Pantheonic symbols retain meaning even as faith declines.
 
-### **4. Delver Secularization**
+### 4. Delver Secularization
 
 Delvers maintain _behavioral rituals_ rather than prayer:
 
@@ -206,7 +208,7 @@ These acts are **psychological preparation**, not genuine worship.
 
 ---
 
-## **V. Clerics & Temples in a Less Devout Era**
+## V. Clerics & Temples in a Less Devout Era
 
 Clergy have adapted by shifting roles:
 
@@ -234,9 +236,9 @@ Their authority comes from **trust**, not miracles.
 
 ---
 
-## **VI. Declining Delver Faith: Causes & Impacts**
+## VI. Declining Delver Faith: Causes & Impacts
 
-### **Primary Causes**
+### Primary Causes
 
 - exposure to the Labyrinth instills fatalism or skepticism
     
@@ -249,7 +251,7 @@ Their authority comes from **trust**, not miracles.
 - guild cultures emphasizing professionalism, not piety
     
 
-### **Consequences**
+### Consequences
 
 - clerics embedded in guilds see reduced influence
     
@@ -264,7 +266,7 @@ Their authority comes from **trust**, not miracles.
 
 ---
 
-## **VII. Ministry Assessment of Modern Worship Trends**
+## VII. Ministry Assessment of Modern Worship Trends
 
 |Category|Status|
 |---|---|
@@ -282,7 +284,7 @@ Where the gods remain distant, delvers place faith in steel, spellcraft, and eac
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)**  

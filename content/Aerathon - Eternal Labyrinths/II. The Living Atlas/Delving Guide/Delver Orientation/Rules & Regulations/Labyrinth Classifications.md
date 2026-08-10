@@ -3,7 +3,7 @@
 
 ---
 
-# **Labyrinth Classifications**
+# Labyrinth Classifications
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Structural Cartography Office)_
 **Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law)  
@@ -38,13 +38,13 @@ These tier designations are legally binding across all registered guilds, nation
 
 ---
 
-# **I. The Labyrinth Tier System**
+## I. The Labyrinth Tier System
 
 The Ministry recognizes **seven active classifications**, from harmless youth-training labyrinths to reality-threatening catastrophes.
 
 ---
 
-## **Tier 0 — Pedagogical Constructs**
+### Tier 0 — Pedagogical Constructs
 
 **Threat Level:** _Negligible_  
 **Authorized Delvers:** Trainees, provisional permit holders  
@@ -61,7 +61,7 @@ Tier 0 sites exist purely for training and education.
 
 ---
 
-## **Tier 1 — Stable Labyrinths**
+### Tier 1 — Stable Labyrinths
 
 **Threat Level:** _Low_  
 **Authorized Delvers:** C-Rank and above  
@@ -78,7 +78,7 @@ Used for routine contracts, practice runs, and low-risk expeditions.
 
 ---
 
-## **Tier 2 — Transitional Labyrinths**
+### Tier 2 — Transitional Labyrinths
 
 **Threat Level:** _Moderate_  
 **Authorized Delvers:** C-Rank (team only) or B-Rank solo  
@@ -95,7 +95,7 @@ Often recommended for first serious delves.
 
 ---
 
-## **Tier 3 — Unstable Labyrinths**
+### Tier 3 — Unstable Labyrinths
 
 **Threat Level:** _High_  
 **Authorized Delvers:** B-Rank teams, A-Rank solo  
@@ -112,7 +112,7 @@ These labyrinths are infamous for trapping or disorienting unprepared parties.
 
 ---
 
-## **Tier 4 — Volatile Labyrinths**
+### Tier 4 — Volatile Labyrinths
 
 **Threat Level:** _Severe_  
 **Authorized Delvers:** A-Rank teams, S-Rank operatives  
@@ -129,7 +129,7 @@ Entry requires Ministry sign-off and Divine Oculi oversight.
 
 ---
 
-## **Tier 5 — Cataclysmic Labyrinths**
+### Tier 5 — Cataclysmic Labyrinths
 
 **Threat Level:** _Extreme_  
 **Authorized Delvers:** S-Rank teams only  
@@ -146,7 +146,7 @@ Breaches from these labyrinths can devastate regions; many are sealed except in 
 
 ---
 
-## **Tier 6 — Forbidden Labyrinths**
+### Tier 6 — Forbidden Labyrinths
 
 **Threat Level:** _Existential_  
 **Authorized Delvers:** None (ministerially sealed)  
@@ -165,31 +165,31 @@ Tier 6 sites may only be opened with unanimous Divine Oculi consent and a specia
 
 ---
 
-# **II. Secondary Classification Modifiers**
+## II. Secondary Classification Modifiers
 
 Beyond Tier designation, Labyrinths can receive special modifiers based on environment, magical influence, or historical behavior.
 
-### **• BLK — Black-Route Classification**
+#### • BLK — Black-Route Classification
 
 Illicit labyrinth with no official registry. Entry is illegal.
 
-### **• ANC — Ancestral Seal Condition**
+#### • ANC — Ancestral Seal Condition
 
 Labyrinth tied to beastfolk lineage or ancient clans.
 
-### **• DIV — Divine Influence**
+#### • DIV — Divine Influence
 
 Site under direct observation or historical influence of a deity.
 
-### **• EXL — Extralinear Instability**
+#### • EXL — Extralinear Instability
 
 Time, memory, or reality flows improperly inside.
 
-### **• CRB — Corruption Bloom**
+#### • CRB — Corruption Bloom
 
 Curses spread faster or strengthen over time.
 
-### **• RCN — Relic-Concentrated Node**
+#### • RCN — Relic-Concentrated Node
 
 High relic density; extraction strictly regulated.
 
@@ -198,15 +198,15 @@ A labyrinth labeled **4-DIV-EXL** is profoundly dangerous.
 
 ---
 
-# **III. Criteria for Tier Assignment**
+## III. Criteria for Tier Assignment
 
 Tier classification is determined through a unified assessment of:
 
-### **1. Monster Density & Sentience**
+#### 1. Monster Density & Sentience
 
 More sentient enemies dramatically increase tier consideration.
 
-### **2. Structural Stability**
+#### 2. Structural Stability
 
 Includes:
 
@@ -219,11 +219,11 @@ Includes:
 - Sudden spatial inversions
     
 
-### **3. Relic Volatility**
+#### 3. Relic Volatility
 
 Cursed or divine relics heavily influence tier.
 
-### **4. Environmental Hazard Saturation**
+#### 4. Environmental Hazard Saturation
 
 Such as:
 
@@ -236,17 +236,17 @@ Such as:
 - Time-dilated floors
     
 
-### **5. Historical Collapse Data**
+#### 5. Historical Collapse Data
 
 Previous fatalities, disappearances, or recorded distortions.
 
-### **6. Divine Oculi Reports**
+#### 6. Divine Oculi Reports
 
 Real-time monitoring of hazard fluctuations.
 
 ---
 
-# **IV. Eligibility Rules by Classification**
+## IV. Eligibility Rules by Classification
 
 |**Tier**|**Entry Eligibility**|**Special Requirements**|
 |---|---|---|
@@ -261,23 +261,23 @@ Unauthorized entry is punishable by license suspension or revocation.
 
 ---
 
-# **V. Reclassification Events**
+## V. Reclassification Events
 
 Labyrinth tiers may shift due to:
 
-### **1. Monster King Emergence**
+#### 1. Monster King Emergence
 
 A sudden rise in local monster hierarchy.
 
-### **2. Relic Awakening**
+#### 2. Relic Awakening
 
 A dormant artifact activates unexpectedly.
 
-### **3. Spatial Rupture**
+#### 3. Spatial Rupture
 
 Dimensional collapse or new floor manifestation.
 
-### **4. Convergence Signals**
+#### 4. Convergence Signals
 
 Rare resonance patterns aligned with prophetic anomalies.
 
@@ -285,7 +285,7 @@ When reclassification occurs, all delvers inside are immediately signaled with a
 
 ---
 
-# **VI. Notable Classifications in Aerathon**
+## VI. Notable Classifications in Aerathon
 
 Without listing exact sites, typical examples include:
 
@@ -301,21 +301,21 @@ Without listing exact sites, typical examples include:
 Many of these are sealed or restricted to Ministerial research teams.
 
 ---
-# **VII. N-Class Team Overrides (N-Series Protocols)**
+## VII. N-Class Team Overrides (N-Series Protocols)
 
-### _Special Permissions Granted to Core-Designated Teams_
+#### _Special Permissions Granted to Core-Designated Teams_
 
 In exceedingly rare circumstances, the Arcanet Core identifies a group of delvers whose combined resonance indicates **preordained labyrinthic significance**.  
 These groups are designated as **N-Class Teams** (also known as **N-Series Activations**), such as the historically significant **Unit N-7**.
 
 When an N-Class Activation occurs, the Ministry acknowledges the Core’s judgment by granting the affected team **extraordinary operational privileges**, including:
 
-## **1. Tier Bypass Authority**
+### 1. Tier Bypass Authority
 
 N-Class teams are permitted to enter labyrinths **up to two tiers above** their formal license eligibility.  
 In cases of **DIV-EXL convergence anomalies**, the High Ministry may authorize **full tier override**, including access to Tier 5 or—under divine writ—Tier 6 zones.
 
-## **2. Expedite Clearance**
+### 2. Expedite Clearance
 
 N-Class teams automatically receive:
 
@@ -330,7 +330,7 @@ N-Class teams automatically receive:
 
 Their operational timelines follow Core-directed insight, not standard bureaucratic flow.
 
-## **3. Modified Oculi Protocols**
+### 3. Modified Oculi Protocols
 
 Divine Oculi are instructed to:
 
@@ -343,7 +343,7 @@ Divine Oculi are instructed to:
 
 These teams effectively operate under a hybrid of Ministerial oversight and Core-guided purpose.
 
-## **4. Exemption From Standard Team Composition Rules**
+### 4. Exemption From Standard Team Composition Rules
 
 N-Class teams are exempt from:
 
@@ -356,7 +356,7 @@ N-Class teams are exempt from:
 
 Their synergy is considered **self-correcting**, dictated by the Core’s predictive resonance mapping.
 
-## **5. Access to Restricted Labyrinth Types**
+### 5. Access to Restricted Labyrinth Types
 
 Under controlled circumstances, N-Class delvers may enter:
 
@@ -371,7 +371,7 @@ Under controlled circumstances, N-Class delvers may enter:
 
 This is not a privilege—it is a Core-initiated necessity.
 
-## **6. Heightened Observation and Recordkeeping**
+### 6. Heightened Observation and Recordkeeping
 
 All N-Class teams are monitored by:
 
@@ -388,7 +388,7 @@ Their actions often influence future labyrinth classification policy.
 
 ---
 
-### **N-Class Activation Clause**
+#### N-Class Activation Clause
 
 **By Ministerial decree (§7-H):**
 
@@ -399,7 +399,7 @@ N-Class Teams therefore occupy a unique legal state:
 but only in service to preventing convergence-level events.**
 
 ---
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities Division (Structural Cartography Office)**  

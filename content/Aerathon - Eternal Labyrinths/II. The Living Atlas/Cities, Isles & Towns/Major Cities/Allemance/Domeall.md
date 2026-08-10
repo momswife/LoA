@@ -1,3 +1,5 @@
+# Domeall
+
 ### _The Wolfgate Port — “We Remain Free Because We Are Expensive to Take.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Border Ports & Foreign Trade Centers)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Domeall** (DOM-ull) is the **northernmost city of Allemance** and the terminus of the great trade road that cuts through **Glasrún**. It serves simultaneously as a port city, naval stronghold, and the de facto center of **Glasrún’s foreign affairs**.
 
@@ -23,11 +25,11 @@ To ensure it stays that way, Domeall maintains the **largest naval force in Alle
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Domeall sits where the forest thins into rocky shoreline, its harbor protected by natural stone arms and reinforced breakwaters.
 
-### **The Harbor**
+### The Harbor
 
 - Deep-water docks capable of handling Oric heavy carriers
     
@@ -36,7 +38,7 @@ Domeall sits where the forest thins into rocky shoreline, its harbor protected b
 - Layered harbor chains and retractable barriers
     
 
-### **The Lodge City**
+### The Lodge City
 
 Architecture blends Glasrún and Oric sensibilities:
 
@@ -51,7 +53,7 @@ The city is built outward and low, favoring **strength over height**.
 
 ---
 
-## **III. History**
+## III. History
 
 Domeall began as a pragmatic settlement: a place where forest routes ended and ships began. As Glasrún’s inland trade grew, Domeall became unavoidable—not just for goods, but for diplomacy.
 
@@ -72,7 +74,7 @@ In the generations since, Domeall has cultivated its identity as a city that sur
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Domeall is governed by a **Harbor Council**, composed of:
 
@@ -89,7 +91,7 @@ While a royal governor is technically appointed by Allemance, their role is larg
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Domeall’s economy is built on **movement and mediation**.
 
@@ -106,7 +108,7 @@ The city also profits from tariffs, docking rights, and escort contracts.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Domeall is pragmatic and blended.
 
@@ -130,7 +132,7 @@ Culturally, Domeall is a place of **adaptation**:
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Domeall’s law is inseparable from its navy.
 
@@ -145,7 +147,7 @@ On land, enforcement is light; at sea, it is absolute.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Domeall maintains a **deliberate distance** from the Labyrinths.
 
@@ -160,7 +162,7 @@ The city prefers threats it can see coming over mysteries that cannot be blockad
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -174,7 +176,7 @@ Domeall influences the continent by deciding **which ships dock—and which turn
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Domeall is a city that knows its value.
 
@@ -185,7 +187,7 @@ It does not beg for freedom or boast of it. Instead, it maintains enough ships, 
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Ships are named after forests as often as animals
     
@@ -198,7 +200,7 @@ It does not beg for freedom or boast of it. Instead, it maintains enough ships, 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Border Ports & Foreign Trade Centers)**  

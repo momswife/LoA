@@ -1,4 +1,4 @@
-# **Regional Politics of Al’Ar**
+# Regional Politics of Al’Ar
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Governance & Maritime Polities)_  
 **Primary Compiler:** **Agent Corvaine Leir** (Diplomatic Climate & Inter-Regional Affairs)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of Al’Ar**
+## I. Political Identity of Al’Ar
 
 Al’Ar is not a unified state, despite frequent assumptions made by outsiders.
 
@@ -29,7 +29,7 @@ Al’Ar’s politics are fluid, decentralized, and deeply personal.
 
 ---
 
-## **II. City-States & Dock Polities**
+## II. City-States & Dock Polities
 
 Each major Al’Ari city functions as a **sovereign dock-state**, governing its own:
 
@@ -50,7 +50,7 @@ Agreements are made ship-to-ship, season-to-season.
 
 ---
 
-## **III. Seasonal Authority & the Storm Voyage**
+## III. Seasonal Authority & the Storm Voyage
 
 Political power in Al’Ar is **seasonal**.
 
@@ -69,7 +69,7 @@ This rhythm prevents long-term accumulation of centralized power and makes perma
 
 ---
 
-## **IV. Religious Influence & Civic Faith**
+## IV. Religious Influence & Civic Faith
 
 Religion in Al’Ar shapes politics indirectly.
 
@@ -88,7 +88,7 @@ Religious disputes rarely escalate to conflict; they are resolved through **refu
 
 ---
 
-## **V. The Role of Tempestat**
+## V. The Role of Tempestat
 
 Tempestat is Al’Ar’s **largest city and most influential port**, but it holds no legal supremacy.
 
@@ -107,7 +107,7 @@ Too much authority would provoke withdrawal by smaller cities.
 
 ---
 
-## **VI. Delvers, the Labyrinths, and Political Friction**
+## VI. Delvers, the Labyrinths, and Political Friction
 
 Al’Ar cities vary widely in their stance toward the Labyrinths.
 
@@ -124,27 +124,27 @@ The MDO maintains a strong presence in Al’Ar ports to prevent disputes from es
 
 ---
 
-## **VII. External Relations**
+## VII. External Relations
 
-### **Vinyot**
+### Vinyot
 
 Trade partner and cultural rival. Al’Ar values Vinyot’s stability but resists its corporate consolidation.
 
-### **Allemance**
+### Allemance
 
 Respected for structure and land-based logistics. Al’Ar sailors often find Allemagnian law stifling.
 
-### **Arneria**
+### Arneria
 
 Viewed with curiosity and caution. Causeway politics are alien to Al’Ari sensibilities.
 
-### **Oria**
+### Oria
 
 Mutual respect built on endurance and craft, though cultural exchange is limited.
 
 ---
 
-## **VIII. Conflict Resolution & Maritime Law**
+## VIII. Conflict Resolution & Maritime Law
 
 Al’Ar resolves political conflict through:
 
@@ -159,7 +159,7 @@ Violence between cities is exceedingly rare. A city that draws blood at sea risk
 
 ---
 
-## **IX. The MDO & External Oversight**
+## IX. The MDO & External Oversight
 
 The **Ministry of Delving Operations** serves as:
 
@@ -174,7 +174,7 @@ While Al’Ar bristles at outside authority, the MDO is tolerated because it **r
 
 ---
 
-## **X. Political Character of Al’Ar**
+## X. Political Character of Al’Ar
 
 Al’Ar’s politics are defined by:
 
@@ -191,7 +191,7 @@ It is a region that cannot be conquered without being emptied—and cannot be un
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

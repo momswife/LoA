@@ -3,7 +3,7 @@
 
 ---
 
-# **Dewflame Moth**
+# Dewflame Moth
 
 ### _Lanterns of the Wet Season — “The Candle That Drinks the Dark.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Dewflame Moth** is a bioluminescent nocturnal insect found throughout **Vinyot’s rainforests** and the **southern Arnerian wetlands**.  
 Renowned for its glimmering flight trails, it appears most frequently after rainstorms, drifting through mist like embers lost in fog.
@@ -27,7 +27,7 @@ Locals regard it as both messenger and omen: to see one land upon your hand befo
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 The Dewflame Moth’s wings span nearly **nine inches**, thin as rice paper yet patterned with veins of gold and faint cerulean.  
 Each is dusted with microscopic **aether scales** that store moisture and release it as faint luminescence.
@@ -44,7 +44,7 @@ When viewed in darkness, their wings appear as **candleflames without smoke**, t
 
 ---
 
-## **III. Habitat & Behavior**
+## III. Habitat & Behavior
 
 - **Habitat Preference:** Moist groves, flooded ruins, or labyrinth thresholds where condensation accumulates on stone.
     
@@ -59,7 +59,7 @@ When viewed in darkness, their wings appear as **candleflames without smoke**, t
 
 ---
 
-## **IV. Ecological Role**
+## IV. Ecological Role
 
 The Dewflame contributes to Aerathon’s humid ecosystems by pollinating **lumisap trees** and **mirage orchids**, plants dependent on mana-diffused pollinators.  
 Their shed scales, known as _glowdust_, enrich soil conductivity, promoting growth of flora linked to small planar rifts.
@@ -68,7 +68,7 @@ In the wild, **frogfolk** and **reedsingers** follow Dewflame trails to locate l
 
 ---
 
-## **V. Magical Properties & Applications**
+## V. Magical Properties & Applications
 
 |**Material**|**Description**|**Usage**|
 |---|---|---|
@@ -79,7 +79,7 @@ Harvesting is legally limited to postmortem collection or shed material under **
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -91,7 +91,7 @@ Harvesting is legally limited to postmortem collection or shed material under **
 
 ---
 
-## **VII. Cultural & Symbolic Role**
+## VII. Cultural & Symbolic Role
 
 - **Vinyot Poets:** Call them _“letters from the rain.”_ Poems etched in glowdust are burned at dusk so the message “flies home.”
     
@@ -104,7 +104,7 @@ During the **Festival of Reignition**, citizens release glass orbs containing mo
 
 ---
 
-## **VIII. Containment & Ministry Notes**
+## VIII. Containment & Ministry Notes
 
 - **Classification:** Level I – Benign / Ecological Asset.
     
@@ -121,14 +121,14 @@ Unauthorized use of Glowdust in alchemy or weaponry constitutes **Class-1 Biolum
 
 ---
 
-## **IX. Summary**
+## IX. Summary
 
 The **Dewflame Moth** is the gentlest echo of Aerathon’s living magic — a creature of rainfall and memory that paints the night with quiet defiance.  
 To see their light drift over still water is to glimpse the moment before a dream remembers it must fade.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)**  

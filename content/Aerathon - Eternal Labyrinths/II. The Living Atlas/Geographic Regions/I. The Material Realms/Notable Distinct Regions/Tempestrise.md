@@ -3,7 +3,7 @@
 
 ---
 
-# **The Tempestrise**
+# The Tempestrise
 
 ### _The Storm Belt of the Azur Gulf — “Where the Sky Remembers Its Teeth.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Stretching from the cliffs south of **Porta Ventura** to the ragged crescent of **Malduta Bay**, the **Tempestrise** forms a perpetual girdle of thunder about Vinyot’s eastern coast.  
 Here the Azur Gulf never sleeps: storms gather, merge, and divide as if obeying a living will.
@@ -25,7 +25,7 @@ Beastfolk revere it as sacred — a place where wings are tested, courage weighe
 
 ---
 
-## **II. Geography & Meteorology**
+## II. Geography & Meteorology
 
 |**Feature**|**Description**|
 |---|---|
@@ -37,7 +37,7 @@ The storm wall rotates counter-clockwise year-round. Direct flight through its h
 
 ---
 
-## **III. Chronology of Major Events**
+## III. Chronology of Major Events
 
 |**Date (A.D.)**|**Event**|**Result / Impact**|
 |---|---|---|
@@ -47,8 +47,8 @@ The storm wall rotates counter-clockwise year-round. Direct flight through its h
 |**3642**|_The Stormbirth of Chandelle Veyra_: Aarakocra diver attains elemental ignition during dive.|Creation of Stormborn Lineage.|
 |**3722**|Convergence surge detected; lightning arcs reach 30 mi inland.|Evacuation of coastal towns.|
 |**3728**|Current monitoring ongoing; predicted super-convergence within decade.|Alert Level III.|
-___
-## **IV. Cultural & Religious Significance**
+---
+## IV. Cultural & Religious Significance
 
 - **Aarakocra Rite of Sky-Proving:** Youths leap from the Clifftide Reach during high storm; survival marks adulthood.
     
@@ -63,7 +63,7 @@ During the **Festival of the Hundred Winds**, wings of every kind gather to danc
 
 ---
 
-## **V. Documented Phenomena**
+## V. Documented Phenomena
 
 |**Designation**|**Nature**|**Effect**|
 |---|---|---|
@@ -72,7 +72,7 @@ During the **Festival of the Hundred Winds**, wings of every kind gather to danc
 |**Static Bloom**|Magnetic|Ion fields manifest as glowing flowers upon skin and feathers.|
 |**Glassfall**|Geologic / Elemental|Lightning-fused sand descending as sharp sleet; fatal at high velocity.|
 ____
-## **VI. Scientific Theories**
+## VI. Scientific Theories
 
 1. **Cyclonic Conductor Model** — The cliffs act as a planetary grounding node dispersing divine current.
     
@@ -85,7 +85,7 @@ ____
 
 ---
 
-## **VII. Elemental Entities & Hazards**
+## VII. Elemental Entities & Hazards
 
 |**Entity / Hazard**|**Description**|
 |---|---|
@@ -97,7 +97,7 @@ Hazards include magnetized rain, chain lightning capable of vaporizing steel, an
 
 ---
 
-## **VIII. Modern Operations**
+## VIII. Modern Operations
 
 - **Classification:** Level III Elemental Observation Zone.
     
@@ -114,7 +114,7 @@ Hazards include magnetized rain, chain lightning capable of vaporizing steel, an
 
 ---
 
-## **IX. Associated Artifacts**
+## IX. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -126,7 +126,7 @@ Stored in Vault #92, Louvain Branch, under dual seal Korrin & Vell.
 
 ---
 
-## **X. Myth & Memory**
+## X. Myth & Memory
 
 Local folklore claims each bolt of lightning is a soul racing heavenward, and each crash of thunder is the gods applauding the attempt.  
 Children of the cliffs are taught to sleep through thunder — _“so the sky knows you are unafraid.”_  
@@ -134,7 +134,7 @@ Even the Ministry’s own records end with uncharacteristic reverence: none who 
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Tempestrise** is the crucible of Aerathon’s skies — equal parts cathedral, forge, and grave.  
 Its storms have burned cities and crowned heroes; its roar drowns prayer and prophecy alike.  
@@ -142,7 +142,7 @@ To fly here is to gamble with the breath of the world itself, and some still cal
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Elemental Phenomena Registry)**  

@@ -1,3 +1,5 @@
+# Al'Ar
+
 ### _The Isles of Storm and Flame — “If the world breaks, we learn to move with it.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Al’Ar** is a storm-lashed archipelago off Aerathon’s western reaches—an interlinked chain of volcanic islands, cliffbound ports, wandering dock-cities, and wind-threaded coastlines. Lightning is common enough to be navigational. Art is common enough to be law.
 
@@ -28,7 +30,7 @@ To live in Al’Ar is to accept one truth:
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 Al’Ar exists within a persistent atmospheric phenomenon known as the **Stormbelt**, where ocean currents and elemental pressure generate near-constant thunder activity.
 
@@ -47,7 +49,7 @@ Storms are not seasonal—they are **rhythmic**. Locals mark time by wind shift,
 
 ---
 
-## **III. Political Structure & Governance**
+## III. Political Structure & Governance
 
 Al’Ar has **no unified central government**.
 
@@ -62,7 +64,7 @@ Instead, governance is expressed through:
 
 Authority is **earned, temporary, and contextual**. Attempts at permanent rulership historically fail—not through rebellion, but abandonment.
 
-### **Capital Status: Tempestat**
+### Capital Status: Tempestat
 
 While Al’Ar resists formal centralization, all major cities acknowledge Tempestat as:
 
@@ -77,27 +79,27 @@ Tempestat governs nothing officially—yet coordinates everything implicitly.
 
 ---
 
-## **IV. Major Cities of Al’Ar**
+## IV. Major Cities of Al’Ar
 
-### **Tempestat — The Windbound Crown (Capital)**
+### Tempestat — The Windbound Crown (Capital)
 
 A vast chain-city stretched along miles of coast, Tempestat is Al’Ar’s beating heart. Movement, not territory, defines it. Should Al’Ar ever unify, all projections identify Tempestat as the inevitable seat of power.
 
-### **Mjinbou — The Single-Shore City**
+### Mjinbou — The Single-Shore City
 
 A city that disperses itself for half the year, embedding its people across the world before reforming through shared return. Mjinbou functions as Al’Ar’s memory and intelligence network.
 
-### **Muraya — The City of Walls**
+### Muraya — The City of Walls
 
 A vertical port carved into cliffside stone. Muraya watches the horizon so others do not have to. Its influence lies in foresight, evacuation, and restraint.
 
-### **Trebes — The Three Babes**
+### Trebes — The Three Babes
 
 A dock-city that actively avoids its own islands’ interiors. Trebes survives by rebuilding outward and refusing to investigate what waits inland.
 
 ---
 
-## **V. People & Cultural Identity**
+## V. People & Cultural Identity
 
 Al’Ari culture blends:
 
@@ -108,7 +110,7 @@ Al’Ari culture blends:
 - Mariners, performers, and storm-savants
     
 
-### **Cultural Pillars**
+### Cultural Pillars
 
 - **Expression Is Survival:** Art is how danger is understood
     
@@ -121,7 +123,7 @@ Combat, performance, trade, and faith frequently blur into the same ritual space
 
 ---
 
-## **VI. Faith & Philosophy**
+## VI. Faith & Philosophy
 
 Al’Ar does not reject the gods—but it does not kneel easily.
 
@@ -138,7 +140,7 @@ Rituals favor dance, song, and timing over doctrine. Silence is considered omino
 
 ---
 
-## **VII. Economy & Trade**
+## VII. Economy & Trade
 
 Al’Ar thrives on **circulation**, not stockpiling.
 
@@ -164,7 +166,7 @@ Currency is often symbolic; reputation and Witness Marks carry as much weight as
 
 ---
 
-## **VIII. Delving Culture**
+## VIII. Delving Culture
 
 Delving is considered a **public act**.
 
@@ -179,7 +181,7 @@ The **Thunderglass Vault** remains the most famous local site, opening paths onl
 
 ---
 
-## **IX. Foreign Relations**
+## IX. Foreign Relations
 
 |Region|Relationship|Notes|
 |---|---|---|
@@ -191,7 +193,7 @@ The **Thunderglass Vault** remains the most famous local site, opening paths onl
 
 ---
 
-## **X. Legacy**
+## X. Legacy
 
 Al’Ar does not seek to be ruled.
 
@@ -202,7 +204,7 @@ Al’Ar simply chooses to dance with them.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

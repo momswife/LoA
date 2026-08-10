@@ -1,3 +1,5 @@
+# Wingsmeet
+
 ### _Pass Village of the Bêtemère Foothills_
 
 **Region:** **Vinyot**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Wingsmeet** rests in a narrow mountain pass between two high cliffs of the **Bêtemère Mountains**, where upland winds funnel south each autumn. The village is defined not by trade routes or walls, but by a long-standing agreement with the land—and the sky above it.
 
@@ -17,7 +19,7 @@ Twice a year, Wingsmeet stops working entirely.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 The village sits at the narrowest point of the pass.
 
@@ -34,7 +36,7 @@ During peak season, the sky above Wingsmeet darkens with wings.
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Wingsmeet survives through **avian-assisted agriculture**.
 
@@ -53,7 +55,7 @@ Labor is steady—except during migration weeks, when it ceases entirely.
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Wingsmeet is governed by a **Village Steward**, appointed by the local barony but traditionally selected from long-standing Wingsmeet families.
 
@@ -68,7 +70,7 @@ Outside authorities are expected to respect the village’s calendar. Those who 
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 No Labyrinth presence is publicly acknowledged near Wingsmeet.
 
@@ -85,7 +87,7 @@ Villagers track these changes carefully. They do not speculate aloud.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Wingsmeet is calm, patient, and reverent toward cycles larger than itself.
 
@@ -102,7 +104,7 @@ Children are taught early not to frighten resting birds.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Whispers associated with Wingsmeet include:
 

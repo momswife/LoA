@@ -1,4 +1,4 @@
-# **Kurk of the Loose Rope**
+# Kurk of the Loose Rope
 
 ### _S-Class Monk–Thief of Last Rites (Deceased)_
 
@@ -10,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Kurk of the Loose Rope**, an S-Class delver born of gutters, grave dust, and bad odds, rose from street-thief to the **unofficial hand of Kelemvor**, god of death and balance. Both monk and trickster, penitent and prankster, Kurk became a paradox: a petty pickpocket who stole **souls from curses**, not purses from pockets.
 
@@ -27,7 +27,7 @@ Many delvers still swear he could steal the **breath** from a curse—or trick a
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** None formally; repeatedly “unofficially backed” by the **Free Company of Louvain** (who “never caught him sneaking in”)
     
@@ -40,7 +40,7 @@ Many delvers still swear he could steal the **breath** from a curse—or trick a
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Laugh First, Die Last** — Humor is armor.
     
@@ -51,20 +51,20 @@ Many delvers still swear he could steal the **breath** from a curse—or trick a
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Silence of Bonebridge**
+### 1. The Silence of Bonebridge
 
 An undead lord cursed a drowned catacomb to trap souls in unending whispers. Kurk dove alone and resurfaced three days later with the phylactery swapped for a **coin pouch**.  
 Whispers stopped instantly.  
 Asked how, he shrugged: _“He bet double or nothing.”_
 
-### **2. The Wake of Hollow’s Gate**
+### 2. The Wake of Hollow’s Gate
 
 A delve plagued by vengeful spirits found peace after Kurk held vigil for **seven days**, without food, water, or words. He ferried spirits with prayer, jokes, and lullabies.  
 A captured ghostly whisper: _“He made us feel… remembered.”_
 
-### **3. The Pocket Pick of the Pale One**
+### 3. The Pocket Pick of the Pale One
 
 At a cursed noble gala, disguised as a jester, Kurk “borrowed” a soulstone from a pact-bound warlock mid-toast.  
 It shattered in moonlight, freeing the bound soul.  
@@ -72,9 +72,9 @@ He left a receipt: _“One soul. No interest.”_
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **The Grey Knot Sash**
+### The Grey Knot Sash
 
 A threadbare belt tied into **thirteen loops**, one for each soul he failed to save.  
 Grants:
@@ -86,7 +86,7 @@ Grants:
 - Brief **ghostwalk** when he “ties off” reality
     
 
-### **Monk’s Vow (Coinblade Tonfa)**
+### Monk’s Vow (Coinblade Tonfa)
 
 Tonfa forged from melted **grave coins** and funeral bells.
 
@@ -95,7 +95,7 @@ Tonfa forged from melted **grave coins** and funeral bells.
 - Spin like prayer wheels to **redirect one death effect** per long rest
     
 
-### **The Last Laugh Mask**
+### The Last Laugh Mask
 
 Porcelain half-mask with an eternal smirk.
 
@@ -106,7 +106,7 @@ Porcelain half-mask with an eternal smirk.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 4 (none officially rostered)
     
@@ -121,7 +121,7 @@ Porcelain half-mask with an eternal smirk.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“The gods weigh souls. I just carry ’em for a bit.”_  
 — Note left on a cleansed altar
@@ -134,7 +134,7 @@ _“I prayed. Then I picked the lock. Both worked.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - **No one ever saw him sleep**, yet his cloak was always warm.
     
@@ -147,7 +147,7 @@ _“I prayed. Then I picked the lock. Both worked.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Mortuary Theology & Esoterics Bureau)**  

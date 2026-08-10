@@ -1,3 +1,5 @@
+# The Old Beastfolk Religion
+
 ### _A Fallen Faith of Desert Crowns and Jackal Kings_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Long before the rise of guilds, the spread of the Dawn Pantheon, or the first Ministry charters, the Beastfolk of Aerathon followed a powerful and disciplined religion centered around the **Old Gods**—the pantheon now recognized as belonging to the **Jackal Dynasties**, **River Kingdoms**, and the **Sun-Barrow Cultures**.
 
@@ -33,7 +35,7 @@ This dossier examines how a once-mighty faith vanished, and why some believe a f
 
 ---
 
-## **II. The Ancient Faith in Summary**
+## II. The Ancient Faith in Summary
 
 The Old Beastfolk Religion honored a pantheon now associated with:
 
@@ -66,13 +68,13 @@ The Old Gods were the only gods.
 
 ---
 
-## **III. Why the Religion Declined**
+## III. Why the Religion Declined
 
 Historians identify four primary pressures that extinguished the ancient faith.
 
 ---
 
-### **1. The Quiet Edict**
+### 1. The Quiet Edict
 
 When the Edict severed divine intervention, the Old Gods—whose rites depended on visible signs and precise metaphysical response—grew silent.
 
@@ -82,7 +84,7 @@ Whereas the Dawn Pantheon evolved through metaphor, art, and culture, the Old Fa
 
 ---
 
-### **2. The Dispersal of Beastfolk Civilizations**
+### 2. The Dispersal of Beastfolk Civilizations
 
 Major Beastfolk nations fractured during:
 
@@ -99,7 +101,7 @@ Without centralized temples and hereditary priesthoods, the religion shattered r
 
 ---
 
-### **3. The Rise of the Modern Pantheon**
+### 3. The Rise of the Modern Pantheon
 
 The Dawn Pantheon spread rapidly due to:
 
@@ -118,7 +120,7 @@ The Old Religion, rooted heavily in Beastfolk cosmology, simply lost its cultura
 
 ---
 
-### **4. Historical Rebranding**
+### 4. Historical Rebranding
 
 Over centuries, symbols of the Old Gods became:
 
@@ -141,64 +143,64 @@ Forgotten gods fade fastest.
 
 ---
 
-## **IV. How the Old Faith Appears Today**
+## IV. How the Old Faith Appears Today
 
 Though the religion is gone, traces survive across Aerathon.
 
-### **1. Burial Customs**
+### 1. Burial Customs
 
 Many Beastfolk still wrap the dead in linen or bury them with carved feather-shapes—a faint echo of Osiris and Anubis.
 
-### **2. Idioms & Sayings**
+### 2. Idioms & Sayings
 
 Phrases like “May the Scales Favor You” or “Sun Above, Earth Below” trace back to ancient worship.
 
-### **3. Artifacts in Circulation**
+### 3. Artifacts in Circulation
 
 Delvers occasionally uncover relic-imitations shaped after the Old Gods, though these are rarely actual relics.
 
-### **4. Architecture**
+### 4. Architecture
 
 Sun-barrel temples, jackal statues, lotus-carved columns—once sacred, now historic curiosities.
 
-### **5. Ritual Gestures**
+### 5. Ritual Gestures
 
 Some Beastfolk instinctively touch two fingers to the brow when speaking of death—a remnant of the Anubite Invocation.
 
-### **6. Academic Reconstruction**
+### 6. Academic Reconstruction
 
 Universities maintain Old Pantheon research departments (usually small and underfunded).
 
 ---
 
-## **V. Rumors of Surviving Followers**
+## V. Rumors of Surviving Followers
 
 Though the Old Faith is considered extinct, the Ministry has logged recurring reports of:
 
 ---
 
-### **1. The Dust-Cloaked Courts**
+### 1. The Dust-Cloaked Courts
 
 Claims of desert-dwelling jackalfolk who still weigh the hearts of criminals in symbolic judgment rites.
 
-### **2. The River Mothers**
+### 2. The River Mothers
 
 Small Beastfolk enclaves who leave offerings of milk and lotus at dawn—an Isis ritual.
 
-### **3. The Crocodile Lodges**
+### 3. The Crocodile Lodges
 
 Fishermen who swear by Sobek and tattoo their arms with horned crocodile heads, reportedly as protection charms.
 
-### **4. The Order of the Obsidian Eye**
+### 4. The Order of the Obsidian Eye
 
 Whispered to guard tombs, ruins, and ancient labyrinth entrances.  
 No confirmed membership.
 
-### **5. The Solar Choir**
+### 5. The Solar Choir
 
 A wandering group of singers who chant in a language nobody has fully translated; some lyrics match archived hymns of Re-Horakhty.
 
-### **6. Jackalfolk Solitaries**
+### 6. Jackalfolk Solitaries
 
 A few reclusive jackalfolk—rare, long-lived, and deeply private—who refuse comment on their ancestry or beliefs.
 
@@ -206,7 +208,7 @@ The Ministry notes these claims but lists them as **Low Confidence** unless supp
 
 ---
 
-## **VI. Why the Religion Never Fully Died (Culturally)**
+## VI. Why the Religion Never Fully Died (Culturally)
 
 Despite extinction, the Old Faith remains compelling because:
 
@@ -225,7 +227,7 @@ Some scholars speculate that if the Old Gods responded again—even faintly—th
 
 ---
 
-## **VII. Ministry Assessment**
+## VII. Ministry Assessment
 
 |Category|Status|
 |---|---|
@@ -244,7 +246,7 @@ It sleeps, quiet as desert stone, waiting for the right memory to awaken it.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)**  

@@ -1,6 +1,8 @@
 >*“Where water remembers, I read.”*
 
-___
+---
+# Kethrin Veyr
+
 ### _S-Class Recon & Recovery Operative_
 
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division (Environmental Recon & Salvage Bureau)  
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Kethrin “Brookblade” Veyr** is an otterfolk S-Class delver of the **Free Company of Louvain**, renowned across Aerathon as a hydrokinetic scout, salvage engineer, and lock-breaker of flooded spaces.
 
@@ -32,7 +34,7 @@ Veteran crews claim the drip changes tempo when she arrives, fog tidies at the e
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** S-Class Recon & Recovery, **Free Company of Louvain**; regularly seconded to **MDO — Arcane Breach (Containment)**
     
@@ -45,7 +47,7 @@ Veteran crews claim the drip changes tempo when she arrives, fog tidies at the e
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Flow Finds the Door**
     
@@ -56,27 +58,27 @@ Veteran crews claim the drip changes tempo when she arrives, fog tidies at the e
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Cofferdam of Monster Meadows**
+### 1. The Cofferdam of Monster Meadows
 
 A corridor that flooded at random stabilized into a calm trench under Kethrin’s hand. She impounded the surge into a hovering **water cube**, walked civilians through, then poured the mass back—**washing an entire mimic swarm** into a drain.  
 Post-op note: “Needed a broom.”
 
-### **2. The Compliance of the Ooze Choir**
+### 2. The Compliance of the Ooze Choir
 
 A pit of sentient slimes lured crews with mimicked screams. Kethrin salted the rim, set metronome taps using dripping sconces, and trained the choir to sing a **four-count work bell**.  
 The pit now acts as a warning system and morale booster. Screams discontinued.
 
-### **3. The Ferry at the Wanehollow Drop**
+### 3. The Ferry at the Wanehollow Drop
 
 Where a rope bridge failed nightly, she established a **rope-and-water funicular**—buckets rising as others sank, counterweighted by Labyrinth seepage. An entire expedition (and a stubborn mule) crossed safely.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Spillway Gauntlet** _(very rare)_
+### Spillway Gauntlet _(very rare)_
 
 Clockwork bracer with bronze fins.
 
@@ -87,7 +89,7 @@ Clockwork bracer with bronze fins.
 - Creatures in redirected flow must save or **slide 10 ft**
     
 
-### **Reel-Sword of Brooksteel** _(rare)_
+### Reel-Sword of Brooksteel _(rare)_
 
 A ribbon-blade that coils into a spool.
 
@@ -98,7 +100,7 @@ A ribbon-blade that coils into a spool.
 - Retracts with a satisfying engineering click
     
 
-### **Eel-Skin Half-Cloak**
+### Eel-Skin Half-Cloak
 
 Water- and heat-shedding hide.
 
@@ -107,7 +109,7 @@ Water- and heat-shedding hide.
 - Whisper a rumor into the hem; if it **“holds water,”** she feels a tug toward a related clue during the next delve
     
 
-### **Tide-Log & Hygrometer**
+### Tide-Log & Hygrometer
 
 - Records **humidity gradients** as contour lines
     
@@ -116,14 +118,14 @@ Water- and heat-shedding hide.
 - Hygrometer clicks faster near damp-sealed doors
     
 
-### **Salt & Chalk Kit**
+### Salt & Chalk Kit
 
 Snapping a **salted chalk-line** creates a **30-ft dry lane** suppressing minor ooze adhesion and illusion drift for 1 minute.  
 Slimes hate it. Quartermasters love it.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 5 (two live ooze captures, **zero civilian fatalities**)
     
@@ -136,7 +138,7 @@ Slimes hate it. Quartermasters love it.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“Test the temper.”_  
 — Flicking a copper into any new pool
@@ -149,7 +151,7 @@ _“Take the quiet route; loud costs extra.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - She once **parted an acid river by breathing in**, holding a corridor clear for the length of a single song.
     
@@ -160,7 +162,7 @@ _“Take the quiet route; loud costs extra.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Environmental Recon & Salvage Bureau)**  

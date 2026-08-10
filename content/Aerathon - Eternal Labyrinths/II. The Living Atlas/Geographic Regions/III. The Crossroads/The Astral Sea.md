@@ -4,7 +4,7 @@
 
 ---
 
-# **The Astral Sea**
+# The Astral Sea
 
 ### _The Upper Crossroads — “Where Thought and Distance Are the Same.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Astral Sea** is a boundless ocean of silver vapor and drifting thought — a luminous expanse separating mortal reality from the divine remains of creation.  
 Here, every idea has weight, and every memory leaves a wake.  
@@ -32,7 +32,7 @@ For delvers and scholars alike, it is the most dangerous freedom imaginable.
 
 ---
 
-## **II. Topography of Thought**
+## II. Topography of Thought
 
 There is no true direction, only intention.  
 Landmasses form when memories accumulate — known as **Cognitive Shoals**.  
@@ -43,24 +43,24 @@ To doubt one’s destination is to drift indefinitely.
 
 ---
 
-## **III. Navigators & Craft**
+## III. Navigators & Craft
 
-### **Astral Vessels**
+### Astral Vessels
 
 Constructed from condensed willpower and relic metal, these ships sail the currents between planes.  
 Crews synchronize dreams to maintain cohesion; the slightest discord fractures the hull.
 
-### **Dreamnavers**
+### Dreamnavers
 
 Licensed psychonauts trained to steer using emotion as rudder. Their hearts are bound to crystal “keels” known as **Echo-Cores**.
 
-### **Star-Scribes**
+### Star-Scribes
 
 Ministry cartographers who chart memory constellations — coordinates written as stories, not numbers.
 
 ---
 
-## **IV. Hazards**
+## IV. Hazards
 
 - **Thought Leak:** Uncontrolled memories manifest as living illusions that may consume coherence.
     
@@ -73,7 +73,7 @@ All crews carry **Mnemonic Anchors**: relics bound to their waking names. Withou
 
 ---
 
-## **V. Ministry Expeditions**
+## V. Ministry Expeditions
 
 The Ministry’s **Silent Star Program** (Cycle 1380 – present) explores long-distance planar routes. Confirmed stations include:
 
@@ -88,7 +88,7 @@ The Sea remains the fastest means of interplanar communication, but also the lea
 
 ---
 
-## **VI. Cultural Interpretations**
+## VI. Cultural Interpretations
 
 - **Allemance:** Pilgrims call it “the road of songs,” believing prayers cross it to reach the gods.
     
@@ -101,7 +101,7 @@ The Sea remains the fastest means of interplanar communication, but also the lea
 
 ---
 
-## **VII. Influence on Delvers**
+## VII. Influence on Delvers
 
 Relics with Astral resonance grant users **directionless insight** — the ability to sense exits, threats, or truths beyond walls.  
 Delvers touched by the Sea, called **Star-Drifters**, often display:
@@ -115,7 +115,7 @@ Delvers touched by the Sea, called **Star-Drifters**, often display:
 
 ---
 
-## **VIII. Theological Theory**
+## VIII. Theological Theory
 
 Many scholars equate the Astral Sea with **the mind of Ao**, or the lingering connective tissue of the gods’ first thought.  
 If the Shattersea is the ruin of creation, the Astral Sea is its _circulation system_ — keeping memory, intent, and divinity in motion.
@@ -124,7 +124,7 @@ The Ministry thus maintains strict sanctity: no entity, mortal or divine, may cl
 
 ---
 
-## **IX. Philosophical & Political Relevance**
+## IX. Philosophical & Political Relevance
 
 Every guild, nation, and creed depends on its unseen routes.  
 Astral messengers carry Ministry directives, delver contracts, and even souls — the Netherworld uses its tides to deliver records upward.
@@ -136,7 +136,7 @@ To master it would be to govern destiny itself.
 
 ---
 
-### **Cross-Planar Feature: Navigator’s Will**
+### Cross-Planar Feature: Navigator’s Will
 
 _Any creature or relic aligned with the Astral Sea gains the following trait:_
 
@@ -144,7 +144,7 @@ _Any creature or relic aligned with the Astral Sea gains the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Celestial Navigation & Memory Cartography)**  

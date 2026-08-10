@@ -3,7 +3,7 @@
 
 ---
 
-# **Grand Scrying Network (GSN)**
+# Grand Scrying Network (GSN)
 
 **Filed Division:** _Ministry of Delving Operations — Public Observation & Field Intelligence Division (National Scryline Directorate)_  
 **Primary Compiler:** Reporter Alen Raithe (Head of Livecast Documentation)  
@@ -36,11 +36,11 @@ It transforms delver survival into culture, economy, and myth.
 
 ---
 
-# **I. Purpose & Function**
+## I. Purpose & Function
 
 GSN’s responsibilities can be divided into four central mandates:
 
-### **1. Live-Broadcasting Delves**
+#### 1. Live-Broadcasting Delves
 
 Capturing, projecting, and distributing Oculi feeds to:
 
@@ -57,7 +57,7 @@ Capturing, projecting, and distributing Oculi feeds to:
 - Archive-ledger broadcast stones
     
 
-### **2. Archival Preservation**
+#### 2. Archival Preservation
 
 Every delve, from the smallest Tier 1 to the rare Tier 6 breaches, is:
 
@@ -72,7 +72,7 @@ Every delve, from the smallest Tier 1 to the rare Tier 6 breaches, is:
 
 GSN's memory-stones hold more history than most kingdoms.
 
-### **3. Public Information Access**
+#### 3. Public Information Access
 
 GSN distributes:
 
@@ -87,19 +87,19 @@ GSN distributes:
 - Ministerial bulletins
     
 
-### **4. Fame Engine Integration**
+#### 4. Fame Engine Integration
 
 GSN is one of the three institutions (alongside the ABA and MDO) with direct input into the **Fame Engine**—the arcane algorithm that evaluates delver notoriety.
 
 ---
 
-# **II. Structure of the GSN Network**
+## II. Structure of the GSN Network
 
 GSN consists of several key infrastructural pillars:
 
 ---
 
-## **1. Scryline Towers**
+### 1. Scryline Towers
 
 Tall monoliths constructed of runestone and mythril wiring, used to:
 
@@ -114,7 +114,7 @@ They serve as the nervous system of continental broadcasting.
 
 ---
 
-## **2. Mirror Arrays**
+### 2. Mirror Arrays
 
 Massive floating lenses that translate Oculi feeds into:
 
@@ -131,7 +131,7 @@ Mirror Arrays can refract multiple delver feeds simultaneously.
 
 ---
 
-## **3. Memory-Stone Vaults**
+### 3. Memory-Stone Vaults
 
 Housed beneath every major Ministry office, these vaults store:
 
@@ -148,7 +148,7 @@ Access is restricted to archivists and authorized investigators.
 
 ---
 
-## **4. Guildstream Nodes**
+### 4. Guildstream Nodes
 
 Installations inside guild halls allowing:
 
@@ -165,7 +165,7 @@ Guildstreams interact with GSN but remain secondary channels.
 
 ---
 
-## **5. Public Viewing Circles**
+### 5. Public Viewing Circles
 
 Open plazas featuring:
 
@@ -182,7 +182,7 @@ These are where heroes are born—or forgotten.
 
 ---
 
-# **III. The GSN Role in Broadcast Integrity**
+## III. The GSN Role in Broadcast Integrity
 
 GSN collaborates directly with the **Arcane Broadcast Authority (ABA)** to ensure:
 
@@ -201,23 +201,23 @@ Together, they guard the honor of delving.
 
 ---
 
-# **IV. GSN Protocols During Live Delves**
+## IV. GSN Protocols During Live Delves
 
 GSN follows strict protocols:
 
-### **1. Multi-Lens Synchronization**
+#### 1. Multi-Lens Synchronization
 
 All Oculi feeds must overlap in resonance within 0.08 seconds.
 
-### **2. Hazard Echo Priority**
+#### 2. Hazard Echo Priority
 
 Danger indicators override all non-critical visuals.
 
-### **3. Commentary Buffering**
+#### 3. Commentary Buffering
 
 Commentary streams run secondary to factual visuals.
 
-### **4. Ethical Display Enforcement**
+#### 4. Ethical Display Enforcement
 
 Distressing or sensitive content is:
 
@@ -228,7 +228,7 @@ Distressing or sensitive content is:
 - Logged for public record
     
 
-### **5. Emergency Relay Mode**
+#### 5. Emergency Relay Mode
 
 Triggered by:
 
@@ -245,7 +245,7 @@ During such events, GSN takes full control to prevent panic or manipulation.
 
 ---
 
-# **V. Participation in Fame Engine Calculation**
+## V. Participation in Fame Engine Calculation
 
 GSN is responsible for feeding the Fame Engine:
 
@@ -266,7 +266,7 @@ Without GSN, the Fame Engine is blind.
 
 ---
 
-# **VI. Legal Authority**
+## VI. Legal Authority
 
 GSN is empowered to:
 
@@ -285,11 +285,11 @@ Improper obstruction of GSN infrastructure is a **Class-2 Spectacle Offense**.
 
 ---
 
-# **VII. N-Class Team Exception Protocols**
+## VII. N-Class Team Exception Protocols
 
 Due to convergence relevance, N-Class teams (e.g., **Unit N-7**) are subject to specialized GSN operations.
 
-### **1. Enhanced Broadcast Encryption**
+#### 1. Enhanced Broadcast Encryption
 
 All feeds involving N-Class teams receive:
 
@@ -300,7 +300,7 @@ All feeds involving N-Class teams receive:
 - Soul-echo clarity boosting
     
 
-### **2. Anomaly Tracking Priority**
+#### 2. Anomaly Tracking Priority
 
 GSN follows N-Class Oculi signals with:
 
@@ -311,12 +311,12 @@ GSN follows N-Class Oculi signals with:
 - Hazard pre-mapping
     
 
-### **3. No Narrative Editing Permitted**
+#### 3. No Narrative Editing Permitted
 
 Even for public morale reasons.  
 GSN must broadcast truth without modification.
 
-### **4. Auto-Lock During Core Pings**
+#### 4. Auto-Lock During Core Pings
 
 If the Arcanet Core emits resonance during an N-Class delve:
 
@@ -327,13 +327,13 @@ If the Arcanet Core emits resonance during an N-Class delve:
 - Notifies the ABA and MDO within one second
     
 
-### **5. Convergence-Relevant Archival Tier**
+#### 5. Convergence-Relevant Archival Tier
 
 All N-Class delves are preserved permanently under Tier-Prime Archival Status.
 
 ---
 
-# **VIII. Why the GSN Matters**
+## VIII. Why the GSN Matters
 
 Without the Grand Scrying Network:
 
@@ -358,7 +358,7 @@ It is the reason delvers become legends.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Public Observation & Field Intelligence Division (National Scryline Directorate)**  

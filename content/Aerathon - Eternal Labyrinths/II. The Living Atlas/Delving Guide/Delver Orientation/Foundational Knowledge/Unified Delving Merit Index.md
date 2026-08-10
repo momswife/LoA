@@ -2,7 +2,7 @@
 
 ---
 
-# **The Unified Delving Merit Index (UDMI)**
+# The Unified Delving Merit Index (UDMI)
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)_  
 **Primary Compiler:** Director Halin Drauve (Guild Economics & Merit Systems)  
@@ -21,7 +21,7 @@ Guilds negotiate contracts through it. Nobles gamble fortunes upon it. And each 
 
 ---
 
-## **I. Rank Spread**
+## I. Rank Spread
 
 The UDMI categorizes delvers into broad public-facing tiers:
 
@@ -36,7 +36,7 @@ These ranks determine access to guild contracts, sponsorship offers, delve eligi
 
 ---
 
-## **II. The UDMI Score (0–10,000)**
+## II. The UDMI Score (0–10,000)
 
 A delver’s UDMI score is a **continuously updating metric** calculated by the **Arcanet Core**.  
 It incorporates combat success, audience engagement, team performance, ethical conduct, and more.
@@ -50,8 +50,8 @@ It incorporates combat success, audience engagement, team performance, ethical c
 |**Artifact Recovery**|10%|Rarity, condition, and value of retrieved relics.|
 |**Mission Integrity**|5%|Objective completion, contract loyalty, no betrayals.|
 |**Penalties & Infractions**|–5%+|Civilian harm, pactbreaking, sabotage, illegal delve actions.|_
-___
-## **III. Rank Thresholds**
+---
+## III. Rank Thresholds
 
 _(Recalibrated each Highsun by the Arcanet Core)_
 
@@ -66,7 +66,7 @@ Score adjustments occur continuously, but major rank shifts require **formal cer
 
 ---
 
-## **IV. UDMI Point Accrual**
+## IV. UDMI Point Accrual
 
 The Index draws from both **passive data** and **officially sanctioned events**.
 
@@ -91,7 +91,7 @@ The Index draws from both **passive data** and **officially sanctioned events**.
 
 ---
 
-## **V. Rank Ascension Trials**
+## V. Rank Ascension Trials
 
 Crossing certain UDMI thresholds initiates **Ascension Protocols**.  
 Depending on the tier, delvers may undergo automatic promotion or must face a trial crafted by the **Ranking Arbiters**—or issue a **Challenge Writ**.
@@ -118,7 +118,7 @@ Trials may be witnessed by the public—or sealed at the delver’s request—de
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

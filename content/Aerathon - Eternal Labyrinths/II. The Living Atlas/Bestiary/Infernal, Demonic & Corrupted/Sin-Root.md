@@ -4,7 +4,7 @@
 
 ---
 
-# **Sin-Roots**
+# Sin-Roots
 
 ### _Corrupted Vines of Moral Decay — “Where Regret Becomes a Garden.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Sin-Roots** are infernally warped vegetation that grow in areas steeped in **moral failing**, **repressed guilt**, **intentional cruelty**, or **acts of betrayal**.  
 They resemble thick, blood-dark vines that pulse faintly beneath their bark like veins full of regret.
@@ -31,7 +31,7 @@ The Ministry classifies them as **Type-INF / Corrupted Moral Parasites**, capabl
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -45,7 +45,7 @@ When close to a Sin-Root, the bark seems to ripple with faint whispers — usual
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Sin-Roots do not move quickly, but they are **reactive** to emotion and intent.
 
@@ -69,7 +69,7 @@ They are not intelligent, but they act with unnervingly appropriate malice.
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Sin-Roots grow where spiritual or emotional rot saturates the land:
 
@@ -90,7 +90,7 @@ The stronger the guilt or betrayal, the faster they spread.
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Root bark contains sigil-shaped **moral residue**, readable through Echo-Law sequencing.
     
@@ -108,7 +108,7 @@ The stronger the guilt or betrayal, the faster they spread.
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -121,7 +121,7 @@ Avoid lying, concealing panic, or sowing discord near Sin-Roots — they exalt i
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -132,7 +132,7 @@ Stored in Vault #128 (Louvain Branch) — dual seal Daan / Vell.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level III — Environmental Moral Corruption
     
@@ -147,7 +147,7 @@ Stored in Vault #128 (Louvain Branch) — dual seal Daan / Vell.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Blackwild Druids:** Call them “The Shame Vines” and warn children not to lie near old oaks.
     
@@ -163,7 +163,7 @@ Stored in Vault #128 (Louvain Branch) — dual seal Daan / Vell.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Sin-Roots** are the botanical embodiment of buried wrongdoing — vines that drink guilt, bloom regret, and twist into shapes that reflect the worst in mortals.
 
@@ -176,7 +176,7 @@ but toward the secrets they haven’t admitted yet.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)**  

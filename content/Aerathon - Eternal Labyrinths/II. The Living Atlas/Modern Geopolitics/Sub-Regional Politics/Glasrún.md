@@ -1,4 +1,4 @@
-# **Sub-Regional Politics of Glasrún**
+# Sub-Regional Politics of Glasrún
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Autonomous Regions & Border Polities)_  
 **Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Cultural Memory)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of Glasrún**
+## I. Political Identity of Glasrún
 
 Glasrún is not ruled.
 
@@ -23,7 +23,7 @@ It circulates—slowly, deliberately, and without ceremony.
 
 ---
 
-## **II. The Glasrún Pact**
+## II. The Glasrún Pact
 
 The Pact is the cornerstone of Glasrún governance.
 
@@ -42,7 +42,7 @@ The agreement persists not because it is loved—but because **breaking it would
 
 ---
 
-## **III. Decentralized Authority**
+## III. Decentralized Authority
 
 There is no capital of Glasrún.
 
@@ -61,7 +61,7 @@ Authority is local, conditional, and often temporary. Leadership is accepted onl
 
 ---
 
-## **IV. Relationship with Allemance**
+## IV. Relationship with Allemance
 
 Officially, Glasrún belongs to Allemance.
 
@@ -80,7 +80,7 @@ This suits both sides.
 
 ---
 
-## **V. Border Tension with Oria**
+## V. Border Tension with Oria
 
 Glasrún sits opposite **Oria**, divided by the Mantle Mountains.
 
@@ -97,7 +97,7 @@ Glasrún’s refusal to take sides has earned it trust—if not affection—on b
 
 ---
 
-## **VI. Economy as Political Shield**
+## VI. Economy as Political Shield
 
 Glasrún’s economy is its greatest defense.
 
@@ -116,7 +116,7 @@ Independence is protected by inconvenience.
 
 ---
 
-## **VII. Law, Justice & Social Order**
+## VII. Law, Justice & Social Order
 
 There is no unified legal code.
 
@@ -133,7 +133,7 @@ Violence between settlements is rare. The forest remembers offenders longer than
 
 ---
 
-## **VIII. Delvers & the Labyrinths**
+## VIII. Delvers & the Labyrinths
 
 Glasrún is cautious but pragmatic.
 
@@ -148,7 +148,7 @@ Settlements like **Gocaire** actively court delvers, while others bar them outri
 
 ---
 
-## **IX. The MDO’s Role**
+## IX. The MDO’s Role
 
 The **Ministry of Delving Operations** is one of the few institutions allowed broad access.
 
@@ -163,7 +163,7 @@ The MDO understands that Glasrún cannot be managed—only documented.
 
 ---
 
-## **X. Political Character of Glasrún**
+## X. Political Character of Glasrún
 
 Glasrún survives by refusing definition.
 
@@ -175,7 +175,7 @@ Not unified enough to coerce.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

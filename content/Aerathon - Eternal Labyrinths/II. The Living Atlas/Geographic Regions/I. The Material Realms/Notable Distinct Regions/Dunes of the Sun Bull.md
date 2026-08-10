@@ -3,7 +3,7 @@
 
 ---
 
-# **The Dunes of the Sun Bull**
+# The Dunes of the Sun Bull
 
 ### _Where Sand Bears Witness — “When the Light Walked and Died.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 At the blazing heart of the **Beylik Desert**, south of the Silver Causeway, stretch the **Dunes of the Sun Bull** — a sea of radiant gold sand said to shift under its own will.  
 The Ministry classifies the region as a **Type-Ω Solar Sanctum**, a site of persistent divine residue centered on the mythic fall of the Sun Bull, herald of dawn and champion of Kord’s light.
@@ -24,7 +24,7 @@ By day the dunes shimmer with unbearable brilliance; by night, they glow faintly
 
 ---
 
-## **II. Geography & Topography**
+## II. Geography & Topography
 
 |**Feature**|**Description**|
 |---|---|
@@ -36,7 +36,7 @@ Surface temperatures exceed 65 °C by midday; compass readings fluctuate due to 
 
 ---
 
-## **III. Historical Chronology**
+## III. Historical Chronology
 
 |**Date (A.D.)**|**Event**|**Result / Impact**|
 |---|---|---|
@@ -45,25 +45,25 @@ Surface temperatures exceed 65 °C by midday; compass readings fluctuate due to 
 |**2670**|“March of Ash” — fanatical crusade attempts to capture holy flame; entire host perishes of exposure.|Area declared forbidden.|
 |**3549**|Delver survey detects buried ruins under 400 ft of sand; entry sealed by heat surge.|Excavation suspended.|
 |**3724**|Appearance of moving mirage herd; each shaped as translucent bulls of flame.|Classified as divine recurrence.|
-___
-## **IV. Myth & Faith**
+---
+## IV. Myth & Faith
 
 According to the **Litany of Light**, the Sun Bull trampled back a legion of fiends that sought to swallow the dawn, collapsing upon the Beylik to seal them beneath his body.  
 Each grain of sand is said to hold a drop of his burning blood — sacred, but fatal to false hearts.
 
-### **Pilgrimage Rite**
+### Pilgrimage Rite
 
 Faithful walk the Dunes barefoot under full sun for one hour, chanting:  
 _“Breathe me, and I will burn pure.”_  
 Those who collapse before completing the circle are called “half-forged.”
 
-### **Clerical Observances**
+### Clerical Observances
 
 Shrines to Kord, Pelor, and Amaunator share stewardship; competition among sects occasionally escalates to miracle duels.
 
 ---
 
-## **V. Documented Phenomena**
+## V. Documented Phenomena
 
 |**Designation**|**Nature**|**Effect**|
 |---|---|---|
@@ -71,8 +71,8 @@ Shrines to Kord, Pelor, and Amaunator share stewardship; competition among sects
 |**Glass Seraphs**|Elemental|Winged constructs of molten silica singing in heat shimmer; disintegrate at dusk.|
 |**Oathfire**|Moral / Arcane|Flames igniting only on the tongues of liars; harmless to truthful speech.|
 |**Heartbeat Dune**|Geological|Emits rhythmic tremor exactly every dawn; magnitude 0.6. Cause unknown.|
-___
-## **VI. Scientific Theories**
+---
+## VI. Scientific Theories
 
 1. **Residual Divine Capacitor Model** — Sand stores solar mana released during dawn cycles.
     
@@ -85,7 +85,7 @@ ___
 
 ---
 
-## **VII. Hazards**
+## VII. Hazards
 
 |**Hazard**|**Description**|
 |---|---|
@@ -97,7 +97,7 @@ Protective veils woven from silver thread mitigate 60% of ambient radiant damage
 
 ---
 
-## **VIII. Cultural Practices & Legends**
+## VIII. Cultural Practices & Legends
 
 - **The Horn of Return:** Pilgrims claim to hear distant bellow before sandstorms — sign the Bull still guards them.
     
@@ -110,7 +110,7 @@ Many delvers carve obsidian bulls from cooled sand, believing them to ward again
 
 ---
 
-## **IX. Associated Artifacts**
+## IX. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -122,7 +122,7 @@ Stored in Vault #131, Louvain Branch — dual seal Daan & Vell.
 
 ---
 
-## **X. Modern Status**
+## X. Modern Status
 
 - **Classification:** Level III Sacred Containment Zone.
     
@@ -139,7 +139,7 @@ Stored in Vault #131, Louvain Branch — dual seal Daan & Vell.
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Dunes of the Sun Bull** stand as Aerathon’s holiest mirage — a desert forged from sacrifice and sunlight.  
 Each grain burns with memory, each shadow bows to light that never fades.  
@@ -147,7 +147,7 @@ Whether god, beast, or myth, the Bull still breathes through every sunrise over 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Sacred Terrains & Solar Phenomena Registry)**  

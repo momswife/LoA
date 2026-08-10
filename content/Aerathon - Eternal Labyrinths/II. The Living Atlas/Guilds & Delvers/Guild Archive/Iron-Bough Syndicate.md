@@ -4,7 +4,7 @@
 ---
 
 ![[13c8b5b2-ffce-4253-ad91-779645e598c8.png]]
-# **The Iron-Bough Syndicate**
+# The Iron-Bough Syndicate
 
 ### _A-Class Industrial Guild — “Progress Grows from Steel.”_
 
@@ -15,7 +15,7 @@
 **Document Class:** _Private Charter Profile / Grade-II Authenticity_
 
 ---
-## **I. Overview**
+## I. Overview
 
 The **Iron-Bough Syndicate** is Aerathon’s premier **mechanized delving consortium**, operating at the intersection of engineering, excavation, and corporate governance.  
 Where the **Verdant Collision** heals the land, the Iron-Bough harvests it—efficiently, ruthlessly, and with a devotion to progress bordering on religion.
@@ -27,7 +27,7 @@ Headquartered in the colossal forge-complex of **Hearth-Anchor** deep beneath th
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | A-Class Industrial / Engineering Guild |  
 | **Affiliation** | Independent (private charter, MDO-registered) |  
@@ -40,13 +40,13 @@ Headquartered in the colossal forge-complex of **Hearth-Anchor** deep beneath th
 
 ---
 
-## **III. Founding & Philosophy**
+## III. Founding & Philosophy
 
 The Syndicate was founded in 3289 A.D. by **Harven Dross**, a dwarven relic-smith expelled from the Collegia for “excessive utilitarianism.”  
 He and a cadre of like-minded engineers established the first **auto-delve operations**, replacing flesh labor with steel.  
 Their belief: _the labyrinths are finite problems awaiting finite solutions._
 
-### **The Iron Creed**
+### The Iron Creed
 
 1. **Build, Break, Repeat.**
     
@@ -61,7 +61,7 @@ Dross’ mantra, _“Progress Grows from Steel,”_ became both rallying cry and
 
 ---
 
-## **IV. Organization & Command**
+## IV. Organization & Command
 
 The Syndicate runs more like a corporation than a guild, governed by a **Board of Forges**, each chair representing a major discipline:
 
@@ -76,27 +76,27 @@ All members are salaried engineers; delvers function as field contractors paid b
 
 ---
 
-## **V. Operations & Technology**
+## V. Operations & Technology
 
-### **1. Auto-Delving Programs**
+### 1. Auto-Delving Programs
 
 Hearth-Anchor deploys self-navigating constructs known as **Ironroots**, semi-sentient drilling machines that chart labyrinth corridors while transmitting data to surface control towers.  
 Each Ironroot carries a living pilot-core—a crystalline graft grown from a delver’s memories—creating an eerie half-conscious workforce.
 
-### **2. Relic Processing & Fabrication**
+### 2. Relic Processing & Fabrication
 
 Unlike most guilds, the Syndicate **melts down relics** into component materials, repurposing them for new devices.  
 This practice violates §2-B (Reliquary Safety) but continues under _Ministerial waiver #97-H_.  
 Their forges produce the modern world’s rails, siege engines, and containment turbines.
 
-### **3. The “Green Clause” Program**
+### 3. The “Green Clause” Program
 
 In reluctant cooperation with the **Verdant Collision**, the Syndicate has adopted a quota of **environmental restitution** per quarter.  
 Every tenth delve must include surface restoration efforts—typically outsourced back to the Collision for profit symmetry.
 
 ---
 
-## **VI. Relationship with the Ministry**
+## VI. Relationship with the Ministry
 
 The Ministry regards the Iron-Bough with **simultaneous admiration and anxiety**.  
 Their inventions enable containment, but their autonomy threatens monopoly.  
@@ -108,51 +108,7 @@ Lt. Korrin’s confidential note:
 
 ---
 
-## **VII. Relations with Other Guilds**
-
-|**Guild**|**Relation**|**Summary**|
-|---|---|---|
-|**Verdant Collision**|Competitive / Collaborative|Opposite philosophies; frequent joint contracts to balance industrial damage.|
-|**Free Company of Louvain**|Cooperative|Supplies mechanical prosthetics & containment gear; mutual respect.|
-|**Argent Banner**|Client Relationship|Provides stage machinery & lighting for delving broadcasts.|
-|**Crimson Reavers**|Adversarial|Frequent thefts of equipment and patented constructs.|
-|**Cinderpaw Pact**|Neutral Trade Ally|Purchases Ashbound Steel; trades engineering expertise for ore rights.|All members are salaried engineers; delvers function as field contractors paid by _yield percentage_.
-
----
-
-## **V. Operations & Technology**
-
-### **1. Auto-Delving Programs**
-
-Hearth-Anchor deploys self-navigating constructs known as **Ironroots**, semi-sentient drilling machines that chart labyrinth corridors while transmitting data to surface control towers.  
-Each Ironroot carries a living pilot-core—a crystalline graft grown from a delver’s memories—creating an eerie half-conscious workforce.
-
-### **2. Relic Processing & Fabrication**
-
-Unlike most guilds, the Syndicate **melts down relics** into component materials, repurposing them for new devices.  
-This practice violates §2-B (Reliquary Safety) but continues under _Ministerial waiver #97-H_.  
-Their forges produce the modern world’s rails, siege engines, and containment turbines.
-
-### **3. The “Green Clause” Program**
-
-In reluctant cooperation with the **Verdant Collision**, the Syndicate has adopted a quota of **environmental restitution** per quarter.  
-Every tenth delve must include surface restoration efforts—typically outsourced back to the Collision for profit symmetry.
-
----
-
-## **VI. Relationship with the Ministry**
-
-The Ministry regards the Iron-Bough with **simultaneous admiration and anxiety**.  
-Their inventions enable containment, but their autonomy threatens monopoly.  
-Several Arcane Breach Division devices—such as the _Prism Pressurizer_ and _Runic Excavation Frame_—originated here.
-
-Lt. Korrin’s confidential note:
-
-> _“If they ever stop selling to us, we’ll still be paying them for the tools they left behind.”_
-
----
-
-## **VII. Relations with Other Guilds**
+## VII. Relations with Other Guilds
 
 |**Guild**|**Relation**|**Summary**|
 |---|---|---|
@@ -161,14 +117,16 @@ Lt. Korrin’s confidential note:
 |**Argent Banner**|Client Relationship|Provides stage machinery & lighting for delving broadcasts.|
 |**Crimson Reavers**|Adversarial|Frequent thefts of equipment and patented constructs.|
 |**Cinderpaw Pact**|Neutral Trade Ally|Purchases Ashbound Steel; trades engineering expertise for ore rights.|
-___
-## **VIII. Economic Influence**
+
+---
+
+## VIII. Economic Influence
 
 The Syndicate controls nearly **60 %** of Aerathon’s industrial relic conversion market.  
 They maintain export agreements with three nations and fifteen guilds.  
 Their private army of mechanized guardians—the **Rustguard**—protects trade convoys and occasionally “discourages” Ministry inspection.
 
-### **Subsidiary Companies**
+### Subsidiary Companies
 
 - **Ironbough Forgeworks** (Arms Manufacture)
     
@@ -179,7 +137,7 @@ Their private army of mechanized guardians—the **Rustguard**—protects trade 
 
 ---
 
-## **IX. Cultural Identity**
+## IX. Cultural Identity
 
 Despite its corporate face, the Iron-Bough preserves a deep dwarven and beastfolk pride in craft.  
 Work is worship. Each machine is named and blessed before activation; when one fails, it is buried with a craftsman’s token and oil-lamp vigil.
@@ -192,7 +150,7 @@ Festivals such as the **Hammerwake Parade** celebrate completed constructs, wher
 
 ---
 
-## **X. Criticism & Controversy**
+## X. Criticism & Controversy
 
 - Accused of **excessive relic dismantling**, erasing historical artifacts.
     
@@ -207,7 +165,7 @@ Despite scandals, public reliance on their infrastructure ensures continued impu
 
 ---
 
-## **XI. Public Perception**
+## XI. Public Perception
 
 |**Group**|**Sentiment**|**Summary**|
 |---|---|---|
@@ -218,7 +176,7 @@ To the public, the Iron-Bough is both savior and smog—builders of the modern a
 
 ---
 
-## **XII. Outlook**
+## XII. Outlook
 
 Projections show the Syndicate nearing S-Class qualification within one decade.  
 Ministry reformists urge restraint; economists predict inevitability.  
@@ -231,7 +189,7 @@ If they ascend, Aerathon may face a new paradox:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

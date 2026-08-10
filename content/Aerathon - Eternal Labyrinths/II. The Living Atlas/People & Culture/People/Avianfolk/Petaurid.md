@@ -517,7 +517,7 @@ They are frequently associated with construction, courier work, scouting, repair
 
 ### Allemance
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Allemance|Allemance]], Petaurids inhabit forests, orchard villages, mill towns, hillside settlements, and households built among old trees.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], Petaurids inhabit forests, orchard villages, mill towns, hillside settlements, and households built among old trees.
 
 Public routes often include:
 
@@ -542,7 +542,7 @@ A repaired footbridge, cleared tree route, or accessible loft may be considered 
 
 ### Oria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Oria|Oria]], Petaurids work throughout industrial maintenance, structural inspection, evacuation planning, tower construction, bridge engineering, and vertical transport.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]], Petaurids work throughout industrial maintenance, structural inspection, evacuation planning, tower construction, bridge engineering, and vertical transport.
 
 Oric facilities frequently include Petaurid access routes through rafters, maintenance shafts, cable networks, and elevated platforms.
 
@@ -558,7 +558,7 @@ Measurements are better.
 
 ### Vinyot
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Vinyot|Vinyot]], access to rooftops, towers, balconies, and aerial corridors carries substantial economic value.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], access to rooftops, towers, balconies, and aerial corridors carries substantial economic value.
 
 Petaurids work in courier services, construction, performance, private security, urban planning, salvage, advertising, and property assessment.
 
@@ -587,7 +587,7 @@ Petaurid organizers argue that a city cannot call its air open while every safe 
 
 ### Arneria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Arneria|Arneria]], Petaurids participate in elevated pilgrimages, shrine routes, cliff monasteries, ritual descents, and ceremonies centered upon trust.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]], Petaurids participate in elevated pilgrimages, shrine routes, cliff monasteries, ritual descents, and ceremonies centered upon trust.
 
 Certain pilgrimages require the faithful to travel from one sacred landing to another without touching the ground.
 
@@ -601,7 +601,7 @@ Some reject these traditions, arguing that faith should not be measured through 
 
 ### Al’Ar
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Al'Ar|Al’Ar]], Petaurids flourish in storm forests, cliff towns, dense dock-cities, traveling settlements, and regions where roads must be rebuilt after every major season.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], Petaurids flourish in storm forests, cliff towns, dense dock-cities, traveling settlements, and regions where roads must be rebuilt after every major season.
 
 Al’Ari routes are often temporary.
 

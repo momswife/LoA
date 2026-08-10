@@ -3,7 +3,7 @@
 
 ---
 
-# **Guilds & Delvers**
+# Guilds & Delvers
 
 ### _A Ministry Overview of the Licensed Orders of Exploration_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 From the ashes of the Collapse came the Guilds—born not from faith, but from necessity.  
 The **Free Guild Accords (2980 A.D.)** formalized delving as sanctioned enterprise, transforming chaos into vocation.  
@@ -26,9 +26,9 @@ Some answer to the Ministry’s call for order; others answer only to ambition.
 
 ---
 
-## **II. Branches of Guild Authority**
+## II. Branches of Guild Authority
 
-### **MDO-Sponsored Guilds (Concordant Orders)**
+### MDO-Sponsored Guilds (Concordant Orders)
 
 The Ministry sanctions only one **S-Class Concordant Guild**—the **Free Company of Louvain**.  
 All others serve under its mentorship as **Apprentice or Affiliate Houses**.  
@@ -49,7 +49,7 @@ Their purpose is civic: to keep exploration open to every race and creed, and to
 
 ---
 
-### **Private Charter Guilds**
+### Private Charter Guilds
 
 Private guilds operate autonomously under the Charter but beyond Ministry sponsorship.  
 They finance their own expeditions, choose their members, and answer only to the labyrinths and their ledgers.  
@@ -70,7 +70,7 @@ In the Age of Spectacle, these guilds have become Aerathon’s aristocracy—rut
 
 ---
 
-## **III. Guild Classification System**
+## III. Guild Classification System
 
 | **Tier**    | **Designation**        | **Affiliation** | **Privileges**                                        | **Examples**                                                                       |
 | ----------- | ---------------------- | --------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -79,10 +79,10 @@ In the Age of Spectacle, these guilds have become Aerathon’s aristocracy—rut
 | **B-Class** | Standard Guild         | Mixed           | Full expedition rights within LEZs.                   | Emberlight Union                                                                   |
 | **C-Class** | Apprentice Order       | MDO-Supervised  | Probationary operations for cadets.                   | Dawnwright Circe                                                                   |
 | **D-Class** | Temporary Crews        | Unaffiliated    | Provisional licensing only.                           | Freelance Delvers                                                                  |
-___
-## **IV. The S-Class Guilds of Record**
+---
+## IV. The S-Class Guilds of Record
 
-### **The Free Company of Louvain** _(MDO-Sponsored / Concordant Order)_
+### The Free Company of Louvain _(MDO-Sponsored / Concordant Order)_
 
 The Free Company stands as the Ministry’s hand, heart, and hallway light.  
 Founded during the first decade of the Age of Delving, it trains every novice delver in Charter Law and survival craft.  
@@ -92,7 +92,7 @@ _“To descend for all, not for oneself.”_ — Guild Motto
 
 ---
 
-### **The Argent Banner** _(Private Charter Guild)_
+### The Argent Banner _(Private Charter Guild)_
 
 The Argent Banner prizes **purity of record over allegiance**.  
 Its delvers wear mirrored cloaks and vow to recover truth—be it relic or crime—no matter who owns it.  
@@ -103,7 +103,7 @@ They are lawful, precise, and politically uncontrollable.
 
 ---
 
-### **The Crimson Reavers** _(Private Charter Guild)_
+### The Crimson Reavers _(Private Charter Guild)_
 
 Where the Banner records, the Reavers reap.  
 A militarized consortium of ex-delvers, mercenaries, and Beastfolk veterans, they specialize in **high-risk extraction and violent containment.**  
@@ -114,7 +114,7 @@ Their ranks operate by coin oath: a share of the take or a blood tithe.
 
 ---
 
-## **V. Guilds and the Ministry**
+## V. Guilds and the Ministry
 
 The Ministry governs, but the Guilds **animate**.  
 Each licensed guild answers to the **Guild Relations Bureau** under Chief Registrar Pyra Koll, which:
@@ -132,7 +132,7 @@ Only the **Free Company** holds the title _Ministerial Ally_, granted perpetual 
 
 ---
 
-## **VI. Guild Culture in the Age of Spectacle**
+## VI. Guild Culture in the Age of Spectacle
 
 In modern Aerathon, delving is **public theatre**.  
 Scry-feeds broadcast live expeditions; guilds trade fame as currency.  
@@ -143,15 +143,15 @@ Each defines virtue differently—service, truth, or power—but all sustain the
 
 ---
 
-## **VII. Major Guild Public Perception**
+## VII. Major Guild Public Perception
 
 |**Guild**|**Public Reputation**|**Perceived Alignment**|
 |---|---|---|
 |**Free Company**|Heroic, disciplined, altruistic|Lawful Good / State Ally|
 |**Argent Banner**|Mysterious, professional, incorruptible (if well paid)|True Neutral / Independent|
 |**Crimson Reavers**|Ruthless, pragmatic, thrilling|Chaotic Neutral / Profit-Driven|
-___
-## **VIII. Outlook**
+---
+## VIII. Outlook
 
 The Ministry anticipates growing friction between the Free Company’s egalitarian mission and the private guilds’ monopoly on relic markets.  
 Should open conflict arise, Article §4-D (Bell-Peace) may extend to inter-guild diplomacy for the first time since the Accords.  
@@ -159,7 +159,7 @@ Until then, Aerathon endures its paradox: a world united by the very competition
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

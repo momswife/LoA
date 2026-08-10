@@ -1,6 +1,8 @@
 > *“A Shield Is a Promise. An Axe… Is Temptation.”*
 
-___
+---
+# Arthur 'Cap' Penjamin
+
 ### _S-Rank Frontline Delver (Deceased)_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau) 
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Few delvers embody the paradox of heroism like **Arthur “Cap” Penjamin**—a warrior defined not by fury, but by **restraint**, and undone not by failure, but by **power unchecked**.
 
@@ -26,7 +28,7 @@ His fall remains one of the Ministry’s **most studied relic-corruption cases**
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Senior Commander, Free Company of Louvain (posthumously honored)
     
@@ -39,9 +41,9 @@ His fall remains one of the Ministry’s **most studied relic-corruption cases**
 
 ---
 
-## **III. Personality & Ideals**
+## III. Personality & Ideals
 
-### **Before Stormhowler (Stable Period)**
+### Before Stormhowler (Stable Period)
 
 - **“The Shield Comes First.”** Protection is purpose.
     
@@ -50,7 +52,7 @@ His fall remains one of the Ministry’s **most studied relic-corruption cases**
 - **“Steel Bends. I Don’t.”** Endure, even when it costs.
     
 
-### **After Stormhowler (Corruption Period)**
+### After Stormhowler (Corruption Period)
 
 - **“Strike Before You’re Struck.”** Fear is a weapon.
     
@@ -63,21 +65,21 @@ Ministry analysis confirms high-grade **behavioral displacement** following expo
 
 ---
 
-## **IV. Notable Exploits**
+## IV. Notable Exploits
 
-### **The Stand at Granite Hollow**
+### The Stand at Granite Hollow
 
 Cap held a collapsing breach gate for seven uninterrupted minutes—long enough for his party to evacuate civilians and seal a dimensional rift.  
 **Recorded impacts:** 146  
 **Confirmed threats:** two spectral dragons; one curse-lance  
 A defining example of frontline integrity.
 
-### **The Warpath of Twelve**
+### The Warpath of Twelve
 
 Led an under-ranked squad through a corrupted multi-floor dive with **zero casualties**.  
 Carried his squire unconscious for two floors; later nominated the boy for Guild Honors himself.
 
-### **The Fall of Stormhowler’s Bastion**
+### The Fall of Stormhowler’s Bastion
 
 Cap’s final delve.  
 He used Stormhowler to destroy a living labyrinth core feeding on delver fear.  
@@ -89,9 +91,9 @@ This incident remains categorized as a **Mirror-Class Psychogenic Corruption Eve
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **The Aegis of Cadenwall**
+### The Aegis of Cadenwall
 
 A legendary tower shield etched with adaptive sigils and divine boons.
 
@@ -101,7 +103,7 @@ A legendary tower shield etched with adaptive sigils and divine boons.
     Currently held in the Free Company’s Hall of Fallen Steel.
     
 
-### **Stormhowler** _(Corrupted Relic — Missing)_
+### Stormhowler _(Corrupted Relic — Missing)_
 
 A greataxe containing a semi-sentient lightning spirit.
 
@@ -113,7 +115,7 @@ A greataxe containing a semi-sentient lightning spirit.
     Lost after Cap’s death; location remains **unknown**.
     
 
-### **Medallion of Fourfold Oaths**
+### Medallion of Fourfold Oaths
 
 Symbol of his vows to his first party.  
 Blackened upon his first recorded Stormhowler overreach.  
@@ -121,7 +123,7 @@ Remains warm to the touch—no magical source identified.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Clears:** 6 S-Rank, 20+ A-Rank
     
@@ -136,7 +138,7 @@ Remains warm to the touch—no magical source identified.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > **“I take the hit. That’s the job.”**  
 > Standard line before opening any breach door.
@@ -149,7 +151,7 @@ Remains warm to the touch—no magical source identified.
 
 ---
 
-## **VIII. Rumors, Echoes & Anomalies**
+## VIII. Rumors, Echoes & Anomalies
 
 _(All claims pending formal verification under Charter §6-F.)_
 
@@ -166,7 +168,7 @@ Lt. Korrin has classified these as **Echo-Residual Phenomena**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

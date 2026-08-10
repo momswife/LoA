@@ -3,7 +3,7 @@
 
 ---
 
-# **Verges of Ash**
+# Verges of Ash
 
 ### _The Border of Three Worlds — “Where Ember, Shadow, and Dream Interlock.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Between **Ruby Bay**, **Southwinds**, and the inland forests of **Wingsmeet** sprawls a volcanic plain that should not exist.  
 The **Verges of Ash** mark the **confluence of three planes** — the Material, the Feywild, and the Netherworld — bleeding into each other through a scar older than the Labyrinths themselves.
@@ -28,7 +28,7 @@ Unstable yet alluring, it attracts cults, scholars, and delvers seeking relics t
 
 ---
 
-## **II. Geography & Topography**
+## II. Geography & Topography
 
 |**Feature**|**Description**|
 |---|---|
@@ -40,7 +40,7 @@ Geomantic readings fluctuate hourly. During “triple phase” storms, the horiz
 
 ---
 
-## **III. Chronology of Major Events**
+## III. Chronology of Major Events
 
 |**Date (A.D.)**|**Event**|**Summary / Impact**|
 |---|---|---|
@@ -53,7 +53,7 @@ Rumors persist of **Fey Courts of Cinder** and **Nether Monarchs of Smoke** vyin
 
 ---
 
-## **IV. Cultural Impact**
+## IV. Cultural Impact
 
 - **Ash Pilgrims** traverse the region to burn away grief, believing each step on molten ground removes one sorrow.
     
@@ -66,7 +66,7 @@ Rumors persist of **Fey Courts of Cinder** and **Nether Monarchs of Smoke** vyin
 
 ---
 
-## **V. Known Phenomena**
+## V. Known Phenomena
 
 |**Designation**|**Nature**|**Description**|
 |---|---|---|
@@ -74,8 +74,8 @@ Rumors persist of **Fey Courts of Cinder** and **Nether Monarchs of Smoke** vyin
 |**Mirror Fires**|Planar Reflections|Flames that burn only shadows; physical matter remains untouched.|
 |**Echo Folds**|Spatial Anomaly|Areas where sound repeats minutes later; used by guides to navigate.|
 |**Bleeding Veils**|Dimensional Tears|Translucent curtains showing other planes; contact causes memory loss.|
-___
-## **VI. Scientific Theories**
+---
+## VI. Scientific Theories
 
 1. **Planar Oscillation Model** – Aerathon’s ley grid shifts rhythmically, creating interference where it harmonizes with adjacent planes.
     
@@ -88,7 +88,7 @@ ___
 
 ---
 
-## **VII. Hazards & Creatures**
+## VII. Hazards & Creatures
 
 |**Entity**|**Origin**|**Threat Level**|
 |---|---|---|
@@ -97,7 +97,7 @@ ___
 |**The Ash Herald**|Planar Hybrid|Winged giant of ember and bone; herald of convergence surges.|
 |**Flame-That-Walks**|Unknown Divine|Apparition appearing before large eruptions; offers bargains in smoke.|
 ____
-## **VIII. Modern Status**
+## VIII. Modern Status
 
 - **Classification:** Level IV Quarantine / Observation Zone.
     
@@ -112,7 +112,7 @@ Latest measurements confirm overlapping Fey and Nether frequencies within 0.003 
 
 ---
 
-## **IX. Associated Artifacts**
+## IX. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -124,7 +124,7 @@ Stored under Ministry Vault #89, Louvain Branch — dual seal of Lt. Korrin and 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Verges of Ash** are not simply scarred ground — they are a mirror in which Aerathon glimpses its neighbors.  
 Every tremor there hums in three keys: life, death, and dream.  
@@ -132,7 +132,7 @@ If the Convergence Prophecy ever finds its spark, the Verges will likely be the 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Planar Convergence Registry)**  

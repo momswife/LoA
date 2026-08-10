@@ -1,9 +1,14 @@
+---
+aliases:
+  - The Netherworlds
+---
+
 > _“In the end, even death must be recorded.”_  
 > — **Magistrate Talar Shellmark**, _Charter Commentary on Soul Custody_
 
 ---
 
-# **The Netherworld**
+# The Netherworld
 
 ### _The Fifth Realm — “Where the Dead Pay the Debt of Memory.”_
 
@@ -15,7 +20,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Netherworld** is not absence, nor punishment, but **administration** — a sub-plane beneath the Labyrinths where the dead are processed, weighed, and re-sorted into eternity.
 
@@ -31,7 +36,7 @@ To the Ministry, it is the **final archive** — the true foundation beneath all
 
 ---
 
-## **II. Structure & Geography**
+## II. Structure & Geography
 
 Unlike other realms, the Netherworld is spatially structured — a hierarchy of dominions, each serving an archival function.
 
@@ -48,7 +53,7 @@ Every section is lit by pale flame that casts shadows _forward_ instead of back.
 
 ---
 
-## **III. Function & Law**
+## III. Function & Law
 
 Souls do not linger here by choice — they are summoned by the **Law of Continuance**, an old divine rule stating: _All that was known must be balanced by what is kept._  
 Those who die owing memories (unfulfilled promises, forgotten deeds, broken oaths) are held in the Tollway until recompense is paid.
@@ -58,7 +63,7 @@ This act births the rare phenomenon known as **Echo-Souls**, fragments of identi
 
 ---
 
-## **IV. Entities & Offices**
+## IV. Entities & Offices
 
 |**Designation**|**Description**|
 |---|---|
@@ -71,7 +76,7 @@ Each office functions autonomously, yet all record their findings for eventual t
 
 ---
 
-## **V. Temporal Mechanics**
+## V. Temporal Mechanics
 
 Time in the Netherworld flows as **consensus memory** — it moves only when remembered.  
 Whole centuries can vanish if unrecorded.  
@@ -79,7 +84,7 @@ The Ministry has verified that each re-emergent soul causes _temporal recoil_ of
 
 ---
 
-## **VI. Faith & Worship**
+## VI. Faith & Worship
 
 Arnerian theologians consider the Netherworld the **final flame’s reflection**, ruled by Kelemvor but staffed by mortal consequence.  
 The Beastfolk of Oria see it as a forge of second chances.  
@@ -90,7 +95,7 @@ Priests of the modern pantheon perform **Obligate Rites**, returning fragments o
 
 ---
 
-## **VII. Ministry Relations & Oversight**
+## VII. Ministry Relations & Oversight
 
 Official communication between the Ministry and Netherworld entities occurs via **Charter Annex 13**, a compact signed during the Second Delver Concord, ensuring cooperation between mortal archivists and psychopomp officials.
 
@@ -101,7 +106,7 @@ Lt. Korrin’s margin note reads:
 
 ---
 
-## **VIII. Known Gateways**
+## VIII. Known Gateways
 
 - **The Catacomb Arch of Louvain:** Primary sanctioned descent; sealed except during eclipses.
     
@@ -114,7 +119,7 @@ All entries require blacklight tokens issued by Ministry death clerks.
 
 ---
 
-## **IX. Influence on the Living**
+## IX. Influence on the Living
 
 Echo leakage from the Netherworld produces hauntings, déjà vu, and dream apparitions — all forms of **Residual Accounting.**  
 Those touched by its energy are called **Debt-Marked**, displaying:
@@ -130,7 +135,7 @@ Many delvers who repeatedly brave labyrinths develop Debt-Marks over time; the M
 
 ---
 
-## **X. Cultural & Philosophical Legacy**
+## X. Cultural & Philosophical Legacy
 
 The Netherworld represents closure, not doom.  
 Every civilization depends upon its quiet bureaucracy, whether they admit it or not.  
@@ -143,7 +148,7 @@ And somewhere, beneath the last labyrinth, a clerk of bone writes your name, pau
 
 ---
 
-### **Planar Feature: Memory Ledger**
+### Planar Feature: Memory Ledger
 
 _Any creature or relic influenced by the Netherworld gains the following trait:_
 
@@ -151,7 +156,7 @@ _Any creature or relic influenced by the Netherworld gains the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Mortuary & Post-Existence Bureau)**  

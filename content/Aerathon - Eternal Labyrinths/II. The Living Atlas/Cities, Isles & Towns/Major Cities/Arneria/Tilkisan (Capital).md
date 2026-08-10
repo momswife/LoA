@@ -1,3 +1,5 @@
+# Tilkisan
+
 ### _The Gilded Confluence — “All Roads Shine Here.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Capital Cities & State Power)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Tilksian** is the **capital city of Arneria**, seated where two tributaries of the **Mavimar River** converge beneath the Causeway’s arching spine. It is a city designed to be admired—from above, from afar, and from memory.
 
@@ -27,11 +29,11 @@ Tilksian shines because it must.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Tilksian is built around **controlled flow**—of water, people, and sightlines.
 
-### **The Confluence**
+### The Confluence
 
 Two tributaries of the Mavimar meet beneath the city:
 
@@ -44,7 +46,7 @@ Two tributaries of the Mavimar meet beneath the city:
 
 Water is never allowed to appear wild.
 
-### **Vertical Stratification**
+### Vertical Stratification
 
 Tilksian rises and descends by class:
 
@@ -70,7 +72,7 @@ Tilksian does not decay in public.
 
 ---
 
-## **III. History**
+## III. History
 
 Tilksian was not founded—it was **selected**.
 
@@ -82,7 +84,7 @@ For centuries, Tilksian’s beauty was enough to keep dissent muted. But as Aera
 
 The ruling class has not yet adjusted.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1084 A.D.** — Selection of the **Mavimar Confluence** as Arneria’s administrative seat.
     
@@ -97,7 +99,7 @@ Tilksian has always adapted slowly—by design.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Tilksian is governed directly by the **Bey of Arneria**, supported by:
 
@@ -112,7 +114,7 @@ Political power here is inherited, curated, and defended by precedent rather tha
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Tilksian’s economy is fueled by **passage**.
 
@@ -131,7 +133,7 @@ Recent increases in delver wealth have begun to strain traditional class expecta
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Tilksian is ceremonial.
 
@@ -148,7 +150,7 @@ Culturally, Tilksian prizes refinement, restraint, and aesthetic excellence. Art
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Tilksian is immaculate and uneven.
 
@@ -163,7 +165,7 @@ Defense focuses inward—on maintaining the image of calm.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Tilksian maintains **deliberate distance** from the Labyrinths.
 
@@ -178,7 +180,7 @@ The city prefers controlled danger elsewhere.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -192,7 +194,7 @@ Tilksian influences Aerathon not by force—but by expectation.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Tilksian believes beauty is proof of right to rule.
 
@@ -204,7 +206,7 @@ The city has not noticed yet.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Street cleaners outnumber street musicians
     
@@ -217,7 +219,7 @@ The city has not noticed yet.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Capital Cities & State Power)**  

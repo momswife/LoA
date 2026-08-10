@@ -185,15 +185,39 @@ Do not invent a Trial-Name for a Goliath. Do not ask for the story behind one un
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Goliath ancestry traits for creature type, size, speed, powerful build, resilience, and other core features.
+### Creature Type
 
-The Homeland Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Goliath ancestry traits for powerful build, resilience, and other core features.
 
 ---
 
-## X. Homeland Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Goliath sublineages are currently documented. Trial-name, fellowship, and homeland are cultural relationships rather than inherited divisions.
+
+Regional upbringing is represented by the Homeland Imprints below.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Civic Sentinel
 
@@ -217,7 +241,7 @@ You gain a swimming speed of 30 feet. When you are hit by lightning or thunder d
 
 ---
 
-## XI. Playing a Goliath
+## XII. Playing a Goliath
 
 Consider:
 
@@ -238,7 +262,7 @@ Worth is not a trial result.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Goliath lineage does not indicate consent to heavy labor, combat, endurance testing, public competition, intimidation work, or dangerous rescue.

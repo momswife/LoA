@@ -3,7 +3,7 @@
 
 ---
 
-# **Choir-Bone Angels**
+# Choir-Bone Angels
 
 ### _Undead Remnants of Forgotten Hymns — “Voices That Rise From Empty Ribs.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Choir-Bone Angels** are undead constructs formed from the intermingling of **forgotten hymns**, **abandoned divine resonance**, and **skeletal remains** of long-dead clerics, choristers, or healed martyrs.  
 They are not true angels, nor typical undead — but **echoes of holy songs trapped in bone**, seeking completion of a hymn no mortal remembers.
@@ -30,7 +30,7 @@ The Ministry classifies them as **Type-UNF / Echo-Necrotic Sacral Aberrations**,
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -46,7 +46,7 @@ The gaps between their ribs emit soft whisper-songs in dead languages.
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Choir-Bone Angels respond to **sound**, especially singing, humming, sobbing, or whispered prayer. They interpret sound not as communication, but as **unfinished hymns**.
 
@@ -71,7 +71,7 @@ Choir-Bone Angels are not cruel — they are hopelessly confused, trying to reco
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 They manifest where **faith died violently** or **prayers went unanswered**:
 
@@ -90,7 +90,7 @@ Most appear only at **dusk**, **midnight**, or **moonrise**, when divine resonan
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-Law mapping reveals Choir-Bone Angels contain **fractured hymn-patterns**, fragments of once-powerful divine spells.
     
@@ -108,7 +108,7 @@ Most appear only at **dusk**, **midnight**, or **moonrise**, when divine resonan
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -122,7 +122,7 @@ Matching their pitch binds your voice to their hymn, causing vocal bleed or “c
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -133,7 +133,7 @@ Artifacts stored in Vault #136 (Louvain Branch — Sacral Echo Annex), triple se
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level IV — High Echo-Necrotic Hazard
     
@@ -148,7 +148,7 @@ Artifacts stored in Vault #136 (Louvain Branch — Sacral Echo Annex), triple se
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Clerics of Lathander:** Fear them as “the sunrise that never came.”
     
@@ -165,7 +165,7 @@ Artifacts stored in Vault #136 (Louvain Branch — Sacral Echo Annex), triple se
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Choir-Bone Angels** are haunting, tragic remnants of worship — skeletons animated by the echoes of divine hymns long erased from Aerathon’s memory.  
 They seek completion, harmony, and meaning, but their broken divine resonance twists these desires into lethal behaviors.
@@ -178,7 +178,7 @@ Now it breaks it.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)**  

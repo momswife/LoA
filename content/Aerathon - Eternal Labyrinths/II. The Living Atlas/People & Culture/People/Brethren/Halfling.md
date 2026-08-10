@@ -189,17 +189,39 @@ Terms such as _little one_, _child_, and _cute_ should not be used for an adult 
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Halfling ancestry traits for creature type, size, speed, luck, bravery, and other core features.
+### Creature Type
 
-The Heritage Traits below represent upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
 
-Halfling luck does not permit the DM or party to disregard reasonable safety planning.
+### Ability Score Increase
+
+Your Dexterity score increases by 2.
+
+### Size
+
+Your size is Small.
+
+### Speed
+
+Your walking speed is 25 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Halfling ancestry traits for luck, bravery, and other core features. Halfling luck does not permit the DM or party to disregard reasonable safety planning.
 
 ---
 
-## X. Heritage Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Halfling sublineages are currently documented. Household, settlement, and homeland describe social belonging rather than inherited divisions.
+
+Regional upbringing is represented by the Homeland Imprints below.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Community Keeper
 
@@ -223,7 +245,7 @@ You gain a swimming speed equal to your walking speed. When you make a saving th
 
 ---
 
-## XI. Playing a Halfling
+## XII. Playing a Halfling
 
 Consider:
 
@@ -244,7 +266,7 @@ Hearth is a relationship, not a destiny.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Halfling lineage does not indicate childhood, harmlessness, domestic skill, cheerfulness, risk aversion, or willingness to provide food and emotional care.

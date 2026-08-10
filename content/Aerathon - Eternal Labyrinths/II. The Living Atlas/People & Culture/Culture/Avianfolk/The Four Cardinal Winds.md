@@ -151,7 +151,7 @@ Some Tithes were ceremonial.
 
 Others were dangerous acts of atmospheric engineering.
 
-The most perilous were carried into active storms by oath-pilots later remembered as the [[Stormriders|Stormriders]].
+The most perilous were carried into active storms by oath-pilots later remembered as the [[The Sky-Reeve Clans#VIII. Stormriders|Stormriders]].
 
 Their surviving vow remains among the best-known fragments of Sky-Reeve culture:
 
@@ -207,12 +207,12 @@ They came to describe the currents their descendants still carried.
 
 The Winds follow ancient settlement, migration, trade, and clan history rather than strict direction.
 
-|Wind|Principal Cultural Territories|Historic Environments|
-|---|---|---|
-|**North Gale**|[[Oria]] and northern [[Allemance]]|Mountain, tundra, northern forest, cold coast, high migration routes|
-|**South Zephyr**|Southern and southeastern [[Vinyot]], [[Bat'yan|Bat’yan]], and portions of [[Al'Ar|
-|**East Tempest**|[[Arneria]] and [[Bat'yan|Bat’yan]]|
-|**West Cyclone**|Portions of [[Allemance]], [[Vinyot]], and [[Al'Ar|Al’Ar]], including [[Glasrún]]|
+| Wind | Principal Cultural Territories | Historic Environments |
+| --- | --- | --- |
+| **North Gale** | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]] and northern [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]] | Mountain, tundra, northern forest, cold coast, and high migration routes |
+| **South Zephyr** | Southern and southeastern [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Bat'yan|Bat’yan]], and portions of [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]] | Rainforest, wetland, river delta, fertile coast, flowering upland, warm island, and agricultural port |
+| **East Tempest** | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Bat'yan|Bat’yan]] | Volcanic highland, storm plain, monsoon forest, unstable wetland, lightning-struck upland, cavern settlement, and Astral boundary |
+| **West Cyclone** | Portions of [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], including [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Sub-Regions/Glasrún|Glasrún]] | Maritime route, island chain, river, trade road, forest, caravan settlement, and migration path |
 
 These territories frequently overlap.
 

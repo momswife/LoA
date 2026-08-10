@@ -1,3 +1,5 @@
+# Erin
+
 ### _Riverside Farming Town of the Esterhine_
 
 **Region:** **Allemance**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Erin** is a tiny farming settlement nestled between the slow, looping waters of the **Esterhine River** and a series of low, rolling hills beyond. It is a place defined by continuity rather than change—families who have worked the same fields for generations, homes repaired rather than replaced, and lives measured in harvests instead of years.
 
@@ -16,7 +18,7 @@ That is precisely why some of its youth eventually leave.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Erin is compact and open, with no defenses and few boundaries.
 
@@ -33,7 +35,7 @@ Flooding is rare but anticipated; cellars are shallow, and barns are built on sl
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Erin survives through steady, unremarkable agriculture.
 
@@ -50,7 +52,7 @@ Most goods are sold upriver through Allemantic trade routes. Wealth is modest, b
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Erin is governed locally by a **Village Moot**, composed of long-established households.
 
@@ -65,7 +67,7 @@ Louvain’s laws apply in theory, but in practice Erin governs itself through pr
 
 ---
 
-## **V. Labyrinth Pressure (Distant)**
+## V. Labyrinth Pressure (Distant)
 
 No Labyrinth site is known near Erin.
 
@@ -75,7 +77,7 @@ When Labyrinth news arrives, it feels unreal, like weather from another country.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Erin is patient, familiar, and deeply rooted.
 
@@ -92,7 +94,7 @@ Ambition is not discouraged—but neither is staying.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Quiet talk in Erin often centers on:
 

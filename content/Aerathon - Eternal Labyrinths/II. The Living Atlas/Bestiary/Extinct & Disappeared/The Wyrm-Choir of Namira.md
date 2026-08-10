@@ -4,7 +4,7 @@
 
 ---
 
-# **Wyrm-Choir of Namira**
+# Wyrm-Choir of Namira
 
 ### _Extinct Oceanic Choir-Caste — “When the Deep Learned to Pray.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Wyrm-Choir of Namira** were an aquatic, hymn-borne culture that existed in the deep pelagic trenches surrounding the **Namiran archipelago**, long before the rise of modern seafaring nations.  
 Unlike most sapient species, the Wyrm-Choir were **not humanoid**; they were elongated, serpentine beings shaped by tidal pressure, bioluminescent organs, and the influence of leviathanic song.
@@ -30,7 +30,7 @@ The Ministry classifies them as **Type-EXTINCT / Leviathanic Syntonics Culture**
 
 ---
 
-## **II. Physical Description (Reconstructed)**
+## II. Physical Description (Reconstructed)
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -44,23 +44,23 @@ Skeletons are ribbonlike and fragile; recovered remains resemble spiraled coral 
 
 ---
 
-## **III. Culture & Society**
+## III. Culture & Society
 
 The Wyrm-Choir’s culture was built entirely around interpreting, preserving, and amplifying the Leviathan’s song.
 
-### **1. The Pulsekeepers**
+### 1. The Pulsekeepers
 
 Those attuned to the Leviathan’s heartbeat, able to predict tides, storms, and seismic shifts.
 
-### **2. The Deep Cantors**
+### 2. The Deep Cantors
 
 Priestly elites who sang “response hymns” back to the Leviathan, maintaining spiritual-mnemonic equilibrium between ocean and sky.
 
-### **3. The Saltborn Scribes**
+### 3. The Saltborn Scribes
 
 Record-keepers who etched hymns onto massive plates of salt-glass, forming underwater libraries known as the **Choral Vaults**.
 
-### **Theology**
+### Theology
 
 They believed the Leviathan was not a god, but the **first memory** the sea ever had — and that their purpose was to ensure the ocean never forgot itself.
 
@@ -70,7 +70,7 @@ Their songs regulated migration patterns, calmed storm currents, and kept abyssa
 
 ---
 
-## **IV. Abilities & Adaptations**
+## IV. Abilities & Adaptations
 
 The Wyrm-Choir possessed extraordinary biological and mystical adaptations:
 
@@ -89,11 +89,11 @@ Some delver myths claim the Wyrm-Choir could “sing open” sealed labyrinth do
 
 ---
 
-## **V. The Drowning Silence (Extinction Event, Cycle ~2800)**
+## V. The Drowning Silence (Extinction Event, Cycle ~2800)
 
 The Wyrm-Choir vanished after a catastrophic failure known as **The Drowning Silence** — the only recorded moment in history when the **Tide-Heart Leviathan’s heartbeat faltered**.
 
-### **Effects Documented from Surviving Salt-Glass Plates:**
+### Effects Documented from Surviving Salt-Glass Plates:
 
 - Choirs experienced immediate neurological collapse.
     
@@ -112,7 +112,7 @@ The Leviathan eventually recovered, but the beings who sustained and interpreted
 
 ---
 
-## **VI. Weaknesses (Historical)**
+## VI. Weaknesses (Historical)
 
 |**Vulnerability**|**Explanation**|
 |---|---|
@@ -124,7 +124,7 @@ Their existence was a delicate equilibrium — sustained by the Leviathan’s so
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 | **Item**                 | **Description**                                      | **Use / Hazard**                                                 |
 | ------------------------ | ---------------------------------------------------- | ---------------------------------------------------------------- |
@@ -135,7 +135,7 @@ Artifacts stored in Vault #137 (Louvain Oceanic Annex) — triple seal Daan / Ko
 
 ---
 
-## **VIII. Ministry Findings**
+## VIII. Ministry Findings
 
 - Residual **hydro-harmonic ghosts** still echo in Namiran deep zones; some match pre-extinction Choir patterns.
     
@@ -150,7 +150,7 @@ Artifacts stored in Vault #137 (Louvain Oceanic Annex) — triple seal Daan / Ko
 
 ---
 
-## **IX. Cultural & Mythic Legacy**
+## IX. Cultural & Mythic Legacy
 
 - **Namiran Fisher-Orders:** Whisper hymns before casting nets, mimicking forgotten Wyrm-Choir phrases.
     
@@ -165,7 +165,7 @@ Artifacts stored in Vault #137 (Louvain Oceanic Annex) — triple seal Daan / Ko
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Wyrm-Choir of Namira** were not merely singers — they were the harmony that held the deep together.  
 Their disappearance marked the first and only moment the sea forgot how to breathe.
@@ -174,7 +174,7 @@ They lived for the Leviathan’s heartbeat; they died when it faltered; and toda
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Leviathanic Phenomena Archive)**  

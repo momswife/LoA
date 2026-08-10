@@ -3,7 +3,7 @@
 
 ---
 
-# **Glassfolk**
+# Glassfolk
 
 ### _Extinct Humanoids of Porta Strega — “When a People Chose to Shine Instead of Live.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Glassfolk** were an ancient humanoid culture that thrived in what is now **Porta Strega** — the obsidian-and-mirror wasteland famous for volatile lightstorms, Glassfire Djinn manifestations, and echo-heat anomalies.
 
@@ -32,7 +32,7 @@ The Ministry designates them **Type-EXTINCT / Photomantic Sapients**, a once-liv
 
 ---
 
-## **II. Physical Description (Reconstructed)**
+## II. Physical Description (Reconstructed)
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -48,11 +48,11 @@ A fully intact Glassfolk corpse has never been recovered.
 
 ---
 
-## **III. Culture & Society**
+## III. Culture & Society
 
 The Glassfolk believed the mortal body was an _unfinished vessel_, and that perfection came from transparency — stripping away lies, imperfections, and shadows until they resembled their gods.
 
-### **Key Cultural Features**
+### Key Cultural Features
 
 - **The Doctrine of Illumined Flesh:** Body-alteration rituals involving heat, sand refinement, and photomancy.
     
@@ -67,7 +67,7 @@ Children were said to be born organic and “transformed through adolescence,”
 
 ---
 
-## **IV. Abilities & Adaptations**
+## IV. Abilities & Adaptations
 
 While alive, Glassfolk possessed unique physiological features:
 
@@ -86,7 +86,7 @@ These adaptations made them prized allies — and feared adversaries — of earl
 
 ---
 
-## **V. The Shatterfall (Extinction Event)**
+## V. The Shatterfall (Extinction Event)
 
 The Shatterfall was not a battle.  
 It was a **catastrophic resonance failure**.
@@ -94,7 +94,7 @@ It was a **catastrophic resonance failure**.
 When the Glassfolk attempted to ascend as a culture-wide ritual of illumination, they synchronized their body-light in a single massive hymn.  
 Eyewitness stone carvings depict a blinding white corona rising from Porta Strega… followed by silence and drifting shards.
 
-### **Contributing Causes**
+### Contributing Causes
 
 - Overloaded photomantic latticework.
     
@@ -114,7 +114,7 @@ Even now, the sands sing faintly during dawn — some say it is the last whisper
 
 ---
 
-## **VI. Weaknesses (Historical)**
+## VI. Weaknesses (Historical)
 
 |**Vulnerability**|**Explanation**|
 |---|---|
@@ -126,7 +126,7 @@ While powerful, their bodies were fragile to extremes — and their culture dang
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -137,7 +137,7 @@ All relics stored in Vault #104 (Louvain Branch) — triple seal Rook-of-Rings /
 
 ---
 
-## **VIII. Ministry Findings**
+## VIII. Ministry Findings
 
 - Light-residue patterns correspond to extinct dialects, partially translatable via Vox Engine harmonics.
     
@@ -152,7 +152,7 @@ The Ministry considers the Glassfolk the **most complete case of sapient self-ex
 
 ---
 
-## **IX. Cultural & Mythic Legacy**
+## IX. Cultural & Mythic Legacy
 
 - **Beastfolk of the Dunes** scatter mirrored beads at dusk to “appease the Shining Dead.”
     
@@ -168,7 +168,7 @@ The Ministry considers the Glassfolk the **most complete case of sapient self-ex
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Glassfolk** were a civilization that traded permanence for brilliance, flesh for radiance, hope for transcendence.  
 Their beauty was unmatched.  
@@ -180,7 +180,7 @@ And when the sun hits the dunes just right, observers swear they see silhouettes
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Anthropological Relic Archive)**  

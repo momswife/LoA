@@ -1,4 +1,4 @@
-# **Nix of the Whispertail**
+# Nix of the Whispertail
 
 ### _S-Class Shadow-Scout & Preemptive Savior (Missing)_
 
@@ -10,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Nix of the Whispertail**—a Beastfolk of uncertain lineage, described variously as possum, ferret, moon-creature, or “animated absence”—ascended to S-Class **without ever being caught on scry, broadcast, or official record.**
 
@@ -22,7 +22,7 @@ Nix isn’t interested in confirmation—they’re interested in **quiet rescues
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Unaffiliated; loosely linked to the **Cinderpaw Pact**, though never formally
     
@@ -35,7 +35,7 @@ Nix isn’t interested in confirmation—they’re interested in **quiet rescues
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Silence Saves More Than Swords** — A clean path is the kindest mercy.
     
@@ -46,21 +46,21 @@ Nix isn’t interested in confirmation—they’re interested in **quiet rescues
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Silent Route of Wyrmreach**
+### 1. The Silent Route of Wyrmreach
 
 Six guilds perished in a wyvern-packed floor.  
 Nix slipped through unseen, disarmed the traps, soothed the beasts, and left the relic waiting on a pedestal by the exit.  
 _They were never spotted entering._
 
-### **2. The Clockless Chamber Inversion**
+### 2. The Clockless Chamber Inversion
 
 A temporal recursion trapped an entire team in infinite loops.  
 Nix infiltrated _backwards_, edited runes by moonlight, and escaped unseen.  
 Found note: _“Time’s fixed. Don’t break it again.”_
 
-### **3. The Rescue of Thistlekin Hollow**
+### 3. The Rescue of Thistlekin Hollow
 
 A shadow-plague cursed a village.  
 At dawn, every home held a healing draught on the pillow—doors still locked.  
@@ -68,9 +68,9 @@ A child found a **soft tailprint** in ash and whispered thanks to the wind.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **The Echocloak**
+### The Echocloak
 
 Woven from dusk-thread and mothwing vellum.
 
@@ -81,7 +81,7 @@ Woven from dusk-thread and mothwing vellum.
 - Once per rest, splits into **three shadow decoys**
     
 
-### **Thievesight Veil**
+### Thievesight Veil
 
 A silk band worn over the eyes.
 
@@ -92,7 +92,7 @@ A silk band worn over the eyes.
 - Cannot be caught on scrying while worn
     
 
-### **The Hollow Dagger**
+### The Hollow Dagger
 
 Cold iron fused with shadowglass.
 
@@ -105,7 +105,7 @@ Cold iron fused with shadowglass.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 5 (unwitnessed)
     
@@ -120,7 +120,7 @@ Cold iron fused with shadowglass.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“The best delvers leave no graves behind.”_  
 — Carved into a tunnel wall near a collapsed delve
@@ -133,7 +133,7 @@ _“Shh.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - **All livecasts fail.** Static, blackout, or camera drift into empty space.
     
@@ -146,7 +146,7 @@ _“Shh.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Obscured Persons & Anomalous Operatives Bureau)**  

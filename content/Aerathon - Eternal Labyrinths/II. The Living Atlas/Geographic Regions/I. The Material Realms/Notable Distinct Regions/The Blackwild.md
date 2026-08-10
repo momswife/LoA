@@ -3,7 +3,7 @@
 
 ---
 
-# **The Blackwild**
+# The Blackwild
 
 ### _The Forest Where Light Fails — “Where Faith Burns Backward.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Deep in the **Bat’yan basin of Arneria**, east of Fort Tawiran, spreads a rainforest that devours more than sunlight.  
 The **Blackwild** is the only known surface region where **infernal mana concentration exceeds planar bleed tolerance**, a wound in the jungle that festers with voices.
@@ -25,7 +25,7 @@ Within the ring, nothing holy remains uncorrupted for long.
 
 ---
 
-## **II. Geography & Topography**
+## II. Geography & Topography
 
 |**Feature**|**Description**|
 |---|---|
@@ -37,7 +37,7 @@ Internal mapping impossible. The forest’s geometry folds under observation— 
 
 ---
 
-## **III. Historical Chronology**
+## III. Historical Chronology
 
 |**Date (A.D.)**|**Event**|**Summary / Impact**|
 |---|---|---|
@@ -50,7 +50,7 @@ Paladins report hearing hymns sung backward during maintenance rites — identic
 
 ---
 
-## **IV. Cultural Interpretations**
+## IV. Cultural Interpretations
 
 - **Arnerian Folk Belief:** The Blackwild is the grave of angels who betrayed sunlight.
     
@@ -63,7 +63,7 @@ A yearly vigil, **the Emberfast**, burns black candles along the barrier, their 
 
 ---
 
-## **V. Documented Phenomena**
+## V. Documented Phenomena
 
 | **Designation**      | **Nature**    | **Effect**                                                                                                            |
 | -------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -71,8 +71,8 @@ A yearly vigil, **the Emberfast**, burns black candles along the barrier, their 
 | **Whisper Vines**    | Flora         | Latch onto holy symbols; drain radiant energy to bloom red-gold flowers.                                              |
 | **Halo Spiders**     | Fauna         | Spin webs of sanctified thread stolen from clerical vestments.                                                        |
 | **Faith Reversal**   | Psychological | Devout subjects experience inversion of moral axis; spontaneous apostasy common after 24 hrs exposure.                |
-___
-## **VI. Infernal Ecology**
+---
+## VI. Infernal Ecology
 
 |**Entity**|**Classification**|**Behavioral Notes**|
 |---|---|---|
@@ -80,8 +80,8 @@ ___
 |**Mawroot**|Demonic plant-hive|Feeds on confession; roots whisper sins aloud.|
 |**The Black Saint**|Unknown|Pale humanoid wearing half-molten halo; believed to be Saint Drumphine reborn through inversion.|
 |**Echo Children**|Echoes of lost pilgrims|Appear as silhouettes reciting family names in reversed order.|
-___
-## **VII. The Ring of False Blessings**
+---
+## VII. The Ring of False Blessings
 
 Originally a miracle of containment, the Ring has grown sentient resonance.  
 Each section hums a chord of perpetual penance — pleasant to the ear yet corrosive to virtue.  
@@ -93,7 +93,7 @@ Renewal cycles now require external automatons; no human operator lasts beyond t
 
 ---
 
-## **VIII. Containment & Operations**
+## VIII. Containment & Operations
 
 - **Classification:** Level V Demonic Containment Zone (Highest).
     
@@ -112,7 +112,7 @@ All operations suspended at dusk. Standard prayer rites forbidden within one mil
 
 ---
 
-## **IX. Associated Artifacts**
+## IX. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -124,7 +124,7 @@ Stored under Vault #66, Louvain Branch, triple seal of Vell, Korrin, and Daan.
 
 ---
 
-## **X. Modern Threat Assessment**
+## X. Modern Threat Assessment
 
 - **Containment Integrity:** 83% (stable but declining).
     
@@ -139,7 +139,7 @@ Recent deep-sound scans detect rhythmic pulses identical to Monster Meadows Rift
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Blackwild** endures as Aerathon’s living contradiction: a forest radiant with darkness.  
 It is both punishment and promise, proof that holiness unguarded becomes hunger.  
@@ -147,7 +147,7 @@ The Ring still shines — and in its light, shadows bloom.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Abyssal Containment Dossier)**  

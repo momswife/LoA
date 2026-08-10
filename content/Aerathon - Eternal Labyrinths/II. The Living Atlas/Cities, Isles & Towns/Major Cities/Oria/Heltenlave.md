@@ -1,3 +1,5 @@
+# Heltenlave
+
 ### _The Lodge of Rising Names — “Greatness Is the Minimum.”_
 
 **Ruling House:** **House Skjoldhrafn** (Oric Elk)  
@@ -9,7 +11,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Heltenlave** is an Oric lodge city renowned across Aerathon for producing an extraordinary number of influential figures—warriors, explorers, mages, and leaders whose names recur throughout regional history.
 
@@ -24,11 +26,11 @@ Heltenlavers believe themselves shaped by the **aurora of the First Sea**, a phe
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Heltenlave lies along the northern reach of the **First Sea**, where auroral displays are visible on clear nights throughout much of the year.
 
-### **The Great Lodge**
+### The Great Lodge
 
 At the city’s heart stands the **Great Lodge of Heltenlave**, a massive timber-and-stone structure serving as:
 
@@ -43,7 +45,7 @@ Names of Heltenlavers who achieved renown are carved into its interior walls. Da
 
 The lodge is intentionally unfinished. New wings and halls are added as need and honor demand.
 
-### **Surrounding Terrain**
+### Surrounding Terrain
 
 - Boreal forests and icy foothills
     
@@ -56,7 +58,7 @@ Ease is available. Comfort is optional.
 
 ---
 
-## **III. History**
+## III. History
 
 Heltenlave’s origin is rooted in **reputation rather than conquest**.
 
@@ -66,7 +68,7 @@ Early Oric histories describe the site as a meeting lodge for exceptional indivi
 
 Heltenlave’s greatest legacy is not a single war or victory, but a pattern: individuals who leave, alter the course of events elsewhere in Aerathon, and return only long enough to have their names carved into stone.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **Pre-900 A.D.** — Earliest oral references to Heltenlave as a gathering lodge of elite Oric challengers.
     
@@ -82,7 +84,7 @@ Its influence travels outward—and returns marked.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Heltenlave is governed by **House Heltenlave**, a warrior lodge-house whose stewardship is currently held by the **Skjoldhrafn family**. In keeping with Oric tradition, the House is eternal—**leadership is not**.
 
@@ -110,7 +112,7 @@ If a Lodge-Bearer is found wanting—through cowardice, negligence, indecision, 
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Heltenlave’s economy is communal and restrained.
 
@@ -127,7 +129,7 @@ Wealth is reinvested into infrastructure, training, and shared resources. Person
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Heltenlave’s culture is defined by **competitive cooperation**, an ursine ideal taken to its extreme.
 
@@ -145,7 +147,7 @@ The aurora is not worshiped, but **acknowledged** as a silent witness. Night wat
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Heltenlave is strict and personal.
 
@@ -160,7 +162,7 @@ Defense is communal. Every adult is expected to stand in times of need.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Heltenlave treats the Labyrinths as **proving grounds**, not prizes.
 
@@ -175,7 +177,7 @@ The city values the test—not the treasure.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -189,7 +191,7 @@ Heltenlave influences Aerathon by setting a brutal, inspiring standard few citie
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Heltenlave does not promise greatness.
 
@@ -201,7 +203,7 @@ Those who remain are shaped by the expectation. Those who leave carry it with th
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Children are taught sparring before writing
     
@@ -214,7 +216,7 @@ Those who remain are shaped by the expectation. Those who leave carry it with th
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Oric Cities & Martial Cultures)**  

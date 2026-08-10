@@ -1,10 +1,16 @@
+---
+aliases:
+  - Veryiss Spawn
+  - Veryriss-Spawn
+---
+
 > _“The curse of Veryiss was never content to sleep in its creator’s bones.  
 > Now it walks on many legs, wearing his hatred like a crown.”_  
 > — **Inspector Jao “Greyglass” Vell**, _Forensic Thaumaturgy Report 312-H_
 
 ---
 
-# **Veryiss-Spawns**
+# Veryiss-Spawns
 
 ### _Horrors Born of a Forgotten Curse — “When a Sorcerer’s Malice Learns to Multiply.”_
 
@@ -16,7 +22,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Veryiss-Spawns** are grotesque curse-born entities created from the lingering, self-propagating malice of **Arch-Sorcerer Veryiss**, a pre-Spectacle era tyrant whose dying curse was so potent it survived the destruction of his body.
 
@@ -32,7 +38,7 @@ The Ministry classifies them as **Type-INF / High-Order Curse Aberrants**, among
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -47,7 +53,7 @@ When damaged, they shed **curse-splinters**, shards of malignant memory that cra
 
 ---
 
-## **III. Behavioral Profile & Phenomena**
+## III. Behavioral Profile & Phenomena
 
 Veryiss-Spawns have no true sentience — only compulsive behaviors inherited from the dying mind of their creator:
 
@@ -71,7 +77,7 @@ Spawns often fight themselves mid-pursuit, tearing off limbs or masks in mimicry
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Veryiss-Spawns only appear in or near regions affected by the **Veryiss Curse-Line**, including:
 
@@ -90,7 +96,7 @@ The largest cluster — the **Throne of Dust** — sits atop Veryiss’ annihila
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-seismographs detect each Spawn carries a **fragment of Veryiss’ mind**, but corrupted, incomplete, and looping.
     
@@ -108,7 +114,7 @@ The largest cluster — the **Throne of Dust** — sits atop Veryiss’ annihila
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -124,7 +130,7 @@ Spawn attacks may implant curse-splinters beneath the skin — requiring immedia
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -135,7 +141,7 @@ Artifacts stored in Vault #152 (Louvain Branch — Cursed Materials Annex), trip
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level V — Major Curse Aberrant / Extreme Hazard
     
@@ -150,7 +156,7 @@ Artifacts stored in Vault #152 (Louvain Branch — Cursed Materials Annex), trip
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Veyran Farmers:** Avoid the Steppe entirely, calling it “The Land That Remembers Wrong.”
     
@@ -167,7 +173,7 @@ Artifacts stored in Vault #152 (Louvain Branch — Cursed Materials Annex), trip
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Veryiss-Spawns** are the lingering tantrums of a dead tyrant — curse-made monsters that wear his form, voice, and ego in fractured parody.  
 Driven by validation, pride, and hatred, they stalk the cursed landscape seeking acknowledgment from those who fear or despise them.
@@ -178,7 +184,7 @@ They are what happens when a dying sorcerer whispers a curse powerful enough to 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)**  

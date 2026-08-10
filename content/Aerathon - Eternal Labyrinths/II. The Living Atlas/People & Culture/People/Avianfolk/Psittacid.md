@@ -457,7 +457,7 @@ Their abilities often lead to work involving communication, craft, performance, 
 
 ### Allemance
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Allemance|Allemance]], Psittacids commonly participate in household networks, local markets, craft circles, schools, courier routes, and seasonal gatherings.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], Psittacids commonly participate in household networks, local markets, craft circles, schools, courier routes, and seasonal gatherings.
 
 Allemancian Psittacids often preserve family phrases and familiar voices.
 
@@ -469,7 +469,7 @@ It lies in ensuring that the absent remain part of the conversation.
 
 ### Oria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Oria|Oria]], Psittacids often serve in communications, emergency signaling, instruction, diagnostics, mechanical design, and operational coordination.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]], Psittacids often serve in communications, emergency signaling, instruction, diagnostics, mechanical design, and operational coordination.
 
 Oric institutions value exact repetition when precision matters.
 
@@ -485,7 +485,7 @@ Many become engineers anyway.
 
 ### Vinyot
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Vinyot|Vinyot]], voice, color, reputation, and attention all possess measurable value.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], voice, color, reputation, and attention all possess measurable value.
 
 Psittacids are prominent in negotiation, advertising, theatre, music, broadcasting, political speech, legal advocacy, auctioneering, luxury craft, and public entertainment.
 
@@ -514,7 +514,7 @@ Other Psittacids have become extremely wealthy by selling those rights carefully
 
 ### Arneria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Arneria|Arneria]], Psittacids serve as ritual reciters, oath heralds, temple singers, doctrinal teachers, witnesses, and custodians of sacred pronunciation.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]], Psittacids serve as ritual reciters, oath heralds, temple singers, doctrinal teachers, witnesses, and custodians of sacred pronunciation.
 
 Certain rites require phrases to be spoken exactly as preserved.
 
@@ -530,7 +530,7 @@ It may also prevent the living from questioning it.
 
 ### Al’Ar
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Al'Ar|Al’Ar]], Psittacid communities flourish in dock-cities, tropical settlements, traveling performances, storm markets, cliff towns, and regions rebuilt repeatedly through improvisation.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], Psittacid communities flourish in dock-cities, tropical settlements, traveling performances, storm markets, cliff towns, and regions rebuilt repeatedly through improvisation.
 
 Al’Ari Psittacids often transform whatever they inherit.
 

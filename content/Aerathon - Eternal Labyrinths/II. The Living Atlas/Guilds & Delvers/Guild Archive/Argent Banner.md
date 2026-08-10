@@ -4,7 +4,7 @@
 
 ---
 ![[ea378bd0-bc1c-44a0-9f7d-85f5bbf0b7c6.webp]]
-# **The Argent Banner**
+# The Argent Banner
 
 ### _Private S-Class Charter Guild — “For Gold, Glory, and the Grand Story.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Argent Banner** is Aerathon’s most opulent and media-dominant delving organization — a private S-Class guild whose members treat exploration as art and survival as performance.  
 Headquartered in **Silverspire Hall** in the capital of **Oria**, the Banner stands at the intersection of nobility, commerce, and entertainment.
@@ -25,17 +25,17 @@ Their expeditions are **staged events**, their relics **auctioned before retriev
 To the Ministry, they are indispensable showpieces.  
 To rival guilds, they are parasites gilded in myth.
 
-### **Guild Motto:**
+### Guild Motto:
 
 > _“For Gold, Glory, and the Grand Story.”_
 
-### **Emblem:**
+### Emblem:
 
 A **silver knight's helmet being coated by the sun**. 
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | **Private S-Class Charter** |  
 | **Affiliation** | Independent; operates under Charter §§3-C, 5-E, 6-F |  
@@ -46,7 +46,7 @@ A **silver knight's helmet being coated by the sun**.
 
 ---
 
-## **III. Ideology & Reputation**
+## III. Ideology & Reputation
 
 The Argent Banner’s founding creed asserts that **“the story is as vital as the relic.”**  
 They believe delvers are modern demigods—symbols of inspiration in an age that worships spectacle.  
@@ -59,9 +59,9 @@ While the Ministry officially condemns “manufactured heroics,” it nonetheles
 
 ---
 
-## **IV. Structure & Governance**
+## IV. Structure & Governance
 
-### **The High Council of the Argent Banner**
+### The High Council of the Argent Banner
 
 |**Title**|**Name**|**Responsibility**|
 |---|---|---|
@@ -74,7 +74,7 @@ All positions are hereditary or appointed by the Guildmaster, though the Ministr
 
 ---
 
-## **V. Membership & Requirements**
+## V. Membership & Requirements
 
 Admission into the Argent Banner is invitation-only.  
 Applicants are assessed not just for talent, but **marketability**.
@@ -95,9 +95,9 @@ Failure earns polite dismissal; success earns a contract gilded in platinum and 
 
 ---
 
-## **VI. Operations & Practices**
+## VI. Operations & Practices
 
-### **Expedition Format**
+### Expedition Format
 
 Each delve follows the **Tri-Stage Production Model**:
 
@@ -108,14 +108,14 @@ Each delve follows the **Tri-Stage Production Model**:
 3. **Post-Production Mythcraft** – Edited broadcasts, dramatized voiceovers, and relic auction teasers.
     
 
-### **Relic Handling**
+### Relic Handling
 
 Recovered relics are sold to collectors or nobles through the **Silverspire Auction Circuit**, yielding a 25% tax tithe to the Ministry under §2-B (Reliquary Safety).  
 The Banner claims “curation rights” over cultural relics, often resulting in prolonged legal disputes with the Free Company.
 
 ---
 
-## **VII. Assets & Holdings**
+## VII. Assets & Holdings
 
 - **Silverspire Hall:** A gothic tower complex housing relic archives, broadcast studios, and the **Hall of Mirrors**, an auditorium for viewing recorded delves.
     
@@ -128,7 +128,7 @@ The Banner claims “curation rights” over cultural relics, often resulting in
 
 ---
 
-## **VIII. Relationship with the Ministry**
+## VIII. Relationship with the Ministry
 
 The Argent Banner is licensed under the **Private Guild Charter (Type-S, Oria District)** but operates outside MDO sponsorship.  
 Its independence allows faster action, but obliges strict financial transparency and quarterly audits.
@@ -140,25 +140,25 @@ Without the Banner’s broadcasts, delving would lose its largest revenue source
 
 ---
 
-## **IX. Relationships & Rivalries**
+## IX. Relationships & Rivalries
 
-### **The Free Company of Louvain** _(Adversarial Respect)_
+### The Free Company of Louvain _(Adversarial Respect)_
 
 The Free Company views the Banner as **soulless performers**, while the Banner dismisses the Company as **pious amateurs**.  
 Public duels between the two are common and lucrative; both sides privately arrange them for spectacle ratings.
 
-### **The Crimson Reavers** _(Uneasy Alliance)_
+### The Crimson Reavers _(Uneasy Alliance)_
 
 The Reavers provide the Banner with real combat footage for use in “authenticating” their own performances.  
 In exchange, the Reavers gain financial patronage and access to noble clients.
 
-### **The Grand Scrying Network (GSN)** _(Partnership)_
+### The Grand Scrying Network (GSN) _(Partnership)_
 
 The Banner’s exclusive broadcast partner. GSN dictates narrative pacing and character focus, blurring the line between journalism and fiction.
 
 ---
 
-## **X. Cultural Influence**
+## X. Cultural Influence
 
 The Argent Banner has reshaped Aerathon’s definition of heroism.  
 Children reenact their duels; nobles host “relic banquets” themed after their delves.  
@@ -170,7 +170,7 @@ The Banner’s guild motto, now a common proverb, adorns half the delvers’ cre
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

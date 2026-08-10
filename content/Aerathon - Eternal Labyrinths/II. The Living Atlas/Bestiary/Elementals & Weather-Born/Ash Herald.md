@@ -3,7 +3,7 @@
 
 ---
 
-# **Ash Herald**
+# Ash Herald
 
 ### _Emissary of Burnt Gods — “Where the Flame Learned to Speak Without Heat.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Ash Herald** is a semi-corporeal entity that manifests amid total immolation — cities, shrines, or battlefields where belief and flame die together.  
 It is said to be the **voice of forgotten fires**, a wandering sermon-keeper collecting the last prayers uttered in smoke.
@@ -27,7 +27,7 @@ Eyewitnesses describe it as **a cloaked figure of drifting soot**, crowned by a 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -41,7 +41,7 @@ The Herald leaves **footprints of gray ash** that evaporate into floating runes.
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 - **Purpose Cycle:** Appears after large-scale fires or divine smiting; wanders perimeter three times before entering ruins’ center.
     
@@ -58,7 +58,7 @@ The Herald leaves **footprints of gray ash** that evaporate into floating runes.
 
 ---
 
-## **IV. Origin Hypotheses**
+## IV. Origin Hypotheses
 
 1. **Divine Echo Theory:** Residual messenger of Lathander, Kossuth, or Moradin trapped during post-Collapse firewall.
     
@@ -69,7 +69,7 @@ The Herald leaves **footprints of gray ash** that evaporate into floating runes.
 
 ---
 
-## **V. Habitat & Distribution**
+## V. Habitat & Distribution
 
 Sightings correlate with catastrophic immolations:
 
@@ -84,7 +84,7 @@ Heralds avoid water, divine light, and laughter. Rain disperses them instantly.
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -99,7 +99,7 @@ Do not light torches near one; the Herald treats flame as communion and will mer
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 | **Item**        | **Description**                                        | **Use / Hazard**                                             |
 | --------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
@@ -110,7 +110,7 @@ All stored in Vault #79, Louvain Branch — dual seal Korrin / Vell.
 
 ---
 
-## **VIII. Containment & Observation**
+## VIII. Containment & Observation
 
 - **Classification:** Level IV — Cognitive Divine Residue / Psychic Hazard.
     
@@ -125,7 +125,7 @@ All stored in Vault #79, Louvain Branch — dual seal Korrin / Vell.
 
 ---
 
-## **IX. Cultural & Religious Notes**
+## IX. Cultural & Religious Notes
 
 - **Caer Dain Smiths:** Scatter ashes from first furnace at sunrise, calling it “feeding the Herald.”
     
@@ -138,7 +138,7 @@ All stored in Vault #79, Louvain Branch — dual seal Korrin / Vell.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Ash Herald** is Aerathon’s funereal echo — proof that destruction still seeks meaning.  
 It is not vengeance nor mercy, but memory condensed into dust, walking until every flame has a sermon.  
@@ -146,7 +146,7 @@ Where it passes, fire ends and reflection begins; and in that silence, even the 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Theological Aberration & Cataclysm Residue Archive)**  

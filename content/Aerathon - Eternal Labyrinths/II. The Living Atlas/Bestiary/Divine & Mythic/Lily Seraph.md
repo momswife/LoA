@@ -3,7 +3,7 @@
 
 ---
 
-# **Lily Seraphs**
+# Lily Seraphs
 
 ### _Celestial Remnants of the Lost Concord — “When Angels Learned to Take Root.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Lily Seraphs** are radiant, plant-bodied celestials that manifest during mass divine interference events — particularly near shrines once consecrated to Lathander, Sune, and Corellon.  
 They resemble angels **grown** rather than sent, their wings formed of veined petals and light-pollen, their eyes like drops of dawn refracted through dew.
@@ -29,7 +29,7 @@ The Ministry classifies them as **Type-DIV / Celestial-Floral Aberrations**, liv
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -43,7 +43,7 @@ When mobile, petals flare into winglike extensions; its passage leaves behind tr
 
 ---
 
-## **III. Behavior & Temperament**
+## III. Behavior & Temperament
 
 The Lily Seraph is neither predator nor passive guardian — it is **driven by memory, not mission**.  
 It seeks places of former worship, standing motionless for days while emitting a low hymn that stimulates plant growth and heals small injuries within 30 ft.  
@@ -62,7 +62,7 @@ However, when confronted with blasphemy, violence, or despair, the hymn shifts t
 
 ---
 
-## **IV. Habitat & Sightings**
+## IV. Habitat & Sightings
 
 Documented manifestations include:
 
@@ -77,7 +77,7 @@ Seraphs are drawn to **strong solar ley intersections** or **mass graves of the 
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Photomantic study confirms **cellular photosynthesis fused with radiant mana**, generating unlimited self-sustaining energy during daylight.
     
@@ -100,7 +100,7 @@ Seraphs are drawn to **strong solar ley intersections** or **mass graves of the 
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -111,7 +111,7 @@ Artifacts stored in Vault #92, Louvain Branch — triple seal Stonevoice / Daan 
 
 ---
 
-## **VIII. Containment & Risk Protocol**
+## VIII. Containment & Risk Protocol
 
 - **Classification:** Level III — Radiant Aberration / Theological Residue.
     
@@ -128,7 +128,7 @@ Artifacts stored in Vault #92, Louvain Branch — triple seal Stonevoice / Daan 
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Beastfolk of Oria** tell of “The Lily Knights,” Seraphs who carried fallen heroes skyward as flowers.
     
@@ -143,7 +143,7 @@ Artifacts stored in Vault #92, Louvain Branch — triple seal Stonevoice / Daan 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Lily Seraphs** are not angels nor gods reborn — they are the memory of purity re-interpreted by the earth itself.  
 They bloom where faith has rotted, bringing mercy or wrath depending on the heart that beholds them.  
@@ -153,7 +153,7 @@ When the dawn light scatters through their wings, Aerathon remembers what grace 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Theological Aberration & Celestial Residue Archive)**  

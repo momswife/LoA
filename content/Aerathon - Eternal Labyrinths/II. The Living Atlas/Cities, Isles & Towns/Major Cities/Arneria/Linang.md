@@ -1,3 +1,5 @@
+# Linang
+
 ### _The Ring That Guards the Land — “What We Raise, We Protect.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Causeway Infrastructure & Agrarian Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Linang** is a broad **Causeway ring-region** in the Bat’yan, notable for enclosing and defending one of the most fertile agricultural basins along the road. Unlike most Causeway cities, Linang was designed not to dominate trade or traffic, but to **protect land worth keeping**.
 
@@ -23,11 +25,11 @@ Linang is not one city, but many **Ring-Towns**, bound together by habit, harves
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Linang occupies a shallow basin of exceptionally rich soil, surrounded by rainforest and rolling Bat’yan terrain.
 
-### **The Ring Wall**
+### The Ring Wall
 
 - A solid stone wall supporting the Causeway road above
     
@@ -38,7 +40,7 @@ Linang occupies a shallow basin of exceptionally rich soil, surrounded by rainfo
 
 The wall is functional rather than ornamental, thick enough to support both traffic and patrols.
 
-### **The Ring-Towns**
+### The Ring-Towns
 
 Settlement is sparse but constant along both sides of the wall:
 
@@ -53,7 +55,7 @@ Architecture favors durability and ease of repair over grandeur.
 
 ---
 
-## **III. History**
+## III. History
 
 Linang was founded on foresight.
 
@@ -63,7 +65,7 @@ For generations, Linang prospered quietly, exporting grain and produce while mai
 
 Entire stretches of the ring were abandoned as monsters claimed ground faster than it could be reclaimed. Families relocated inward or outward, leaving behind a visible scar: miles of empty buildings where laughter once carried.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1048 A.D.** — Construction of the **Linang Causeway Ring**, elevating the road to protect farmland.
     
@@ -78,7 +80,7 @@ Linang has not given up its land—only stepped back to breathe.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Linang has no single ruler.
 
@@ -93,7 +95,7 @@ This loose structure favors consensus and rapid adaptation.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Linang’s economy is rooted—literally.
 
@@ -110,7 +112,7 @@ Trade is steady but secondary to subsistence. The fields feed Linang first.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Linang’s culture is shaped by routine.
 
@@ -127,7 +129,7 @@ Colorful rainforest birds are the only wildlife allowed within the basin and hav
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Defense in Linang is layered and local.
 
@@ -142,7 +144,7 @@ Weapons are tools, not status symbols.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Linang has suffered deeply from Labyrinth proximity.
 
@@ -157,7 +159,7 @@ Linang’s long-term goal is reclamation—returning stolen land once the threat
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -171,7 +173,7 @@ Linang influences Aerathon quietly—by continuing to feed it.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Linang is defined by patience.
 
@@ -181,7 +183,7 @@ It does not rush to reclaim what was lost, nor does it abandon hope. Its people 
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Elevators are named and argued over
     
@@ -194,7 +196,7 @@ It does not rush to reclaim what was lost, nor does it abandon hope. Its people 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Causeway Infrastructure & Agrarian Settlements)**  

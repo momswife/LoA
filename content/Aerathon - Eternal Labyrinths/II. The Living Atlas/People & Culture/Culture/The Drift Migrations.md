@@ -3,7 +3,7 @@
 
 ---
 
-# **The Drift Migrations**
+# The Drift Migrations
 
 ### _The Peoples Displaced by a World That Would Not Remain in Place_
 
@@ -18,7 +18,7 @@
 
 ---
 
-## **I. Terminological Correction**
+## I. Terminological Correction
 
 The **Drift Migrations** were the mass movements of people caused or intensified by the [[Chronological Timeline of Aerathon#The Great Drift|Great Drift]], the wider Collapse, and the first permanent Labyrinth settlements.
 
@@ -36,7 +36,7 @@ The Ministry no longer considers that usage precise.
 
 ---
 
-## **II. A Thousand Departures**
+## II. A Thousand Departures
 
 The Drift Migrations were not one march.
 
@@ -65,7 +65,7 @@ Some remain unresolved.
 
 ---
 
-## **III. Drift Communities**
+## III. Drift Communities
 
 Long-distance survival required people to cooperate beyond inherited nation, ancestry, profession, and faith.
 
@@ -89,7 +89,7 @@ Many modern towns descend from encampments that stopped moving only after their 
 
 ---
 
-## **IV. The Hearth-Stone Compacts**
+## IV. The Hearth-Stone Compacts
 
 Among the best-attested Drift institutions were the **Hearth-Stone Compacts**.
 
@@ -114,7 +114,7 @@ The guilds did not invent it.
 
 ---
 
-## **V. Language on the Road**
+## V. Language on the Road
 
 Migration fractured old speech communities and forced constant translation.
 
@@ -132,7 +132,7 @@ Many displaced children learned the road language before the language of their g
 
 ---
 
-## **VI. Memory as Luggage**
+## VI. Memory as Luggage
 
 The Great Drift could alter or contradict memory.
 
@@ -161,7 +161,7 @@ It was something communities maintained together.
 
 ---
 
-## **VII. Routes Become Regions**
+## VII. Routes Become Regions
 
 After 2930 A.D., geography became more stable without becoming familiar.
 
@@ -177,19 +177,19 @@ Many institutions later described as inventions of delving were adaptations of r
 
 ---
 
-## **VIII. Festival and Mourning**
+## VIII. Festival and Mourning
 
 Several modern observances descend from the migrations.
 
-### **The Feast of First Steps**
+### The Feast of First Steps
 
 Families prepare a meal from ingredients associated with departure and invite a guest whose ancestors traveled by a different route.
 
-### **Lanternwake**
+### Lanternwake
 
 Lights are set upon roads or water for people who did not reach a recorded destination. The observance draws upon the older customs of the [[Pilgrims of the Three Lanterns]].
 
-### **The Day of the Empty Road**
+### The Day of the Empty Road
 
 Communities leave a principal road unused for part of the day so that the unreturned dead may complete journeys no living witness can verify.
 
@@ -201,7 +201,7 @@ They remember that survival created new homes because old homes were lost.
 
 ---
 
-## **IX. Modern Legacy**
+## IX. Modern Legacy
 
 The Drift Migrations reshaped every Greater Region.
 
@@ -227,7 +227,7 @@ It produced a world in which many people became descendants of somewhere they co
 
 ---
 
-## **Known Records and Sites**
+## Known Records and Sites
 
 | Record or Site | Present Location | Significance |
 |---|---|---|
@@ -238,7 +238,7 @@ It produced a world in which many people became descendants of somewhere they co
 
 ---
 
-## **Related Records**
+## Related Records
 
 - [[The Age of Collapse]]
 - [[Chronological Timeline of Aerathon]]
@@ -250,7 +250,7 @@ It produced a world in which many people became descendants of somewhere they co
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

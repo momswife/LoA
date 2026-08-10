@@ -3,7 +3,7 @@
 
 ---
 
-# **Cinder Imps**
+# Cinder Imps
 
 ### _Ashspawn Tricksters of Flame — “What Mischief Looks Like When It Learns to Burn.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Cinder Imps** are volatile, ash-born infernal creatures that skitter out of **overheated forges, volcanic vents, firepits, and cursed furnaces**.  
 They form when **malice, impatience, or petty rage** is exhaled into flame — emotional pollution that ignites into a spark of living mischief.
@@ -29,7 +29,7 @@ The Ministry classifies them as **Type-INF / Minor Infernal Pyromorphs**, closel
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -44,7 +44,7 @@ Their bodies crumble like charcoal when struck — but each crumble releases fla
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Cinder Imps are defined by **pyromantic mischief** and love to spread chaos:
 
@@ -68,7 +68,7 @@ They rarely attack directly unless cornered, instead preferring to provoke misst
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Cinder Imps emerge wherever **heat, emotion, and infernal resonance** intersect:
 
@@ -89,7 +89,7 @@ The more emotionally chaotic the environment, the more likely imps appear.
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Cinder Imps appear to “feed” on frustration, gaining heat when exposed to arguments or tantrums.
     
@@ -107,7 +107,7 @@ The more emotionally chaotic the environment, the more likely imps appear.
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -120,7 +120,7 @@ Never engage them in enclosed wooden structures — their frantic sparks can ign
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -131,7 +131,7 @@ Artifacts stored in Vault #62 (Louvain Branch) — dual seal Rook-of-Rings / Kor
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level II — Minor Infernal / Environmental Hazard
     
@@ -146,7 +146,7 @@ Artifacts stored in Vault #62 (Louvain Branch) — dual seal Rook-of-Rings / Kor
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Caer Dain Workers:** Blame “Cinder Brats” for every cracked crucible.
     
@@ -162,7 +162,7 @@ Artifacts stored in Vault #62 (Louvain Branch) — dual seal Rook-of-Rings / Kor
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Cinder Imps** are mischievous, fiery nuisances — dangerous in groups, volatile near fuel, and prone to chaotic antics.  
 They are the smallest sparks of infernal corruption, born from temper, frustration, and the hungry nature of flame itself.
@@ -176,7 +176,7 @@ In the grand hierarchy of infernal threats, they are low — but in a cramped fo
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)**  

@@ -1,3 +1,5 @@
+# Castaway Point
+
 ### _The Quiet Shore — “If the Sea Spares You, We Will Not Waste It.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Coastal Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Castaway Point** is a small, isolated port city on the western fringe of **Arneria**, clinging to a rare calm inlet along the otherwise lethal waters of the **Azur Gulf**. Encircled by violent currents and a dense wall of living coral, the city exists in a place ships are not meant to survive.
 
@@ -25,11 +27,11 @@ It is discovered by those who were not meant to die.
 
 ---
 
-## **II. Geography & Natural Hazards**
+## II. Geography & Natural Hazards
 
 Castaway Point is defined by **lethal beauty**.
 
-### **The Coral Wall**
+### The Coral Wall
 
 A living ring of vibrant reef surrounds the harbor approach.
 
@@ -42,7 +44,7 @@ A living ring of vibrant reef surrounds the harbor approach.
 
 Charts are unreliable. Memory and instinct matter more.
 
-### **The Currents**
+### The Currents
 
 Multiple converging flows pull vessels inward.
 
@@ -53,7 +55,7 @@ Multiple converging flows pull vessels inward.
 - Sailors insist the currents “decide” who arrives
     
 
-### **The Quiet Beach**
+### The Quiet Beach
 
 A calm strip of sand beneath the cliffs.
 
@@ -68,7 +70,7 @@ No permanent structures are built here.
 
 ---
 
-## **III. History**
+## III. History
 
 Castaway Point began as a place people **washed up**, not settled.
 
@@ -91,7 +93,7 @@ The city formalized only when it became clear that Castaway Point would not disa
 
 ---
 
-## **IV. The Murine of Castaway Point**
+## IV. The Murine of Castaway Point
 
 Castaway Point is home to a rare and continuous population of **murine ratfolk** who never left Arneria during earlier migrations.
 
@@ -108,7 +110,7 @@ Murine citizens are deeply integrated into city life and are among the most skil
 
 ---
 
-## **V. Society & Civic Character**
+## V. Society & Civic Character
 
 Castaway Point operates on **communal obligation**.
 
@@ -123,7 +125,7 @@ Leadership is informal, drawn from veteran sailors, reef-readers, and rescue cap
 
 ---
 
-## **VI. The Sea Rats**
+## VI. The Sea Rats
 
 The city’s sailors—called **Sea Rats**—are its greatest export.
 
@@ -138,7 +140,7 @@ Those who leave are still claimed proudly.
 
 ---
 
-## **VII. Faith & Worldview**
+## VII. Faith & Worldview
 
 Faith here is **quiet and transactional**.
 
@@ -155,7 +157,7 @@ Prayers are promises.
 
 ---
 
-## **VIII. Economy**
+## VIII. Economy
 
 Trade is limited and precise.
 
@@ -181,7 +183,7 @@ Trade vessels arrive by invitation—or desperation.
 
 ---
 
-## **IX. Delvers, Pirates & the MDO**
+## IX. Delvers, Pirates & the MDO
 
 Castaway Point produces a disproportionate number of delvers and freebooters.
 
@@ -196,7 +198,7 @@ Attempts to regulate Sea Rat activity have consistently failed.
 
 ---
 
-## **X. Inter-Regional Influence**
+## X. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -208,7 +210,7 @@ Attempts to regulate Sea Rat activity have consistently failed.
 
 ---
 
-## **XI. Cultural Identity & Legacy**
+## XI. Cultural Identity & Legacy
 
 Castaway Point is not a destination.  
 It is an answer.
@@ -219,7 +221,7 @@ To the question of whether survival obligates kindness, the city answers without
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Coastal Settlements)**  

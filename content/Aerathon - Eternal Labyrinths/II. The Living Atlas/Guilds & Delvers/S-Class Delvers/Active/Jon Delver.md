@@ -1,6 +1,8 @@
 > *“I’m just here to do the job.”*
 
-___
+---
+
+# Jon Delver
 
 ### _S-Class Operations Technician_
 
@@ -12,7 +14,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Jon Delver**—legally recorded as **“Jonathan A. Delver”** on all Ministry paperwork—stands as the single most **unremarkable, unstoppable, and bureaucratically compliant** S-Class delver in Aerathon.
 
@@ -39,7 +41,7 @@ and one of the most **consistently effective**.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** S-Class Operations Tech, **Free Company of Louvain**; seconded to **MDO — Arcane Breach (Safety Office)**
     
@@ -52,7 +54,7 @@ and one of the most **consistently effective**.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Do the Work, As Written**
     
@@ -63,9 +65,9 @@ and one of the most **consistently effective**.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Eight-Hour Clear of the Nameless Annex**
+### 1. The Eight-Hour Clear of the Nameless Annex
 
 The notoriously shifting Annex straightened into a uniform loop under Jon’s steady pace.  
 He clocked in at **07:55**, labeled all hazards with chalk, escorted civilians out in single file, and clocked out at **16:01**.
@@ -74,12 +76,12 @@ Final report:
 
 > _“Nothing unusual to note.”_
 
-### **2. The Compliance of the Basilisk Foundry**
+### 2. The Compliance of the Basilisk Foundry
 
 A petrification-plagued forge resumed production after Jon posted a **laminated ‘Eye Protection Required’ sign**, handed out smoked goggles, and read the manual **aloud**.  
 The basilisks queued. They followed angles. Output met quota by Thursday.
 
-### **3. The Quieting of the Wanehollow Stair**
+### 3. The Quieting of the Wanehollow Stair
 
 A despair-eating haunted stairwell repainted itself in Ministry yellow once Jon opened a tin of approved color.  
 Risers brightened. Moans softened to OSHA hum.  
@@ -88,14 +90,14 @@ Jon swept the landings.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Hi-Vis Tabard of Ordinary Authority**
+### Hi-Vis Tabard of Ordinary Authority
 
 A reflective vest embroidered “Operations.”  
 Hostile entities must succeed on a Wisdom save or obey a **reasonable, safe instruction** (_“Step behind the line,” “Single file,” “No running”_).
 
-### **Punchcard of Adherence**
+### Punchcard of Adherence
 
 A brass-edged timecard that **stamps reality** into compliance.  
 When Jon “punches in,” nearby hazards seek **posted procedure**:
@@ -107,7 +109,7 @@ When Jon “punches in,” nearby hazards seek **posted procedure**:
 - doors spontaneously locate hinges
     
 
-### **Thermos of Lukewarm**
+### Thermos of Lukewarm
 
 A battered metal thermos of perpetually tepid tea.  
 Drinking grants:
@@ -118,7 +120,7 @@ Drinking grants:
     Thermos refills itself on first break.
     
 
-### **Tape of the True Line**
+### Tape of the True Line
 
 A chalk-line reel and tape measure.  
 Snapping it creates a **30-foot safe lane** that suppresses:
@@ -135,7 +137,7 @@ Supervisors find it **delightful**.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 6 (all with **zero civilian fatalities**)
     
@@ -148,7 +150,7 @@ Supervisors find it **delightful**.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“We’ll do this in order.”_  
 — Entering a panic-filled atrium
@@ -161,7 +163,7 @@ _“Break in ten. Hydrate.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - The **Baseline Conformance Field** peaks at **08:00, 12:00, and 16:00**, during which bosses may lose legendary actions if they violate posted safety.
     
@@ -174,7 +176,7 @@ _“Break in ten. Hydrate.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Safety & Infrastructure Oversight)**  

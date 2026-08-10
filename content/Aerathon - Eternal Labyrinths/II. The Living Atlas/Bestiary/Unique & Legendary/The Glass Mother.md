@@ -3,7 +3,7 @@
 
 ---
 
-# **The Glass Mother**
+# The Glass Mother
 
 ### _Matriarch of Reflections, Cradle of Shards — “The First Mirror That Learned to Hunger.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Glass Mother** is the primordial origin of all reflective aberrations—Mirrorfiends, Shatterborn mimics, Echo Slivers, and even the dreaming remnants of the extinct Glassfolk.  
 Her existence predates recorded history and likely predates **the first polished surface ever created by mortal hands**.
@@ -32,7 +32,7 @@ The Ministry classifies her as **Type-LMG / Legendary Reflective Matriarch**, a 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 The Glass Mother has no single form, but when she chooses to manifest physically, reports align:
 
@@ -51,7 +51,7 @@ When she speaks, reflections tremble across miles of surface.
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Glass Mother behaves according to **reflective logic**, not mortal instinct.
 
@@ -76,7 +76,7 @@ The Glass Mother behaves according to **reflective logic**, not mortal instinct.
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 She is omnipresent in any surface that reflects. Manifestations concentrate in:
 
@@ -108,7 +108,7 @@ She only physically manifests when:
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Her presence disrupts teleportation and scrying spells, bending them into reflective loops.
     
@@ -127,7 +127,7 @@ She only physically manifests when:
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -154,7 +154,7 @@ Her touch induces:
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -165,7 +165,7 @@ All artifacts are stored in Vault #209 (Louvain — High Threat Optical Annex), 
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level VI — Legendary Apex Reflective Entity
     
@@ -181,7 +181,7 @@ All artifacts are stored in Vault #209 (Louvain — High Threat Optical Annex), 
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Old Oria Myths:** Call her “The Mother of Faces,” claiming she birthed the first vanity and the first lie.
     
@@ -198,7 +198,7 @@ All artifacts are stored in Vault #209 (Louvain — High Threat Optical Annex), 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Glass Mother** is the living principle of reflection, the matriarch of mirrorborn monsters, and a catastrophic apex entity whose presence fractures identity, memory, and reality.  
 She is beautiful, terrifying, ancient, and heartbreakingly incomplete — forever searching in her children’s eyes for a reflection that tells her who she once was.
@@ -211,7 +211,7 @@ She is a **question**, and the world does not want to hear the answer:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Legendary Monsters & Apex Threats Archive)**  

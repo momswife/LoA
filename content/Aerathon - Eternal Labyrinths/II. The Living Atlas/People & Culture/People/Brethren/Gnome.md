@@ -187,17 +187,39 @@ Ask which shortened form is welcome.
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Gnome ancestry traits for creature type, size, speed, magical resilience, and other core features.
+### Creature Type
 
-The Heritage Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
 
-None of these traits requires a Gnome to be an inventor or spellcaster.
+### Ability Score Increase
+
+Your Intelligence score increases by 2.
+
+### Size
+
+Your size is Small.
+
+### Speed
+
+Your walking speed is 25 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Gnome ancestry traits for magical resilience and other core features.
 
 ---
 
-## X. Heritage Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Gnome sublineages are currently documented. Do not assume that a Gnome’s talents, profession, or homeland describe an inherited lineage.
+
+Regional upbringing is represented by the Homeland Imprints below. None of these imprints requires a Gnome to be an inventor or spellcaster.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Paradox-Solver
 
@@ -221,7 +243,7 @@ You can breathe underwater for up to 10 minutes at a time. Additionally, you ign
 
 ---
 
-## XI. Playing a Gnome
+## XII. Playing a Gnome
 
 Consider:
 
@@ -242,7 +264,7 @@ Curiosity may be quiet.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Gnomish lineage does not indicate technical competence, magical immunity, emotional cheerfulness, willingness to experiment, or consent to handle unstable materials.

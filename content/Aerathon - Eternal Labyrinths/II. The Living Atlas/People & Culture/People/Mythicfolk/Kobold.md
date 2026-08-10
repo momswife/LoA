@@ -259,7 +259,7 @@ This bonus represents emergent problem-solving rather than communication; the Ko
 
 ---
 
-## X. Environmental Adaptations
+## X. Recognized Sublineages and Adaptations
 
 Named Kobolds do not possess conventional regional sublineages. Select one of the following adaptations with DM approval.
 
@@ -283,7 +283,13 @@ A named Kobold may select one regional trait from any other Beastfolk species, r
 
 ---
 
-## XI. Playing a Named Kobold
+## XI. Homeland Imprints
+
+Named Kobolds do not have separate Kobold Homeland Imprints in the current rules. A character who selects **Adopted Origin** uses the chosen regional trait as their homeland benefit; the choice represents social adoption rather than ancestry.
+
+---
+
+## XII. Playing a Named Kobold
 
 Consider:
 
@@ -304,7 +310,7 @@ Personhood is not a performance bonus.
 
 ---
 
-## XII. Ministry and Table Advisory
+## XIII. Ministry and Table Advisory
 
 > [!warning] Emergent Sapience Advisory  
 > Named Kobold characters require agreement about emergence, warren relationships, public recognition, Stackable Intellect, and the campaign’s answer—or deliberate lack of answer—to wider Kobold sapience.

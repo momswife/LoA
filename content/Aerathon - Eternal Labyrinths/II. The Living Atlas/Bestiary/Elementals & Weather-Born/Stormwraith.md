@@ -4,7 +4,7 @@
 
 ---
 
-# **Stormwraith**
+# Stormwraith
 
 ### _Echoes of the Tempestrise — “When the Wind Learns Your Name.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Stormwraith** is an electrical revenant formed from the union of thunder magic and lost souls struck down amid violent tempests.  
 They manifest within the cloud-belts of **Tempestrise**, above the **Betemere Peaks**, and across open seas during leyline electrical surges.  
@@ -29,7 +29,7 @@ Pilots and delvers call them _“Thunderborn,”_ though sailors prefer _“The 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -43,7 +43,7 @@ Within the core flicker faint skeletal shapes — not bone, but flash-burn silho
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Stormwraiths are **neither malicious nor benign** — they are drawn to strong emotion, repeating gestures from their final moments.  
 Common displays include arms outstretched toward the sky, kneeling mid-air, or circling flocks of birds like escorts.
@@ -63,7 +63,7 @@ Common displays include arms outstretched toward the sky, kneeling mid-air, or c
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Most frequent during:
 
@@ -78,7 +78,7 @@ During calm years, residual Stormwraiths linger as faint ball lightning, often m
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Inspector Vell’s resonance logs show each Wraith carries a distinct harmonic pattern — matching the heartbeat of its former body at death.  
 This rhythm, called the **Thunder Pulse**, can be mirrored to pacify or communicate with them.  
@@ -89,7 +89,7 @@ Containment priority upgraded to _Grade-III Live Hazard._
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -103,7 +103,7 @@ Containment priority upgraded to _Grade-III Live Hazard._
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -114,7 +114,7 @@ All artifacts secured in Vault #87, Louvain Branch — dual seal Korrin / Vell.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level III — Mobile Atmospheric Entity / Cognitive Hazard.
     
@@ -129,7 +129,7 @@ All artifacts secured in Vault #87, Louvain Branch — dual seal Korrin / Vell.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Beastfolk Seafarers:** Leave bronze bells unbound on masts so the dead can “ring their way home.”
     
@@ -144,7 +144,7 @@ All artifacts secured in Vault #87, Louvain Branch — dual seal Korrin / Vell.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Stormwraith** is the will of the tempest given echo — a ghost made of weather, mourning its own thunder.  
 They are the elegies of fallen sky-walkers, the breath between bolt and silence.  
@@ -152,7 +152,7 @@ To see one is to glimpse the moment when nature’s rage becomes remembrance, an
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Elemental & Atmospheric Phenomena Studies)**  

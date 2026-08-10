@@ -1,3 +1,5 @@
+# Tulivuori
+
 ### _Volcanic Holdfast of the Oric Plains_
 
 **Region:** **Oria**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Tulivuori** stands where no mountain should.
 
@@ -19,7 +21,7 @@ Maximus is said to remain within a fortress built into the caldera. Whether he r
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Tulivuori is built in concentric rings around danger.
 
@@ -36,7 +38,7 @@ The ground is warm year-round. Ashfall is routine. Locals plan for eruptions the
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Tulivuori survives through fire-bound industry.
 
@@ -53,7 +55,7 @@ Work here is dangerous but lucrative. Oric Houses tolerate Tulivuori because its
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Tulivuori has no House and no formal lord.
 
@@ -70,7 +72,7 @@ Any claim of ruling Tulivuori is treated as foolish.
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 No Labyrinth manifestation is acknowledged within Tulivuori.
 
@@ -80,7 +82,7 @@ The Quiet Edict is followed strictly here. Some things are not discussed near op
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Tulivuori’s people are blunt, pragmatic, and accustomed to heat and loss.
 
@@ -97,7 +99,7 @@ Most residents keep packed kits ready at all times.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Stories told about Tulivuori include:
 

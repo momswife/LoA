@@ -1,6 +1,8 @@
 > *“Hypothesis: The Labyrinth isn’t just a puzzle—it’s a peer review process.”*
 
-___
+---
+# Fondo Fizzlefield
+
 ### _S-Class Arcanomechanist_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Arcano-Mechanical Oversight Bureau)  
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Fondo Fizzlefield**, the gnomish prodigy whose ideas oscillate between **revolutionary breakthroughs** and **potential war crimes**, is one of Aerathon’s most infamous S-Class delvers. Formerly the Chair of Arcano-Mechanics at **Velgrave University**, Fondo transitioned from the classroom to the Labyrinths after discovering the shattered remains of a legendary shield golem—**Aegis-77**.
 
@@ -28,7 +30,7 @@ He is beloved by students, feared by architects, and begrudgingly tolerated by t
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Field Tenure at **Velgrave University**; honorary research contract with **The Free Company of Louvain**
     
@@ -41,7 +43,7 @@ He is beloved by students, feared by architects, and begrudgingly tolerated by t
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **If You Can’t Explain It, Cast It Anyway** — Nature rewards the bold and detonated
     
@@ -52,9 +54,9 @@ He is beloved by students, feared by architects, and begrudgingly tolerated by t
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Reconstruction of Aegis-77**
+### 1. The Reconstruction of Aegis-77
 
 Recovered from a collapsed pre-Runic vault, the golem was reassembled using:
 
@@ -75,28 +77,28 @@ Aegis-77 now withstands:
     Fondo claims the cauldron “greatly improved acoustic resonance.”
     
 
-### **2. The Twelve-Floor Labyrinth Thesis**
+### 2. The Twelve-Floor Labyrinth Thesis
 
 Fondo mapped and analyzed a drifting labyrinth **while delving through it**, producing a 312-page annotated cartographic thesis.  
 The Ministry accepted it as his S-Class certification exam.  
 The exam format was discontinued shortly afterward.
 
-### **3. The Symmetry Singularity at Breakreach**
+### 3. The Symmetry Singularity at Breakreach
 
 Amid structural collapse, Fondo created a self-devouring spatial fold by chanting vector equations in harmonic sync with Aegis-77’s core.  
 The collapse imploded harmlessly.  
 Fondo immediately passed out on a leyline node and slept for nine hours.
 
-### **4. The Aegis Rebellion (Unofficial)**
+### 4. The Aegis Rebellion (Unofficial)
 
 On one delve, Aegis-77 independently rescued a child from a breach. Fondo claimed it was a “moral subroutine error.”  
 Ministry observers classified it as “admirable but concerning.”
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Aegis-77 (“The Thesis Golem”)**
+### Aegis-77 (“The Thesis Golem”)
 
 A four-ton, rune-etched guardian construct.  
 **Capabilities:**
@@ -111,7 +113,7 @@ A four-ton, rune-etched guardian construct.
     Refers to Fondo as “**Tiny Professor**.” Meaning unknown.
     
 
-### **Scarf of Eternal Annotation**
+### Scarf of Eternal Annotation
 
 A self-writing scarf woven with sentient ink. Records:
 
@@ -122,19 +124,19 @@ A self-writing scarf woven with sentient ink. Records:
 - Fondo’s mutterings (incl. recipes & personal poetry)
     
 
-### **Wand of Retroactive Accuracy**
+### Wand of Retroactive Accuracy
 
 When Fondo _intends_ a spell to work correctly, this wand slightly rewrites the moment after casting.  
 Not perfect. Does reduce casualties. Mostly his.
 
-### **Pocket Gimbal Lab**
+### Pocket Gimbal Lab
 
 A fold-out workshop sphere strapped to his back.  
 Contains: tools, lenses, spare runes, and three backup dissertations.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 7 S-Rank; 12 structural salvage operations; 3 academic duels
     
@@ -147,7 +149,7 @@ Contains: tools, lenses, spare runes, and three backup dissertations.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“According to my calculations—oh no, that’s definitely unstable.”_  
 _“Aegis, posture Omega. I’d like to try yelling at it first.”_  
@@ -155,7 +157,7 @@ _“No, I didn’t summon that intentionally. But yes—very impressive.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - His spellbook is also his cookbook. Possibly in the wrong order.
     
@@ -170,7 +172,7 @@ _“No, I didn’t summon that intentionally. But yes—very impressive.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Arcano-Mechanical Oversight Bureau)**  

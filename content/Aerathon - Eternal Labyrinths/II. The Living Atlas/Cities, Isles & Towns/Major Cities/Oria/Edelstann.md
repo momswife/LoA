@@ -1,3 +1,5 @@
+# Edelstann
+
 ### _The Diamondgale Gate — “We Held. The World Came After.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Port Cities & Post-War Economies)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Edelstann** is a fortified port city of **Oria**, positioned at the volatile border between the **Tiger Sea** and the **First Sea**. Once a desperate bulwark during the **Mantle War**, it has since transformed into a booming maritime hub and the eastern anchor of the **Diamondgale Shipping Lane**.
 
@@ -24,11 +26,11 @@ To some veterans, it is a wound covered in gold.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Edelstann’s harbor opens into a natural bowl protected by jagged coastal stone and reinforced sea walls.
 
-### **The Lodge House**
+### The Lodge House
 
 At the city’s heart stands the **Great Lodge**, a massive elk-built structure of timber and stone:
 
@@ -39,7 +41,7 @@ At the city’s heart stands the **Great Lodge**, a massive elk-built structure 
 - Upper balconies overlook both harbor and city
     
 
-### **The Expanding Port**
+### The Expanding Port
 
 Warehouses, dry docks, and counting houses press outward each year:
 
@@ -54,7 +56,7 @@ Architecture is layered—old war-stone at the base, new gold-trimmed trade hall
 
 ---
 
-## **III. History**
+## III. History
 
 Edelstann’s name entered history during fire.
 
@@ -64,7 +66,7 @@ The resulting battle was swift, brutal, and final. Edelstann became the site of 
 
 In the century since, victory hardened into legend, and legend into identity. Trade followed peace. Peace followed profit.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **3071 A.D.** — **Battle of Edelstann**, the Vanlig Union repels Allemagnian invasion.
     
@@ -79,7 +81,7 @@ Edelstann won the war—then learned to survive peace.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Edelstann is governed by **House Edelstann**, an Oric lodge-house whose leadership is held by the **Vanlig family**, descendants of the batkos who united the region during the Mantle War.
 
@@ -96,7 +98,7 @@ House Edelstann governs through **recognized merit and historic trust**, not inh
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Edelstann’s economy surges year by year.
 
@@ -124,7 +126,7 @@ Gold flows in faster than memory can keep pace.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Edelstann’s culture is split between **reverence and ambition**.
 
@@ -141,7 +143,7 @@ Some elder elk warn that monuments to Oric heroes are being **buried beneath war
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Edelstann maintains strong but selective defenses.
 
@@ -156,7 +158,7 @@ Veterans still train the watch—but fewer each year.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Edelstann keeps the Labyrinths at arm’s length.
 
@@ -171,7 +173,7 @@ The city prefers dangers that arrive by sea.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -185,7 +187,7 @@ Edelstann influences Aerathon by controlling **how Oria meets the wider world**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Edelstann stands on a contradiction.
 
@@ -196,7 +198,7 @@ It is a city born of unity that now tests how much unity wealth can buy. Its peo
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Old soldiers refuse dockside discounts
     
@@ -209,7 +211,7 @@ It is a city born of unity that now tests how much unity wealth can buy. Its peo
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Port Cities & Post-War Economies)**  

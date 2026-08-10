@@ -3,7 +3,7 @@
 
 ---
 
-# **Cognivore Leech**
+# Cognivore Leech
 
 ### _Parasite of Thought — “Where Memory Goes to Die.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Cognivore Leech** is an aberrant organism found in damp ruins, flooded labyrinth sections, and relic waste channels surrounding **Monster Meadows**, **Porta Strega**, and **The Verges of Ash**.  
 Unlike natural leeches, the Cognivore consumes **neural resonance** — the electrical and mnemonic impulses produced by sentient thought.
@@ -26,7 +26,7 @@ Survivors of infestation describe the sensation as _“forgetting how to scream 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Cognivore Leeches are semi-translucent organisms approximately **18–30 cm** long, composed of gelatinous tissue streaked with faintly luminescent filaments that pulse in rhythm with nearby neural activity.
 
@@ -41,13 +41,13 @@ The “head” terminates in a ring of retractable cilia tipped with **thaumic r
 
 ---
 
-## **III. Behavior & Feeding**
+## III. Behavior & Feeding
 
 The Cognivore does not draw blood. Instead, it latches to the aura of a conscious being, feeding upon short-term memory and residual cognition.  
 Victims appear confused, mumbling the same phrase repeatedly until collapse.  
 Complete feeding renders a victim catatonic, memoryless, or occasionally _re-written_, their mind replaced by echoes of previous prey.
 
-### **Feeding Cycle**
+### Feeding Cycle
 
 1. **Scent Stage:** Detects active thought within 30 ft; attracted to panic or prayer.
     
@@ -62,14 +62,14 @@ Colonies form “Memory Pools,” where multiple leeches fuse into mats that hum
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Primary sightings occur along abandoned delver tunnels, sealed libraries, or relic vaults where **information** once concentrated — suggesting attraction to places of dense knowledge rather than life.  
 Temperature and humidity appear secondary to mental proximity; Cognivores have been found inside sealed helmets and forgotten diaries alike.
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin’s breach logs record three containment casualties due to **sympathetic resonance**, where nearby inspectors lost partial procedural recall despite physical distance.  
 Spectral analysis reveals they feed on **mnemonic frequency**, not organic matter.
@@ -80,7 +80,7 @@ MDO containment uses **copper-lined jars filled with distilled ignorance** — w
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -92,7 +92,7 @@ MDO containment uses **copper-lined jars filled with distilled ignorance** — w
 
 ---
 
-## **VII. Symptoms of Exposure**
+## VII. Symptoms of Exposure
 
 - Repetition of personal names, dates, or guild ranks.
     
@@ -107,7 +107,7 @@ Antidotal treatment via _Tincture of Echo-Sap_ restores partial recollection wit
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -118,7 +118,7 @@ Artifacts stored in Vault #77, Louvain Branch, triple seal Vell / Korrin / Rook-
 
 ---
 
-## **IX. Containment & Risk Assessment**
+## IX. Containment & Risk Assessment
 
 - **Classification:** Level III — Cognitive Hazard / Memetic Contaminant.
     
@@ -135,14 +135,14 @@ Artifacts stored in Vault #77, Louvain Branch, triple seal Vell / Korrin / Rook-
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Cognivore Leech** is not the eater of minds, but of the spaces between them — the pauses where identity breathes.  
 It feeds on thought like fungus on damp parchment, and in its wake, the world becomes simpler, quieter, and infinitely more forgetful.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)**  

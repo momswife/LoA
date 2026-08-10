@@ -4,9 +4,9 @@
 
 ---
 
-# **Labyrinth Cartography**
+# Labyrinth Cartography
 
-### **Annals & Antiquities Division — Geomantic Survey Office**
+### Annals & Antiquities Division — Geomantic Survey Office
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Geomantic Survey Office)_  
 **Primary Compiler:** Chronicler Ione Aurel (Expert in Political Transitions & Ruins Documentation)  
@@ -43,21 +43,21 @@ It remains essential for:
 
 ---
 
-# **I. Principles of Labyrinth Cartography**
+## I. Principles of Labyrinth Cartography
 
-## **1. “No Map Is Final.”**
+### 1. “No Map Is Final.”
 
 A map is a moment, not a truth.
 
-## **2. “Stone Remembers Path, Not Place.”**
+### 2. “Stone Remembers Path, Not Place.”
 
 Labyrinths repeat **patterns**, not locations.
 
-## **3. “Every Floor Has a Heart.”**
+### 3. “Every Floor Has a Heart.”
 
 This “heart” may be hostile—or unexpectedly nurturing.
 
-## **4. “Not All Anomalies Are Malign.”**
+### 4. “Not All Anomalies Are Malign.”
 
 Some anomalies appear to **protect**, **feed**, or **shelter** delvers.  
 These include:
@@ -75,18 +75,18 @@ These include:
 
 Their existence remains unexplained.
 
-## **5. “Doors Lie, Walls Tell Truth.”**
+### 5. “Doors Lie, Walls Tell Truth.”
 
 Doors move.  
 Sequence-stones do not.
 
 ---
 
-# **II. Tools of the Ministerial Cartographer**
+## II. Tools of the Ministerial Cartographer
 
 ---
 
-## **1. Echo-Quills**
+### 1. Echo-Quills
 
 Rune-tipped quills that record:
 
@@ -103,7 +103,7 @@ Results transfer to a Ministerial map the moment the quill lifts.
 
 ---
 
-## **2. Sequence Stones**
+### 2. Sequence Stones
 
 Palm-sized stones that:
 
@@ -118,7 +118,7 @@ Essential for avoiding recursive traps.
 
 ---
 
-## **3. Arcanet Anchors**
+### 3. Arcanet Anchors
 
 Deployed by certified scrywrights to:
 
@@ -131,7 +131,7 @@ Deployed by certified scrywrights to:
 
 ---
 
-## **4. Cartographer’s Lanterns**
+### 4. Cartographer’s Lanterns
 
 Project spectral overlays showing:
 
@@ -146,7 +146,7 @@ Lanterns are fragile and prone to overloading inside curse blooms.
 
 ---
 
-## **5. Memory Infused Parchment**
+### 5. Memory Infused Parchment
 
 Self-correcting parchment that resolves:
 
@@ -161,11 +161,11 @@ Used to create “living maps.”
 
 ---
 
-# **III. Labyrinth Mapping Methods**
+## III. Labyrinth Mapping Methods
 
 ---
 
-## **1. Resonance Mapping**
+### 1. Resonance Mapping
 
 Mapping through magical vibration patterns recorded by:
 
@@ -180,7 +180,7 @@ Extremely accurate but requires stable hazard conditions.
 
 ---
 
-## **2. Path-Sequence Mapping**
+### 2. Path-Sequence Mapping
 
 Cartographers track:
 
@@ -197,7 +197,7 @@ Mapping the _experience_ of movement, not the geometry.
 
 ---
 
-## **3. Layered Temporal Mapping**
+### 3. Layered Temporal Mapping
 
 Used for:
 
@@ -212,7 +212,7 @@ This method uses synchronized Oculi feeds to reconstruct multi-temporal paths.
 
 ---
 
-## **4. Astral Projection Mapping**
+### 4. Astral Projection Mapping
 
 High-risk technique requiring trained soul-projection specialists.  
 Useful for:
@@ -228,9 +228,9 @@ Not permitted without an MDO permit (§7-F).
 
 ---
 
-# **IV. Benevolent Anomalies & Habitable Floors**
+## IV. Benevolent Anomalies & Habitable Floors
 
-### _Ministerial Recognition of Non-Hostile Structural Deviations_
+#### _Ministerial Recognition of Non-Hostile Structural Deviations_
 
 Recent surveys indicate the presence of what appear to be **“designed havens”**—locations that cannot be explained by random Labyrinth drift.
 
@@ -238,7 +238,7 @@ These include:
 
 ---
 
-## **1. Resting Rooms (Class-R Sanctuaries)**
+### 1. Resting Rooms (Class-R Sanctuaries)
 
 Rooms that consistently contain:
 
@@ -259,7 +259,7 @@ Such stability is unheard of in purely hostile constructions.
 
 ---
 
-## **2. Long-Term Habitable Floors (Class-H Floors)**
+### 2. Long-Term Habitable Floors (Class-H Floors)
 
 Rare floors displaying:
 
@@ -282,7 +282,7 @@ The Ministry has recorded delvers living inside for **up to six months** without
 
 ---
 
-## **3. Benevolent Infrastructure Anomalies**
+### 3. Benevolent Infrastructure Anomalies
 
 Examples include:
 
@@ -301,7 +301,7 @@ These anomalies appear **intentionally constructed**, though by whom—or for wh
 
 ---
 
-## **4. Behavioral Shifts in Monster Populations**
+### 4. Behavioral Shifts in Monster Populations
 
 In habitable floors:
 
@@ -316,7 +316,7 @@ Some cartographers believe these areas reflect the **Labyrinth’s dormant state
 
 ---
 
-## **5. Ministerial Interpretation**
+### 5. Ministerial Interpretation
 
 Three theories dominate:
 
@@ -331,29 +331,22 @@ No theory is officially endorsed.
 
 ---
 
-# **V. Labyrinth Map Classifications**
+## V. Labyrinth Map Classifications
 
 (updated to include benevolent floors)
 
-### **Class-A Maps — Stable Floor Maps**
-
-### **Class-B Maps — Semi-Stable Rotations**
-
-### **Class-C Maps — High-Shift Environments**
-
-### **Class-D Maps — Collapse-Prone Zones**
-
-### **Class-E Maps — Forbidden or Lost Floors**
-
-### **Class-H Maps — Habitable Floors (Benevolent Anomalies)**
-
-### **Class-N Maps — Convergence-Critical**
-
-### **Class-R Maps — Resting Sanctuaries**
+- **Class-A Maps:** Stable Floor Maps
+- **Class-B Maps:** Semi-Stable Rotations
+- **Class-C Maps:** High-Shift Environments
+- **Class-D Maps:** Collapse-Prone Zones
+- **Class-E Maps:** Forbidden or Lost Floors
+- **Class-H Maps:** Habitable Floors (Benevolent Anomalies)
+- **Class-N Maps:** Convergence-Critical
+- **Class-R Maps:** Resting Sanctuaries
 
 ---
 
-# **VI. Ethical Cartography Regulations**
+## VI. Ethical Cartography Regulations
 
 Cartographers must not:
 
@@ -374,7 +367,7 @@ Forgery of a Labyrinth map is considered **Spectacle Fraud** and **Operational D
 
 ---
 
-# **VII. The Role of Divine Oculi in Cartography**
+## VII. The Role of Divine Oculi in Cartography
 
 Higher class Divine Oculi provide:
 
@@ -393,11 +386,11 @@ Oculi react _differently_ to Habitable Floors; their lens runes dim rather than 
 
 ---
 
-# **VIII. N-Class Team Exception Protocols**
+## VIII. N-Class Team Exception Protocols
 
 N-Class teams (e.g., **Unit N-7**) interact uniquely with Labyrinth geography due to their Convergence relevance.
 
-### **1. Path Predictive Boost**
+#### 1. Path Predictive Boost
 
 Oculi analyzing N-Class teams produce:
 
@@ -406,7 +399,7 @@ Oculi analyzing N-Class teams produce:
 - Early path deviation alerts
     
 
-### **2. Convergence-Triggered Map Shifts**
+#### 2. Convergence-Triggered Map Shifts
 
 Labyrinths may:
 
@@ -419,7 +412,7 @@ Labyrinths may:
 
 whenever N-Class delvers are present.
 
-### **3. Restricted Access to Class-N Maps**
+#### 3. Restricted Access to Class-N Maps
 
 These maps are:
 
@@ -432,7 +425,7 @@ These maps are:
 
 Only N-Class teams may view them.
 
-### **4. Temporal Stability Enhancement**
+#### 4. Temporal Stability Enhancement
 
 N-Class resonance reduces:
 
@@ -445,13 +438,13 @@ N-Class resonance reduces:
 
 around them—though increases Convergence anomalies.
 
-### **5. Auto-Archive Recording**
+#### 5. Auto-Archive Recording
 
 All N-Class map data is permanently preserved and cannot be redacted.
 
 ---
 
-# **IX. Why Labyrinth Cartography Matters**
+## IX. Why Labyrinth Cartography Matters
 
 With benevolent anomalies now officially documented:
 
@@ -474,7 +467,7 @@ but also teaches gratitude for the rare places where stone **cares back**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities Division (Geomantic Survey Office)**  

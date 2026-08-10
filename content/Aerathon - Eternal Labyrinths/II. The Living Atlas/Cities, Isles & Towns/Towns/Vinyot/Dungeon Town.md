@@ -1,3 +1,5 @@
+# Dungeon Town
+
 ### _Expedition Settlement Above the Ever-Present Labyrinth_
 
 **Region:** **Vinyot**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Dungeon Town** is a name of convenience, not a chartered settlement. It exists because **the Labyrinth beneath it never leaves**.
 
@@ -20,7 +22,7 @@ Dungeon Town attracts delvers, scholars, merchants, and spectators in equal meas
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 The town is built **around avoidance**, not permanence.
 
@@ -37,7 +39,7 @@ Below it all, the Labyrinth twists unpredictably—architecture, environments, a
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Dungeon Town survives on **proximity to danger**.
 
@@ -56,7 +58,7 @@ Coin flows quickly and disappears faster. Many arrive planning a short stay and 
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Dungeon Town has **no single ruler**.
 
@@ -77,7 +79,7 @@ Order exists only so long as everyone agrees it is cheaper than chaos.
 
 ---
 
-## **V. Labyrinth Pressure (Persistent)**
+## V. Labyrinth Pressure (Persistent)
 
 The Labyrinth beneath Dungeon Town is **always active**.
 
@@ -98,7 +100,7 @@ The Quiet Edict is **selectively enforced** here—managed, not obeyed.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Dungeon Town is loud, restless, and tense.
 
@@ -117,7 +119,7 @@ Not everyone treats the site lightly.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Stories circulating through Dungeon Town include:
 

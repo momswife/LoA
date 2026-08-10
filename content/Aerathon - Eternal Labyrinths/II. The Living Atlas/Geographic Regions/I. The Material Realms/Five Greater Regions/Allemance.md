@@ -1,3 +1,5 @@
+# Allemance
+
 ### _The Hearthlands of Fellowship — “Where Flame Begets Family.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Allemance** is the cultural hearth of Aerathon—a nation defined not by conquest or spectacle, but by **continuity**. Roads here are older than most crowns. Songs outlast dynasties. Bread is treated with the same reverence elsewhere reserved for relics.
 
@@ -23,15 +25,15 @@ Though many nations boast capitals, **Louvain** stands as Allemance’s undisput
 
 ---
 
-## **II. Geography & Sub-Regions**
+## II. Geography & Sub-Regions
 
 Allemance occupies Aerathon’s central plains, blessed with forgiving soil, navigable rivers, and long-settled roads.
 
-### **Core Hearthlands**
+### Core Hearthlands
 
 Rolling farmland, river valleys, and trade roads form the political and agricultural heart of the nation. Most population density and civic infrastructure lies here.
 
-### **Glasrún — The Greenwood Without Lords**
+### Glasrún — The Greenwood Without Lords
 
 To the northeast lies **Glasrún**, a vast old-growth forest region formally claimed by Allemance yet **deliberately left unruled** under the ancient **Glasrún Pact**. No noble levies cross its southern boundary, and no permanent Ministry authority is enforced within its depths.
 
@@ -41,7 +43,7 @@ Glasrún is not lawless—it is **unchartered**, governed by memory, custom, and
 
 ---
 
-## **III. History & Founding**
+## III. History & Founding
 
 Allemance emerged from the **First Concord**, when post-Collapse survivors chose cooperation over domination. Rather than building walls, they built **hearth-circles**—shared halls where food, stories, and decisions were exchanged openly.
 
@@ -58,11 +60,11 @@ Allemance did not expand by the sword. It expanded by becoming **indispensable**
 
 ---
 
-## **IV. People & Cultural Identity**
+## IV. People & Cultural Identity
 
 Allemance is ethnically diverse, culturally unified.
 
-### **Common Traits**
+### Common Traits
 
 - **Hospitality as Law:** Denying shelter is a civic offense in many regions
     
@@ -75,7 +77,7 @@ To be “Allemancer-born” is widely understood to mean **trustworthy**.
 
 ---
 
-## **V. Government & Civic Structure**
+## V. Government & Civic Structure
 
 Allemance is governed through layered consensus:
 
@@ -90,19 +92,19 @@ Major decisions are debated publicly and ratified only after ritual feasting—b
 
 ---
 
-## **VI. Included Cities of Allemance**
+## VI. Included Cities of Allemance
 
 At present, the following cities are formally indexed within this national entry:
 
-### **Baritte**
+### Baritte
 
 A hardened civic city on the edge of Glasrún’s influence, Baritte functions as a **logistical and defensive anchor** between the Hearthlands and the Greenwood. Its people are known for endurance, labor discipline, and deep suspicion of empty authority.
 
-### **Riverbed City**
+### Riverbed City
 
 Situated along a major river artery, Riverbed City serves as Allemance’s **circulatory hub**—where grain, people, and information flow outward. Its markets feed both countryside and capital, and its docks are rarely quiet.
 
-### **Sourisport**
+### Sourisport
 
 A coastal trade port defined by resilience rather than glamour. Sourisport connects Allemance to maritime routes while retaining a distinctly Allemantic character: practical, communal, and stubbornly independent.
 
@@ -110,7 +112,7 @@ A coastal trade port defined by resilience rather than glamour. Sourisport conne
 
 ---
 
-## **VII. Economy & Trade**
+## VII. Economy & Trade
 
 Allemance exports stability.
 
@@ -136,7 +138,7 @@ Coinage is respected, but **reputation and obligation** often matter more.
 
 ---
 
-## **VIII. Faith & Belief**
+## VIII. Faith & Belief
 
 Religion in Allemance is **welcoming, not domineering**.
 
@@ -146,7 +148,7 @@ The **Table Oath**—never to betray those you have shared bread with—is consi
 
 ---
 
-## **IX. Delving Culture**
+## IX. Delving Culture
 
 Allemance treats delving as **responsibility before glory**.
 
@@ -161,7 +163,7 @@ The Ministry’s largest orientation and archival facilities operate here, ensur
 
 ---
 
-## **X. Relations with Other Regions**
+## X. Relations with Other Regions
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -173,7 +175,7 @@ The Ministry’s largest orientation and archival facilities operate here, ensur
 
 ---
 
-## **XI. National Legacy**
+## XI. National Legacy
 
 Allemance does not shine the brightest.  
 It burns the longest.
@@ -184,7 +186,7 @@ When empires fracture and storms reshape the coast, it is Allemance that remembe
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

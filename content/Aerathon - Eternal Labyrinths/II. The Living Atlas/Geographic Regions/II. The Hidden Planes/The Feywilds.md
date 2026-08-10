@@ -1,6 +1,6 @@
 >_“The Feywilds are what happens when the world decides to keep dreaming after dawn.”_  
 — **Keeper Aeska Mourn-Wind**, _Verdure Without Mercy_
-# **The Feywilds**
+# The Feywilds
 
 ### _The Fourth Realm — “Where Memory Blossoms Faster Than It Can Die.”_
 
@@ -12,7 +12,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Feywilds** are the **echo of nature uncontained** — a parallel bloom of the Material Plane where emotion grows roots, and thought becomes flora.  
 It mirrors Aerathon imperfectly: every forest too green, every emotion too sharp, every sound too alive.
@@ -27,7 +27,7 @@ Each tree, stream, and star here is aware — not sentient in the human sense, b
 
 ---
 
-## **II. Origins & Nature**
+## II. Origins & Nature
 
 Ministry scholars theorize the Feywilds were **born from the Dreaming’s overflow**, a “second harvest” of imagination that found physical form.  
 Where the Dreaming thrives on concept, the Feywilds thrive on _continuity_ — nothing ever truly dies here.  
@@ -37,7 +37,7 @@ The first delvers to enter described it as _“beauty with teeth.”_
 
 ---
 
-## **III. Geography & Phenomena**
+## III. Geography & Phenomena
 
 - **The Canopy of Echoes:** Forests whose leaves repeat conversations whispered beneath them for centuries.
     
@@ -50,7 +50,7 @@ Time here is circular. Walk long enough, and you’ll meet yourself — older, w
 
 ---
 
-## **IV. Ecology & Entities**
+## IV. Ecology & Entities
 
 Life thrives here without restraint.  
 Flora consume thoughts; fauna dream themselves into new species daily.
@@ -61,8 +61,8 @@ Flora consume thoughts; fauna dream themselves into new species daily.
 |**The Lilt**|A phenomenon rather than a creature — music carried on pollen that alters emotions.|
 |**The Court of Seasons**|Four shifting sovereigns — Spring (Curiosity), Summer (Arrogance), Autumn (Sorrow), Winter (Reprieve). They never rule simultaneously.|
 |**Feyborn**|Mortals touched by this realm; their eyes mirror the color of the moon above their birthplace. They can hear plants _whisper their judgments._|
-___
-## **V. Emotional Resonance**
+---
+## V. Emotional Resonance
 
 The Feywilds respond to mood with frightening precision.  
 Fear causes thorns to emerge from soil; kindness makes water sweeter.  
@@ -73,7 +73,7 @@ Because of this, long expeditions are forbidden under **Charter §9-I (Emotive H
 
 ---
 
-## **VI. Cultural Interpretations**
+## VI. Cultural Interpretations
 
 - **In Allemance:** Believed to be the resting place of stories that became too happy to end.
     
@@ -86,7 +86,7 @@ Because of this, long expeditions are forbidden under **Charter §9-I (Emotive H
 
 ---
 
-## **VII. Ministry Research & Containment**
+## VII. Ministry Research & Containment
 
 The Ministry maintains three sanctioned study sites:
 
@@ -101,7 +101,7 @@ All researchers are required to wear emotional dampeners. Despite precautions, i
 
 ---
 
-## **VIII. Interaction with the Material Plane**
+## VIII. Interaction with the Material Plane
 
 The Feywilds bleed through most clearly in **spring solstices, labyrinth oases,** and **Beastfolk settlements.**  
 Beastfolk born during solstice or full bloom are said to carry a **Verdant Lineage**, marked by heightened empathy and instinctive magic.  
@@ -109,7 +109,7 @@ Clerics and druids draw their power from this resonance, unknowingly invoking fr
 
 ---
 
-## **IX. Delving Implications**
+## IX. Delving Implications
 
 Labyrinths touched by the Feywilds — called **Verdant Convergences** — feature organic growths that react to emotional input, puzzle flora that demand kindness to open, or predators that mimic loved ones.  
 Relics from these sites pulse faintly like heartbeats and sometimes sprout roots.
@@ -119,7 +119,7 @@ They are valued for adaptability and feared for unpredictability.
 
 ---
 
-## **X. Cultural & Philosophical Legacy**
+## X. Cultural & Philosophical Legacy
 
 If the Wanehollow erases, the Feywilds **remember too much.**  
 Every kindness multiplies, every cruelty seeds vengeance.  
@@ -131,7 +131,7 @@ The Ministry regards them as a living contradiction: paradise, plague, and proph
 
 ---
 
-### **Planar Feature: Verdant Echo**
+### Planar Feature: Verdant Echo
 
 _Any being or relic influenced by the Feywilds gains the following trait:_
 
@@ -139,7 +139,7 @@ _Any being or relic influenced by the Feywilds gains the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Ecological Anomalies & Natural Law Bureau)**  

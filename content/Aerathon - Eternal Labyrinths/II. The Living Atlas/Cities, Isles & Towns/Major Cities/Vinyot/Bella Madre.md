@@ -1,3 +1,5 @@
+# Bella Madre
+
 ### _The Whirling Jewel of the South — “All Roads Circle Here.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Cultural Capitals)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Bella Madre** is a radiant river-city of southern **Vinyot**, built at the dramatic confluence of the **Lion River** and **Gazelle Run**. Where the waters meet, they do not blend gently—they spiral inward, forming a massive, perpetual **whirlpool** that defines the city’s layout, economy, and cultural identity.
 
@@ -24,11 +26,11 @@ Bella Madre is not merely a port—it is a **stage**.
 
 ---
 
-## **II. Geography & Urban Structure**
+## II. Geography & Urban Structure
 
 Bella Madre’s design is dictated entirely by water.
 
-### **A. The Whirlpool Heart**
+### A. The Whirlpool Heart
 
 At the city’s center lies the **Great Cyclone**, a roaring vortex where the Lion and Gazelle Run collapse into one another.
 
@@ -43,7 +45,7 @@ Falling into the whirlpool is invariably fatal; survival myths are common and un
 
 ---
 
-### **B. The Circular Harbor**
+### B. The Circular Harbor
 
 A diverted watercourse forms a wide, navigable ring around the cyclone.
 
@@ -58,7 +60,7 @@ Captains who misjudge the currents are remembered only briefly.
 
 ---
 
-### **C. The Three Districts**
+### C. The Three Districts
 
 **The Laureled Bank**
 
@@ -85,7 +87,7 @@ Bridges arch high above the water, designed to frame the whirlpool as a constant
 
 ---
 
-## **III. History & Founding**
+## III. History & Founding
 
 Bella Madre began as a practical decision: a settlement where two rivers met and trade could not be ignored.
 
@@ -96,7 +98,7 @@ The whirlpool, once feared, became a symbol:
 
 ---
 
-## **IV. Peoples & City Character**
+## IV. Peoples & City Character
 
 Bella Madre is famously cosmopolitan.
 
@@ -113,7 +115,7 @@ You are what you create, and how loudly the city remembers it.
 
 ---
 
-## **V. Governance & Civic Order**
+## V. Governance & Civic Order
 
 Bella Madre is governed by a **Patronal Council**, composed of:
 
@@ -132,7 +134,7 @@ The city’s unspoken law:
 
 ---
 
-## **VI. The Whirlpool Proscenium**
+## VI. The Whirlpool Proscenium
 
 At the very edge of the central cyclone stands the **Whirlpool Proscenium**, Bella Madre’s greatest monument.
 
@@ -147,7 +149,7 @@ Performing here is considered one of the highest honors in Aerathon’s artistic
 
 ---
 
-## **VII. The Vinyot Century Jubilee**
+## VII. The Vinyot Century Jubilee
 
 The **Vinyot Century Jubilee** is Bella Madre’s defining institution.
 
@@ -170,7 +172,7 @@ An annual performance by the Century draws audiences from across Aerathon and is
 
 ---
 
-## **VIII. Economy & Trade**
+## VIII. Economy & Trade
 
 Bella Madre thrives on:
 
@@ -203,7 +205,7 @@ The city sells experience more than goods.
 
 ---
 
-## **IX. Delvers & the MDO**
+## IX. Delvers & the MDO
 
 Delvers are common in Bella Madre, often performing or sponsoring spectacles to fund expeditions.
 
@@ -218,7 +220,7 @@ Labyrinth matters are secondary here; **attention** is the true currency.
 
 ---
 
-## **X. Relations with Other Regions**
+## X. Relations with Other Regions
 
 |**Region**|**Relationship**|**Summary**|
 |---|---|---|
@@ -230,7 +232,7 @@ Labyrinth matters are secondary here; **attention** is the true currency.
 
 ---
 
-## **XI. City Identity & Legacy**
+## XI. City Identity & Legacy
 
 Bella Madre believes that **beauty is power**, and that power, once seen, cannot be unseen.
 
@@ -244,7 +246,7 @@ The Ministry classifies Bella Madre as **culturally volatile, economically indis
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Cultural Capitals)**  

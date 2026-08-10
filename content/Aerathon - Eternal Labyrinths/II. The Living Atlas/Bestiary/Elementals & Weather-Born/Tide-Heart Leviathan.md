@@ -3,7 +3,7 @@
 
 ---
 
-# **Tide-Heart Leviathan**
+# Tide-Heart Leviathan
 
 ### _The Abyssal Pulse of Namira — “When the Sea Dreamed It Could Breathe Forever.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Tide-Heart Leviathan** is a colossal pelagic organism and self-sustaining oceanic engine dwelling beneath the **Namiran Trench**, three miles below the surface.  
 It is less an individual creature than a **living current**, its circulatory rhythm driving the ocean’s tides through pressure and pulse alone.
@@ -29,7 +29,7 @@ The Ministry classifies it as **Type-NAT / Elemental-Biologic Leviathan**, a bei
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -44,7 +44,7 @@ Each exhalation vents superheated brine that crystallizes instantly — forming 
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Leviathan remains motionless for decades, stirring only when planetary tides desynchronize.  
 Its movement re-aligns global oceanic flow, accompanied by storms, whirlpools, and mana spikes across the coast.
@@ -64,7 +64,7 @@ Its movement re-aligns global oceanic flow, accompanied by storms, whirlpools, a
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Known to circle the Namiran Trench and southern Louvain current.  
 Hydro-rune satellites suggest pressure pulses emanate from at least three locations — likely different segments of one body.  
@@ -77,7 +77,7 @@ Occasional surface manifestations include:
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin’s Breach Division recorded persistent arcane resonance identical to heartbeat pattern inside Caer Dain’s forges — suggesting planetary link between Forge Wyrm and Leviathan through mantle mana flow.
 
@@ -88,7 +88,7 @@ Attempts to map its full shape via aetheric sonar resulted in instant instrument
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -102,7 +102,7 @@ Attempts to map its full shape via aetheric sonar resulted in instant instrument
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -113,7 +113,7 @@ All samples stored in Vault #121, Louvain Branch — triple seal Korrin / Vell /
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level V — Planetary Scale Hydro-Elemental / Strategic Stability Asset.
     
@@ -128,7 +128,7 @@ All samples stored in Vault #121, Louvain Branch — triple seal Korrin / Vell /
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Namiran Sailors:** Say the Leviathan’s breach begins each century of calm; throw coins overboard “to buy one more heartbeat.”
     
@@ -144,7 +144,7 @@ All samples stored in Vault #121, Louvain Branch — triple seal Korrin / Vell /
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Tide-Heart Leviathan** is not monster, myth, or machine — it is **the ocean’s conscience**, a being whose heartbeat keeps Aerathon’s waters alive.  
 It embodies patience on a planetary scale: the slow, endless rhythm between creation and collapse.  
@@ -152,7 +152,7 @@ To awaken it fully would mean the sea remembering it was once a god — and gods
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Marine Phenomena & Leviathanic Entities Archive)**  

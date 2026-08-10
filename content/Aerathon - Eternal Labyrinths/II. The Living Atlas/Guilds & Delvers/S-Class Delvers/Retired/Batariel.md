@@ -1,5 +1,7 @@
 >  _“The Labyrinths are full of lies, chaos, and cursed glory. But I? I bring divine order. Or what’s left of it.”_
-___
+---
+# Batariel
+
 ### _S-Class Paladin (Retired)_
 
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division (Heroic Oversight & Behavioral Risk Bureau)  
@@ -10,7 +12,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Batariel the Sealed Flame** is one of Aerathon’s most polarizing S-Class delvers—celebrated as a holy avenger, feared as a zealot enforcer, and scrutinized by the Ministry for his increasingly aggressive theocratic doctrine.  
 Once a humble scribe sworn to a forgotten god, Batariel ascended through the militant order known as the **Celestial Bastion**, eventually founding the elite-cult guild **Penumbra Sanctum**.
@@ -28,7 +30,7 @@ Where he fights, the walls glow with judgment.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** High Commander of the **Penumbra Sanctum**, recognized as a “Faithbound Private Order”
     
@@ -41,7 +43,7 @@ Where he fights, the walls glow with judgment.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Order Over Chaos** — Civilization must be reforged by holy discipline
     
@@ -52,34 +54,34 @@ Where he fights, the walls glow with judgment.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Brand of Kaldrith**
+### 1. The Brand of Kaldrith
 
 Batariel led a complete purge of the **Labyrinth of Kaldrith**, sealing all lower vaults with radiant scripture.  
 The runes still burn—untouched, unbroken, and unapproved by the Ministry.
 
-### **2. The Thousand-Chain Judgment**
+### 2. The Thousand-Chain Judgment
 
 After a rogue crew stole a forbidden relic, Batariel hunted all members across five nations.  
 Their trial—publicly broadcast—took place mid-delving.  
 None survived sentencing.
 
-### **3. The Silent Benediction**
+### 3. The Silent Benediction
 
 During a catastrophic delve collapse, Batariel emerged alone carrying relics and a broken priest-mask.  
 The Celestial Bastion declared it a “holy reclamation.”  
 The Ministry declared it “deeply suspicious.”
 
-### **4. Storm-Harrowing of the Pale Vault**
+### 4. Storm-Harrowing of the Pale Vault
 
 He single-handedly routed a labyrinth core emitting psychic corruption, though his companions reported that **the core whispered his name** before death.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Gilded Vow**
+### Gilded Vow
 
 A radiant greatsword etched with divine prohibitions.
 
@@ -90,7 +92,7 @@ A radiant greatsword etched with divine prohibitions.
 - Known to scorch the hands of liars
     
 
-### **Aegis of Twelve Eyes**
+### Aegis of Twelve Eyes
 
 A living shield covered in twelve sealed eyes.
 
@@ -101,7 +103,7 @@ A living shield covered in twelve sealed eyes.
 - Some say the shield sleeps… others say it hungers
     
 
-### **Mantle of the First Doctrine**
+### Mantle of the First Doctrine
 
 A gold-inlaid tabard enforcing divine honesty.
 
@@ -114,7 +116,7 @@ A gold-inlaid tabard enforcing divine honesty.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 11 S-Rank, 18 A-Rank
     
@@ -127,7 +129,7 @@ A gold-inlaid tabard enforcing divine honesty.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“Purity is forged—through suffering and submission.”_  
 _“All relics lie. I am their silence.”_  
@@ -135,7 +137,7 @@ _“Mercy is the brightest cruelty.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - His armor reportedly **tightens** when falsehoods are spoken nearby
     
@@ -150,7 +152,7 @@ _“Mercy is the brightest cruelty.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Heroic Oversight & Behavioral Risk Bureau)**  

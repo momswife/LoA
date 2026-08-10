@@ -187,18 +187,42 @@ A draconic title does not establish legal command over a person carrying related
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
 > [!warning] DM Approval Required  
 > Confirm the campaign’s Dragonborn version, breath-weapon action economy, damage scaling, ancestry, and setting ties before play.
 
-Use the campaign’s approved Dragonborn ancestry traits for creature type, size, speed, breath weapon, damage resistance, and other core features.
+### Creature Type
 
-The Heritage Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Dragonborn ancestry traits for breath weapon, damage resistance, and other core features.
 
 ---
 
-## X. Heritage Traits
+## X. Recognized Sublineages
+
+Dragonborn elemental ancestry and its mechanical effects follow the campaign’s approved Dragonborn rules. Aerathon does not add separate setting-specific Dragonborn sublineages at this time.
+
+Regional upbringing is represented by the Homeland Imprints below.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Court-Forged
 
@@ -222,7 +246,7 @@ When you use your breath weapon, you can choose to emit a deafening roar instead
 
 ---
 
-## XI. Playing a Dragonborn
+## XII. Playing a Dragonborn
 
 Consider:
 
@@ -245,7 +269,7 @@ It does not create destiny.
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] Rare Lineage Advisory  
 > Dragonborn characters require agreement about draconic history, active claimants, public rarity, and approved mechanics.

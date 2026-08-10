@@ -4,7 +4,7 @@
 
 ---
 
-# **The Black Saint**
+# The Black Saint
 
 ### _An Echo of Worship Twisted Into Undeath — “A Saint Carved From Absence, Not Miracles.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Black Saint** is not a person — it is an **echo-deity**, a faith-construct formed from the collective despair of a forgotten congregation who prayed for salvation that never came.  
 Over decades, as their voices faded and their god abandoned them, something else stepped into the void:  
@@ -32,7 +32,7 @@ The Ministry classifies it as **Type-DEI / Emergent Echo-Deific Undead**, among 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -49,7 +49,7 @@ When it moves, its bones sound like chanting from far underground.
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Black Saint acts according to distorted liturgical instinct:
 
@@ -74,7 +74,7 @@ The Black Saint acts according to distorted liturgical instinct:
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 The Black Saint manifests in places where faith died violently:
 
@@ -95,7 +95,7 @@ It is solitary. No more than one Black Saint has ever been recorded in existence
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-Law readings show the Saint contains **hundreds of overlapping prayer-fragments**, all from different individuals.
     
@@ -113,7 +113,7 @@ It is solitary. No more than one Black Saint has ever been recorded in existence
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -129,33 +129,19 @@ Survivors describe the sensation as being “prayed into.”
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 | **Item**                | **Description**                             | **Use / Hazard**                                        |
 | ----------------------- | ------------------------------------------- | ------------------------------------------------------- |
 | **Saint-Ash**           | Fine grey ash shed from its halo.           | Enhances necrotic spells; corrupts holy magic.          |
 | **Halo Arc Fragment**   | Jagged iron-rune piece.                     | Purifies minor curses; whispers funeral hymns at night. |
 | **Prayerbone Filament** | Luminous marrow-thread drawn from its ribs. | Useful in divination; drains emotional warmth.          |
-**Delver Advisory:**  
-Do _not_ attempt to communicate with it.  
-It interprets speech directed its way as a vow of devotion, triggering **Forced Ordination**, a ritual where it attempts to bind your soul into its body.
 
-Survivors describe the sensation as being “prayed into.”
-
----
-
-## **VII. Associated Materials & Artifacts**
-
-|**Item**|**Description**|**Use / Hazard**|
-|---|---|---|
-|**Saint-Ash**|Fine grey ash shed from its halo.|Enhances necrotic spells; corrupts holy magic.|
-|**Halo Arc Fragment**|Jagged iron-rune piece.|Purifies minor curses; whispers funeral hymns at night.|
-|**Prayerbone Filament**|Luminous marrow-thread drawn from its ribs.|Useful in divination; drains emotional warmth.|
 Artifacts stored in Vault #171 (Louvain Branch — Sacral Void Annex), triple seal Daan / Stonevoice / Korrin.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level V — High Sacral Undead / Extreme Echo Hazard
     
@@ -170,7 +156,7 @@ Artifacts stored in Vault #171 (Louvain Branch — Sacral Void Annex), triple se
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Nattefrost Wanderers:** Call it “The Mourning Giant” and believe meeting it foretells collective tragedy.
     
@@ -187,7 +173,7 @@ Artifacts stored in Vault #171 (Louvain Branch — Sacral Void Annex), triple se
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Black Saint** is an emergent undead deity — a grotesque parody of sanctity formed from unanswered prayers, collective despair, and abandoned faith.  
 It wanders ruins not to harm, but to **complete a worship that never resolved**, a tragic attempt to fill the void left by a forgotten god.
@@ -203,7 +189,7 @@ And it remembers every prayer that was left to die.**
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)**  

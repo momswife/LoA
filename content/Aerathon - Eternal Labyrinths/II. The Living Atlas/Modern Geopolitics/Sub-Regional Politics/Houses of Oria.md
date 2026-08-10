@@ -1,4 +1,4 @@
-# **Sub-Regional Politics of the Houses of Oria**
+# Sub-Regional Politics of the Houses of Oria
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Highland Polities & Clan Governance)_  
 **Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Oral Tradition)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. The Oric House System**
+## I. The Oric House System
 
 In Oria, **a House is not a family**.
 
@@ -31,7 +31,7 @@ Oric politics are defined by **constant competition**—but once authority is re
 
 ---
 
-## **II. House Edelstann**
+## II. House Edelstann
 
 ### _The Diamond Gale Lodge_
 
@@ -54,7 +54,7 @@ Loyalty to the Vanlig line is strong—but never assumed permanent.
 
 ---
 
-## **III. House Frostguarde**
+## III. House Frostguarde
 
 ### _The Northern Watch_
 
@@ -79,7 +79,7 @@ It held the line.
 
 ---
 
-## **IV. House Heltenlave**
+## IV. House Heltenlave
 
 ### _The Aurora Lodge_
 
@@ -100,7 +100,7 @@ Leadership is public, precarious, and respected only while deserved.
 
 ---
 
-## **V. House Jegervalt**
+## V. House Jegervalt
 
 ### _The Gatehouse of Oria_
 
@@ -121,7 +121,7 @@ Failure is unthinkable. The Roetvald family is entrusted because it has never fa
 
 ---
 
-## **VI. House Podgorod**
+## VI. House Podgorod
 
 ### _The Deep Forge_
 
@@ -142,7 +142,7 @@ The Bronzemolev family produces stewards, not heirs.
 
 ---
 
-## **VII. House Priozhevsky**
+## VII. House Priozhevsky
 
 ### _The Learned Lodge_
 
@@ -163,7 +163,7 @@ The current High Curator, **Oleg the Bold Doctor**, exemplifies Oria’s belief 
 
 ---
 
-## **VIII. House Severport**
+## VIII. House Severport
 
 ### _The Ice Fleet_
 
@@ -184,7 +184,7 @@ In Severport, authority is absolute when survival demands it.
 
 ---
 
-## **IX. Inter-House Competition & Unity**
+## IX. Inter-House Competition & Unity
 
 The Houses of Oria are in **perpetual contest**:
 
@@ -201,7 +201,7 @@ Sabotage is unthinkable. Defiance is dishonor.
 
 ---
 
-## **X. Political Character of the Houses**
+## X. Political Character of the Houses
 
 Oria survives because its Houses are never comfortable.
 
@@ -214,7 +214,7 @@ No authority exists without proof.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

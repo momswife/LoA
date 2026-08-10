@@ -3,7 +3,7 @@
 
 ---
 
-# **Hollow Dancers**
+# Hollow Dancers
 
 ### _Feydream Phantoms of the Glittering Veil — “When Elegance Forgets It Is Not Alive.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Hollow Dancers** are graceful fey-born apparitions manifesting within twilight zones between the physical world and the **Glittering Veil**, a dream-saturated expanse touching the Blackwild, Arbrosian ruins, and certain unstable labyrinth chambers.
 
@@ -29,7 +29,7 @@ They are classified as **Type-FDI / Fey-Dreamborn Illusory Entities**, creatures
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -43,7 +43,7 @@ Their silhouettes look hand-crafted — as if carved from starlight. But closer 
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Hollow Dancers enact endless choreographies, performing loops of motion that appear **ritualistic** but defy any known fey tradition.
 
@@ -66,7 +66,7 @@ Though non-hostile by default, if a creature interrupts their choreography or mo
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Hollow Dancers are most common in places where reality thins:
 
@@ -85,7 +85,7 @@ They avoid bright sunlight, rushing water, and crowds — but are drawn to place
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-lens recordings reveal **multiple layers** of the same dancer phasing atop one another, as if the entity is many failed memories stacked together.
     
@@ -100,7 +100,7 @@ They avoid bright sunlight, rushing water, and crowds — but are drawn to place
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -114,7 +114,7 @@ Their instinct is to complete whatever they perceive as an unfinished choreograp
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -125,7 +125,7 @@ All items stored in Vault #88 (Louvain Branch), dual seal Stonevoice / Korrin.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level II — Illusory Feyborn / Cognitive Hazard
     
@@ -140,7 +140,7 @@ All items stored in Vault #88 (Louvain Branch), dual seal Stonevoice / Korrin.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Blackwild Beastfolk:** Leave chalk circles to “trap sorrow spirits,” believed to be early forms of Hollow Dancers.
     
@@ -155,7 +155,7 @@ All items stored in Vault #88 (Louvain Branch), dual seal Stonevoice / Korrin.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Hollow Dancers** are living illusions — not spirits, not fey, not ghosts, but the choreography of forgotten dreams given form.  
 They wander through thin places in reality, seeking completion, attention, and the emotional resonance they lack.
@@ -166,7 +166,7 @@ Beautiful, lonely, and perilous, they remind Aerathon of a truth whispered by ma
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)**  

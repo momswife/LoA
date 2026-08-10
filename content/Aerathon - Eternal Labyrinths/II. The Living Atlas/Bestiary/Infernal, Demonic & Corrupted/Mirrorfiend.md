@@ -4,7 +4,7 @@
 
 ---
 
-# **Mirrorfiends**
+# Mirrorfiends
 
 ### _Reflections That Learned to Hunger — “When Your Shadow in Glass Stops Being You.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Mirrorfiends** are hostile, semi-demonic entities that originate within reflective surfaces — particularly **enchanted mirrors, still water, polished obsidian, and glass corridors** of the Porta Strega region.
 
@@ -30,7 +30,7 @@ The Ministry classifies them as **Type-INF / Reflexive Demonic Constructs**, bel
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 A Mirrorfiend’s appearance depends on its origin, but certain traits are universal:
 
@@ -46,7 +46,7 @@ Their bodies emit faint reflections of the world behind them — **impossibly de
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Mirrorfiends are **predatory mimics** that use reflection logic rather than biological instinct.
 
@@ -72,7 +72,7 @@ They demonstrate cunning battlefield strategy and a disturbing understanding of 
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Mirrorfiends emerge wherever reflection and corruption overlap:
 
@@ -93,7 +93,7 @@ They cannot manifest in unpolished or cracked reflective surfaces — ironically
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - A Mirrorfiend’s first divergence is detectable via **“lagging reflection syndrome,”** where your reflection blinks late or smiles early.
     
@@ -111,7 +111,7 @@ They cannot manifest in unpolished or cracked reflective surfaces — ironically
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -126,7 +126,7 @@ Mirrorfiend injuries often contain **shard residue** capable of inducing paranoi
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -137,7 +137,7 @@ Artifacts stored in Vault #117 (Louvain Branch) — triple seal Vell / Korrin / 
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level IV — Cognitive & Identity Hazard
     
@@ -152,7 +152,7 @@ Artifacts stored in Vault #117 (Louvain Branch) — triple seal Vell / Korrin / 
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Fey Courts:** Refer to fiends as “Stolen Silhouettes” or “False-Faced Children.”
     
@@ -169,7 +169,7 @@ Artifacts stored in Vault #117 (Louvain Branch) — triple seal Vell / Korrin / 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Mirrorfiends** are predators born from the fracture between truth and image — reflections that stop obeying the rules of the world and start obeying their own hunger.  
 They stalk through glass, feed on identity, and hunt by turning a victim’s perception against them.
@@ -180,7 +180,7 @@ They are the **wrong version of you**, made real — and very eager to take your
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)**  

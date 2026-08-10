@@ -4,7 +4,7 @@
 
 ---
 
-# **The Hierarchy of the Ministry of Delving Operations**
+# The Hierarchy of the Ministry of Delving Operations
 
 ### _An Administrative Record of Rank, Division, and Responsibility_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Ministry of Delving Operations (MDO)** stands as the supreme civic body of exploration, regulation, and metaphysical preservation across Aerathon.  
 Its authority derives from the **Canon Charter of 3108 A.D.**, which established both the structure and the scope of its jurisdiction.
@@ -26,9 +26,9 @@ Every rank traces lineage to the Louvain founding staff, and every signature wit
 
 ---
 
-## **II. Central Authority**
+## II. Central Authority
 
-### **The Ministerial Triumvirate**
+### The Ministerial Triumvirate
 
 The apex of the MDO is held by a rotating council of three known as the **Triumvirate of Descent**, elected once per century by the Guild Congress of Louvain.  
 They serve as custodians of the Charter and final arbiters of inter-division disputes.
@@ -38,10 +38,10 @@ They serve as custodians of the Charter and final arbiters of inter-division dis
 |**High Minister of Descent**|**Director Halin Drauve**|Oversees global labyrinth regulation, Guild charters, and Ministry funding.|
 |**High Minister of Memory**|**Archivist Emeritus Venn Tarras (ret.)**|Keeper of recorded history; manages continuity between temporal records.|
 |**High Minister of Concord**|**Magistrate Talar Shellmark**|Upholds legal integrity of the Charter; interprets Canon Articles for governance.|
-___
-## **III. Core Divisions**
+---
+## III. Core Divisions
 
-### **1. Annals & Antiquities Division**
+### 1. Annals & Antiquities Division
 
 _Mandate:_ Preservation, translation, and verification of historical record.  
 _Head Office:_ The Hall of Charters, Louvain.
@@ -61,7 +61,7 @@ _Head Office:_ The Hall of Charters, Louvain.
 
 ---
 
-### **2. Arcane Breach Division**
+### 2. Arcane Breach Division
 
 _Mandate:_ Field containment, magical anomaly study, and incident response.  
 _Head Office:_ The Prism Vault, beneath Louvain’s eastern quarter.
@@ -79,7 +79,7 @@ _Head Office:_ The Prism Vault, beneath Louvain’s eastern quarter.
 
 ---
 
-### **3. The Living Atlas Division**
+### 3. The Living Atlas Division
 
 _Mandate:_ Oversight of modern society, Guild regulation, and public faith systems.  
 _Head Office:_ The Atlas Chamber, Central Louvain.
@@ -99,9 +99,9 @@ _Head Office:_ The Atlas Chamber, Central Louvain.
 
 ---
 
-## **IV. Supporting Bureaus**
+## IV. Supporting Bureaus
 
-### **A. Faith & Cosmology Bureau**
+### A. Faith & Cosmology Bureau
 
 Reports divine anomalies, studies faithfield density.
 
@@ -110,7 +110,7 @@ Reports divine anomalies, studies faithfield density.
 - **Dr. Odrin Sallow** (Arcane Safety Auditor)
     
 
-### **B. Chronometric Inquiry Bureau**
+### B. Chronometric Inquiry Bureau
 
 Maintains the unified Aerathon timeline.
 
@@ -119,7 +119,7 @@ Maintains the unified Aerathon timeline.
 - **Archivist Yelna Stonevoice** (Consultant)
     
 
-### **C. Charter Counsel Office**
+### C. Charter Counsel Office
 
 Legal interpretation of the Canon Charter.
 
@@ -128,7 +128,7 @@ Legal interpretation of the Canon Charter.
 - **Barrister Solenne Raithe** (Legal Drafting)
     
 
-### **D. Antiquities Restoration Bureau**
+### D. Antiquities Restoration Bureau
 
 Manages artifact conservation.
 
@@ -137,7 +137,7 @@ Manages artifact conservation.
 - **Curator Rook-of-Rings** (Acquisitions)
     
 
-### **E. Public Observation Bureau (“Monthly Ledger”)**
+### E. Public Observation Bureau (“Monthly Ledger”)
 
 Collects field reports, rumors, and economic forecasting.
 
@@ -146,7 +146,7 @@ Collects field reports, rumors, and economic forecasting.
 - **Reporter Alen Raithe** (Public Communications)
     
 
-### **F. Guild Relations Bureau**
+### F. Guild Relations Bureau
 
 Handles Free Company negotiations and relic trade arbitration.
 
@@ -157,7 +157,7 @@ Handles Free Company negotiations and relic trade arbitration.
 
 ---
 
-## **V. Regional & Field Structure**
+## V. Regional & Field Structure
 
 |Rank|Title|Function|
 |---|---|---|
@@ -171,7 +171,7 @@ All RMOs report monthly via sealed Echo-Ledger to the Louvain Central Archive.
 
 ---
 
-## **VI. Legacy Archivists**
+## VI. Legacy Archivists
 
 Deceased officers whose signatures retain ceremonial validity for documents originating in their tenure.  
 Their seals may still appear on surviving records as “heritage marks.”
@@ -189,7 +189,7 @@ Their seals may still appear on surviving records as “heritage marks.”
 
 ---
 
-## **VII. The Chain of Command**
+## VII. The Chain of Command
 
 Triumvirate of Descent
 │
@@ -208,9 +208,9 @@ Triumvirate of Descent
     ├─ Guild Relations Bureau
     └─ Public Observation Bureau
 
-___
+---
 
-## **VIII. Notes on Hierarchical Conduct**
+## VIII. Notes on Hierarchical Conduct
 
 - All communication between divisions must pass through registered Archive Channels.
     
@@ -223,7 +223,7 @@ ___
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Charter Counsel Office)**  

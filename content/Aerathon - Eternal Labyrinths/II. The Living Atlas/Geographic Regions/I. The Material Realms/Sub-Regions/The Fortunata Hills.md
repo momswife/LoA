@@ -1,3 +1,5 @@
+# The Fortunata Hills
+
 ### _The Old Stone Between — “What Endures Is What Was Chosen.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Fortunata Hills** form a broad expanse of rolling highland and broken stone in **northwestern Vinyot**, lying between the low trade plains and the rising shadow of the **Betemere Mountains**.
 
@@ -23,7 +25,7 @@ At their heart stands **Malarthain**, whose walls and forges dominate the skylin
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 The Fortunata Hills are defined by **uneven elevation and exposed stone**.
 
@@ -51,7 +53,7 @@ Agriculture is marginal at best; survival favors planning, preservation, and res
 
 ---
 
-## **III. History & Settlement**
+## III. History & Settlement
 
 The Fortunata Hills were never claimed for their beauty.
 
@@ -77,11 +79,11 @@ Over time, the Hills became a place where **those who stayed did so by choice**,
 
 ---
 
-## **IV. Peoples & Settlement Patterns**
+## IV. Peoples & Settlement Patterns
 
 Population density is low outside Malarthain.
 
-### **Common Settlements**
+### Common Settlements
 
 - Mining towns clustered around single seams
     
@@ -103,7 +105,7 @@ Mobility is limited; most people live and die within sight of the same ridgeline
 
 ---
 
-## **V. Society & Local Order**
+## V. Society & Local Order
 
 The Fortunata Hills lack a unified civic structure beyond Malarthain.
 
@@ -120,7 +122,7 @@ Written law exists but is secondary to **custom and remembered judgment**. Autho
 
 ---
 
-## **VI. Faith & Cultural Character**
+## VI. Faith & Cultural Character
 
 Faith in the Hills is **ancestral and pragmatic**.
 
@@ -144,7 +146,7 @@ Gods are honored less through temples and more through:
 
 ---
 
-## **VII. Economy & Resources**
+## VII. Economy & Resources
 
 The Fortunata Hills are resource-rich but output-limited.
 
@@ -179,7 +181,7 @@ Trade routes are stable but sparse; over-expansion is actively resisted.
 
 ---
 
-## **VIII. Delving & Anomalies**
+## VIII. Delving & Anomalies
 
 The Hills contain **numerous sealed or collapsed sites** tied to early mining and proto-delving efforts.
 
@@ -194,7 +196,7 @@ Delving occurs primarily under Malarthain oversight. Independent expeditions are
 
 ---
 
-## **IX. Relations with Other Regions**
+## IX. Relations with Other Regions
 
 |**Region**|**Relationship**|**Summary**|
 |---|---|---|
@@ -205,7 +207,7 @@ Delving occurs primarily under Malarthain oversight. Independent expeditions are
 
 ---
 
-## **X. Regional Identity & Legacy**
+## X. Regional Identity & Legacy
 
 The Fortunata Hills are not dramatic land.  
 They do not inspire poetry or conquest.
@@ -221,7 +223,7 @@ The Ministry categorizes the Hills as **strategically important, culturally iner
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)**  

@@ -1,3 +1,5 @@
+# Religion & Politics
+
 ### _Power, Policy & the Pantheon in an Age of Declining Delver Faith_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Societal Oversight & Political Faith Metrics Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Religion and politics within Aerathon have been intertwined since before the Quiet Edict, with temples historically serving as centers of social authority, cultural cohesion, and moral arbitration.
 
@@ -29,19 +31,19 @@ Religion remains **highly influential among the general population**, but delver
 
 ---
 
-## **II. Historical Relationship Between Faith & Power**
+## II. Historical Relationship Between Faith & Power
 
 For centuries, three pillars shaped Aerathon’s politics:
 
-### **1. Temple Authority**
+### 1. Temple Authority
 
 Temples settled disputes, educated the populace, and offered essential services.
 
-### **2. Guild Influence**
+### 2. Guild Influence
 
 Guilds relied on clerics for healing, morale, and pre-delve rites.
 
-### **3. Public Legitimacy**
+### 3. Public Legitimacy
 
 Rulers sought divine approval through ritual, symbolism, or sponsorship.
 
@@ -49,7 +51,7 @@ These foundations remain, but the **delver secularization wave** has eroded the 
 
 ---
 
-## **III. The Five Modern Political Faith Blocs**
+## III. The Five Modern Political Faith Blocs
 
 ### _Updated to reflect delvers’ reduced participation._
 
@@ -57,7 +59,7 @@ Aerathon’s political parties cluster around broad religious worldviews. Their 
 
 ---
 
-### **1. The Radiant Concord**
+### 1. The Radiant Concord
 
 _Gods: Lathander, Tyr, Torm, Sune, Selûne, Lliira_  
 **Ideals:** reform, justice, civic renewal  
@@ -67,7 +69,7 @@ Delvers view the Concord as “optimistic but impractical.” Most support is sy
 
 ---
 
-### **2. The Verdant Compact**
+### 2. The Verdant Compact
 
 _Gods: Chauntea, Eldath, Mielikki, Silvanus_  
 **Ideals:** ecological stewardship, rural rights, resource protection  
@@ -77,7 +79,7 @@ Delvers rarely vote along agrarian lines.
 
 ---
 
-### **3. The Iron Reliquary**
+### 3. The Iron Reliquary
 
 _Gods: Helm, Ilmater, Tempus, Kelemvor_  
 **Ideals:** law, order, discipline, safety, post-delve support  
@@ -87,7 +89,7 @@ Delvers respect the Reliquary’s values but engage secularly (safety, not faith
 
 ---
 
-### **4. The Guild of Ink & Gear**
+### 4. The Guild of Ink & Gear
 
 _Gods: Gond, Oghma, Deneir, Mystra, Waukeen, Savras_  
 **Ideals:** innovation, regulation, research, trade, magical safety  
@@ -99,7 +101,7 @@ This is currently the strongest delver-aligned bloc.
 
 ---
 
-### **5. The Shadow Coalition**
+### 5. The Shadow Coalition
 
 _Gods: Mask, Tymora, Umberlee, Shar, Talos, Talona, Malar_  
 **Ideals:** personal freedom, deregulation, risk-tolerance, frontier justice  
@@ -109,9 +111,9 @@ Delvers resonate with Tymora and Mask culturally, but avoid theological rhetoric
 
 ---
 
-## **IV. Temple Influence Over Public Policy**
+## IV. Temple Influence Over Public Policy
 
-### **Areas Where Temple Influence Has _Increased_**
+### Areas Where Temple Influence Has _Increased_
 
 Even as delvers secularize, temples remain politically powerful in certain domains:
 
@@ -130,7 +132,7 @@ These temples act more like **NGOs** than religious institutions.
 
 ---
 
-### **Areas Where Temple Influence Has _Decreased_**
+### Areas Where Temple Influence Has _Decreased_
 
 Particularly in delver-centric politics:
 
@@ -149,9 +151,9 @@ The Ministry has recorded a 37% reduction (3150–3160 A.D.) in guilds maintaini
 
 ---
 
-## **V. Political Effects of Delver Secularization**
+## V. Political Effects of Delver Secularization
 
-### **1. Loss of the “Faithful Delver Vote”**
+### 1. Loss of the “Faithful Delver Vote”
 
 Once a reliable demographic for the Radiant Concord and Iron Reliquary, delvers now split between:
 
@@ -164,7 +166,7 @@ Once a reliable demographic for the Radiant Concord and Iron Reliquary, delvers 
 
 ---
 
-### **2. Rise of Secular Guild Platforms**
+### 2. Rise of Secular Guild Platforms
 
 Guilds increasingly lobby for:
 
@@ -183,7 +185,7 @@ Religion rarely appears in guild charters now.
 
 ---
 
-### **3. Clerical Concern Over “Lost Generations”**
+### 3. Clerical Concern Over “Lost Generations”
 
 Temple leadership expresses concern that delvers:
 
@@ -198,7 +200,7 @@ Some fear this trend will eventually erode broader civic devotion.
 
 ---
 
-### **4. Increased Political Tension Around Faith in Public Spaces**
+### 4. Increased Political Tension Around Faith in Public Spaces
 
 Debates include:
 
@@ -215,7 +217,7 @@ These debates intensify yearly.
 
 ---
 
-## **VI. Religion as Public Branding**
+## VI. Religion as Public Branding
 
 Political parties rely heavily on divine symbolism for legitimacy—even if voters no longer believe literally.
 
@@ -236,7 +238,7 @@ Delvers interpret them as **cultural shorthand**, not holy authority.
 
 ---
 
-## **VII. Ministry Assessment (Revised)**
+## VII. Ministry Assessment (Revised)
 
 |Category|Status|
 |---|---|
@@ -257,7 +259,7 @@ even if their believers no longer kneel.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Societal Oversight & Political Faith Metrics Bureau)**  

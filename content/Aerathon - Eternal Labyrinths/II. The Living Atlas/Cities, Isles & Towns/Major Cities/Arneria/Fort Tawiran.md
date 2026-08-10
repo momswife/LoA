@@ -1,3 +1,5 @@
+# Fort Tawiran
+
 ### _The First Gate — “All Are Welcome. Some Must Explain Why.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Border Fortifications & Controlled Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Fort Tawiran** is the **primary eastern landfall into Arneria**, standing at the far end of the six-mile crossing over the **Strait of Glass**. Any foreigner entering Arneria by Causeway must first pass through its gates.
 
@@ -24,11 +26,11 @@ It is a **question**, and the answer determines everything that follows.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Fort Tawiran sits at the **Arnerian end of the Causeway**, where stone road meets rainforest and sea spray gives way to humidity.
 
-### **The Gate Fort**
+### The Gate Fort
 
 - Twin stone doors over twenty feet tall
     
@@ -39,7 +41,7 @@ Fort Tawiran sits at the **Arnerian end of the Causeway**, where stone road meet
 
 The fort’s architecture is deliberate, symmetrical, and unyielding—designed to project permanence and authority.
 
-### **The Outer City**
+### The Outer City
 
 Beyond the walls, a very different city exists:
 
@@ -54,7 +56,7 @@ This architectural dissonance is intentional only in retrospect. Tawiran looks e
 
 ---
 
-## **III. History**
+## III. History
 
 Fort Tawiran was raised during an early era of Causeway expansion, intended solely as a **customs and security checkpoint** between Arneria and the wider continent. It was never chartered as a city, and for generations, it functioned precisely as planned.
 
@@ -79,7 +81,7 @@ Tawiran became an accidental city—one Arneria now uses rather than admits.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Fort Tawiran is governed directly by the **Beylik of Arneria**.
 
@@ -94,7 +96,7 @@ No mayor exists. Authority flows inward, not outward.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Tawiran’s economy exists entirely because people must wait.
 
@@ -113,7 +115,7 @@ Everything sold here is designed to be **portable**.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Tawiran is fragmented and transitional.
 
@@ -130,7 +132,7 @@ Culturally, Tawiran is defined by **first impressions**. Locals pride themselves
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Tawiran is absolute at the gate and permissive beyond it.
 
@@ -145,7 +147,7 @@ Defense is inward-facing: the fort is designed to **prevent passage**, not repel
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Fort Tawiran maintains strict prohibition against Labyrinth activity.
 
@@ -160,7 +162,7 @@ Arneria does not allow unknown variables past its threshold.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -174,7 +176,7 @@ Tawiran influences Aerathon quietly—by deciding **who may pass**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Fort Tawiran is remembered as the place where journeys pause.
 
@@ -186,7 +188,7 @@ To the city itself, it is a balancing act between control and compassion.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Entry interviews are rumored to last longer than some delves
     
@@ -199,7 +201,7 @@ To the city itself, it is a balancing act between control and compassion.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Border Fortifications & Controlled Settlements)**  

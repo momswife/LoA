@@ -1,3 +1,5 @@
+# Landbridge
+
 ### _The City Between Levels — “Nothing Passes Without Our Leave.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Inland Ports & Commercial Authorities)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Landbridge** is a major **freshwater port city of Vinyot**, situated between the **Cristalmonte** and **Ficklefox** rivers at a critical elevation break on their journey toward the **Long Sea**. It exists because the water cannot go on without help—and because someone realized they could charge for that help.
 
@@ -23,11 +25,11 @@ That authority rests with the **Landbridge Canal Concern**, a powerful commercia
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Landbridge is built vertically as much as horizontally.
 
-### **The Twin Locks**
+### The Twin Locks
 
 - Massive stone-and-brass chambers
     
@@ -38,7 +40,7 @@ Landbridge is built vertically as much as horizontally.
 
 The locks are visible from nearly everywhere in Landbridge, a constant reminder of what the city exists to do.
 
-### **Urban Layout**
+### Urban Layout
 
 - Upper City: lock control towers, Concern offices, overseer housing
     
@@ -51,7 +53,7 @@ Bridges cross water at multiple heights, giving the city its name—and its diso
 
 ---
 
-## **III. History**
+## III. History
 
 Landbridge began as a temporary solution.
 
@@ -64,7 +66,7 @@ In recent decades, rising trade volume has sharpened inequality. To stabilize co
 The city has not yet erupted.  
 But it has begun to hum.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1214 A.D.** — Completion of the first Cristalmonte lock.
     
@@ -77,7 +79,7 @@ But it has begun to hum.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Landbridge is governed entirely by the **Landbridge Canal Concern**.
 
@@ -92,7 +94,7 @@ Most city services—housing, food distribution, security—are Concern-operated
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Landbridge’s economy is absolute.
 
@@ -111,7 +113,7 @@ The introduction of canal scrip has allowed the Concern to insulate itself from 
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Landbridge’s culture is pragmatic and strained.
 
@@ -128,7 +130,7 @@ Faith here is less about hope than endurance.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law enforcement answers to the Concern.
 
@@ -143,7 +145,7 @@ Justice favors continuity of operation.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Landbridge has no known Labyrinth entrances.
 
@@ -160,7 +162,7 @@ The city profits from danger without touching it.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -174,7 +176,7 @@ If Landbridge closes, inland Vinyot chokes.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Landbridge sees itself as indispensable.
 
@@ -187,7 +189,7 @@ The gap between those beliefs is widening, and the water keeps rising all the sa
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Locals can judge time by gate cycles
     
@@ -200,7 +202,7 @@ The gap between those beliefs is widening, and the water keeps rising all the sa
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Inland Ports & Commercial Authorities)**  

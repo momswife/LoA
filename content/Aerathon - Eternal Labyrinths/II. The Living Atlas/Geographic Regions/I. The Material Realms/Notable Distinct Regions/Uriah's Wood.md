@@ -5,7 +5,7 @@
 
 ---
 
-# **Uriah’s Wood**
+# Uriah’s Wood
 
 ### _The Forest of Broken Hearts — “Where Pain Learns to Rest.”_
 
@@ -17,7 +17,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Along the western slopes of Oria’s **Western Cradle** mountains sprawls a woodland older than any charted settlement.  
 Known to locals as **Uriah’s Wood**, it is both sanctuary and snare — a living labyrinth of trees whose leaves glimmer like tears at dusk.
@@ -27,7 +27,7 @@ Travelers speak of hearing their own voices whisper forgiveness among the branch
 
 ---
 
-## **II. Geography & Topography**
+## II. Geography & Topography
 
 |**Feature**|**Description**|
 |---|---|
@@ -40,7 +40,7 @@ All geomantic tools cease functioning within its heart; only emotional state app
 
 ---
 
-## **III. Historical Chronology**
+## III. Historical Chronology
 
 |**Date (A.D.)**|**Event**|**Summary / Impact**|
 |---|---|---|
@@ -49,8 +49,8 @@ All geomantic tools cease functioning within its heart; only emotional state app
 |**3410**|Disappearances of seven Ministry botanists during mapping mission.|Investigation suspended.|
 |**3667**|“Silver Reprieve” phenomenon — mass remission of depressive illness in nearby settlements.|Correlated with light surge over the Wood.|
 |**3721**|Unverified manifestation of Uriah; conversation transcript logged by Agent Miren Vos.|Ongoing review.|
-___
-## **IV. The Sorcerer Uriah**
+---
+## IV. The Sorcerer Uriah
 
 Identity indeterminate. Reports vary between an aged human, a beastfolk sage, and a disembodied voice speaking from the trees.  
 Common attributes include: white garments, gold eyes, and the scent of rain on soil.
@@ -68,7 +68,7 @@ Scholarly consensus divides along three theories:
 
 ---
 
-## **V. Magical Ecology**
+## V. Magical Ecology
 
 |**Entity / Effect**|**Nature**|**Notes**|
 |---|---|---|
@@ -81,7 +81,7 @@ No aggressive lifeforms recorded unless violence is initiated first.
 
 ---
 
-## **VI. Cultural & Religious Context**
+## VI. Cultural & Religious Context
 
 - **Pilgrimage of Healing:** Bereaved Oria clans journey to the Wood to bury tokens of the dead beneath silver-barked trees.
     
@@ -94,7 +94,7 @@ Clerical rites forbid harvest of Wood flora without consent; transgressors repor
 
 ---
 
-## **VII. Documented Encounters**
+## VII. Documented Encounters
 
 > _3721 A.D., Agent Miren Vos — Audio Log Excerpt_  
 > “He asked why I carried so much stone in my chest.  
@@ -106,7 +106,7 @@ Containment authorized; samples stored in Cryovault-42.
 
 ---
 
-## **VIII. Hazards**
+## VIII. Hazards
 
 |**Hazard**|**Description**|
 |---|---|
@@ -118,7 +118,7 @@ Ministry recommends mental anchors and mnemonic wards before entry.
 
 ---
 
-## **IX. Modern Status**
+## IX. Modern Status
 
 - **Classification:** Level II Containment / Low-Threat Emotional Anomaly.
     
@@ -131,7 +131,7 @@ Ministry recommends mental anchors and mnemonic wards before entry.
 
 ---
 
-## **X. Associated Artifacts**
+## X. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -143,7 +143,7 @@ Held under Ministry Vault #58, Louvain Branch, dual seal of Thera Daan and Korri
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 Uriah’s Wood remains one of Aerathon’s most benevolent yet perilous sanctuaries — a living sermon on the cost of healing.  
 Within its boughs, pain does not vanish; it is replanted, growing into something quieter.  
@@ -151,7 +151,7 @@ Those who enter leave their grief behind… or are buried alongside it.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Thaumaturgic Ecology Register)**  

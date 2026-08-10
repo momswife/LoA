@@ -1,3 +1,5 @@
+# Ruby Bay
+
 ### _The Red Estuary — “Gold Came. Water Stayed.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Coastal Cities & Economic Transitions)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Ruby Bay** is a mainland port city of **Vinyot**, situated at the estuary of the **Ficklefox River** where it spills into the open sea. The city takes its name from the bay’s distinctive red-tinted waters, stained by naturally occurring iron deposits leached from upstream rock.
 
@@ -23,11 +25,11 @@ What began as emergency settlement has hardened into a city struggling to decide
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Ruby Bay curves gently inward, forming a naturally sheltered harbor.
 
-### **The Red Waters**
+### The Red Waters
 
 - Iron-rich runoff stains the bay a deep crimson hue
     
@@ -38,7 +40,7 @@ Ruby Bay curves gently inward, forming a naturally sheltered harbor.
 
 The bay is widely regarded as one of the strangest natural spectacles in southern Vinyot.
 
-### **Settlement Ring**
+### Settlement Ring
 
 - Inner city of stone, brick, and reclaimed lumber
     
@@ -51,7 +53,7 @@ Much of the city was built quickly and cheaply—meant to house people _now_, no
 
 ---
 
-## **III. History**
+## III. History
 
 For most of its existence, Ruby Bay was little more than a river mouth and a scattering of fishing huts. That changed abruptly with the **arrival of humanity in Aerathon**, when the Unknown’s intervention displaced thousands into unfamiliar lands.
 
@@ -59,7 +61,7 @@ Ruby Bay’s geography made it ideal for rapid settlement: flat ground, fresh wa
 
 As the influx slowed and aid dried up, Ruby Bay was left with infrastructure built for crisis—and a population that expected continuity.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1448 A.D.** — Establishment of permanent fishing hamlets around the bay.
     
@@ -75,7 +77,7 @@ Now it must.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Ruby Bay is governed by the **Ruby Bay Trade Board**, a coalition of companies rather than a civic lineage.
 
@@ -90,7 +92,7 @@ Governance prioritizes **stability and profitability**, often at odds with commu
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Ruby Bay’s economy was forged in urgency.
 
@@ -109,7 +111,7 @@ With emergency funding gone, the city faces pressure to reinvent itself—or exp
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Ruby Bay’s culture is raw and unresolved.
 
@@ -126,7 +128,7 @@ Resentment simmers beneath politeness, especially where old wounds from the Inva
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law enforcement is inconsistent.
 
@@ -141,7 +143,7 @@ Justice is functional, not equitable.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Ruby Bay has no known Labyrinth entrances.
 
@@ -158,7 +160,7 @@ Risk is tolerated when profitable.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -172,7 +174,7 @@ Ruby Bay’s success—or failure—will shape how Aerathon handles the next gre
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Ruby Bay has not yet decided who it is.
 
@@ -187,7 +189,7 @@ The water keeps its color regardless.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Locals judge tides by color depth
     
@@ -200,7 +202,7 @@ The water keeps its color regardless.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Coastal Cities & Economic Transitions)**  

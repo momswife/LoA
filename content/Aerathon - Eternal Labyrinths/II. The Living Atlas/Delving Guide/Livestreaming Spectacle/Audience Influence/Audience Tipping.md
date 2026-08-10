@@ -3,7 +3,7 @@
 
 ---
 
-# **Audience Tipping**
+# Audience Tipping
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Broadcast Conduct Bureau)_  
 **Primary Compiler:** Director Halin Drauve (Guild Economics & Broadcast Governance)  
@@ -23,7 +23,7 @@ Thus, like all magic with reach, it is placed firmly under Ministerial law.
 
 ---
 
-# **I. Definition & Purpose of Tipping**
+## I. Definition & Purpose of Tipping
 
 Audience Tipping refers to any Arcanet-sent influence that:
 
@@ -55,9 +55,9 @@ These boundaries exist to protect both delvers and the integrity of the Labyrint
 
 ---
 
-# **II. Types of Audience Tips**
+## II. Types of Audience Tips
 
-## **1. Minor Boon Tips**
+### 1. Minor Boon Tips
 
 Small magical pulses that influence:
 
@@ -74,7 +74,7 @@ Small magical pulses that influence:
 
 These resemble a “cheer felt as magic.”
 
-## **2. Favor Sparks**
+### 2. Favor Sparks
 
 Arcane affirmations that increase the delver’s **Audience Favor** score in the UDMI framework.  
 Large spikes in Favor Sparks may trigger:
@@ -86,7 +86,7 @@ Large spikes in Favor Sparks may trigger:
 - Temporary morale-driven buffs
     
 
-## **3. Material Tips**
+### 3. Material Tips
 
 Deliveries of low-risk magical items via Arcanet conduit, such as:
 
@@ -101,7 +101,7 @@ Deliveries of low-risk magical items via Arcanet conduit, such as:
 
 These require dual approval from the ABA and the Oculi.
 
-## **4. Blessing Tokens** _(Rare)_
+### 4. Blessing Tokens _(Rare)_
 
 A collective surge of audience fervor that may:
 
@@ -116,27 +116,27 @@ These occur only when audience sentiment hits a critical resonance threshold, wh
 
 ---
 
-# **III. Tipping Channels**
+## III. Tipping Channels
 
 Audience Tips are delivered through the following verified systems:
 
-### **1. Guildstream Channels**
+#### 1. Guildstream Channels
 
 Used by guild-specific audiences; influence weighted toward tactical support.
 
-### **2. Arcanet Theaters**
+#### 2. Arcanet Theaters
 
 Civic halls where hundreds or thousands of viewers tip simultaneously, amplifying effect.
 
-### **3. Noble Linefeeds**
+#### 3. Noble Linefeeds
 
 Private scry-lanes with privileged tipping weight—requires notarized Ministerial license.
 
-### **4. Standard Public Channels**
+#### 4. Standard Public Channels
 
 Available to all registered viewers; regulated to prevent flooding or impulse abuse.
 
-### **5. Divine Oculi Conduits**
+#### 5. Divine Oculi Conduits
 
 Used only for Blessing Tokens and high-grade Favor transfers.
 
@@ -144,7 +144,7 @@ Any tipping from **unverified channels** is considered Arcanet Tampering.
 
 ---
 
-# **IV. Legal Restrictions & Ethical Considerations**
+## IV. Legal Restrictions & Ethical Considerations
 
 Audience Tipping is allowed only when:
 
@@ -157,7 +157,7 @@ Audience Tipping is allowed only when:
 - The tipping does not violate hazard protocols
     
 
-### **Prohibited Tipping Actions**
+#### Prohibited Tipping Actions
 
 - Tips designed to **harm** another delver
     
@@ -174,11 +174,11 @@ These actions fall under **Spectacle Fraud** or **Arcanet Misconduct**.
 
 ---
 
-# **V. Tipping Impact on UDMI & Fame Engine**
+## V. Tipping Impact on UDMI & Fame Engine
 
 Tipping directly affects evaluator systems:
 
-### **UDMI Impact**
+#### UDMI Impact
 
 - Minor boosts increase Audience Favor scores
     
@@ -187,7 +187,7 @@ Tipping directly affects evaluator systems:
 - Blessing Tokens may generate **Core Interest Flags**
     
 
-### **Fame Engine Impact**
+#### Fame Engine Impact
 
 The Fame Engine weighs:
 
@@ -206,11 +206,11 @@ Both are strategically viable but must be managed ethically.
 
 ---
 
-# **VI. Abuse Prevention & Monitoring**
+## VI. Abuse Prevention & Monitoring
 
 To maintain integrity, the Ministry enforces:
 
-### **1. Tip Regulation Algorithms**
+#### 1. Tip Regulation Algorithms
 
 These detect:
 
@@ -223,7 +223,7 @@ These detect:
 - Fraudulent tipping patterns
     
 
-### **2. Oculi Oversight**
+#### 2. Oculi Oversight
 
 Oculi can nullify any tip that:
 
@@ -234,7 +234,7 @@ Oculi can nullify any tip that:
 - Contravenes ministry law
     
 
-### **3. Viewer Accountability**
+#### 3. Viewer Accountability
 
 Registered viewers may be:
 
@@ -249,11 +249,11 @@ Registered viewers may be:
 
 ---
 
-# **VII. N-Class Team Exception Clause**
+## VII. N-Class Team Exception Clause
 
 Due to their **Core-selected resonance alignment**, N-Class teams (e.g., **Unit N-7**) possess unique interaction rules:
 
-### **1. High-Impact Tipping Allowed**
+#### 1. High-Impact Tipping Allowed
 
 N-Class resonance stabilizes certain tipping impulses that would destabilize normal teams, granting them:
 
@@ -264,21 +264,21 @@ N-Class resonance stabilizes certain tipping impulses that would destabilize nor
 - Reduced risk of distortion backlash
     
 
-### **2. Restricted Auto-Nullification Removed**
+#### 2. Restricted Auto-Nullification Removed
 
 Oculi do not automatically block high-grade tips sent to N-Class teams unless the tip is overtly dangerous.
 
-### **3. Elevated Divine Observation**
+#### 3. Elevated Divine Observation
 
 Blessing Tokens targeting N-Class delvers are more likely to activate due to their resonance amplification signatures.
 
-### **4. Ministry Tracking Required**
+#### 4. Ministry Tracking Required
 
 All tips to N-Class teams are logged under **Convergence-Relevant Activity**.
 
 ---
 
-# **VIII. Why Audience Tipping Matters**
+## VIII. Why Audience Tipping Matters
 
 Audience Tipping represents the bond between delvers and the world they protect.  
 Properly used, it is:
@@ -306,7 +306,7 @@ but to ensure that the will of the people strengthens, rather than breaks, the d
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Broadcast Conduct Bureau)**  

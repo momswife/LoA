@@ -1,6 +1,8 @@
 > [No known verbal statements. All records compiled from witness accounts and battlefield patterns.]_
 
 ____
+# Sister Judiith
+
 ### _S-Class Zealot of the Unspoken Path
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Hagiography & Miraculous Phenomena Bureau)  
@@ -11,7 +13,7 @@ ____
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Sister Judiith**, the **Silent Flame**, stands among Aerathon’s most enigmatic S-Class delvers—**a woman without a voice, but with a purpose that burns brighter than her scars**. Clad in scorched monastic robes and weighted in ritual brands, Judiith moves through Labyrinths like a living judgment: mute, unstoppable, and guided by a divine mandate no one has ever heard her speak.
 
@@ -21,7 +23,7 @@ She leaves no sermons, only survivors.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Former **Crimson Reaver**, now autonomous; answers only to the **Divine Oculi** when summoned
     
@@ -34,7 +36,7 @@ She leaves no sermons, only survivors.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Suffering Is a Promise** – Pain shared is a chain that binds the righteous.
     
@@ -45,23 +47,23 @@ She leaves no sermons, only survivors.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Ashen Benediction**
+### 1. The Ashen Benediction
 
 When a Labyrinth manifested inside a political-prison monastery, Judiith entered alone.  
 Thirty-six hostiles fell.  
 Forty-three prisoners emerged alive, many carried in her arms.  
 Once the last was free, she nodded once—and the monastery immolated behind her.
 
-### **2. The Silence at Hollowmarch**
+### 2. The Silence at Hollowmarch
 
 A beastfolk village besieged by relic-thieves held the line until dawn… when Judiith arrived.  
 She advanced without signal or speech.  
 The attackers’ will broke.  
 She marked each living thief with ash across the mouth—a reminder, not a sentence.
 
-### **3. The Martyr’s Gate**
+### 3. The Martyr’s Gate
 
 A condemned delver, cursed and awaiting execution, knelt beneath the blade.  
 Judiith stepped forward, placed her hand on his chest, and the curse transferred to her—setting her robes ablaze.  
@@ -71,9 +73,9 @@ The executioner resigned that night.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Brand of the Sainted Chain**
+### Brand of the Sainted Chain
 
 An iron flail wrapped in oil-soaked cloth strips.
 
@@ -84,7 +86,7 @@ An iron flail wrapped in oil-soaked cloth strips.
 - Burns hotter the more wounded she becomes
     
 
-### **Veil of Unspoken Light**
+### Veil of Unspoken Light
 
 A scorched shawl woven from martyr-ash scripture.
 
@@ -95,7 +97,7 @@ A scorched shawl woven from martyr-ash scripture.
 - Soft luminescence follows her steps
     
 
-### **Votive Emberbrands**
+### Votive Emberbrands
 
 Ritual sigils carved into her arms and palms—one for every life saved.  
 Some dim. Some blaze gold.  
@@ -103,7 +105,7 @@ A few, newly carved, smolder with unspent miracles.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 8 S-Rank, 12 A-Rank, 4 forbidden-site purges
     
@@ -116,7 +118,7 @@ A few, newly carved, smolder with unspent miracles.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 **No direct quotes exist.**
 
@@ -131,7 +133,7 @@ Her **nonverbal rites** are widely known:
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - No spell, prayer, or telepathy has ever detected **language** in her mind.
     
@@ -144,7 +146,7 @@ Her **nonverbal rites** are widely known:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Hagiography & Miraculous Phenomena Bureau)**  

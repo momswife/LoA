@@ -237,7 +237,13 @@ You know the _eldritch blast_ cantrip. Choose two 1st-level ritual spells from t
 
 ---
 
-## X. Homeland Traits
+## X. Recognized Sublineages
+
+No distinct Jackal sublineages are currently documented. Hidden-city origin, age, magical practice, and chosen passion do not establish inherited divisions.
+
+---
+
+## XI. Homeland Imprints
 
 Jackals do not conform to traditional homelands. Their cities lie beneath oceans, within clouds, or folded between forgotten moments. A Jackal character selects one of the following options with DM approval.
 
@@ -253,7 +259,7 @@ You have advantage on Intelligence (History) checks related to ancient ruins, lo
 
 ---
 
-## XI. Playing a Jackal
+## XII. Playing a Jackal
 
 Consider:
 
@@ -274,7 +280,7 @@ Ancient is not omniscient.
 
 ---
 
-## XII. Registry and Table Advisory
+## XIII. Registry and Table Advisory
 
 > [!warning] Rare Lineage Advisory  
 > Jackal characters require explicit agreement about age, historical knowledge, hidden-city access, memory alteration, adopted cultural traits, and mechanical balance.

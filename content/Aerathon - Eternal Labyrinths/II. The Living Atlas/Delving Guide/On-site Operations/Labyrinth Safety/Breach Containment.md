@@ -4,7 +4,7 @@
 
 ---
 
-# **Breach Containment**
+# Breach Containment
 
 **Filed Division:** _Ministry of Delving Operations — Arcane Breach Division (Hazard Response Command)_  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Field Commander)  
@@ -24,13 +24,13 @@ Failure to follow them can escalate a breach from a localized threat into a **Co
 
 ---
 
-# **I. Classification of Breach Events**
+## I. Classification of Breach Events
 
 Breaches are sorted into five recognized categories:
 
 ---
 
-## **1. Type I — Spatial Rupture**
+### 1. Type I — Spatial Rupture
 
 Symptoms:
 
@@ -46,7 +46,7 @@ Requires stabilizing anchors and reality-reset glyphs.
 
 ---
 
-## **2. Type II — Monster Overflow**
+### 2. Type II — Monster Overflow
 
 Symptoms:
 
@@ -60,7 +60,7 @@ Often triggered by disturbance of monster lords.
 
 ---
 
-## **3. Type III — Curse Bloom**
+### 3. Type III — Curse Bloom
 
 Symptoms:
 
@@ -78,7 +78,7 @@ Containment requires anti-curse obelisks and mental ward deployment.
 
 ---
 
-## **4. Type IV — Planar Contamination**
+### 4. Type IV — Planar Contamination
 
 Symptoms:
 
@@ -96,7 +96,7 @@ Extremely dangerous; controlled by specialized task forces.
 
 ---
 
-## **5. Type V — Convergence Resonance Breach**
+### 5. Type V — Convergence Resonance Breach
 
 Symptoms:
 
@@ -112,9 +112,9 @@ Only recorded in proximity to N-Class teams or convergence-linked relics.
 
 ---
 
-# **II. Core Principles of Breach Containment**
+## II. Core Principles of Breach Containment
 
-## **1. Establish the Perimeter**
+### 1. Establish the Perimeter
 
 First responders must:
 
@@ -127,7 +127,7 @@ First responders must:
 - Summon Divine Oculi for live mapping
     
 
-## **2. Assess Breach Type Immediately**
+### 2. Assess Breach Type Immediately
 
 Use:
 
@@ -140,7 +140,7 @@ Use:
 - Divine Oculi hazard pulses
     
 
-## **3. Prevent Escalation**
+### 3. Prevent Escalation
 
 Delvers must not:
 
@@ -153,7 +153,7 @@ Delvers must not:
 - Cast destabilizing magic (wild surges, fire storms, temporal spells)
     
 
-## **4. Seal, Not Destroy**
+### 4. Seal, Not Destroy
 
 Destruction of breach edges may:
 
@@ -167,11 +167,11 @@ Destruction of breach edges may:
 
 ---
 
-# **III. Standard Operating Procedure (SOP)**
+## III. Standard Operating Procedure (SOP)
 
 ---
 
-## **Step 1 — Breach Lockdown (Code: BL-1)**
+### Step 1 — Breach Lockdown (Code: BL-1)
 
 - Deploy containment barriers
     
@@ -182,7 +182,7 @@ Destruction of breach edges may:
 
 ---
 
-## **Step 2 — Stabilization (Code: ST-3)**
+### Step 2 — Stabilization (Code: ST-3)
 
 Scrywrights and ABD agents anchor the rupture via:
 
@@ -197,7 +197,7 @@ Scrywrights and ABD agents anchor the rupture via:
 
 ---
 
-## **Step 3 — Threat Neutralization (Code: TN-7)**
+### Step 3 — Threat Neutralization (Code: TN-7)
 
 Field squads resolve:
 
@@ -212,7 +212,7 @@ Delvers are authorized to use lethal force when necessary.
 
 ---
 
-## **Step 4 — Seal the Breach (Code: SB-5)**
+### Step 4 — Seal the Breach (Code: SB-5)
 
 Seal via:
 
@@ -227,7 +227,7 @@ Seal via:
 
 ---
 
-## **Step 5 — Post-Containment Audit (Code: PC-2)**
+### Step 5 — Post-Containment Audit (Code: PC-2)
 
 Mandatory procedures:
 
@@ -246,7 +246,7 @@ All breach data enters the Ministerial Archive.
 
 ---
 
-# **IV. Forbidden Actions Inside Breach Zones**
+## IV. Forbidden Actions Inside Breach Zones
 
 - Do **not** attempt to use Blessing Tokens
     
@@ -265,33 +265,33 @@ Violations are high infractions under Ministerial law.
 
 ---
 
-# **V. Breach Containment Specialists**
+## V. Breach Containment Specialists
 
 Key roles include:
 
-### **Arcane Breach Engineer**
+#### Arcane Breach Engineer
 
 Stabilizes spatial tears.
 
-### **Warden-Arcanist**
+#### Warden-Arcanist
 
 Handles curse blooms and emotional contamination.
 
-### **Hazard Vanguard**
+#### Hazard Vanguard
 
 Clears hostile fauna and holds the perimeter.
 
-### **Scrywright Technician**
+#### Scrywright Technician
 
 Deploys anti-distortion runes and supports Oculi mapping.
 
-### **Oculi Liaison (Lt. Rank+)**
+#### Oculi Liaison (Lt. Rank+)
 
 Interprets divine hazard pulses and anomaly readings.
 
 ---
 
-# **VI. Role of the Divine Oculi in Breach Events**
+## VI. Role of the Divine Oculi in Breach Events
 
 Oculi provide:
 
@@ -311,11 +311,11 @@ Oculi provide:
 
 ---
 
-# **VII. Special Protocols for N-Class Teams**
+## VII. Special Protocols for N-Class Teams
 
 N-Class teams (such as **Unit N-7**) are uniquely tied to Convergence phenomena and may be deployed in breach scenarios that exceed standard response capacity.
 
-### **N-Class Privileges**
+#### N-Class Privileges
 
 - **Automatic authorization** to enter Tier 4–5 breach events
     
@@ -326,7 +326,7 @@ N-Class teams (such as **Unit N-7**) are uniquely tied to Convergence phenomena 
 - **Direct routing** to Core-linked hazard data
     
 
-### **N-Class Responsibilities**
+#### N-Class Responsibilities
 
 - Must report resonance anomalies
     
@@ -335,7 +335,7 @@ N-Class teams (such as **Unit N-7**) are uniquely tied to Convergence phenomena 
 - Must refrain from relic removal unless commanded by the Core or the Ministry
     
 
-### **N-Class Risks**
+#### N-Class Risks
 
 Their presence may:
 
@@ -350,7 +350,7 @@ Thus, deployment is considered high-stakes and strategic.
 
 ---
 
-# **VIII. Why Breach Containment Matters**
+## VIII. Why Breach Containment Matters
 
 If breaches go uncontained:
 
@@ -375,7 +375,7 @@ But it respects what happens when the Labyrinth stops playing by its own rules.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Hazard Response Command)**  

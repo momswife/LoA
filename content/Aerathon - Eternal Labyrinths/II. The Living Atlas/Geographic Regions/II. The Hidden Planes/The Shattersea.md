@@ -1,7 +1,7 @@
 >_“The Shattersea is not a place; it is what remains of the word ‘was.’”_  
 — **Lt. Salvia Korrin**, _Breach Division Transcript 1420-A_
-___
-# **The Shattersea**
+---
+# The Shattersea
 
 ### _The First Realm — “Where Creation Broke Its Own Reflection.”_
 
@@ -13,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Shattersea** is believed to be the **origin and grave of creation**, a vast, otherworldly ocean composed of liquid memory and fractured light.  
 It exists beneath no horizon and above no heaven — a liminal expanse of glassy waves that reflect what _was_ rather than what _is._
@@ -29,7 +29,7 @@ Sailors and delvers alike whisper that every drop of its water remembers somethi
 
 ---
 
-## **II. Theological and Historical Context**
+## II. Theological and Historical Context
 
 Arcanists of the early Ministry believed the Shattersea formed when the first gods **spoke creation into being and then shattered their own words.**  
 The fragments — language turned to matter — became the foundation of all planes.
@@ -41,9 +41,9 @@ Scholars call this phenomenon the **Resonant Confluence**, the source of relic �
 
 ---
 
-## **III. Observed Properties**
+## III. Observed Properties
 
-### **Physical Traits**
+### Physical Traits
 
 - Water density shifts with observer memory; can harden into glass or mist upon recollection.
     
@@ -52,7 +52,7 @@ Scholars call this phenomenon the **Resonant Confluence**, the source of relic �
 - Objects and people cast multiple reflections, each depicting alternate choices.
     
 
-### **Temporal Behavior**
+### Temporal Behavior
 
 Time moves unevenly; Ministry probes show paradoxical aging, with organic matter “reversing” to pre-embryonic states before dissolving.  
 Lt. Korrin’s report:
@@ -61,7 +61,7 @@ Lt. Korrin’s report:
 
 ---
 
-## **IV. Known Hazards**
+## IV. Known Hazards
 
 - **Memory Displacement:** Visitors often awaken with rewritten histories.
     
@@ -74,7 +74,7 @@ The Ministry keeps all expeditions under **Echo-Silence Protocol** — no record
 
 ---
 
-## **V. Inhabitants & Entities**
+## V. Inhabitants & Entities
 
 There are no confirmed living natives, yet field agents have documented recurring phenomena:
 
@@ -89,7 +89,7 @@ Worship of the Architect is forbidden under **Charter §9-I (Cognitive Hazard Cl
 
 ---
 
-## **VI. Influence on the Material Plane**
+## VI. Influence on the Material Plane
 
 The Shattersea’s influence manifests wherever **mirrors, glass, or memory-binding relics** are present.  
 It is said every labyrinth contains a droplet of it in its heart — the core that makes every delve both physical and spiritual.
@@ -108,7 +108,7 @@ These individuals are known informally as **Glassborne**.
 
 ---
 
-## **VII. Ministry Operations & Research**
+## VII. Ministry Operations & Research
 
 Active exploration is suspended following **Incident 41-C: The Glasswake Breach**, wherein a research vessel returned crewless but broadcasting forty-two simultaneous copies of its log.
 
@@ -124,7 +124,7 @@ Lt. Korrin personally oversees dream traversal permissions under **Echo Code 7/1
 
 ---
 
-## **VIII. Cultural & Religious Significance**
+## VIII. Cultural & Religious Significance
 
 Among the faithful of Arneria, the Shattersea is revered as the place where gods “drowned themselves to become prayers.”  
 In Al’ar, poets claim every artist sails its surface in dreams.  
@@ -134,7 +134,7 @@ Despite the Ministry’s caution, countless delvers yearn for it — the ocean t
 
 ---
 
-## **IX. Theoretical Impact on Delving**
+## IX. Theoretical Impact on Delving
 
 Exposure to relics with **Shattersea resonance** grants both insight and instability.  
 Effects include:
@@ -150,7 +150,7 @@ Veteran delvers refer to this phenomenon as “sea-mind” — a euphoric clarit
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 The Shattersea remains the **archetypal myth** of Aerathon: proof that creation itself can fracture and still function.  
 It is the oldest metaphor and the newest obsession — the mirror every civilization eventually mistakes for salvation.
@@ -161,7 +161,7 @@ The Ministry’s standing order endures:
 
 ---
 
-### **Planar Feature: Echo-Touched Memory**
+### Planar Feature: Echo-Touched Memory
 
 _Characters or relics influenced by the Shattersea gain the following trait:_
 
@@ -169,7 +169,7 @@ _Characters or relics influenced by the Shattersea gain the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Planar Inquiry & Origin Studies)**  

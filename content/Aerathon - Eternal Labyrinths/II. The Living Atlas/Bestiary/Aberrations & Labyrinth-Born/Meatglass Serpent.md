@@ -3,7 +3,7 @@
 
 ---
 
-# **Meatglass Serpent**
+# Meatglass Serpent
 
 ### _The Transparent Devourer — “When Flesh Learns the Shape of Memory.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Meatglass Serpent** is a semi-translucent aberration endemic to the lower strata of **Monster Meadows** and the **eastern trenches of Allemance**.  
 It resembles a colossal eel or serpent formed entirely from **translucent flesh** that refracts light like molten glass, revealing preserved organs and bones suspended within its body — trophies of prior meals still pulsing faintly with stolen life.
@@ -25,7 +25,7 @@ It is simultaneously **biological and crystalline**, its tissue oscillating betw
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -39,7 +39,7 @@ When it feeds, heat distorts the air around it as internal temperature spikes be
 
 ---
 
-## **III. Behavior & Feeding**
+## III. Behavior & Feeding
 
 Meatglass Serpents are solitary ambush predators inhabiting labyrinth corridors, relic lakes, and ossuary vaults.  
 They are **phototropic** (attracted to light) and **resonance-sensitive**, reacting violently to sound or spellcasting.
@@ -62,7 +62,7 @@ Post-feeding behavioral shifts often include mimicry of victim’s voice or gest
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Primarily localized in **lower Monster Meadows**, where heat, moisture, and ambient relic energy foster glass-fusion ecosystems.  
 Secondary sightings confirmed in flooded mines beneath **Porta Strega**, suggesting subterranean channel connection between rift systems.
@@ -71,7 +71,7 @@ Ministry sonar from 3729 indicates at least **four living specimens** exceeding 
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Flesh samples retain heat and low-level consciousness for up to 12 hours post-separation.
     
@@ -86,7 +86,7 @@ Ministry sonar from 3729 indicates at least **four living specimens** exceeding 
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -99,7 +99,7 @@ If surroundings begin to shimmer despite darkness, **seal eyes and cease movemen
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -110,7 +110,7 @@ All specimens stored in Cryo-Vault #41, Louvain Branch, triple seal Korrin / Vel
 
 ---
 
-## **VIII. Containment & Risk Status**
+## VIII. Containment & Risk Status
 
 - **Classification:** Level IV — High Threat / Cognitive Hazard.
     
@@ -131,7 +131,7 @@ All specimens stored in Cryo-Vault #41, Louvain Branch, triple seal Korrin / Vel
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Beastfolk Miners** call them “Clearworms,” believed to be miners’ sins made visible.
     
@@ -146,7 +146,7 @@ One recovered delver journal reads:
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Meatglass Serpent** is Aerathon’s most intimate predator — it does not consume life, but remembrance.  
 Its body is a moving archive of every failure below the earth, each scale a window through which the past stares back.  
@@ -154,7 +154,7 @@ To kill one is mercy; to see yourself glowing inside it is far too late.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)**  

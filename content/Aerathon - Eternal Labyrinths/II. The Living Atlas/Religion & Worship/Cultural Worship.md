@@ -1,3 +1,5 @@
+# Cultural Worship
+
 ### _Faith as Lived Culture in a Secularizing Delver Age_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Religious practice in Aerathon is best understood not as obedience to the divine, but as **cultural continuity**—a shared language of symbols, festivals, rituals, and stories.
 
@@ -31,7 +33,7 @@ For delvers specifically, worship has shifted from reverence to **ritualized psy
 
 ---
 
-## **II. Household Worship: Tradition Without Doctrine**
+## II. Household Worship: Tradition Without Doctrine
 
 Most homes maintain shrines to 1–3 favored deities. These shrines:
 
@@ -63,7 +65,7 @@ Even secular families keep these shrines—religion persists as _tradition, not 
 
 ---
 
-## **III. Occupational Worship: Practical and Ritualistic**
+## III. Occupational Worship: Practical and Ritualistic
 
 Work-based worship survives because it functions:
 
@@ -74,7 +76,7 @@ Work-based worship survives because it functions:
 - and symbolically.
     
 
-### **Examples**
+### Examples
 
 - **Artisans** offer a token to Gond before a major project.
     
@@ -89,29 +91,29 @@ These actions are often habitual rather than devout—particularly among younger
 
 ---
 
-## **IV. Regional Worship Traditions**
+## IV. Regional Worship Traditions
 
-### **Louvain & Central Cities**
+### Louvain & Central Cities
 
 Faith is woven into **civic life**, not personal devotion.  
 Temples double as archives, schools, and public squares.
 
-### **Vinyot Frontier**
+### Vinyot Frontier
 
 Rural worship remains culturally important, especially among Beastfolk.  
 However, younger generations—especially delvers—adopt more secular views.
 
-### **Coastal Regions**
+### Coastal Regions
 
 Umberlee’s cult persists mostly from **fear and tradition**, not theological belief.  
 Selûnite rites remain popular for their beauty and communal bonding.
 
-### **Bramblecross & Beastfolk Provinces**
+### Bramblecross & Beastfolk Provinces
 
 Worship remains a _marker of identity_, though even here doctrinal belief is fading.  
 Some Beastfolk maintain Old Pantheon gestures unconsciously.
 
-### **Undercities & Black Markets**
+### Undercities & Black Markets
 
 Religion appears mostly as **subcultural aesthetics**:
 
@@ -128,7 +130,7 @@ Few adherents hold true doctrinal positions.
 
 ---
 
-## **V. Worship in Delver Culture**
+## V. Worship in Delver Culture
 
 ### _A shift from devotion to superstition_
 
@@ -148,28 +150,28 @@ True devotion is increasingly rare.
 
 ---
 
-### **Common Delver Practices Today**
+### Common Delver Practices Today
 
-#### **1. The Luck Tap (Tymora)**
+#### 1. The Luck Tap (Tymora)
 
 Tapping a coin before a delve.  
 Now seen as habit, not prayer.
 
-#### **2. Helm’s Touch**
+#### 2. Helm’s Touch
 
 Running fingers across a guard sigil or gauntlet engraving.  
 A gesture of readiness, not reverence.
 
-#### **3. Dawnmark Sign (Lathander)**
+#### 3. Dawnmark Sign (Lathander)
 
 Common among guilds as a _branding ritual_, not ideological practice.
 
-#### **4. Mask’s Quiet**
+#### 4. Mask’s Quiet
 
 A circle drawn in dust or dirt before a stealth mission.  
 Half superstition, half team psychology.
 
-#### **5. Malarite Blood-Sign**
+#### 5. Malarite Blood-Sign
 
 Now reserved for traditionalist Beastfolk or frontier delvers.  
 Increasingly rare.
@@ -180,7 +182,7 @@ Delver chaplains note that most young delvers see religious gestures as:
 
 ---
 
-## **VI. Festival Participation & Secular Joy**
+## VI. Festival Participation & Secular Joy
 
 Even as belief wanes, participation in religious festivals is **increasing**, driven by:
 
@@ -213,7 +215,7 @@ Delvers, especially, attend festivals because:
 
 ---
 
-## **VII. Ritual Speech & Prayer: Shortened, Secularized**
+## VII. Ritual Speech & Prayer: Shortened, Secularized
 
 Modern prayers are shorter, more symbolic, and often reinterpreted as poetry.
 
@@ -232,7 +234,7 @@ Young delvers may speak these lines ironically, out of habit, or as personal man
 
 ---
 
-## **VIII. Worship as Identity, Not Belief**
+## VIII. Worship as Identity, Not Belief
 
 In cities and guilds, divine symbols often function as **identity markers**, not devotional claims:
 
@@ -255,7 +257,7 @@ Even harsh gods appear as **aesthetic subculture** (Shar, Loviatar, Beshaba) rat
 
 ---
 
-## **IX. Ministry Assessment
+## IX. Ministry Assessment
 
 |Category|Status|
 |---|---|
@@ -284,7 +286,7 @@ Where gods remain distant, delvers build their own meaning.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)**  

@@ -3,7 +3,7 @@
 
 ---
 
-# **Aurora Stag**
+# Aurora Stag
 
 ### _Crownlights of the Nattefrost Expanse — “The Sky’s Memory Given Hooves.”_
 
@@ -18,7 +18,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Aurora Stag** is a legendary tundra species that inhabits the **Nattefrost Expanse**, sharing migratory corridors with the **Frost-Mane Elk** but existing in smaller, more elusive herds.  
 Where the Frost-Mane tempers the cold, the Aurora Stag **creates light from it** — bending ambient mana through crystalline antlers that refract auroral ribbons into the night sky.
@@ -30,7 +30,7 @@ Local trappers call them _“Skyborne Kings,”_ believing their gallop sustains
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Aurora Stags are sleek, tall cervids with pale silver coats that shimmer like mirrored frost under moonlight.  
 Their **antlers** are the defining trait — a prismatic lattice of translucent crystal that constantly hums with refracted mana.  
@@ -44,7 +44,7 @@ During high aurora activity, these antlers glow in gradients of turquoise, viole
 |**Eye Color**|Pale opal, shifting hue with local aurora|
 |**Diet**|Frost lichen, mana-infused moss, glacial salt|
 |**Temperament**|Cautious, migratory, fiercely protective of calves|
-## **III. Habitat & Behavior**
+## III. Habitat & Behavior
 
 Aurora Stags dwell in **high-altitude plateaus**, **ley-charged permafrost fields**, and **crystalline valleys** where sunlight refracts strongly through ice.  
 They move seasonally between **the Nattefrost**, **northern Oria**, and the **Isle of Cries** when leyflow surges northward.
@@ -64,19 +64,19 @@ They move seasonally between **the Nattefrost**, **northern Oria**, and the **Is
 
 ---
 
-## **IV. Magical Properties**
+## IV. Magical Properties
 
 The Aurora Stag channels **photomantic resonance** — absorbing ambient mana and releasing it as structured light.  
 When startled, it emits a **“Radiant Bloom”** — a blinding halo that disrupts sight and suppresses evocation magic within 60 ft for up to 10 seconds.  
 Their hooves leave behind faintly glowing prints that linger for hours, often mistaken as waypoints by delvers lost in whiteouts.
 
-### **Aurora Trails**
+### Aurora Trails
 
 Each step along migration paths infuses the snow with prismatic frost. Scholars believe these trails form **temporary ley conduits** that equalize mana discharge across the tundra, preventing geomantic collapse during auroral storms.
 
 ---
 
-## **V. Ecological Role**
+## V. Ecological Role
 
 Aurora Stags serve as **environmental regulators** in polar ecosystems:
 
@@ -91,7 +91,7 @@ The Ministry categorizes them as _Tier-I Preservation Priority_; poaching or art
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -105,7 +105,7 @@ The Ministry categorizes them as _Tier-I Preservation Priority_; poaching or art
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -116,7 +116,7 @@ Harvest restricted to natural shed materials only; Ministry patrols enforce zero
 
 ---
 
-## **VIII. Cultural & Mythic Notes**
+## VIII. Cultural & Mythic Notes
 
 - **Beastfolk of Oria:** Call them _“Dawn-Walkers.”_ Tradition says the gods painted the first sky upon their antlers.
     
@@ -129,7 +129,7 @@ Harvest restricted to natural shed materials only; Ministry patrols enforce zero
 
 ---
 
-## **IX. Containment & Research Status**
+## IX. Containment & Research Status
 
 - **Classification:** Level I — Protected Natural Fauna / Low Threat, High Significance.
     
@@ -146,7 +146,7 @@ No specimens currently held in Ministry custody; to capture one is considered ec
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Aurora Stag** is the breath between storm and silence — living light treading frozen earth.  
 It is neither prey nor spirit, but the north’s living covenant with the sky: a reminder that beauty in Aerathon can still be born of balance, not violence.  
@@ -154,7 +154,7 @@ When its antlers blaze, even the labyrinths pause to watch.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)**  

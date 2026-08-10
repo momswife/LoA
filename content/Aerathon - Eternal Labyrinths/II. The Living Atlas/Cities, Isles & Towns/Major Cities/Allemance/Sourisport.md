@@ -1,3 +1,5 @@
+# Sourisport
+
 ### _The Snap of the Causeway — “If You Made It This Far, You’ve Earned a Drink.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Causeway Cities & Cultural Faultlines)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Sourisport** marks the **western terminus of the Causeway**, the great bridge-road that stretches across the **Strait of Glass** toward Arneria. It is the last city travelers encounter before leaving Allemance—and the first place where Arnerian restraint decisively unravels.
 
@@ -24,11 +26,11 @@ Sourisport is where it **breaks into celebration**.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Sourisport sprawls along the coast at the edge of the **Strait of Glass**, its docks extending outward like open arms.
 
-### **The Causeway Shore**
+### The Causeway Shore
 
 The massive bridge fades into the horizon eastward, its shadow falling across:
 
@@ -43,7 +45,7 @@ The massive bridge fades into the horizon eastward, its shadow falling across:
 
 The closer one gets to the bridge, the louder the city becomes—as if to drown out second thoughts.
 
-### **Cityscape**
+### Cityscape
 
 Architecture blends:
 
@@ -56,7 +58,7 @@ Buildings lean close together, streets curve unpredictably, and everything seems
 
 ---
 
-## **III. History**
+## III. History
 
 Sourisport began as a modest harbor settlement serving early Causeway construction crews. Its purpose was practical: supply, rest, and passage.
 
@@ -81,7 +83,7 @@ Sourisport learned early that survival meant **embracing excess before it turned
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Sourisport is governed by a **Harbor Syndicate**, an informal coalition of:
 
@@ -98,7 +100,7 @@ A nominal Allemantic magistrate exists, but real authority lies in consensus and
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Sourisport’s economy is unapologetically indulgent.
 
@@ -118,7 +120,7 @@ it is probably for sale—and taxed.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Sourisport is **private and optional**.
 
@@ -135,7 +137,7 @@ Culturally, Sourisport operates on radical hospitality. Everyone is welcome. Eve
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Sourisport is pragmatic.
 
@@ -150,7 +152,7 @@ Defense is oriented outward: keeping piracy, smuggling wars, and Causeway incide
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Sourisport does not court the Labyrinths—but does not avoid them either.
 
@@ -165,7 +167,7 @@ The city prefers danger that spends coin.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -179,7 +181,7 @@ Sourisport shapes Aerathon not by policy, but by proving where restraint fails.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Sourisport is not proud of excess.  
 It is proud of **honesty**.
@@ -190,7 +192,7 @@ It does not pretend people are better than they are—only that they deserve war
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Taverns open before sunrise and close “eventually”
     
@@ -203,7 +205,7 @@ It does not pretend people are better than they are—only that they deserve war
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Causeway Cities & Cultural Faultlines)**  

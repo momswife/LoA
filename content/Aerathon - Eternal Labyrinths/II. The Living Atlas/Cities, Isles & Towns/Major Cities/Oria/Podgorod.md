@@ -1,3 +1,5 @@
+# Podgorod
+
 ### _The Deep That Moves — “If It Turns, It Lives.”_
 
 **Ruling House:** **House Bronzemolev** (Oric Ligonine — Subterranean Engineers)  
@@ -9,7 +11,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Podgorod** is a fully subterranean Oric lodge city carved entirely within **frozen mountain rock**, renowned as Aerathon’s foremost center of underground engineering, mechanized labor, and cold-climate agriculture.
 
@@ -24,11 +26,11 @@ The city is ruled by **House Bronzemolev**, a ligonine Oric house whose authorit
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Podgorod exists entirely below the mountain’s surface.
 
-### **The Deep Corridors**
+### The Deep Corridors
 
 - Excavated through frozen stone rather than soil
     
@@ -39,7 +41,7 @@ Podgorod exists entirely below the mountain’s surface.
 
 Brass gears, pistons, and rotating shafts are omnipresent. Their sound—whirring, clicking, pulsing—is the city’s heartbeat.
 
-### **Vertical Design**
+### Vertical Design
 
 Podgorod descends rather than spreads:
 
@@ -61,7 +63,7 @@ Light is provided by:
 
 ---
 
-## **III. History**
+## III. History
 
 Podgorod was founded by necessity and stubbornness.
 
@@ -73,7 +75,7 @@ What began as a risky excavation became a revelation. Podgorod pioneered **subte
 
 As mining expanded, so did invention. Waterwheels turned carts. Pistons lifted elevators. Clockwork golems replaced dangerous manual labor. Podgorod became a city that **did not sleep**, because stopping meant failure.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1121 A.D.** — First successful excavation through frozen mountain strata without structural collapse.
     
@@ -88,7 +90,7 @@ Podgorod proved that the mountain could be taught to work.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Podgorod is governed by **House Podgorod**, whose stewardship is held by the **Bronzemolev family**, an Oric house renowned for producing master engineers, mechanists, and subterranean planners. Unlike most Houses, leadership here is not inherited by age or acclaim alone—it is **proven through systems mastery**.
 
@@ -105,7 +107,7 @@ Leadership transitions occur not through ceremony, challenge, or vote—but thro
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Podgorod’s economy is built on **functionality and exportable innovation**.
 
@@ -126,7 +128,7 @@ While many in Aerathon consider steam engines unreliable, **Podgorod engines** a
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Podgorod’s culture reveres **process**.
 
@@ -143,7 +145,7 @@ Ligonine traditions emphasize **tinkering as devotion**—to improve a system is
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Podgorod is strict, technical, and unforgiving of negligence.
 
@@ -158,7 +160,7 @@ Clockwork golems serve as guards, laborers, and emergency responders.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Podgorod treats the Labyrinths with extreme caution.
 
@@ -173,7 +175,7 @@ Uncontrolled variables are unacceptable.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -187,7 +189,7 @@ If Podgorod stops innovating, Oria feels it within months.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Podgorod believes progress is not loud.
 
@@ -197,7 +199,7 @@ It is measured in smoother lifts, stronger beams, quieter failures. Its legacy i
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Citizens can identify machines by sound alone
     
@@ -210,7 +212,7 @@ It is measured in smoother lifts, stronger beams, quieter failures. Its legacy i
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Subterranean Cities & Industrial Innovation)**  

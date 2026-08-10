@@ -1,3 +1,5 @@
+# Gonlev
+
 ### _Monastic Hold of the Southern Nattefrost Peaks_
 
 **Region:** **Oria**  
@@ -10,7 +12,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Gonlev** is an isolated monastery concealed within a tight cluster of peaks just south of the **Nattefrost**. The settlement does not appear on most maps and offers no welcome to casual travelers.
 
@@ -20,7 +22,7 @@ Gonlev exists to train, not to teach.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 The monastery is built directly into the rock.
 
@@ -37,7 +39,7 @@ The surrounding peaks serve as both defense and filter. Few who attempt the clim
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Gonlev is largely self-sustaining.
 
@@ -54,7 +56,7 @@ Trade is rare and tightly controlled. What little is needed arrives through prea
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Gonlev is governed by a **Circle of Masters**, selected through merit and survival rather than age.
 
@@ -69,7 +71,7 @@ No House claims Gonlev. The monastery claims itself.
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 No Labyrinth presence is acknowledged near Gonlev.
 
@@ -79,7 +81,7 @@ These rules are followed without explanation.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Gonlev’s monks are severe, focused, and visibly intimidating.
 
@@ -96,7 +98,7 @@ Outsiders often mistake hostility for indifference. The monks make no effort to 
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Stories circulating about Gonlev include:
 

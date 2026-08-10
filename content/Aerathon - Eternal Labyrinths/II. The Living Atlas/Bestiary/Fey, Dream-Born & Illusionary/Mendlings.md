@@ -4,7 +4,7 @@
 
 ---
 
-# **Mendlings**
+# Mendlings
 
 ### _Tiny Repairers of Dreamstuff — “Little Hands That Gather the Fallen Pieces.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Mendlings** are minuscule dream-fey that appear wherever **broken things want to be whole again** — splintered toys, cracked mirrors, torn journals, frayed bonds, or fractured emotions.  
 They embody the tender instinct of mending: the desire to restore, to soothe, to bring back what once was.
@@ -29,7 +29,7 @@ The Ministry classifies them as **Type-FDI / Restorative Dreamborn Entities**, g
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -44,7 +44,7 @@ Their bodies unravel into loose threads if injured, later re-forming once the �
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Mendlings are **compulsive fixers**, correcting disarray in both literal and emotional forms.
 
@@ -67,7 +67,7 @@ They avoid loud conflict, sharp iron, and sudden change.
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Mendlings manifest in quiet, gentle dream-threshold spaces:
 
@@ -88,7 +88,7 @@ They are particularly active during the equinoxes, when dreams and reality brief
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-lens scanning reveals each Mendling carries a **thread-core**, a tiny knot of dreamstuff representing the last thing it tried to fix.
     
@@ -103,7 +103,7 @@ They are particularly active during the equinoxes, when dreams and reality brief
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -116,7 +116,7 @@ Do not allow Mendlings near magical devices — they will _try_ to fix them, oft
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -127,7 +127,7 @@ Artifacts stored in Vault #73 (Louvain Branch), dual seal Stonevoice / Onarra.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level I — Benevolent Dreamborn / Minor Hazard
     
@@ -142,7 +142,7 @@ Artifacts stored in Vault #73 (Louvain Branch), dual seal Stonevoice / Onarra.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Fey Courts:** Call them _“Needle Children,”_ believing they were made from discarded scraps of unfinished dreams.
     
@@ -158,7 +158,7 @@ Artifacts stored in Vault #73 (Louvain Branch), dual seal Stonevoice / Onarra.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Mendlings** are tender, innocent dream-born beings who gather the broken fragments of the world — objects, memories, and hearts alike — and try to stitch them back together, even when they do not fully understand what they’re fixing.
 
@@ -169,7 +169,7 @@ but even the smallest hands can try.**
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)**  

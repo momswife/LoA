@@ -415,7 +415,7 @@ They are frequently found in roles involving communication, coordination, perfor
 
 ### Allemance
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Allemance|Allemance]], Passerids are closely associated with village bells, roadside songs, seasonal gatherings, harvest calls, and the carrying of news between distant households.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], Passerids are closely associated with village bells, roadside songs, seasonal gatherings, harvest calls, and the carrying of news between distant households.
 
 Allemancian Passerid culture places strong value upon familiar voices.
 
@@ -429,7 +429,7 @@ They are practical records of who will answer.
 
 ### Oria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Oria|Oria]], Passerids often work in emergency coordination, machinery signaling, structural inspection, communications, and the management of complex work crews.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]], Passerids often work in emergency coordination, machinery signaling, structural inspection, communications, and the management of complex work crews.
 
 Oric Passerids tend to value clarity over beauty.
 
@@ -439,7 +439,7 @@ Several Oric Houses maintain standardized emergency choruses capable of coordina
 
 ### Vinyot
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Vinyot|Vinyot]], the voice can become an asset, brand, weapon, or debt.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], the voice can become an asset, brand, weapon, or debt.
 
 Passerids are prominent in music, theatre, advertising, auctioneering, journalism, diplomacy, sales, public relations, and political campaigning.
 
@@ -451,7 +451,7 @@ Passerid-led legal movements have fought extensively over who owns a recorded pe
 
 ### Arneria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Arneria|Arneria]], Passerids serve as ritual singers, oath-responders, chanters, heralds, mourners, and keepers of sacred oral traditions.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]], Passerids serve as ritual singers, oath-responders, chanters, heralds, mourners, and keepers of sacred oral traditions.
 
 Certain rites require a congregation to answer in exact sequence.
 
@@ -463,7 +463,7 @@ Arnerian Passerids often distinguish carefully between sacred song, work song, m
 
 ### Al’Ar
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Al'Ar|Al’Ar]], Passerid cultures flourish in dock-cities, cliff settlements, traveling companies, storm shelters, and rebuilding communities.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], Passerid cultures flourish in dock-cities, cliff settlements, traveling companies, storm shelters, and rebuilding communities.
 
 Songs change quickly in Al’Ar.
 

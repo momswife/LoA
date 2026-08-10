@@ -207,17 +207,39 @@ Ask before touching another person’s beard, tools, or memorial marks.
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Dwarf ancestry traits for creature type, size, speed, vision, resilience, and other core features.
+### Creature Type
 
-The Stronghold Traits below represent upbringing and regional training. They supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
 
-A Dwarf may select any Stronghold Trait appropriate to where they were raised or trained. It need not match birthplace, clan ancestry, or current residence.
+### Ability Score Increase
+
+Your Constitution score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 25 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Dwarf ancestry traits for vision, resilience, and other core features.
 
 ---
 
-## X. Stronghold Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Dwarf sublineages are currently documented. Do not infer ancestry from a Dwarf’s homeland, clan, profession, or stronghold.
+
+Regional upbringing and training are represented by the Homeland Imprints below.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Guildhammer Wit
 
@@ -241,7 +263,7 @@ You gain a swim speed of 25 feet. You can hold your breath for up to 15 minutes 
 
 ---
 
-## XI. Playing a Dwarf
+## XII. Playing a Dwarf
 
 Consider:
 
@@ -264,7 +286,7 @@ It does not assign a life.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Dwarven lineage does not indicate mining ability, weapon knowledge, alcohol tolerance, emotional reserve, stubbornness, or consent to dangerous labor.

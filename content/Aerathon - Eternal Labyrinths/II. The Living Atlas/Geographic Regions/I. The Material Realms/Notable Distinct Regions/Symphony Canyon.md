@@ -3,7 +3,7 @@
 
 ---
 
-# **Symphony Canyon**
+# Symphony Canyon
 
 ### _The Song of Falling Waters — “Where the World Learns Its Own Music.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 South of **Mansque** and **Fort Kingsfang**, the **Alley Basin** splits open into a ravine where three mighty rivers converge.  
 At their union, water does not roar — it **sings**.  
@@ -26,7 +26,7 @@ To scholars it is an echo of creation itself; to musicians, proof that sound rem
 
 ---
 
-## **II. Geography & Structure**
+## II. Geography & Structure
 
 |**Feature**|**Description**|
 |---|---|
@@ -39,7 +39,7 @@ During equinox storms, the entire gorge glows as though filled with aurorae.
 
 ---
 
-## **III. Historical Chronology**
+## III. Historical Chronology
 
 |**Date (A.D.)**|**Event**|**Result / Impact**|
 |---|---|---|
@@ -48,8 +48,8 @@ During equinox storms, the entire gorge glows as though filled with aurorae.
 |**2740**|“Resonance Flood” — over-chanting collapsed southern cliff; created secondary echo basin.|300+ casualties; foundation of safety code.|
 |**3512**|Discovery of Harmonic Caverns; resonance readings reach divine frequency tier (M-13).|Sealed for controlled access.|
 |**3725**|Universal Symphony recorded for first time using Ministry phonograph crystal.|Data archived; audio induces lucid dreaming.|
-___
-## **IV. Cultural & Religious Significance**
+---
+## IV. Cultural & Religious Significance
 
 - **Faith of Milil and Corellon:** Regard the Canyon as a holy throat through which Aerathon praises its maker.
     
@@ -62,7 +62,7 @@ Every decade, the **Festival of the Ninth Chord** draws tens of thousands. Parti
 
 ---
 
-## **V. Documented Phenomena**
+## V. Documented Phenomena
 
 |**Designation**|**Nature**|**Effect**|
 |---|---|---|
@@ -70,8 +70,8 @@ Every decade, the **Festival of the Ninth Chord** draws tens of thousands. Parti
 |**Memory Echoes**|Psychic Residue|Spoken words persist for days, re-emerging as harmonic refrains.|
 |**Pitch Phantoms**|Aural Constructs|Manifestations of pure tone; appear as shimmering silhouettes.|
 |**Silent Measures**|Temporal Distortion|Time freezes for length of a held note when played perfectly in tune.|
-___
-## **VI. Scientific Theories**
+---
+## VI. Scientific Theories
 
 1. **Resonant Genesis Model** — The Canyon channels planetary ley flow into harmonic compression, recreating the tonal pattern that birthed the planes.
     
@@ -84,7 +84,7 @@ ___
 
 ---
 
-## **VII. Ecological & Magical Life**
+## VII. Ecological & Magical Life
 
 |**Entity**|**Origin**|**Notes**|
 |---|---|---|
@@ -92,8 +92,8 @@ ___
 |**Echo Sprites**|Fey-Aural|Tiny sound elementals maintaining resonance balance; mimic laughter.|
 |**Maelody**|Aberrant|Leviathan of mist appearing during over-harmonization; feeds on rhythm itself.|
 |**Sonic Crystals**|Mineral|Grow faster when sung to; used in instrument crafting and resonance armor.|
-___
-## **VIII. Hazards & Containment**
+---
+## VIII. Hazards & Containment
 
 |**Hazard**|**Description**|
 |---|---|
@@ -105,7 +105,7 @@ MDO directive mandates decibel limits for all performances within canyon bounds.
 
 ---
 
-## **IX. Associated Artifacts**
+## IX. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -117,7 +117,7 @@ Stored under Vault #72, Louvain Branch, dual seal Stonevoice & Korrin.
 
 ---
 
-## **X. Modern Status**
+## X. Modern Status
 
 - **Classification:** Level II Containment / High-Observation Site.
     
@@ -134,7 +134,7 @@ Stored under Vault #72, Louvain Branch, dual seal Stonevoice & Korrin.
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Symphony Canyon** is Aerathon’s living hymn — a wound that heals by singing.  
 Its waters remember every voice, mortal or divine, and repeat them until the world hums in harmony once more.  
@@ -142,7 +142,7 @@ To stand within its mist is to hear the heartbeat of creation keeping time.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Aural & Cultural Phenomena Registry)**  

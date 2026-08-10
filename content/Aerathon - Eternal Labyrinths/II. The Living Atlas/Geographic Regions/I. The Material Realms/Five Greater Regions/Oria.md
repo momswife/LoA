@@ -1,3 +1,5 @@
+# Oria
+
 ### _The Hammerlands of the North — “The House Endures.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Confederations)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Oria** is not a kingdom, republic, or empire. It is a **confederation of autonomous city-states**, each governed by its own **House**, bound together by necessity, shared geography, and an unspoken agreement: **no House rules another**.
 
@@ -31,7 +33,7 @@ To rule Oria from a single hall would be a contradiction in terms.
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 Oria occupies Aerathon’s northern reaches, defined by **mountains, ice seas, and engineered survival**.
 
@@ -50,7 +52,7 @@ The land is unforgiving by default. Oria survives not by taming it, but by **bui
 
 ---
 
-## **III. Political Structure: The Houses**
+## III. Political Structure: The Houses
 
 Oria is governed through its **Houses**, each one synonymous with its city.
 
@@ -65,7 +67,7 @@ There is **no hierarchy of Houses**. Influence flows from function, not decree:
 
 Inter-House matters are negotiated through temporary accords, seasonal pacts, and emergency understandings. These arrangements dissolve once their purpose is fulfilled.
 
-### **Recognized Houses of Oria**
+### Recognized Houses of Oria
 
 |House (City)|Seat (Steward Family)|Civic Function|
 |---|---|---|
@@ -81,7 +83,7 @@ Inter-House matters are negotiated through temporary accords, seasonal pacts, an
 
 ---
 
-## **IV. Oric Law & Custom**
+## IV. Oric Law & Custom
 
 Oric law is **functional**, not ideological.
 
@@ -100,7 +102,7 @@ Written law exists, but **precedent and recorded failure** carry equal weight.
 
 ---
 
-## **V. People & Cultural Identity**
+## V. People & Cultural Identity
 
 Oric identity is **House-first**.
 
@@ -126,7 +128,7 @@ Lineage matters less than **competence**, though steward families are expected t
 
 ---
 
-## **VI. Economy & Trade**
+## VI. Economy & Trade
 
 Oria exports **reliability**.
 
@@ -152,7 +154,7 @@ Trade is negotiated **House by House**. No external power is permitted to contro
 
 ---
 
-## **VII. Faith & Philosophy**
+## VII. Faith & Philosophy
 
 Faith in Oria is restrained and practical.
 
@@ -164,7 +166,7 @@ Commonly honored figures include **Moradin**, **Gond**, and **Kord**, alongside 
 
 ---
 
-## **VIII. Delving Culture**
+## VIII. Delving Culture
 
 Oria treats delving as **structural stress testing**.
 
@@ -179,7 +181,7 @@ Many delvers trained in Oria are sought after for labyrinths involving shifting 
 
 ---
 
-## **IX. Relations with Other Regions**
+## IX. Relations with Other Regions
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -193,7 +195,7 @@ The Ministry does not “govern” Oria. It **coordinates with it**, one House a
 
 ---
 
-## **X. National Character**
+## X. National Character
 
 Oria does not seek unity.  
 It seeks **function**.
@@ -207,7 +209,7 @@ Instead, Oria distributes authority like load across an arch—each House bearin
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

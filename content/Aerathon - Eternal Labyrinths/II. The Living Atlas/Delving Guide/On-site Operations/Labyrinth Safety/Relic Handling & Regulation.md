@@ -3,7 +3,7 @@
 
 ---
 
-# **Relic Handling & Regulation**
+# Relic Handling & Regulation
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Relic Adjudication Office)_  
 **Primary Compiler:** Curator Rook-of-Rings (Relics Registrar & Tharos Rings Specialist)  
@@ -36,13 +36,13 @@ It is a **public safety mandate**.
 
 ---
 
-# **I. Relic Categories**
+## I. Relic Categories
 
 Relics are classified based on **stability**, **origin**, and **hazard potential**.
 
 ---
 
-## **Category A — Stable Relics**
+### Category A — Stable Relics
 
 - Minor enchantments
     
@@ -58,7 +58,7 @@ glowstones, whisper-notes, portable runebooks.
 
 ---
 
-## **Category B — Semi-Stable Relics**
+### Category B — Semi-Stable Relics
 
 - Mildly volatile
     
@@ -72,7 +72,7 @@ sentient lanterns, echo daggers, gravity coins.
 
 ---
 
-## **Category C — Volatile Relics**
+### Category C — Volatile Relics
 
 - High magical output
     
@@ -88,7 +88,7 @@ curse-break rods, distortion flasks, blood-tempered relics.
 
 ---
 
-## **Category D — Ultra-Hazard Relics**
+### Category D — Ultra-Hazard Relics
 
 - Exhibits active consciousness
     
@@ -104,7 +104,7 @@ artifact hearts, shifting armor, cognitohazards.
 
 ---
 
-## **Category X — Forbidden Relics**
+### Category X — Forbidden Relics
 
 - Capable of existential harm
     
@@ -120,11 +120,11 @@ Void-calling stones, paradox seals, Tharos-lineage relics.
 
 ---
 
-# **II. Retrieval Procedures**
+## II. Retrieval Procedures
 
 ---
 
-## **1. Initial Assessment**
+### 1. Initial Assessment
 
 Delvers must determine:
 
@@ -143,23 +143,19 @@ The nearest Divine Oculi logs this moment automatically.
 
 ---
 
-## **2. Containment Protocol**
+### 2. Containment Protocol
 
 Depending on category:
 
-### **A-Relics:** simple ward wraps
-
-### **B-Relics:** runic dampener boxes
-
-### **C-Relics:** stabilized containment coffin
-
-### **D-Relics:** multi-layer sigil crate with curse-weave isolator
-
-### **X-Relics:** quarantined in null-magic vault & sealed by ministerial order
+- **A-Relics:** simple ward wraps
+- **B-Relics:** runic dampener boxes
+- **C-Relics:** stabilized containment coffin
+- **D-Relics:** multi-layer sigil crate with curse-weave isolator
+- **X-Relics:** quarantined in null-magic vault & sealed by ministerial order
 
 ---
 
-## **3. Party Safety Requirements**
+### 3. Party Safety Requirements
 
 Delvers must:
 
@@ -176,7 +172,7 @@ Delvers must:
 
 ---
 
-## **4. Transportation to a Registered Archive**
+### 4. Transportation to a Registered Archive
 
 All relics must be delivered to:
 
@@ -191,7 +187,7 @@ Failure to report a relic is punishable under **Charter §8-F (Artifact Concealm
 
 ---
 
-# **III. Identification & Analysis**
+## III. Identification & Analysis
 
 Upon arrival, relics undergo:
 
@@ -214,11 +210,11 @@ A relic receives its **Official Ministerial Sigil (OMS)** before it enters circu
 
 ---
 
-# **IV. Legal Regulations & Ownership Rights**
+## IV. Legal Regulations & Ownership Rights
 
 ---
 
-## **1. Delver Claim Rights**
+### 1. Delver Claim Rights
 
 Delvers may claim relics **only** if:
 
@@ -233,7 +229,7 @@ Delvers may claim relics **only** if:
 
 ---
 
-## **2. Guild Ownership**
+### 2. Guild Ownership
 
 Guilds may hold:
 
@@ -246,7 +242,7 @@ Guilds may hold:
 
 ---
 
-## **3. Forbidden Items**
+### 3. Forbidden Items
 
 Category X relics:
 
@@ -261,7 +257,7 @@ Category X relics:
 
 ---
 
-## **4. Relic Commerce Laws**
+### 4. Relic Commerce Laws
 
 Unauthorized relic trade constitutes:
 
@@ -276,7 +272,7 @@ Penalty: **up to 80,000 gold**, guild suspension, or imprisonment.
 
 ---
 
-# **V. Ethical Use Requirements**
+## V. Ethical Use Requirements
 
 Delvers must:
 
@@ -303,25 +299,25 @@ Use of relics for:
 
 ---
 
-# **VI. Relic Hazards**
+## VI. Relic Hazards
 
-### **1. Cognitohazard Drift**
+#### 1. Cognitohazard Drift
 
 Relic begins influencing thoughts.
 
-### **2. Curse Bloom Leakage**
+#### 2. Curse Bloom Leakage
 
 Aura expands beyond container.
 
-### **3. Blood Resonance Activation**
+#### 3. Blood Resonance Activation
 
 Relic awakens near lineage matches.
 
-### **4. Parasocial Bonding**
+#### 4. Parasocial Bonding
 
 Sapient relic believes itself bonded to delver.
 
-### **5. Reality Distortion Faults**
+#### 5. Reality Distortion Faults
 
 Gravity shifts, memory anomalies, temporal flickers.
 
@@ -329,11 +325,11 @@ All must be reported within **24 hours**.
 
 ---
 
-# **VII. N-Class Exception Protocols**
+## VII. N-Class Exception Protocols
 
 Due to their Convergence significance, N-Class teams (e.g., **Unit N-7**) follow modified relic protocols.
 
-### **1. Expanded Handling Rights**
+#### 1. Expanded Handling Rights
 
 N-Class teams may handle:
 
@@ -344,7 +340,7 @@ N-Class teams may handle:
 - Category X relics only with Oculi supervision
     
 
-### **2. Automatic Core Observation**
+#### 2. Automatic Core Observation
 
 Any relic handled by an N-Class team is:
 
@@ -353,7 +349,7 @@ Any relic handled by an N-Class team is:
 - Analyzed for fate-thread significance
     
 
-### **3. Enhanced Containment Measures**
+#### 3. Enhanced Containment Measures
 
 The Ministry deploys:
 
@@ -364,7 +360,7 @@ The Ministry deploys:
 - Live Divine Oculi monitoring
     
 
-### **4. Convergence Risk Mitigation**
+#### 4. Convergence Risk Mitigation
 
 If relic + N-Class presence creates excessive resonance:
 
@@ -375,13 +371,13 @@ If relic + N-Class presence creates excessive resonance:
 - Core issues stabilization pulses
     
 
-### **5. Prime Archival Status**
+#### 5. Prime Archival Status
 
 All relic interactions involving N-Class teams are stored permanently under **Tier-Prime Access Only**.
 
 ---
 
-# **VIII. Why Relic Handling Matters**
+## VIII. Why Relic Handling Matters
 
 Without Relic Handling:
 
@@ -407,7 +403,7 @@ The Ministry ensures those agreements are honored safely.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities Division (Relic Adjudication Office)**  

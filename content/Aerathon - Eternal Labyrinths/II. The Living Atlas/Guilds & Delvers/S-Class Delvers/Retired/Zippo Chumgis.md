@@ -2,7 +2,9 @@
 
 ---
 
-### _S-Class Pyric Sovereign (Retired) 
+# Zippo Chumgis
+
+### _S-Class Pyric Sovereign (Retired)
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Hagiography & Miraculous Phenomena Bureau)  
 **Primary Compiler:** Archivist Yelna Stonevoice (Echo-Law & Oral Tradition)  
@@ -12,7 +14,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Zippo Chumgis**, once hailed as **The Ember Duke of Cael**, stands as one of the most theatrical, destructive, and beloved flame-sorcerers ever to stride Aerathon’s delving halls. His fires didn’t simply burn—they **danced**, performed, and sang in Primordial chords. With his partner, **Thalia Vess**, he carved a place in A-Rank history before ascending with her into S-Rank legend.
 
@@ -30,7 +32,7 @@ But behind his eyes, the fire smolders on—refusing to dim.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Formerly Argent Banner (Resigned after Ashfall Spire)
     
@@ -43,7 +45,7 @@ But behind his eyes, the fire smolders on—refusing to dim.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Fire is Memory** — All things burn, but some flames linger out of love.
     
@@ -54,30 +56,30 @@ But behind his eyes, the fire smolders on—refusing to dim.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Ignition of Embervault**
+### 1. The Ignition of Embervault
 
 To stop a relic core from detonating, Zippo absorbed its entire firestorm into his own arcane weave. His cape vaporized; his eyebrows never grew back. The vault—and everyone within it—survived.
 
-### **2. The Dance of Two Flames**
+### 2. The Dance of Two Flames
 
 Zippo and Thalia’s legendary livecast—half delve, half performance—overloaded two scry networks. Their synchronized casting birthed a new art form now taught in Arnerian academies: **Blazewaltz**.
 
-### **3. The Ashfall Pact**
+### 3. The Ashfall Pact
 
 In the delve that ended everything, Thalia held back an entropic warden while Zippo sealed the catastrophic core. The blast carved the landmark now known as **Ashfall Spire**.  
 Zippo has never spoken publicly about what he saw inside.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Cindercall**
+### Cindercall
 
 A dragonbone-and-embersteel wand tipped with a ruby core. Allows Zippo to command multiple flame sources as if conducting an orchestra. When fully ignited, it whispers in an archaic Primordial dialect carried on heat.
 
-### **The Cloak of Golden Cinders**
+### The Cloak of Golden Cinders
 
 Woven from phoenix-molt silk; trails sparks and gold embers with every turn.
 
@@ -86,14 +88,14 @@ Woven from phoenix-molt silk; trails sparks and gold embers with every turn.
 - Once per day: **Absorb an entire fire-based spell** and convert it into radiant energy
     
 
-### **The Broken Pendant of Thalia Vess**
+### The Broken Pendant of Thalia Vess
 
 He wears it close to his heart. He refuses repair.  
 Its magic—if any remains—has never been catalogued.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 5 (3 with Thalia)
     
@@ -110,7 +112,7 @@ Its magic—if any remains—has never been catalogued.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > _“You don’t aim fire. You invite it.”_  
 > — Teaching in the Argent Vaults
@@ -123,7 +125,7 @@ Its magic—if any remains—has never been catalogued.
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Zippo occasionally speaks to Thalia’s pendant as though it replies.
     
@@ -137,7 +139,7 @@ Its magic—if any remains—has never been catalogued.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

@@ -3,7 +3,7 @@
 
 ---
 
-# **Glassfire Djinn**
+# Glassfire Djinn
 
 ### _Embers of Desire — “When Fire Learned to See Itself.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Glassfire Djinn** are sentient entities of molten light and refracted flame — **fire elementals that gained reflection**, birthed when **wishes are spoken aloud during sand-storms** around the **Dunes of the Sun Bull** or **Porta Strega’s mirrored wastes**.  
 They appear as towering silhouettes of flame sheathed in translucent glass, their features ever-changing, adopting the faces of those who call upon them.
@@ -29,7 +29,7 @@ The Ministry designates them **Type-ELEM / Reflective Flame Aberration** — aut
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -44,7 +44,7 @@ When calm, their skin appears like **blown crystal**; when angered, it fractures
 
 ---
 
-## **III. Behavior & Temperament**
+## III. Behavior & Temperament
 
 The Glassfire Djinn operate on a paradoxical ethos: they **worship creation through destruction**.  
 To them, every act of burning is artistry, every ruin an improvement.  
@@ -65,7 +65,7 @@ They are **vain, articulate, and endlessly curious** about mortal emotion — pa
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 - **Porta Strega’s Obsidian Fields:** Primary breeding ground; storms of molten glass spawn minor djinnlings.
     
@@ -78,7 +78,7 @@ Residual sightings across Louvain’s glassworks suggest dormant fragments can a
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Each Djinn maintains **memory of all prior wishers** — recorded as flame patterns across inner glass shell.
     
@@ -91,7 +91,7 @@ Residual sightings across Louvain’s glassworks suggest dormant fragments can a
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -105,7 +105,7 @@ Residual sightings across Louvain’s glassworks suggest dormant fragments can a
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -116,7 +116,7 @@ All materials stored in Vault #109, Louvain Branch — triple seal Korrin / Vell
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level IV — Volatile Elemental / Cognitive Hazard.
     
@@ -131,7 +131,7 @@ All materials stored in Vault #109, Louvain Branch — triple seal Korrin / Vell
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Beastfolk Artisans:** Attribute sudden kiln explosions to Djinn laughter.
     
@@ -146,7 +146,7 @@ All materials stored in Vault #109, Louvain Branch — triple seal Korrin / Vell
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Glassfire Djinn** embody the fatal perfection of creation through ruin — flame that seeks meaning in what it destroys.  
 They are not demons, nor angels, but the whisper that follows every forge-spark and every wish: _“What would you give to see it glow?”_
@@ -156,7 +156,7 @@ To survive the answer is to learn that some fires do not need fuel — only desi
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Elemental & Wish-Bearing Phenomena Registry)**  

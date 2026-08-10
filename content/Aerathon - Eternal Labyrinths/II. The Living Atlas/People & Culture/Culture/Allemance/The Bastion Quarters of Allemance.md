@@ -2,7 +2,7 @@
 
 ---
 
-# **The Bastion-Quarters of Allemance**
+# The Bastion-Quarters of Allemance
 
 ### _Cities as Shields and the Craft of Endurance_
 
@@ -13,7 +13,7 @@
 **Date of Filing:** 3rd Cycle, 3016 A.D.  
 **Document Class:** _Architectural Record / Grade-II Fortification Archive_
 
-~~
+---
 
 **Era Classification:** _Late Third Era (Ember Age)_ → _Early Fourth Era (Age of Collapse)_  
 **Primary Peoples:** Human masons, dwarven engineers, ursine ward-singers, elven geometers  
@@ -22,7 +22,7 @@
 
 ---
 
-## **Overview**
+## Overview
 
 The **Bastion-Quarters of Allemance** were a network of fortified urban districts that arose during the waning days of the Ember Age, when civil unrest and labyrinth emergence forced cities to turn inward.  
 Each Bastion was a self-contained micro-city — a walled district with its own food stores, forges, aquifers, and temples.
@@ -32,7 +32,7 @@ To build a Bastion was to declare independence.
 
 ---
 
-## **Origins & Purpose**
+## Origins & Purpose
 
 The movement began after the **Fireglass Riots**, when collapsing Collegia experiments ignited half of Allemance’s riverfront.  
 The survivors — masons, veterans, and craftsmen — swore to never again trust a single central ruler or deity.  
@@ -53,7 +53,7 @@ At their heart lay the **Bastion Heart** — a crystalline node engraved with th
 
 ---
 
-## **Society & Defense Culture**
+## Society & Defense Culture
 
 Life within the Bastions revolved around maintenance and ritualized vigilance.  
 Every citizen learned at least one craft related to fortification: carving, mortar-mixing, resonance humming, or ward painting.  
@@ -66,14 +66,14 @@ In time, paranoia and pride became indistinguishable.
 
 ---
 
-## **The Siege Codex**
+## The Siege Codex
 
 Compiled by the **Engineer-Judge Maern Vosk** (later commemorated as an MDO legacy archivist), the _Siege Codex_ collected centuries of siege records, architectural experiments, and “psychological stress diagrams.”  
 It included detailed instructions on how to re-channel emotional fear into stone resonance, an early theory that birthed **empathic warding** — the magic discipline now used to stabilize labyrinth barriers.
 
 ---
 
-## **Decline**
+## Decline
 
 When the labyrinth phenomenon intensified, Bastion walls proved both salvation and trap.  
 Those who sealed themselves in endured longer, but at great cost: starvation, civic madness, and resonance collapse.  
@@ -88,7 +88,7 @@ Their “singing stone” is studied by the MDO for its ability to store emotion
 
 ---
 
-## **Known Sites & Artifacts**
+## Known Sites & Artifacts
 
 |Artifact / Site|Location|Notes|
 |---|---|---|
@@ -96,8 +96,8 @@ Their “singing stone” is studied by the MDO for its ability to store emotion
 |**Wall-Carols of Kett**|MDO Archive, Audio Vault 3|Recorded vocalizations of ursine masons; used in modern barrier calibration.|
 |**Ironroot Foundations**|Eastern Bastion Ruins|Fused stone-and-iron skeleton resistant to magical corrosion.|
 |**The Siege Codex (Original)**|Ministry Restricted Collection|Maern Vosk’s field manual; still referenced in barrier engineering courses.|
-___
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+---
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Structural & Historical Engineering Bureau**  

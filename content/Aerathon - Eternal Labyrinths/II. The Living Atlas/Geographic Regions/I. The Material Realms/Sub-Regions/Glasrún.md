@@ -1,3 +1,5 @@
+# Glasrún
+
 ### _The Greenwood Without Lords — “What Grows Untended Endures.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)_  
@@ -7,7 +9,7 @@
 **Document Class:** _Geographic Record / Grade-I Authenticity_
 
 ---
-## **I. Overview**
+## I. Overview
 
 **Glasrún** (GLAZ-rune) is the vast, old forest that blankets the **northeastern reaches of Allemance**, stretching from the upper banks of the **Queensriver** to the shadowed western slopes of the **Mantle Mountains**.
 
@@ -23,7 +25,7 @@ To its people, it is simply **unruled**.
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 Glasrún is a **temperate old-growth forest**, dense enough in places that sunlight rarely reaches the loam.
 
@@ -42,7 +44,7 @@ The climate is cool and damp, with long autumns and heavy winter snowfalls. The 
 
 ---
 
-## **III. History & Founding**
+## III. History & Founding
 
 When the **Unknown** was first created in **367 A.D.**, Glasrún was deemed worthless.
 
@@ -63,11 +65,11 @@ Though the **Gocaire family** continues to list Glasrún among its historical ho
 
 ---
 
-## **IV. Peoples & Settlement**
+## IV. Peoples & Settlement
 
 Glasrún is sparsely populated by **small, self-reliant communities** rarely exceeding a few dozen families.
 
-### **Settlement Patterns**
+### Settlement Patterns
 
 - Villages are built around clearings, never cutting more forest than necessary.
     
@@ -89,7 +91,7 @@ To say “I am Glasrún” is considered more meaningful than any national affil
 
 ---
 
-## **V. Society & Governance**
+## V. Society & Governance
 
 Glasrún has **no central government**.
 
@@ -108,7 +110,7 @@ The forest itself is treated as a political actor. Acts that harm it without com
 
 ---
 
-## **VI. Faith & Worldview**
+## VI. Faith & Worldview
 
 Religion in Glasrún is **quiet and ancestral**.
 
@@ -125,7 +127,7 @@ Formal clergy are rare. Rituals are seasonal, practical, and communal.
 
 ---
 
-## **VII. Economy & Trade**
+## VII. Economy & Trade
 
 Glasrún produces little surplus—but what it offers is valued:
 
@@ -153,7 +155,7 @@ Trade occurs at agreed-upon clearings and is governed by custom rather than cont
 
 ---
 
-## **VIII. Delving & Anomalies**
+## VIII. Delving & Anomalies
 
 Glasrún officially has **no sanctioned labyrinth entrances**.
 
@@ -179,7 +181,7 @@ Those who ignore these rules often leave early—or not at all.
 
 ---
 
-## **IX. Relations with Other Regions**
+## IX. Relations with Other Regions
 
 |**Region**|**Relationship**|**Summary**|
 |---|---|---|
@@ -190,7 +192,7 @@ Those who ignore these rules often leave early—or not at all.
 
 ---
 
-## **X. Regional Identity & Legacy**
+## X. Regional Identity & Legacy
 
 Glasrún endures because it was **left alone**.
 
@@ -202,7 +204,7 @@ The Ministry categorizes Glasrún as **low-risk, high-symbolic value**.
 > _“That sometimes, the best way to rule a land is not to.”_
 
 ---
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)**  

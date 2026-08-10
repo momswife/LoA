@@ -4,7 +4,7 @@
 
 ---
 
-# **Blightborn Seraphs**
+# Blightborn Seraphs
 
 ### _Fallen Healers Twisted by Rot — “When Mercy Is Taught to Decay.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Blightborn Seraphs** are corrupted remnants of celestial servitors once tasked with safeguarding growth, healing, and renewal in Aerathon.  
 Once radiant, they were twisted by **The Briar Plague**, **Infernal psalm-poison**, or **Labyrinthic cursefields**, depending on region — but the result is always the same:
@@ -32,7 +32,7 @@ They are classified by the Ministry as **Type-INF / Corrupted Celestial Aberrant
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -49,7 +49,7 @@ When wounded, instead of bleeding, they shed pale mothlike spores.
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Blightborn Seraphs behave with tragic, inverted purpose.  
 They seek out sickness, injury, and sorrow — not to heal, but to **“complete the cycle”** by hastening decay.
@@ -73,7 +73,7 @@ Their minds retain the logic of angels, but every instinct is reversed into harm
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Blightborn Seraphs emerge at corruption hotspots:
 
@@ -94,7 +94,7 @@ They are most active following moons of **collective despair or disease outbreak
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Celestial sigils within their flesh still glow faintly, suggesting their divine code struggles against corruption.
     
@@ -112,7 +112,7 @@ They are most active following moons of **collective despair or disease outbreak
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -126,7 +126,7 @@ Their touch induces rapid necrosis disguised as warm relief.
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -137,7 +137,7 @@ All artifacts sealed in Vault #143 (Louvain Branch) — triple seal Daan / Korri
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level IV — Corrupted Celestial / High Combat Hazard
     
@@ -152,7 +152,7 @@ All artifacts sealed in Vault #143 (Louvain Branch) — triple seal Daan / Korri
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Namiran Sailors:** Describe them as “angels drowned in sickness.”
     
@@ -168,7 +168,7 @@ All artifacts sealed in Vault #143 (Louvain Branch) — triple seal Daan / Korri
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Blightborn Seraphs** are living tragedies — once radiant healers, now agents of decay and inverted mercy.  
 Driven by their former purpose but twisted by rot, they wander Aerathon seeking to “finish” the cycle of life by accelerating its end.
@@ -182,7 +182,7 @@ And perhaps that is what makes them the most terrifying of all corrupted beings:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Infernal, Demonic & Corrupted Entity Archive)**  

@@ -3,7 +3,7 @@
 
 ---
 
-# **The Dreaming**
+# The Dreaming
 
 ### _The Second Realm — “Where Thought Becomes Form and Form Forgets Itself.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Dreaming** is the living frontier of imagination — a mutable realm where thought crystallizes into landscape and emotion breeds life.  
 It is neither dream nor sleep, but **the space where potential dwells before choosing reality.**
@@ -31,7 +31,7 @@ The Ministry classifies it as a **Class-IV Cognitive Environment**, partially st
 
 ---
 
-## **II. Theological Context**
+## II. Theological Context
 
 The Dreaming predates written history but not _story_.  
 Myth states it was formed when the Shattersea’s first reflections began to **question their purpose**, spawning a dimension of curiosity and unfinished design.
@@ -42,9 +42,9 @@ To theologians, it is the **mind of creation still thinking**; to delvers, it is
 
 ---
 
-## **III. Observable Phenomena**
+## III. Observable Phenomena
 
-### **Reality Behavior**
+### Reality Behavior
 
 - Terrain reacts to emotional stimulus. Fear thickens the air into fog; joy blossoms into floating flora.
     
@@ -53,14 +53,14 @@ To theologians, it is the **mind of creation still thinking**; to delvers, it is
 - Spoken words leave visible ripples, temporarily altering color and gravity in a radius around the speaker.
     
 
-### **Architectural Memory**
+### Architectural Memory
 
 Structures manifest from collective consciousness — a bard’s song may raise a bridge, while a child’s dream might become an actual labyrinth.  
 When forgotten, these “daydream constructs” dissolve into golden dust known as **Somnusand** — used in relic forges to preserve intention.
 
 ---
 
-## **IV. Hazards & Cognitive Risks**
+## IV. Hazards & Cognitive Risks
 
 - **Lucidity Drift:** Visitors may lose distinction between memory and invention, rewriting their past unconsciously.
     
@@ -73,7 +73,7 @@ Ministry protocol forbids emotional amplification magic within this plane; it ri
 
 ---
 
-## **V. Entities & Denizens**
+## V. Entities & Denizens
 
 While no fixed ecosystem exists, the following phenomena recur:
 
@@ -83,8 +83,8 @@ While no fixed ecosystem exists, the following phenomena recur:
 |**Nightbloomers**|Floating fauna that emit light when touched by fear; used by delvers as living torches.|
 |**The Patchwork Court**|A shifting council of dream-kings, each ruling for as long as they are remembered by sleepers.|
 |**The Sleepless Saint**|A wandering figure claiming to be “dreaming the Ministry,” possibly metaphorical—or dangerously literal.|
-___
-## **VI. Cultural Interpretations**
+---
+## VI. Cultural Interpretations
 
 - **In Al’ar:** Artists believe the Dreaming is where all inspiration is born, calling it _“The Muse’s Tide.”_
     
@@ -97,7 +97,7 @@ ___
 
 ---
 
-## **VII. Ministry Exploration History**
+## VII. Ministry Exploration History
 
 The first sanctioned expedition, **Operation Lucid Fang (Cycle 1332)**, confirmed that partial mapping is impossible — coordinates rewritten themselves when observers slept.  
 Subsequent missions employ paired dreamers, one lucid and one tethered to waking mind through Echo-Law resonance.
@@ -111,20 +111,20 @@ Subsequent missions employ paired dreamers, one lucid and one tethered to waking
 
 ---
 
-## **VIII. Practical Applications**
+## VIII. Practical Applications
 
-### **Relic Engineering**
+### Relic Engineering
 
 Dream-stabilized crystals are used in crafting **Hallucinary Armor** and **Resonant Tomes** — items that change effect depending on user emotion.
 
-### **Arcane Studies**
+### Arcane Studies
 
 Spellcasters who meditate in controlled Dreaming conditions develop heightened creative reflexes, though at risk of emotional volatility.  
 Ministry warnings state: _“Dreamers return inspired but incomplete.”_
 
 ---
 
-## **IX. Influence on Delvers**
+## IX. Influence on Delvers
 
 The Dreaming subtly influences all labyrinth design — its fingerprints visible in moving corridors, self-writing murals, and adaptive enemies.  
 Those attuned to it often:
@@ -140,7 +140,7 @@ Such delvers are nicknamed **Mindweavers**.
 
 ---
 
-## **X. Cultural & Philosophical Legacy**
+## X. Cultural & Philosophical Legacy
 
 If the Shattersea remembers and the Wanehollow erases, then the Dreaming **imagines.**  
 It is neither mercy nor menace, merely curiosity incarnate.  
@@ -150,7 +150,7 @@ The Ministry regards it with equal awe and fear — for as long as mortals can d
 
 ---
 
-### **Planar Feature: Lucid Pulse**
+### Planar Feature: Lucid Pulse
 
 _Any creature or relic influenced by the Dreaming gains the following trait:_
 
@@ -158,7 +158,7 @@ _Any creature or relic influenced by the Dreaming gains the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Ontological Survey Unit)**  

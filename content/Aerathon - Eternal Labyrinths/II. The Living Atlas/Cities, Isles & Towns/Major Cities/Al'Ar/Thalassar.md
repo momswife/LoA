@@ -1,3 +1,5 @@
+# Thalassar
+
 ### _The Drowned Crown — “We Did Not Fall. We Endured.”_
 
 **Former Name:** **Tresoli City**  
@@ -9,7 +11,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Thalassar** is a vast **submerged metropolis** resting beneath the waters of the **Tiger Sea**, positioned between the outer reaches of **Al’Ar** and the far western boundaries of the known world. It is the largest extant population center of **sea-bearing beastfolk** in Aerathon and functions as their de facto cultural capital.
 
@@ -20,11 +22,11 @@ It is a **continuation**.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Thalassar occupies a massive depression in the Tiger Sea, where the seabed drops sharply and light fractures unevenly.
 
-### **The Upper Ruins**
+### The Upper Ruins
 
 - Former rooftops, bridges, and towers
     
@@ -33,7 +35,7 @@ Thalassar occupies a massive depression in the Tiger Sea, where the seabed drops
 - Serve as trade interfaces with surface dwellers
     
 
-### **The Living Depths**
+### The Living Depths
 
 - Sealed plazas and halls adapted for pressure habitation
     
@@ -42,7 +44,7 @@ Thalassar occupies a massive depression in the Tiger Sea, where the seabed drops
 - Entirely airless districts housing permanent populations
     
 
-### **The Labyrinth Scar**
+### The Labyrinth Scar
 
 At the city’s lowest depth lies the original breach site.
 
@@ -57,7 +59,7 @@ Architecture favors **endurance over beauty**, though remnants of Tresoli’s el
 
 ---
 
-## **III. History**
+## III. History
 
 Tresoli City began as a marvel of surface engineering—a canal-bound metropolis designed to live with the sea rather than dominate it. Built upon pylons, artificial islands, and tidal foundations, Tresoli thrived as a trade nexus where merchant councils and sea-guild compacts ruled by coin, contract, and current.
 
@@ -80,7 +82,7 @@ Yet Tresoli did not die all at once. Survivors adapted, fled downward, or transf
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Thalassar is governed by the **Tide Concord**, a council composed of:
 
@@ -97,7 +99,7 @@ Governance is slow, deliberate, and consensus-driven. Once a decision is made, i
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Thalassar trades selectively and cautiously.
 
@@ -123,7 +125,7 @@ Trade is conducted exclusively at the **Upper Ruins**. No surface vessel is perm
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Thalassar is shaped by catastrophe and memory.
 
@@ -140,7 +142,7 @@ Shrines are oriented **away** from the Labyrinth Scar. Cultural rituals emphasiz
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Thalassar maintains no conventional military.
 
@@ -155,7 +157,7 @@ Security is preventative and final.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Thalassar’s relationship to the Labyrinths is **hostile and absolute**.
 
@@ -170,7 +172,7 @@ The city exists as a warning of what happens when a Labyrinth is allowed to root
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -184,7 +186,7 @@ Thalassar influences through fear, precedent, and survival lore—not politics.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Tresoli City was a masterpiece of surface ambition.
 
@@ -194,7 +196,7 @@ It stands as Aerathon’s clearest lesson: the sea forgives nothing, and the Lab
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Citizens avoid using the word _drowned_
     
@@ -207,7 +209,7 @@ It stands as Aerathon’s clearest lesson: the sea forgives nothing, and the Lab
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Submerged Civilizations & Labyrinth Catastrophes)**  

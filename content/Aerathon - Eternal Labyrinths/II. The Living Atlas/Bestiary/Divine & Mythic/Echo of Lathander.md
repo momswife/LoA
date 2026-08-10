@@ -3,7 +3,7 @@
 
 ---
 
-# **Echo of Lathander**
+# Echo of Lathander
 
 ### _Divine Residual Entity — “The Morning That Would Not Die.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Echo of Lathander** is a **divine afterimage** — a radiant apparition left behind by the god **Lathander, Lord of the Dawn**, following the **Second Collapse of Faith (cycle 3481)**, when celestial interference within Aerathon fractured direct worship channels.
 
@@ -28,7 +28,7 @@ The Ministry defines it as **Type-DIV / Divine Resonant Aberration**, comparable
 
 ---
 
-## **II. Manifestation Profile**
+## II. Manifestation Profile
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -42,7 +42,7 @@ The Echo does not attack, but proximity affects living minds: witnesses report f
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 When the Echo manifests, local weather stabilizes, frost melts, and **chronomantic drift** temporarily ceases within a mile radius.  
 In this period, shadows shorten regardless of solar position.  
@@ -59,7 +59,7 @@ After dissipation, ground surfaces exhibit **residual luminescence** for three h
 
 ---
 
-## **IV. Theological Interpretation**
+## IV. Theological Interpretation
 
 Scholars disagree whether the Echo is:
 
@@ -75,7 +75,7 @@ Some heretic sects, notably the **Order of the Reignited Dawn**, attempt to comm
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin’s field readings confirm that the Echo emits **structured mana identical to early Sol-Domain clerical radiance**, yet without divine origin trace.  
 Inspector Vell documented one case in which an Echo re-manifested nightly for seven days, each time more humanoid, until it collapsed into **Shattered Choir residue** — implying potential cross-contamination between divine echoes and harmonic aberrations.
@@ -85,7 +85,7 @@ Ministry guidelines now restrict observation to **non-invasive scrying** only.
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -97,7 +97,7 @@ Ministry guidelines now restrict observation to **non-invasive scrying** only.
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -108,7 +108,7 @@ All artifacts housed in Vault #101 (Louvain Branch) under triple seal Daan / Kor
 
 ---
 
-## **VIII. Containment & Observation Protocol**
+## VIII. Containment & Observation Protocol
 
 - **Classification:** Level III — Transient Theological Phenomenon.
     
@@ -125,7 +125,7 @@ All artifacts housed in Vault #101 (Louvain Branch) under triple seal Daan / Kor
 
 ---
 
-## **IX. Cultural & Symbolic Notes**
+## IX. Cultural & Symbolic Notes
 
 - **Survivors of Monster Meadows** claim seeing the Echo before each Rift closure — proof, to them, that Lathander still guards delvers from beneath the frost.
     
@@ -136,7 +136,7 @@ All artifacts housed in Vault #101 (Louvain Branch) under triple seal Daan / Kor
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Echo of Lathander** is not the god returned, but the light that refused to fade with him.  
 It is faith unmoored from its source, proof that belief can outlast creation, and perhaps one day, build it anew.  
@@ -144,7 +144,7 @@ When dawn comes to Aerathon, somewhere in the ruins, the Echo stands waiting —
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Theological Aberration & Divine Residue Registry)**  

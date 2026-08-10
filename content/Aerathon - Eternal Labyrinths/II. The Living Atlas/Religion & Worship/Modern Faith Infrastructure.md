@@ -1,3 +1,5 @@
+# Modern Faith Infrastructure
+
 ### _Temples, Shrines & Civic Devotion in a Secularizing Delver Age_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Faith in Aerathon no longer depends on divine intervention. Temples and shrines endure because they serve **people**, not gods.
 
@@ -42,23 +44,23 @@ Shrines near labyrinths still exist, but see lighter use; guild halls now favor 
 
 ---
 
-## **II. The Four Pillars of Modern Faith Infrastructure**
+## II. The Four Pillars of Modern Faith Infrastructure
 
 All temples and shrines—regardless of deity—serve these core functions:
 
-### **1. Ritual Administration**
+### 1. Ritual Administration
 
 Births, marriages, funerals, coming-of-age ceremonies, seasonal festivals.
 
-### **2. Social Services & Civic Aid**
+### 2. Social Services & Civic Aid
 
 Hospices, education centers, refugee shelters, arbitration courts.
 
-### **3. Cultural Preservation**
+### 3. Cultural Preservation
 
 Historical archives, art installations, oral tradition, community gatherings.
 
-### **4. Psychological Grounding**
+### 4. Psychological Grounding
 
 Especially for delvers:
 
@@ -73,9 +75,9 @@ Especially for delvers:
 
 ---
 
-## **III. Faith Architecture in the Age of Secular Delvers**
+## III. Faith Architecture in the Age of Secular Delvers
 
-### **A. Urban Temples**
+### A. Urban Temples
 
 Large institutions serving neighborhood and district functions.  
 Temples of Gond, Mystra, Oghma, Tyr, and Helm often resemble:
@@ -95,7 +97,7 @@ Delver foot traffic is minimal outside major festivals.
 
 ---
 
-### **B. Rural Chapels**
+### B. Rural Chapels
 
 Remain deeply tied to agricultural life.  
 Chauntean and Eldathic chapels act as:
@@ -113,7 +115,7 @@ Delvers passing through rural regions sometimes participate socially, not devout
 
 ---
 
-### **C. Delver Shrines (Reduced Usage)**
+### C. Delver Shrines (Reduced Usage)
 
 Once essential at labyrinth gates, these shrines now function more as:
 
@@ -130,7 +132,7 @@ Shrines to Tyr, Tymora, Helm, and Lathander still see occasional gestures, but n
 
 ---
 
-### **D. Subcultural Shrines**
+### D. Subcultural Shrines
 
 Shrines in alleyways, undercities, or art districts represent culture, not theology.
 
@@ -149,7 +151,7 @@ Delvers treat these as thematic spaces rather than holy ones.
 
 ---
 
-### **E. Faith Halls (Multi-God Spaces)**
+### E. Faith Halls (Multi-God Spaces)
 
 Growing in popularity within cities.  
 Serve as:
@@ -169,7 +171,7 @@ These allow communities to express identity without doctrinal alignment.
 
 ---
 
-## **IV. What Each God Represents in Modern Civil Infrastructure (Updated)**
+## IV. What Each God Represents in Modern Civil Infrastructure (Updated)
 
 ### _Not metaphysical domains—social functions._
 
@@ -177,7 +179,7 @@ Below is the Ministry’s revised interpretation of how each major deity manifes
 
 ---
 
-### **Nature & Community**
+### Nature & Community
 
 - **Chauntea:** community gardens, food pantries
     
@@ -192,7 +194,7 @@ Below is the Ministry’s revised interpretation of how each major deity manifes
 
 ---
 
-### **Knowledge & Craft**
+### Knowledge & Craft
 
 - **Gond:** workshops, repair stations, arcanotech labs
     
@@ -211,7 +213,7 @@ Below is the Ministry’s revised interpretation of how each major deity manifes
 
 ---
 
-### **Justice & Protection**
+### Justice & Protection
 
 - **Helm:** guard barracks, watchtowers, labyrinth check-in stations
     
@@ -226,7 +228,7 @@ Below is the Ministry’s revised interpretation of how each major deity manifes
 
 ---
 
-### **Arts & Identity**
+### Arts & Identity
 
 - **Lathander:** youth centers, reform initiatives
     
@@ -241,7 +243,7 @@ Below is the Ministry’s revised interpretation of how each major deity manifes
 
 ---
 
-### **Shadow, Sea & Risk**
+### Shadow, Sea & Risk
 
 - **Tymora:** gambling halls, delver lounges, risk counseling offices
     
@@ -270,11 +272,11 @@ Each god has **social meaning** even when religious belief wanes.
 
 ---
 
-## **V. Delver-Specific Infrastructure**
+## V. Delver-Specific Infrastructure
 
 The following structures show the most pronounced change due to declining delver religiosity.
 
-### **1. Gate Shrines**
+### 1. Gate Shrines
 
 Now visited mostly by:
 
@@ -289,7 +291,7 @@ Usage is low but persistent.
 
 ---
 
-### **2. Cleric’s Nook (Healer’s Chapel)**
+### 2. Cleric’s Nook (Healer’s Chapel)
 
 Previously sites of divine blessing.  
 Now function primarily as:
@@ -305,7 +307,7 @@ Licensed clerics still serve here, but their role is **therapeutic**, not spirit
 
 ---
 
-### **3. Guild Sanctums**
+### 3. Guild Sanctums
 
 Some guilds once maintained robust faith halls.  
 Many have converted them into:
@@ -325,14 +327,14 @@ Faithfulness replaced by practicality.
 
 ---
 
-### **4. Memorial Walls**
+### 4. Memorial Walls
 
 These persist strongly.  
 Delvers remain deeply reverent toward the dead—even if not toward the gods.
 
 ---
 
-## **VI. Ministry Assessment of Faith Infrastructure Trends**
+## VI. Ministry Assessment of Faith Infrastructure Trends
 
 |Category|Status|
 |---|---|
@@ -354,7 +356,7 @@ leaving behind the faint echo of prayers once spoken in earnest.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)**  

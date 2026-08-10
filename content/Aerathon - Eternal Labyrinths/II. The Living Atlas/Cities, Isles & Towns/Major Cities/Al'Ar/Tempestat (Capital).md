@@ -1,3 +1,5 @@
+# Tempestat
+
 ### _The Windbound Crown — “If the Storm Will Not Come, We Carry It.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Maritime Capitals & Coastal Metropolises)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Tempestat** is the largest and most influential city in **Al’Ar**, widely regarded as its capital in all but name. Should the island chain ever unify under a single political authority, Tempestat would be the inevitable seat—not by decree, but by gravity.
 
@@ -19,11 +21,11 @@ It strings them along the wind.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Tempestat is **long rather than deep**, built to follow the shore instead of pushing inland or outward into open sea.
 
-### **The Long Docks**
+### The Long Docks
 
 - Miles of uninterrupted dockline
     
@@ -34,7 +36,7 @@ Tempestat is **long rather than deep**, built to follow the shore instead of pus
 
 Movement within the city is primarily **by sailboat**, not by foot.
 
-### **Inland Rise**
+### Inland Rise
 
 Behind the docks, the city slopes gently upward:
 
@@ -45,13 +47,13 @@ Behind the docks, the city slopes gently upward:
 - Streets designed to funnel wind rather than block it
     
 
-### **The Quarter-Mile Rule**
+### The Quarter-Mile Rule
 
 Most maritime enchantments—especially windcraft—function only within roughly a quarter mile of the docks. Beyond that, Tempestat becomes a more conventional city of carts and roads.
 
 ---
 
-## **III. History**
+## III. History
 
 Tempestat emerged not from conquest or royal mandate, but from **necessity**. Early Al’Ari sailors learned that hugging the coast—traveling inland rather than risking full Storm Voyages—was safer, more predictable, and easier to supply. Temporary anchorages became permanent, linked together by rope, song, and shared windcraft.
 
@@ -74,7 +76,7 @@ Tempestat’s history is the story of Al’Ar learning that unity does not requi
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Tempestat has **no singular ruling authority**.
 
@@ -93,7 +95,7 @@ If Tempestat were ever to rule, it would do so by **consensus and momentum**, no
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Tempestat thrives on **movement and exchange**.
 
@@ -119,7 +121,7 @@ Trade deals are as likely to be struck mid-song as in counting houses.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Tempestat is **ecstatic and situational**.
 
@@ -145,7 +147,7 @@ Silence is often read as misfortune—or suspicion.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Tempestat maintains no standing army.
 
@@ -160,7 +162,7 @@ Defense relies on early warning, dispersal, and the difficulty of pinning the ci
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Tempestat views the Labyrinths as **routes, not destinations**.
 
@@ -177,7 +179,7 @@ The MDO maintains a **coastal coordination office** focused on maritime incident
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -191,7 +193,7 @@ Tempestat influences by example, not enforcement.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Tempestat believes that life should **move**, and that staying still is a form of decay.
 
@@ -199,7 +201,7 @@ It is sprawling, inefficient, loud, and joyful—an anti-capital that leads not 
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Windstrings are considered acceptable collateral for favors
     
@@ -212,7 +214,7 @@ It is sprawling, inefficient, loud, and joyful—an anti-capital that leads not 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Maritime Capitals & Coastal Metropolises)**  

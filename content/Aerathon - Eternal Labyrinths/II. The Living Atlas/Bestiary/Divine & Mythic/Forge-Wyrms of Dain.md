@@ -3,7 +3,7 @@
 
 ---
 
-# **Forge Wyrms of Dain**
+# Forge Wyrms of Dain
 
 ### _The Ember Serpent of the Deep Forge — “When Fire Dreamed It Was a Dragon.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Forge Wyrm of Dain** is a colossal elemental dragon believed to have been **forged rather than born**, its body an alloy of molten brass, slagstone, and liquid aether.  
 It dwells beneath **Caer Dain’s Deep Forge**, slumbering amid magma vents that feed the city’s industry.  
@@ -28,7 +28,7 @@ Locals simply call it **“The Furnace Father.”**
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -42,7 +42,7 @@ When partially surfaced, its scales glow like freshly quenched metal; when enrag
 
 ---
 
-## **III. Behavior & Temperament**
+## III. Behavior & Temperament
 
 The Forge Wyrm is territorial yet **not malicious**.  
 It interprets the rhythmic clang of Caer Dain’s foundries as lullabies and remains docile so long as the forges above remain active.  
@@ -63,7 +63,7 @@ If the forge goes silent for more than seven days, the Wyrm **awakens**, seeking
 
 ---
 
-## **IV. Habitat & Ecological Function**
+## IV. Habitat & Ecological Function
 
 Nested in the **Deep Forge Antechamber**, directly above the **Labyrinth of Chains**, the Wyrm’s body functions as a geological regulator:
 
@@ -78,7 +78,7 @@ Should the creature perish, projections estimate Caer Dain’s foundations would
 
 ---
 
-## **V. Historical Accounts**
+## V. Historical Accounts
 
 - **Cycle 872:** “Forging of the Furnace Father” ritual allegedly completed by the first Deep Forge council.
     
@@ -91,7 +91,7 @@ Should the creature perish, projections estimate Caer Dain’s foundations would
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -106,7 +106,7 @@ Never use teleportation magic within its domain; spatial shift fragments refract
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -117,7 +117,7 @@ All materials stored in Vault #66, Louvain Branch — triple seal Rook-of-Rings 
 
 ---
 
-## **VIII. Containment & Monitoring**
+## VIII. Containment & Monitoring
 
 - **Classification:** Level V — Apocalyptic Thermal Entity / Strategic Asset.
     
@@ -132,7 +132,7 @@ All materials stored in Vault #66, Louvain Branch — triple seal Rook-of-Rings 
 
 ---
 
-## **IX. Cultural & Religious Notes**
+## IX. Cultural & Religious Notes
 
 - **Dain-Folk Belief:** The Forge Wyrm is Moradin’s first breath trapped in earthly form; smiths swear by its name when tempering metal.
     
@@ -145,7 +145,7 @@ All materials stored in Vault #66, Louvain Branch — triple seal Rook-of-Rings 
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Forge Wyrm of Dain** is the living embodiment of creation through fire — a creature that turns chaos into craft and slumber into survival.  
 It is not merely a dragon or a machine, but the beating heart of Caer Dain itself.  
@@ -153,7 +153,7 @@ To awaken it fully would mean the end of the city it protects, and perhaps, the 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Industrial Myth & Draconic Phenomena Registry)**  

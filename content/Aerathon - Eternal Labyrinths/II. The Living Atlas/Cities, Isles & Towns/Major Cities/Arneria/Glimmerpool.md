@@ -1,3 +1,5 @@
+# Glimmerpool
+
 ### _The Meeting Below — “All Cousins Find Their Way Here.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Subterranean Cities & Species Confluences)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Glimmerpool** is a subterranean city hidden deep beneath the northern reaches of the **Bey’s Head** mountains, accessible only through **The Loamlink**. Though often _assumed_ to be a seat of power due to its cultural weight, Glimmerpool holds **no capital authority** and claims none.
 
@@ -23,11 +25,11 @@ Every ligonine tradition, regardless of origin, points to Glimmerpool as the pla
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Glimmerpool surrounds a vast **underground lake** of the same name.
 
-### **The Glimmerpool**
+### The Glimmerpool
 
 - Fed by a waterfall descending from fissures in the Bey’s Head
     
@@ -38,7 +40,7 @@ Glimmerpool surrounds a vast **underground lake** of the same name.
 
 The water is considered **sacred** by ligonines. Immersion rituals are common; contamination is unthinkable.
 
-### **The Cavern City**
+### The Cavern City
 
 The city clings to the cavern walls and spreads across stone shelves, platforms, and suspended walkways.
 
@@ -57,7 +59,7 @@ No two districts look alike—and no one tries to fix that.
 
 ---
 
-## **III. History**
+## III. History
 
 Glimmerpool’s recorded history does not begin with construction, but with **arrival**.
 
@@ -67,7 +69,7 @@ Archaeological surveys confirm that portions of the city are older than surround
 
 What is clear is that Glimmerpool has never ruled—and never needed to.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **Pre-1100 A.D.** — Earliest ligonine oral accounts place the **First Meeting** at Glimmerpool.
     
@@ -80,7 +82,7 @@ What is clear is that Glimmerpool has never ruled—and never needed to.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Glimmerpool has **no central ruler**.
 
@@ -95,7 +97,7 @@ The city functions because its residents **expect difference**, not unity.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Glimmerpool’s economy is minimal and specialized.
 
@@ -112,7 +114,7 @@ Coin circulates lightly. Trade is often reciprocal or symbolic.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Glimmerpool is inseparable from **water and memory**.
 
@@ -136,7 +138,7 @@ Ligonines encourage outsiders to visit—but only if they are prepared:
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Glimmerpool is informal but absolute.
 
@@ -151,7 +153,7 @@ No standing force exists. None has ever been needed.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Glimmerpool maintains **active avoidance** of the Labyrinths.
 
@@ -166,7 +168,7 @@ The city values continuity over curiosity.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -180,7 +182,7 @@ Glimmerpool influences Aerathon quietly—by reminding it that not all power see
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Glimmerpool is not important because it commands.
 
@@ -193,7 +195,7 @@ For ligonines, it is proof that separation does not erase kinship. For outsiders
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - No maps are considered accurate
     
@@ -206,7 +208,7 @@ For ligonines, it is proof that separation does not erase kinship. For outsiders
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Subterranean Cities & Species Confluences)**  

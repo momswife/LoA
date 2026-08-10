@@ -1,4 +1,4 @@
-# **Regional Politics of Allemance**
+# Regional Politics of Allemance
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Continental Governance & Noble Decline)_  
 **Primary Compiler:** **Agent Corvaine Leir** (Diplomatic Climate & Power Transition)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of Allemance**
+## I. Political Identity of Allemance
 
 Allemance is often mistaken for a monarchy.
 
@@ -23,7 +23,7 @@ It simply does not close its fist anymore.
 
 ---
 
-## **II. The Queen & the Crown**
+## II. The Queen & the Crown
 
 The Queen of Allemance remains a unifying symbol, not an autocrat.
 
@@ -42,7 +42,7 @@ The crown governs by **consensus or consequence**, not decree.
 
 ---
 
-## **III. Baronies as Semi-Sovereign States**
+## III. Baronies as Semi-Sovereign States
 
 Allemance’s true political units are its **baronies**.
 
@@ -71,7 +71,7 @@ The title belongs to those who remember.
 
 ---
 
-## **IV. Old Royalty & Fading Authority**
+## IV. Old Royalty & Fading Authority
 
 Ancient noble houses remain prominent, particularly in cities like **Dole**, **Patrie**, and older river baronies.
 
@@ -100,7 +100,7 @@ Their power is real—but **localized and conditional**.
 
 ---
 
-## **V. Guilds, Cities, and Economic Counterweight**
+## V. Guilds, Cities, and Economic Counterweight
 
 Guild coalitions and city councils increasingly dictate policy.
 
@@ -117,7 +117,7 @@ Allemance’s politics are increasingly **transactional**, not hereditary.
 
 ---
 
-## **VI. The Role of the MDO**
+## VI. The Role of the MDO
 
 The **Ministry of Delving Operations** is the single greatest stabilizing force in Allemance.
 
@@ -134,7 +134,7 @@ While nobles often resent the MDO’s influence, they rely on it to prevent esca
 
 ---
 
-## **VII. Delvers & Social Disruption**
+## VII. Delvers & Social Disruption
 
 Delvers destabilize traditional hierarchies.
 
@@ -151,27 +151,27 @@ Delvers are tolerated because they are **too useful to suppress**.
 
 ---
 
-## **VIII. External Relations**
+## VIII. External Relations
 
-### **Vinyot**
+### Vinyot
 
 Viewed with wary respect. Corporate governance challenges Allemagnian tradition.
 
-### **Al’Ar**
+### Al’Ar
 
 Admired for autonomy, envied for mobility.
 
-### **Arneria**
+### Arneria
 
 Seen as ideologically alien; Causeway politics resist noble influence.
 
-### **Oria**
+### Oria
 
 Respected for discipline and restraint.
 
 ---
 
-## **IX. Conflict Resolution & Power Balance**
+## IX. Conflict Resolution & Power Balance
 
 Allemance avoids civil war through:
 
@@ -188,7 +188,7 @@ Power struggles play out in courts, contracts, and coin—not on battlefields.
 
 ---
 
-## **X. Political Character of Allemance**
+## X. Political Character of Allemance
 
 Allemance is a land where:
 
@@ -207,7 +207,7 @@ The nobles endure by adapting.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

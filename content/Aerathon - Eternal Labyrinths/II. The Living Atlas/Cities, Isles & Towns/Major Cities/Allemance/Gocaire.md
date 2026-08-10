@@ -1,3 +1,5 @@
+# Gocaire
+
 ### _The Open Gate — “If Fortune Will Not Come, We Invite It.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Border Baronies & Civic Experiments)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Gocaire** is a baronial capital of **Allemance**, positioned several miles south of the **Queensriver**, the symbolic and legal boundary between Allemance and **Glasrún**. Long regarded as an unremarkable border city—best known for the first baron’s historic abandonment of the northern forestlands—Gocaire has recently redefined itself with bold, controversial ambition.
 
@@ -24,11 +26,11 @@ Not everyone is pleased.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Gocaire lies on gently rolling terrain between cultivated Allemantic farmland and the darker treeline of Glasrún.
 
-### **City Layout**
+### City Layout
 
 - A traditional Allemantic grid around a central keep
     
@@ -37,7 +39,7 @@ Gocaire lies on gently rolling terrain between cultivated Allemantic farmland an
 - Southern districts dominated by farms and granaries
     
 
-### **The Old Line**
+### The Old Line
 
 A raised earthen embankment marks the historic “limit” of Allemantic expansion—the point beyond which the first baron relinquished all claim. No permanent structures are built beyond it.
 
@@ -52,7 +54,7 @@ Architecture is practical and conservative:
 
 ---
 
-## **III. History**
+## III. History
 
 Gocaire’s early history is defined by **retreat rather than conquest**. When its founding baron deemed the forest beyond the Queensriver too costly and politically inconvenient to tame, he abandoned the claim outright—an act that earned ridicule across Allemance for generations.
 
@@ -75,7 +77,7 @@ Gocaire’s history has pivoted from caution to **calculated risk**—and the ci
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Gocaire is ruled by a traditional **Baronial Court**, advised by:
 
@@ -90,7 +92,7 @@ The current nobility strongly supports the delver initiative, viewing it as the 
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Gocaire’s economy is in transition.
 
@@ -116,7 +118,7 @@ Local businesses that cater to delvers receive tax incentives, further inflaming
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Gocaire is mixed and strained.
 
@@ -133,7 +135,7 @@ Culturally, the city is divided between **pride and unease**.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Gocaire maintains a reinforced city watch.
 
@@ -148,7 +150,7 @@ Security focuses on **containment rather than expulsion**.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Gocaire has no Labyrinth within its walls, but serves as a **launch point** for expeditions heading north and east.
 
@@ -163,7 +165,7 @@ The MDO maintains a **small liaison office**, watching closely.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -177,7 +179,7 @@ Gocaire influences discourse more than trade: it is cited often in debates about
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Gocaire is attempting to rewrite its legacy.
 
@@ -188,7 +190,7 @@ Once known as the city that **turned away**, it now strains to be remembered as 
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Shops advertise “Delver Prices” openly
     
@@ -201,7 +203,7 @@ Once known as the city that **turned away**, it now strains to be remembered as 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Border Baronies & Civic Experiments)**  

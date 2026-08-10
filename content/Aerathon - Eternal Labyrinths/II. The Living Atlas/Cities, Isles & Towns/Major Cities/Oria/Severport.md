@@ -1,3 +1,5 @@
+# Severport
+
 ### _The Icebound Fleet — “If the Sea Closes, We Open It.”_
 
 **Ruling House:** **House Severinhald** (Oric Elk — Naval Wardens of the North)  
@@ -9,7 +11,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Severport** is a fortified Oric lodge city on the **Malenkean Sea**, renowned for maintaining the finest military sailors in Oria. Its massive icebreaking warships keep northern waters navigable long after lesser ports are sealed by winter, allowing surrounding lodge houses to fish, trade, and survive.
 
@@ -29,11 +31,11 @@ Severport carries two burdens without complaint:
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Severport is built along a jagged northern coast where pack ice presses relentlessly against stone.
 
-### **The Harbor**
+### The Harbor
 
 - Reinforced breakwaters of layered stone and iron
     
@@ -44,7 +46,7 @@ Severport is built along a jagged northern coast where pack ice presses relentle
 
 The harbor never fully freezes—by design.
 
-### **The Lodge-Fort**
+### The Lodge-Fort
 
 The central lodge house doubles as a naval bastion:
 
@@ -59,7 +61,7 @@ Buildings prioritize strength over comfort. Ornamentation is rare.
 
 ---
 
-## **III. History**
+## III. History
 
 Severport was founded as a necessity of survival.
 
@@ -69,7 +71,7 @@ Their early ice-cutting vessels evolved into the colossal ships Severport now fi
 
 Over time, Severport became the backbone of Oria’s northern maritime defense. Its refusal of Jegervalt’s tributes hardened into tradition after a bitter Housemeet debate, where Severinhald declared reliance a greater threat than hunger.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1196 A.D.** — Launch of the first successful Oric icebreaker.
     
@@ -85,7 +87,7 @@ That may soon change.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Severport is governed by **House Severport**, whose stewardship is held by the **Severinhald family**, an Oric House whose authority is inseparable from the city’s role as the northern shield of Oria.
 
@@ -104,7 +106,7 @@ Succession within House Severport favors proven commanders—those who have held
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Severport’s economy is tightly constrained by climate.
 
@@ -123,7 +125,7 @@ Luxury goods are nearly nonexistent. Everything imported must justify its weight
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Severport’s culture is austere and communal.
 
@@ -142,7 +144,7 @@ Several years ago, the **first otter admiral** was appointed, marking a cultural
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Severport is perpetually on alert.
 
@@ -157,7 +159,7 @@ Defense is the city’s primary function. Civil law exists to support it.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 The Labyrinths have become Severport’s greatest unseen enemy.
 
@@ -174,7 +176,7 @@ Severport faces a reckoning: adapt its traditions—or be outpaced by threats ri
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -188,7 +190,7 @@ If Severport fails, northern seas fall silent.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Severport defines honor as endurance without complaint.
 
@@ -201,7 +203,7 @@ But pride alone will not hold back the Labyrinths.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Ships are named only after proven service
     
@@ -214,7 +216,7 @@ But pride alone will not hold back the Labyrinths.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Naval Cities & Arctic Defense)**  

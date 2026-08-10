@@ -1,5 +1,7 @@
 >_“Eat First. Terrorize Later.”_
-___
+---
+# Auntie Biscuit
+
 ### _S-Class Quartermaster_
 
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division (Guild Relations & Civic Provisioning Bureau)  
@@ -10,7 +12,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Matron “Auntie Biscuit” Crumb** stands as Aerathon’s most beloved and feared culinary savant—a delver, quartermaster, and battlefield caterer whose cooking has rescued more lives than most relics. An S-Class operator of the **Free Company of Louvain**, she commands the Ministry-recognized **Mobile Field Canteen Unit** with a ladle in one hand and uncompromising hospitality in the other.
 
@@ -27,7 +29,7 @@ To monsters, she is… confusing.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** S-Class Quartermaster of the **Free Company of Louvain**; Ministry-certified **Field Canteen Commander**
     
@@ -40,7 +42,7 @@ To monsters, she is… confusing.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **No One Fights Hungry** — Feeding allies is strategic doctrine
     
@@ -51,52 +53,52 @@ To monsters, she is… confusing.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Biscuit Bridge of Betemere**
+### 1. The Biscuit Bridge of Betemere
 
 When an acid chasm collapsed beneath her unit, Biscuit engineered a **load-bearing biscuit lattice** reinforced with syrup glaze.  
 The Company crossed safely. The bridge was later eaten.
 
-### **2. The Truce of Three Soups**
+### 2. The Truce of Three Soups
 
 A three-way standoff between rival delvers and a troll warband ended when Auntie rang her dinner bell.  
 Her **Broth of Mutual Recognition** suppressed hostility long enough to negotiate a lasting pact.
 
-### **3. The Panini Press of Porta Strega**
+### 3. The Panini Press of Porta Strega
 
 Using the **Great Griddle**, Auntie seared sigils into corrupted soil, frying spectral entities into harmless crumbs—repurposed as protective wards.
 
-### **4. Siege of Whitestar Depot**
+### 4. Siege of Whitestar Depot
 
 When rations failed, she fed 600 refugees for two weeks using **one pot**, **three herbs**, and **a very stern prayer**.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Ladle of Ladling (and Smacking)**
+### Ladle of Ladling (and Smacking)
 
 A mythic ladle capable of scooping elements as easily as broth: lava becomes stew, frost becomes shaved ice, poison becomes pickles.  
 Functions as a **+3 versatile mace** when required.
 
-### **Apron of the Infinite Pantry**
+### Apron of the Infinite Pantry
 
 Each pocket contains a pocket-dimension kitchen.  
 As an action, Auntie produces **1d4+2 Hot Plates**, healing consumables with flavorful buffs.
 
-### **Hairnet of Command**
+### Hairnet of Command
 
 Creatures within 30 ft must succeed a Wisdom save to ignore a reasonable kitchen order.  
 Legendary creatures have advantage but will still feel deeply ashamed.
 
-### **Tray of Unruly Deflection**
+### Tray of Unruly Deflection
 
 A +2 shield able to ricochet ranged attacks into **custard grenades**.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 4 S-Rank (provision operations), 12 A-Rank (evacuation & morale missions)
     
@@ -109,7 +111,7 @@ A +2 shield able to ricochet ranged attacks into **custard grenades**.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“Second helpings for the brave. Third for the polite.”_  
 _“This sauce reduces; so will your attitude.”_  
@@ -117,7 +119,7 @@ _“Hands. Washed. Now.”_ (documented to affect undead)
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Her stew **restores good memories**, granting temporary hit points and fear resistance
     
@@ -130,7 +132,7 @@ _“Hands. Washed. Now.”_ (documented to affect undead)
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations & Civic Provisioning Bureau)**  

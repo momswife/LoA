@@ -3,7 +3,7 @@
 
 ---
 
-# **Labyrinth Safety**
+# Labyrinth Safety
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Compliance & Hazard Mitigation Bureau)_  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison)  
@@ -22,11 +22,11 @@ Failure to follow these standards is considered a breach of Ministerial law.
 
 ---
 
-# **I. Pre-Descent Safety Requirements**
+## I. Pre-Descent Safety Requirements
 
 Before any sanctioned descent, delvers must complete:
 
-## **1. Hazard Classification Briefing**
+### 1. Hazard Classification Briefing
 
 All labyrinths are categorized by Tier (0–6). Briefings include:
 
@@ -41,7 +41,7 @@ All labyrinths are categorized by Tier (0–6). Briefings include:
 - Divine or infernal resonance markers
     
 
-## **2. Equipment Verification**
+### 2. Equipment Verification
 
 Mandatory items include:
 
@@ -58,7 +58,7 @@ Mandatory items include:
 
 Failure to carry minimum gear results in denied entry.
 
-## **3. Team Safety Roles**
+### 3. Team Safety Roles
 
 Each party must designate:
 
@@ -75,16 +75,16 @@ Solo delvers must sign a **High-Risk Waiver**, countersigned by an MDO official.
 
 ---
 
-# **II. Core Safety Principles**
+## II. Core Safety Principles
 
-## **1. The Rule of Controlled Advancement**
+### 1. The Rule of Controlled Advancement
 
 Parties may not sprint, teleport blindly, or charge into unscouted chambers.  
 Labyrinths change shape—doors become walls, floors become voids, and corridors loop into themselves.
 
 Steady engagement is not cowardice; it is survival.
 
-## **2. The Rule of Resonance Stability**
+### 2. The Rule of Resonance Stability
 
 Sudden emotional outbursts, elemental surges, or divine channeling can provoke:
 
@@ -99,7 +99,7 @@ Sudden emotional outbursts, elemental surges, or divine channeling can provoke:
 
 Delvers must maintain emotional and magical moderation.
 
-## **3. The Rule of Non-Disruption**
+### 3. The Rule of Non-Disruption
 
 Do not disturb:
 
@@ -116,16 +116,16 @@ Do not disturb:
 
 Many labyrinth deaths result from needless tampering.
 
-## **4. The Rule of Retreat**
+### 4. The Rule of Retreat
 
 If structural instability exceeds 47% (as detected by Oculi vibration), all delvers must evacuate.  
 Retreat is not dishonor—it is Ministerially mandated.
 
 ---
 
-# **III. Hazard Categories & Safety Responses**
+## III. Hazard Categories & Safety Responses
 
-## **1. Mechanical Hazards**
+### 1. Mechanical Hazards
 
 Includes: crushing halls, rotating blades, collapsing platforms.  
 **Protocol:**
@@ -139,7 +139,7 @@ Includes: crushing halls, rotating blades, collapsing platforms.
 - Disable, do not destroy (destruction triggers secondary mechanisms)
     
 
-## **2. Environmental Hazards**
+### 2. Environmental Hazards
 
 Includes: arcane fire zones, miasma pools, void winds, time distortion bubbles.  
 **Protocol:**
@@ -151,7 +151,7 @@ Includes: arcane fire zones, miasma pools, void winds, time distortion bubbles.
 - Immediate evacuation upon vertigo, memory drift, or bleeding shadows
     
 
-## **3. Bestial Hazards**
+### 3. Bestial Hazards
 
 Includes: labyrinth-native beasts, corrupted fauna, echo-monsters.  
 **Protocol:**
@@ -163,7 +163,7 @@ Includes: labyrinth-native beasts, corrupted fauna, echo-monsters.
 - Identify signs of sentience (sentient beings fall under Ethical Delving statutes)
     
 
-## **4. Cursed Zones**
+### 4. Cursed Zones
 
 Includes: whisper chambers, guilt-hollows, memory-eaters, bleeding altars.  
 **Protocol:**
@@ -179,7 +179,7 @@ Includes: whisper chambers, guilt-hollows, memory-eaters, bleeding altars.
 
 ---
 
-# **IV. Oculi-Based Safety Observations**
+## IV. Oculi-Based Safety Observations
 
 Divine Oculi are equipped to detect:
 
@@ -199,7 +199,7 @@ Interference with Oculi signals is illegal and can result in arrest.
 
 ---
 
-# **V. Civilian & Guild Safety Impact**
+## V. Civilian & Guild Safety Impact
 
 Delver safety is inseparable from public safety.  
 Protocols are designed to:
@@ -218,9 +218,9 @@ Delvers are reminded:
 
 ---
 
-# **VI. Emergency Response Procedures**
+## VI. Emergency Response Procedures
 
-## **1. Collapse Protocol (CP-7)**
+### 1. Collapse Protocol (CP-7)
 
 Triggered when two or more structural supports fail in under 30 seconds.
 
@@ -233,7 +233,7 @@ Triggered when two or more structural supports fail in under 30 seconds.
 - Signal Oculi for spatial correction
     
 
-## **2. Breach Contamination Protocol (BC-5)**
+### 2. Breach Contamination Protocol (BC-5)
 
 For planar tears, monster overflow, or void rupture:
 
@@ -246,7 +246,7 @@ For planar tears, monster overflow, or void rupture:
 - Await MDO Breach Division arrival
     
 
-## **3. Missing Delver Protocol**
+### 3. Missing Delver Protocol
 
 Triggered after 90 seconds of no Arcanet heartbeat signal.
 
@@ -259,7 +259,7 @@ Triggered after 90 seconds of no Arcanet heartbeat signal.
 
 ---
 
-# **VII. Safety Compliance & Penalties**
+## VII. Safety Compliance & Penalties
 
 Failure to follow Labyrinth Safety Protocols results in:
 
@@ -280,7 +280,7 @@ Failure to follow Labyrinth Safety Protocols results in:
 
 ---
 
-# **VIII. Why Labyrinth Safety Matters**
+## VIII. Why Labyrinth Safety Matters
 
 Labyrinths are not dungeons to be conquered—they are living, shifting systems that respond to delver behavior.  
 Safety is the discipline that maintains:
@@ -300,7 +300,7 @@ To enter the Labyrinth without respect is to enter its jaws willingly.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Compliance & Hazard Mitigation Bureau)**  

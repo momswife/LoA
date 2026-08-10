@@ -3,7 +3,7 @@
 
 ---
 
-# **Broadcast Manipulation Laws
+# Broadcast Manipulation Laws
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Broadcast Conduct Bureau)_  
 **Primary Compiler:** Chief Registrar Pyra Koll (Regulation & Compliance)  
@@ -36,7 +36,7 @@ Any form of deception—digital, magical, or divine—is punishable under Minist
 
 ---
 
-# **I. Definition of Broadcast Manipulation**
+## I. Definition of Broadcast Manipulation
 
 Broadcast Manipulation includes any attempt to:
 
@@ -57,9 +57,9 @@ This applies to guilds, sponsors, delvers, commentators, and all Arcanet broadca
 
 ---
 
-# **II. Categories of Illegal Manipulation**
+## II. Categories of Illegal Manipulation
 
-## **1. **Visual or Illusory Tampering (VIT)**
+### 1. Visual or Illusory Tampering (VIT)
 
 Use of illusion magic, glamours, fog-script, or mimic projections to:
 
@@ -78,7 +78,7 @@ VIT carries **high penalties** due to its influence on public opinion and UDMI s
 
 ---
 
-## **2. **Oculi Interference (OI)**
+### 2. Oculi Interference (OI)
 
 Includes:
 
@@ -96,7 +96,7 @@ Any interference is considered a **Class-1 Offense**.
 
 ---
 
-## **3. **Narrative Manipulation (NM)**
+### 3. Narrative Manipulation (NM)
 
 When guilds or sponsors attempt to:
 
@@ -115,7 +115,7 @@ Narrative Manipulation undermines the integrity of delving as a profession.
 
 ---
 
-## **4. **Arcane Signal Mutation (ASM)**
+### 4. Arcane Signal Mutation (ASM)
 
 Magical alteration of:
 
@@ -132,7 +132,7 @@ ASM is frequently associated with gambling syndicates and black-route guilds.
 
 ---
 
-## **5. **Audience Coercion & Sentiment Control (ACSC)**
+### 5. Audience Coercion & Sentiment Control (ACSC)
 
 Forbidden methods of influencing audience behavior:
 
@@ -151,7 +151,7 @@ ACSC represents one of the fastest-growing broadcast crimes.
 
 ---
 
-## **6. **Temporal Stream Editing (TSE)**
+### 6. Temporal Stream Editing (TSE)
 
 Manipulation of:
 
@@ -170,11 +170,11 @@ TSE is **only allowed** during redaction-order events issued by the Ministry its
 
 ---
 
-# **III. Penalties for Violations**
+## III. Penalties for Violations
 
-### Penalties scale based on severity:
+Penalties scale based on severity:
 
-### **Class-1 Offenses**
+#### Class-1 Offenses
 
 (e.g., Oculi interference, UDMI manipulation)
 
@@ -189,7 +189,7 @@ TSE is **only allowed** during redaction-order events issued by the Ministry its
 - Sponsor contract nullification
     
 
-### **Class-2 Offenses**
+#### Class-2 Offenses
 
 (e.g., narrative scripting, sentiment coercion)
 
@@ -200,7 +200,7 @@ TSE is **only allowed** during redaction-order events issued by the Ministry its
 - 1–6 cycle delving suspension
     
 
-### **Class-3 Offenses**
+#### Class-3 Offenses
 
 (e.g., minor illusions, aesthetic edits)
 
@@ -211,13 +211,13 @@ TSE is **only allowed** during redaction-order events issued by the Ministry its
 - Broadcast restrictions
     
 
-### **Class-N Offense (N-Series Specific)**
+#### Class-N Offense (N-Series Specific)
 
 When manipulation attempts target **N-Class Teams**, such as Unit N-7, penalties escalate automatically to **Class-1**, regardless of method, due to their recognized convergence relevance.
 
 ---
 
-# **IV. Guild & Sponsor Compliance Requirements**
+## IV. Guild & Sponsor Compliance Requirements
 
 Guilds and sponsors must submit:
 
@@ -245,11 +245,11 @@ Failure to comply results in:
 
 ---
 
-# **V. Detection & Safeguards**
+## V. Detection & Safeguards
 
 Broadcast Manipulation is monitored by:
 
-### **1. Divine Oculi Analysis**
+#### 1. Divine Oculi Analysis
 
 Oculi detect:
 
@@ -262,7 +262,7 @@ Oculi detect:
 - Spell-forced sentiment shifts
     
 
-### **2. Arcanet Trace Algorithms**
+#### 2. Arcanet Trace Algorithms
 
 Monitor:
 
@@ -275,7 +275,7 @@ Monitor:
 - Commentary tampering
     
 
-### **3. Spectacle Integrity Division (SID)**
+#### 3. Spectacle Integrity Division (SID)
 
 A branch of the MDO dedicated to:
 
@@ -286,7 +286,7 @@ A branch of the MDO dedicated to:
 - Guild compliance checks
     
 
-### **4. Unmasker Glyphs**
+#### 4. Unmasker Glyphs
 
 Ministerial glyphs placed over livecasts to detect:
 
@@ -299,13 +299,13 @@ Ministerial glyphs placed over livecasts to detect:
 
 ---
 
-# **VI. N-Class Exception Protocol**
+## VI. N-Class Exception Protocol
 
 Due to their **Core-designated convergence significance**, N-Class teams (e.g., **Unit N-7**) are governed by special regulations:
 
-### **1. Attempted manipulation of an N-Class broadcast is an automatic Class-1 Offense**, regardless of severity.
+1. **Automatic Class-1 classification.** Attempted manipulation of an N-Class broadcast is an automatic Class-1 Offense, regardless of severity.
 
-### **2. All Oculi data involving N-Class members is triple-encrypted** and reviewed by:
+2. **Triple-encrypted review.** All Oculi data involving N-Class members is triple-encrypted and reviewed by:
 
 - The Core’s Auditory Lens
     
@@ -314,15 +314,15 @@ Due to their **Core-designated convergence significance**, N-Class teams (e.g., 
 - Charter Counsel Office
     
 
-### **3. No guild, sponsor, or political body may alter N-Class narrative summaries**, even for public-relations reasons.
+3. **Narrative integrity.** No guild, sponsor, or political body may alter N-Class narrative summaries, even for public-relations reasons.
 
-### **4. Tipping to N-Class teams is monitored as potential Convergence-Relevant Activity.**
+4. **Convergence monitoring.** Tipping to N-Class teams is monitored as potential Convergence-Relevant Activity.
 
 The Ministry treats any interference as a threat to national stability.
 
 ---
 
-# **VII. Why Broadcast Manipulation Laws Exist**
+## VII. Why Broadcast Manipulation Laws Exist
 
 Delving is not merely survival—it is a public trust.  
 If broadcasts are manipulated, then:
@@ -358,7 +358,7 @@ But the **story of the Labyrinth must remain honest**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Broadcast Conduct Bureau)**  

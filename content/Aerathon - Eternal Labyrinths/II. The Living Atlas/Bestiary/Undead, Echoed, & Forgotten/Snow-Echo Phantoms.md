@@ -3,7 +3,7 @@
 
 ---
 
-# **Snow-Echo Phantoms**
+# Snow-Echo Phantoms
 
 ### _Cold-Born Echoes of the Lost — “Where Footprints Fade, But Voices Do Not.”_
 
@@ -18,7 +18,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Snow-Echo Phantoms** are spectral manifestations that form where **death, memory, and deep winter converge**.  
 They are not ghosts, nor are they illusions — but fragments of emotion, regret, and unfinished purpose captured in snow-laden air and given the faintest semblance of form.
@@ -32,7 +32,7 @@ They are classified as **Type-UNF / Cryo-Echo Aberrants**, subtle but dangerous 
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -46,7 +46,7 @@ Snow-Echo Phantoms often flicker between forms — sometimes looking vaguely lik
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Snow-Echo Phantoms are not malevolent by intention. Their danger lies in **emotional resonance** and **storm-bound compulsion**.
 
@@ -71,7 +71,7 @@ Most Phantoms dissipate at dawn, but some persist through entire winters if thei
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Snow-Echo Phantoms appear in regions with sustained winter or heavy storm activity, especially where isolation is common:
 
@@ -95,7 +95,7 @@ The probability increases exponentially during:
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-lens analysis confirms Phantoms hold **fragments of memory**, not souls.
     
@@ -113,7 +113,7 @@ The probability increases exponentially during:
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -128,7 +128,7 @@ Touching a Phantom’s core can induce **memory frostbite** — a psychic cold t
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -139,7 +139,7 @@ Artifacts housed in Vault #94 (Louvain Branch — Cryo-Echo Annex), dual seal St
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level III — Emotional Echo Hazard
     
@@ -154,7 +154,7 @@ Artifacts housed in Vault #94 (Louvain Branch — Cryo-Echo Annex), dual seal St
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Nattefrost Nomads:** Leave lanterns in snowbanks to “guide the lost to rest.”
     
@@ -171,7 +171,7 @@ Artifacts housed in Vault #94 (Louvain Branch — Cryo-Echo Annex), dual seal St
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Snow-Echo Phantoms** are haunting embodiments of winter’s memory — fragile, sorrow-filled echoes of those lost to the cold.  
 They replay final moments, mimic familiar voices, and follow invisible patterns of grief woven into the storm.
@@ -184,7 +184,7 @@ They seek warmth, closure, and remembrance:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)**  

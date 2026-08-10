@@ -1,4 +1,4 @@
-# **Louvain**
+# Louvain
 
 ### _The City of Brass and Flame — “Where Civilization Keeps Its Memory.”_
 
@@ -13,7 +13,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Louvain** is the undisputed **political, administrative, and cultural capital of Aerathon**. Where other cities command by trade, faith, or fear, Louvain governs through **memory**—law written into stone, ritual embedded in infrastructure, and history preserved as living civic function.
 
@@ -26,11 +26,11 @@ Built atop the consecrated ground of the **First Concord**, Louvain is home to t
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Louvain sits at the convergence of the **Silverway River** and the fertile **Heartplain**, surrounded by low hills that reflect lanternlight for miles at night.
 
-### **Urban Layout**
+### Urban Layout
 
 The city is divided into **Seven Lantern Wards**, each radiating from the central **Flame Ward**, where the Eternal Flame burns.
 
@@ -48,7 +48,7 @@ Architecture favors **brass, glass, and stone**, with enchantments woven into la
 
 ---
 
-## **III. History**
+## III. History
 
 Louvain was founded in the aftermath of the **Age of Collapse**, when survivors gathered around a patch of land still warm with divine fire. That fire became the **Eternal Hearth**, and around it rose a settlement dedicated not merely to survival, but to preventing history from being lost again.
 
@@ -71,7 +71,7 @@ Louvain endures because it remembers what the world was—and refuses to forget 
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Louvain is governed by the **Council of Lanterns**, twelve delegates drawn from:
 
@@ -90,7 +90,7 @@ The **Ministry of Delving Operations** holds **extrajudicial authority** within 
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Louvain is the wealthiest city in Aerathon, its economy built on **knowledge rather than extraction**.
 
@@ -118,7 +118,7 @@ Currency: **Crownflame**, a soft-gold coin that glows faintly in moonlight.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Louvain is **syncretic and civic**.
 
@@ -137,7 +137,7 @@ Music, food, and storytelling are treated as civic obligations. Taverns and amph
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Louvain is beautiful—and deeply fortified.
 
@@ -152,7 +152,7 @@ Punishment focuses on **record and restitution**. Crimes are entered into public
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Beneath Louvain lies the **First Vault**, a sealed labyrinth where the Ministry recovered its founding relics.
 
@@ -167,7 +167,7 @@ Many scholars believe the **Eternal Flame** itself is a relic heart—alive, lis
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -181,7 +181,7 @@ Louvain shapes the world by deciding **what is recorded—and what is forgotten*
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Louvain is a paradox: progressive yet reverent, bureaucratic yet sacred. Its people believe that memory is the only true defense against collapse.
 
@@ -191,7 +191,7 @@ If Aerathon ever falls again, many believe Louvain will remain—glowing beneath
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Citizens can identify wards by lantern tone alone
     
@@ -204,7 +204,7 @@ If Aerathon ever falls again, many believe Louvain will remain—glowing beneath
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Archive)**  

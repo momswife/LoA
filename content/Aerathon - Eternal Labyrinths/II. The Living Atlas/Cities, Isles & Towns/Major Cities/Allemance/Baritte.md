@@ -1,3 +1,5 @@
+# Baritte
+
 ### _The Crossroads City — “Where Every Journey Begins, and None Truly End.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Archive)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Baritte** is the **trade and transport capital of Allemance** and the largest crossroads city in Aerathon. It sits at the convergence of four continental arteries—the **Lantern Road** (to Louvain), **Iron Trail** (to Oria), **Spice Road** (to Arneria), and **Glassway** (to Vinyot)—making it the logistical heart of the known world.
 
@@ -21,7 +23,7 @@ Baritte is not a city of rest. It is a city of **motion**: wagons, caravans, pil
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Baritte is a **circular city**, divided into four vast quarters aligned with the roads they serve, surrounding a central civic core.
 
@@ -36,7 +38,7 @@ At the center lies **The Wayheart**, a circular plaza marking what cartographers
 
 ---
 
-## **III. History**
+## III. History
 
 Baritte began as a **pilgrim rest stop** during the Reconstruction following the Age of Collapse. Nomadic merchants and Beastfolk traders raised the **First Waystone**, promising safety to travelers who offered bread, coin, and good faith.
 
@@ -57,7 +59,7 @@ Baritte endures as a city built not for walls or war, but for **safe passage and
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Baritte is governed by the **Council of Roads**, an elected council of five:
 
@@ -72,7 +74,7 @@ The MDO maintains a permanent **Transit Bureau**, overseen by the **Marshal of R
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Everything that moves passes through Baritte.
 
@@ -107,7 +109,7 @@ The **Hourbell**, a massive timekeeping relic, rings hourly to synchronize trans
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Baritte is practical and plural.
 
@@ -129,7 +131,7 @@ Common sayings include:
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Baritte’s greatest defense is **neutrality**.
 
@@ -144,7 +146,7 @@ Criminals may be branded with **Traveler’s Ink**, a glowing mark preventing th
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Many labyrinth entrances lie along the trade routes radiating from Baritte, making it a premier staging ground for delvers and supply convoys.
 
@@ -154,7 +156,7 @@ Several guilds maintain chapterhouses here, including the **Cinderpaw Pact**, **
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -168,7 +170,7 @@ Baritte shapes the continent by deciding **how fast** it moves.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Baritte is the one city no one owns.
 
@@ -180,7 +182,7 @@ To the MDO, it is **Aerathon’s pulse**.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Locals can give directions using only road names, never landmarks
     
@@ -193,7 +195,7 @@ To the MDO, it is **Aerathon’s pulse**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Archive)**  

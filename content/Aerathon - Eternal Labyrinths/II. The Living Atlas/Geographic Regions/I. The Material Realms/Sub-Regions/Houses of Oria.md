@@ -1,3 +1,5 @@
+# Houses of Oria
+
 ### _“The House endures. The seat must be earned.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Oric Governance & City-State Structures)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Oria** is not a unified nation-state with a capital, throne, or centralized legislature. It is a **confederation of independent city-states**, each governed by its own **House**. In Oric custom, the **House takes the name of the city it governs**, and the **seat of stewardship** is held by a family line entrusted with rule.
 
@@ -23,7 +25,7 @@ Authority is not “owned.” It is **carried**—and dropped the moment it fail
 
 ---
 
-## **II. Confederation Without Capital**
+## II. Confederation Without Capital
 
 There is **no capital** in Oria. Inter-city coordination occurs through temporary accords and functional necessity:
 
@@ -40,13 +42,13 @@ No House holds lawful supremacy over another. Deference is granted only where fu
 
 ---
 
-## **III. Canon Houses & Seats**
+## III. Canon Houses & Seats
 
 Below are the **recognized Houses of Oria**, standardized to match the governance language of their **city pages**, with House names aligned to the **city** and the ruling seats aligned to the **steward families**.
 
 ---
 
-### **House Edelstann**
+### House Edelstann
 
 **City:** Edelstann  
 **Seat (Steward Family):** **Vanlig**  
@@ -61,7 +63,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-### **House Frostguarde**
+### House Frostguarde
 
 **City:** Frostguarde City  
 **Seat (Steward Family):** **Stonewarden**  
@@ -82,7 +84,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-### **House Heltenlave**
+### House Heltenlave
 
 **City:** Heltenlave  
 **Seat (Steward Family):** **Skjoldhrafn**  
@@ -97,7 +99,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-### **House Jegervalt**
+### House Jegervalt
 
 **City:** Jegervalt  
 **Seat (Steward Family):** **Roetvald**  
@@ -112,7 +114,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-### **House Podgorod**
+### House Podgorod
 
 **City:** Podgorod  
 **Seat (Steward Family):** **Bronzemolev**  
@@ -127,7 +129,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-### **House Priozhevsky**
+### House Priozhevsky
 
 **City:** Priozhevsky  
 **Seat (Steward Family):** **Medvednaya**  
@@ -144,7 +146,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-### **House Severport**
+### House Severport
 
 **City:** Severport  
 **Seat (Steward Family):** **Severinhald**  
@@ -159,7 +161,7 @@ Below are the **recognized Houses of Oria**, standardized to match the governanc
 
 ---
 
-## **IV. Oric Rule, In One Sentence**
+## IV. Oric Rule, In One Sentence
 
 Across all Houses, the pattern holds:
 
@@ -169,7 +171,7 @@ Across all Houses, the pattern holds:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — The Living Atlas**  

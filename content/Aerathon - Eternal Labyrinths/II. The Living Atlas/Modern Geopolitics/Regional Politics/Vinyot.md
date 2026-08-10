@@ -1,4 +1,4 @@
-# **Regional Politics of Vinyot**
+# Regional Politics of Vinyot
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Corporate Polities & Civic Stability)_  
 **Primary Compiler:** **Director Halin Drauve** (Guild Economics & Trade Governance)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of Vinyot**
+## I. Political Identity of Vinyot
 
 Vinyot does not pretend to be virtuous.
 
@@ -21,7 +21,7 @@ And most citizens are content with that.
 
 ---
 
-## **II. Corporate Governance & Civic Boards**
+## II. Corporate Governance & Civic Boards
 
 Vinyot’s cities are ruled by **corporate coalitions** rather than nobles.
 
@@ -49,7 +49,7 @@ Elections exist, but they are often symbolic. Real decisions are made in boardro
 
 ---
 
-## **III. Bribery, Influence, and the Accepted Quiet**
+## III. Bribery, Influence, and the Accepted Quiet
 
 Bribery exists in Vinyot.
 
@@ -67,7 +67,7 @@ Attempts to crack down on these practices historically led to unrest, slowdowns,
 
 ---
 
-## **IV. The Social Contract**
+## IV. The Social Contract
 
 Vinyotians tolerate corruption because the results are tangible.
 
@@ -87,7 +87,7 @@ Coin is the lubricant.
 
 ---
 
-## **V. Law, Enforcement, and Plausible Legality**
+## V. Law, Enforcement, and Plausible Legality
 
 Law in Vinyot is extensive—and selectively enforced.
 
@@ -102,7 +102,7 @@ High-profile scandals are avoided not by innocence, but by **containment**. When
 
 ---
 
-## **VI. Faith, Culture & Secular Comfort**
+## VI. Faith, Culture & Secular Comfort
 
 Religion in Vinyot is personal and restrained.
 
@@ -117,7 +117,7 @@ The Quiet Edict is embraced not out of reverence, but convenience.
 
 ---
 
-## **VII. Delvers, the Labyrinths, and Opportunity**
+## VII. Delvers, the Labyrinths, and Opportunity
 
 Vinyot sees delvers as:
 
@@ -134,27 +134,27 @@ Delvers are regulated, insured, taxed, and quietly encouraged.
 
 ---
 
-## **VIII. External Relations**
+## VIII. External Relations
 
-### **Allemance**
+### Allemance
 
 Reliable trade partner; viewed as nostalgic.
 
-### **Arneria**
+### Arneria
 
 Necessary but rigid; bribes are harder there.
 
-### **Al’Ar**
+### Al’Ar
 
 Chaotic but profitable.
 
-### **Oria**
+### Oria
 
 Respected, though their refusal to monetize fully is seen as wasteful.
 
 ---
 
-## **IX. The MDO’s Uneasy Presence**
+## IX. The MDO’s Uneasy Presence
 
 The **Ministry of Delving Operations** is tolerated cautiously.
 
@@ -167,7 +167,7 @@ Vinyot complies meticulously—with the letter, if not always the spirit.
 
 ---
 
-## **X. Political Character of Vinyot**
+## X. Political Character of Vinyot
 
 Vinyot believes legitimacy comes from results.
 
@@ -178,7 +178,7 @@ If the docks are full, the lights stay on, and families eat well—then the syst
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

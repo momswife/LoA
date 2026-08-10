@@ -1,3 +1,5 @@
+# Riverbed City
+
 ### _The City the River Left — “Stone Remembers Water.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Geological Events & Trade Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Riverbed City** is a long, terraced settlement built directly into the dry ravine once carved by the **Teplo River**. Though the river itself no longer flows through the basin, the city endures—repurposed from riverport to **premier freshwater shipwright hub** and northern transit point.
 
@@ -21,11 +23,11 @@ Situated along Allemance’s northern edge near the **Oric border**, Riverbed Ci
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Riverbed City is defined by absence.
 
-### **The Dry Ravine**
+### The Dry Ravine
 
 Once the Teplo’s course, the ravine now forms the city’s spine:
 
@@ -38,7 +40,7 @@ Once the Teplo’s course, the ravine now forms the city’s spine:
 
 The sound of running water is replaced by hammering wood and creaking hulls.
 
-### **Northern Edge**
+### Northern Edge
 
 The city’s northernmost docks sit close to the **Oric border**, where boats are loaded for upriver journeys along the Teplo’s new course. Seasonal ice warnings are posted throughout the year.
 
@@ -53,7 +55,7 @@ Architecture favors:
 
 ---
 
-## **III. History**
+## III. History
 
 Riverbed City was once an unremarkable riverport—important locally, forgettable regionally. That changed **two centuries ago**, when a celestial impact struck the **Mantle Mountains**.
 
@@ -78,7 +80,7 @@ Riverbed City remembers the disaster not as loss, but as instruction.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Riverbed City is governed by a **Craft Council**, dominated by:
 
@@ -93,7 +95,7 @@ A nominal Allemantic overseer handles external affairs, but internal governance 
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 The city’s economy is tightly focused.
 
@@ -112,7 +114,7 @@ Riverbed boats command premium prices across Aerathon. Many inland shipwrights a
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Riverbed City is quiet and geological.
 
@@ -129,7 +131,7 @@ Culturally, the city values **adaptation over tradition**.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Riverbed City maintains a compact but disciplined defense force.
 
@@ -144,7 +146,7 @@ Defense is practical; survival depends on timing and preparation.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Riverbed City maintains deliberate distance from the Labyrinths.
 
@@ -159,7 +161,7 @@ The city trusts stone and wood more than anomaly.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -173,7 +175,7 @@ Riverbed City influences Aerathon not by politics, but by **who gets home before
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Riverbed City is proof that geography does not decide fate—response does.
 
@@ -183,7 +185,7 @@ It stands as a reminder that catastrophes do not erase cities. They **reshape th
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Children learn river charts before letters
     
@@ -196,7 +198,7 @@ It stands as a reminder that catastrophes do not erase cities. They **reshape th
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Geological Events & Trade Settlements)**  

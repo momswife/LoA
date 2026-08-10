@@ -34,7 +34,7 @@ The term may refer to:
     
 - Illegal broadcasters who transmit dangerous flights through hacked Divine Oculi
     
-- Cultural revivalists invoking the ancient [[The Ancient Stormriders|Stormriders]]
+- Cultural revivalists invoking the ancient [[The Sky-Reeve Clans#VIII. Stormriders|Stormriders]]
     
 - Protesters challenging restrictions on Avianfolk airspace
     

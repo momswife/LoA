@@ -2,7 +2,7 @@
 > *Now it is a performance—* *and the crowd? The crowd is never unarmed.”*
 
 ---
-# **Livecasting, Sponsorship & Audience Power**
+# Livecasting, Sponsorship & Audience Power
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)_  
 **Primary Compiler:** Director Halin Drauve (Guild Economics & Merit Systems)  
@@ -23,16 +23,16 @@ Where once delvers fought in unobserved darkness, they now fight in the **spotli
 
 ---
 
-# **I. The Sponsorship Web**
+## I. The Sponsorship Web
 
-## **Definition & Structure**
+### Definition & Structure
 
 A **sponsorship** is a sanctioned pact between a delver (or guild) and an accredited patron—ranging from noble houses to merchant syndicates, arcane colleges, major cities, or interrealm consortia.  
 Through this pact, delvers become **icons**, their survival and triumphs woven into the sigils, banners, and broadcasts of their sponsors.
 
 All sponsorships are monitored by the **ABA** and additionally registered with the **MDO** to prevent narrative tampering, magical fraud, or coercive pacts.
 
-## **Sponsorship Benefits**
+### Sponsorship Benefits
 
 - **Commissioned Magical Gear**  
     Equipment etched with sponsor crests, rune-lattices, and performance enhancers.
@@ -47,7 +47,7 @@ All sponsorships are monitored by the **ABA** and additionally registered with t
     Invitations to relic auctions, artifact negotiation rites, and contract bidding.
     
 
-## **Major Sponsor Categories**
+### Major Sponsor Categories
 
 - **Noble Patrons** — Pursue lineage prestige and political leverage
     
@@ -62,13 +62,13 @@ A delver’s banner is rarely just cloth—it is **identity, leverage, and story
 
 ---
 
-# **II. Audience Influence**
+## II. Audience Influence
 
-### _When the Crowd Becomes a Weapon_
+#### _When the Crowd Becomes a Weapon_
 
 Livecasting is an interactive phenomenon: spectators across Aerathon shape delves in real time through sanctioned Arcanet channels.
 
-## **Interaction Methods**
+### Interaction Methods
 
 - **Arcane Tipcasting**  
     Remote magical boons enhancing stamina, perception, or morale.
@@ -83,7 +83,7 @@ Livecasting is an interactive phenomenon: spectators across Aerathon shape delve
     Public wagers that sway Fame metrics, sponsorship adjustments, and narrative direction.
     
 
-## **Broadcast Access Channels**
+### Broadcast Access Channels
 
 - **Noble Linefeeds** — High-impact, priority channels with weighted influence
     
@@ -96,14 +96,14 @@ Delvers must not only fight monsters—they must **negotiate with the will of th
 
 ---
 
-# **III. The Fame Engine**
+## III. The Fame Engine
 
-### _Invisible Arithmetic Behind the Spotlight_
+#### _Invisible Arithmetic Behind the Spotlight_
 
 The **Fame Engine** is an encrypted arcane algorithm developed jointly by the GSN and noble consortia.  
 It calculates a delver’s **market pull**, **narrative potency**, and **spectacle value**, feeding directly into sponsorship bids and broadcast arcs.
 
-### **Fame Engine Factors**
+#### Fame Engine Factors
 
 - Viewer sentiment & retention
     
@@ -118,11 +118,11 @@ Where the UDMI measures competence, the Fame Engine measures **captivation**.
 
 ---
 
-# **IV. Criticism & Resistance**
+## IV. Criticism & Resistance
 
-### _The Shadows Beneath the Scrying Light_
+_The Shadows Beneath the Scrying Light_
 
-## **Ethical Concerns**
+### Ethical Concerns
 
 - **Low-Rank Exploitation**  
     D-Rank delvers pushed into lethal delves to generate spectacle.
@@ -134,7 +134,7 @@ Where the UDMI measures competence, the Fame Engine measures **captivation**.
     Public fixation on death spirals, emotional breakdowns, and delver suffering.
     
 
-## **Resistance Movements**
+### Resistance Movements
 
 - **The Ghostveil Accord**  
     Advocates for delayed broadcasts and off-grid delving windows.
@@ -151,7 +151,7 @@ In this age, survival is not enough.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

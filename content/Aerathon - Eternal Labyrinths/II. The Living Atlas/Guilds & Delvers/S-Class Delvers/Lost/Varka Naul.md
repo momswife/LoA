@@ -2,6 +2,8 @@
 
 ---
 
+# Varka Naul
+
 ### _S-Class Pain-Epitomist (Missing)_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau) 
@@ -12,7 +14,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Varkha “Carrion-Laugh” Naul** is a hyenafolk S-Class delver whose reputation survives primarily in whispers—usually spoken in places where the walls have already begun to bleed. To Varkha, Labyrinths are not sacred tests nor grand adventures; they are **abattoirs with puzzles**, engines for suffering, and altars dedicated to gods who savor the sound of shrieking.
 
@@ -25,7 +27,7 @@ Crews who have endured a delve with him agree on one universal truth:
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** S-Class freelance; formally **censured** by the **Free Company of Louvain**; black-flagged for Ministry contracts except under **Clause 9 (Total Denial)**
     
@@ -38,7 +40,7 @@ Crews who have endured a delve with him agree on one universal truth:
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Strength Through Suffering**
     
@@ -49,29 +51,29 @@ Crews who have endured a delve with him agree on one universal truth:
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Denial of the Salt Gate**
+### 1. The Denial of the Salt Gate
 
 A flood-prison gate had resisted three separate companies. Varkha opened it by **bleeding a volunteer** across the threshold and laughing until the hinge “answered.”  
 Spirits fled.  
 Clients stopped asking questions.
 
-### **2. The Choir of Broken Glass**
+### 2. The Choir of Broken Glass
 
 Within a prism-maze, Varkha fashioned a wind-chime of **teeth and shattered lens-crystals**. Each scream tuned the labyrinth to the correct harmonic, shattering panes in sequence.  
 He left the chimes behind **“so the maze remembers.”**
 
-### **3. The Taker’s Truce**
+### 3. The Taker’s Truce
 
 When negotiating with a ghoul prefect, Varkha offered **one living hour per delver**. He then “borrowed” those hours from enemies mid-battle, leaving them alive but hollow when delivered.  
 Technically fulfilled.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Tally-Torque of the Crimson Garden (very rare)**
+### Tally-Torque of the Crimson Garden (very rare)
 
 A braided sinew collar threaded with wolf-bones etched in tally marks.  
 Each scream within **30 ft** adds a notch.
@@ -84,7 +86,7 @@ Each scream within **30 ft** adds a notch.
     All notches fade at dawn with a faint, unmistakable chuckle.
     
 
-### **Laughing Sundial**
+### Laughing Sundial
 
 A brass palm-dial that casts a **second shadow** when fear is present.
 
@@ -93,7 +95,7 @@ A brass palm-dial that casts a **second shadow** when fear is present.
 - Once per short rest: **Advance noon** to force the next trap to trigger **immediately**
     
 
-### **Hyenalaughed Hook**
+### Hyenalaughed Hook
 
 A serrated chain-hook of blackened steel.
 
@@ -105,14 +107,14 @@ A serrated chain-hook of blackened steel.
     If dragged adjacent, Varkha gains **temp HP equal to his level**
     
 
-### **Pain-Priest’s Satchel**
+### Pain-Priest’s Satchel
 
 Ritual clamps, brine, pins, salts.  
 Confers proficiency (or advantage if proficient) on **Intimidation** or **Medicine** checks related to coercion, battlefield triage under extreme duress, or preventing unconsciousness.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 7 (civilians present during 3; **survivor reports: disputed**)
     
@@ -125,7 +127,7 @@ Confers proficiency (or advantage if proficient) on **Intimidation** or **Medici
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > _“We don’t kill them; we teach them to open.”_  
 > — On sentient doors
@@ -138,7 +140,7 @@ Confers proficiency (or advantage if proficient) on **Intimidation** or **Medici
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Livecast audio **clips and distorts** when Varkha laughs; automated transcripts frequently insert **[applause]** even when no audience is present
     
@@ -152,7 +154,7 @@ Confers proficiency (or advantage if proficient) on **Intimidation** or **Medici
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

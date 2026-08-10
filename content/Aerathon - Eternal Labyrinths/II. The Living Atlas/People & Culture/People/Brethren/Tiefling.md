@@ -181,17 +181,39 @@ Do not ask for a “true name.” In many magical traditions, the question itsel
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Tiefling ancestry traits for creature type, size, speed, resistance, spellcasting, and other core features.
+### Creature Type
 
-The Heritage Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
 
-An active patron, pact, or inherited claimant is a character-story choice requiring player and DM agreement. It is not automatic.
+### Ability Score Increase
+
+Your Charisma score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Tiefling ancestry traits for resistance, spellcasting, and other core features.
 
 ---
 
-## X. Heritage Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Tiefling sublineages are currently documented. An active patron, pact, or inherited claimant is a character-story choice requiring player and DM agreement; it is not an automatic sublineage.
+
+Regional upbringing is represented by the Homeland Imprints below.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Court's Curiosity
 
@@ -215,7 +237,7 @@ You gain proficiency in Insight. Additionally, when you are reduced to 0 hit poi
 
 ---
 
-## XI. Playing a Tiefling
+## XII. Playing a Tiefling
 
 Consider:
 
@@ -236,7 +258,7 @@ Ancestry is not a pact.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Tiefling lineage does not indicate evil alignment, infernal allegiance, magical expertise, an active pact, dangerous temperament, or inherited debt.

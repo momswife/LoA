@@ -1,3 +1,5 @@
+# Dermad
+
 ### _Farming City of the Glasrún Plains_
 
 **Region:** **Allemance**  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Dermad** rests on the sunlit coastal plains of **Glasrún**, surrounded by some of the most fertile farmland in Aerathon. The city is often called the **“Forgotten City,”** a long-standing Glasrúnish joke—when **Aurelian Vossryn**, First Warden of Glasrún, relinquished control of the region, he did so unaware of the rich land on which Dermad now stands.
 
@@ -18,7 +20,7 @@ Today, Dermad quietly feeds much of forested Allemance, sustaining free communit
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Dermad is designed to merge with its surroundings rather than dominate them.
 
@@ -35,7 +37,7 @@ The transition from field to street is gradual—often unnoticed by visitors.
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Dermad’s economy is agricultural, efficient, and unusually sustainable.
 
@@ -52,7 +54,7 @@ Through **innovative farming techniques and restrained magical aid**, Dermad fee
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Dermad is governed by a **Civic Stewardship Council**, composed of landwards, farming collective representatives, and trade coordinators.
 
@@ -67,7 +69,7 @@ Louvain’s jurisdiction is acknowledged, but Dermad’s value as a food source 
 
 ---
 
-## **V. Labyrinth Pressure (Distant)**
+## V. Labyrinth Pressure (Distant)
 
 No Labyrinth manifestation has occurred within Dermad or its surrounding fields.
 
@@ -75,7 +77,7 @@ Local belief credits **deliberate restraint**—limited excavation, cautious mag
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Dermad is calm, principled, and openly pacifist.
 
@@ -92,7 +94,7 @@ Dermad’s stance often tempers more revolutionary voices elsewhere in Glasrún,
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Quiet talk in Dermad includes:
 

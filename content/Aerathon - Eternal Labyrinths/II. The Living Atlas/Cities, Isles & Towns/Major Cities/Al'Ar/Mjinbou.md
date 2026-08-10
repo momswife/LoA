@@ -1,3 +1,5 @@
+# Mjinbou
+
 ### _The Single-Shore City — “We Leave So We May Return.”_
 
 **Filed Division:** _Ministry of Delving Operations — The Living Atlas (Maritime Cities & Nomadic Urbanism)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Mjinbou** (MEEN-bau) is a coastal city stretched along the northern shore of **Aurica**, within **Al’Ar**. It is renowned as the **Single-Shore City**, a settlement that deliberately disperses itself for half of every year.
 
@@ -19,7 +21,7 @@ It is defined by **return**.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Mjínbou occupies a **single, continuous shoreline**, with minimal inland expansion.
 
@@ -36,7 +38,7 @@ Maps of Mjinbou must account for **time**, not just terrain.
 
 ---
 
-## **III. History**
+## III. History
 
 Mjínbou began as a modest coastal settlement along Aurica’s northern shore, founded by Al’Ari sailors who rejected the dangers of fixed Storm Voyages. Rather than committing to permanent routes, early Mjínbouans learned to survive by **leaving together and returning changed**, embedding flexibility into the city’s very bones.
 
@@ -61,7 +63,7 @@ Mjínbou endures not because it stands firm, but because it never forgets how to
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Governance in Mjinbou is **seasonal and narrative-driven**.
 
@@ -85,7 +87,7 @@ Those who do not return are mourned collectively and remembered by name.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Mjínbou’s economy is based on **circulation rather than accumulation**.
 
@@ -113,7 +115,7 @@ Coin matters less than usefulness and novelty; stagnation is the only true pover
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Mjinbou is **plural, portable, and adaptive**.
 
@@ -132,7 +134,7 @@ Storytelling is sacred. Silence is respected. Curiosity is mandatory.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Mjínbou maintains minimal permanent defense.
 
@@ -147,7 +149,7 @@ Crimes committed abroad are judged at home, with context considered as heavily a
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Mjínbou has no fixed relationship with any single Labyrinth.
 
@@ -162,7 +164,7 @@ The city treats the Labyrinths as **places to learn from, not settle near**.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -177,7 +179,7 @@ Mjínbou’s greatest influence is informational—it knows what the world is do
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Mjínbou proves that a city does not need walls, banners, or permanence to endure.
 
@@ -187,7 +189,7 @@ The MDO classifies Mjinbou as **culturally adaptive, informationally rich, and s
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Birds are considered valid witnesses in civic disputes
     
@@ -200,7 +202,7 @@ The MDO classifies Mjinbou as **culturally adaptive, informationally rich, and s
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations —The Living Atlas (Maritime Cities & Nomadic Urbanism)**  

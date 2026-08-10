@@ -4,7 +4,7 @@
 
 ---
 
-# **Sun Bull’s Mirage**
+# Sun Bull’s Mirage
 
 ### _Spirit of the Blinding Dunes — “When the Desert Decides to Remember the Sun.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Sun Bull’s Mirage** is a radiant apparition that roams the **Dunes of the Sun Bull**, a desert region renowned for heat haze and ancient minotaur burial rings.  
 It appears as a titanic, horn-crowned beast of sun-fire and sand, its body composed of light refracting through a column of superheated air.  
@@ -28,7 +28,7 @@ To the Beastfolk of the Dunes, it is called _Haurash-the-Gilded_, “the Bull Th
 
 ---
 
-## **II. Manifestation & Appearance**
+## II. Manifestation & Appearance
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -42,12 +42,12 @@ Eyewitnesses report its hooves never touch the ground; each step creates glass p
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Mirage wanders with the wind, often mirroring travelers from a distance.  
 Those who approach closer than 300 paces experience “sun-echo,” a form of heat-borne hallucination projecting their own desires as reflected companions in the sand.
 
-### **Recorded Effects**
+### Recorded Effects
 
 - **Temporal Drift:** Time appears to slow near its presence; sundials freeze at zenith.
     
@@ -60,7 +60,7 @@ Those who approach closer than 300 paces experience “sun-echo,” a form of he
 
 ---
 
-## **IV. Origin Hypotheses**
+## IV. Origin Hypotheses
 
 1. **Divine After-image Theory:** A fragment of Kord’s sun-aspect or Lathander’s lost radiance anchored to Beastfolk rituals.
     
@@ -73,7 +73,7 @@ All three remain unproven; energy signatures alternate between holy and elementa
 
 ---
 
-## **V. Weakness & Delving Considerations**
+## V. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -87,7 +87,7 @@ All three remain unproven; energy signatures alternate between holy and elementa
 
 ---
 
-## **VI. Associated Artifacts**
+## VI. Associated Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -98,7 +98,7 @@ All artifacts stored in Vault #118 (Louvain Branch) under dual seal Korrin / Vel
 
 ---
 
-## **VII. Cultural Notes**
+## VII. Cultural Notes
 
 - **Beastfolk of the Sun Bull Clans:** See the Mirage as the last guardian of their lost civilization; annual pilgrimage performed at noon in total silence.
     
@@ -111,7 +111,7 @@ All artifacts stored in Vault #118 (Louvain Branch) under dual seal Korrin / Vel
 
 ---
 
-## **VIII. Containment & Observation**
+## VIII. Containment & Observation
 
 - **Classification:** Level III — Ethereal Elemental / Divine Residual Phenomenon.
     
@@ -126,7 +126,7 @@ All artifacts stored in Vault #118 (Louvain Branch) under dual seal Korrin / Vel
 
 ---
 
-## **IX. Summary**
+## IX. Summary
 
 The **Sun Bull’s Mirage** is both guardian and illusion — a solar memory given form by faith and heat.  
 It is the desert’s confession: a promise that even when all life melts away, something will still remember to shine.  
@@ -134,7 +134,7 @@ Those who see it must decide whether they have witnessed a miracle… or merely 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Mythic Fauna & Environmental Phenomena)**  

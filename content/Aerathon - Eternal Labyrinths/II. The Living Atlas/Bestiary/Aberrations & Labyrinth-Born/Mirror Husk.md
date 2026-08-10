@@ -3,7 +3,7 @@
 
 ---
 
-# **Mirror Husk**
+# Mirror Husk
 
 ### _Reflection Made Hungry — “When the Image Outlives the Self.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 A **Mirror Husk** is an aberrant, reflection-born entity created when a living being gazes upon a reflective surface exposed to **labyrinthal resonance** or **relic-infused light**.  
 In such moments, the reflection detaches — continuing to exist independently — leaving the original weakened, disoriented, or spiritually hollowed.
@@ -26,7 +26,7 @@ These entities reproduce not through birth or division, but through **mimicry co
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 A Mirror Husk’s shape mirrors its progenitor at the time of divergence — but as the original’s likeness fades, the copy **distorts**: flesh turns glassy, joints articulate at impossible angles, and the body seems to bend light rather than cast shadow.
 
@@ -41,7 +41,7 @@ Under torchlight, a Mirror Husk’s silhouette is visible only in periphery; dir
 
 ---
 
-## **III. Behavior & Feeding**
+## III. Behavior & Feeding
 
 Mirror Husks are drawn to environments rich in **personal identity** — dressing chambers, shrines, libraries, or anywhere self-image collects.  
 They **hunt memory**, not flesh: by reflecting an individual’s movements, emotions, and speech, they drain the psychological resonance binding that identity to reality.
@@ -63,7 +63,7 @@ A single specimen may carry hundreds of mirrored voices, layered in echoing cade
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Documented in:
 
@@ -80,7 +80,7 @@ Ministry records confirm correlation between mirror resonance spikes and **faile
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin notes that Mirror Husks cannot cross **broken reflections** — they require continuity of surface to move.  
 However, shattered glass used against them often reforms under psychic pressure, reconstituting the entity.
@@ -91,7 +91,7 @@ Spectral autopsies show internal organs composed of **liquid luminal residue**, 
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -103,7 +103,7 @@ Spectral autopsies show internal organs composed of **liquid luminal residue**, 
 
 ---
 
-## **VII. Psychological & Magical Effects**
+## VII. Psychological & Magical Effects
 
 Victims of Husk exposure experience:
 
@@ -120,7 +120,7 @@ Recovery requires _Memory Suturing_ via clerical restoration and prolonged expos
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -131,7 +131,7 @@ Stored in Vault #96, Louvain Branch — triple seal Vell / Korrin / Rook-of-Ring
 
 ---
 
-## **IX. Containment & Research Status**
+## IX. Containment & Research Status
 
 - **Classification:** Level IV — Cognitive & Identity Hazard.
     
@@ -152,7 +152,7 @@ Stored in Vault #96, Louvain Branch — triple seal Vell / Korrin / Rook-of-Ring
 
 ---
 
-## **X. Cultural & Mythic Context**
+## X. Cultural & Mythic Context
 
 - **Beastfolk Folklore:** “The Husk is the shadow that learned pride.”
     
@@ -165,7 +165,7 @@ In Malarthain, destroyed mirrors are buried face-down, lest they remember the ey
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Mirror Husk** embodies Aerathon’s most intimate fear — the loss of self through imitation.  
 It is the ghost of recognition, the reflection of guilt that refuses to blink.  
@@ -173,7 +173,7 @@ To destroy one is to confront the truth that reflections do not lie — they sim
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)**  

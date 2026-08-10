@@ -1,3 +1,5 @@
+# Active Cults
+
 ### _Fringe Devotion in an Age of Secular Delvers_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Societal Oversight & Faith Aberration Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 As mainstream worship becomes increasingly cultural and delvers grow more secular, fringe religious movements have grown in number, brazenness, and ideological intensity.  
 These groups—commonly referred to as **cults** by the Ministry—take advantage of:
@@ -32,7 +34,7 @@ This dossier catalogs the Ministry’s current list of **active, monitored, or s
 
 ---
 
-## **II. Classification of Cult Activity**
+## II. Classification of Cult Activity
 
 The Ministry recognizes five primary categories of cult behavior:
 
@@ -51,9 +53,9 @@ The following sections document notable examples.
 
 ---
 
-# **III. Notable Active Cults**
+## III. Notable Active Cults
 
-## **1. The Bleeding Garden — Loviatar Extremists**
+### 1. The Bleeding Garden — Loviatar Extremists
 
 **Category:** Devotional Extremists  
 **Status:** Active, scattered cells  
@@ -72,7 +74,7 @@ Extremely dangerous; Ministry recommends immediate dispersal of gatherings.
 
 ---
 
-## **2. The Children of True Night — Sharic Nadaists**
+### 2. The Children of True Night — Sharic Nadaists
 
 **Category:** Eschatonic Order  
 **Status:** Controlled but growing  
@@ -91,7 +93,7 @@ Their philosophy encourages emotional isolation and disconnection from guilds.
 
 ---
 
-## **3. House of Seven Whispers — Leiran Illusionists**
+### 3. House of Seven Whispers — Leiran Illusionists
 
 **Category:** Forbidden Arcanists  
 **Status:** Actively monitored  
@@ -109,7 +111,7 @@ Mostly harmless but occasionally implicated in identity fraud rings.
 
 ---
 
-## **4. The Tide-Taken — Umberlee Devotional Order**
+### 4. The Tide-Taken — Umberlee Devotional Order
 
 **Category:** Devotional Extremists  
 **Status:** Regionally active (coastal)  
@@ -127,7 +129,7 @@ Not widely supported; sailors often petition the Ministry for greater crackdowns
 
 ---
 
-## **5. The Fanged Dawn — Malarite Blood Sect**
+### 5. The Fanged Dawn — Malarite Blood Sect
 
 **Category:** Heritage Revival  
 **Status:** Rising in frontier regions  
@@ -146,7 +148,7 @@ Some cells have attempted unauthorized labyrinth “beast hunts.”
 
 ---
 
-## **6. The Perfect Line — Talos Performance Cult**
+### 6. The Perfect Line — Talos Performance Cult
 
 **Category:** Eschatonic / Labyrinth Mystic Hybrid  
 **Status:** Expanding  
@@ -164,7 +166,7 @@ A cult of thrill-seekers; many delvers drift into it after burnout.
 
 ---
 
-## **7. The Order of the Obsidian Eye — Old Pantheon Revivalists**
+### 7. The Order of the Obsidian Eye — Old Pantheon Revivalists
 
 **Category:** Heritage Revival  
 **Status:** Unconfirmed, long-term monitoring  
@@ -183,7 +185,7 @@ Their existence is debated, but sightings recur every decade.
 
 ---
 
-## **8. The Lotus-Eclipse Covenant — Bhaalic Death Seekers**
+### 8. The Lotus-Eclipse Covenant — Bhaalic Death Seekers
 
 **Category:** Devotional Extremists  
 **Status:** Highly dangerous  
@@ -202,7 +204,7 @@ Recently resurfaced in eastern Vinyot.
 
 ---
 
-## **9. The Tide of Silver — Waukeen Paramilitary Mercantile Sect**
+### 9. The Tide of Silver — Waukeen Paramilitary Mercantile Sect
 
 **Category:** Economic Cult  
 **Status:** Monitored quietly (sensitive)  
@@ -221,7 +223,7 @@ Politically protected in some cities.
 
 ---
 
-## **10. The Order of Amber Silence — Mystra Fragmentarians**
+### 10. The Order of Amber Silence — Mystra Fragmentarians
 
 **Category:** Arcane Extremists  
 **Status:** Fragmented  
@@ -239,7 +241,7 @@ Increasing incidents reported near labyrinth spillovers.
 
 ---
 
-## **11. The Vein-Singers — Labyrinth Mystics**
+### 11. The Vein-Singers — Labyrinth Mystics
 
 **Category:** Labyrinth Mystics  
 **Status:** Active in ruins and spillover zones  
@@ -257,7 +259,7 @@ Not violent but often trespass into restricted MDO zones.
 
 ---
 
-## **12. The Golden Maw — Tiamatic Smuggling Ring**
+### 12. The Golden Maw — Tiamatic Smuggling Ring
 
 **Category:** Forbidden Arcanists  
 **Status:** Active  
@@ -275,7 +277,7 @@ Religious devotion is largely performative; profit motivates them.
 
 ---
 
-## **13. The Dawn Without a Sun — Anti-Lathander Movement**
+### 13. The Dawn Without a Sun — Anti-Lathander Movement
 
 **Category:** Eschatonic Philosophical Cult  
 **Status:** Emerging  
@@ -293,7 +295,7 @@ Appeals to disillusioned delvers and young urbanites.
 
 ---
 
-## **14. The Choir of the Last Breath — Kelemvor Deviants**
+### 14. The Choir of the Last Breath — Kelemvor Deviants
 
 **Category:** Devotional Extremists  
 **Status:** Troubling  
@@ -311,7 +313,7 @@ Often overlaps with delver burnout and trauma.
 
 ---
 
-## **15. The Gilded Thorn — Ilmatari Pain-Hedonism Splinter**
+### 15. The Gilded Thorn — Ilmatari Pain-Hedonism Splinter
 
 **Category:** Forbidden Sect  
 **Status:** Banned  
@@ -329,7 +331,7 @@ Clerical councils reject them fully.
 
 ---
 
-# **IV. Why Cults Flourish in the Age of Secular Delvers**
+## IV. Why Cults Flourish in the Age of Secular Delvers
 
 The Ministry identifies five systemic conditions enabling cult growth:
 
@@ -348,7 +350,7 @@ Where faith loses structure, fringe ideologies fill the gaps.
 
 ---
 
-## **V. Ministry Threat Assessment**
+## V. Ministry Threat Assessment
 
 |Category|Severity|
 |---|---|
@@ -362,7 +364,7 @@ Cult activity is expected to continue rising until clerical institutions or guil
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Societal Oversight & Faith Aberration Bureau)**  

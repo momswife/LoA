@@ -3,7 +3,7 @@
 
 ---
 
-# **Chain-Born**
+# Chain-Born
 
 ### _Forged from Bondage — “Where Metal Learns to Crawl.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Chain-Born** are animated lengths of molten or rust-blackened chain that move with serpentine intent.  
 First recorded in the **Labyrinth of Chains** beneath **Caer Dain**, they appear wherever **forging prayers** or **binding runes** have decayed into paradox.
@@ -25,7 +25,7 @@ The Ministry classifies them as **Type-ARC / Industrial Aberration Hybrids**, an
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Individual segments range from **3 ft to 15 ft** long; colonies braid together into masses exceeding **60 ft**.  
 Links shimmer with dull inner heat even in freezing environments. Embedded within every tenth link lies a **core rivet** engraved with half-erased prayer sigils.
@@ -41,7 +41,7 @@ When dormant, the Chain-Born resemble ordinary forge refuse. When awakened, each
 
 ---
 
-## **III. Behavior & Feeding**
+## III. Behavior & Feeding
 
 They do not eat flesh or ore; they **consume motion** and **intention**.  
 The act of forging, marching, or struggling attracts them. They wrap around movement until friction ceases, then fall still again.
@@ -61,7 +61,7 @@ The act of forging, marching, or struggling attracts them. They wrap around move
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Predominantly beneath **Caer Dain**, but smaller colonies found:
 
@@ -76,7 +76,7 @@ No known wild populations above sea level without artifact contamination.
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Inspector Vell’s spectral analysis reveals each Chain-Born emits a harmonic frequency identical to the Caer Dain Deep Forge reactor.  
 Their existence appears to stabilize local magma flow, implying they serve as unintended pressure valves for the forge’s soul furnace.
@@ -85,7 +85,7 @@ Curator Rook’s field notes confirm that destroyed specimens often re-form over
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 | **Vulnerability**        | **Explanation / Practical Note**                                                               |
 | ------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -97,7 +97,7 @@ Curator Rook’s field notes confirm that destroyed specimens often re-form over
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 | **Item**                | **Description**                                                          | **Hazard Class** |
 | ----------------------- | ------------------------------------------------------------------------ | ---------------- |
@@ -108,7 +108,7 @@ Artifacts stored in Vault #58, Louvain Branch — dual seal Korrin / Rook-of-Rin
 
 ---
 
-## **VIII. Containment & Risk Protocol**
+## VIII. Containment & Risk Protocol
 
 - **Classification:** Level III — Autonomous Industrial Aberration.
     
@@ -123,7 +123,7 @@ Artifacts stored in Vault #58, Louvain Branch — dual seal Korrin / Rook-of-Rin
 
 ---
 
-## **IX. Cultural & Industrial Notes**
+## IX. Cultural & Industrial Notes
 
 - **Caer Dain Smiths** believe a single Chain-Born coil still guards the Deep Forge, “counting each hammer strike since creation.”
     
@@ -136,7 +136,7 @@ Ancient dwarven lore refers to them as **“the Forgemaster’s Mistake”** —
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Chain-Born** embody the moment creation crossed into enslavement — the forge’s unintended guilt given motion.  
 They are the echo of industry still clattering long after the hammers stopped.  
@@ -144,7 +144,7 @@ To see one crawl is to witness iron remember why it was made and why it will nev
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Industrial Aberration Registry)**  

@@ -1,6 +1,8 @@
 > *“If the world must fall, let it land on a cushion.”*
 
-___
+---
+# Inflato the Clown Pervert
+
 ### _S-Class Warden of Impact Mitigation
 
 **Filed Division:** Ministry of Delving Operations — Arcane Breach Division (Rapid Response & Civilian Protection)  
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Inflato the Clown Pervert**—a title once hurled at him in mockery by Huldiberaht Schnofinkel and immediately adopted by Inflato with a bow—serves as the **Lawful Good counterforce** to Aerathon’s most catastrophic delvers. Through a fusion of **pressure-ward magicks**, **buoyancy sigils**, and meticulous adherence to Ministry regulation, he has become the continent’s foremost practitioner of **nonlethal hazard redirection**.
 
@@ -26,7 +28,7 @@ Huldiberaht calls him **“annoying.”**
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** S-Class Warden of the **Argent Banner** (reinstated after tribunal review); liaison to MDO Rapid Response
     
@@ -39,7 +41,7 @@ Huldiberaht calls him **“annoying.”**
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Law Is the Net That Catches the Fallen** — Order saves more lives than strength.
     
@@ -50,14 +52,14 @@ Huldiberaht calls him **“annoying.”**
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Featherfall Carnival at Oathgrove**
+### 1. The Featherfall Carnival at Oathgrove
 
 During the caverns’ collapse triggered by Huldiberaht’s Root-Flood Trap, Inflato deployed a shimmering network of **buoyancy bladders**.  
 He lowered **106 civilians** into shallow pools—wet, safe, and humiliated—but alive.
 
-### **2. The Masquerade at Cragspire Bastion**
+### 2. The Masquerade at Cragspire Bastion
 
 Anticipating a Meteorform strike, he disguised pressure-runes as clown masks and ringed the arena.  
 Huld’s impact dispersed into harmless wind; cotton candy and pennants spiraled skyward.  
@@ -65,7 +67,7 @@ When Huld snarled, _“Name that trick, harlequin,”_ Inflato replied:
 
 > _“Compliance.”_
 
-### **3. The Court of Softened Blades**
+### 3. The Court of Softened Blades
 
 In a tribunal duel against three zealot champions, Inflato delivered a complete, **nonlethal** victory:
 
@@ -79,9 +81,9 @@ In a tribunal duel against three zealot champions, Inflato delivered a complete,
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Codpiece of Counterpressure**
+### Codpiece of Counterpressure
 
 A heart-shaped kinetic bulwark anchoring his ward network.  
 **Properties:**
@@ -93,7 +95,7 @@ A heart-shaped kinetic bulwark anchoring his ward network.
 - Prevents lethal concussive chain reactions
     
 
-### **Parade Standard of the Argent Banner**
+### Parade Standard of the Argent Banner
 
 A sigil-threaded collapsible pennant-pole.  
 **Functions:**
@@ -107,7 +109,7 @@ A sigil-threaded collapsible pennant-pole.
 - Finial contains a single-use **resilient sphere** for emergency triage
     
 
-### **Seltzer of Sanctity**
+### Seltzer of Sanctity
 
 A brass siphon of consecrated tonic.  
 **Uses:**
@@ -123,7 +125,7 @@ A brass siphon of consecrated tonic.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 4 S-Rank (all humanitarian priority), 19 mass-evacuations
     
@@ -136,7 +138,7 @@ A brass siphon of consecrated tonic.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“Mercy is not weakness; it’s leverage.”_  
 — Lecture to novice wardens
@@ -149,7 +151,7 @@ _“You call me Pervert; I’ll call you ‘Alive.’ Deal?”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Capable of **inflating spatial volume**, briefly widening narrow corridors for medics
     
@@ -162,7 +164,7 @@ _“You call me Pervert; I’ll call you ‘Alive.’ Deal?”_
 
 ---
 
-## **IX. Rivalry with Huldiberaht Schnofinkel**
+## IX. Rivalry with Huldiberaht Schnofinkel
 
 Inflato considers Huldiberaht his **“favorite challenge.”**  
 He studies Huld’s trajectories, deploys marshals and medics in advance, and demonstrates repeatedly that **properly engineered mercy will outmaneuver brute force**.
@@ -172,7 +174,7 @@ Where Huld aims **DOWN**, Inflato is already there—
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Arcane Breach Division (Rapid Response Unit)**  

@@ -1,3 +1,5 @@
+# Fallensky's Rest
+
 ### _Druidic Hold at the Fallensky Pass_
 
 **Region:** **Oria**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Fallensky’s Rest** lies at the headwaters of the **Teplo River**, where its waters trickle down from the **Mantle**. Centuries ago, around the year 350, records describe a fragment of the sky falling into the mountains from the heavens. The impact reshaped the land in an instant, carving the **Fallensky Pass** and violently reversing the flow of the Teplo itself.
 
@@ -17,7 +19,7 @@ Fallensky’s Rest exists to watch what should not be disturbed.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 The settlement is arranged around the pass and the cavern mouth.
 
@@ -34,7 +36,7 @@ The surrounding peaks funnel wind and weather sharply. Clear days are treated as
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Fallensky’s Rest does not trade in volume.
 
@@ -51,7 +53,7 @@ Material needs are modest and met through limited trade and seasonal aid from ne
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 The settlement is governed by an **Oric druid circle**, devoted to sky, wind, and avian life.
 
@@ -66,7 +68,7 @@ No House rules Fallensky’s Rest, though nearby Houses respect its function and
 
 ---
 
-## **V. Labyrinth Pressure (Contained)**
+## V. Labyrinth Pressure (Contained)
 
 The cavern beneath Fallensky’s Rest is known to connect to deeper **Labyrinth strata** within the Mantle.
 
@@ -76,7 +78,7 @@ These incidents are handled quietly and decisively.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Those who live at Fallensky’s Rest are calm, observant, and deeply attentive to the sky.
 
@@ -93,7 +95,7 @@ A large flock of **talking snowbirds** often accompanies sanctioned delvers trav
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Whispers associated with Fallensky’s Rest include:
 

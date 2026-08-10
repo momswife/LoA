@@ -1,3 +1,5 @@
+# Priozhevsky
+
 ### _The Lodge of First Waters — “What Is Known Must Be Kept.”_
 
 **Ruling House:** **House Medvednaya** (Oric Ursine — Scholars & Keepers)  
@@ -9,7 +11,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Priozhevsky** is an Oric lodge city built at the **headwaters of the Shepka River**, where it springs fully formed from the vast alpine lake known as **Mountmirror**. The city is as much **library as settlement**, serving as Oria’s foremost center of alchemical, arcane, and medical scholarship.
 
@@ -25,11 +27,11 @@ Among Oric scholars, Priozhevsky is simply called
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Priozhevsky is built directly into the stone overlooking **Mountmirror**, a cold, reflective lake whose surface feeds the Shepka River.
 
-### **The Lake & Riverhead**
+### The Lake & Riverhead
 
 - Crystal-clear waters, fed by mountain melt
     
@@ -40,7 +42,7 @@ Priozhevsky is built directly into the stone overlooking **Mountmirror**, a cold
 
 The lake itself is treated as a protected scholarly resource.
 
-### **The Lodge-Library**
+### The Lodge-Library
 
 The central structure is both residence and archive:
 
@@ -55,7 +57,7 @@ The architecture favors permanence and silence. Footsteps are muffled by design.
 
 ---
 
-## **III. History**
+## III. History
 
 Priozhevsky began as a **record lodge**, founded to preserve Oric knowledge that was at risk of being lost during periods of migration and conflict. Its location—remote, defensible, and nourished by steady water—was chosen deliberately.
 
@@ -63,7 +65,7 @@ Over centuries, the lodge attracted alchemists, physicians, and mages who valued
 
 In recent decades, the rise of delving has brought a new class of scholar to Priozhevsky: those seeking applied solutions to Labyrinth-borne ailments, curses, and injuries.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **982 A.D.** — Founding of Priozhevsky as a record lodge at Mountmirror.
     
@@ -79,7 +81,7 @@ It has never lacked relevance.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Priozhevsky is governed by **House Priozhevsky**, whose stewardship is held by the **Medvednaya family**, an Oric ursine House renowned not for conquest, but for preservation of knowledge and care of the body.
 
@@ -96,7 +98,7 @@ The city’s current batko, **Oleg the Bold Doctor**, serves as **High Curator**
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Priozhevsky’s economy is cyclical and knowledge-driven.
 
@@ -115,7 +117,7 @@ When resident students depart for seasonal fieldwork, their homes are rented to 
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Priozhevsky is quiet and methodical.
 
@@ -132,7 +134,7 @@ Culturally, Oric pragmatism dominates. Poetry exists, but only if it teaches som
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Priozhevsky prioritizes **preservation**.
 
@@ -147,7 +149,7 @@ Scholars are expected to police themselves. When they fail, House Medvednaya int
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Priozhevsky has become increasingly tied to the Labyrinths.
 
@@ -162,7 +164,7 @@ The city does not delve—but it prepares others to survive it.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -176,7 +178,7 @@ If Priozhevsky burned, Aerathon would relearn too many lessons the hard way.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Priozhevsky believes knowledge is a responsibility.
 
@@ -186,7 +188,7 @@ It does not chase glory. It does not dramatize discovery. It records, tests, and
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Books are cataloged by use, not age
     
@@ -199,7 +201,7 @@ It does not chase glory. It does not dramatize discovery. It records, tests, and
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Academic Cities & Knowledge Preservation)**  

@@ -1,6 +1,8 @@
 >_“The dice fall. The sword answers.”_
 ---
 
+# Togi
+
 ### _S-Class Gambit Duelist — “All field observations indicate a compulsive wager-driven combat doctrine. Statements remain unverifiable due to self-inflicted contractual oaths of secrecy.”_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau) 
@@ -11,7 +13,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Togi the Wagerblade** is an S-Class delver whose legend is stitched not with honor or discipline, but **reckless wagers placed against death itself**. Born among the fog-wrapped isles of **Al’ar**, Togi originally earned renown for losing extravagant fortunes in gaming dens, relic-houses, and tavern dice circles from coast to coast.
 
@@ -35,7 +37,7 @@ Togi insists he simply has “good timing.”
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Freelance; previously expelled from the **Crimson Reavers**, **Argent Banner**, and **The Velvet Ledger**
     
@@ -48,7 +50,7 @@ Togi insists he simply has “good timing.”
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Bet Bold or Be Forgotten** — No one remembers a safe gamble.
     
@@ -59,37 +61,37 @@ Togi insists he simply has “good timing.”
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Mirror Duel of Hollowglass Bastion**
+### 1. The Mirror Duel of Hollowglass Bastion
 
 Faced with a labyrinth-forged mirror-double, Togi bet he could defeat it **blindfolded**. He waited—motionless—until the illusion erred.  
 It erred once.
 
-### **2. The Demon’s Dice of Crimson Hollow**
+### 2. The Demon’s Dice of Crimson Hollow
 
 Confronting a fiend who demanded wagers, Togi staked **his name** for a one-on-one duel. He slew the demon and claimed a cursed coin capable of rerolling death itself.  
 He has never spent the roll.
 
-### **3. The Hundred Hands Bout**
+### 3. The Hundred Hands Bout
 
 In a summoning chamber that called forth one hundred challengers, Togi bet he could defeat all of them **without breaking his scabbard strap**.  
 Two hours of carnage later, the strap held.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Kishou no Kaze** — _“Wind of the Last Bet”_
+### Kishou no Kaze — _“Wind of the Last Bet”_
 
 A pearl-white katana with an obsidian guard. The blade sings during wagered duels, and on rare occasions **parries before Togi himself reacts**.  
 Suspected ancestral pact. Unverified.
 
-### **The Coin of Crimson Odds**
+### The Coin of Crimson Odds
 
 A hellmarked copper coin earned from a demon duel. Once per delve, allows Togi (or his foe) to **reroll fate**—for better or worse.
 
-### **Dice of the Forgotten Game**
+### Dice of the Forgotten Game
 
 Ivory dice carved with runes from a lost gambling rite. When cast before combat, they alter the battlefield theatrically—ghost applause, drifting fog, or subtle shifts of fortune.
 
@@ -97,7 +99,7 @@ Togi claims they are “for ambiance.”
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Clears:** 7 S-Rank; 19 Duel Floors; 4 Demonic Game Chambers
     
@@ -110,7 +112,7 @@ Togi claims they are “for ambiance.”
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > _“I wager my ribs you miss.”_  
 > — Opening line to a minotaur juggernaut duel
@@ -123,7 +125,7 @@ Togi claims they are “for ambiance.”
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - His shadow occasionally adopts **a second stance**.
     
@@ -137,7 +139,7 @@ Togi claims they are “for ambiance.”
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

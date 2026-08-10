@@ -3,7 +3,7 @@
 
 ---
 
-# **Divine Oculi**
+# Divine Oculi
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Arcane Infrastructure Registry)_  
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturgy & Prism Analysis)  
@@ -18,7 +18,7 @@ Neither fully divine nor wholly artificial, they are semi-sentient arcane observ
 
 ---
 
-# **I. Origin & Nature**
+## I. Origin & Nature
 
 Though their earliest records are lost, the Oculi are widely believed to be:
 
@@ -44,9 +44,9 @@ Their floating, unblinking presence is both a reassurance—and a warning.
 
 ---
 
-# **II. Core Responsibilities**
+## II. Core Responsibilities
 
-## **1. Live Delve Observation**
+### 1. Live Delve Observation
 
 Oculi record:
 
@@ -69,7 +69,7 @@ Their feeds provide the foundation of all sanctioned broadcasts.
 
 ---
 
-## **2. UDMI Verification**
+### 2. UDMI Verification
 
 Oculi measure:
 
@@ -88,7 +88,7 @@ These data streams are sent directly into the **Arcanet Core** for scoring.
 
 ---
 
-## **3. Hazard Detection**
+### 3. Hazard Detection
 
 Oculi can sense:
 
@@ -114,7 +114,7 @@ When danger intensifies, they issue visible warnings:
 
 ---
 
-## **4. Ethical Surveillance**
+### 4. Ethical Surveillance
 
 They track:
 
@@ -133,21 +133,21 @@ Their testimony is used in Ministerial legal cases.
 
 ---
 
-# **III. Types of Oculi**
+## III. Types of Oculi
 
-### **1. Standard Oculi (O-Grade)**
+#### 1. Standard Oculi (O-Grade)
 
 Used in common delves; monitor 1–2 floors effectively.
 
-### **2. Royal Oculi (R-Grade)**
+#### 2. Royal Oculi (R-Grade)
 
 Used by elite guilds and high-profile broadcasts; improved clarity and emotional mapping.
 
-### **3. Ministerial Oculi (M-Grade)**
+#### 3. Ministerial Oculi (M-Grade)
 
 Assigned to dangerous labyrinths; linked to Hazard Divisions.
 
-### **4. Seraphic Oculi (S-Grade)**
+#### 4. Seraphic Oculi (S-Grade)
 
 Extremely rare; used for:
 
@@ -164,7 +164,7 @@ These Oculi display behaviors that approach full sentience.
 
 ---
 
-# **IV. Oculi Conduct Protocols**
+## IV. Oculi Conduct Protocols
 
 The Ministry dictates that Oculi must always:
 
@@ -196,33 +196,33 @@ Their role is purely observational.
 
 ---
 
-# **V. Forbidden Acts Concerning Oculi**
+## V. Forbidden Acts Concerning Oculi
 
 The following actions constitute **Class-1 Spectacle Crimes**:
 
-### **1. Oculi Blinding**
+#### 1. Oculi Blinding
 
 Using smoke, glamours, anti-scry wards, or interference spells.
 
-### **2. Oculi Mimicry**
+#### 2. Oculi Mimicry
 
 Creating false Oculi to deliver manipulated feeds.
 
-### **3. Oculi Tampering**
+#### 3. Oculi Tampering
 
 Physically or magically forcing them to move or desynchronize.
 
-### **4. Emotional Overload Hexes**
+#### 4. Emotional Overload Hexes
 
 Attempting to flood their soul-echo chambers with false resonance.
 
-### **5. Oculi Theft**
+#### 5. Oculi Theft
 
 Stealing or relocating one; punishable by extreme legal sanction.
 
 ---
 
-# **VI. Oculi & Audience Interaction**
+## VI. Oculi & Audience Interaction
 
 Though they do not directly engage, Oculi:
 
@@ -246,11 +246,11 @@ They also nullify audience attempts to:
 
 ---
 
-# **VII. Special Provisions for N-Class Teams**
+## VII. Special Provisions for N-Class Teams
 
 N-Class teams—such as **Unit N-7**—operate under special Oculi protocols due to their **Core-determined convergence relevance**.
 
-### **1. Oculi Sentience Heightening**
+#### 1. Oculi Sentience Heightening
 
 When observing N-Class teams, Oculi exhibit increased:
 
@@ -261,7 +261,7 @@ When observing N-Class teams, Oculi exhibit increased:
 - Hazard analysis precision
     
 
-### **2. Triple-Layer Encryption**
+#### 2. Triple-Layer Encryption
 
 All N-Class footage is:
 
@@ -272,7 +272,7 @@ All N-Class footage is:
 - Stored in sealed Ministerial archives
     
 
-### **3. Priority Hazard Alerts**
+#### 3. Priority Hazard Alerts
 
 Oculi monitoring N-Class delves issue:
 
@@ -283,7 +283,7 @@ Oculi monitoring N-Class delves issue:
 - Resonance-linked predictions
     
 
-### **4. Restricted Interference Tolerance**
+#### 4. Restricted Interference Tolerance
 
 Any attempt to blind or manipulate Oculi observing N-Class teams triggers:
 
@@ -294,7 +294,7 @@ Any attempt to blind or manipulate Oculi observing N-Class teams triggers:
 - Spectacle Integrity Division deployment
     
 
-### **5. Convergence-Ping Response**
+#### 5. Convergence-Ping Response
 
 If the Core emits a resonance ping during an N-Class delve:
 
@@ -307,7 +307,7 @@ If the Core emits a resonance ping during an N-Class delve:
 
 ---
 
-# **VIII. Why the Divine Oculi Matter**
+## VIII. Why the Divine Oculi Matter
 
 Without the Oculi:
 
@@ -332,7 +332,7 @@ They watch so the world may know what happens in the dark.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities Division (Arcane Infrastructure Registry)**  

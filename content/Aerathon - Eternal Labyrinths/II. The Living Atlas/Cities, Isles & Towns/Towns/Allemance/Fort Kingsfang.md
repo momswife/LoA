@@ -1,3 +1,5 @@
+# Fort Kingsfang
+
 ### _Crown Guard Training Hold_
 
 **Region:** **Allemance**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Fort Kingsfang** stands behind the center of a vast stone wall that stretches **fifteen miles east and west**, once marking the historic **Allemance–Oria border**. The fort was the site of a decisive engagement during the **Invader War**, after which both the border and the authority it symbolized effectively dissolved.
 
@@ -17,7 +19,7 @@ Today, Kingsfang trains young commoners—**wolves, humans, and dwarves alike**�
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 The fort is built for order and repetition.
 
@@ -34,7 +36,7 @@ The surrounding plains are deliberately exposed, reinforcing discipline and coor
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Kingsfang exists to train and sustain itself.
 
@@ -51,7 +53,7 @@ Dwarven smiths, human quartermasters, and wolf instructors operate together, rei
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Fort Kingsfang is administered by the **Crown Guard**, not by a reigning Crown.
 
@@ -66,7 +68,7 @@ Louvain acknowledges Kingsfang as a legacy institution and permits its continued
 
 ---
 
-## **V. Labyrinth Pressure (None Recorded)**
+## V. Labyrinth Pressure (None Recorded)
 
 No Labyrinth manifestation has ever been recorded at or near Fort Kingsfang.
 
@@ -74,7 +76,7 @@ Training remains focused on conventional warfare and defensive readiness. Any La
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Kingsfang is disciplined, pragmatic, and transitional.
 
@@ -91,7 +93,7 @@ Many recruits do not go on to serve formally. The training itself is the point.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Talk around Kingsfang often centers on:
 

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Ministry Divisions and Offices
+  - MDO Divisions and Offices
+---
+
 > _“No office of the Ministry stands alone. A map requires a witness. A warning requires a road. A judgment requires a record of how it was reached.”_  
 > — **Magistrate Talar Shellmark**, Address to the Seventh Reorganization Council
 

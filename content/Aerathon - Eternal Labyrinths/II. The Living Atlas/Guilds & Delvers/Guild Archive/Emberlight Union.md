@@ -1,9 +1,9 @@
 
 >_“The world’s gotten dark enough. Someone has to make the light beautiful again.”_  
 — **Archlight Vessa Maron**, Founder of the Emberlight Union
-___
+---
 ![[c35c6c75-7d2a-4d36-b094-9b57c5ae4325.png]]
-# **The Emberlight Union**
+# The Emberlight Union
 
 ### _B-Class Artificer Guild — “Innovation, Illumination, Inspiration.”_
 
@@ -13,7 +13,7 @@ ___
 **Date of Filing:** **7th Cycle, 3162 A.D.**  
 **Document Class:** _Private Charter Profile / Grade-II Authenticity_
 
-## **I. Overview**
+## I. Overview
 
 The **Emberlight Union** is Aerathon’s foremost guild of artificers, mages, and theatrical technologists — innovators who fuse art with engineering to make delving, and living, more radiant.
 
@@ -25,7 +25,7 @@ The Union’s inventions power lantern-wards, scry-theatres, echo-recorders, and
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | B-Class Artificer / Cultural Engineering Guild |  
 | **Affiliation** | Private (Ministry-registered) |  
@@ -37,13 +37,13 @@ The Union’s inventions power lantern-wards, scry-theatres, echo-recorders, and
 
 ---
 
-## **III. Founding & Philosophy**
+## III. Founding & Philosophy
 
 The Emberlight Union began as a resistance to despair.  
 After centuries of delving for survival, the founders believed the world deserved art again.  
 They designed **illumination technology** not just for function, but for beauty — combining pyromancy with illusion matrices to rekindle wonder in a cynical age.
 
-### **The Emberlight Ethos**
+### The Emberlight Ethos
 
 1. **Illuminate, Don’t Obscure.**
     
@@ -58,7 +58,7 @@ Their guiding principle: _hope is a craft._
 
 ---
 
-## **IV. Structure & Leadership**
+## IV. Structure & Leadership
 
 |**Title**|**Name**|**Specialization**|
 |---|---|---|
@@ -67,8 +67,8 @@ Their guiding principle: _hope is a craft._
 |**Master of Illumination**|**Arelene Dawnveil** (Elf)|Theatrical enchantments and illusion architecture.|
 |**Steward of Harmony**|**Rin the Polished** (Kobold)|Resonant acoustics and scry-theatre design.|
 |**Quarter-Engineer**|**Ruko “Sparks” Valren** (Rabbitfolk)|Portable magitech and minor delving support tech.|
-___
-## **VIII. Cultural Significance**
+---
+## VIII. Cultural Significance
 
 The Emberlight Union has redefined what it means to **feel alive** in Aerathon.  
 Their illusions power the city’s festivals, their lamps line every Guild Hall, and their stagecraft keeps the common folk dreaming instead of despairing.
@@ -78,7 +78,7 @@ Yet, even the Ministry’s coldest auditors admit: civilization survives because
 
 ---
 
-## **IX. Economy & Employment**
+## IX. Economy & Employment
 
 The Union employs more artisans per capita than any other guild.  
 Its apprenticeship program, **The Glowline Initiative**, provides free education in applied magitech to impoverished youth — the Ministry’s most successful anti-crime partnership in Louvain’s history.
@@ -88,7 +88,7 @@ They pay full Ministry taxes—_a rarity worth celebration._
 
 ---
 
-## **X. Symbolism & Identity**
+## X. Symbolism & Identity
 
 - **Emblem:** A stylized flame blooming from an open hand.
     
@@ -103,7 +103,7 @@ Apprentices earn a charm called a **Lightseed**, which glows in response to prid
 
 ---
 
-## **XI. Ministry Evaluation**
+## XI. Ministry Evaluation
 
 |**Aspect**|**Assessment**|
 |---|---|
@@ -119,7 +119,7 @@ Director Drauve’s notation:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

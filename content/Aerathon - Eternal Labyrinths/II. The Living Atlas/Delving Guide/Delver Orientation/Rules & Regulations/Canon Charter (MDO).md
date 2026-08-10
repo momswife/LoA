@@ -4,7 +4,7 @@
 
 ---
 
-# **The Canon Charter of the Ministry of Delving Operations**
+# The Canon Charter of the Ministry of Delving Operations
 
 ### _Ten Articles Upholding the Order of Descent_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **Overview**
+## Overview
 
 When the Age of Collapse ended and the world’s ruins began to breathe again, explorers and scavengers flooded the labyrinths without rule or restraint.  
 Accidents, thefts, and miracles gone feral threatened to unravel what little civilization remained.
@@ -29,7 +29,7 @@ Every license, seal, duel, and discovery issued since the Ministry’s founding 
 
 ---
 
-## **The Ten Articles of the Canon Charter**
+## The Ten Articles of the Canon Charter
 
 **§1-A Chronometric Integrity**  
 Time belongs to the Ministry. Any falsified or unsanctioned timeline is Historical Fraud (Class-1).
@@ -63,7 +63,7 @@ Citizens may request masking of private records; unauthorized deletion or trade 
 
 ---
 
-## **Cultural Role**
+## Cultural Role
 
 The Charter functions as both scripture and statute.  
 To Brethren jurists it represents the triumph of order over collapse; to Beastfolk historians, the first peace achieved by consent rather than conquest.  
@@ -74,7 +74,7 @@ All later circulars, regional addenda, and field directives merely interpret, ne
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Charter Counsel Office)**  

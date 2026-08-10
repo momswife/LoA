@@ -4,7 +4,7 @@
 
 ---
 
-# **Moonstalkers**
+# Moonstalkers
 
 ### _Extinct Lunar Hunters of the Blackwild — “When Night Trusted Its Own Ghosts.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Moonstalkers** were a nocturnal humanoid people native to the **Blackwild**, the deep forest region where moonlight rarely touches the ground.  
 They evolved — or were shaped — for a world of perpetual dusk, becoming **shadow-adaptive hunters** with bodies that half-existed within lunar illumination and half within living darkness.
@@ -30,7 +30,7 @@ Their extinction, known as **The Long Waning**, occurred around **Cycle 2950**, 
 
 ---
 
-## **II. Physical Description (Reconstructed)**
+## II. Physical Description (Reconstructed)
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -46,19 +46,19 @@ No intact skeleton has ever been discovered — Moonstalker remains dissolve int
 
 ---
 
-## **III. Culture & Society**
+## III. Culture & Society
 
 Moonstalker civilization was deeply tied to cycles of light and shadow, forming a structured society around **three sacred lunar roles**:
 
-### **1. Newmoon Seekers**
+### 1. Newmoon Seekers
 
 Silent scouts who traveled when the moon was dark. Their bodies were nearly invisible even to magical detection.
 
-### **2. Halfmoon Weavers**
+### 2. Halfmoon Weavers
 
 Mystics who inscribed **moon-thread sigils** into tree bark, producing spells of concealment, memory, and fearlessness.
 
-### **3. Fullmoon Hunters**
+### 3. Fullmoon Hunters
 
 Elite warriors who fought using **crescent-blades** — weapons of pale iron forged only during lunar zenith.  
 Fullmoon Hunters guided the tribes’ migrations through the Blackwild.
@@ -76,7 +76,7 @@ They believed sunlight “burned the truth from the world,” while moonlight re
 
 ---
 
-## **IV. Abilities & Adaptations**
+## IV. Abilities & Adaptations
 
 The Moonstalkers’ physiology made them legendary among early Blackwild delvers:
 
@@ -95,7 +95,7 @@ These adaptations collapsed with the lunar mana flow during the Long Waning.
 
 ---
 
-## **V. The Long Waning (Extinction Event)**
+## V. The Long Waning (Extinction Event)
 
 Around **Cycle 2950**, a rare celestial alignment known as the **Four-Shadow Eclipse** severed a major lunar leyline that crossed the Blackwild.  
 Moonstalkers lost the metaphysical anchor that allowed their semi-liminal biology to persist.
@@ -115,7 +115,7 @@ The few that survived longer walked into the deepest groves and left no trace.
 
 ---
 
-## **VI. Weaknesses (Historical)**
+## VI. Weaknesses (Historical)
 
 |**Vulnerability**|**Explanation**|
 |---|---|
@@ -127,7 +127,7 @@ Moonstalkers avoided all artificial illumination, believing it “muddied the ni
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -138,7 +138,7 @@ Stored in Vault #99 (Louvain Branch) — dual seal Stonevoice / Korrin.
 
 ---
 
-## **VIII. Ministry Findings**
+## VIII. Ministry Findings
 
 - Echo-Law analysis indicates lingering **Moonstalker voices** trapped in late-night wind patterns.
     
@@ -153,7 +153,7 @@ Stored in Vault #99 (Louvain Branch) — dual seal Stonevoice / Korrin.
 
 ---
 
-## **IX. Cultural & Mythic Legacy**
+## IX. Cultural & Mythic Legacy
 
 - **Blackwild Beastfolk:** Tell stories of “Moon-kin” who hunt only evil spirits.
     
@@ -168,7 +168,7 @@ Stored in Vault #99 (Louvain Branch) — dual seal Stonevoice / Korrin.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Moonstalkers** were a haunting, beautiful people who thrived in twilight and perished when their sky abandoned them.  
 They lived as boundary-walkers — part shadow, part light — and vanished in a moment when both betrayed them.
@@ -179,7 +179,7 @@ Only the shifting Blackwild shadows remember that once, the night had children w
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Nocturnal Phenomena Archive)**  

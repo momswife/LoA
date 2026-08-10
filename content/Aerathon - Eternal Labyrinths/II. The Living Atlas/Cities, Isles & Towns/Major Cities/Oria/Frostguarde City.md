@@ -1,3 +1,5 @@
+# Frostguarde City
+
 ### _The Last Warm City — “We Remember the Cold So Others Don’t Have To.”_
 
 **Ruling House:** **House Kaldryn** (Oric Elk — Northern Wardens)  
@@ -12,7 +14,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Frostguarde City** stands at the **southernmost survivable edge of the Nattefrost**, where permanent settlement gives way to frozen plains, auroral distortion, and temporal instability. It is neither fortress nor capital, but a **threshold city**—the last place in Aerathon where warmth, memory, and time still behave _mostly_ as expected.
 
@@ -27,7 +29,7 @@ Among travelers and scholars alike, Frostguarde is known as
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 Frostguarde is built atop a **reinforced basalt shelf**, overlooking the southern approaches to the Nattefrost frostplain.
 
@@ -45,7 +47,7 @@ Without layered ward infrastructure maintained by House Kaldryn and the MDO, Fro
 
 ---
 
-## **III. History**
+## III. History
 
 Frostguarde was established after early Oric expeditions proved that **traditional forge-cities could not survive** this far north without catastrophic loss. Rather than conquest, the Oric proposed endurance.
 
@@ -60,7 +62,7 @@ The city’s founding charter outlined three immutable directives:
 3. **Ensure the continuity and warmth of its people**
     
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **3021 A.D.** — Oric reconnaissance led by House Kaldryn confirms permanent settlement infeasible without ward networks.
     
@@ -76,7 +78,7 @@ It has only grown **denser, warmer, and more watchful**.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Frostguarde is governed by **House of Frostguarde**, a lodge-house formed not by lineage alone, but by mandate. Stewardship of the House rests with the **Stonewarden family**, whose members have served continuously on the northern watch since the city’s founding.
 
@@ -101,7 +103,7 @@ Governance in Frostguarde is deliberately constrained:
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Frostguarde produces almost nothing tangible.
 
@@ -129,7 +131,7 @@ Secondary activity includes:
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Culture in Frostguarde is **ritualized stability**.
 
@@ -144,7 +146,7 @@ House Kaldryn enforces grounding traditions rigorously, especially for children:
 
 > _“Say where you are. Say who you are. Say it every day.”_
 
-### **The Concordant Spire**
+### The Concordant Spire
 
 A circular cathedral dedicated to **all recognized gods**, deliberately constructed without a dominant altar.
 
@@ -159,7 +161,7 @@ Faith here is not about miracles—it is about **continuity**.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Frostguarde’s defenses are **intentionally constrained**.
 
@@ -176,7 +178,7 @@ House Kaldryn guards are trained as **ward-maintainers first, soldiers second**.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Frostguarde maintains strict separation from the Labyrinths.
 
@@ -192,7 +194,7 @@ It will not invite another.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -206,7 +208,7 @@ Frostguarde influences Aerathon not by decree—but by **what it notices first**
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Frostguarde exists so others do not have to.
 
@@ -221,7 +223,7 @@ House Kaldryn’s legacy here is not glory—but restraint.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Names are written down immediately when spoken
     
@@ -234,7 +236,7 @@ House Kaldryn’s legacy here is not glory—but restraint.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

@@ -3,7 +3,7 @@
 
 ---
 
-# **The Founding & Maintenance of Guild Charters**
+# The Founding & Maintenance of Guild Charters
 
 ### _A Procedural Guide for Aspiring Orders of Exploration_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The establishment of a new delving guild is an act of both ambition and law.  
 Every labyrinth in Aerathon is Ministry-regulated territory; to claim, explore, or profit from one requires Guild Charter approval under the **Canon Charter §3-C (Labyrinth Entry & Claim)** and **§6-F (Provenance & Authenticity)**.
@@ -25,9 +25,9 @@ Those who fail to honor it are erased from the record as if they never descended
 
 ---
 
-## **II. The Seven Steps of Founding**
+## II. The Seven Steps of Founding
 
-### **1. Petition for Recognition**
+### 1. Petition for Recognition
 
 A written request must be submitted to the **Guild Relations Bureau** including:
 
@@ -43,7 +43,7 @@ A written request must be submitted to the **Guild Relations Bureau** including:
 
 ---
 
-### **2. Charter Interview & Background Audit**
+### 2. Charter Interview & Background Audit
 
 Applicants undergo interrogation and record review to ensure no outstanding violations under Charter §1-A, §6-F, or §9-I.  
 This process includes:
@@ -58,7 +58,7 @@ This process includes:
 
 ---
 
-### **3. Submission of the Founding Fund**
+### 3. Submission of the Founding Fund
 
 Each applicant must deposit a **Founding Fund** proportional to projected Guild Tier:
 
@@ -72,7 +72,7 @@ Funds are held in trust by the Ministry for one cycle. Should the guild dissolve
 
 ---
 
-### **4. Oath of Charterhood**
+### 4. Oath of Charterhood
 
 Upon provisional approval, founders must gather within a licensed sanctuary and swear the **Oath of Charterhood** before a registered flame and Ministry witness:
 
@@ -83,7 +83,7 @@ Breaking the Oath results in dissolution and the loss of all relic rights.
 
 ---
 
-### **5. Approval & Insignia Registration**
+### 5. Approval & Insignia Registration
 
 Once the Charter Counsel signs off, the new Guild receives:
 
@@ -97,7 +97,7 @@ Once the Charter Counsel signs off, the new Guild receives:
 
 ---
 
-### **6. First Expedition & Proof of Purpose**
+### 6. First Expedition & Proof of Purpose
 
 Within six months, the new Guild must complete a sanctioned delve and return at least one:
 
@@ -113,14 +113,14 @@ A second failure constitutes **Guild Nullification**, with all relics and funds 
 
 ---
 
-### **7. Public Induction & Registry Placement**
+### 7. Public Induction & Registry Placement
 
 Successful Guilds are announced at the **Annual Convocation of Banners** in Louvain.  
 A ceremonial bell is rung once for each founding member, and the Guild’s emblem is projected into the Hall of Charters, where it remains until the Guild dissolves, merges, or falls to ruin.
 
 ---
 
-## **III. Maintaining a Functional Guild**
+## III. Maintaining a Functional Guild
 
 The Ministry defines relevance not by size, but by **sustainability of purpose.**  
 Guilds that lose discipline, direction, or public trust fade swiftly.
@@ -143,7 +143,7 @@ Neglect of three or more invokes **Provisional Seizure**—the Ministry’s poli
 
 ---
 
-## **IV. Criteria for Success**
+## IV. Criteria for Success
 
 The most stable guilds share three qualities:
 
@@ -160,7 +160,7 @@ Ministry analysts summarize:
 
 ---
 
-## **V. Causes of Dissolution**
+## V. Causes of Dissolution
 
 A Guild may be dissolved by:
 
@@ -179,7 +179,7 @@ Once dissolved, all claims revert to Ministry custodianship under **Article §3-
 
 ---
 
-## **VI. Notes on Sponsorship & Legacy**
+## VI. Notes on Sponsorship & Legacy
 
 Most successful guilds begin under the mentorship of an existing organization.  
 The **Free Company of Louvain** remains the largest sponsor of new delvers, offering apprenticeships and co-signed petitions.  
@@ -188,7 +188,7 @@ The **Crimson Reavers**, meanwhile, view sponsorship as weakness; their initiate
 
 ---
 
-## **VII. Final Admonition**
+## VII. Final Admonition
 
 The Ministry reminds all aspirants:
 
@@ -200,7 +200,7 @@ But those who pursue power without record soon learn the oldest truth of Aeratho
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

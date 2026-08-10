@@ -1,7 +1,9 @@
 > *“What you owe the future must be paid—preferably with interest.”_*
 
-___
-### _S-Class Debt-Mage & Temporal Auditor 
+---
+# Sable Rook
+
+### _S-Class Debt-Mage & Temporal Auditor
 
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division (Arcane Compliance & Risk Bureau)  
 **Primary Compiler:** Magistrate Talar Shellmark (Charter Counsel & Temporal Ethics)  
@@ -11,7 +13,7 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Sable Rook**, the **Warden of Borrowed Tomorrows**, is an S-Class delver whose mastery of **temporal forensics**, **risk amortization**, and **harm-escrow magic** has saved more lives than some entire guilds. A former Louvain court-scrivener, Rook discovered that the Labyrinths obey a kind of brutal accounting—one he could exploit.
 
@@ -23,7 +25,7 @@ To smugglers, cultists, and relic-hoarders, he’s the **repo man of destiny**.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** S-Class Auditor of the **Free Company of Louvain**; contracted counsel to **MDO – Arcane Breach (Compliance)**
     
@@ -36,7 +38,7 @@ To smugglers, cultists, and relic-hoarders, he’s the **repo man of destiny**.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **A Promise Is a Bridge—Cross It or Fall.**
     
@@ -47,16 +49,16 @@ To smugglers, cultists, and relic-hoarders, he’s the **repo man of destiny**.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Stay of Execution at Portico Gate**
+### 1. The Stay of Execution at Portico Gate
 
 A collapsing stair-helix threatened to pulverize a refugee column.  
 Rook **escrowed the kinetic force** into a signed iron chit nailed to the wall.  
 Later, he collected the debt by redirecting a marrow-wyrm into the marked masonry.  
 One chit, two solutions.
 
-### **2. The Betemere Annuity**
+### 2. The Betemere Annuity
 
 A cult primed a slow-burn blight to blossom at first snow.  
 Rook **amortized the entire curse** into a hundred harmless nuisances—a stubbed toe, a cracked plate, a jammed drawer.  
@@ -64,7 +66,7 @@ The blight dissolved.
 Then he found the cult’s treasurer and made them sign a confession in diluted self-blood.  
 Legally binding, mildly embarrassing.
 
-### **3. The Masque of Mirrors in Louvain**
+### 3. The Masque of Mirrors in Louvain
 
 Rival delvers deployed lethal glamours.  
 Rook **audited the illusions**, requiring each duplicate to “pay” a tithe in heartbeats and breath.  
@@ -72,9 +74,9 @@ The fakes collapsed under debt; offenders arrested without a single casualty.
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Ledger of Atonement**
+### Ledger of Atonement
 
 A black-bound codex that records **injuries, debts, and bargains** in luminous script.
 
@@ -86,7 +88,7 @@ A black-bound codex that records **injuries, debts, and bargains** in luminous s
     Burning a page results in a cough, a fine, and another entry.
     
 
-### **Gavel-Hourglass**
+### Gavel-Hourglass
 
 A magistrate’s mallet wrapped around a double-ended sandglass.
 
@@ -96,7 +98,7 @@ A magistrate’s mallet wrapped around a double-ended sandglass.
     Makes “time management” terrifyingly literal.
     
 
-### **Basilisk-Skin Retainer’s Cloak**
+### Basilisk-Skin Retainer’s Cloak
 
 Courtly cut; stony weight.
 
@@ -107,7 +109,7 @@ Courtly cut; stony weight.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 3 S-Rank (all contested), 7 A-Rank adjudications with **zero casualties**
     
@@ -120,7 +122,7 @@ Courtly cut; stony weight.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“I don’t break traps; I bill them.”_  
 — Before tapping a sigil into harmlessness
@@ -133,7 +135,7 @@ _“Breath in. Good. That’s collateral.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Carries a **silver quill** that writes only **events that will occur**—never lies.
     
@@ -146,7 +148,7 @@ _“Breath in. Good. That’s collateral.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Arcane Compliance & Risk Bureau)**  

@@ -1,3 +1,5 @@
+# Festivals, Rites, & Prayers
+
 ### _Tradition, Spectacle & Symbolic Devotion in a Secular Delver Age_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Festivals and rites remain central to Aerathon’s cultural identity—even as **religious belief declines, especially among delvers.**
 
@@ -40,7 +42,7 @@ This document details how festivals and prayers persist in modern life despite s
 
 ---
 
-## **II. Major Festivals of the Modern Pantheon**
+## II. Major Festivals of the Modern Pantheon
 
 ### _Now observed primarily as cultural holidays._
 
@@ -48,7 +50,7 @@ Even the irreligious participate—delvers included—because festivals define t
 
 ---
 
-### **1. Dawnbreak March — Lathander’s Renewal**
+### 1. Dawnbreak March — Lathander’s Renewal
 
 **Theme:** New beginnings, civic optimism  
 **Modern Character:**
@@ -65,7 +67,7 @@ High, but secular. Treated as a morale reset after rough cycles.
 
 ---
 
-### **2. Night of Seven Lights — Selûne’s Vigil**
+### 2. Night of Seven Lights — Selûne’s Vigil
 
 **Theme:** remembrance  
 **Modern Character:**
@@ -82,7 +84,7 @@ Very high, as many leave lanterns for lost teammates—no prayer required.
 
 ---
 
-### **3. Greenmother’s Day — Chauntean Planting Festival**
+### 3. Greenmother’s Day — Chauntean Planting Festival
 
 **Theme:** new growth, rural identity  
 **Modern Character:**
@@ -99,7 +101,7 @@ Mostly in rural guilds; urban delvers attend for food and festivities.
 
 ---
 
-### **4. Forgefall — Gond’s Innovation Festival**
+### 4. Forgefall — Gond’s Innovation Festival
 
 **Theme:** creation, invention  
 **Modern Character:**
@@ -116,7 +118,7 @@ Extremely high—modern delvers treat it as a gear convention.
 
 ---
 
-### **5. Jester’s Eve — Leira, Beshaba & Tymora's Festival of Chance**
+### 5. Jester’s Eve — Leira, Beshaba & Tymora's Festival of Chance
 
 **Theme:** mystery, luck, chaos  
 **Modern Character:**
@@ -133,7 +135,7 @@ High, but culturally—not religiously. It appeals to delver superstition and ad
 
 ---
 
-### **6. Tide’s Mercy — Umberlee’s Appeasement**
+### 6. Tide’s Mercy — Umberlee’s Appeasement
 
 **Theme:** respect for the sea  
 **Modern Character:**
@@ -150,23 +152,23 @@ Low unless stationed near coastal labyrinths.
 
 ---
 
-## **III. Life Rites & Milestone Rituals**
+## III. Life Rites & Milestone Rituals
 
-### _Still practiced universally, but with declining devotional significance._
+_Still practiced universally, but with declining devotional significance._
 
-### **1. Birth Rites**
+### 1. Birth Rites
 
 Blessings are performed for cultural continuity, not doctrinal belief.
 
-### **2. Coming-of-Age Ceremonies**
+### 2. Coming-of-Age Ceremonies
 
 Varied by region, but often more about identity formation than faith.
 
-### **3. Marriage Rites**
+### 3. Marriage Rites
 
 Clergy officiate, but most couples view the ceremony as symbolic unity rather than divine union.
 
-### **4. Death & Mourning Rites**
+### 4. Death & Mourning Rites
 
 Still deeply respected.  
 Even secular delvers turn to Kelemvorite or Selûnite rites for closure.
@@ -175,11 +177,11 @@ Death, not gods, remains universally powerful.
 
 ---
 
-## **IV. Delver-Specific Ritual Culture**
+## IV. Delver-Specific Ritual Culture
 
-### _Rites used for psychology, solidarity, or superstition—not worship._
+_Rites used for psychology, solidarity, or superstition—not worship._
 
-### **1. The Gate Prayer
+### 1. The Gate Prayer
 
 > _“The labyrinth remembers nothing. Let us return so someone will.”_
 
@@ -188,7 +190,7 @@ Functions as a grounding mantra.
 
 ---
 
-### **2. Helm’s Circle**
+### 2. Helm’s Circle
 
 Back-to-back stance ritual.  
 **Purpose:** focus, unity.  
@@ -196,27 +198,27 @@ No theological content.
 
 ---
 
-### **3. Luck Tokens (Tymora)**
+### 3. Luck Tokens (Tymora)
 
 Coins tapped before a delve.  
 Seen as **habitual superstition**, not prayer.
 
 ---
 
-### **4. Mask’s Quiet**
+### 4. Mask’s Quiet
 
 Circle drawn in dust before stealth missions.  
 Maintained for team discipline, not devotion.
 
 ---
 
-### **5. Malarite Bloodmarks (Rare)**
+### 5. Malarite Bloodmarks (Rare)
 
 Reserved for traditionalist Beastfolk delvers.
 
 ---
 
-## **V. Daily Prayers & Modern Interpretations**
+## V. Daily Prayers & Modern Interpretations
 
 ### _Prayers have contracted into short, symbolic phrases used like poetry or mantras._
 
@@ -235,7 +237,7 @@ Delvers often say these ironically or habitually, rather than devoutly.
 
 ---
 
-## **VI. Civic Rituals & State Observances (Unchanged but Secularizing)**
+## VI. Civic Rituals & State Observances (Unchanged but Secularizing)
 
 Temples remain involved in:
 
@@ -254,7 +256,7 @@ However, participation is driven by tradition—not supernatural expectation.
 
 ---
 
-## **VII. Private Rites of Grief & Crisis**
+## VII. Private Rites of Grief & Crisis
 
 ### _More important than ever as delvers detach from divine frameworks._
 
@@ -275,7 +277,7 @@ These spaces help delvers **process trauma and loss**.
 
 ---
 
-## **VIII. The Secularization of Festivals**
+## VIII. The Secularization of Festivals
 
 The Ministry identifies five major shifts:
 
@@ -295,7 +297,7 @@ but because **people need them**.
 
 ---
 
-## **IX. Ministry Assessment**
+## IX. Ministry Assessment
 
 |Category|Status|
 |---|---|
@@ -311,7 +313,7 @@ but from human need for meaning, memory, and connection.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Cultural Practices Bureau)**  

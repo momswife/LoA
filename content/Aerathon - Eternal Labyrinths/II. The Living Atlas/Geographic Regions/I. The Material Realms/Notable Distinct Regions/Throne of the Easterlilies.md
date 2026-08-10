@@ -1,9 +1,14 @@
+---
+aliases:
+  - Throne of Easterlilies
+---
+
 > _“The winds die at its shore, as if afraid to enter the dream.”_  
 > — **Archivist Yelna Stonevoice**, _Field Recording ϴ-52: Reverberations of the Eastern Gale_
 
 ---
 
-# **Throne of the Easterlilies**
+# Throne of the Easterlilies
 
 ### _The Bloom Untouched — “Where Storms Kneel to Silence.”_
 
@@ -15,7 +20,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 Far east of Vinyot, beyond the constant squall lines of the **Azur Gulf**, rises a solitary island girdled by hurricanes that never break.  
 To sailors it is called the **Throne of the Easterlilies**; to scholars, the **Eye of the Worldwind**.  
@@ -27,7 +32,7 @@ The Ministry recognizes the Throne as a **Type-Ω Null Sanctuary**, a place wher
 
 ---
 
-## **II. Geography & Phenomena**
+## II. Geography & Phenomena
 
 |**Feature**|**Description**|
 |---|---|
@@ -40,7 +45,7 @@ Temporal drift tests show a consistent five-second delay between cause and echo 
 
 ---
 
-## **III. Chronology of Observation**
+## III. Chronology of Observation
 
 |**Date (A.D.)**|**Event**|**Result / Impact**|
 |---|---|---|
@@ -53,26 +58,26 @@ No direct landing has been verified since the Age of Collapse. Only fragments of
 
 ---
 
-## **IV. Religious & Cultural Significance**
+## IV. Religious & Cultural Significance
 
-### **1. Divine Hypothesis**
+### 1. Divine Hypothesis
 
 Multiple faiths claim the island as the **resting seat of a forgotten goddess of peace**, her body dissolved into bloom.  
 Clerical divinations near the Gulf register residual _good-aligned_ aura yet accompanied by grief frequencies found in funerary relics.
 
-### **2. Mariner Superstition**
+### 2. Mariner Superstition
 
 Sailors throw white petals into the sea before voyages eastward, muttering, _“For the winds to kneel.”_  
 Ships that skip the rite report compass drift and mutiny-grade agitation among crew.
 
-### **3. Beastfolk Traditions**
+### 3. Beastfolk Traditions
 
 Aarakocra pilgrims treat the Throne as **the sky’s grave**, circling its storm rim yearly to test courage.  
 Those who return silent are considered “wind-witnessed” — spiritually scarred yet holy.
 
 ---
 
-## **V. Scientific Analysis**
+## V. Scientific Analysis
 
 1. **Atmospheric Lens Theory** — The storms refract not light but sound, folding external noise inward to sustain equilibrium.
     
@@ -85,7 +90,7 @@ Those who return silent are considered “wind-witnessed” — spiritually scar
 
 ---
 
-## **VI. Hazards & Anomalies**
+## VI. Hazards & Anomalies
 
 |**Phenomenon**|**Effect**|
 |---|---|
@@ -93,8 +98,8 @@ Those who return silent are considered “wind-witnessed” — spiritually scar
 |**Chrono-Flutter**|Five-second sound delay causing perception lag and mild insanity in prolonged exposure.|
 |**Petal Mists**|Inhaled vapor induces catatonia + lucid visions of an unseen sun.|
 |**Echo Bloom Infection**|Skin contact with pollen forms bioluminescent flower patterns; non-lethal but permanent.|
-___
-## **VII. Expedition Status**
+---
+## VII. Expedition Status
 
 - **Classification:** Level Ω Containment — No Physical Entry Authorized.
     
@@ -109,7 +114,7 @@ ___
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -120,7 +125,7 @@ Artifacts stored in Louvain Vault #103 under joint custody of Stonevoice & Korri
 
 ---
 
-## **IX. The Lilies Themselves**
+## IX. The Lilies Themselves
 
 Each bloom measures nearly six feet tall, petal span three across, coloration pure white under sunlight, soft violet under moonlight.  
 Spectral analysis indicates the plants contain hollow fibers that vibrate at frequencies matching recorded angelic chorales.  
@@ -130,14 +135,14 @@ When uprooted (by automaton probe, 3725 trial), the entire field bent toward the
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Throne of the Easterlilies** stands as Aerathon’s final unbroken sanctuary — a place where storm, magic, and song pause in mutual reverence.  
 Whether the lilies mark a grave or a promise remains unknown, but every gust from the Azur Gulf still bears the fragrance of that silence.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Sanctified Geographies Archive)**  

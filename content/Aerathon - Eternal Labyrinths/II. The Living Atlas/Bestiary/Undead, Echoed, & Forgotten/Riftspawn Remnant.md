@@ -4,7 +4,7 @@
 
 ---
 
-# **Riftspawn Remnant**
+# Riftspawn Remnant
 
 ### _Fragments of What Should Never Have Crossed — “When the Rift Exhales, These Are the Leftovers.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 A **Riftspawn Remnant** is not a creature in the traditional sense — it is a **partial existence**, the broken afterbirth of a larger entity that attempted to enter Aerathon through a Rift but was severed, rejected, or only partially translated into our reality.
 
@@ -32,7 +32,7 @@ The Ministry classifies them as **Type-RSP / Rift-Echo Aberrants**, extremely da
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 A Riftspawn Remnant’s appearance depends on the nature of its “parent,” but certain traits are consistent:
 
@@ -49,7 +49,7 @@ Their bodies crackle with **dimensional static**, producing sounds like reversed
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Riftspawn Remnants imitate only a sliver of the instincts of the entity that spawned them, but twisted by incompletion:
 
@@ -73,7 +73,7 @@ When stressed, they produce a **Rift Scream** — a sonic shockwave containing a
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Riftspawn Remnants only emerge in areas recently exposed to dimensional tear activity:
 
@@ -94,7 +94,7 @@ They can appear days, weeks, or even years **after** the original Rift has close
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Remnants cannot survive long-term; most degrade within hours unless they find a “stabilizer”—an object or being with matching resonance.
     
@@ -112,7 +112,7 @@ They can appear days, weeks, or even years **after** the original Rift has close
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -126,7 +126,7 @@ This triggers **Spillover Inversion**, a phenomenon where your shadow temporaril
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -137,7 +137,7 @@ Artifacts stored in Vault #163 (Louvain Branch — Rift Containment Annex), trip
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level IV — Dimensional Aberrant / Severe Instability
     
@@ -152,7 +152,7 @@ Artifacts stored in Vault #163 (Louvain Branch — Rift Containment Annex), trip
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Delver Myth:** A Remnant appearing near you means the Rift remembers your name.
     
@@ -169,7 +169,7 @@ Artifacts stored in Vault #163 (Louvain Branch — Rift Containment Annex), trip
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 **Riftspawn Remnants** are broken echoes of greater horrors, fragments of something that nearly crossed into Aerathon but failed to manifest fully.  
 They wander with half-minds, half-bodies, and half-purpose, dangerous not because of what they are — but because of what they imply:
@@ -184,7 +184,7 @@ Remnants are warnings written in broken flesh and mismatched geometry:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Undead, Echoed & Forgotten Entity Archive)**  

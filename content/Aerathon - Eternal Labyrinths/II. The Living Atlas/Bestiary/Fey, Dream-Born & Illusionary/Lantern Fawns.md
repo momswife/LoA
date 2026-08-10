@@ -3,7 +3,7 @@
 
 ---
 
-# **Lantern Fawns**
+# Lantern Fawns
 
 ### _Glow-Touched Creatures of the Feydream Fringe — “Little Lights That Wander Where Wishes Sleep.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Lantern Fawns** are gentle feydream creatures resembling small, luminous deer calves with soft-glowing horns and lantern-like hearts.  
 They are born where **innocent hope** saturates the Glittering Veil — places like abandoned children’s rooms, untouched forest clearings, broken labyrinth chambers where someone once wished desperately for rescue.
@@ -29,7 +29,7 @@ The Ministry classifies them as **Type-FDI / Dream-Fey Guardian Entities**, cons
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -45,7 +45,7 @@ The “lantern-heart” — a soft chest glow — pulses rhythmically with nearb
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Lantern Fawns are **empathetic pseudo-guides**, drawn to those in emotional distress: isolation, fear, or gentle longing.
 
@@ -68,7 +68,7 @@ Lantern Fawns rarely flee from danger unless threatened with cold iron or aggres
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Lantern Fawns appear where **kindness lingers** despite ruin:
 
@@ -89,7 +89,7 @@ They are more common during solstices, when dreamflow is unbound.
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-lens readings reveal each Fawn contains a **thread of dreamstuff connected to a living creature**—origin unknown.
     
@@ -104,7 +104,7 @@ They are more common during solstices, when dreamflow is unbound.
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -117,7 +117,7 @@ Treat Lantern Fawns gently. They mirror emotional fields — cruelty produces a 
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -128,7 +128,7 @@ Stored in Vault #78 (Louvain Branch) — dual seal Onarra / Stonevoice.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level I — Benevolent Dreamborn / Low Hazard
     
@@ -143,7 +143,7 @@ Stored in Vault #78 (Louvain Branch) — dual seal Onarra / Stonevoice.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Beastfolk of Oria:** Consider them “Lantern-Children,” protectors of lost cubs.
     
@@ -158,7 +158,7 @@ Stored in Vault #78 (Louvain Branch) — dual seal Onarra / Stonevoice.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Lantern Fawns** are flickering guardians of dream and emotion — shy, luminous creatures born of hope’s refusal to die.  
 They guide the lost, soothe the frightened, and warm the forgotten corners of Aerathon’s shadowed places.
@@ -171,7 +171,7 @@ And yet, in the quiet spaces between delves, they may be the most precious being
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)**  

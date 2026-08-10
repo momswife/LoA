@@ -4,7 +4,7 @@
 
 ---
 
-# **Ethical Delving**
+# Ethical Delving
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Charter Counsel Office)_  
 **Primary Compiler:** Magistrate Talar Shellmark (Counselor General & Keeper of Canon Articles)  
@@ -24,9 +24,9 @@ It is law.
 
 ---
 
-# **I. Foundational Principles**
+## I. Foundational Principles
 
-## **1. Preservation of Life**
+### 1. Preservation of Life
 
 Delvers must prioritize the safety of:
 
@@ -43,7 +43,7 @@ Lethal force is justified only when necessary to neutralize direct threat.
 
 ---
 
-## **2. Integrity of Purpose**
+### 2. Integrity of Purpose
 
 Delvers may not:
 
@@ -60,7 +60,7 @@ Delving is a public trust; betrayal corrodes its foundation.
 
 ---
 
-## **3. Respect for the Labyrinth**
+### 3. Respect for the Labyrinth
 
 The Labyrinth is not a resource to be plundered without restraint.  
 Ethical conduct includes:
@@ -76,7 +76,7 @@ Ethical conduct includes:
 
 ---
 
-## **4. Honesty in Representation**
+### 4. Honesty in Representation
 
 Delvers must present themselves truthfully in:
 
@@ -95,45 +95,45 @@ Falsified claims or staged narrative arcs constitute Ministerial fraud.
 
 ---
 
-# **II. Prohibited Actions**
+## II. Prohibited Actions
 
 The following are considered **High Infractions** under MDO Charter Law:
 
-### **1. Civilian Endangerment**
+#### 1. Civilian Endangerment
 
 Direct or negligent harm caused to non-combatants during delving operations.
 
-### **2. Black-Route Descent**
+#### 2. Black-Route Descent
 
 Entering an unsanctioned labyrinth without Ministry approval.
 
-### **3. Oculi Interference**
+#### 3. Oculi Interference
 
 Damaging, obscuring, or magically deceiving Divine Oculi.
 
-### **4. Relic Smuggling & Tampering**
+#### 4. Relic Smuggling & Tampering
 
 Removing artifacts outside of registered procedures, or altering relics to falsify value.
 
-### **5. Sabotage of Parties or Guilds**
+#### 5. Sabotage of Parties or Guilds
 
 Including trap displacement, false signaling, and forced hazard escalation.
 
-### **6. Psychological Exploitation**
+#### 6. Psychological Exploitation
 
 Inflicting intentional emotional trauma for Fame Engine manipulation or spectacle effects.
 
 ---
 
-# **III. Ethical Combat Mandates**
+## III. Ethical Combat Mandates
 
 All delvers must adhere to the following during combat:
 
-### **1. Proportionate Response**
+#### 1. Proportionate Response
 
 Use force equivalent to the threat. Wanton cruelty results in immediate UDMI penalty.
 
-### **2. Controlled Spell Usage**
+#### 2. Controlled Spell Usage
 
 Area-of-effect spells cannot be deployed:
 
@@ -146,7 +146,7 @@ Area-of-effect spells cannot be deployed:
 - Without warning to allied parties
     
 
-### **3. Mercy Under Surrender**
+#### 3. Mercy Under Surrender
 
 Sentient foes who yield—whether monstrous, humanoid, or arcane constructs—must not be executed except in cases of:
 
@@ -159,11 +159,11 @@ Sentient foes who yield—whether monstrous, humanoid, or arcane constructs—mu
 
 ---
 
-# **IV. Ethics in Audience-Interactive Delves**
+## IV. Ethics in Audience-Interactive Delves
 
 In the Spectacle Age, delvers must balance public influence with responsible conduct.
 
-### **Delvers may NOT:**
+#### Delvers may NOT:
 
 - Harm themselves for dramatic effect
     
@@ -174,7 +174,7 @@ In the Spectacle Age, delvers must balance public influence with responsible con
 - Engage in “trauma-loops” for boosted metrics
     
 
-### **Delvers MUST:**
+#### Delvers MUST:
 
 - Maintain clear ethical signaling
     
@@ -187,7 +187,7 @@ The Ministry maintains that a delver’s dignity is not a commodity.
 
 ---
 
-# **V. Ethical Relic Use**
+## V. Ethical Relic Use
 
 Relics are not to be used:
 
@@ -204,7 +204,7 @@ Relics belong first to the world—not to the individual who carries them.
 
 ---
 
-# **VI. Penalties & Enforcement**
+## VI. Penalties & Enforcement
 
 Violations of Ethical Delving standards may result in:
 
@@ -229,7 +229,7 @@ Violations of Ethical Delving standards may result in:
 
 ---
 
-# **VII. Why Ethical Delving Matters**
+## VII. Why Ethical Delving Matters
 
 Delvers walk the line between order and catastrophe.  
 Without ethical grounding, a delver becomes a hazard—  
@@ -240,7 +240,7 @@ They are the **shield that keeps the world from breaking**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Charter Counsel Office)**  

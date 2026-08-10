@@ -2,6 +2,8 @@
 
 ---
 
+# Skarn the Emberborn
+
 ### _S-Class Zealot of the Unspoken Path
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Hagiography & Miraculous Phenomena Bureau)  
@@ -12,7 +14,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The one known as **Skarn the Emberborn** stands as one of the most singular anomalies ever recorded by the Ministry—an ursine Beastfolk who rose to S-Class status without guild sponsorship, training cadre, or even a scribe to bear witness. His frame is a living monolith of burnt fur and iron muscle, each scar layered like strata upon a mountain of old flame.
 
@@ -23,7 +25,7 @@ Scorch-glyphs bearing his name have been found at the mouths of at least five S-
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Independent. Rejected by three major guilds; once hunted by the **Crimson Reavers**.
     
@@ -36,7 +38,7 @@ Scorch-glyphs bearing his name have been found at the mouths of at least five S-
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Strength is What Survives** — Only power that endures the burning deserves to be called power.
     
@@ -47,39 +49,39 @@ Scorch-glyphs bearing his name have been found at the mouths of at least five S-
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Burning of Chainscour Hall**
+### 1. The Burning of Chainscour Hall
 
 When condemned by tribunal, Skarn ignited the entire foundation of the prison-hall. He walked through flame untouched, shattering locks and freeing seventy indentured delvers. His only reported words: **“No more prisons.”**
 
-### **2. The Trial of Shale-Tooth Crag**
+### 2. The Trial of Shale-Tooth Crag
 
 Echo-crystal evidence shows Skarn challenging seven Reaver bounty-hunters. He defeated each bare-handed without striking a killing blow, then tossed them from the cliff—alive and humiliated.
 
-### **3. The Silence of Brimvault**
+### 3. The Silence of Brimvault
 
 The psychic Labyrinth of Brimvault went silent hours after Skarn entered. Weeks later, its **core** appeared in a village well, encased in slagged iron and whispering: **“Freedom.”**
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Ashmaul — The Flame-Twin Hammer**
+### Ashmaul — The Flame-Twin Hammer
 
 Forged from firebone and smoke-tempered iron. Produces concussive heat waves, burns illusions from the air, and weakens any form of binding.
 
-### **Mantle of the Burnt Howl**
+### Mantle of the Burnt Howl
 
 Ash-wolf cloaks fused by spellfire. Inspires courage, resists compulsion, and forces slavers or enchanters to confess their crimes aloud.
 
-### **The Emberbrand**
+### The Emberbrand
 
 A burning sigil on his chest. Reacts violently near cursed relics, divine tyranny, or bound souls.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed S-Rank Clears:** 6 (mostly unscored; anti-scry interference)
     
@@ -92,7 +94,7 @@ A burning sigil on his chest. Reacts violently near cursed relics, divine tyrann
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > _“The gods can judge. I carry the sentence.”_  
 > — Tribunal testimony
@@ -105,7 +107,7 @@ A burning sigil on his chest. Reacts violently near cursed relics, divine tyrann
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - His hammer **screams** near soul-bound items.
     
@@ -118,7 +120,7 @@ A burning sigil on his chest. Reacts violently near cursed relics, divine tyrann
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

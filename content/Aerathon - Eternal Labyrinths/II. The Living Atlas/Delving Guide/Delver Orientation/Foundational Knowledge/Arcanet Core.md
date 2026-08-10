@@ -2,7 +2,7 @@
 > *It has no heart, yet it weighs yours with unerring precision."*
 
 ---
-# **The Arcanet Core**
+# The Arcanet Core
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Arcane Infrastructure Registry)_  
 **Primary Compiler:** Archivist Yelna Stonevoice (Historian of Echo-Law)  
@@ -21,9 +21,9 @@ Though once believed to be an impartial tool, many scholars now propose that the
 
 ---
 
-# **I. Design & Function**
+## I. Design & Function
 
-## **Action Echoing**
+### Action Echoing
 
 Every sanctioned Delve generates **etheric echoes**, the metaphysical fingerprints of action within the Labyrinths.  
 These echoes are intercepted by a continental lattice of:
@@ -37,7 +37,7 @@ These echoes are intercepted by a continental lattice of:
 
 The Core receives these streams in real time.
 
-### **Echoes Commonly Recorded**
+#### Echoes Commonly Recorded
 
 - Monster auras, curse signatures, spell discharges
     
@@ -52,23 +52,23 @@ To the Core, a battle is not noise—it is a **pattern**, and patterns are truth
 
 ---
 
-## **Calculative Judgment**
+### Calculative Judgment
 
 Once a delve concludes—or upon death—the Core initiates a **multi-layered evaluative sequence**:
 
-### **1. Energetic Footprint**
+#### 1. Energetic Footprint
 
 Assesses survival difficulty, magical throughput, and threat resolution.
 
-### **2. Relic & Hazard Impact**
+#### 2. Relic & Hazard Impact
 
 Whether the delver neutralized breaches, awakened ancient entities, or removed cursed objects from circulation.
 
-### **3. Audience Imprint**
+#### 3. Audience Imprint
 
 Cross-weights livecast sentiment, ethical perception, and spectacle value (when applicable).
 
-### **4. Historical Benchmarking**
+#### 4. Historical Benchmarking
 
 Compares the delve against Core-archived anomalies, prior events, and known labyrinth patterns.
 
@@ -76,7 +76,7 @@ These results recalibrate the delver’s **UDMI Score** and may shift their form
 
 ---
 
-# **II. Rank Assignment Metrics**
+## II. Rank Assignment Metrics
 
 |**Rank**|**Core Score Range**|**Reputation Tier**|**Typical Achievements**|
 |---|---|---|---|
@@ -90,9 +90,9 @@ Each evaluation is treated as an **act of judicial record**, archived for Minist
 
 ---
 
-# **III. Ascendancy Trials**
+## III. Ascendancy Trials
 
-### _When Skill Outpaces Fame, the Core Calls the Worthy_
+#### _When Skill Outpaces Fame, the Core Calls the Worthy_
 
 For delvers whose capability exceeds public visibility—or those seeking advancement outside spectacle—the Arcanet Core offers **Ascendancy Trials**, private simulations woven from recorded labyrinth memory.
 
@@ -113,7 +113,7 @@ Only the Core—and the truth it sees in you.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities Division (Arcane Infrastructure Registry)**  

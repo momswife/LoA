@@ -1,4 +1,4 @@
-# **Sub-Regional Politics of Bat’yan**
+# Sub-Regional Politics of Bat’yan
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Decentralized Societies & Local Governance)_  
 **Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Cultural Memory)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of the Bat’yan**
+## I. Political Identity of the Bat’yan
 
 The Bat’yan is not a state.
 
@@ -21,7 +21,7 @@ To those who live there, they are simply **human-scaled**.
 
 ---
 
-## **II. Barangays & Local Authority**
+## II. Barangays & Local Authority
 
 The foundation of Bat’yan governance is the **barangay**.
 
@@ -42,7 +42,7 @@ The datu’s authority is personal, conditional, and revocable. A datu who loses
 
 ---
 
-## **III. The Raja: Voice Without a Throne**
+## III. The Raja: Voice Without a Throne
 
 Above the barangays stands the **raja**—and even then, only barely.
 
@@ -62,7 +62,7 @@ The raja serves **at the pleasure of the barangays**. If they act against the co
 
 ---
 
-## **IV. Relationship with the Beylik**
+## IV. Relationship with the Beylik
 
 The greatest external pressure on the Bat’yan comes from **Arneria’s Beylik**.
 
@@ -77,7 +77,7 @@ The Bat’yan resists not with rebellion, but with **inertia**.
 
 ---
 
-## **V. Law, Justice & Social Enforcement**
+## V. Law, Justice & Social Enforcement
 
 Bat’yan law is unwritten but well understood.
 
@@ -92,7 +92,7 @@ There are no grand courts—only circles of witnesses.
 
 ---
 
-## **VI. Faith & Political Culture**
+## VI. Faith & Political Culture
 
 Faith in the Bat’yan is inseparable from governance.
 
@@ -107,7 +107,7 @@ Under the Quiet Edict, the Bat’yan did not change much. The gods were never di
 
 ---
 
-## **VII. Delvers, the Labyrinths, and Necessity**
+## VII. Delvers, the Labyrinths, and Necessity
 
 The Labyrinths have struck Bat’yan lands hard.
 
@@ -122,27 +122,27 @@ Barangays welcome delvers pragmatically—but never blindly. Aid is accepted. Au
 
 ---
 
-## **VIII. External Perception**
+## VIII. External Perception
 
-### **Arneria**
+### Arneria
 
 Sees the Bat’yan as inefficient and unruly.
 
-### **Vinyot**
+### Vinyot
 
 Views the region as underdeveloped but culturally rich.
 
-### **Allemance**
+### Allemance
 
 Finds the Bat’yan familiar in its love of local rule.
 
-### **Oria**
+### Oria
 
 Respects Bat’yan resilience and self-sufficiency.
 
 ---
 
-## **IX. The MDO’s Role**
+## IX. The MDO’s Role
 
 The **Ministry of Delving Operations** is one of the few external bodies tolerated widely.
 
@@ -157,7 +157,7 @@ This earns it cautious trust.
 
 ---
 
-## **X. Political Character of the Bat’yan**
+## X. Political Character of the Bat’yan
 
 The Bat’yan endures because it refuses to harden.
 
@@ -167,7 +167,7 @@ It bends, adapts, and absorbs pressure rather than confronting it directly. No s
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

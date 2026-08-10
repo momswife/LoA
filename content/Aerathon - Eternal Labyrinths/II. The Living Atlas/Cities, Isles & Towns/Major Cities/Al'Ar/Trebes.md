@@ -1,3 +1,5 @@
+# Trebes
+
 ### _The Three Babes — “We Do Not Go Where the Water Refuses Us.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Maritime Cities & Anomalous Coastlines)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Trebes**, known collectively as **the Three Babes**, is an offshore dock-city spread across the outer coasts of three closely clustered islands in **Al’Ar**. Unlike most island settlements, Trebes does not cling to its shoreline. Instead, it reaches outward—its docks and platforms extending far into deep water along winding, ever-changing routes.
 
@@ -19,11 +21,11 @@ Fewer still return unchanged.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Trebes is defined by **avoidance as design**.
 
-### **The Outer Platforms**
+### The Outer Platforms
 
 - Vast wooden and stone dockworks reaching far beyond the coast
     
@@ -34,7 +36,7 @@ Trebes is defined by **avoidance as design**.
 
 The result is a city that resists mapping and refuses permanence.
 
-### **The Inner Shores**
+### The Inner Shores
 
 The islands themselves are sparsely developed:
 
@@ -49,7 +51,7 @@ Children are taught early: _“The shore is enough.”_
 
 ---
 
-## **III. History**
+## III. History
 
 Trebes began as a conventional island port, but early settlers quickly learned that the islands’ interiors were **unwelcoming in ways that defied explanation**. Initial inland expansion attempts ended quietly—no great disasters, just enough loss and unease to discourage repetition.
 
@@ -72,7 +74,7 @@ In recent centuries, the stories have grown stranger. Where once there were vagu
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Trebes has no central authority.
 
@@ -87,7 +89,7 @@ Any proposal involving inland expansion is rejected immediately—often without 
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Trebes survives on what lies **beyond** and **below**.
 
@@ -113,7 +115,7 @@ Trade vessels are required to dock only along approved outer routes.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Trebes is **preventative rather than devotional**.
 
@@ -131,7 +133,7 @@ Many families maintain private warding traditions passed down through generation
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Trebes enforces law through **collective refusal**.
 
@@ -146,7 +148,7 @@ Defense is achieved by distance, dispersion, and awareness.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Trebes does not seek the Labyrinths.
 
@@ -161,7 +163,7 @@ The city treats unknown spaces as **warnings, not invitations**.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -175,7 +177,7 @@ Trebes influences others primarily through **what it refuses to exploit**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Trebes endures by **not demanding answers**.
 
@@ -183,7 +185,7 @@ Whether the inner islands are haunted, cursed, or misunderstood matters less tha
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Dock routes are renamed yearly after bad dreams
     
@@ -196,7 +198,7 @@ Whether the inner islands are haunted, cursed, or misunderstood matters less tha
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Maritime Cities & Anomalous Coastlines)**  

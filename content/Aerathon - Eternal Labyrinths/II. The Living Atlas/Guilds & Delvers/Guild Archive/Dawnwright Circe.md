@@ -3,7 +3,7 @@
 
 ---
 ![[f98dfd19-4ffc-48a6-b5cb-0812a2a00f6f.png]]
-# **The Dawnwright Circe**
+# The Dawnwright Circe
 
 ### _C-Class Apprentice Guild — “Where Every Torch Begins.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Dawnwright Circe** is the Ministry’s most enduring **training guild**, an officially sanctioned C-Class organization operating across Aerathon’s major cities as the **first step in every delver’s career**.  
 It exists not to amass wealth or renown, but to prepare souls — teaching basic survival, ethics, and teamwork before recruits earn their official guild sponsorship.
@@ -27,7 +27,7 @@ To delvers, it’s the closest thing they’ll ever have to a childhood.
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | C-Class Apprentice / Educational Guild |  
 | **Affiliation** | MDO-Sponsored (Free Company partnership) |  
@@ -39,7 +39,7 @@ To delvers, it’s the closest thing they’ll ever have to a childhood.
 
 ---
 
-## **III. Founding & Purpose**
+## III. Founding & Purpose
 
 The Dawnwright Circe was established by the early **Free Company of Louvain** as a solution to a tragic problem: new delvers were dying before their first sunrise underground.  
 Marshal Ysella Brant and Instructor Maraen Vale co-authored the **First Light Curriculum**, emphasizing mental preparation over martial prowess.
@@ -52,7 +52,7 @@ Since its inception, the Circe has reduced labyrinth entry fatalities among new 
 
 ---
 
-## **IV. Curriculum & Instruction**
+## IV. Curriculum & Instruction
 
 The Circe teaches a holistic method known as the **Three Lights Doctrine**, representing the essentials of a delver’s foundation:
 
@@ -69,9 +69,9 @@ Graduation culminates with the **Torchwalk Ceremony**, where initiates carry a s
 
 ---
 
-## **V. Staff & Mentorship**
+## V. Staff & Mentorship
 
-### **Senior Faculty**
+### Senior Faculty
 
 |**Name**|**Position**|**Notes**|
 |---|---|---|
@@ -84,7 +84,7 @@ Each student is assigned a **Mentor Guild** partnership during their final term,
 
 ---
 
-## **VI. Relationship with the Ministry**
+## VI. Relationship with the Ministry
 
 The Dawnwright Circe operates under **direct Ministry oversight**, functioning as a hybrid of academy and welfare institution.  
 Its funding comes primarily from the **Ministry Education Reserve**, supplemented by guild tithes from those employing its graduates.
@@ -97,7 +97,7 @@ Lt. Korrin describes it as:
 
 ---
 
-## **VII. Affiliations & Relationships**
+## VII. Affiliations & Relationships
 
 |**Guild**|**Relationship**|**Context**|
 |---|---|---|
@@ -110,7 +110,7 @@ The Circe remains politically neutral, often serving as a common ground for othe
 
 ---
 
-## **VIII. Facilities**
+## VIII. Facilities
 
 - **The Hearthhall:** Central academy and dormitory; includes classrooms, training pits, and the Proving Halls.
     
@@ -123,7 +123,7 @@ Each facility is built for comfort, not spectacle; walls lined with old torches 
 
 ---
 
-## **IX. Symbolism & Rituals**
+## IX. Symbolism & Rituals
 
 - **Emblem:** A radiant sunburst encircling a small torch — “The first light of many.”
     
@@ -139,7 +139,7 @@ Each facility is built for comfort, not spectacle; walls lined with old torches 
 
 ---
 
-## **X. Public Perception**
+## X. Public Perception
 
 |**Group**|**Sentiment**|**Summary**|
 |---|---|---|
@@ -150,7 +150,7 @@ Many Aerathonians have never delved but still attend the Torchwalk each year, li
 
 ---
 
-## **XI. Outlook**
+## XI. Outlook
 
 The Circe remains stable and vital in the Age of Spectacle, though its humble image is increasingly overshadowed by the flashier Argent Banner and Emberlight Union.  
 Still, as Marshal Brant once said:
@@ -159,7 +159,7 @@ Still, as Marshal Brant once said:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

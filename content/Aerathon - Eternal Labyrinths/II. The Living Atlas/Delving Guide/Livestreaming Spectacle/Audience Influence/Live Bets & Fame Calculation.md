@@ -3,7 +3,7 @@
 
 ---
 
-# **Live Bets & Fame Calculation**
+# Live Bets & Fame Calculation
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Spectacle Economics Bureau)_  
 **Primary Compiler:** Director Halin Drauve (Guild Economics & Market Regulation)  
@@ -25,7 +25,7 @@ As such, both are rigorously regulated by the Ministry of Delving Operations and
 
 ---
 
-# **I. Definition of Live Bets**
+## I. Definition of Live Bets
 
 Live Bets are **real-time audience wagers** placed during ongoing delves and broadcast events, transmitted through:
 
@@ -63,27 +63,27 @@ The Ministry monitors all betting exchanges to prevent illegal interference.
 
 ---
 
-# **II. Authorized Betting Platforms**
+## II. Authorized Betting Platforms
 
 Only the following platforms may facilitate legal Live Bet exchanges:
 
-### **1. Ministerial Wagering Terminals (MWTs)**
+#### 1. Ministerial Wagering Terminals (MWTs)
 
 Official public kiosks integrated with Oculi and UDMI tracking.
 
-### **2. Guildstream Regulated Halls**
+#### 2. Guildstream Regulated Halls
 
 Guild-run betting chambers with embedded anti-fraud glyphs.
 
-### **3. Noble Bonded Markets**
+#### 3. Noble Bonded Markets
 
 Private channels requiring Ministerial registration and luxury license.
 
-### **4. Arcanet Theatre Betloops**
+#### 4. Arcanet Theatre Betloops
 
 Large-scale public venues where crowd sentiment heavily influences odds.
 
-### **5. Divine Oculi Metrics Feeds**
+#### 5. Divine Oculi Metrics Feeds
 
 Live predictive odds calculated from divine observation patterns.
 
@@ -91,25 +91,25 @@ Betting outside of these channels qualifies as **Black-Bet Fraud**, punishable u
 
 ---
 
-# **III. Prohibited Betting Practices**
+## III. Prohibited Betting Practices
 
-### **1. Reliquary Manipulation Wagers**
+#### 1. Reliquary Manipulation Wagers
 
 Bets placed on forced relic extraction or smuggling.
 
-### **2. Injury Manipulation Bets**
+#### 2. Injury Manipulation Bets
 
 Any wager contingent on self-harm, team sabotage, or staged downfall.
 
-### **3. Sentiment Coercion Bets**
+#### 3. Sentiment Coercion Bets
 
 Using charm or emotion magic to influence audience voting.
 
-### **4. Collusion-Based Outcomes**
+#### 4. Collusion-Based Outcomes
 
 Bribes, planned losses, or deliberately thrown delves.
 
-### **5. Oculi-Bribing**
+#### 5. Oculi-Bribing
 
 Attempting to sway divine observation patterns.
 
@@ -117,7 +117,7 @@ These practices are high offenses with severe penalties.
 
 ---
 
-# **IV. Fame Calculation Overview**
+## IV. Fame Calculation Overview
 
 The **Fame Engine** is a sealed arcane algorithm developed jointly by:
 
@@ -145,15 +145,15 @@ Fame is not charisma—it’s public gravitational pull.
 
 ---
 
-# **V. Factors That Influence Fame Scores**
+## V. Factors That Influence Fame Scores
 
 Fame is calculated through six weighted categories:
 
-## **1. Viewer Retention (25%)**
+### 1. Viewer Retention (25%)
 
 Measures how long an audience stays watching a specific delver.
 
-## **2. Emotional Resonance (20%)**
+### 2. Emotional Resonance (20%)
 
 Assesses sentimental data from viewers:
 
@@ -168,11 +168,11 @@ Assesses sentimental data from viewers:
 - Shock
     
 
-## **3. Combat Artistry (15%)**
+### 3. Combat Artistry (15%)
 
 Stylish kills, innovative tactics, or memorable maneuvers.
 
-## **4. Ethical Clarity (10%)**
+### 4. Ethical Clarity (10%)
 
 Fame increases when delvers:
 
@@ -183,21 +183,21 @@ Fame increases when delvers:
 - Reject unethical shortcuts
     
 
-## **5. Relic Showmanship (15%)**
+### 5. Relic Showmanship (15%)
 
 Proper usage of relics, dramatic unlocks, or visually striking effects.
 
-## **6. Sponsorship Response (15%)**
+### 6. Sponsorship Response (15%)
 
 How markets, guilds, and brands react to the delver’s performance.
 
 ---
 
-# **VI. Live Bets’ Direct Influence on Fame**
+## VI. Live Bets’ Direct Influence on Fame
 
 Live Bets feed into the Fame Engine in the following ways:
 
-### **Positive Impact**
+#### Positive Impact
 
 - **High betting volume** signals cultural relevance
     
@@ -206,7 +206,7 @@ Live Bets feed into the Fame Engine in the following ways:
 - **Reverse odds victories** trigger Fame Engine “Shock Events”
     
 
-### **Negative Impact**
+#### Negative Impact
 
 - **Betting drops mid-delve** lower perception
     
@@ -216,19 +216,19 @@ Live Bets feed into the Fame Engine in the following ways:
     
 
 The Ministry classifies excessive volatility as **Spectacle Unrest** and may intervene.
-___
+---
 
-# **VII. Monitoring & Enforcement**
+## VII. Monitoring & Enforcement
 
-### **1. Spectacle Integrity Division (SID)**
+#### 1. Spectacle Integrity Division (SID)
 
 Investigates fraud, sentiment manipulation, and illegal odds alteration.
 
-### **2. ABA Fraudcatcher Glyphs**
+#### 2. ABA Fraudcatcher Glyphs
 
 Detect charm magic, emotional interference, and illusory tampering.
 
-### **3. Ministerial Odds Auditors**
+#### 3. Ministerial Odds Auditors
 
 Review betting patterns for:
 
@@ -241,7 +241,7 @@ Review betting patterns for:
 - Predictive anomaly alignment
     
 
-### **Penalties Include:**
+#### Penalties Include:
 
 - 10,000–40,000 gold fines
     
@@ -254,7 +254,7 @@ Review betting patterns for:
 
 ---
 
-# **VIII. Why Live Bets & Fame Calculation Matter**
+## VIII. Why Live Bets & Fame Calculation Matter
 
 Together, Live Bets and Fame Calculation shape:
 
@@ -274,7 +274,7 @@ They are **the tides of belief**, and the Ministry ensures those tides do not sw
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Spectacle Economics Bureau)**  

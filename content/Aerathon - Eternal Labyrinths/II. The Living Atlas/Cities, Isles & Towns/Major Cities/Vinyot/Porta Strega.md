@@ -1,3 +1,5 @@
+# Porta Strega
+
 ### _The City of Reflections — “What You See Is Not Always What Watches Back.”_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Urban Anomalies & Cultural Liminal Zones)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Porta Strega** is a midsized city of **southern Vinyot**, situated along the wide estuary of the **Quest River**. Known throughout Aerathon as a place where boundaries feel thin, the city has cultivated a reputation for superstition, reflection, and quiet vigilance rather than fear or hysteria.
 
@@ -21,11 +23,11 @@ While officially classified as a trade and transit city, Porta Strega’s identi
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Porta Strega occupies a shallow basin where fog lingers long into the morning.
 
-### **Urban Layout**
+### Urban Layout
 
 - Narrow, winding streets designed to limit long sightlines
     
@@ -36,19 +38,19 @@ Porta Strega occupies a shallow basin where fog lingers long into the morning.
 
 The city’s stone contains natural flecks that distort reflected light. Local architects lean into this effect rather than suppressing it.
 
-### **River Access**
+### River Access
 
 The Quest River delivers travelers directly into the city with little transitional space, contributing to Porta Strega’s reputation as a place one _enters abruptly_.
 
 ---
 
-## **III. History**
+## III. History
 
 Porta Strega began as an unremarkable river junction town until its artisans developed reliable methods for producing **high-quality mirrors and optical glass**. These tools found early use in signaling, illusion work, and theatrical magic.
 
 As trade increased, so did superstition. Rather than outlawing ritual behaviors that arose organically, the city formalized them into custom and later law. This decision prevented panic, fraud, and sectarian conflict—and shaped Porta Strega into a place where belief is **regulated rather than denied**.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1028 A.D.** — Establishment of the first Stregan Glass Hall.
     
@@ -61,7 +63,7 @@ As trade increased, so did superstition. Rather than outlawing ritual behaviors 
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Porta Strega is governed by a conventional **Vinyotian civic council**, supplemented by specialized regulatory bodies.
 
@@ -76,7 +78,7 @@ Governance focuses on **containment and clarity**, not suppression.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Porta Strega’s economy is built around perception.
 
@@ -95,7 +97,7 @@ The city exports tools of seeing—and sells the experience of being watched saf
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Porta Strega is personal, symbolic, and restrained.
 
@@ -112,7 +114,7 @@ Many residents practice what outsiders call superstition; locals call it **good 
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law enforcement is precise and quiet.
 
@@ -127,7 +129,7 @@ Violence is rare. Disruption is not tolerated.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Porta Strega has **no confirmed Labyrinth entrances** within city bounds.
 
@@ -144,7 +146,7 @@ The MDO has not established causation—but correlation remains under review.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -158,7 +160,7 @@ Porta Strega shapes how Aerathon **interprets uncertainty**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Porta Strega believes that mystery is safest when named.
 
@@ -168,7 +170,7 @@ The city does not deny what makes it strange. It organizes it, regulates it, and
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Mirrors are angled away from beds by law
     
@@ -181,9 +183,9 @@ The city does not deny what makes it strange. It organizes it, regulates it, and
 
 ---
 
-## **XII. The Calorwood & the Netherworld**
+## XII. The Calorwood & the Netherworld
 
-### **The Calorwood**
+### The Calorwood
 
 The **Calorwood** is the dense maple forest bordering Porta Strega along the Quest River. It is treated as both a natural preserve and a sensitive boundary zone.
 
@@ -198,7 +200,7 @@ Notable traits include:
 
 Hunting and ritual activity within the forest are heavily restricted.
 
-### **Netherworld Prominence**
+### Netherworld Prominence
 
 Porta Stregans widely believe the **Netherworld is unusually prominent** here—not breached, but close.
 
@@ -217,7 +219,7 @@ The MDO classifies the area as a **persistent liminal instability**, not a confi
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

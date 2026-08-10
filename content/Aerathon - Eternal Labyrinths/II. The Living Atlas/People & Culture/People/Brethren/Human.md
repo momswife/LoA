@@ -194,17 +194,39 @@ Do not assume a surname indicates blood relationship. Do not treat Human names a
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Human ancestry traits for creature type, size, speed, languages, and other core features.
+### Creature Type
 
-The Homeland Traits below represent regional upbringing. They supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
 
-Human flexibility does not permit a character to collect multiple Homeland Traits unless a campaign rule explicitly says so.
+### Ability Score Increase
+
+Increase one ability score of your choice by 2 and a different ability score by 1.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Human ancestry traits for languages and other core features.
 
 ---
 
-## X. Homeland Traits
+## X. Recognized Sublineages
+
+Humans have no distinct inherited sublineages in the current Aerathon rules. Human variation is represented through individual ability choices and Homeland Imprints, not biological categories.
+
+Human flexibility does not permit a character to collect multiple Homeland Imprints unless a campaign rule explicitly says so.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — Courtly Cunning
 
@@ -228,7 +250,7 @@ You are proficient with vehicles (water) and have advantage on Dexterity (Sleigh
 
 ---
 
-## XI. Playing a Human
+## XII. Playing a Human
 
 Consider:
 
@@ -249,7 +271,7 @@ Possibility is not obligation.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Human lineage does not constitute a cultural default, neutral perspective, universal body type, or automatic qualification for leadership.

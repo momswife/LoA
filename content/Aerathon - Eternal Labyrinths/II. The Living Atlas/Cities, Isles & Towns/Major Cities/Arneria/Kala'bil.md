@@ -1,3 +1,5 @@
+# Kala'bil
+
 ### _The Shieldward City — “We Stand So the Forest Does Not Advance.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Militarized Settlements & Anomalous Frontiers)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Kala’bil** stands at the **northernmost point of the Causeway’s Shield Ring**, a hexagonal loop of fortification built to halt the advance of the **Blackwild**—an unnatural scar in Aerathon where corruption, undeath, and demonic influence bleed into the living world.
 
@@ -21,11 +23,11 @@ The city is both **fortress and sanctuary**, serving as the **headquarters of th
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Kala’bil is enclosed within the **Shield Ring**, a massive Causeway fortification whose walls form a defensive hexagon against the encroaching forest.
 
-### **The Shield Ring**
+### The Shield Ring
 
 - Elevated ramparts manned at all hours
     
@@ -36,7 +38,7 @@ Kala’bil is enclosed within the **Shield Ring**, a massive Causeway fortificat
 
 From the walls, the Blackwild can be felt more than seen—its presence a pressure behind the eyes.
 
-### **City Layout**
+### City Layout
 
 - **Upper Levels:** Bethels, paladin outposts, ritual chambers
     
@@ -49,7 +51,7 @@ Stone dominates all construction. Wood is used sparingly and warded heavily.
 
 ---
 
-## **III. History**
+## III. History
 
 Kala’bil was founded in response to fear—and refined through endurance.
 
@@ -57,7 +59,7 @@ When the Blackwild’s influence began to creep outward, early patrol forts prov
 
 Over centuries, the city evolved from garrison to **theological and historical stronghold**. Knowledge became as vital as steel. The Dramphinians centralized their command here, and the Church of the Moon Wolf turned Kala’bil into both armory and archive.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1322 A.D.** — Initial fortification of the Shield Ring in response to Blackwild expansion.
     
@@ -72,7 +74,7 @@ Kala’bil has never known peace—only readiness.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Kala’bil operates under a **dual authority structure**:
 
@@ -85,7 +87,7 @@ Civil administration exists but remains subordinate to defense priorities.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Kala’bil’s economy is functional and inward-facing.
 
@@ -104,7 +106,7 @@ Luxury goods are rare. Purpose is currency.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith defines Kala’bil’s rhythm.
 
@@ -121,7 +123,7 @@ The **Moon Wolf** is revered not as a distant god, but as an ideal of vigilance,
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Kala’bil enforces the strictest law on the Causeway.
 
@@ -136,7 +138,7 @@ Defense is layered, ritualized, and relentless.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Kala’bil maintains **active hostility** toward Labyrinth activity.
 
@@ -151,7 +153,7 @@ The city tolerates curiosity only when it serves containment.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -165,7 +167,7 @@ Kala’bil influences Aerathon by **preventing something worse**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Kala’bil is not a city people dream of visiting.  
 It is a city people are grateful exists.
@@ -176,7 +178,7 @@ Its legacy is measured not in conquest, but in how long the Blackwild has been h
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Paladins learn meditation before swordplay
     
@@ -189,7 +191,7 @@ Its legacy is measured not in conquest, but in how long the Blackwild has been h
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Militarized Settlements & Anomalous Frontiers)**  

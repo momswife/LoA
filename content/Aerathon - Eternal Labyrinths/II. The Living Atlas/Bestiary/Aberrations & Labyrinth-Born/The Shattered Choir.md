@@ -3,7 +3,7 @@
 
 ---
 
-# **The Shattered Choir**
+# The Shattered Choir
 
 ### _Vocal Fragments of the Divine — “Where Every Voice Is a Wound.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Shattered Choir** is a collective aberration composed of disembodied vocal cords, spectral throats, and resonant phantoms bound by fractured melody.  
 First encountered within the **Cathedral of Stained Silence** (beneath the Verges of Ash), the Choir manifests wherever divine music, mass prayer, or relic-grade hymnal energy has been catastrophically interrupted.
@@ -25,7 +25,7 @@ It is not one creature, but a **colony of surviving notes**, each echo longing t
 
 ---
 
-## **II. Physical & Auditory Description**
+## II. Physical & Auditory Description
 
 The Choir has **no stable form**; to most it appears as drifting ribbons of light and translucent flesh coiling through air like smoke in reverse.  
 When seen through divination glass, hundreds of **floating larynx-like structures** can be observed vibrating in unison.
@@ -41,7 +41,7 @@ When approached, the Choir sings back whatever words it hears, slightly delayed,
 
 ---
 
-## **III. Behavior & Feeding**
+## III. Behavior & Feeding
 
 The Shattered Choir feeds on **devotion** — not the energy of worship itself, but the _break_ that follows disbelief.  
 It hunts ruined temples, collapsed cathedrals, and abandoned shrines, absorbing the despair and doubt left behind by forsaken clergy.
@@ -61,7 +61,7 @@ It hunts ruined temples, collapsed cathedrals, and abandoned shrines, absorbing 
 
 ---
 
-## **IV. Habitat & Distribution**
+## IV. Habitat & Distribution
 
 Recorded manifestations:
 
@@ -78,7 +78,7 @@ In rare instances, smaller “Choristers” detach and drift toward urban bell t
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin reports that Choir presence destabilizes all **sound-based containment runes**, turning silence wards into amplifiers.  
 Inspector Vell’s harmonic dissections show every individual tone contains a full harmonic “map” of its origin priest — suggesting the Choir preserves perfect emotional memory, not mere sound.
@@ -87,7 +87,7 @@ During controlled playback of captured notes, 42% of listeners exhibited spontan
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -99,7 +99,7 @@ During controlled playback of captured notes, 42% of listeners exhibited spontan
 
 ---
 
-## **VII. Effects of Exposure**
+## VII. Effects of Exposure
 
 - Progressive aphonia (loss of voice).
     
@@ -114,7 +114,7 @@ Treatment includes **holy salt infusion** and prolonged isolation from all music
 
 ---
 
-## **VIII. Associated Artifacts**
+## VIII. Associated Artifacts
 
 |**Item**|**Description**|**Hazard Class**|
 |---|---|---|
@@ -125,7 +125,7 @@ Stored in Vault #84, Louvain Branch — triple seal Stonevoice / Korrin / Vell.
 
 ---
 
-## **IX. Containment & Risk Protocol**
+## IX. Containment & Risk Protocol
 
 - **Classification:** Level IV — Cognitive / Theological Resonance Hazard.
     
@@ -140,7 +140,7 @@ Stored in Vault #84, Louvain Branch — triple seal Stonevoice / Korrin / Vell.
 
 ---
 
-## **X. Cultural & Religious Notes**
+## X. Cultural & Religious Notes
 
 - **Clerics of Lathander** believe the Choir to be remnants of angels who sang through collapse and were forgotten by their gods.
     
@@ -153,7 +153,7 @@ The Order of the Muted Sun maintains an annual vigil in complete silence to “l
 
 ---
 
-## **XI. Summary**
+## XI. Summary
 
 The **Shattered Choir** is Aerathon’s eternal hymn to loss — the sound left behind when belief breaks.  
 It is proof that even silence has a memory, and that divinity, once fragmented, becomes hunger.  
@@ -161,7 +161,7 @@ To banish it is not victory; it is mercy — a moment of rest between verses of 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Aberrant Phenomena Registry)**  

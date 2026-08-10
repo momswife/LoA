@@ -4,7 +4,7 @@
 
 ---
 ![[430c5505-2b1d-4d81-b3f5-f4469572c8cb.png]]
-# **The Cinderpaw Pact**
+# The Cinderpaw Pact
 
 ### _Sovereign Beastfolk Guild-State — “What was Forged in Flame Cannot Be Broken.”_
 
@@ -17,7 +17,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Cinderpaw Pact** is more than a guild—it is a **Beastfolk nation-state** founded in deliberate defiance of Brethren hierarchy and Ministry oversight.  
 Born from the ashes of centuries of servitude, exploitation, and cultural erasure, the Pact represents a unified front of Beastfolk tribes reclaiming ancestral dignity through delving.
@@ -25,25 +25,25 @@ Born from the ashes of centuries of servitude, exploitation, and cultural erasur
 Where most guilds seek wealth or spectacle, the Pact delves for **remembrance**.  
 Each labyrinth conquered is a wound cauterized, each relic recovered a **fragment of stolen history restored.**
 
-### **Headquarters:**
+### Headquarters:
 
 **Ashglen Bastion**, Emberwatch Cliffs, Northern Arneria — a sovereign enclave fortified with molten wards and echo-wardsong sentries.
 
-### **Guild Type:**
+### Guild Type:
 
 Beastfolk-Only Sovereign Pact (Unaffiliated with the Guild Alliance)
 
-### **Symbol:**
+### Symbol:
 
 A **wolf head howling to a moon engulfed in flames** — representing unity in suffering and endurance through fire.
 
-### **Leadership Titles:**
+### Leadership Titles:
 
 _The Elder Flame Council_, or more formally the **Ember Council of Ashglen.**
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | Sovereign Delver Syndicate (Beastfolk Exclusive) |  
 | **Affiliation** | Independent / Non-Chartered |  
@@ -55,7 +55,7 @@ _The Elder Flame Council_, or more formally the **Ember Council of Ashglen.**
 
 ---
 
-## **III. Founding & History**
+## III. Founding & History
 
 The Cinderpaw Pact was forged in the **aftermath of the Chain Wars**, when surviving Beastfolk freed from Brethren bondage swore an oath before a shared pyre:
 
@@ -68,9 +68,9 @@ The Pact’s founding brands—the **Embermarks**—burn upon every member’s s
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
-### **The Ember Council of Ashglen**
+### The Ember Council of Ashglen
 
 A council of five governs the Pact, each representing a primal virtue of the Beastfolk lineages: strength, wisdom, vigilance, memory, and unity.
 
@@ -86,9 +86,9 @@ A flame’s pattern of rise determines consensus, interpreted by the Matriarch.
 
 ---
 
-## **V. Ideology & Beliefs**
+## V. Ideology & Beliefs
 
-### **Core Tenets**
+### Core Tenets
 
 1. **Blood and Memory** — Each delver is a living heirloom; scars are sacred.
     
@@ -105,9 +105,9 @@ To them, delving is not adventure—it is ancestral ritual. Each descent is a **
 
 ---
 
-## **VI. Membership & Practices**
+## VI. Membership & Practices
 
-### **Who Joins**
+### Who Joins
 
 - **Outcasts and Orphans:** Beastfolk denied heritage or purpose under Brethren law.
     
@@ -118,7 +118,7 @@ To them, delving is not adventure—it is ancestral ritual. Each descent is a **
 - **Revenant Seekers:** Beastfolk who claim to hear ancestral whispers inside the Labyrinths.
     
 
-### **Initiation — The Emberbrand Rite**
+### Initiation — The Emberbrand Rite
 
 Recruits enter the **Cinderhall** bare-handed.  
 A brand forged from their blood and ash is pressed to the heart; if the mark burns without fading for three days, they are accepted.  
@@ -126,9 +126,9 @@ Those whose flames extinguish are said to have been “reclaimed by the ancestor
 
 ---
 
-## **VII. Facilities & Holdings**
+## VII. Facilities & Holdings
 
-### **Ashglen Bastion**
+### Ashglen Bastion
 
 - **The Emberwatch Cliffs:** Natural defense and sacred battleground for ancestral duels.
     
@@ -141,9 +141,9 @@ Those whose flames extinguish are said to have been “reclaimed by the ancestor
 
 ---
 
-## **VIII. Relationships with Other Powers**
+## VIII. Relationships with Other Powers
 
-### **The Ministry of Delving Operations**
+### The Ministry of Delving Operations
 
 Officially classified as a **Non-Compliant Sovereign Entity**, the Cinderpaw Pact pays no taxes and files no expedition reports.  
 However, due to their control over several northern labyrinths, the Ministry tolerates their autonomy in exchange for stability.  
@@ -152,24 +152,24 @@ Direct interference is forbidden under **Decree 872-A**, negotiated personally b
 > _“They cannot be ruled. They can only be respected—or burned.”_  
 > — Lt. Korrin, Breach Debrief 1418 A.D.
 
-### **The Argent Banner**
+### The Argent Banner
 
 Hostile. The Pact accuses the Banner of **cultural theft**, citing over two dozen relics of Beastfolk origin “rebranded” under Brethren ownership.  
 The Pact maintains a secret recovery ledger known as **The Red Inventory**, listing every artifact to be reclaimed “by tooth or torch.”
 
-### **The Free Company of Louvain**
+### The Free Company of Louvain
 
 Cautious Neutrality. The Company respects the Pact’s sovereignty but has condemned its exclusionary policies.  
 Joint rescue efforts occasionally occur when labyrinth boundaries overlap.
 
-### **The Crimson Reavers**
+### The Crimson Reavers
 
 Uneasy Respect. The Reavers view the Pact as kin through violence, but fear their fanaticism.  
 Reaver contracts in Arneria often include clauses explicitly avoiding Ashglen territory.
 
 ---
 
-## **IX. Economy & Relic Trade**
+## IX. Economy & Relic Trade
 
 The Cinderpaw Pact refuses to sell Beastfolk relics.  
 All recovered artifacts are catalogued in the Hall of Echoes and used for educational or ceremonial study only.  
@@ -179,7 +179,7 @@ Their forges produce **Ashbound Steel**, known to absorb flame without melting�
 
 ---
 
-## **X. Cultural Practices**
+## X. Cultural Practices
 
 - **Pack Singing:** After every delve, survivors chant their pack’s story to the flames, ensuring memory is preserved orally before rest.
     
@@ -194,7 +194,7 @@ These customs blend faith, craftsmanship, and grief into a seamless identity—h
 
 ---
 
-## **XI. Ministry Evaluation**
+## XI. Ministry Evaluation
 
 **Threat Level:** Moderate-High  
 **Compliance Risk:** Persistent  
@@ -207,7 +207,7 @@ The Ministry classifies them as a **Protected Contradiction**—an entity both u
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Anthropological Review Office)**  

@@ -1,3 +1,5 @@
+# Silette
+
 ### _Mage-Silent Town of the Allemantic Lowlands_
 
 **Region:** **Allemance**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Silette** is the only known settlement in Aerathon where **magic does not function**.
 
@@ -17,7 +19,7 @@ As a result, Silette has grown into a town defined by practicality, self-relianc
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Silette sits on gently rolling Allemantic land, unremarkable at first glance.
 
@@ -34,7 +36,7 @@ The boundary of the dead zone is subtle but consistent. Those who rely on magic 
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 Silette’s economy is resolutely mundane.
 
@@ -51,7 +53,7 @@ Because magic cannot supplement labor, Silette’s crafts are prized for their r
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Silette is governed by a **Civic Council**, elected from established trade households.
 
@@ -66,7 +68,7 @@ While Louvain’s authority is recognized, it intervenes rarely. Silette require
 
 ---
 
-## **V. Labyrinth Pressure (Absent)**
+## V. Labyrinth Pressure (Absent)
 
 No Labyrinth manifestation has ever been recorded within Silette.
 
@@ -76,7 +78,7 @@ Delvers passing through are not questioned publicly. Official discussion of Laby
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 The people of Silette are direct, capable, and quietly proud.
 
@@ -93,7 +95,7 @@ Spellcasters often find the town unsettling. Locals consider that reaction revea
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Soft-spoken requests sometimes reach visiting delvers:
 

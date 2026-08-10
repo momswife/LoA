@@ -4,7 +4,7 @@
 
 ---
 
-# **The Pale Kith**
+# The Pale Kith
 
 ### _Extinct Subterranean Civilization — “When the Deep Forgot How to Return to the Light.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Pale Kith** were a reclusive, long-lived subterranean species who inhabited the **Under-Veins** running beneath eastern Veyra, Malarthain’s lower caverns, and the rim of the Louvain mantle shelf.  
 Blind, bioluminescent, and shaped by millennia of total darkness, the Kith formed a vast, labyrinthine culture built around **echo-navigation, mineral communion, and fear of the sky**.
@@ -27,7 +27,7 @@ They are cataloged as **Type-EXTINCT / Deep-Earth Sapients**, their extinction c
 
 ---
 
-## **II. Physical Description (Reconstructed)**
+## II. Physical Description (Reconstructed)
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -41,20 +41,20 @@ Physical remains are preserved primarily as “**mineral ghosts**” — bodies 
 
 ---
 
-## **III. Culture & Society**
+## III. Culture & Society
 
 The Pale Kith built a civilization in perfect silence, their society oriented around **three foundational pillars**:
 
-### **1. The Stone Choir**
+### 1. The Stone Choir
 
 The spiritual caste who “sang” into bedrock, reading the returning vibrations as prophecy and history.  
 Their hymns shaped caverns into resonant cathedrals.
 
-### **2. The Veinwalkers**
+### 2. The Veinwalkers
 
 Navigators who mapped the Under-Veins by touch and echo, memorizing routes in rhythmic patterns tapped upon cavern walls.
 
-### **3. The Hushkeepers**
+### 3. The Hushkeepers
 
 Guardians of the outer caverns who prevented surface sound and radiant magic from contaminating the inner sanctums.
 
@@ -69,7 +69,7 @@ Guardians of the outer caverns who prevented surface sound and radiant magic fro
 
 ---
 
-## **IV. Abilities & Adaptations**
+## IV. Abilities & Adaptations
 
 The Pale Kith evolved numerous traits suited for a world without light:
 
@@ -86,14 +86,14 @@ The Pale Kith evolved numerous traits suited for a world without light:
 
 ---
 
-## **V. Extinction Event — _The First Dawn_ (Cycle 3012)**
+## V. Extinction Event — _The First Dawn_ (Cycle 3012)
 
 The Pale Kith perished during a forced ascent caused by the **Malarthain Mantle Quake**, which collapsed thousands of miles of tunnels.  
 Survivors fled upward into a world they had not visited in over twenty millennia.
 
 The moment sunlight touched them, their bioluminescent skin **calcified**, their arcane-sensory organs fried from overload, and their harmonic vocal cords shattered.
 
-### **Immediate Effects Observed (per Kith memorial tablets):**
+### Immediate Effects Observed (per Kith memorial tablets):
 
 - Skin crystallization within seconds.
     
@@ -111,7 +111,7 @@ Only one Kith carving survived the event — a warning chiseled blindly into a c
 
 ---
 
-## **VI. Weaknesses (Historical)**
+## VI. Weaknesses (Historical)
 
 |**Vulnerability**|**Explanation**|
 |---|---|
@@ -123,7 +123,7 @@ Their biology was exquisitely tuned to silence, darkness, and stable mana flow �
 
 ---
 
-## **VII. Associated Artifacts**
+## VII. Associated Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -134,7 +134,7 @@ Stored in Vault #112 (Louvain Branch) — dual seal Vell / Korrin.
 
 ---
 
-## **VIII. Ministry Findings**
+## VIII. Ministry Findings
 
 - Residual **humming frequencies** recorded in deep caverns match Kith prayer patterns.
     
@@ -149,7 +149,7 @@ Stored in Vault #112 (Louvain Branch) — dual seal Vell / Korrin.
 
 ---
 
-## **IX. Cultural & Mythic Legacy**
+## IX. Cultural & Mythic Legacy
 
 - **Deep-Oria Miners:** Leave stones arranged in circles to “give the Kith a voice.”
     
@@ -164,7 +164,7 @@ Stored in Vault #112 (Louvain Branch) — dual seal Vell / Korrin.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Pale Kith** were a civilization sculpted by shadow and stone — masters of silence, harmony, and subterranean survival.  
 But the sun they feared eventually found them, and the world they avoided proved too bright to bear.
@@ -176,7 +176,7 @@ In their passing, they left Aerathon a single truth:
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _Annals & Antiquities_ (Extinct Peoples & Subterranean Phenomena Archive)**  

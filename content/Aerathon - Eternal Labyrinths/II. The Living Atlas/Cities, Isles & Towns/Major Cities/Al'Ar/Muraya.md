@@ -1,3 +1,5 @@
+# Muraya
+
 ### _The City of Walls — “We See Far Because We Climb.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Maritime Cities & Vertical Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Muraya** is a vast cliffbound port city on the island of **Sampura**, within **Al’Ar**. Known throughout the archipelago as the **City of Walls**, Muraya stretches for miles along the coastline while rising sharply upward into the porous stone face behind it.
 
@@ -19,11 +21,11 @@ It waits for it.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Muraya exists in a narrow vertical band between sea and stone.
 
-### **Coastal Docks**
+### Coastal Docks
 
 - Long, efficient docklines hugging the base of the cliff
     
@@ -32,7 +34,7 @@ Muraya exists in a narrow vertical band between sea and stone.
 - Minimal wasted shoreline
     
 
-### **The Cliff City**
+### The Cliff City
 
 - Residential tiers cut into the rock face
     
@@ -43,13 +45,13 @@ Muraya exists in a narrow vertical band between sea and stone.
 
 The porous cliff absorbs heat and moisture, casting long afternoon shade across the city and keeping upper districts cool even in peak season.
 
-### **The High Walls**
+### The High Walls
 
 At the uppermost reaches, the city opens into lookout terraces and fortified platforms used exclusively for long-range sighting and weather reading. Access is restricted to trained climbers.
 
 ---
 
-## **III. History**
+## III. History
 
 Muraya began as a modest trading outpost beneath Sampura’s great cliff, selected for its sheltered waters and commanding sightlines. Early settlers found inland expansion impossible; the land behind them rose sheer and unyielding. Instead of retreating, the city adapted upward, carving itself into the wall that confined it.
 
@@ -72,7 +74,7 @@ Today, Muraya’s past is measured not in years, but in terraces. The higher you
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Muraya is governed by the **Wall Council**, composed of:
 
@@ -87,7 +89,7 @@ Authority is merit-based and situational. Those who understand the wall are trus
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Muraya is a logistical and observational hub.
 
@@ -113,7 +115,7 @@ Efficiency, not spectacle, defines Muraya’s economy.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Muraya is subdued and structural.
 
@@ -130,7 +132,7 @@ Culturally, Murayans value restraint, preparedness, and responsibility. Excess i
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Muraya maintains no standing army.
 
@@ -145,7 +147,7 @@ Security is preventative rather than punitive.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Muraya treats the Labyrinths with caution and distance.
 
@@ -160,7 +162,7 @@ The city prefers **foreknowledge** over confrontation.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -174,7 +176,7 @@ Muraya’s influence lies in warning others before disaster arrives.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Muraya believes survival begins with **seeing**.
 
@@ -182,7 +184,7 @@ It does not chase storms, nor does it fear them. It climbs, watches, and prepare
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Children are taught climbing knots before arithmetic
     
@@ -195,7 +197,7 @@ It does not chase storms, nor does it fear them. It climbs, watches, and prepare
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Maritime Cities & Vertical Settlements)**  

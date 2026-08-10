@@ -181,15 +181,39 @@ Use the term the person uses. Do not “correct” Half-Orc to Orc or Orc to Hal
 
 ---
 
-## IX. D&D Lineage Framework
+## IX. D&D Lineage Traits
 
-Use the campaign’s approved Half-Orc or mixed-Orc ancestry traits for creature type, size, speed, resilience, and other core features.
+### Creature Type
 
-The Heritage Traits below represent regional upbringing and supplement or replace the campaign’s normal regional choice as directed by the DM.
+You are a Humanoid.
+
+### Ability Score Increase
+
+Your Strength score increases by 2.
+
+### Size
+
+Your size is Medium.
+
+### Speed
+
+Your walking speed is 30 feet.
+
+### Innate Abilities
+
+Use the campaign’s approved Half-Orc or mixed-Orc ancestry traits for resilience and other core features.
 
 ---
 
-## X. Heritage Traits
+## X. Recognized Sublineages
+
+No distinct Aerathon-specific Half-Orc sublineages are currently documented. Family, self-definition, and homeland do not determine a Half-Orc’s inherited traits.
+
+Regional upbringing is represented by the Homeland Imprints below.
+
+---
+
+## XI. Homeland Imprints
 
 ### Allemance — In the Halls and Gutters
 
@@ -213,7 +237,7 @@ You can hold your breath for up to 10 minutes. In addition, when you take damage
 
 ---
 
-## XI. Playing a Half-Orc
+## XII. Playing a Half-Orc
 
 Consider:
 
@@ -236,7 +260,7 @@ It is not inner conflict by default.
 
 ---
 
-## XII. Registry Advisory
+## XIII. Registry Advisory
 
 > [!note] MDO Registry Advisory  
 > Half-Orc lineage does not indicate aggression, military suitability, criminality, pain tolerance, anger, divided loyalty, or consent to discuss parentage.

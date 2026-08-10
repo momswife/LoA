@@ -1,6 +1,8 @@
 > *“Alles hat ein Ende, nur die Wurst hat zwei!”*
 
-___
+---
+# Huldiberaht Schnofinkel
+
 ### _S-Class Druid of Cataclysmic Impact_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Primal Phenomena Bureau)  
@@ -11,11 +13,11 @@ ___
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Huldiberaht Schnofinkel**, the human druid infamous for turning entire delving chambers into **impact craters**, stands as one of the most controversial S-Class delvers in Aerathonic history. His calling card—
 
-### **_Earthen Meteorform_**
+### _Earthen Meteorform_
 
 —combined wildshape, gravitational augmentation, and druidic channeling to transform Huldiberaht into a **living projectile** capable of leveling structures, monsters, and rival delvers with gleeful indiscrimination.
 
@@ -27,7 +29,7 @@ To his victims, he was the disaster.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Former Argent Banner initiate (expelled); later self-appointed founder of the short-lived **Verdant Collision**
     
@@ -40,7 +42,7 @@ To his victims, he was the disaster.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Nature Isn’t Kind. Why Should I Be?** — Kindness is not ecological.
     
@@ -51,9 +53,9 @@ To his victims, he was the disaster.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Pummeling of Cragspire Bastion**
+### 1. The Pummeling of Cragspire Bastion
 
 During a three-guild contested delve, Huldiberaht launched himself nearly **200 ft** into the air with druidic momentum, transforming mid-arc into a stone-armored badger.  
 The resulting impact flattened:
@@ -66,13 +68,13 @@ The resulting impact flattened:
     The rival guilds begrudgingly named the spell after him.
     
 
-### **2. The Root-Flood Trap at Oathgrove**
+### 2. The Root-Flood Trap at Oathgrove
 
 By collapsing unstable earthen tunnels via seismic hops, Huldiberaht pinned a corrupted guardian beast. When a group of young delvers attempted to “save” it for research, he crushed them with the rebuttal:
 
 > _“Sentiment is rot in bloom.”_
 
-### **3. The Court of Flattened Blades**
+### 3. The Court of Flattened Blades
 
 In a tribunal duel with a noble paladin, Huldiberaht remained still for the entire first round—then vanished skyward.  
 He returned as a falling star.  
@@ -80,9 +82,9 @@ The arena required full reconstruction. The paladin survived; his reputation did
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Stonegut Totem**
+### Stonegut Totem
 
 A druidic ironwood-oak hybrid implanted directly into his abdomen.  
 **Functions:**
@@ -95,7 +97,7 @@ A druidic ironwood-oak hybrid implanted directly into his abdomen.
     Considered a Class-3 Risk Relic due to catastrophic vertical amplification.
     
 
-### **Mantle of Mossbone**
+### Mantle of Mossbone
 
 A living cloak of ivy interwoven with petrified wolf-bark.  
 **Properties:**
@@ -107,14 +109,14 @@ A living cloak of ivy interwoven with petrified wolf-bark.
 - Reduces self-impact trauma (but not collateral trauma)
     
 
-### **Sigil of Crushing Bloom**
+### Sigil of Crushing Bloom
 
 A cracked druidic tattoo glowing during Meteorform casting.  
 Rumored to bind Huldiberaht to a **primordial of mass and momentum**, slowly consuming his soul with each “successful landing.”
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 5 S-Rank (two contested), 11 legally sanctioned rival-team eliminations
     
@@ -127,7 +129,7 @@ Rumored to bind Huldiberaht to a **primordial of mass and momentum**, slowly con
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 _“If it breaks beneath me, it probably wasn’t important.”_  
 — After stepping on a warlock mid-delve
@@ -140,7 +142,7 @@ _“Heaven? No. I’m aiming for your skull.”_
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Leaves crater-shaped impressions in multiple planes; some fear these weaken planar boundaries
     
@@ -153,7 +155,7 @@ _“Heaven? No. I’m aiming for your skull.”_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Primal Phenomena Bureau)**  

@@ -1,3 +1,5 @@
+# Kazmak ve Küzmek
+
 ### _The Gemroad Heart — “All Wealth Passes Here, Even Water.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Trade Networks & Arid Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Kazmak ve Küzmek** is the largest and most vital city along the **Kazmak Gem Road**, the desert caravan network linking the southern Beylik Causeway to the northern mines. It stands at the confluence of law and mercy, where travelers who survive the Sandstair find rest, water, and knowledge in improbable abundance.
 
@@ -24,11 +26,11 @@ It is generous—on Beylik terms.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Kazmak ve Küzmek rises from open desert, its skyline defined not by towers but by **courtyards, wells, and aqueducts**.
 
-### **The Sandstair**
+### The Sandstair
 
 At the city’s southern edge lies the **Sandstair**, the widest descent from the Causeway to ground level.
 
@@ -41,7 +43,7 @@ At the city’s southern edge lies the **Sandstair**, the widest descent from th
 
 Murad holds extraordinary authority, including the power to **forbid all passage** along the Gem Road except by direct order of **Bey Vartan**.
 
-### **The Küzmek River**
+### The Küzmek River
 
 An engineered miracle:
 
@@ -56,7 +58,7 @@ The city’s layout follows the water, radiating outward in controlled rings.
 
 ---
 
-## **III. History**
+## III. History
 
 Kazmak ve Küzmek began as a calculated risk.
 
@@ -66,7 +68,7 @@ The Küzmek River transformed a temporary caravan stop into a permanent city. Ho
 
 The founding of **Broadgate University** cemented the city’s second purpose: to gather not just wealth, but understanding.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **1193 A.D.** — Establishment of the **Kazmak Gem Road** as a protected trade corridor.
     
@@ -82,7 +84,7 @@ It negotiated with it.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 The city is governed directly under **Beylik authority**.
 
@@ -97,7 +99,7 @@ No elected council exists. Stability is enforced, not debated.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Kazmak ve Küzmek thrives on circulation.
 
@@ -116,7 +118,7 @@ The **Grand Caravanserai** famously operates at a loss, widely believed to be su
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Culture here is shaped by **gratitude and discipline**.
 
@@ -133,7 +135,7 @@ Religious practice is permitted but secondary to state order.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Kazmak ve Küzmek is absolute at the edges and measured within.
 
@@ -148,7 +150,7 @@ Defense focuses on **control of access**, not walls.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Kazmak ve Küzmek is a **logistical hub for delvers**, not a delve site.
 
@@ -163,7 +165,7 @@ Knowledge here is filtered before it spreads.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -177,7 +179,7 @@ Kazmak ve Küzmek shapes Aerathon by deciding **what knowledge and wealth surviv
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Kazmak ve Küzmek is proof that generosity can be calculated—and still sincere.
 
@@ -188,7 +190,7 @@ Travelers remember it not for power, but for relief: cool stone, endless water, 
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Guests often stay longer than planned
     
@@ -201,7 +203,7 @@ Travelers remember it not for power, but for relief: cool stone, endless water, 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Trade Networks & Arid Settlements)**  

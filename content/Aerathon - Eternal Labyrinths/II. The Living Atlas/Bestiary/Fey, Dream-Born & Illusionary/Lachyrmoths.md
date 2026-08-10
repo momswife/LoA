@@ -3,7 +3,7 @@
 
 ---
 
-# **Lachyrmoths**
+# Lachyrmoths
 
 ### _Moths of Sorrowed Light — “Grief with Wings, Memory with Dust.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Lachyrmoths** are small but potent emotional constructs — feydream-born moths that hatch from sites where grief, longing, or heartbreak saturate the Veil.  
 They are commonly found fluttering in old bedrooms, abandoned shrines, broken labyrinth chambers, and battlefield memorials where sorrow has “pooled.”
@@ -28,7 +28,7 @@ The Ministry classifies them as **Type-FDI / Emotional Dreamborn Entities**, ali
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -42,7 +42,7 @@ When disturbed, they shed **tear-scales**, small motes of dreamstuff that cling 
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Lachyrmoths exhibit gentle, empathic movement patterns. They are not hostile — but they are **catalysts** for emotional unravelling.
 
@@ -65,7 +65,7 @@ Left unchecked, mass Lachyrmoth gatherings can induce depression, nostalgia shoc
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Lachyrmoths manifest wherever the boundary between memory and emotion is thin:
 
@@ -84,7 +84,7 @@ They prefer places where sorrow lingers but is unexpressed — “unwept” grie
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Echo-lens imaging reveals that each Lachyrmoth contains a **single emotional glyph** inside its thorax — representing a memory fragment not its own.
     
@@ -99,7 +99,7 @@ They prefer places where sorrow lingers but is unexpressed — “unwept” grie
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -112,7 +112,7 @@ Avoid confronting deep grief in their presence — they will amplify it to dange
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -123,7 +123,7 @@ All artifacts stored in Vault #91, Louvain Branch — dual seal Daan / Stonevoic
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level II — Emotional Dreamborn / Cognitive Hazard
     
@@ -138,7 +138,7 @@ All artifacts stored in Vault #91, Louvain Branch — dual seal Daan / Stonevoic
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Bards of Al’ar:** Call them “The Weepers of Old Wishes.”
     
@@ -153,7 +153,7 @@ All artifacts stored in Vault #91, Louvain Branch — dual seal Daan / Stonevoic
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Lachyrmoths** are sorrow made soft — delicate feydream entities that gather where the heart is heaviest.  
 Neither harmful nor helpful by intention, they simply exist to balance the emotional ecosystem of Aerathon, ensuring despair dissipates rather than stagnates.
@@ -162,7 +162,7 @@ They are reminders that grief, though painful, is a natural force — and that e
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Fey/Dreamborn/Illusionary Phenomena Archive)**  

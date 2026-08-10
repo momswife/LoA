@@ -3,7 +3,7 @@
 
 ---
 
-# **Frost-Mane Elk**
+# Frost-Mane Elk
 
 ### _Crownbeasts of the Nattefrost — “The Winter That Walks.”_
 
@@ -18,7 +18,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Frost-Mane Elk** are colossal tundra grazers native to the permafrost plains of northern Oria and the **Nattefrost** Exclusion Zone.  
 They are considered both miracle and menace: creatures so well adapted to the eternal cold that their presence lowers temperature within a hundred paces.
@@ -28,7 +28,7 @@ The Ministry recognizes them as a keystone cryofaunal species whose migrations m
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Standing nearly **15 feet at the shoulder**, bulls bear antlers of **translucent frost-bone** that refract sunlight into spectral halos.  
 A mane of crystalline filaments sprouts along the spine, constantly shedding hoarfrost that drifts like feathers.  
@@ -42,8 +42,8 @@ Their eyes scatter light rather than emit it — a natural defense that blinds p
 |Diet|Frost moss, lichen, glacial salts|
 |Lifespan|≈ 200 years|
 |Temperament|Passive unless provoked; violently territorial during rut|
-___
-## **III. Habitat & Migration**
+---
+## III. Habitat & Migration
 
 Frost-Manes trace counter-sunward spirals through the **Nattefrost Plateau**, preserving equilibrium between ley-frost saturation and geothermal vents.  
 Each equinox, herds vanish into the **White Maw** for hibernal communion — theorized to be a mass stasis ritual anchoring the region’s time field.  
@@ -51,7 +51,7 @@ Southward migrations leave mirrored hoof-ice paths visible from orbiting scry-ey
 
 ---
 
-## **IV. Behavior & Ecology**
+## IV. Behavior & Ecology
 
 - **Thermoregulation:** Body aura converts ambient heat into structured snow crystals, forming moving blizzards.
     
@@ -66,7 +66,7 @@ Southward migrations leave mirrored hoof-ice paths visible from orbiting scry-ey
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Drones from Station Epsilon recorded infrasonic pulses harmonizing with Nattefrost’s geomantic hum.  
 Inspector Vell concludes that Frost-Manes distribute temporal stasis through resonance, preventing catastrophic thaw events.  
@@ -74,7 +74,7 @@ Field teams attempting live tagging experienced spontaneous frostbite through in
 
 ---
 
-## **VI. Cultural & Symbolic Role**
+## VI. Cultural & Symbolic Role
 
 - **Oria Lodges:** Symbol of perseverance; carved antlers bless newborns against despair.
     
@@ -87,7 +87,7 @@ Legends foretell that when the final Frost-Mane perishes, the world’s last daw
 
 ---
 
-## **VII. Associated Artifacts & Materials**
+## VII. Associated Artifacts & Materials
 
 | **Item**               | **Description**                                      | **Use / Hazard**                         |
 | ---------------------- | ---------------------------------------------------- | ---------------------------------------- |
@@ -98,7 +98,7 @@ All harvesting restricted to naturally shed material only.
 
 ---
 
-## **VIII. Weakness & Delving Considerations**
+## VIII. Weakness & Delving Considerations
 
 Despite their monumental endurance, Frost-Manes possess vulnerabilities exploitable under controlled conditions:
 
@@ -112,7 +112,7 @@ Despite their monumental endurance, Frost-Manes possess vulnerabilities exploita
 
 ---
 
-## **IX. Containment & Observation Status**
+## IX. Containment & Observation Status
 
 - **Classification:** Level I — Low Threat / High Ecological Priority
     
@@ -127,7 +127,7 @@ Despite their monumental endurance, Frost-Manes possess vulnerabilities exploita
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Frost-Mane Elk** embodies the covenant between life and the cold that sustains it.  
 To witness a herd is to see the north breathe; to harm one is to make the world hold its breath.  
@@ -135,7 +135,7 @@ They are not beasts of winter — they are winter itself choosing to move.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)**  

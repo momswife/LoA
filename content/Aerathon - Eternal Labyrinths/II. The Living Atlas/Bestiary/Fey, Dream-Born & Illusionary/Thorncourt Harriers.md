@@ -3,7 +3,7 @@
 
 ---
 
-# **Thorncourt Harriers**
+# Thorncourt Harriers
 
 ### _Feyborn Pursuers of the Briar Thrones — “Those Who Hunt for the Will of the Thorn.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Thorncourt Harriers** are elite feyborn trackers and enforcers serving the **Briar Throne**, one of the oldest and most volatile Courts of the Glittering Veil.  
 They embody **pursuit as artistry**, hunting intruders, oathbreakers, and rival fey across both the Veil and physical Aerathon.
@@ -30,7 +30,7 @@ They are classified as **Type-FEI / Martial Fey Entities**, considered extremely
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -45,7 +45,7 @@ Their arms can split into whip-like briar tendrils, and their thorn-masks open s
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 Harriers embody **relentless pursuit** — they do not harm without cause, but once given a quarry, they **never abandon the chase** unless their Court is appeased.
 
@@ -69,7 +69,7 @@ They avoid fire and unnatural metal, preferring to hunt in forests, ruins, and l
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 Thorncourt Harriers are summoned or dispatched from the **Briar Thrones**, appearing most frequently:
 
@@ -88,7 +88,7 @@ Harriers rarely appear alone unless on ceremonial hunts or delivering formal dec
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 - Harrier vine-armor is alive and reacts independently to threats, sometimes shielding them or lashing out.
     
@@ -106,7 +106,7 @@ Harriers rarely appear alone unless on ceremonial hunts or delivering formal dec
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -120,7 +120,7 @@ If a Harrier hears it, the hunt begins immediately — regardless of intent.
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -131,7 +131,7 @@ All stored in Vault #101, Louvain Branch — dual seal Korrin / Stonevoice.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level III — Martial Fey / High Mobility Combatant
     
@@ -146,7 +146,7 @@ All stored in Vault #101, Louvain Branch — dual seal Korrin / Stonevoice.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Blackwild Rangers:** Claim Harriers protect the deeper groves from “unnatural wanderers.”
     
@@ -163,7 +163,7 @@ All stored in Vault #101, Louvain Branch — dual seal Korrin / Stonevoice.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Thorncourt Harriers** are relentless fey hunters — enforcers of symmetry, balance, and oathbound consequence.  
 They are neither villains nor heroes, but instruments of the Briar Throne’s will, pruning chaos where it threatens the quiet weave of the Veil.
@@ -175,7 +175,7 @@ and the forest always answers.**
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Fey, Dreamborn & Illusionary Entities Archive)**  

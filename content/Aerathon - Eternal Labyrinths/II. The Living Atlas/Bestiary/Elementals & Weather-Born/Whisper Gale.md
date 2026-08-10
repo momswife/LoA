@@ -3,7 +3,7 @@
 
 ---
 
-# **Whisper Gale**
+# Whisper Gale
 
 ### _The Wandering Wind of Forgotten Names — “When the Air Itself Begins to Remember.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Whisper Gale** is an atmospheric anomaly — a semi-sentient current of air and sound that traverses Aerathon’s continents, collecting fragments of spoken memory.  
 It drifts unpredictably between mountain passes, ruined cities, and coastal labyrinth mouths, recognized by its distinct **low, harmonic whisper** that repeats the last word uttered by anyone nearby.
@@ -27,7 +27,7 @@ To delvers, it is a **haunting companion** — sometimes guide, sometimes warnin
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 |**Attribute**|**Detail**|
 |---|---|
@@ -41,7 +41,7 @@ Witnesses describe the Gale’s motion as **curiously deliberate**, swirling aro
 
 ---
 
-## **III. Behavior & Phenomena**
+## III. Behavior & Phenomena
 
 The Whisper Gale displays **reactive intelligence** — mimicking tone, cadence, and intent of speech rather than meaning.  
 It gravitates toward stories, songs, and arguments, feeding upon the **resonant emotion** carried in the breath of mortals.
@@ -61,7 +61,7 @@ It gravitates toward stories, songs, and arguments, feeding upon the **resonant 
 
 ---
 
-## **IV. Habitat & Occurrence**
+## IV. Habitat & Occurrence
 
 - **Tempestrise Highlands:** Sighted during solstice electrical blooms.
     
@@ -76,7 +76,7 @@ Long-term observation impossible — it obeys no known atmospheric cycles and oc
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Inspector Vell’s aetheric audio scans indicate each Whisper Gale carries **linguistic residue** from over a thousand voices at once, arranged in rhythmic waveform akin to a heart monitor.  
 Archivist Stonevoice’s translation of these patterns uncovered **syntactic clusters of intent**, such as _“stay,” “listen,” “home,”_ suggesting primitive empathy.
@@ -87,7 +87,7 @@ Lt. Korrin’s team established brief communication using echo-harmonic crystals
 
 ---
 
-## **VI. Weakness & Delving Considerations**
+## VI. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -101,7 +101,7 @@ Lt. Korrin’s team established brief communication using echo-harmonic crystals
 
 ---
 
-## **VII. Associated Materials & Artifacts**
+## VII. Associated Materials & Artifacts
 
 |**Item**|**Description**|**Use / Hazard**|
 |---|---|---|
@@ -112,7 +112,7 @@ Stored in Vault #93, Louvain Branch — dual seal Stonevoice / Korrin.
 
 ---
 
-## **VIII. Containment & Research Status**
+## VIII. Containment & Research Status
 
 - **Classification:** Level II — Ambient Aeolian Entity / Moderate Cognitive Risk.
     
@@ -127,7 +127,7 @@ Stored in Vault #93, Louvain Branch — dual seal Stonevoice / Korrin.
 
 ---
 
-## **IX. Cultural & Mythic Notes**
+## IX. Cultural & Mythic Notes
 
 - **Beastfolk Nomads:** Hang ribbons in open plains to “teach the wind new words.”
     
@@ -142,7 +142,7 @@ Stored in Vault #93, Louvain Branch — dual seal Stonevoice / Korrin.
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Whisper Gale** is Aerathon’s collective memory set adrift — an endless listener wandering the world’s broken conversations.  
 It is language without a speaker, conscience without a body; a song that will never end because no one has ever truly finished speaking.  
@@ -152,7 +152,7 @@ And sometimes, if the air feels heavier than it should, it means the Gale is nea
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Atmospheric & Aural Phenomena Registry)**  

@@ -1,3 +1,5 @@
+# Arloris
+
 ### _Fishing Town of Amicia Bay_
 
 **Region:** **Vinyot**  
@@ -6,7 +8,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Arloris** is a ring of fishing villages and pearl farms wrapped around **Amicia Bay**, long sustained by quiet trade with the capital. Its people live modest, predictable lives—tide to dock, dock to ledger—comfortable so long as the bay remains generous.
 
@@ -17,7 +19,7 @@ But Arloris no longer sleeps as soundly as it once did.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Arloris has no walls and no center.
 
@@ -34,7 +36,7 @@ Amicia Bay appears calm, warm, and shallow—except where it abruptly is not.
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 The town exists to supply others.
 
@@ -51,7 +53,7 @@ Most pearl farms are **company-owned**, binding workers through debt and long co
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 Arloris has no noble ruler.
 
@@ -68,7 +70,7 @@ Real power sits in **Dole**, written into contracts no one here negotiated.
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 No public Labyrinth designation exists for Amicia Bay.
 
@@ -88,7 +90,7 @@ The MDO has not arrived openly. That worries people more than if they had.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 Arloris is cautious, quiet, and watchful.
 
@@ -105,7 +107,7 @@ They are not superstitious—only experienced.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Whispers heard in Arloris include:
 

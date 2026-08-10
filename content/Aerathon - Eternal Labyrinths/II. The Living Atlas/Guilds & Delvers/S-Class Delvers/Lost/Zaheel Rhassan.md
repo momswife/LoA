@@ -2,6 +2,8 @@
 
 ---
 
+# Zaheel Rhassan
+
 ### _S-Class Labyrinth Infiltrator (Deceased) — “All known data compiled from guild theft logs, breach-echoes, and partial soul-impressions left in cursed metal.”_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)  
@@ -12,7 +14,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Zaheel Rhassan**, known throughout Aerathon as **“The Key-Thief,”** began his legend not out of heroism, ambition, or destiny—but out of **debt**. A street-born rogue from the back alleys of Vinyot, Zaheel vanished into a low-tier labyrinth to escape collection enforcers from three separate guilds.  
 Everyone assumed the labyrinth ate him.
@@ -33,7 +35,7 @@ The blade is now sealed by the MDO under **Thrice-Bond Containment**.
 
 ---
 
-## **II. Affiliations**
+## II. Affiliations
 
 - **Guild Status:** Unaffiliated; formally **blacklisted** by the Argent Banner, Crimson Reavers, Free Company of Louvain, Velvet Ledger, and the Emberlight Union
     
@@ -46,7 +48,7 @@ The blade is now sealed by the MDO under **Thrice-Bond Containment**.
 
 ---
 
-## **III. Ideals**
+## III. Ideals
 
 - **Take from Power, Give to Need**
     
@@ -57,9 +59,9 @@ The blade is now sealed by the MDO under **Thrice-Bond Containment**.
 
 ---
 
-## **IV. Notable Accomplishments**
+## IV. Notable Accomplishments
 
-### **1. The Vinyot Debt Escape**
+### 1. The Vinyot Debt Escape
 
 Zaheel entered a novice labyrinth pursued by enforcers.  
 He exited seven hours later with:
@@ -72,7 +74,7 @@ He exited seven hours later with:
     This incident began his legend.
     
 
-### **2. The Argent Banner Vault Humiliation**
+### 2. The Argent Banner Vault Humiliation
 
 Through a labyrinth breach connection, Zaheel infiltrated the Argent Banner’s **Tier-2 secure vault**, stealing:
 
@@ -84,12 +86,12 @@ Through a labyrinth breach connection, Zaheel infiltrated the Argent Banner’s 
     He left a note: _“Your lock was lonely.”_
     
 
-### **3. The Hundred Locks Trial**
+### 3. The Hundred Locks Trial
 
 In a challenge chamber mislabeled as a “Puzzle Floor,” Zaheel picked **100 locks in 10 minutes**, all while being chased by animated gauntlets.  
 He kept one cuff as a trophy.
 
-### **4. The Black-Marrow Tragedy**
+### 4. The Black-Marrow Tragedy
 
 During a delve with three independent delvers, Zaheel seized **Soulbite**, a cursed blade that devours souls through physical contact.  
 It consumed him instantly.  
@@ -98,17 +100,17 @@ _“Finally… a lock I can’t open.”_
 
 ---
 
-## **V. Equipment & Artifacts**
+## V. Equipment & Artifacts
 
-### **Whisperlock Tools**
+### Whisperlock Tools
 
 A mastercrafted set of picks forged from mythril-thread steel. Said to vibrate when a trap is nearby. Often used by guild infiltrators today.
 
-### **Ring of Quiet Steps**
+### Ring of Quiet Steps
 
 A loop of silver that dampened sound around Zaheel’s feet. Allowed him to move silently even on broken glass. (Recovered from a goblin fence two years after his death.)
 
-### **Soulbite** _(Cursed Artifact)_
+### Soulbite _(Cursed Artifact)_
 
 Currently sealed in MDO custody.
 
@@ -122,7 +124,7 @@ Currently sealed in MDO custody.
 
 ---
 
-## **VI. Delving Record**
+## VI. Delving Record
 
 - **Confirmed Labyrinth Clears:** 4 S-Rank, 11 A-Rank, 19 B-Rank
     
@@ -135,7 +137,7 @@ Currently sealed in MDO custody.
 
 ---
 
-## **VII. Known Sayings**
+## VII. Known Sayings
 
 > _“Locks tell you secrets if you let them brag.”_  
 > — Teaching a novice drifter
@@ -148,7 +150,7 @@ Currently sealed in MDO custody.
 
 ---
 
-## **VIII. Rumors & Anomalies**
+## VIII. Rumors & Anomalies
 
 - Some claim Zaheel’s **shadow still appears** near locked doors inside certain labyrinths
     
@@ -161,7 +163,7 @@ Currently sealed in MDO custody.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Biographic Records Bureau)**  

@@ -1,3 +1,5 @@
+# Daltiarna
+
 ### _The Jewel of the Free People — “No One Rules Alone.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Civic Experiments)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Daltiarna** (dal-TEER-na) is the largest settlement within **Glasrún** and its **unofficial capital**, a sprawling forest metropolis of more than **30,000 residents**. It is renowned across Aerathon as the boldest experiment in large-scale self-governance—a city with no ruler, no charter, and no fixed borders.
 
@@ -19,11 +21,11 @@ It is **argued into existence every day**.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Daltiarna spreads outward in **organic rings**, guided by social gravity rather than geometry.
 
-### **The Canopy Streets**
+### The Canopy Streets
 
 - Winding paths at ground level and in the boughs
     
@@ -32,7 +34,7 @@ Daltiarna spreads outward in **organic rings**, guided by social gravity rather 
 - Routes known by use, not signage
     
 
-### **District Clusters**
+### District Clusters
 
 Districts form wherever enough people agree to:
 
@@ -45,7 +47,7 @@ Districts form wherever enough people agree to:
 
 Structures are built to adapt—homes often move before trees do.
 
-### **The Open Rings**
+### The Open Rings
 
 Large natural clearings left deliberately unclaimed, used for:
 
@@ -60,7 +62,7 @@ These spaces are considered civic commons beyond ownership.
 
 ---
 
-## **III. History**
+## III. History
 
 Daltiarna began as a **meeting place rather than a settlement**, where Glasrún villages overlapped just long enough for trade to turn into argument—and argument into community. As paths converged, people stayed not because they were ruled, but because they were heard.
 
@@ -85,11 +87,11 @@ Daltiarna remembers its history not through monuments, but through **precedent**
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Daltiarna has **no central government**.
 
-### **District Autonomy**
+### District Autonomy
 
 Each district:
 
@@ -102,7 +104,7 @@ Each district:
 
 Actions affecting others must be debated openly with neighboring districts.
 
-### **Speakers**
+### Speakers
 
 Each district appoints a **Speaker**:
 
@@ -117,7 +119,7 @@ Though no limits exist, cultural pressure enforces an average tenure of **less t
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Daltiarna’s economy is decentralized and interpersonal.
 
@@ -136,7 +138,7 @@ Coin circulates, but **labor exchange and mutual obligation** dominate. Daltiarn
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Daltiarna is **plural and unregulated**.
 
@@ -154,7 +156,7 @@ Religion is treated as a private belief with public consequences. No faith holds
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Daltiarna maintains no standing guard or army.
 
@@ -169,7 +171,7 @@ Order is maintained not by fear, but by **participation**.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Delvers are common in Daltiarna, drawn by its tolerance and autonomy.
 
@@ -184,7 +186,7 @@ Labyrinth matters are debated endlessly—and resolved unevenly.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -199,7 +201,7 @@ Daltiarna influences others by proving that authority is optional—but effort i
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Daltiarna is exhausting by design.
 
@@ -212,7 +214,7 @@ The MDO classifies Daltiarna as **politically volatile, socially resilient, and 
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Silence during debate is considered a vote
     
@@ -225,7 +227,7 @@ The MDO classifies Daltiarna as **politically volatile, socially resilient, and 
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Civic Experiments)**  

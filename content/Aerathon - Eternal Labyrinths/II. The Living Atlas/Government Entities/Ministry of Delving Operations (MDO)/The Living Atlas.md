@@ -1,3 +1,10 @@
+---
+aliases:
+  - The Living Atlas - Research Charter
+  - The Living Atlas — Research Charter
+  - Living Atlas Research Charter
+---
+
 > _“A record is not made honest by the seal placed upon it. It is made honest by the doubts it refuses to conceal.”_  
 > — Keeper Emera Vhal, First Revision Council
 

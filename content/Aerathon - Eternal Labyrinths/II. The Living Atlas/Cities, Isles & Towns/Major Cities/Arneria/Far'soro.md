@@ -1,3 +1,5 @@
+# Far'soro
+
 ### _The Crossing Heart — “All Roads May Enter. None May Rule.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Trade Confluences & State Cities)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Far’soro** is the principal **confluence city of Arneria**, where Bat’yan lowlands, Causeway traffic, inland caravans, and Beylik authority meet without collapsing into chaos. Built astride the **Attamek River**, which flows beneath the city and empties into the harbor below, Far’soro functions as both artery and valve—allowing movement, but enforcing control.
 
@@ -24,11 +26,11 @@ It does not let anyone forget where they are.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Far’soro rises above the **Attamek River**, its stone foundations straddling channels that feed both irrigation networks and harbor flow.
 
-### **The River City**
+### The River City
 
 - The Attamek runs beneath vaulted stone corridors
     
@@ -37,7 +39,7 @@ Far’soro rises above the **Attamek River**, its stone foundations straddling c
 - Bridges are treated as checkpoints, not scenery
     
 
-### **The Quilt Fields**
+### The Quilt Fields
 
 Surrounding Far’soro is a vast patchwork of farmland:
 
@@ -48,7 +50,7 @@ Surrounding Far’soro is a vast patchwork of farmland:
 - Capable of feeding the city and its caravans
     
 
-### **Urban Form**
+### Urban Form
 
 Architecture reflects layered purpose:
 
@@ -63,7 +65,7 @@ The city is designed to **absorb traffic**, not admire itself.
 
 ---
 
-## **III. History**
+## III. History
 
 Far’soro began as a river crossing and never forgot it.
 
@@ -89,7 +91,7 @@ It grew because stopping it would have broken too many roads.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Far’soro is ruled directly by the **Beylik of Arneria**.
 
@@ -104,7 +106,7 @@ Local leaders manage markets and districts, but ultimate authority flows downwar
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Far’soro’s economy is defined by **movement**.
 
@@ -123,7 +125,7 @@ Goods are rarely produced here—and constantly exchanged.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Far’soro’s culture is pragmatic and blended.
 
@@ -140,7 +142,7 @@ Faith is present but subordinate to civic order. Shrines are permitted, sermons 
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Far’soro is **visible and enforced**.
 
@@ -155,7 +157,7 @@ While ill-humored, Beylik forces are disciplined. Harassment without cause is pu
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Far’soro is deeply connected to delving logistics.
 
@@ -170,7 +172,7 @@ The city does not glorify delvers—but profits from their inevitability.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -184,7 +186,7 @@ Far’soro shapes Aerathon by deciding **how easily the world may pass through A
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Far’soro is not beloved—but it is respected.
 
@@ -195,7 +197,7 @@ It proves that openness does not require chaos, and that hospitality can exist a
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Inns advertise by travel time, not comfort
     
@@ -208,7 +210,7 @@ It proves that openness does not require chaos, and that hospitality can exist a
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Trade Confluences & State Cities)**  

@@ -1,3 +1,5 @@
+# Paladins & Clerics
+
 ### _Servants of the Divine—In a World Growing Less Certain of the Divine_
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Faith & Magical Oversight Bureau)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The Quiet Edict silenced divine speech.  
 Delvers increasingly turn to secular methods, spellcraft, and arcanotech.  
@@ -35,11 +37,11 @@ it has **refined it**, revealing a small but powerful minority for whom religion
 
 ---
 
-## **II. The Two Kinds of Divine Casters Today**
+## II. The Two Kinds of Divine Casters Today
 
 The Ministry recognizes **two broad pathways** into clerical or paladin power.
 
-### **1. The Modern Caster (Majority)**
+### 1. The Modern Caster (Majority)
 
 Draws power from:
 
@@ -60,7 +62,7 @@ These individuals are respected for their skill and discipline, but not seen as 
 
 ---
 
-### **2. The Devout Caster (Minority)**
+### 2. The Devout Caster (Minority)
 
 **Rare. Feared. Revered. Often misunderstood.**
 
@@ -93,7 +95,7 @@ These individuals represent the **last living embers** of true divine religion.
 
 ---
 
-## **III. Why Divine Magic Still Works—For Both the Devout and the Secular**
+## III. Why Divine Magic Still Works—For Both the Devout and the Secular
 
 The Ministry’s official stance:
 
@@ -103,15 +105,15 @@ Yet this does not fully explain why **the truly devout sometimes exhibit uncanny
 
 Clerical scholars argue three possibilities:
 
-### **1. The gods still act indirectly.**
+### 1. The gods still act indirectly.
 
 Even bound by the Quiet Edict, subtle influence may slip through dreams, metaphors, intuition.
 
-### **2. Devotion reinforces Faithfield structures more intensely.**
+### 2. Devotion reinforces Faithfield structures more intensely.
 
 The devout build more stable magical architecture.
 
-### **3. The divine never required direct contact to function.**
+### 3. The divine never required direct contact to function.
 
 Mortals supply faith; gods supply mythic resonance.
 
@@ -119,9 +121,9 @@ None of these theories exclude the others.
 
 ---
 
-## **IV. Clerics of the Modern Age**
+## IV. Clerics of the Modern Age
 
-### **A. The Secular Cleric (Common)**
+### A. The Secular Cleric (Common)
 
 - healer, counselor, ritual officiant
     
@@ -132,7 +134,7 @@ None of these theories exclude the others.
 - reliable, respected, pragmatic
     
 
-### **B. The Devout Cleric (Uncommon)**
+### B. The Devout Cleric (Uncommon)
 
 - prays not out of habit, but conviction
     
@@ -145,7 +147,7 @@ None of these theories exclude the others.
 - but universally respected in their communities
     
 
-### **C. What Sets Devout Clerics Apart?**
+### C. What Sets Devout Clerics Apart?
 
 They often:
 
@@ -165,9 +167,9 @@ and can inspire awe even among the irreligious.
 
 ---
 
-## **V. Paladins of the Modern Age**
+## V. Paladins of the Modern Age
 
-### **A. The Secular Paladin (Common)**
+### A. The Secular Paladin (Common)
 
 Swears an Oath as a personal code.  
 Power comes from:
@@ -181,7 +183,7 @@ Power comes from:
 
 No divine relationship required.
 
-### **B. The Devout Paladin (Rare)**
+### B. The Devout Paladin (Rare)
 
 Treats the Oath as a **covenant with a silent god.**
 
@@ -201,7 +203,7 @@ These paladins:
 Their conviction is magnetic.  
 Sometimes frightening.
 
-### **C. Oathbreaking Across Both Groups**
+### C. Oathbreaking Across Both Groups
 
 - For secular paladins: a psychological collapse.
     
@@ -213,9 +215,9 @@ and recover more profoundly.
 
 ---
 
-## **VI. How Delvers View Clerics & Paladins Today**
+## VI. How Delvers View Clerics & Paladins Today
 
-### **1. Secular Clerics & Paladins**
+### 1. Secular Clerics & Paladins
 
 Seen as:
 
@@ -232,7 +234,7 @@ Seen as:
 
 ---
 
-### **2. Truly Devout Clerics & Paladins**
+### 2. Truly Devout Clerics & Paladins
 
 Reactions vary:
 
@@ -250,34 +252,34 @@ both inspiring and unsettling.
 
 ---
 
-## **VII. Where the Devout Still Flourish**
+## VII. Where the Devout Still Flourish
 
 Despite secularization, pockets of strong devotion persist:
 
-### **1. Rural Regions**
+### 1. Rural Regions
 
 Faith is tied to heritage and survival.
 
-### **2. Beastfolk Communities**
+### 2. Beastfolk Communities
 
 Religious continuity preserved through oral tradition.
 
-### **3. Old-Temple Enclaves**
+### 3. Old-Temple Enclaves
 
 Especially in Selûnite and Ilmatari districts.
 
-### **4. Military Orders**
+### 4. Military Orders
 
 Some paladin traditions still teach rigorous doctrine.
 
-### **5. Individual Delvers**
+### 5. Individual Delvers
 
 Rare, but powerful.  
 A devout delver cleric or paladin is often a legend in the making.
 
 ---
 
-## **VIII. The Future of Divine Classes in Aerathon**
+## VIII. The Future of Divine Classes in Aerathon
 
 The Ministry predicts:
 
@@ -297,7 +299,7 @@ and still those whose Oaths are whispered **to someone they believe hears them**
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Faith & Magical Oversight Bureau)**  

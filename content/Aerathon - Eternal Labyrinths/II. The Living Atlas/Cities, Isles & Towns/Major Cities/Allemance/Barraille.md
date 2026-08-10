@@ -1,3 +1,5 @@
+# Barraille
+
 ### _The City on the Edge — “We Hold Because We Choose To.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Resource Settlements)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Barraille** (BAR-all) is a cliffbound mining city perched high in the mountains of **Glasrún**, where forest thins into stone and gravity is treated as an adversary rather than a law. Founded as a frontier extraction outpost, the city has grown outward beyond the cliff’s original edge into a tiered sprawl of stone platforms, lift towers, and reinforced overhangs.
 
@@ -16,7 +18,7 @@ Massive counterweighted elevators—each capable of lifting **three fully laden 
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Barraille is built **against and over** a sheer mountainside.
 
@@ -35,7 +37,7 @@ Barraille is built **against and over** a sheer mountainside.
 
 ---
 
-## **III. History**
+## III. History
 
 Barraille began as a **temporary extraction camp**, established centuries ago to supply Allemance with mountain ore without violating the Glasrún Pact. When noble sponsors deemed the peaks too hostile and the yields too slow, oversight was quietly withdrawn.
 
@@ -60,7 +62,7 @@ Over generations, the city’s defining trait became refusal: refusal of noble a
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Barraille rejects noble governance outright.
 
@@ -70,7 +72,7 @@ Decisions are made by open debate and consensus. Those who speak without having 
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Barraille supplies Allemance with critical materials:
 
@@ -87,7 +89,7 @@ Barraille does not compete on volume—it competes on reliability.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Barraille is **functional rather than ceremonial**.
 
@@ -104,7 +106,7 @@ Prayers are brief. Rituals mark beginnings, survivals, and safe returns—not do
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Law in Barraille is enforced socially rather than institutionally.
 
@@ -119,7 +121,7 @@ Defense relies on terrain, vigilance, and the simple fact that attackers must cl
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Barraille maintains strict distance from the Labyrinths.
 
@@ -134,7 +136,7 @@ The mountain is not treated as something to be conquered—and neither are the d
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -148,7 +150,7 @@ Barraille influences Allemance not through politics, but through **necessity**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Barraille does not advertise itself.  
 It endures visibly, carved into stone where retreat is impossible.
@@ -160,7 +162,7 @@ The city is proof that Glasrún is not only forest and silence—it is also **he
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Locals can identify outsiders by how tightly they grip railings
     
@@ -173,7 +175,7 @@ The city is proof that Glasrún is not only forest and silence—it is also **he
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Urban Geography & Resource Settlements)**  

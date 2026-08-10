@@ -1,3 +1,5 @@
+# Bat'yan
+
 ### _The Living Canopy — “Life Moves Where the Roots Allow.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Bat’yan** is the vast rainforest region occupying **western Arneria**, stretching inland from the Causeway cities into dense, layered jungle where roads vanish as quickly as they are cut.
 
@@ -24,7 +26,7 @@ To its inhabitants, it is **deeply ordered**, if never rigid.
 
 ---
 
-## **II. Geography & Climate**
+## II. Geography & Climate
 
 Bat’yan is a **humid tropical rainforest**, among the densest in Aerathon.
 
@@ -52,7 +54,7 @@ The forest grows faster than maps can track.
 
 ---
 
-## **III. History & Formation**
+## III. History & Formation
 
 Bat’yan was never conquered in full.
 
@@ -64,11 +66,11 @@ Rather than resisting the forest, its inhabitants learned to **move with it**, a
 
 ---
 
-## **IV. Peoples & Settlement Patterns**
+## IV. Peoples & Settlement Patterns
 
 Bat’yan’s population is widely dispersed into **barangays**—small villages rarely numbering more than a few hundred.
 
-### **Settlement Characteristics**
+### Settlement Characteristics
 
 - Built on stilts or raised stone to avoid flood rot
     
@@ -92,7 +94,7 @@ Leaving Bat’yan does not sever belonging; return is always assumed.
 
 ---
 
-## **V. Society & Daily Rhythm**
+## V. Society & Daily Rhythm
 
 Life in Bat’yan follows the **cycle of heat and rain**.
 
@@ -109,7 +111,7 @@ Work, art, and social life are inseparable. The pace is unhurried, but never idl
 
 ---
 
-## **VI. Faith & Cultural Character**
+## VI. Faith & Cultural Character
 
 Faith in Bat’yan is **woven into daily practice** rather than centered on temples.
 
@@ -133,7 +135,7 @@ Art and music are not professions first—they are **communal obligations**.
 
 ---
 
-## **VII. Economy & Resources**
+## VII. Economy & Resources
 
 Bat’yan is largely **self-sustaining**, producing what it needs before what it can sell.
 
@@ -170,7 +172,7 @@ Trade is personal and reputation-based; contracts are remembered, not written.
 
 ---
 
-## **VIII. Delving & Anomalies**
+## VIII. Delving & Anomalies
 
 Bat’yan contains **numerous unstable and overgrown sites** believed to predate modern delving classification.
 
@@ -185,7 +187,7 @@ Delvers are viewed cautiously. Success without respect for the land often leads 
 
 ---
 
-## **IX. Relations with Other Regions**
+## IX. Relations with Other Regions
 
 |**Region**|**Relationship**|**Summary**|
 |---|---|---|
@@ -196,7 +198,7 @@ Delvers are viewed cautiously. Success without respect for the land often leads 
 
 ---
 
-## **X. Regional Identity & Legacy**
+## X. Regional Identity & Legacy
 
 Bat’yan is not unified by banners or walls.  
 It is unified by **adaptation**.
@@ -209,7 +211,7 @@ The Ministry classifies Bat’yan as **ecologically dominant, culturally resilie
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Environmental & Cultural Studies)**  

@@ -3,7 +3,7 @@
 
 ---
 
-# **The Loamlink**
+# The Loamlink
 
 ### _The Lower Crossroads — “What Grows Beneath Also Remembers Above.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Loamlink** is a vast fungal-earthen lattice that spans beneath Aerathon’s crust and roots into other realms.  
 It is **the living bloodstream of the Material Plane**, composed of bioluminescent hyphae, mineral veins, and psychic resonance fields that share thought between soil, plant, and sentient being.
@@ -31,7 +31,7 @@ The Ministry defines it as **a living record of the planet’s subconscious**, s
 
 ---
 
-## **II. Formation & Function**
+## II. Formation & Function
 
 The Loamlink predates recorded civilization.  
 Early delvers found its glowing tendrils threading through labyrinth stone and binding relic fragments together like veins of thought.  
@@ -44,7 +44,7 @@ The Ministry regards it as both ecological marvel and archival hazard: informati
 
 ---
 
-## **III. Geography & Manifestation**
+## III. Geography & Manifestation
 
 - **Root-Veins:** Luminescent fungal highways linking labyrinths, catacombs, and forests.
     
@@ -59,7 +59,7 @@ Temperature and humidity remain constant; voices echo seconds late, often with d
 
 ---
 
-## **IV. Inhabitants & Phenomena**
+## IV. Inhabitants & Phenomena
 
 |**Entity / Phenomenon**|**Description**|
 |---|---|
@@ -67,8 +67,8 @@ Temperature and humidity remain constant; voices echo seconds late, often with d
 |**Rootkin**|Beastfolk shamans born attuned to the Loamlink; can interpret subterranean vibrations as speech.|
 |**The Green Choir**|A rumor more than a species — synchronized resonance that answers prayers with rustling leaves.|
 |**Relic-Fungi (Echocaps)**|Parasitic molds feeding on magical residue, producing spores that replay delver memories when inhaled.|
-___
-## **V. Cultural Significance**
+---
+## V. Cultural Significance
 
 - **Among Beastfolk:** The Loamlink is sacred, known as _“the Listening Earth.”_  
     Each Beastfolk tribe maintains **Communion Groves**, where ancestral voices are consulted before delving.
@@ -84,7 +84,7 @@ To touch its roots is to feel the pulse of countless generations — heavy, grou
 
 ---
 
-## **VI. Ministry Exploration & Containment**
+## VI. Ministry Exploration & Containment
 
 Early exploration under **Project Rootglass (Cycle 1315)** revealed that attempting to cut or burn the network results in **instant regrowth** elsewhere — often through nearby relic metal.  
 The Loamlink reacts defensively to violent intrusion, hardening into metallic crust known as **iron-bark**.
@@ -100,7 +100,7 @@ Current operations involve **listening posts** rather than excavation:
 
 ---
 
-## **VII. Communication & Use**
+## VII. Communication & Use
 
 Beastfolk navigators use the Loamlink to communicate silently across miles — tapping roots or striking the earth to send coded rhythms.  
 Ministry engineers have adapted this principle for **Delver Beacons**, devices that resonate along the same frequency to transmit emergency calls through stone.
@@ -110,7 +110,7 @@ No official divine attribution has been confirmed.
 
 ---
 
-## **VIII. Hazards**
+## VIII. Hazards
 
 - **Mycelial Overgrowth:** Extended proximity causes skin lesions resembling vines; curable with radiant exposure.
     
@@ -123,7 +123,7 @@ Delvers often describe the sensation as “the ground exhaling.”
 
 ---
 
-## **IX. Influence on the Material Plane**
+## IX. Influence on the Material Plane
 
 The Loamlink regulates the planet’s ecology and relic flow:
 
@@ -138,7 +138,7 @@ It is considered the **unofficial nervous system of Aerathon.**
 
 ---
 
-## **X. Cultural & Philosophical Legacy**
+## X. Cultural & Philosophical Legacy
 
 Where the Astral Sea is the mind in motion, the Loamlink is **the heart remembering**.  
 It unites soil and soul, ensuring that nothing dies without purpose.  
@@ -151,7 +151,7 @@ To listen too closely is to realize it has been whispering your name all along.
 
 ---
 
-### **Cross-Planar Feature: Root-Song Communion**
+### Cross-Planar Feature: Root-Song Communion
 
 _Any creature or relic attuned to the Loamlink gains the following trait:_
 
@@ -159,7 +159,7 @@ _Any creature or relic attuned to the Loamlink gains the following trait:_
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Natural Law & Subterranean Networks)**  

@@ -1,4 +1,4 @@
-# **Regional Politics of Arneria**
+# Regional Politics of Arneria
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Causeway Governance & Internal Political Fracture)_  
 **Primary Compiler:** **Agent Corvaine Leir** (State Power & Regional Tension)  
@@ -8,7 +8,7 @@
 
 ---
 
-## **I. Political Identity of Arneria**
+## I. Political Identity of Arneria
 
 Arneria is a land pulled in two directions.
 
@@ -20,7 +20,7 @@ Arneria’s politics are not defined by unity—but by **containment**.
 
 ---
 
-## **II. The Beylik: Authority of the Road**
+## II. The Beylik: Authority of the Road
 
 The **Beylik** represents Arneria’s formal state power.
 
@@ -48,7 +48,7 @@ The Beylik views order as survival. Without structure, Arneria would fracture un
 
 ---
 
-## **III. The Bat’yan: Authority of the Village**
+## III. The Bat’yan: Authority of the Village
 
 Beyond the Causeway’s reach, the **Bat’yan cities and barangays** operate on radically different principles.
 
@@ -65,7 +65,7 @@ The rainforest does not respect marching order.
 
 ---
 
-## **IV. Militarization & Friction**
+## IV. Militarization & Friction
 
 Arneria is the most militarized region in Aerathon.
 
@@ -82,7 +82,7 @@ Violence is rare. Tension is constant.
 
 ---
 
-## **V. Law, Order, and Selective Enforcement**
+## V. Law, Order, and Selective Enforcement
 
 The Beylik enforces law rigorously on the Causeway:
 
@@ -99,7 +99,7 @@ This selective enforcement fuels distrust on both sides.
 
 ---
 
-## **VI. Faith & Ideological Divide**
+## VI. Faith & Ideological Divide
 
 Faith is another fault line.
 
@@ -114,7 +114,7 @@ Bat’yan communities often see Beylik-sanctioned faith as political theater. Th
 
 ---
 
-## **VII. Delvers, the Labyrinths, and Internal Stress**
+## VII. Delvers, the Labyrinths, and Internal Stress
 
 Delvers exacerbate existing fractures.
 
@@ -127,29 +127,29 @@ Labyrinth incursions often strike Bat’yan lands hardest, increasing reliance o
 
 ---
 
-## **VIII. External Relations**
+## VIII. External Relations
 
 Arneria presents a unified face abroad, but internally struggles.
 
-### **Vinyot**
+### Vinyot
 
 Admired for efficiency, envied for economic leverage.
 
-### **Allemance**
+### Allemance
 
 Seen as unstable but adaptable.
 
-### **Al’Ar**
+### Al’Ar
 
 Viewed as dangerously decentralized.
 
-### **Oria**
+### Oria
 
 Respected for discipline and clarity of purpose.
 
 ---
 
-## **IX. The MDO’s Balancing Act**
+## IX. The MDO’s Balancing Act
 
 The **Ministry of Delving Operations** is tolerated as a neutral intermediary.
 
@@ -164,7 +164,7 @@ Without the MDO, Arneria’s internal tensions would likely turn violent.
 
 ---
 
-## **X. Political Character of Arneria**
+## X. Political Character of Arneria
 
 Arneria survives through **discipline**, not harmony.
 
@@ -176,7 +176,7 @@ Its weakness lies in the land and people it cannot fully command.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division**  

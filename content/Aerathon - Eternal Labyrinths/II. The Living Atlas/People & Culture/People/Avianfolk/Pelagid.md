@@ -444,7 +444,7 @@ They are frequently associated with sailing, navigation, rescue, trade, weather 
 
 ### Allemance
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Allemance|Allemance]], Pelagids are most common around broad rivers, western ports, lakeside settlements, and trade routes leading toward the coast.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Allemance|Allemance]], Pelagids are most common around broad rivers, western ports, lakeside settlements, and trade routes leading toward the coast.
 
 Allemancian Pelagids often serve as links between distant communities and the larger world beyond them.
 
@@ -473,7 +473,7 @@ Coming back with what others entrusted to you matters more.
 
 ### Oria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Oria|Oria]], Pelagids work in weather analysis, long-range logistics, skyship inspection, coastal engineering, hazard response, and communication between isolated Houses.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Oria|Oria]], Pelagids work in weather analysis, long-range logistics, skyship inspection, coastal engineering, hazard response, and communication between isolated Houses.
 
 Oric Pelagids tend to treat endurance as a measurable resource.
 
@@ -485,7 +485,7 @@ Several Oric Houses maintain Pelagid-led storm stations positioned where convent
 
 ### Vinyot
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Vinyot|Vinyot]], Pelagid travel supports trade, communication, private transport, racing, maritime insurance, salvage, and speculation.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Vinyot|Vinyot]], Pelagid travel supports trade, communication, private transport, racing, maritime insurance, salvage, and speculation.
 
 Information from a distant port may be worth enormous sums if it arrives before competing reports.
 
@@ -501,7 +501,7 @@ Pelagid labor guilds have repeatedly fought for weather-delay protections and th
 
 ### Arneria
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Arneria|Arneria]], Pelagids participate in pilgrimages, ocean vigils, funerary passages, sacred navigation, and rituals performed beyond sight of land.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Arneria|Arneria]], Pelagids participate in pilgrimages, ocean vigils, funerary passages, sacred navigation, and rituals performed beyond sight of land.
 
 Certain Arnerian traditions hold that an oath spoken where no shore can hear it belongs directly to the divine.
 
@@ -515,7 +515,7 @@ Others object that no mortal traveler should become the sole judge of what occur
 
 ### Al’Ar
 
-In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Five Greater Regions/Al'Ar|Al’Ar]], Pelagids thrive among storm coasts, dock-cities, archipelagos, floating markets, cliff settlements, and communities connected more easily by air and water than by land.
+In [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Five Greater Regions/Al'Ar|Al’Ar]], Pelagids thrive among storm coasts, dock-cities, archipelagos, floating markets, cliff settlements, and communities connected more easily by air and water than by land.
 
 Al’Ari Pelagids frequently combine navigation with performance, trade, rescue, and weather craft.
 

@@ -1,3 +1,5 @@
+# Goldentide
+
 ### _The Bread-Crown of Allemance — “What We Grow, We Guard.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Urban Agriculture & Baronial Cities)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Goldentide** is a major agrarian city of **Allemance**, formed from the intentional unification of dozens of once-independent farming villages. Though it lacks the spires, walls, and spectacle of Allemance’s older capitals, Goldentide is widely understood to be one of the **most strategically vital cities on the continent**.
 
@@ -23,11 +25,11 @@ It is the seat of the **Barony of Goldentide**, the smallest of the Alley baroni
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Goldentide spreads across a broad, fertile plain where the **Esterhine River** slows and fans into irrigation channels.
 
-### **The Ring-Farms**
+### The Ring-Farms
 
 Former villages now form concentric agricultural districts:
 
@@ -40,7 +42,7 @@ Former villages now form concentric agricultural districts:
 
 The city does not end abruptly—streets thin gradually into fields.
 
-### **The Central Weigh**
+### The Central Weigh
 
 At the heart of Goldentide stands the **Grand Weighhall**, where grain tallies, taxation, and distribution are recorded. It is the city’s true civic center, more important than any palace.
 
@@ -57,7 +59,7 @@ Beauty is measured in **yield**, not height.
 
 ---
 
-## **III. History**
+## III. History
 
 Goldentide began not as a city, but as a **region that behaved like one**. For centuries, dozens of small farming villages shared labor, irrigation, and storage without formal unification. Paths blurred, families intermarried, and seasonal cooperation became permanent expectation.
 
@@ -80,7 +82,7 @@ Goldentide’s history is remembered as a transition from **shared survival to r
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Goldentide is governed through **baronial authority layered over local councils**.
 
@@ -95,7 +97,7 @@ Authority here is pragmatic: those who mismanage food do not keep office long.
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Goldentide’s economy is singular, immense, and unapologetic.
 
@@ -114,7 +116,7 @@ Secondary industries include milling, storage magic, wagoncraft, and river logis
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Goldentide is seasonal and collective.
 
@@ -138,7 +140,7 @@ Harvest festivals are massive, citywide events lasting days.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Goldentide maintains a **standing grain guard**.
 
@@ -153,7 +155,7 @@ The city’s greatest deterrent is simple: starving Goldentide would starve ever
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Goldentide avoids the Labyrinths entirely.
 
@@ -168,7 +170,7 @@ The city believes uncertainty has no place near food.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -183,7 +185,7 @@ Goldentide shapes politics quietly—by deciding **who eats first**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Goldentide is proof that power does not need towers.
 
@@ -194,7 +196,7 @@ Its people take pride not in conquest, but in continuity. While other cities fal
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Grain silos are named and argued with
     
@@ -207,7 +209,7 @@ Its people take pride not in conquest, but in continuity. While other cities fal
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Urban Agriculture & Baronial Cities)**  

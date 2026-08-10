@@ -1,3 +1,5 @@
+# Jegervalt
+
 ### _The House of Houses — “All Roads Through Stone.”_
 
 **Ruling House:** **House Roetvald** (Oric Elk — Tunnel Wardens)  
@@ -9,7 +11,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Jegervalt** is the largest Oric lodge city in Aerathon, both in population and physical scale. It stands at the **western mouth of the Grensa Tunnel**, the only reliable passage through the Grensa Mountains that does not demand weeks of lethal cliff travel.
 
@@ -26,13 +28,13 @@ Jegervalt is known among the Oric as the **House of Houses**—a city built from
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Jegervalt is both **carved and constructed**.
 
 Rather than building outward, its founders hollowed Mount Roet itself, embedding the city into the stone while preserving massive veins of **Summerstone**, a luminous mineral that provides heat and light.
 
-### **The Gatehouse Structure**
+### The Gatehouse Structure
 
 - **West Tower & East Tower:** 15 primary layers each
     
@@ -45,7 +47,7 @@ The towers’ outer gates rise twenty feet high, opening into cavernous ground l
 
 ---
 
-## **III. History**
+## III. History
 
 Jegervalt began as a necessity, not a vision.
 
@@ -55,7 +57,7 @@ House Roetvald emerged as the primary steward of the project, committing generat
 
 As wars, migrations, and Labyrinth disruptions displaced populations, Jegervalt absorbed refugees without expanding its footprint—stacking lives vertically instead of spreading horizontally.
 
-### **Key Historical Events**
+### Key Historical Events
 
 - **971 A.D.** — First successful Summerstone stabilization within Mount Roet.
     
@@ -71,7 +73,7 @@ The mountain does not allow it.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Jegervalt is governed by **House Jegervalt**, whose stewardship is held by the **Roetvald family**. The House’s authority is inseparable from its ancient duty as **Tunnel Wardens** of Mount Roet—the single most critical transit artery in Oria.
 
@@ -91,7 +93,7 @@ Succession within House Jegervalt is conservative, deliberate, and closely scrut
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Jegervalt’s economy is utilitarian and constant.
 
@@ -110,7 +112,7 @@ Trade pauses nowhere in Jegervalt—it simply flows through.
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Jegervalt is pragmatic.
 
@@ -125,7 +127,7 @@ Culturally, the Oric concept of **collective survival** is strongest here. Succe
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Jegervalt is among the most defensible cities in Aerathon.
 
@@ -140,7 +142,7 @@ Crime is rare. Disruption is not tolerated.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Jegervalt maintains strict neutrality toward the Labyrinths.
 
@@ -155,7 +157,7 @@ The city is already burdened with one existential risk: collapse.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -169,7 +171,7 @@ If Jegervalt closes, Aerathon fractures.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Jegervalt’s people do not romanticize their city.
 
@@ -179,7 +181,7 @@ They live inside a mountain so others do not have to die crossing it.
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Residents navigate by layer number, not street
     
@@ -192,7 +194,7 @@ They live inside a mountain so others do not have to die crossing it.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Oric Infrastructure & Strategic Passages)**  

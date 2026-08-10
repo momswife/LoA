@@ -1,3 +1,5 @@
+# Bellhaven
+
 ### _The City of Dawn’s Choir — “Our Light Is Older Than Fear.”_
 
 **Filed Division:** _Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Archive)_  
@@ -8,7 +10,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Bellhaven** is the **cathedral-city of Allemance**, a radiant metropolis rising upon the southern bluffs overlooking the **Sunward Sea**. It functions simultaneously as fortress, sanctuary, pilgrimage destination, and theological capital—its streets shaped as much by ritual as by stone.
 
@@ -24,7 +26,7 @@ It is **architecture that believes**.
 
 ---
 
-## **II. Geography & Architecture**
+## II. Geography & Architecture
 
 Bellhaven ascends in **terraced sanctified tiers** from the sea cliffs, culminating in the **Great Basilica of Dawn**, whose spire is visible for leagues at sea.
 
@@ -56,7 +58,7 @@ During solstice, the Sunspire ignites the city’s lanterns in sequence—a phen
 
 ---
 
-## **III. History**
+## III. History
 
 Bellhaven was founded during the early days of the **First Concord**, when Lightbearer priests sought to preserve divine worship free from guild capture or noble patronage. They raised a single lighthouse that burned without fuel—a sign they interpreted as divine sanction.
 
@@ -80,7 +82,7 @@ It remembers **continuity**.
 
 ---
 
-## **IV. Governance**
+## IV. Governance
 
 Bellhaven is governed by the **Trinity Synod**, composed of three High Clerics representing:
 
@@ -99,7 +101,7 @@ The MDO maintains a **Faithfield Liaison Office**, regulating relic sanctificati
 
 ---
 
-## **V. Economy**
+## V. Economy
 
 Bellhaven’s economy revolves around **consecration and pilgrimage**.
 
@@ -125,7 +127,7 @@ Major institutions include the **Radiant Seminary**, **Bellfoundry**, **Sunforge
 
 ---
 
-## **VI. Faith & Culture**
+## VI. Faith & Culture
 
 Faith in Bellhaven is **constant and communal**.
 
@@ -149,7 +151,7 @@ Silence is rare—and often intentional.
 
 ---
 
-## **VII. Law & Defense**
+## VII. Law & Defense
 
 Bellhaven’s defense is maintained by the **Order of the Blazing Guard**, a militant clerical order trained in divine combat and relic containment.
 
@@ -164,7 +166,7 @@ Law here is **moral, not negotiable**.
 
 ---
 
-## **VIII. Relationships to the Labyrinths**
+## VIII. Relationships to the Labyrinths
 
 Bellhaven stands above several minor **Light Wells**, divine sinkholes emitting perpetual illumination.
 
@@ -179,7 +181,7 @@ Bellhaven views the Labyrinths as **tests**, not temptations.
 
 ---
 
-## **IX. Inter-Regional Influence**
+## IX. Inter-Regional Influence
 
 |Region|Relationship|Summary|
 |---|---|---|
@@ -194,7 +196,7 @@ Bellhaven shapes the world not by force—but by **conscience**.
 
 ---
 
-## **X. Cultural Identity & Legacy**
+## X. Cultural Identity & Legacy
 
 Bellhaven is a living cathedral.
 
@@ -207,7 +209,7 @@ The MDO regards Bellhaven as a necessary moral counterweight to bureaucratic pow
 
 ---
 
-## **XI. Quirky Natures**
+## XI. Quirky Natures
 
 - Bells are rung to mark legal verdicts
     
@@ -220,7 +222,7 @@ The MDO regards Bellhaven as a necessary moral counterweight to bureaucratic pow
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Annals & Antiquities (Cultural Geography Archive)**  

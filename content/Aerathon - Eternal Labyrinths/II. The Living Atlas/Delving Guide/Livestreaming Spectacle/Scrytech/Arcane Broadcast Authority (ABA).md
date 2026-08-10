@@ -1,7 +1,7 @@
 >“If the Oculi are the eyes of the world, then the ABA is the hand that keeps those eyes open—and honest.”
 
-___
-# **Arcane Broadcast Authority (ABA)**
+---
+# Arcane Broadcast Authority (ABA)
 
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Broadcast Conduct Bureau)_  
 **Primary Compiler:** Lt. Salvia Korrin (Arcane Breach Liaison & Scrytech Compliance Auditor)  
@@ -28,11 +28,11 @@ Every Divine Oculi feed, Guildstream channel, noble linefeed, Arcanet theater pr
 
 ---
 
-# **I. Mandate & Purpose**
+## I. Mandate & Purpose
 
 The ABA exists to regulate all aspects of public delving broadcasts, including:
 
-### **1. Broadcast Integrity**
+#### 1. Broadcast Integrity
 
 Ensuring all footage is:
 
@@ -45,7 +45,7 @@ Ensuring all footage is:
 - Accurate to in-labyrinth events
     
 
-### **2. Public Protection**
+#### 2. Public Protection
 
 Safeguarding viewers from:
 
@@ -58,7 +58,7 @@ Safeguarding viewers from:
 - Illicit subliminal spells
     
 
-### **3. Delver Protection**
+#### 3. Delver Protection
 
 Preventing:
 
@@ -71,7 +71,7 @@ Preventing:
 - Exploitative sponsorship practices
     
 
-### **4. Ethical Representation**
+#### 4. Ethical Representation
 
 Ensuring delvers are presented fairly and not as victims of:
 
@@ -84,13 +84,13 @@ Ensuring delvers are presented fairly and not as victims of:
 
 ---
 
-# **II. Structural Divisions of the ABA**
+## II. Structural Divisions of the ABA
 
 The Authority is divided into four specialized bureaus:
 
 ---
 
-## **1. Scrytech Regulation Office (SRO)**
+### 1. Scrytech Regulation Office (SRO)
 
 Oversees:
 
@@ -107,7 +107,7 @@ Oversees:
 
 ---
 
-## **2. Spectacle Integrity Division (SID)**
+### 2. Spectacle Integrity Division (SID)
 
 The investigative arm responsible for:
 
@@ -133,7 +133,7 @@ SID collaborates heavily with:
 
 ---
 
-## **3. Public Influence & Sentiment Control Bureau (PISCB)**
+### 3. Public Influence & Sentiment Control Bureau (PISCB)
 
 Regulates:
 
@@ -150,7 +150,7 @@ Monitors all public-facing broadcasts for unethical mass influence.
 
 ---
 
-## **4. Narrative Authentication Office (NAO)**
+### 4. Narrative Authentication Office (NAO)
 
 Validates:
 
@@ -169,11 +169,11 @@ Their job: prevent fiction from masquerading as fact.
 
 ---
 
-# **III. Regulatory Powers of the ABA**
+## III. Regulatory Powers of the ABA
 
 The Authority is empowered to:
 
-### **1. Suspend Broadcasts**
+#### 1. Suspend Broadcasts
 
 On grounds of:
 
@@ -186,7 +186,7 @@ On grounds of:
 - Violent ethical breaches
     
 
-### **2. Levy Fines**
+#### 2. Levy Fines
 
 Ranging from:
 
@@ -195,19 +195,19 @@ Ranging from:
 - Up to 40,000 gold (major manipulation)
     
 
-### **3. Freeze Sponsorship Contracts**
+#### 3. Freeze Sponsorship Contracts
 
 When guilds or patrons overreach.
 
-### **4. Issue Censure**
+#### 4. Issue Censure
 
 Public declarations that a delver, guild, or broadcaster has violated ethics.
 
-### **5. Seize Illicit Equipment**
+#### 5. Seize Illicit Equipment
 
 Especially glamours, forbidden scrytech, or charm-scattering conduits.
 
-### **6. Refer Cases to the Ministerial Tribunal**
+#### 6. Refer Cases to the Ministerial Tribunal
 
 For serious crimes such as:
 
@@ -224,17 +224,17 @@ For serious crimes such as:
 
 ---
 
-# **IV. Broadcast Requirements for All Delving Events**
+## IV. Broadcast Requirements for All Delving Events
 
-### **1. Active Divine Oculi Presence**
+#### 1. Active Divine Oculi Presence
 
 All official delves must be observed by at least one Oculi.
 
-### **2. Registration of Commentary**
+#### 2. Registration of Commentary
 
 All broadcast narrators must be licensed and held accountable for misrepresentation.
 
-### **3. Sponsorship Transparency**
+#### 3. Sponsorship Transparency
 
 All advertisements or sponsor markings must be:
 
@@ -247,19 +247,19 @@ All advertisements or sponsor markings must be:
 - Free of glamours
     
 
-### **4. No Temporal Playback Manipulation**
+#### 4. No Temporal Playback Manipulation
 
 Unless ordered by the Ministry under a redaction writ.
 
-### **5. No Charm, Compulsion, or Fear Magic**
+#### 5. No Charm, Compulsion, or Fear Magic
 
 On viewers, delvers, or sponsors.
 
 ---
 
-# **V. Sanctioned Technologies & Forbidden Methods**
+## V. Sanctioned Technologies & Forbidden Methods
 
-### **Allowed:**
+#### Allowed:
 
 - Tipcasting (regulated)
     
@@ -272,7 +272,7 @@ On viewers, delvers, or sponsors.
 - Ethical glamour overlays (cosmetic only)
     
 
-### **Forbidden:**
+#### Forbidden:
 
 - Memory edits
     
@@ -289,11 +289,11 @@ Use of forbidden methods constitutes Broadcast Manipulation (see legal codex).
 
 ---
 
-# **VI. Special Regulations for N-Class Teams**
+## VI. Special Regulations for N-Class Teams
 
 Due to their **Convergence relevance**, the ABA enforces heightened protections over N-Class teams (e.g., **Unit N-7**):
 
-### **1. Broadcast data is triple-verified**
+#### 1. Broadcast data is triple-verified
 
 All Oculi feeds routed through:
 
@@ -304,15 +304,15 @@ All Oculi feeds routed through:
 - SID oversight
     
 
-### **2. No narrative manipulation permitted**
+#### 2. No narrative manipulation permitted
 
 Not even by guilds, sponsors, or state entities.
 
-### **3. Odds freezing on Live Bets is mandatory**
+#### 3. Odds freezing on Live Bets is mandatory
 
 During Core pings or resonance flares.
 
-### **4. Anti-tampering wards remain active at all times**
+#### 4. Anti-tampering wards remain active at all times
 
 To prevent interference with possible fate-aligned events.
 
@@ -320,7 +320,7 @@ N-Class teams are considered part of the “Convergence-Sensitive Registry” an
 
 ---
 
-# **VII. Why the ABA Matters**
+## VII. Why the ABA Matters
 
 The Arcane Broadcast Authority is the final safeguard ensuring that delving—once a private battle for survival—is presented truthfully, ethically, and without corruption to the millions who watch.
 
@@ -346,7 +346,7 @@ but **the truth of the stone**.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Broadcast Conduct Bureau)**  

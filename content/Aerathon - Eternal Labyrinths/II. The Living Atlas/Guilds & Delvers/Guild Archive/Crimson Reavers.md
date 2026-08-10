@@ -3,7 +3,7 @@
 
 ---
 ![[b9d6d283-d14d-41d4-9565-cc479794ac05.webp]]
-# **The Crimson Reavers**
+# The Crimson Reavers
 
 ### _Private S-Class Charter Guild — “Blood is the Currency of Truth.”_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Crimson Reavers** are Aerathon’s most infamous private guild — a violent, profit-driven order whose creed rejects hierarchy, law, and mercy.  
 Headquartered in **The Reaver’s Hold** in the Titan Highlands (Free Frontier Region), they are less a guild than a _cult of survivalists_.
@@ -29,7 +29,7 @@ The Ministry recognizes their existence under duress; their profits and broadcas
 
 ---
 
-## **II. Classification**
+## II. Classification
 
 | **Guild Type** | Private S-Class Charter (Unregulated) |  
 | **Affiliation** | Independent; tolerated under §3-C (Claim Rights) and §6-F (Provenance) |  
@@ -40,12 +40,12 @@ The Ministry recognizes their existence under duress; their profits and broadcas
 
 ---
 
-## **III. Creed & Ethos**
+## III. Creed & Ethos
 
 To the Crimson Reavers, **freedom is not granted — it is taken, and kept through violence**.  
 They believe the Labyrinth rewards only those who surrender to its rhythm of brutality and chance.
 
-### **Reaver Maxims**
+### Reaver Maxims
 
 - **Violence as Creed** — Combat is worship. Each kill a hymn.
     
@@ -60,7 +60,7 @@ The Reavers mock the Ministry’s bureaucracy, calling it “paper armor.” Yet
 
 ---
 
-## **IV. The Chain of Strength**
+## IV. The Chain of Strength
 
 The Reavers reject formal ranks; leadership is decided through ritual combat known as the **Chain of Strength**.  
 Each victory grants authority until defeated. No duels are refused.
@@ -75,7 +75,7 @@ Any Reaver may challenge a superior; duels are broadcast live via the Grand Scry
 
 ---
 
-## **V. Recruitment & Membership**
+## V. Recruitment & Membership
 
 The Crimson Reavers recruit only those who have _already lost something irretrievable._  
 Membership begins with a ritual called **The Offering**, where candidates cast a personal belonging—often symbolic of restraint—into a burning pit before entering their first labyrinth unarmed.
@@ -97,9 +97,9 @@ No contracts, no dues, no allegiance—only the next battle and its winnings.
 
 ---
 
-## **VI. Operations & Practices**
+## VI. Operations & Practices
 
-### **Delving Protocol**
+### Delving Protocol
 
 The Reavers ignore nearly all Ministry expedition procedures.  
 They claim rights to any labyrinth they enter, recording only what benefits them.  
@@ -114,7 +114,7 @@ Their delves are _chaotic, unsanctioned carnivals of combat_:
 - Survivors drink from the **Bowl of Return**, a relic basin that stains their lips crimson for one week — symbol of renewed membership.
     
 
-### **Relic Trade**
+### Relic Trade
 
 Reavers sell relics through black-market brokers or directly to collectors.  
 The Ministry estimates annual income exceeding 12 million G, though none of it is taxed.  
@@ -122,7 +122,7 @@ Transactions often include blood-oath clauses enforceable only through duel.
 
 ---
 
-## **VII. Cultural Role & Media Presence**
+## VII. Cultural Role & Media Presence
 
 The Reavers are both feared and worshipped.  
 Their exploits dominate public scry-feeds, where the **Grand Scrying Network** glamorizes their carnage with illusion filters, converting massacres into performance art.  
@@ -135,9 +135,9 @@ The people call it _the best show in Aerathon._
 
 ---
 
-## **VIII. Relations with Other Powers**
+## VIII. Relations with Other Powers
 
-### **Ministry of Delving Operations**
+### Ministry of Delving Operations
 
 Official stance: _“Rogue, but statistically valuable.”_  
 The MDO avoids direct confrontation due to the Reavers’ popularity and combat capability.  
@@ -145,13 +145,13 @@ Lt. Korrin once remarked:
 
 > _“They do our dirtiest work before we decide if it was necessary.”_
 
-### **The Free Company of Louvain**
+### The Free Company of Louvain
 
 Ideological opposites.  
 Free Company delvers see the Reavers as the embodiment of chaos—the proof that delving without doctrine corrupts the soul.  
 The Reavers see them as “domesticated dogs.”
 
-### **The Argent Banner**
+### The Argent Banner
 
 Professional rivals turned informal partners.  
 The Banner purchases raw combat footage from Reaver delves to splice into its dramatized broadcasts, lending “authentic grit” to their edited performances.  
@@ -160,7 +160,7 @@ Both deny the arrangement.
 
 ---
 
-## **IX. Symbolism & Uniform**
+## IX. Symbolism & Uniform
 
 - **Emblem:** Typically **two bloodied axes paired with a daunting blackened steel helmet** 
     
@@ -173,7 +173,7 @@ Both deny the arrangement.
 
 ---
 
-## **X. The Reaver’s Hold**
+## X. The Reaver’s Hold
 
 Located deep within the **Titan Highlands**, the Reaver’s Hold is a fortress-colosseum carved from the bones of a fallen titan.  
 Its walls echo with constant combat, its arenas open to any who dare challenge for place or pride.  
@@ -190,7 +190,7 @@ The Hold functions as:
 
 ---
 
-## **XI. Political & Economic Influence**
+## XI. Political & Economic Influence
 
 Despite—or because of—their anarchy, the Reavers hold staggering economic power.  
 They control unregistered labyrinths across three regions, selling access rights to lesser guilds at predatory rates.  
@@ -200,7 +200,7 @@ Rumors persist that the Reavers fund small-scale rebellions in Arneria and Vinyo
 
 ---
 
-## **XII. Public Perception**
+## XII. Public Perception
 
 |**Faction**|**View of the Reavers**|**Summary**|
 |---|---|---|
@@ -211,7 +211,7 @@ They are chaos given a brand—and Aerathon can’t stop watching.
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — Living Atlas Division (Guild Relations Bureau)**  

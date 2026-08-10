@@ -1,3 +1,5 @@
+# Doloretsk
+
 ### _Settlement of Elkbrother’s Island_
 
 **Region:** **Oria**  
@@ -7,7 +9,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 **Doloretsk** is a name that appears rarely and without detail in Oric records. It is said to lie on **Elkbrother’s Island**, a remote landmass near the southern edge of the **Nattefrost**. Beyond this, nothing is known with certainty.
 
@@ -19,7 +21,7 @@ Its continued mention suggests persistence—but not familiarity.
 
 ---
 
-## **II. Geography & Layout**
+## II. Geography & Layout
 
 Elkbrother’s Island is described as cold, wind-scoured, and difficult to approach.
 
@@ -34,7 +36,7 @@ If Doloretsk has a layout, it has not been recorded in any surviving map.
 
 ---
 
-## **III. Economy & Work**
+## III. Economy & Work
 
 No confirmed exports, labor practices, or industry are associated with Doloretsk.
 
@@ -51,7 +53,7 @@ Oric custom suggests that if Doloretsk persists, it does so through function rat
 
 ---
 
-## **IV. Governance & Authority**
+## IV. Governance & Authority
 
 No governance structure is documented.
 
@@ -61,7 +63,7 @@ If authority exists, it is local, insular, and uninterested in recognition.
 
 ---
 
-## **V. Labyrinth Pressure (Unspoken)**
+## V. Labyrinth Pressure (Unspoken)
 
 No Labyrinth manifestation has been publicly recorded on Elkbrother’s Island.
 
@@ -71,7 +73,7 @@ No inquiries are currently active.
 
 ---
 
-## **VI. People & Tone**
+## VI. People & Tone
 
 No verified description of Doloretsk’s inhabitants exists.
 
@@ -88,7 +90,7 @@ What unites these accounts is brevity. No one stays long enough to learn more.
 
 ---
 
-## **VII. Rumors & Narrative Use**
+## VII. Rumors & Narrative Use
 
 Doloretsk is referenced only in passing:
 

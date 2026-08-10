@@ -3,7 +3,7 @@
 
 ---
 
-# **Crag-Hound**
+# Crag-Hound
 
 ### _Beast of the Highland Roads — “The Stone That Hunts.”_
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **I. Overview**
+## I. Overview
 
 The **Crag-Hound** is a hardy predator-scavenger populating the cliff trails and broken roads between **Louvain**, **Malarthain**, and the southern ridges of **Allemance**.  
 Descended from ancient guild-bred watch-beasts, its body fused over centuries with trace mineral deposits from quarry runoff and relic dust.  
@@ -25,7 +25,7 @@ Commonly seen shadowing delver caravans, the Crag-Hound straddles the line betwe
 
 ---
 
-## **II. Physical Description**
+## II. Physical Description
 
 Stocky and broad-shouldered, the Crag-Hound stands **4 ft at the shoulder** with a length near **8 ft**.  
 Hide composed of thick stone-gray fur threaded with mica shards; along spine and forelegs grow **calcite scales** that shimmer when struck by lightning.
@@ -42,7 +42,7 @@ When threatened, a Crag-Hound releases a **throat-rattle** that echoes through s
 
 ---
 
-## **III. Habitat & Behavior**
+## III. Habitat & Behavior
 
 Crag-Hounds dwell in **quarry networks**, **cavern mouths**, and along **abandoned delver roads** lined with metallic debris.  
 Their dens are marked by concentric claw-scrapes in stone, forming sigils that ward off lesser predators.
@@ -60,7 +60,7 @@ Despite their aggression, domesticated strains still serve caravan guilds as **�
 
 ---
 
-## **IV. Ecological Role**
+## IV. Ecological Role
 
 The Crag-Hound maintains the balance between scavenger and sentinel. Packs clear carrion that would otherwise attract oozes or necro-insects, and their mineral waste deposits enrich soil for cliff moss and silverleaf ferns.
 
@@ -68,7 +68,7 @@ Guild records show a correlation between declining Hound populations and increas
 
 ---
 
-## **V. Ministry Observations**
+## V. Ministry Observations
 
 Lt. Korrin’s seismographs at **Fort Kingsfang** detected low-frequency hums matching Crag-Hound howls during tremor avoidance incidents.  
 Inspector Vell confirmed that each pack maintains a shared harmonic tone unique to its bloodline — a natural ley stabilizer accidentally cultivated by centuries of living near relic sites.
@@ -77,7 +77,7 @@ Tame individuals trained by the **Louvain Road Watch** respond to whistle patter
 
 ---
 
-## **VI. Cultural Significance**
+## VI. Cultural Significance
 
 - **Beastfolk Masons:** Depict Crag-Hounds in carvings beside miners as “stone-kin.”
     
@@ -88,7 +88,7 @@ Tame individuals trained by the **Louvain Road Watch** respond to whistle patter
 
 ---
 
-## **VII. Weakness & Delving Considerations**
+## VII. Weakness & Delving Considerations
 
 |**Vulnerability**|**Explanation / Practical Note**|
 |---|---|
@@ -100,15 +100,15 @@ Tame individuals trained by the **Louvain Road Watch** respond to whistle patter
 
 ---
 
-## **VIII. Associated Materials & Uses**
+## VIII. Associated Materials & Uses
 
 |**Item**|**Description**|**Application / Hazard**|
 |---|---|---|
 |**Crag-Plate Fragment**|Mica-lined hide section; stores kinetic energy.|Used in shock-absorbing armor; detonates if overcharged.|
 |**Howl-Bone**|Jaw bone with vibratory channels.|Turned into horns for quake detection devices.|
 |**Resonant Dust**|Pulverized hide shedding.|Ingredient for alchemical cement binding wards to stone.|
-___
-## **IX. Containment & Field Guidelines**
+---
+## IX. Containment & Field Guidelines
 
 - **Classification:** Level II – Moderate Threat / Domestication Possible.
     
@@ -121,7 +121,7 @@ ___
 
 ---
 
-## **X. Summary**
+## X. Summary
 
 The **Crag-Hound** is the mountain’s memory given muscle — a relic guardian still pacing the roads it once protected.  
 To the reckless, it is a beast of jaws and shale.  
@@ -129,7 +129,7 @@ To those who listen, it is the hum of the world reminding mortals that stone hea
 
 ---
 
-### ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
+━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  
 > **Ministry of Delving Operations — _The Living Atlas_ (Beastfolk & Natural Phenomena Studies)**  
