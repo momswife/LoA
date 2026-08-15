@@ -18,3 +18,7 @@ tags:
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/06. Kala'bil|Kala'bil]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/07. Kazmak ve Küzmek|Kazmak ve Küzmek]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/08. Linang|Linang]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/09. Duyan Vale|Duyan Vale]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/10. Kal'oro Grove|Kal'oro Grove]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/11. Harik|Harik]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/12. Land's End|Land's End]]

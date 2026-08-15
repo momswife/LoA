@@ -15,3 +15,4 @@ tags:
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/03. Muraya|Muraya]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/04. Thalassar|Thalassar]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/05. Trebes|Trebes]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/06. Kyry|Kyry]]

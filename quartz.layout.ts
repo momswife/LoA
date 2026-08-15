@@ -8,24 +8,29 @@ const siteExplorerOptions = {
   order: ["filter", "map", "sort"],
   mapFn: (node) => {
     const currentDisplayName = node.displayName ?? ""
+    const isOverview =
+      !node.isFolder &&
+      (node.slugSegment === "overview" || /^∅(?:-|$)/.test(node.slugSegment ?? ""))
     const slugPrefix = (node.slugSegment ?? "").match(/^([IVXLCDM]+|\d+)\.(?:-|$)/i)?.[1]
     const displayPrefix = currentDisplayName.match(/^([IVXLCDM]+|\d+)\.\s+/i)?.[1]
 
-    // Folder index titles are reader-facing and may intentionally omit archival
-    // prefixes. Recover the prefix from the slug without replacing the title.
-    if (node.isFolder && slugPrefix && !displayPrefix) {
+    // Reader-facing titles may intentionally omit archival prefixes. Recover
+    // each prefix from the slug without replacing the human-readable title.
+    if (slugPrefix && !displayPrefix) {
       const normalizedPrefix = /^\d+$/.test(slugPrefix) ? slugPrefix : slugPrefix.toUpperCase()
       node.displayName = `${normalizedPrefix}. ${currentDisplayName}`
     }
 
-    if (!node.isFolder && node.slugSegment === "overview") {
-      node.displayName = "∅ Overview"
+    if (isOverview && !currentDisplayName.trimStart().startsWith("∅")) {
+      node.displayName = node.slugSegment === "overview" ? "∅ Overview" : `∅ ${currentDisplayName}`
     }
     return node
   },
   sortFn: (a, b) => {
-    const aIsOverview = !a.isFolder && a.slugSegment === "overview"
-    const bIsOverview = !b.isFolder && b.slugSegment === "overview"
+    const aIsOverview =
+      !a.isFolder && (a.slugSegment === "overview" || /^∅(?:-|$)/.test(a.slugSegment ?? ""))
+    const bIsOverview =
+      !b.isFolder && (b.slugSegment === "overview" || /^∅(?:-|$)/.test(b.slugSegment ?? ""))
     if (aIsOverview !== bIsOverview) return aIsOverview ? -1 : 1
     if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
 

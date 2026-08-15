@@ -23,7 +23,7 @@ aliases:
 
 Where other realms pray, Arneria **binds**.
 
-The nation is governed from **Tilkisan**, a capital of controlled beauty and inherited authority, while vast regions beyond the Causeway operate under looser, older compacts of survival and oath.
+The nation is governed from **Tilkisan**, a capital of controlled beauty and inherited authority, while vast regions beyond the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/4. Structures & Sites/05. Causeway|Causeway]] operate under looser, older compacts of survival and oath.
 
 **Capital:** **Tilkisan**  
 **Government Type:** Beylik Theocratic State (Federalized City-Regions)  
@@ -69,7 +69,7 @@ This act birthed Arneria’s defining tension:
 - **Faith as obligation**
     
 
-Civil wars followed. The survivors reorganized into city-states bound by relic authority and overseen by Flame-Thrones. Over time, these consolidated into the modern Beylik structure, centered on Tilkisan.
+Civil wars followed. The survivors reorganized into city-states bound by relic authority and overseen by Flame-Thrones. Over time, these consolidated into the modern [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/05. Beylik|Beylik]] structure, centered on Tilkisan.
 
 Arneria remembers its gods not as saviors—but as **materials**.
 

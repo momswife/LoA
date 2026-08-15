@@ -21,4 +21,4 @@ tags:
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/08. Throne of the Easterlilies|Throne of the Easterlilies]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/09. Uriah's Wood|Uriah's Wood]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/10. Verges of Ash|Verges of Ash]]
-
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/11. Gorki Peaks|Gorki Peaks]]
