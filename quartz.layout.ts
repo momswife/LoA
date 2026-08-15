@@ -7,6 +7,17 @@ const siteExplorerOptions = {
   folderClickBehavior: "collapse",
   order: ["filter", "map", "sort"],
   mapFn: (node) => {
+    const currentDisplayName = node.displayName ?? ""
+    const slugPrefix = (node.slugSegment ?? "").match(/^([IVXLCDM]+|\d+)\.(?:-|$)/i)?.[1]
+    const displayPrefix = currentDisplayName.match(/^([IVXLCDM]+|\d+)\.\s+/i)?.[1]
+
+    // Folder index titles are reader-facing and may intentionally omit archival
+    // prefixes. Recover the prefix from the slug without replacing the title.
+    if (node.isFolder && slugPrefix && !displayPrefix) {
+      const normalizedPrefix = /^\d+$/.test(slugPrefix) ? slugPrefix : slugPrefix.toUpperCase()
+      node.displayName = `${normalizedPrefix}. ${currentDisplayName}`
+    }
+
     if (!node.isFolder && node.slugSegment === "overview") {
       node.displayName = "∅ Overview"
     }
@@ -17,6 +28,58 @@ const siteExplorerOptions = {
     const bIsOverview = !b.isFolder && b.slugSegment === "overview"
     if (aIsOverview !== bIsOverview) return aIsOverview ? -1 : 1
     if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+
+    // This comparator is serialized into the browser. Keep its prefix parsing
+    // inline so the emitted function has no references to module-scope helpers.
+    const romanValues: Record<string, number> = {
+      I: 1,
+      V: 5,
+      X: 10,
+      L: 50,
+      C: 100,
+      D: 500,
+      M: 1000,
+    }
+
+    const aMatch = (a.slugSegment ?? "").match(/^([IVXLCDM]+|\d+)\.(?:-|$)/i)
+    let aOrder: number | undefined
+    if (aMatch) {
+      const token = aMatch[1].toUpperCase()
+      if (/^\d+$/.test(token)) {
+        aOrder = Number.parseInt(token, 10)
+      } else {
+        aOrder = 0
+        for (let index = 0; index < token.length; index++) {
+          const current = romanValues[token[index]] ?? 0
+          const next = romanValues[token[index + 1]] ?? 0
+          aOrder += current < next ? -current : current
+        }
+      }
+    }
+
+    const bMatch = (b.slugSegment ?? "").match(/^([IVXLCDM]+|\d+)\.(?:-|$)/i)
+    let bOrder: number | undefined
+    if (bMatch) {
+      const token = bMatch[1].toUpperCase()
+      if (/^\d+$/.test(token)) {
+        bOrder = Number.parseInt(token, 10)
+      } else {
+        bOrder = 0
+        for (let index = 0; index < token.length; index++) {
+          const current = romanValues[token[index]] ?? 0
+          const next = romanValues[token[index + 1]] ?? 0
+          bOrder += current < next ? -current : current
+        }
+      }
+    }
+
+    if (aOrder !== undefined && bOrder !== undefined && aOrder !== bOrder) {
+      return aOrder - bOrder
+    }
+    if ((aOrder === undefined) !== (bOrder === undefined)) {
+      return aOrder === undefined ? 1 : -1
+    }
+
     return (a.displayName ?? "").localeCompare(b.displayName ?? "", undefined, {
       numeric: true,
       sensitivity: "base",
