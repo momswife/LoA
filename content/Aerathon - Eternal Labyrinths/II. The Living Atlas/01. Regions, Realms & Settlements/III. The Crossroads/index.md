@@ -12,6 +12,6 @@ tags:
 
 # The Crossroads
 
-- [[The Astral Sea]]
-- [[The Loamlink]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/III. The Crossroads/01. The Astral Sea|The Astral Sea]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/III. The Crossroads/02. The Loamlink|The Loamlink]]
 

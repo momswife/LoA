@@ -13,5 +13,5 @@ tags:
 # Guilds & Charters
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/∅ Guilds & Delvers|Guilds & Delvers]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/Guild Application Process|The Founding & Maintenance of Guild Charters]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/Guild Registry/index|Guild Registry]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/01. Guild Application Process|The Founding & Maintenance of Guild Charters]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/1. Guild Registry/index|Guild Registry]]

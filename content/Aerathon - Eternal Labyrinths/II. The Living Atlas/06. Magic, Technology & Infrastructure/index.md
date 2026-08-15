@@ -21,6 +21,6 @@ Modern Aerathon does not divide magic neatly from technology. These records focu
 ## Connected Reference Shelves
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/index|Society, Economy & Everyday Life]] for work, trade, housing, care, and travel.
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/Arcane Broadcast Authority (ABA)|Arcane Broadcast Authority]] for broadcast regulation.
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/Relic Handling & Regulation|Relic Handling & Regulation]] for field and custody requirements.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/2. Arcane Broadcast Authority (ABA)/01. Arcane Broadcast Authority (ABA)|Arcane Broadcast Authority]] for broadcast regulation.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/03. Relic Handling & Regulation|Relic Handling & Regulation]] for field and custody requirements.
 

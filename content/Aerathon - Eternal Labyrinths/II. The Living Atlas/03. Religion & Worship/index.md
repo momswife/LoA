@@ -11,16 +11,11 @@ tags:
 
 # Religion & Worship
 
-These records document religion as belief, ritual, public institution, political force, cultural inheritance, and modern source of debate.
+These records move from pantheons and inherited traditions through lived worship and sacred vocation to the institutions, politics, and contested movements of modern faith.
 
-## Records
+## Browse This Section
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Active Cults|Active Cults]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Cultural Worship|Cultural Worship]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Festivals, Rites, & Prayers|Festivals, Rites, & Prayers]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Holy Orders & Clergy|Holy Orders & Clergy]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Modern Aerathon Pantheon|Modern Aerathon Pantheon]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Modern Faith Infrastructure|Modern Faith Infrastructure]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Paladins & Clerics|Paladins & Clerics]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Religion & Politics|Religion & Politics]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/Surviving Old Court Traditions|Surviving Old Court Traditions]]
+1. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/index|Pantheons & Inherited Traditions]]
+2. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/II. Worship, Rites & Religious Life/index|Worship, Rites & Religious Life]]
+3. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/III. Clergy, Orders & Sacred Vocation/index|Clergy, Orders & Sacred Vocation]]
+4. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/IV. Faith Infrastructure, Politics & Dissent/index|Faith Infrastructure, Politics & Dissent]]

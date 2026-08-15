@@ -64,7 +64,7 @@ The surrounding divisions answer different questions.
 - [[Elder Civilizations|Ancient Peoples & Civilizations]] records the societies that made, used, inherited, or misunderstood a site.
 - [[Conflicts, Catastrophes, & Treaties]] records the events that damaged, buried, transferred, or weaponized it.
 - [[Figures, Institutions, Houses & Lineages]] records the people and bodies that claimed authority through it.
-- [[The Living Atlas]] records present custodians, ministries, laws, settlements, markets, and political disputes.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/03b. The Living Atlas|The Living Atlas]] records present custodians, ministries, laws, settlements, markets, and political disputes.
 
 Section 06 owns the **material witness**.
 

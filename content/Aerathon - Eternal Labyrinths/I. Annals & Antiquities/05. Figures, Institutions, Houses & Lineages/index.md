@@ -46,7 +46,7 @@ It contains three related classes of subject:
 
 The section is principally pre-Labyrinth.
 
-Modern ministries, noble houses, corporations, guilds, military orders, media institutions, and public figures belong in the [[The Living Atlas|Living Atlas]]. A modern body may claim descent from an ancient institution. The claim does not move the modern organization into Annals & Antiquities or prove continuous authority.
+Modern ministries and public authorities belong in the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/index|Living Atlas government records]]. Present-day crowns, noble houses, claimants, and inherited offices belong in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/IV. Crowns, Noble Houses & Inherited Offices/index|Crowns, Noble Houses & Inherited Offices]]. Modern corporations, associations, and non-governmental orders belong in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/index|Organizations, Companies & Associations]], while licensed delving guilds retain their own registry. A modern body may claim descent from an ancient institution. The claim does not move the modern organization into Annals & Antiquities or prove continuous authority.
 
 This archive asks narrower questions:
 
@@ -252,4 +252,3 @@ These are filed under Ancient Peoples & Civilizations because their defining ide
 
 > _“A name may cross three thousand years. Authority has to cross every life harmed in carrying it.”_  
 > — **Magistrate Talar Shellmark**
-

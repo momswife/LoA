@@ -2,7 +2,7 @@
 
 This is the repository-level standard for maintaining the Lore Vault. It complements
 `CONTENT_GUIDE.md` and the in-world
-`content/Aerathon - Eternal Labyrinths/II. The Living Atlas/Government Entities/Ministry of Delving Operations (MDO)/MDO Style and Filing Manual.md`.
+`content/Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/03a. MDO Style and Filing Manual.md`.
 The MDO manual governs the voice and filing shape of formal records; this guide governs files,
 metadata, links, and cross-repository consistency.
 
@@ -39,7 +39,14 @@ inference, rumor, and restricted campaign knowledge distinct.
 - Use a stable, recognizable subject name for the filename. The H1 may be more descriptive, but true
   spelling changes belong in the filename and the older form should be retained as an alias. Add a
   parenthetical qualifier only to disambiguate otherwise identical names, as in `Dole (Capital).md`.
-- Match the existing numbered folder taxonomy. Do not renumber or redesign a major branch casually.
+- Match the existing numbered folder taxonomy. Archive divisions and main category folders use Roman
+  numerals; top-level series and branch folders use Arabic numerals. Authored record files use stable,
+  zero-padded identifiers such as `01.`, `02.`, and `03.`.
+- Use lettered record suffixes such as `01a.` only for a genuine subrecord of `01.`. Peer records use
+  their own numbers. `Overview.md`, `index.md`, and `∅` conceptual overview pages remain unnumbered.
+- Assign filing order intentionally: chronology for eras, operational sequence for procedures,
+  capitals before other settlements, and a declared alphabetical or classificatory order for
+  registries. Do not renumber or redesign a major branch casually.
 - `Overview.md`, `index.md`, and `∅` overview pages have distinct established navigation roles. Preserve
   existing uses. A new folder landing page should normally be `index.md`; a named conceptual overview
   may use the established `∅ Name.md` pattern where its sibling category already does so.

@@ -14,15 +14,15 @@ tags:
 
 These records establish the shared metaphysical foundations used throughout the Annals, from the First Making and the Two Heavens to mortal magic, death, and early Labyrinth theory.
 
-## I.  Cosmology & Origins
+## I. Cosmology & Origins
 
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/07. Forbidden Manifestation and Edict Failure|Forbidden Manifestation and Edict Failure]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/03. The Creation of the Beastfolk|The Creation of the Beastfolk]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/02. The Creation of the Brethren|The Creation of the Brethren]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/04. The First Concord and Its Breaking|The First Concord and Its Breaking]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/01. The First Making|The First Making]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/06. The Quiet Edict|The Quiet Edict and the World Left Behind]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I.  Cosmology & Origins/05. The War of Two Heavens|The War of the Two Heavens]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/07. Forbidden Manifestation and Edict Failure|Forbidden Manifestation and Edict Failure]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/03. The Creation of the Beastfolk|The Creation of the Beastfolk]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/02. The Creation of the Brethren|The Creation of the Brethren]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/04. The First Concord and Its Breaking|The First Concord and Its Breaking]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/01. The First Making|The First Making]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/06. The Quiet Edict|The Quiet Edict and the World Left Behind]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/I. Cosmology & Origins/05. The War of Two Heavens|The War of the Two Heavens]]
 
 ## II. Laws of a Changed World
 
@@ -53,7 +53,7 @@ These records establish the shared metaphysical foundations used throughout the 
 
 ## V. Early Labyrinth Theories
 
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/Divine Metaphysics and Labyrinth Theory|Divine Metaphysics and Labyrinth Theory]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/The First Recorded Labyrinths|The First Recorded Labyrinths]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/The Living Labyrinth Debate|The Living Labyrinth Debate]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/Theories of Labyrinth Origin|Theories of Labyrinth Origin]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/01. Divine Metaphysics and Labyrinth Theory|Divine Metaphysics and Labyrinth Theory]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/02. The First Recorded Labyrinths|The First Recorded Labyrinths]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/03. The Living Labyrinth Debate|The Living Labyrinth Debate]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/04. Theories of Labyrinth Origin|Theories of Labyrinth Origin]]

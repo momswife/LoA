@@ -235,7 +235,7 @@ It is to understand what the peace required people to accept.
 - [[The First Concord and Its Breaking]]
 - [[The War of Two Heavens]]
 - [[The Quiet Edict]]
-- [[The First Recorded Labyrinths]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/01. Fundamentals of Recorded Reality/V. Early Labyrinth Theories/02. The First Recorded Labyrinths|The First Recorded Labyrinths]]
 
 ---
 

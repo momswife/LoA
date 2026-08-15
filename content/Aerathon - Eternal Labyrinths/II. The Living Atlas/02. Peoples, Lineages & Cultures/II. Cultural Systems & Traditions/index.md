@@ -15,10 +15,10 @@ Cultural records describe learned, practiced, inherited, adopted, or contested w
 
 ## Avianfolk Traditions
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/Avianfolk Traditions/∅ Avianfolk Cultural Traditions|Avianfolk Cultural Traditions]]
-- [[Modern Stormriders]]
-- [[The Fifth Current]]
-- [[The Four Cardinal Winds]]
-- [[The Wind-Mothers]]
-- [[Turning the Wing]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/∅ Avianfolk Cultural Traditions|Avianfolk Cultural Traditions]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/05. Modern Stormriders|Modern Stormriders]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/04. The Fifth Current|The Fifth Current]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/01. The Four Cardinal Winds|The Four Cardinal Winds]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/02. The Wind-Mothers|The Wind-Mothers]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/03. Turning the Wing|Turning the Wing]]
 

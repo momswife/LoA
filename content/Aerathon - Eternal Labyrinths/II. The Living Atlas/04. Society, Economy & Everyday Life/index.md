@@ -28,6 +28,7 @@ These records explain those ordinary systems without pretending that one region,
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/index|Geographic Regions]] for the resources and conditions of each Greater Region.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/index|Governments & Geopolitics]] for the authorities, Houses, companies, and councils that govern local economic life.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/index|Delving, Guilds & the Spectacle]] for chartered guilds and the spectacle economy surrounding them.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/index|Organizations, Companies & Associations]] for named trade bodies, civic groups, mercenary companies, and other organized interests.
 
 > [!note] Current scope
 > These are continental orientation records, not price lists. Local law, harvests, hazards, and access can change faster than a general filing can be revised.

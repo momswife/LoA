@@ -14,7 +14,7 @@ tags:
 
 # From Delving to Spectacle
 
-The passage from the [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/V. The Age of Delving|Age of Delving]] to the [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/VI. The Age of Spectacle|Age of Spectacle]] is the central transition of post-Collapse Aerathon. It marks the point at which systems built to recover and preserve the world also became systems for displaying, measuring, financing, and contesting it before an audience.
+The passage from the [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/05. The Age of Delving|Age of Delving]] to the [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/06. The Age of Spectacle|Age of Spectacle]] is the central transition of post-Collapse Aerathon. It marks the point at which systems built to recover and preserve the world also became systems for displaying, measuring, financing, and contesting it before an audience.
 
 ## The Two Ages
 
@@ -28,7 +28,7 @@ The boundary is not a clean rupture. The Age of Spectacle inherited the guilds, 
 
 Several systems connect the two ages:
 
-- **Institutional authority:** recovery councils, guild accords, and breach law developed into the modern [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/Ministry of Delving Operations (MDO)/Ministry of Delving Operations|Ministry of Delving Operations]] and its continental regulatory order.
+- **Institutional authority:** recovery councils, guild accords, and breach law developed into the modern [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/01. Ministry of Delving Operations|Ministry of Delving Operations]] and its continental regulatory order.
 - **Professional delving:** licenses, field standards, guild charters, and classifications now meet in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/index|Delving, Guilds & the Spectacle]].
 - **Observation infrastructure:** the need to preserve and relay expeditions developed into [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/index|Scrytech & Public Communication]] and the institutions that govern it.
 - **Public economy:** relic recovery and guild labor became inseparable from sponsorship, wagering, reputation, and the wider systems recorded in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/index|Society, Economy & Everyday Life]].

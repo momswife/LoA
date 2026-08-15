@@ -18,17 +18,17 @@ No single political description applies equally across every Greater Region. A r
 
 ## I. Continental Institutions
 
-The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/Ministry of Delving Operations (MDO)/Ministry of Delving Operations|Ministry of Delving Operations]] exercises the principal cross-regional authority documented in this branch. Its mandate, divisions, jurisdiction, research standards, and filing practices are recorded separately from the governments with which it negotiates.
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/01. Ministry of Delving Operations|Ministry of Delving Operations]] exercises the principal cross-regional authority documented in this branch. Its mandate, divisions, jurisdiction, research standards, and filing practices are recorded separately from the governments with which it negotiates.
 
 Continental reach does not make Ministry authority absolute. Regional law, charters, treaties, guilds, communities, and practical limits all shape what an office can enforce.
 
 ## II. Greater Region Politics
 
-- [[Regional Politics of Al'Ar]]
-- [[Regional Politics of Allemance]]
-- [[Regional Politics of Arneria]]
-- [[Regional Politics of Oria]]
-- [[Regional Politics of Vinyot]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/01. Regional Politics of Al'Ar|Regional Politics of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/02. Regional Politics of Allemance|Regional Politics of Allemance]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|Regional Politics of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria|Regional Politics of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]]
 
 These records summarize current political structure, internal pressures, external relationships, and the effect of delving upon regional power.
 
@@ -36,10 +36,10 @@ These records summarize current political structure, internal pressures, externa
 
 Some territories possess political identities or arrangements that cannot be understood only through the Greater Region that claims or surrounds them.
 
-- [[Sub-Regional Politics of Bat'yan]]
-- [[Sub-Regional Politics of Glasrún]]
-- [[Sub-Regional Politics of the Fortunata Hills]]
-- [[Sub-Regional Politics of the Houses of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/01. Sub-Regional Politics of Bat'yan|Sub-Regional Politics of Bat'yan]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/02. Sub-Regional Politics of Glasrún|Sub-Regional Politics of Glasrún]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/03. Sub-Regional Politics of the Fortunata Hills|Sub-Regional Politics of the Fortunata Hills]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/04. Sub-Regional Politics of the Houses of Oria|Sub-Regional Politics of the Houses of Oria]]
 
 ## IV. Connected Records
 

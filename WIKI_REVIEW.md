@@ -6,7 +6,7 @@ This file records only conflicts or missing facts that cannot be resolved safely
 
 ### File
 
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/I. The Material Realms/Notable Distinct Regions/Monster Meadows.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/02. Monster Meadows.md`
 
 ### Conflict
 

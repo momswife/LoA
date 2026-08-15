@@ -29,11 +29,11 @@ Use these records to understand what is happening now—not what history will ev
 
 ## Browse the Monthly Ledger
 
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Bounties & Mission Board/index|Bounties & Mission Board]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Event Calendar/index|Event Calendar]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Faction Activity Reports/index|Faction Activity Reports]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Headlines & Rumors/index|Headlines & Rumors]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Market Rotations/index|Market Rotations]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Missing Persons/index|Missing Persons]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Political Climate Watch/index|Political Climate Watch]]
-- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Travel Advisories/index|Travel Advisories]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/01. Bounties & Mission Board/index|Bounties & Mission Board]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/02. Event Calendar/index|Event Calendar]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/03. Faction Activity Reports/index|Faction Activity Reports]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/04. Headlines & Rumors/index|Headlines & Rumors]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/05. Market Rotations/index|Market Rotations]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/06. Missing Persons/index|Missing Persons]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/07. Political Climate Watch/index|Political Climate Watch]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/08. Travel Advisories/index|Travel Advisories]]

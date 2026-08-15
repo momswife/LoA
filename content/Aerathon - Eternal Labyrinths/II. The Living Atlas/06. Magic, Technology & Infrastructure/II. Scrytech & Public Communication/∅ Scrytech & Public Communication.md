@@ -43,7 +43,7 @@ A scry transmission depends on several layers working together:
 
 Every step can alter what reaches the viewer. A missing angle, damaged relay, delayed calibration, editorial selection, or false signal may produce a record that is vivid but incomplete.
 
-For the engineered system, see [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/Scrying Architecture|Scrying Architecture]].
+For the engineered system, see [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/01. Scrying Architecture|Scrying Architecture]].
 
 ## III. Oculi, GSN, and Arcanet
 
@@ -83,7 +83,7 @@ Connection shortens the time between event and witness. It does not eliminate di
 
 ## Related Records
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/Grand Scrying Network (GSN)|The Grand Scrying Network]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/Divine Oculi|Divine Oculi]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Arcanet Core|The Arcanet Core]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/03. Grand Scrying Network (GSN)|The Grand Scrying Network]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/02. Divine Oculi|Divine Oculi]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/03. Arcanet Core|The Arcanet Core]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/04. Trade & Travel Across Aerathon|Trade & Travel Across Aerathon]]

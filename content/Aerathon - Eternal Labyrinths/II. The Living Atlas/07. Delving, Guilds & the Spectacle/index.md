@@ -24,3 +24,5 @@ This section follows modern delving from first registration through field operat
 5. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/index|Broadcasts, Audiences & Sponsorship]]
 
 For the historical development of delving and its transformation into mass spectacle, begin with [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/index|Eras & Timelines]].
+
+Named mercenary companies, trade associations, civic-defense groups, and other organizations without a delving charter belong in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/index|Organizations, Companies & Associations]].

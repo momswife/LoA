@@ -10,6 +10,7 @@ classification:
 revision:
 facts:
   Headquarters:
+  Operational Scope:
   Leadership:
   Standing:
 draft: true
@@ -19,7 +20,7 @@ draft: true
 
 <!-- Remove sections that do not serve this subject before publishing. -->
 
-**Filed Division:** _Ministry of Delving Operations_
+**Filed Division:** _Living Atlas — Organizations, Companies & Associations_
 
 **Primary Compiler:**
 
@@ -34,16 +35,18 @@ draft: true
 
 ## III. Purpose and Mandate
 
-## IV. Authority and Limits
+## IV. Standing, Jurisdiction, and Limits
 
 ## V. Structure and Leadership
 
-## VI. Membership and Operations
+## VI. Membership, Funding, and Operations
 
 ## VII. Relationships
 
 ## VIII. Public Role and Criticism
 
-## IX. Current Status
+## IX. Position on Delving and Crisis Response
 
-## X. Related Records
+## X. Current Status
+
+## XI. Related Records

@@ -13,9 +13,9 @@ tags:
 
 These records describe planes that interact with material Aerathon without following ordinary national or geographic boundaries.
 
-- [[The Dreaming]]
-- [[The Feywilds]]
-- [[The Netherworld]]
-- [[The Shattersea]]
-- [[The Wanehollow]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/II. The Hidden Planes/01. The Dreaming|The Dreaming]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/II. The Hidden Planes/02. The Feywilds|The Feywilds]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/II. The Hidden Planes/03. The Netherworld|The Netherworld]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/II. The Hidden Planes/04. The Shattersea|The Shattersea]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/II. The Hidden Planes/05. The Wanehollow|The Wanehollow]]
 

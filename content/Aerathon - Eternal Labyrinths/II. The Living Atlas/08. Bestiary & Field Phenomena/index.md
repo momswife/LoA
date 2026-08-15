@@ -11,7 +11,7 @@ tags:
 
 # 08. Bestiary & Field Phenomena
 
-The Bestiary organizes fauna, entities, and recurring field phenomena by origin and observable behavior. Its classifications support recognition and research; they do not imply that every subject within a category shares the same nature, intelligence, disposition, or threat.
+The Bestiary organizes fauna, entities, and recurring field phenomena by provenance and observable behavior. The shelf order moves from material fauna through elemental, planar, artificial, Labyrinth-born, sacred, corrupted, post-mortal, and finally unique subjects. It does not represent an escalation of danger.
 
 ## Filing Boundary
 
@@ -19,71 +19,71 @@ This section is not a catalogue of peoples. Current sapient peoples, playable li
 
 Bestiary filing indicates how a subject is encountered and studied in the field. It is not a judgment of personhood or moral standing, and inclusion does not mean that the subject is inherently hostile.
 
-## Aberrations & Labyrinth-Born
+## I. Beasts & Fauna
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Aberrations & Labyrinth-Born/Cognivore Leech|Cognivore Leech]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Aberrations & Labyrinth-Born/Echo Sliver|Echo Sliver]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Aberrations & Labyrinth-Born/Meatglass Serpent|Meatglass Serpent]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Aberrations & Labyrinth-Born/Mirror Husk|Mirror Husk]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Aberrations & Labyrinth-Born/The Shattered Choir|The Shattered Choir]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/01. Crag-Hound|Crag-Hound]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/02. Dewflame Moth|Dewflame Moth]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/03. Frost-Mane Elk|Frost-Mane Elk]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/04. Iron-Bough Boar|Iron-Bough Boar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/05. Sandglass Vulture|Sandglass Vulture]]
 
-## Beasts & Fauna
+## II. Elementals & Weather-Born
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Beasts & Fauna/Crag-Hound|Crag-Hound]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Beasts & Fauna/Dewflame Moth|Dewflame Moth]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Beasts & Fauna/Frost-Mane Elk|Frost-Mane Elk]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Beasts & Fauna/Iron-Bough Boar|Iron-Bough Boar]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Beasts & Fauna/Sandglass Vulture|Sandglass Vulture]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/01. Ash Herald|Ash Herald]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/02. Glassfire Djinn|Glassfire Djinn]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/03. Stormwraith|Stormwraith]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/04. Tide-Heart Leviathan|Tide-Heart Leviathan]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/05. Whisper Gale|Whisper Gale]]
 
-## Constructs, Relics & Artificial Life
+## III. Fey, Dream-Born & Illusionary
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Constructs, Relics & Artificial Life/Aether Sentinels|Aether Sentinels]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Constructs, Relics & Artificial Life/Chain-Born|Chain-Born]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Constructs, Relics & Artificial Life/Iron-Spindle Weavers|Iron-Spindle Weavers]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Constructs, Relics & Artificial Life/Vox Engines|Vox Engines]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/III. Fey, Dream-Born & Illusionary/01. Hollow Dancers|Hollow Dancers]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/III. Fey, Dream-Born & Illusionary/02. Lachyrmoths|Lachyrmoths]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/III. Fey, Dream-Born & Illusionary/03. Lantern Fawns|Lantern Fawns]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/III. Fey, Dream-Born & Illusionary/04. Mendlings|Mendlings]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/III. Fey, Dream-Born & Illusionary/05. Thorncourt Harriers|Thorncourt Harriers]]
 
-## Divine & Mythic
+## IV. Constructs, Relics & Artificial Life
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Divine & Mythic/Aurora Stag|Aurora Stag]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Divine & Mythic/Echo of Lathander|Echo of Lathander]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Divine & Mythic/Forge-Wyrms of Dain|Forge Wyrms of Dain]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Divine & Mythic/Lily Seraph|Lily Seraphs]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Divine & Mythic/Sun Bull's Mirage|Sun Bull’s Mirage]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IV. Constructs, Relics & Artificial Life/01. Aether Sentinels|Aether Sentinels]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IV. Constructs, Relics & Artificial Life/02. Chain-Born|Chain-Born]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IV. Constructs, Relics & Artificial Life/03. Iron-Spindle Weavers|Iron-Spindle Weavers]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IV. Constructs, Relics & Artificial Life/04. Vox Engines|Vox Engines]]
 
-## Elementals & Weather-Born
+## V. Aberrations & Labyrinth-Born
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Elementals & Weather-Born/Ash Herald|Ash Herald]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Elementals & Weather-Born/Glassfire Djinn|Glassfire Djinn]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Elementals & Weather-Born/Stormwraith|Stormwraith]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Elementals & Weather-Born/Tide-Heart Leviathan|Tide-Heart Leviathan]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Elementals & Weather-Born/Whisper Gale|Whisper Gale]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/V. Aberrations & Labyrinth-Born/01. Cognivore Leech|Cognivore Leech]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/V. Aberrations & Labyrinth-Born/02. Echo Sliver|Echo Sliver]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/V. Aberrations & Labyrinth-Born/03. Meatglass Serpent|Meatglass Serpent]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/V. Aberrations & Labyrinth-Born/04. Mirror Husk|Mirror Husk]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/V. Aberrations & Labyrinth-Born/05. The Shattered Choir|The Shattered Choir]]
 
-## Fey, Dream-Born & Illusionary
+## VI. Divine & Mythic
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Fey, Dream-Born & Illusionary/Hollow Dancers|Hollow Dancers]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Fey, Dream-Born & Illusionary/Lachyrmoths|Lachyrmoths]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Fey, Dream-Born & Illusionary/Lantern Fawns|Lantern Fawns]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Fey, Dream-Born & Illusionary/Mendlings|Mendlings]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Fey, Dream-Born & Illusionary/Thorncourt Harriers|Thorncourt Harriers]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VI. Divine & Mythic/01. Aurora Stag|Aurora Stag]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VI. Divine & Mythic/02. Echo of Lathander|Echo of Lathander]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VI. Divine & Mythic/03. Forge-Wyrms of Dain|Forge Wyrms of Dain]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VI. Divine & Mythic/04. Lily Seraph|Lily Seraphs]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VI. Divine & Mythic/05. Sun Bull's Mirage|Sun Bull’s Mirage]]
 
-## Infernal, Demonic & Corrupted
+## VII. Infernal, Demonic & Corrupted
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Infernal, Demonic & Corrupted/Blightborn Seraphs|Blightborn Seraphs]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Infernal, Demonic & Corrupted/Cinder Imps|Cinder Imps]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Infernal, Demonic & Corrupted/Mirrorfiend|Mirrorfiends]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Infernal, Demonic & Corrupted/Sin-Root|Sin-Roots]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Infernal, Demonic & Corrupted/Veryiss-Spawns|Veryiss-Spawns]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VII. Infernal, Demonic & Corrupted/01. Blightborn Seraphs|Blightborn Seraphs]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VII. Infernal, Demonic & Corrupted/02. Cinder Imps|Cinder Imps]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VII. Infernal, Demonic & Corrupted/03. Mirrorfiend|Mirrorfiends]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VII. Infernal, Demonic & Corrupted/04. Sin-Root|Sin-Roots]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VII. Infernal, Demonic & Corrupted/05. Veryiss-Spawns|Veryiss-Spawns]]
 
-## Undead, Echoed, & Forgotten
+## VIII. Undead, Echoed & Forgotten
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Undead, Echoed, & Forgotten/Choir-Bone Angels|Choir-Bone Angels]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Undead, Echoed, & Forgotten/Glass-Eyed Pilgrim|Glass-Eyed Pilgrims]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Undead, Echoed, & Forgotten/Riftspawn Remnant|Riftspawn Remnant]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Undead, Echoed, & Forgotten/Snow-Echo Phantoms|Snow-Echo Phantoms]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Undead, Echoed, & Forgotten/The Black Saint|The Black Saint]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/01. Choir-Bone Angels|Choir-Bone Angels]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/02. Glass-Eyed Pilgrim|Glass-Eyed Pilgrims]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/03. Riftspawn Remnant|Riftspawn Remnant]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/04. Snow-Echo Phantoms|Snow-Echo Phantoms]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/05. The Black Saint|The Black Saint]]
 
-## Unique & Legendary
+## IX. Unique & Legendary
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Unique & Legendary/The Glass Mother|The Glass Mother]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Unique & Legendary/The Hundred-Tongued Leviathan|The Hundred-Tongued Leviathan]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/Unique & Legendary/The Sleeping Mouth|The Sleeping Mouth]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IX. Unique & Legendary/01. The Glass Mother|The Glass Mother]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IX. Unique & Legendary/02. The Hundred-Tongued Leviathan|The Hundred-Tongued Leviathan]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/IX. Unique & Legendary/03. The Sleeping Mouth|The Sleeping Mouth]]

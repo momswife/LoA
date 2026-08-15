@@ -37,3 +37,4 @@ Unlike historical records, these entries are revised whenever borders shift, gov
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/index|Magic, Technology & Infrastructure]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/index|Delving, Guilds & the Spectacle]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/index|Bestiary & Field Phenomena]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/index|Organizations, Companies & Associations]]

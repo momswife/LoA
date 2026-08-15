@@ -14,14 +14,14 @@ tags:
 
 ## Foundational Knowledge
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Delving Registration|Delving Registration]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Arcanet Ceremony|The Arcanet Ceremony]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Arcanet Core|The Arcanet Core]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Unified Delving Merit Index|The Unified Delving Merit Index (UDMI)]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/01. Delving Registration|Delving Registration]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/02. Arcanet Ceremony|The Arcanet Ceremony]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/03. Arcanet Core|The Arcanet Core]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/04. Unified Delving Merit Index|The Unified Delving Merit Index (UDMI)]]
 
 ## Rules & Regulations
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Ethical Delving|Ethical Delving]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Labyrinth Classifications|Labyrinth Classifications]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Labyrinth Safety & Compliance|Labyrinth Safety & Compliance]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/Canon Charter (MDO)|The Canon Charter of the Ministry of Delving Operations]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/05. Labyrinth Classifications|Labyrinth Classifications]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/06. Ethical Delving|Ethical Delving]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/07. Labyrinth Safety & Compliance|Labyrinth Safety & Compliance]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/08. Canon Charter (MDO)|The Canon Charter of the Ministry of Delving Operations]]

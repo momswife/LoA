@@ -12,6 +12,6 @@ tags:
 
 # Field Operations & Safety
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/Breach Containment|Breach Containment]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/Labyrinth Cartography|Labyrinth Cartography]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/Relic Handling & Regulation|Relic Handling & Regulation]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/01. Labyrinth Cartography|Labyrinth Cartography]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/02. Breach Containment|Breach Containment]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/03. Relic Handling & Regulation|Relic Handling & Regulation]]

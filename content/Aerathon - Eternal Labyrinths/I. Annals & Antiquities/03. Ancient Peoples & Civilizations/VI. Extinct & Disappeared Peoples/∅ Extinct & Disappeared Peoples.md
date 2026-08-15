@@ -26,10 +26,10 @@ Both conclusions remain subject to revision. Labyrinth recurrence, altered geogr
 
 ## II. Current Records
 
-- [[Glassfolk]] — a crystalline people associated with Porta Strega whose surviving record centers upon photomantic transformation and the Shatterfall.
-- [[Moonstalkers]] — a nocturnal people of the Blackwild whose disappearance is remembered as the Long Waning.
-- [[The Pale Kith]] — a subterranean people reconstructed through the remains and records of the Under-Veins.
-- [[The Wyrm-Choir of Namira|Wyrm-Choir of Namira]] — a deep-ocean culture whose history was inseparable from leviathanic song.
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/01. Glassfolk|Glassfolk]] — a crystalline people associated with Porta Strega whose surviving record centers upon photomantic transformation and the Shatterfall.
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/02. Moonstalkers|Moonstalkers]] — a nocturnal people of the Blackwild whose disappearance is remembered as the Long Waning.
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/03. The Pale Kith|The Pale Kith]] — a subterranean people reconstructed through the remains and records of the Under-Veins.
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/04. The Wyrm-Choir of Namira|Wyrm-Choir of Namira]] — a deep-ocean culture whose history was inseparable from leviathanic song.
 
 ## III. Evidentiary Limits
 
@@ -40,7 +40,7 @@ Where evidence concerns anatomy, magic, faith, or cultural practice, the record 
 ## Related Records
 
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/V. Historical Classification & Reconstructed Peoples/01. From Ancient Kinship to Modern Folk Classification|From Ancient Kinship to Modern Folk Classification]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/IV. The Age of Collapse|The Age of Collapse]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/04. The Age of Collapse|The Age of Collapse]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/06. Relics, Ruins, & Archaeological Records/index|Relics, Ruins, & Archaeological Records]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/index|Modern Peoples & Culture]]
 

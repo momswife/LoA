@@ -56,10 +56,10 @@ These records examine the peoples and civilizations that shaped the pre-Labyrint
 
 ## IV. Shared Customs & Ways
 
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/Birth, Bond, & Burial|Birth, Bond, and Burial]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/Dress & Sign|Dress & Sign]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/The Laws Invisible|The Laws Invisible]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/Tongues of the Old Way|Tongues of the Old Way]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/01. Birth, Bond, & Burial|Birth, Bond, and Burial]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/02. Dress & Sign|Dress & Sign]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/03. The Laws Invisible|The Laws Invisible]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/04. Tongues of the Old Way|Tongues of the Old Way]]
 
 ## V. Historical Classification & Reconstructed Peoples
 
@@ -68,7 +68,7 @@ These records examine the peoples and civilizations that shaped the pre-Labyrint
 ## VI. Extinct & Disappeared Peoples
 
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/∅ Extinct & Disappeared Peoples|Extinct & Disappeared Peoples]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/Glassfolk|Glassfolk]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/Moonstalkers|Moonstalkers]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/The Pale Kith|The Pale Kith]]
-- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/The Wyrm-Choir of Namira|Wyrm-Choir of Namira]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/01. Glassfolk|Glassfolk]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/02. Moonstalkers|Moonstalkers]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/03. The Pale Kith|The Pale Kith]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/04. The Wyrm-Choir of Namira|Wyrm-Choir of Namira]]

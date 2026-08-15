@@ -40,7 +40,7 @@ This archive records ancient Beastfolk kinship, household life, territorial prac
 
 - the origin reconstruction preserved in [[The Creation of the Beastfolk]];
 - modern ancestry records maintained within [[∅ Beastfolk|The Living Atlas]];
-- the distinct modern filing of [[∅ Avianfolk|Avianfolk]], [[Chelonian|Chelonians]], and other peoples once included in broader Beastfolk categories;
+- the distinct modern filing of [[∅ Avianfolk|Avianfolk]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/6. Scalefolk/02. Chelonian|Chelonians]], and other peoples once included in broader Beastfolk categories;
 - or the histories of particular rulers, institutions, wars, and relics maintained elsewhere in the Ministry archive.
 
 ---
@@ -90,7 +90,7 @@ Common ancient categories included:
 
 These categories were cultural and relational. They were not a perfect biological tree.
 
-Modern classifications should not be projected backward unchanged. The ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]] belong in this archive because they participated in the Beastfolk political and ritual world of their time. Their descendants’ later recognition as Avianfolk does not make that history false. Likewise, the [[Shell-Ledger Houses]] included Chelonian and river-associated peoples whose modern descendants may be filed as [[Chelonian|Chelonians]] among [[∅ Scalefolk|Scalefolk]] or [[Testudinan|Testudinans]] among [[∅ Aquaticfolk|Aquaticfolk]].
+Modern classifications should not be projected backward unchanged. The ancient [[The Sky-Reeve Clans|Sky-Reeve Clans]] belong in this archive because they participated in the Beastfolk political and ritual world of their time. Their descendants’ later recognition as Avianfolk does not make that history false. Likewise, the [[Shell-Ledger Houses]] included Chelonian and river-associated peoples whose modern descendants may be filed as [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/6. Scalefolk/02. Chelonian|Chelonians]] among [[∅ Scalefolk|Scalefolk]] or [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/1. Aquaticfolk/11. Testudinan|Testudinans]] among [[∅ Aquaticfolk|Aquaticfolk]].
 
 Historical categories describe the relationships people inhabited then.
 

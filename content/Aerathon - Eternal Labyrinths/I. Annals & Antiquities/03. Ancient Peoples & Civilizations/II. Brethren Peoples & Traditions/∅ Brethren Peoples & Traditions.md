@@ -307,7 +307,7 @@ It is not a command that the living remain unchanged.
 - [[Education, Craft & Civic Life]]
 - [[Brethren Relations with Beastfolk]]
 - [[Beastfolk Kinships]]
-- **Shared Customs & Ways** — maintained in the adjacent records beginning with [[Birth, Bond, & Burial]]
+- **Shared Customs & Ways** — maintained in the adjacent records beginning with [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/IV. Shared Customs & Ways/01. Birth, Bond, & Burial|Birth, Bond, & Burial]]
 - [[∅ Brethren|Modern Brethren Records]]
 
 ---
