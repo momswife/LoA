@@ -29,14 +29,11 @@ Unlike historical records, these entries are revised whenever borders shift, gov
 
 ## Browse the Living Atlas
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Geographic Regions/index|Geographic Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Cities, Isles & Towns/index|Cities, Isles & Towns]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/People & Culture/index|People & Culture]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Religion & Worship/index|Religion & Worship]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Government Entities/index|Government Entities]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Guilds & Delvers/index|Guilds & Delvers]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Modern Geopolitics/index|Modern Geopolitics]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Delving Guide/index|Delving Guide]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Bestiary/index|Bestiary]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Economy & Everyday Life/index|Economy & Everyday Life]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Magic & Technology/index|Magic & Technology]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/index|Regions, Realms & Settlements]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/index|Peoples, Lineages & Cultures]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/index|Religion & Worship]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/index|Society, Economy & Everyday Life]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/index|Governments & Geopolitics]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/index|Magic, Technology & Infrastructure]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/index|Delving, Guilds & the Spectacle]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/index|Bestiary & Field Phenomena]]

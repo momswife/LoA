@@ -283,6 +283,7 @@ Modern authority requires a modern basis.
 - [[The Canal Collegium Ruins]]
 - [[The Palace Below Vaelcour]]
 - [[The Cathedral of Harmonium]]
+- [[The Bastion Quarters of Allemance|The Bastion-Quarters of Allemance]]
 
 ### III. Tablets, Archives & Material Records
 

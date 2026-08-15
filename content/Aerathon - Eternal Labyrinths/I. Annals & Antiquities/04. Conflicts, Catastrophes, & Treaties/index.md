@@ -2,7 +2,7 @@
 title: 04. Conflicts, Catastrophes, & Treaties
 aliases:
   - Conflicts, Catastrophes, & Treaties
-description: Wars, calamities, political settlements, and the agreements that changed the pre-Labyrinth world.
+description: Wars, calamities, migrations, political settlements, and agreements that transformed Aerathon.
 quartz-properties: false
 recordType: Category Index
 status: Active Index
@@ -28,7 +28,7 @@ tags:
 **Primary Compiler:** Marshal-Historian Corren Vaust, Pre-Labyrinth Conflict Reconstruction  
 **Contributing Scholars:** Archivist Yelna Stonevoice, Magistrate Talar Shellmark, Professor Arav Dhal-Senn, Researcher Falyn Onarra, Priest-Analyst Thera Daan  
 **Current Revision:** 3388 A.D., Age of Spectacle  
-**Document Class:** _Historical Events Index / Pre-Labyrinth Record_  
+**Document Class:** _Historical Events Index / Reconstructed Historical Record_
 **Primary Evidence:** era chronologies, military ledgers, treaties, civic archives, oral histories, damaged registries, environmental signatures, ruins, relic provenance, and later reconstruction  
 **Historical Scope:** Event-level records principally concerning the world before widespread Labyrinth emergence
 
@@ -220,6 +220,7 @@ It is to understand what the peace required people to accept.
 - [[The Sundering Silence]]
 - [[The Fall of Sol Oranna and the First Withholding]]
 - [[The Ignition Catastrophes and Cinder Years]]
+- [[The Drift Migrations]]
 
 ### III. Treaties, Concords & Political Settlements
 

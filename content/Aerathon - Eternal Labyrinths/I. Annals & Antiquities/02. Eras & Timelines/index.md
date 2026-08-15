@@ -21,5 +21,6 @@ Use this index to follow Aerathon's eras in sequence, consult the official calen
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/IV. The Age of Collapse|The Age of Collapse]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/V. The Age of Delving|The Age of Delving]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/VI. The Age of Spectacle|The Age of Spectacle]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/∅ From Delving to Spectacle|From Delving to Spectacle]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/∅ Aerathonian Calendar|The Aerathonian Calendar]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/∅ Chronological Timeline of Aerathon|The Chronological Timeline of Aerathon]]

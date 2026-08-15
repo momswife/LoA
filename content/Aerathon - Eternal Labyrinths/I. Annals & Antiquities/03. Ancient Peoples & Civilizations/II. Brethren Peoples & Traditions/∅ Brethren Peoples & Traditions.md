@@ -257,7 +257,7 @@ The [[Pilgrims of the Three Lanterns]] are likewise filed as an interpeoples ins
 
 The [[River Kingdoms of Old Louvain]] are filed under Elder Civilizations because they were political societies rather than a general human tradition.
 
-The [[The Bastion Quarters of Allemance|Bastion-Quarters of Allemance]] are filed in the Living Atlas because their defining development followed widespread Labyrinth emergence.
+The [[The Bastion Quarters of Allemance|Bastion-Quarters of Allemance]] are filed among the archaeological records because their surviving fortifications and material remains provide the principal evidence for that historical culture.
 
 ---
 

@@ -1198,6 +1198,16 @@ Like every power Aerathon has inherited, it will be judged by who controls it, w
 
 ---
 
+## Related Records
+
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/V. The Age of Delving|The Age of Delving]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/∅ From Delving to Spectacle|From Delving to Spectacle]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/index|Delving, Guilds & the Spectacle]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/index|Scrytech & Public Communication]]
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/Overview|Monthly Ledger]]
+
+---
+
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
 > **Filed & Authenticated**  

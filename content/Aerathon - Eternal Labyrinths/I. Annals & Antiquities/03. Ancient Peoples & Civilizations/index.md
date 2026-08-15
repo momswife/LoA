@@ -64,3 +64,11 @@ These records examine the peoples and civilizations that shaped the pre-Labyrint
 ## V. Historical Classification & Reconstructed Peoples
 
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/V. Historical Classification & Reconstructed Peoples/01. From Ancient Kinship to Modern Folk Classification|From Ancient Kinship to Modern Folk Classification]]
+
+## VI. Extinct & Disappeared Peoples
+
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/∅ Extinct & Disappeared Peoples|Extinct & Disappeared Peoples]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/Glassfolk|Glassfolk]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/Moonstalkers|Moonstalkers]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/The Pale Kith|The Pale Kith]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/03. Ancient Peoples & Civilizations/VI. Extinct & Disappeared Peoples/The Wyrm-Choir of Namira|Wyrm-Choir of Namira]]

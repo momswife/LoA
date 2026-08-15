@@ -375,8 +375,9 @@ Aerathon rose because people descended together, returned, and told one another 
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/∅ Chronological Timeline of Aerathon|The Chronological Timeline of Aerathon]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/IV. The Age of Collapse|The Age of Collapse]]
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/VI. The Age of Spectacle|The Age of Spectacle]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Guilds & Delvers/Guild & Delver Info/Guilds Overview|Guilds Overview]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/Government Entities/Ministry of Delving Operations (MDO)/Ministry of Delving Operations|Ministry of Delving Operations]]
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/∅ From Delving to Spectacle|From Delving to Spectacle]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/∅ Guilds & Delvers|Guilds Overview]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/Ministry of Delving Operations (MDO)/Ministry of Delving Operations|Ministry of Delving Operations]]
 
 ---
 
