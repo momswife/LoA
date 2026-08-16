@@ -6,7 +6,7 @@ This file records only conflicts or missing facts that cannot be resolved safely
 
 ### File
 
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/02. Monster Meadows.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/3. Geography & Landmarks/10. Monster Meadows.md`
 
 ### Conflict
 
@@ -28,9 +28,9 @@ Choosing a name would invent canon; removing the classification could erase an i
 
 ### Files
 
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/02. Glasrún/∅ Glasrún.md`
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/06. Dermad.md`
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/10. Gocaire.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Glasrún/∅ Glasrún.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Glasrún/1. Settlements/03. Dermad.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Settlements/10. Gocaire.md`
 
 ### Conflict
 
@@ -47,3 +47,26 @@ Confirm whether the Pact developed in stages, identify the correct officeholder 
 ### Reason
 
 Selecting one date or attribution would silently override another maintained regional record. The new subregional overview therefore records the disagreement without resolving it.
+
+## Tresoli Isles and Thalassar: Regional Relationship
+
+### Files
+
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Subregions/1. Tresoli Isles/∅ Tresoli Isles.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Settlements/04. Thalassar.md`
+
+### Conflict
+
+The current geographic filing places the **Tresoli Isles** within Vinyot. Thalassar remains filed as an Al'Ari settlement, but its civic record says it was formerly **Tresoli City** before the Abyssal Breach.
+
+### Evidence
+
+The records do not establish whether Tresoli City stood within the present Tresoli Isles, whether the names refer to different places, or whether Thalassar's regional affiliation changed after its submergence.
+
+### Recommended resolution
+
+Confirm the pre-Breach location of Tresoli City and whether modern Thalassar remains geographically or politically connected to the Tresoli Isles.
+
+### Reason
+
+The Tresoli Isles are retained beneath Vinyot as directed, while Thalassar remains in Al'Ar until moving it would not overwrite an unresolved geographic or political distinction.

@@ -37,7 +37,7 @@ facts:
 
 ## I. Regional Snapshot
 
-Arneria joins two landscapes and two systems of authority. The elevated **Causeway** and the dry country it crosses are administered by the active **Beylik**, a centralized state whose checkpoints, offices, and military institutions regulate movement. In **Bat'yan**, rainforest settlements and village authorities retain forms of local governance that cannot be reduced to extensions of the road.
+Arneria joins several landscapes and two principal systems of authority. Ownership of the Arnerian **Causeway** is divided: **Bat'yan holds its western section**, including Fort Tawiran, while the active **Beylik holds its eastern section** and administers a centralized state of checkpoints, offices, and military institutions. Bat'yan's rainforest settlements and village authorities retain forms of local governance that cannot be reduced to extensions of Beylik road law.
 
 **Tilkisan** is Arneria's formal capital and the Beylik's administrative heart. It coordinates the Causeway state, not every sacred grove, village assembly, or local obligation within Bat'yan.
 
@@ -48,18 +48,18 @@ A sun-disc fractured by a descending flame remains a common regional emblem, esp
 | Regional form | Militarized dual-authority state |
 | Coordinating center | **Tilkisan** |
 | Government | Causeway Beylik and autonomous Bat'yan local authorities |
-| Major internal divisions | The Beylik Causeway country and Bat'yan rainforest |
-| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/index\|Settlements of Arneria]] |
-| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/2. Geography & Landmarks/index\|Geography & Landmarks of Arneria]] |
-| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/3. Life, Customs & Identity/index\|Life, Customs & Identity of Arneria]] |
+| Major internal divisions | Greater Arneria, Bat'yan, the Blackwild, Matarono Range, Malduta Bay, Beylik, and Bey's Head Mountains |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/2. Settlements/index\|Settlements of Arneria]] |
+| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/3. Geography & Landmarks/index\|Geography & Landmarks of Arneria]] |
+| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/4. Life, Customs & Identity/index\|Life, Customs & Identity of Arneria]] |
 | Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria\|Regional Politics of Arneria]] |
 
 > [!note] Reading Arneria correctly
-> Arneria is politically connected without being administratively uniform. A Beylik travel order may govern the Causeway while carrying little or no authority over a Bat'yan community beyond it.
+> Arneria is politically connected without being administratively uniform. Causeway ownership changes from Bat'yan in the west to Beylik in the east; an order valid on one section does not automatically establish title or jurisdiction on the other.
 
 ## II. Land, Boundaries & Climate
 
-The western and central Causeway country is dry, exposed, and in places volcanic. Water management determines where permanent settlement is possible, while the elevated road supplies the principal spine for trade, defense, pilgrimage, and state control.
+The western and central Causeway country is dry, exposed, and in places volcanic. Water management determines where permanent settlement is possible, while the elevated road supplies the principal spine for trade, defense, pilgrimage, and administration under different western and eastern owners.
 
 Bat'yan is humid, forested, and ecologically dense. The rainforest interrupts long sightlines, redirects travel around water and root systems, and supports communities whose relationship to the land predates or exceeds the Beylik's road administration.
 
@@ -67,13 +67,17 @@ The region also carries unusual planar pressure. In parts of Bat'yan the **Astra
 
 ## III. Subregions, Routes & Named Features
 
-- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/05. Beylik/∅ Beylik|Beylik]] is the active Causeway state, including its offices, military checkpoints, urban centers, and regulated approaches.
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/01. Bat'yan/∅ Bat'yan|Bat'yan]] is a rainforest subregion with distinct settlement patterns, local authority, spiritual geography, and travel conditions.
-- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/4. Structures & Sites/05. Causeway|Causeway]] links Allemance across the Strait of Glass to Arnerian cities and continues through the region as both transport infrastructure and jurisdictional boundary.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/1. Greater Arneria/∅ Greater Arneria|Greater Arneria]] holds general Arnerian settlements not assigned to a narrower named territory.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/2. Bat'yan/∅ Bat'yan|Bat'yan]] is a rainforest subregion with distinct settlement patterns, local authority, spiritual geography, and ownership of the western Arnerian Causeway.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/3. The Blackwild/∅ The Blackwild|The Blackwild]] is filed as a subregion because its planar corruption creates territorial conditions, not merely a single landmark.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/4. Matarono Range/∅ Matarono Range|Matarono Range]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/7. Bey's Head Mountains/∅ Bey's Head Mountains|Bey's Head Mountains]] now carry their own territorial shelves.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/5. Malduta Bay/∅ Malduta Bay|Malduta Bay]] maintains the bay territory and its harbor and confluence settlements.
+- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/6. Beylik/∅ Beylik|Beylik]] is the active state of the eastern Causeway, including its offices, military checkpoints, urban centers, and regulated approaches.
+- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/4. Structures & Sites/05. Causeway|Causeway]] links Allemance across the Strait of Glass to Arnerian cities and continues through the region as both transport infrastructure and jurisdictional boundary.
 - The **Kazmak Gem Road** connects the Causeway to northern mining country through a controlled desert caravan network.
-- The **Mavimar River**, **Küzmek River**, **Strait of Glass**, and the mountain systems around the Bey's Head shape settlement and access.
+- The **Mavimar River**, **Küzmek River**, and **Strait of Glass** shape settlement and access between the maintained subregions.
 
-Mapped places without complete civic dossiers remain canonical geography. Their names and filing status are maintained in the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
+The complete internal register is maintained at [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/index|Subregions of Arneria]]. Mapped places without complete civic dossiers remain canonical geography through the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
 
 ## IV. Settlement Network
 
@@ -81,21 +85,21 @@ Arnerian settlement follows the Causeway, controlled water, defensible agricultu
 
 | Settlement | Regional role |
 | --- | --- |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/01. Tilkisan (Capital)\|Tilkisan]] | Capital and administrative heart of the Beylik |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/04. Fort Tawiran\|Fort Tawiran]] | Eastern landfall, border fort, and controlled entry point from the Causeway |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/07. Kazmak ve Küzmek\|Kazmak ve Küzmek]] | Desert caravan, water-engineering, and scholarly center on the Gem Road |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/08. Linang\|Linang]] | Agrarian ring-region protected by the elevated Causeway wall |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/05. Glimmerpool\|Glimmerpool]] | Subterranean ligonine pilgrimage city without capital authority |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/6. Beylik/1. Settlements/01. Tilkisan (Capital)\|Tilkisan]] | Capital and administrative heart of the Beylik |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/2. Bat'yan/1. Settlements/02. Fort Tawiran\|Fort Tawiran]] | Bat'yan-owned western Causeway landfall, border fort, and controlled entry point |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/6. Beylik/1. Settlements/02. Kazmak ve Küzmek\|Kazmak ve Küzmek]] | Desert caravan, water-engineering, and scholarly center on the Gem Road |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/2. Bat'yan/1. Settlements/04. Linang\|Linang]] | Agrarian ring-region protected by the elevated Causeway wall |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/7. Bey's Head Mountains/1. Settlements/01. Glimmerpool\|Glimmerpool]] | Subterranean ligonine pilgrimage city without capital authority |
 
 Castaway Point, Far'soro, Kala'bil, Duyan Vale, Kal'oro Grove, Harik, and Land's End complete the maintained register. Several remain preliminary records whose map placement is firmer than their civic detail.
 
 ## V. Government, Law & Authority
 
-The **Beylik** is a living centralized government, not merely the memory of an old dynasty. The Bey and state offices exercise authority along the Causeway through soldiers, permits, inspections, taxes, and appointed administrators. That authority is strongest where the road, its waterworks, and its checkpoints make enforcement possible.
+The **Beylik** is a living centralized government, not merely the memory of an old dynasty. The Bey and state offices exercise authority along the eastern Causeway through soldiers, permits, inspections, taxes, and appointed administrators. Beylik procedures may also operate at shared or cross-border facilities, but that operation does not transfer ownership of Bat'yan's western section.
 
 Bat'yan communities retain village and local spiritual authorities whose legitimacy rests on residence, custom, land, and communal recognition. They may negotiate with the Beylik without conceding that all local matters fall under Causeway law.
 
-This produces practical dual jurisdiction. Entry, cargo, state security, and Causeway use may be centrally regulated, while land access, rites, household disputes, and village obligations are decided locally. The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|regional political dossier]] governs where older summaries call the whole region a single theocratic state.
+This produces practical dual jurisdiction. Entry, cargo, state security, and Causeway use depend on which section a traveler occupies and which authority operates the facility, while land access, rites, household disputes, and village obligations may be decided locally. The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|regional political dossier]] governs where older summaries call the whole region a single theocratic state.
 
 ## VI. Peoples & Regional Life
 
@@ -133,7 +137,7 @@ Travelers should distinguish three questions before departure: whether the route
 
 ## X. Historical Context
 
-Arneria's present order emerged from survival after divine withdrawal, the preservation of sacred materials and rites, and civil conflicts over who could claim their authority. The Beylik eventually established durable control along the Causeway, while Bat'yan communities retained local systems that central government never wholly replaced.
+Arneria's present order emerged from survival after divine withdrawal, the preservation of sacred materials and rites, and civil conflicts over who could claim their authority. The Beylik established durable control over the eastern Causeway, while Bat'yan retained the western section and local systems that central government never wholly replaced.
 
 The region's former dynasties and regal remnants are historical predecessors, not interchangeable names for the current Beylik. Their maintained registry is [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/IV. Crowns, Noble Houses & Inherited Offices/2. Arneria/index|Arneria: Dynasties & Regal Remnants]]. Full accounts of succession, sacred war, and predecessor rule belong in **Annals & Antiquities**.
 
@@ -147,20 +151,19 @@ The region's former dynasties and regal remnants are historical predecessors, no
 
 ## XII. Current Conditions
 
-The most important ongoing structural question is where Beylik jurisdiction ends in practice and where Bat'yan consent begins. Infrastructure, security, commerce, and ritual can place both authorities in the same location without resolving the boundary between them.
+The most important ongoing structural question is how Bat'yan ownership of the western Causeway and Beylik ownership of the eastern Causeway divide operational jurisdiction at gates, checkpoints, and shared infrastructure. Security, commerce, and ritual can place both authorities in the same location without transferring title.
 
 Several mapped settlements—including Duyan Vale, Kal'oro Grove, and Land's End—still have preliminary records. Current filing priorities are to authenticate their populations and roles, document local rules of entry, and separate verified planar effects from inherited map legends.
 
 ## Related Records
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/index|Settlements of Arneria]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/2. Geography & Landmarks/index|Geography & Landmarks of Arneria]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/3. Life, Customs & Identity/index|Life, Customs & Identity of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Subregions/index|Subregions of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/2. Settlements/index|Settlements of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/3. Geography & Landmarks/index|Geography & Landmarks of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/4. Life, Customs & Identity/index|Life, Customs & Identity of Arneria]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|Regional Politics of Arneria]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/05. Beylik/∅ Beylik|Beylik]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/01. Bat'yan/∅ Bat'yan|Bat'yan]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/IV. Crowns, Noble Houses & Inherited Offices/2. Arneria/index|Arneria: Dynasties & Regal Remnants]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
 
 > [!note] Public Registry Notice
 > A Causeway permit establishes terms of state passage. It does not replace local invitation, ecological guidance, or sacred-site consent within Bat'yan.

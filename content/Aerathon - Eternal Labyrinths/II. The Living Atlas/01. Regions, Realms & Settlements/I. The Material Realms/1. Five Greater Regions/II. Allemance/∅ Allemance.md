@@ -48,9 +48,9 @@ A torch within a ring of clasped hands remains a widely recognized regional embl
 | Coordinating center | **Louvain** |
 | Government | Baronies, civic councils, guild coalitions, and a ceremonial crown |
 | Major internal divisions | The central Hearthlands, river baronies, border districts, and unchartered Glasrún |
-| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/index\|Settlements of Allemance]] |
-| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Geography & Landmarks/index\|Geography & Landmarks of Allemance]] |
-| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/3. Life, Customs & Identity/index\|Life, Customs & Identity of Allemance]] |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Settlements/index\|Settlements of Allemance]] |
+| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/3. Geography & Landmarks/index\|Geography & Landmarks of Allemance]] |
+| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/4. Life, Customs & Identity/index\|Life, Customs & Identity of Allemance]] |
 | Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/02. Regional Politics of Allemance\|Regional Politics of Allemance]] |
 
 > [!note] Reading Allemance correctly
@@ -68,13 +68,15 @@ The region's greatest geographic exception is **Glasrún**, a forested subregion
 
 Allemance is organized as much by connection as by terrain.
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Greater Allemance/∅ Greater Allemance|Greater Allemance]] contains the general territory and civic network not assigned to a narrower named subregion.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/2. Glasrún/∅ Glasrún|Glasrún]] is an unchartered woodland maintained under its own protective pact.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/3. Western Cradle/∅ Western Cradle|Western Cradle]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/4. Mothershead/∅ Mothershead|Mothershead]] now carry their own territorial overview shelves.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/5. Alley Basin/∅ Alley Basin|Alley Basin]] is a basin subregion whose best-authenticated site is Symphony Canyon.
 - **The central Hearthlands** support Louvain, major agrarian settlements, and the densest network of maintained roads.
 - **The river baronies** combine local noble authority with guild, agricultural, and civic institutions.
 - **The western Causeway approach** terminates at Sourisport and carries traffic between Allemance and Arneria.
-- **Glasrún** is an unchartered and unruled woodland under its own protective arrangement: [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/02. Glasrún/∅ Glasrún|Glasrún]].
-- **Alley Basin** is a mapped basin subregion whose best-authenticated site is [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Geography & Landmarks/13. Symphony Canyon|Symphony Canyon]]: [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/06. Alley Basin/∅ Alley Basin|Alley Basin]].
 
-The **Lantern Road**, river traffic, and inter-baronial routes turn local harvests and workshops into a continental supply network. Named valleys, forests, rivers, and roadside sites recorded on the regional map remain part of Aerathon even where a full article has not yet been commissioned; consult the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
+The **Lantern Road**, river traffic, and inter-baronial routes turn local harvests and workshops into a continental supply network. The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/5. Distinct Features/01. The Astral Shadows|Astral Shadows]] are explicitly recorded in Allemance as well as Arneria. The complete internal register is maintained at [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/index|Subregions of Allemance]].
 
 ## IV. Settlement Network
 
@@ -82,11 +84,11 @@ Allemance has the largest currently maintained settlement register of the five G
 
 | Settlement | Regional role |
 | --- | --- |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/01. Louvain (Global Capital)\|Louvain]] | Political, administrative, archival, and cultural capital of Aerathon |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/11. Goldentide\|Goldentide]] | Agrarian metropolis and seat of a strategically vital barony |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/13. Patrie\|Patrie]] | Broken World refuge-city and major center of human cultural memory |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/16. Sourisport\|Sourisport]] | Western terminus of the Causeway and principal Arnerian-facing port |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/09. Fort Kingsfang\|Fort Kingsfang]] | Crown Guard training hold and surviving legacy institution |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/01. Louvain (Global Capital)\|Louvain]] | Political, administrative, archival, and cultural capital of Aerathon |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/5. Alley Basin/1. Settlements/02. Goldentide\|Goldentide]] | Agrarian metropolis and seat of a strategically vital barony |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/07. Patrie\|Patrie]] | Broken World refuge-city and major center of human cultural memory |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/08. Sourisport\|Sourisport]] | Western terminus of the Causeway and principal Arnerian-facing port |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/5. Alley Basin/1. Settlements/01. Fort Kingsfang\|Fort Kingsfang]] | Crown Guard training hold and surviving legacy institution |
 
 Baritte, Barraille, Bellhaven, Daltiarna, Dermad, Domeall, Erin, Gocaire, Mansque, Riverbed City, and Silette are also maintained in the full settlement index. Their omission from this table does not imply lesser canonical status.
 
@@ -152,14 +154,13 @@ Current registry priorities are to distinguish living offices from purely histor
 
 ## Related Records
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Settlements/index|Settlements of Allemance]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Geography & Landmarks/index|Geography & Landmarks of Allemance]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/3. Life, Customs & Identity/index|Life, Customs & Identity of Allemance]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/index|Subregions of Allemance]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Settlements/index|Settlements of Allemance]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/3. Geography & Landmarks/index|Geography & Landmarks of Allemance]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/4. Life, Customs & Identity/index|Life, Customs & Identity of Allemance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/02. Regional Politics of Allemance|Regional Politics of Allemance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/IV. Crowns, Noble Houses & Inherited Offices/1. Allemance/index|Allemance: Crowns, Houses & Inherited Offices]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/02. Glasrún/∅ Glasrún|Glasrún]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/06. Alley Basin/∅ Alley Basin|Alley Basin]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/04. Trade & Travel Across Aerathon|Trade & Travel Across Aerathon]]
 
 > [!note] Public Registry Notice

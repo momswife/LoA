@@ -48,9 +48,9 @@ A phoenix-winged flame wrapped around a spiral wave is widely used as a regional
 | Coordinating center | **Tempestat**, by capacity and custom rather than legal supremacy |
 | Government | Sovereign dock-states, harbor councils, and temporary seasonal authorities |
 | Major internal divisions | Volcanic islands, cliff coasts, open-water routes, and the Stormbelt |
-| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/index\|Settlements of Al'Ar]] |
-| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Geography & Landmarks/index\|Geography & Landmarks of Al'Ar]] |
-| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/3. Life, Customs & Identity/index\|Life, Customs & Identity of Al'Ar]] |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Settlements/index\|Settlements of Al'Ar]] |
+| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/3. Geography & Landmarks/index\|Geography & Landmarks of Al'Ar]] |
+| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/4. Life, Customs & Identity/index\|Life, Customs & Identity of Al'Ar]] |
 | Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/01. Regional Politics of Al'Ar\|Regional Politics of Al'Ar]] |
 
 > [!note] Reading Al'Ar correctly
@@ -68,12 +68,16 @@ Fresh water, arable ground, and protected anchorage are unevenly distributed. Th
 
 Al'Ari geography is commonly understood through sailing corridors rather than surveyed land borders.
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/1. Greater Al'Ar/∅ Greater Al'Ar|Greater Al'Ar]] is the filing territory for Thalassar and any future Al'Ari settlements not yet assigned to one of the five major islands.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/2. Aurica/∅ Aurica|Aurica]] contains Mjinbou on its northern shore.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/3. Dakshin/∅ Dakshin|Dakshin]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/4. Kandela/∅ Kandela|Kandela]] are confirmed major islands whose internal records remain preliminary.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/5. Jarik/∅ Jarik|Jarik]] contains the Kasho'ta Caves in its northeastern cliffs.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/6. Sampura/∅ Sampura|Sampura]] contains the cliffbound port of Muraya.
 - **The inner dock circuit** links the largest ports and carries most passengers, civic messages, and ordinary freight.
 - **The outer-island routes** serve smaller communities, ritual voyages, resource camps, and dangerous open-water crossings.
 - **The Stormbelt passages** are seasonal windows known through accumulated pilot records, not permanent lanes.
-- **Aurica** is a mapped island feature whose golden terrain and dangerous interior warrant a dedicated filing: [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Geography & Landmarks/01. Aurica|Aurica]].
 
-The regional map also records minor islands, reefs, headlands, and channels that have not all received independent articles. Their mapped names remain part of Aerathon's geography and should be checked against the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
+The full internal register is maintained at [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/index|Subregions of Al'Ar]]. Minor islands, reefs, headlands, and channels that have not all received independent articles remain part of Aerathon's geography through the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
 
 ## IV. Settlement Network
 
@@ -81,10 +85,10 @@ Al'Ar's cities are ports first and territorial administrations second. Their rea
 
 | Settlement | Regional role |
 | --- | --- |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/01. Tempestat (Capital)\|Tempestat]] | Largest port and de facto center for inter-city coordination |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/02. Mjinbou\|Mjinbou]] | Major dock-state within the core maritime network |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/03. Muraya\|Muraya]] | Independent port whose agreements help sustain regional exchange |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/05. Trebes\|Trebes]] | Influential harbor within Al'Ar's seasonal political circuit |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/4. Kandela/1. Settlements/01. Tempestat (Capital)\|Tempestat]] | Largest port and de facto center for inter-city coordination |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/2. Aurica/1. Settlements/01. Mjinbou\|Mjinbou]] | Major dock-state within the core maritime network |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/6. Sampura/1. Settlements/01. Muraya\|Muraya]] | Independent port whose agreements help sustain regional exchange |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/6. Sampura/1. Settlements/02. Trebes\|Trebes]] | Influential harbor within Al'Ar's seasonal political circuit |
 
 Thalassar and Kyry complete the currently maintained civic register. The full six-settlement index is canonical; this table is only an orientation aid.
 
@@ -156,11 +160,12 @@ MDO revision priorities are to keep storm-route notices separate from enduring g
 
 ## Related Records
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/index|Settlements of Al'Ar]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Geography & Landmarks/index|Geography & Landmarks of Al'Ar]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/3. Life, Customs & Identity/index|Life, Customs & Identity of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Subregions/index|Subregions of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Settlements/index|Settlements of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/3. Geography & Landmarks/index|Geography & Landmarks of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/4. Life, Customs & Identity/index|Life, Customs & Identity of Al'Ar]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/01. Regional Politics of Al'Ar|Regional Politics of Al'Ar]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/01. Modern Aerathon Pantheon|Modern Aerathon Pantheon]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]]
 

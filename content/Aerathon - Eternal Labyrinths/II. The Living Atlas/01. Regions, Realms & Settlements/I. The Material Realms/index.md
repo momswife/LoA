@@ -1,6 +1,6 @@
 ---
 title: The Material Realms
-description: Greater Regions, sub-regions, distinct territories, mapped features, and inhabited places of material Aerathon.
+description: Greater Regions with nested subregions, distinct territories, mapped features, and inhabited places of material Aerathon.
 quartz-properties: false
 recordType: Section Index
 status: Active Index
@@ -16,6 +16,5 @@ The Material Realms comprise the mapped surface regions in which most current go
 ## Browse
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/index|Five Greater Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/index|Sub-Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/index|Notable Distinct Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/index|Mapped Features & Landmarks]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Notable Distinct Regions/index|Notable Distinct Regions]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/index|Mapped Features & Landmarks]]

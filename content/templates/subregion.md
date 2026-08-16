@@ -51,8 +51,7 @@ Summarize local authority, access, hazards, active tensions, and the most import
 ## Browse the Subregion
 
 - [1. Settlements]
-- [2. Geography & Landmarks]
-- [3. Life, Customs & Identity]
+- [2. Life, Customs & Identity]
 
 ## Related Records
 

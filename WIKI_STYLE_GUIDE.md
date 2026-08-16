@@ -47,15 +47,25 @@ inference, rumor, and restricted campaign knowledge distinct.
 - Assign filing order intentionally: chronology for eras, operational sequence for procedures,
   capitals before other settlements, and a declared alphabetical or classificatory order for
   registries. Do not renumber or redesign a major branch casually.
-- Within each Greater Region, use `1. Settlements` for civic records, `2. Geography & Landmarks`
-  for authenticated regional features, and `3. Life, Customs & Identity` for practices and identities
-  shaped by place. Keep the folder-note titles concise; the parent region already supplies the
-  geographic context in the explorer.
-- Maintained subregions mirror that compact sequence beneath a numbered subregion folder: `∅ Name`
-  first, then `1. Settlements`, `2. Geography & Landmarks`, and `3. Life, Customs & Identity`.
-  Subregional overviews should be shorter than Greater Region overviews. A sparse section uses a
-  meaningful `index.md` to state the authenticated record and its open questions; never invent entries
+- Within each Greater Region, use `1. Subregions` for internal territories, `2. Settlements` for the
+  complete civic master index, `3. Geography & Landmarks` for
+  authenticated regional features, and `4. Life, Customs & Identity` for practices and identities
+  shaped by place. Keep folder-note titles concise; the parent region already supplies the geographic
+  context in the explorer.
+- Number subregion folders with unpadded Arabic numerals beneath their parent region. File
+  `1. Greater [Region]` first as the archival territory for settlements and places not assigned to a
+  narrower named subregion. “Greater” describes filing scope, not political rank, cultural primacy, or
+  a separate government. Each maintained subregion uses `∅ Name` first, then `1. Settlements` and
+  `2. Life, Customs & Identity`. The overview
+  carries the compact geographic orientation, so do not create a separate subregional geography shelf.
+  Subregional overviews should normally be shorter than Greater Region overviews. A sparse section uses
+  a meaningful `index.md` to state the authenticated record and its open questions; never invent entries
   or leave an empty folder merely to complete the pattern.
+- Keep one regional settlement index as the complete civic register, grouped by subregion. Every
+  canonical settlement record belongs beneath one authenticated subregion. Use `Greater [Region]` for
+  region-wide, threshold, disputed, and presently unassigned settlements until a narrower placement is
+  authenticated. The regional `2. Settlements` folder contains the master `index.md`, not duplicate or
+  unassigned settlement articles.
 - Use a regional-life shelf for localized customs, belonging, household life, language, food, dress,
   etiquette, and public memory. Keep lineage traits and traditions with their peoples, formal doctrine
   under Religion & Worship, government under Governments & Geopolitics, and historical reconstruction
