@@ -47,6 +47,8 @@ inference, rumor, and restricted campaign knowledge distinct.
 - Assign filing order intentionally: chronology for eras, operational sequence for procedures,
   capitals before other settlements, and a declared alphabetical or classificatory order for
   registries. Do not renumber or redesign a major branch casually.
+- Beneath `I. Aerathon`, file the five Greater Regions directly as `1. Al'Ar`, `2. Allemance`,
+  `3. Arneria`, `4. Oria`, and `5. Vinyot`. Do not add an intermediate Greater Regions wrapper.
 - Within each Greater Region, use `1. Subregions` for internal territories, `2. Settlements` for the
   complete civic master index, `3. Geography & Landmarks` for
   authenticated regional features, and `4. Life, Customs & Identity` for practices and identities
@@ -70,9 +72,10 @@ inference, rumor, and restricted campaign knowledge distinct.
   etiquette, and public memory. Keep lineage traits and traditions with their peoples, formal doctrine
   under Religion & Worship, government under Governments & Geopolitics, and historical reconstruction
   in Annals & Antiquities.
-- Keep features with uncertain, cross-regional, or disputed placement beneath the central Mapped
-  Features & Landmarks registry. When a feature gains an authenticated regional home, move its
-  canonical record to that region and retain a central type-index link rather than duplicating it.
+- File every material feature within one Greater Region's `3. Geography & Landmarks` shelf. For a
+  cross-regional feature, keep one canonical record in the region that provides the clearest archival
+  home and link to it from every other affected regional index rather than duplicating the article.
+  Use the relevant `Greater [Region]` scope while a narrower subregional placement remains uncertain.
 - `Overview.md`, `index.md`, and `∅` overview pages have distinct established navigation roles. Preserve
   existing uses. A new folder landing page should normally be `index.md`; a named conceptual overview
   may use the established `∅ Name.md` pattern where its sibling category already does so.
@@ -97,24 +100,61 @@ inference, rumor, and restricted campaign knowledge distinct.
 
 Templates live in `content/templates/` and are unpublished defaults, not mandatory forms.
 
-| Page family                | Template               | Structural emphasis                                               |
-| -------------------------- | ---------------------- | ----------------------------------------------------------------- |
-| General or unusual record  | `file-record.md`       | Purpose, record, current assessment                               |
-| Bestiary                   | `bestiary-entry.md`    | Identification, ecology, threat, delver guidance                  |
-| Settlement                 | `city.md`              | Overview, geography, government, culture, economy, current status |
-| Region or plane            | `region.md`            | Boundaries, people, government, travel, notable sites             |
-| Delver or major character  | `delver.md`            | Profile, history, abilities, affiliations, status                 |
-| Guild                      | `guild.md`             | Purpose, structure, leadership, operations, relationships         |
-| Other organization         | `organization.md`      | Mandate, authority, structure, public role                        |
-| Playable people or lineage | `lineage.md`           | Society, modern life, traits, sublineages, homelands              |
-| Cultural system            | `culture.md`           | Scope, history, practice, variation, modern debate                |
-| Historical reconstruction  | `historical-record.md` | Evidence, sequence, competing accounts, consequences              |
-| Timeline                   | `timeline.md`          | Dated events, disputed dates, related records                     |
-| Monthly Ledger item        | `ledger-item.md`       | Confirmed facts, uncertainty, action, visible updates             |
+| Page family                | Template               | Structural emphasis                                           |
+| -------------------------- | ---------------------- | ------------------------------------------------------------- |
+| General or unusual record  | `file-record.md`       | Purpose, record, current assessment                           |
+| Bestiary                   | `bestiary-entry.md`    | Identification, ecology, threat, delver guidance              |
+| Settlement                 | `city.md`              | Civic scale, place, daily life, authority, current conditions |
+| Region or plane            | `region.md`            | Boundaries, people, government, travel, notable sites         |
+| Delver or major character  | `delver.md`            | Profile, history, abilities, affiliations, status             |
+| Guild                      | `guild.md`             | Purpose, structure, leadership, operations, relationships     |
+| Other organization         | `organization.md`      | Mandate, authority, structure, public role                    |
+| Playable people or lineage | `lineage.md`           | Society, modern life, traits, sublineages, homelands          |
+| Cultural system            | `culture.md`           | Scope, history, practice, variation, modern debate            |
+| Historical reconstruction  | `historical-record.md` | Evidence, sequence, competing accounts, consequences          |
+| Timeline                   | `timeline.md`          | Dated events, disputed dates, related records                 |
+| Monthly Ledger item        | `ledger-item.md`       | Confirmed facts, uncertainty, action, visible updates         |
 
 Use proportional structure. A small town, minor figure, short notice, or narrow custom should not acquire
 empty sections merely to resemble a major record. Preserve unique sections containing subject-specific
 information.
+
+### Settlement Civic Register
+
+Living Atlas settlement pages use `recordType: Settlement Record` and a single masthead **Civic
+profile**. Do not repeat the same population, scale, or filing metadata in a second opening record block.
+Preserve older filing attribution in the optional `provenance` field, which the site keeps subordinate to
+the civic facts.
+
+Keep these concepts distinct:
+
+- **Settlement Scale** records demographic and infrastructural size.
+- **Civic Role** records political or administrative function, such as global capital, regional capital,
+  baronial seat, or charter center. Capital is never itself a size.
+- **Settlement Character** records the locality's established form or identity, such as port city,
+  fortress town, farming village, lodge city, or transient expedition settlement.
+- **Census Basis** states the evidence quality or population condition when it matters: current estimate,
+  seasonal or variable estimate, distributed population, historical estimate, unverified, or unknown.
+
+Use this scale as the Living Atlas editorial default, not as an inflexible game rule:
+
+| Settlement Scale | Default resident population |
+| ---------------- | --------------------------: |
+| Metropolis       |                    250,000+ |
+| Large City       |              75,000–249,999 |
+| City             |               10,000–74,999 |
+| Town             |                 1,000–9,999 |
+| Village          |                     100–999 |
+| Hamlet           |                   under 100 |
+
+Permanence, density, services, and administrative form may justify a documented exception. Use
+`Unclassified` when the evidence does not support a scale. Outposts, strongholds, inhabited sites, and
+transient camps may retain those terms as Settlement Character while using a supported demographic scale.
+
+A full settlement record normally moves through Civic Overview; Place & Built Form; People, Work & Daily
+Life; Authority & Local Institutions; and Current Conditions & Delver Relevance. Add History & Public
+Memory, Landmarks and Districts, Economy and Routes, or Related Records only when their content warrants a
+separate section.
 
 ## 6. Frontmatter
 
@@ -129,6 +169,7 @@ Recommended order when fields are present:
 ---
 title: Display Title
 description: One-sentence public description.
+epithet: Established subtitle, maxim, or orientation line.
 aliases:
   - Alternate Name
 tags:
@@ -140,6 +181,7 @@ classification: Classification
 revision: Revision
 showMastheadRecord: false
 facts: {}
+provenance: {}
 related: []
 quartz-properties: false
 draft: false
@@ -148,12 +190,14 @@ draft: false
 
 - `title`: use when the filename is not the desired public display title.
 - `description` or `summary`: concise public context; preserve the local page-family convention.
+- `epithet`: an established subtitle, maxim, or orientation line displayed beneath the masthead title.
 - `aliases`: alternate names, former names, abbreviations, or punctuation variants. Use a YAML list.
 - `tags`: broad discovery categories, lowercase and hyphenated where needed. Reuse established tags;
   do not create a tag for every proper noun.
 - `breadcrumbTitle`: use only when a shorter breadcrumb materially improves navigation.
 - `recordType`, `status`, `classification`, `revision`, `facts`, and `related`: use for structured formal
   records and navigation pages when values are supported.
+- `provenance`: optional filing attribution kept subordinate to a page family's primary record facts.
 - `showMastheadRecord: false`: retain structured frontmatter without rendering its compact record card
   when the page already has a richer authored filing header beginning with `Filed Division`.
 - `quartz-properties: false`: retain on navigation pages that intentionally hide the property panel.

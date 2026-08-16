@@ -1,0 +1,33 @@
+---
+title: Bey's Head Mountains
+aliases:
+  - Bey's Head Mountain
+description: A preliminary Living Atlas record for the Arnerian landmark known as Bey's Head Mountains.
+tags: [atlas, mapped-location, mountains]
+recordType: Subregional Overview
+status: Preliminary
+classification: Public
+facts:
+  Feature Class: Mountain Range
+  Region: Arneria
+---
+
+# Bey's Head Mountains
+
+## I. Cartographic Record
+
+**Bey's Head Mountains** are a confirmed named mountain range within [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/∅ Arneria|Arneria]]. Their regional placement and feature class are authenticated by the current atlas; detailed boundaries and local conditions remain preliminary. Glimmerpool is recorded beneath their northern reaches.
+
+## II. Current Assessment
+
+Future work should establish its extent, elevations, passes, watersheds, settlements, resources, weather, and travel hazards.
+
+## Browse the Subregion
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/7. Bey's Head Mountains/1. Settlements/index|1. Settlements]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/7. Bey's Head Mountains/2. Life, Customs & Identity/index|2. Life, Customs & Identity]]
+
+## Related Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/∅ Arneria|Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/index|Geography & Landmarks of Arneria]]

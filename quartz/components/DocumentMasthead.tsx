@@ -13,6 +13,7 @@ type MastheadFrontmatter = Record<string, unknown> & {
   title?: string
   summary?: string
   description?: string
+  epithet?: string
   division?: string
   recordType?: string
   status?: string
@@ -24,6 +25,7 @@ type MastheadFrontmatter = Record<string, unknown> & {
   tags?: unknown
   facts?: unknown
   keyFacts?: unknown
+  provenance?: unknown
   showMastheadRecord?: boolean
 }
 
@@ -94,6 +96,7 @@ export default (() => {
     // Only authored summaries belong in the masthead. The generated description
     // often contains the opening quote and filing block, duplicating the article.
     const summary = textValue(frontmatter.summary ?? frontmatter.description)
+    const epithet = textValue(frontmatter.epithet)
     const recordLabels = [
       textValue(frontmatter.division) ?? inferDivision(fileData.slug ?? ""),
       textValue(frontmatter.recordType),
@@ -104,7 +107,10 @@ export default (() => {
     )
 
     const facts = normalizeFacts(frontmatter.facts ?? frontmatter.keyFacts)
+    const provenance = normalizeFacts(frontmatter.provenance)
     const showMastheadRecord = frontmatter.showMastheadRecord !== false
+    const recordType = textValue(frontmatter.recordType)
+    const isSettlementRecord = recordType?.toLowerCase() === "settlement record"
     const classification = textValue(frontmatter.classification)
     const revision = textValue(frontmatter.revision)
     if (classification && !facts.some((fact) => fact.label.toLowerCase() === "classification")) {
@@ -113,6 +119,30 @@ export default (() => {
     if (revision && !facts.some((fact) => fact.label.toLowerCase() === "revision")) {
       facts.push({ label: "Revision", value: revision })
     }
+    if (isSettlementRecord) {
+      const civicFactOrder = [
+        "settlement scale",
+        "resident population",
+        "civic role",
+        "region",
+        "subregion",
+        "settlement character",
+        "nearest authority",
+        "current status",
+        "local designation",
+        "census basis",
+        "classification",
+        "revision",
+      ]
+      facts.sort((left, right) => {
+        const leftIndex = civicFactOrder.indexOf(left.label.toLowerCase())
+        const rightIndex = civicFactOrder.indexOf(right.label.toLowerCase())
+        return (
+          (leftIndex < 0 ? civicFactOrder.length : leftIndex) -
+          (rightIndex < 0 ? civicFactOrder.length : rightIndex)
+        )
+      })
+    }
 
     const hero = textValue(frontmatter.hero ?? frontmatter.banner)
 
@@ -120,6 +150,7 @@ export default (() => {
       <header
         class={classNames(displayClass, "document-masthead")}
         data-status={textValue(frontmatter.status)?.toLowerCase().replaceAll(" ", "-")}
+        data-record-type={recordType?.toLowerCase().replaceAll(" ", "-")}
       >
         {(recordLabels.length > 0 || tags.length > 0) && (
           <div class="document-masthead__badges" aria-label="Record labels and tags">
@@ -134,19 +165,42 @@ export default (() => {
           </div>
         )}
         <h1 class="article-title">{title}</h1>
+        {epithet && <p class="document-masthead__epithet">{epithet}</p>}
         {summary && !isOverview && <p class="document-masthead__summary">{summary}</p>}
         <ContentMetadata {...props} />
         {showMastheadRecord && facts.length > 0 && (
           <section class="document-masthead__record" aria-labelledby="masthead-record-title">
-            <h2 id="masthead-record-title">Record details</h2>
+            <h2 id="masthead-record-title">
+              {isSettlementRecord ? "Civic profile" : "Record details"}
+            </h2>
             <dl class="document-masthead__facts">
               {facts.map((fact) => (
-                <div>
+                <div
+                  class={
+                    isSettlementRecord &&
+                    ["settlement scale", "resident population"].includes(fact.label.toLowerCase())
+                      ? "document-masthead__fact--featured"
+                      : undefined
+                  }
+                >
                   <dt>{fact.label}</dt>
                   <dd>{fact.value}</dd>
                 </div>
               ))}
             </dl>
+            {isSettlementRecord && provenance.length > 0 && (
+              <details class="document-masthead__provenance">
+                <summary>Filing provenance</summary>
+                <dl>
+                  {provenance.map((fact) => (
+                    <div>
+                      <dt>{fact.label}</dt>
+                      <dd>{fact.value}</dd>
+                    </div>
+                  ))}
+                </dl>
+              </details>
+            )}
           </section>
         )}
         {hero && (

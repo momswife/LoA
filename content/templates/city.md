@@ -2,42 +2,50 @@
 title:
 aliases: []
 tags:
-  - city
+  - settlement
 summary:
-recordType: City Record
+epithet:
+recordType: Settlement Record
 status: Draft
 classification:
 revision:
 facts:
+  Settlement Scale:
+  Resident Population:
+  Civic Role:
   Region:
-  Population:
+  Subregion:
+  Settlement Character:
   Government:
+  Census Basis:
+provenance:
+  Filed Division: Ministry of Delving Operations — Living Atlas Division
+  Primary Compiler:
+  Date of Filing:
+  Document Class: Settlement Record / Draft
 draft: true
 ---
 
-# [Page Title]
+# [Settlement Name]
 
-<!-- Remove sections that do not serve this subject before publishing. -->
+<!--
+Remove unsupported facts, provenance fields, and sections before publishing.
+Settlement Scale describes demographic and civic size; Civic Role separately records
+political functions such as capital, administrative seat, or charter center.
+-->
 
-**Filed Division:** _Ministry of Delving Operations - Living Atlas Division_  
-**Primary Compiler:**  
-**Date of Filing:**  
-**Document Class:** _City Record / Draft_
+## I. Civic Overview
 
----
+## II. Place & Built Form
 
-## I. Overview
+## III. People, Work & Daily Life
 
-## II. Geography & Architecture
+## IV. Authority & Local Institutions
 
-## III. History
+## V. Current Conditions & Delver Relevance
 
-## IV. Governance
-
-## V. Economy
-
-## VI. Culture
-
-## VII. Delver Relevance
-
-## VIII. Current Status
+<!-- Optional sections for fuller records:
+## VI. History & Public Memory
+## VII. Landmarks, Districts & Local Powers
+## VIII. Related Records
+-->

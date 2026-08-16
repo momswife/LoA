@@ -6,7 +6,7 @@ This file records only conflicts or missing facts that cannot be resolved safely
 
 ### File
 
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/3. Geography & Landmarks/10. Monster Meadows.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/3. Geography & Landmarks/10. Monster Meadows.md`
 
 ### Conflict
 
@@ -28,9 +28,9 @@ Choosing a name would invent canon; removing the classification could erase an i
 
 ### Files
 
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Glasrún/∅ Glasrún.md`
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/1. Subregions/1. Glasrún/1. Settlements/03. Dermad.md`
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Settlements/10. Gocaire.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Glasrún/∅ Glasrún.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Glasrún/1. Settlements/03. Dermad.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/2. Settlements/10. Gocaire.md`
 
 ### Conflict
 
@@ -52,8 +52,8 @@ Selecting one date or attribution would silently override another maintained reg
 
 ### Files
 
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Subregions/1. Tresoli Isles/∅ Tresoli Isles.md`
-- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/2. Settlements/04. Thalassar.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/1. Tresoli Isles/∅ Tresoli Isles.md`
+- `content/Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/2. Settlements/04. Thalassar.md`
 
 ### Conflict
 

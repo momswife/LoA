@@ -1,6 +1,6 @@
 ---
 title: 01. Regions, Realms & Settlements
-description: Aerathon's material regions, inhabited settlements, Hidden Planes, and Crossroads.
+description: Aerathon's five Greater Regions, inhabited settlements, Hidden Planes, and Crossroads.
 quartz-properties: false
 recordType: Category Index
 status: Active Index
@@ -12,15 +12,11 @@ tags:
 
 # Regions, Realms & Settlements
 
-This branch organizes place from the broadest realm to the communities within it. Greater Regions provide the stable homes for their settlement records; exceptional regions, Hidden Planes, and Crossroads retain separate classifications where national boundaries do not describe them adequately.
+This branch organizes place from the broadest realm to the communities within it. Aerathon's surface geography is filed through its five Greater Regions, while the Hidden Planes and Crossroads retain separate classifications where material borders do not describe them adequately.
 
-## I. The Material Realms
+## I. Aerathon
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/index|The Material Realms]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/index|Five Greater Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/index|Sub-Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Notable Distinct Regions/index|Notable Distinct Regions]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Mapped Features & Landmarks/index|Mapped Features & Landmarks]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/index|Aerathon]]
 
 ## II. The Hidden Planes
 

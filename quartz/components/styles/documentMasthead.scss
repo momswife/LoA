@@ -69,6 +69,19 @@
   text-wrap: pretty;
 }
 
+.document-masthead__epithet {
+  max-width: 64ch;
+  margin: 0.42rem 0 0;
+  color: color-mix(in srgb, var(--secondary) 72%, var(--darkgray));
+  font-family: var(--headerFont);
+  font-size: clamp(0.94rem, 1.7vw, 1.08rem);
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.45;
+  text-wrap: pretty;
+}
+
 .document-masthead__record {
   margin: 1.15rem 0 0;
   padding: 0.85rem 1rem 1rem;
@@ -125,6 +138,85 @@
   }
 }
 
+.document-masthead[data-record-type="settlement-record"] {
+  .document-masthead__record {
+    border-left-width: 3px;
+    background:
+      linear-gradient(
+        135deg,
+        color-mix(in srgb, var(--secondary) 9%, transparent),
+        transparent 48%
+      ),
+      color-mix(in srgb, var(--secondary) 5%, var(--lorevault-surface));
+  }
+
+  .document-masthead__facts {
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  }
+
+  .document-masthead__fact--featured {
+    padding: 0.68rem 0.75rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lorevault-border));
+    border-radius: calc(var(--lorevault-radius) * 0.75);
+    background: color-mix(in srgb, var(--secondary) 8%, var(--lorevault-surface));
+
+    dd {
+      color: var(--secondary);
+      font-size: 1.04rem;
+      letter-spacing: 0.015em;
+    }
+  }
+}
+
+.document-masthead__provenance {
+  margin-top: 0.9rem;
+  padding-top: 0.72rem;
+  border-top: 1px solid color-mix(in srgb, var(--secondary) 20%, var(--lorevault-divider));
+  color: var(--gray);
+  font-size: 0.78rem;
+
+  summary {
+    width: fit-content;
+    cursor: pointer;
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.085em;
+    text-transform: uppercase;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.62rem 1.2rem;
+    margin: 0.75rem 0 0;
+  }
+
+  dl > div {
+    min-width: 0;
+  }
+
+  dt,
+  dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+
+  dt {
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+  }
+
+  dd {
+    margin-top: 0.12rem;
+    color: var(--darkgray);
+    line-height: 1.4;
+  }
+}
+
 .document-masthead__hero {
   position: relative;
   max-height: 22rem;
@@ -160,6 +252,10 @@
 
   .document-masthead__facts {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .document-masthead__provenance dl {
+    grid-template-columns: 1fr;
   }
 
   .document-masthead__hero img {
