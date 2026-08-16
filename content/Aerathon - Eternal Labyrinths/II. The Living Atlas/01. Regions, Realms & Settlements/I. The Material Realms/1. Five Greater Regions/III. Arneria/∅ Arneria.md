@@ -1,212 +1,178 @@
 ---
 title: Arneria
+description: A current regional overview of Arneria, the Causeway Beylik, Bat'yan, and their connected settlement and ritual systems.
 aliases:
   - Arneria
   - Arneia
+tags:
+  - atlas
+  - region
+  - greater-region
+recordType: Regional Overview
+status: Current Reference
+classification: Public
+revision: Seventh Editorial Standard
+facts:
+  Realm: Material Aerathon
+  Regional Form: Militarized Dual-Authority State
+  Seat or Coordinating Center: Tilkisan
+  Government: Causeway Beylik and autonomous Bat'yan local authorities
 ---
 
 # Arneria
 
 ### _The Oathlands of Flame and Sky — “What Is Sworn Must Be Survived.”_
 
-**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
-**Primary Compiler:** **Priest-Analyst Thera Daan** (Faith Systems & Rite-States)  
-**Advisory Editors:** **Magistrate Talar Shellmark** (Charter Counsel), **Lt. Salvia Korrin** (Arcane Scrivener, Breach Verification)  
-**Date of Filing:** **6th Cycle, 3104 A.D.**  
-**Document Class:** _National Registry / Grade-I Structural Archive_
+**Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
+**Primary Compiler:** **Priest-Analyst Thera Daan** (Faith Systems & Rite-States)<br>
+**Advisory Editors:** **Magistrate Talar Shellmark** (Charter Counsel), **Lt. Salvia Korrin** (Arcane Scrivener, Breach Verification)<br>
+**Date of Original Filing:** **6th Cycle, 3104 A.D.**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_
 
 ---
 
-## I. Overview
+## I. Regional Snapshot
 
-**Arneria** is a land where belief is not abstract—it is **engineered, reforged, and enforced**. Stretching across scorched plains, volcanic highlands, and humid western jungles, the nation exists in a constant state of ritual maintenance. Faith here is not comfort. It is **infrastructure**.
+Arneria joins two landscapes and two systems of authority. The elevated **Causeway** and the dry country it crosses are administered by the active **Beylik**, a centralized state whose checkpoints, offices, and military institutions regulate movement. In **Bat'yan**, rainforest settlements and village authorities retain forms of local governance that cannot be reduced to extensions of the road.
 
-Where other realms pray, Arneria **binds**.
+**Tilkisan** is Arneria's formal capital and the Beylik's administrative heart. It coordinates the Causeway state, not every sacred grove, village assembly, or local obligation within Bat'yan.
 
-The nation is governed from **Tilkisan**, a capital of controlled beauty and inherited authority, while vast regions beyond the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/4. Structures & Sites/05. Causeway|Causeway]] operate under looser, older compacts of survival and oath.
+A sun-disc fractured by a descending flame remains a common regional emblem, especially in formal Causeway contexts.
 
-**Capital:** **Tilkisan**  
-**Government Type:** Beylik Theocratic State (Federalized City-Regions)  
-**National Symbol:** A sun-disc fractured by a descending flame  
-**Cultural Maxim:** _“Endure the fire, or be reshaped by it.”_
+| Field | Current filing |
+| --- | --- |
+| Regional form | Militarized dual-authority state |
+| Coordinating center | **Tilkisan** |
+| Government | Causeway Beylik and autonomous Bat'yan local authorities |
+| Major internal divisions | The Beylik Causeway country and Bat'yan rainforest |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/index|Settlements of Arneria]] |
+| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|Regional Politics of Arneria]] |
 
----
+> [!note] Reading Arneria correctly
+> Arneria is politically connected without being administratively uniform. A Beylik travel order may govern the Causeway while carrying little or no authority over a Bat'yan community beyond it.
 
-## II. Geography & Sub-Regions
+## II. Land, Boundaries & Climate
 
-Arneria is divided less by borders than by **ritual climates**—zones where land, faith, and danger overlap differently.
+The western and central Causeway country is dry, exposed, and in places volcanic. Water management determines where permanent settlement is possible, while the elevated road supplies the principal spine for trade, defense, pilgrimage, and state control.
 
-### The Central Oathlands
+Bat'yan is humid, forested, and ecologically dense. The rainforest interrupts long sightlines, redirects travel around water and root systems, and supports communities whose relationship to the land predates or exceeds the Beylik's road administration.
 
-Arid plateaus and volcanic stonefields dominate the heart of Arneria. This region contains the capital, major Causeway routes, relic forges, and the densest concentration of Flame-Throne authority.
+The region also carries unusual planar pressure. In parts of Bat'yan the **Astral Sea** is said to lie close enough to affect stars, dreams, orientation, and disappearance reports. Those observations require local verification; the regional pattern does not establish a single cause for every anomaly.
 
-### Bat’yan — The Living Canopy
+## III. Subregions, Routes & Named Features
 
-To the west lies **Bat’yan**, a vast rainforest sub-region where rigid Arnerian control gives way to adaptation, ancestry, and motion. Settlements here are fluid, seasonal, and deeply tied to land memory rather than decree.
+- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/05. Beylik|Beylik]] is the active Causeway state, including its offices, military checkpoints, urban centers, and regulated approaches.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/01. Bat'yan|Bat'yan]] is a rainforest subregion with distinct settlement patterns, local authority, spiritual geography, and travel conditions.
+- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/4. Structures & Sites/05. Causeway|Causeway]] links Allemance across the Strait of Glass to Arnerian cities and continues through the region as both transport infrastructure and jurisdictional boundary.
+- The **Kazmak Gem Road** connects the Causeway to northern mining country through a controlled desert caravan network.
+- The **Mavimar River**, **Küzmek River**, **Strait of Glass**, and the mountain systems around the Bey's Head shape settlement and access.
 
-Above Bat’yan, uniquely, **the Astral Sea presses close to the world**.
+Mapped places without complete civic dossiers remain canonical geography. Their names and filing status are maintained in the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
 
-Not metaphorically.
+## IV. Settlement Network
 
-In Bat’yan, the sky thins.
+Arnerian settlement follows the Causeway, controlled water, defensible agricultural ground, and Bat'yan clearings. A mapped town may represent a conventional city, a distributed ring-region, a fortified checkpoint, a pilgrimage center, or a locality whose permanent population remains unverified.
 
-Stars appear wrong. Dreams travel farther than bodies. Certain heights, clearings, and storms are known to brush the Astral directly, producing visions, disappearances, and impossible navigation phenomena. This proximity is widely accepted by Bat’yan inhabitants and cautiously documented by the MDO
+| Settlement | Regional role |
+| --- | --- |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/01. Tilkisan (Capital)|Tilkisan]] | Capital and administrative heart of the Beylik |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/04. Fort Tawiran|Fort Tawiran]] | Eastern landfall, border fort, and controlled entry point from the Causeway |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/07. Kazmak ve Küzmek|Kazmak ve Küzmek]] | Desert caravan, water-engineering, and scholarly center on the Gem Road |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/08. Linang|Linang]] | Agrarian ring-region protected by the elevated Causeway wall |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/05. Glimmerpool|Glimmerpool]] | Subterranean ligonine pilgrimage city without capital authority |
 
-.
+Castaway Point, Far'soro, Kala'bil, Duyan Vale, Kal'oro Grove, Harik, and Land's End complete the maintained register. Several remain preliminary records whose map placement is firmer than their civic detail.
 
----
+## V. Government, Law & Authority
 
-## III. History & Formation
+The **Beylik** is a living centralized government, not merely the memory of an old dynasty. The Bey and state offices exercise authority along the Causeway through soldiers, permits, inspections, taxes, and appointed administrators. That authority is strongest where the road, its waterworks, and its checkpoints make enforcement possible.
 
-Arneria rose where other nations collapsed inward.
+Bat'yan communities retain village and local spiritual authorities whose legitimacy rests on residence, custom, land, and communal recognition. They may negotiate with the Beylik without conceding that all local matters fall under Causeway law.
 
-In the aftermath of divine withdrawal, Arnerian priest-smiths refused to accept silence. They salvaged fragments of faith—**god-metals, rites, and oaths**—and reforged them into systems that could function without divine oversight.
+This produces practical dual jurisdiction. Entry, cargo, state security, and Causeway use may be centrally regulated, while land access, rites, household disputes, and village obligations are decided locally. The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|regional political dossier]] governs where older summaries call the whole region a single theocratic state.
 
-This act birthed Arneria’s defining tension:
+## VI. Peoples & Regional Life
 
-- **Faith as inheritance**
-    
-- **Faith as obligation**
-    
+Oaths, discipline, skilled labor, ritual participation, and the responsible use of scarce resources are prominent Arnerian public values. They are civic practices rather than inherent personality traits. The meaning of an oath also changes with its witnesses: a military vow before a Beylik office, a household promise, and an obligation recognized by a Bat'yan community do not necessarily create the same jurisdiction.
 
-Civil wars followed. The survivors reorganized into city-states bound by relic authority and overseen by Flame-Thrones. Over time, these consolidated into the modern [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/05. Beylik|Beylik]] structure, centered on Tilkisan.
+Causeway cities often organize daily life around schedules, checkpoints, water, and public ceremony. Bat'yan settlements are more likely to organize movement through ecological knowledge, kin and village responsibility, seasonal conditions, and locally maintained sacred boundaries.
 
-Arneria remembers its gods not as saviors—but as **materials**.
+Arneria's shared identity is real, but it contains disagreement over who may define law, safety, and legitimate ritual for whom.
 
----
+## VII. Economy & Infrastructure
 
-## IV. People & Cultural Identity
+Arneria exports relic materials, sacred and worked metals, glass, spices, alchemical goods, mining products, and specialist knowledge. It imports grain, timber, labor, and administrative or technical expertise that its dry districts cannot always supply.
 
-Arnerians are defined by **discipline and endurance**.
+The Causeway is simultaneously road, wall, aqueduct, checkpoint system, commercial corridor, and political claim. Wells, cisterns, river controls, caravanserais, and guarded descents determine where people and goods can leave it safely.
 
-### Common Traits
+Bat'yan's economy is less fully represented in central ledgers. Agriculture, forest products, guiding, local exchange, and the management of ecologically specific resources should be documented by community rather than inferred from Beylik tax records.
 
-- Oaths are binding beyond law
-    
-- Pain is instructional, not shameful
-    
-- Beauty is proof of control, not indulgence
-    
+## VIII. Faith, Magic & Delving
 
-Elemental-touched bloodlines, Brethren ancestries, and ritual-adapted beastfolk are common. Identity is shaped more by **rite participation** than lineage.
+Arnerian history remembers priest-smiths who preserved god-metals, rites, and binding practices through periods of divine withdrawal and political fracture. Modern religious life continues to treat making, endurance, and obligation as ways of giving faith material form.
 
----
+The **Nine Flames** is a regional framework through which distinct sacred obligations are taught and remembered. It is not evidence that every Arnerian community follows one identical rite. Bat'yan communities maintain local practices and spiritual relationships that may overlap with, reinterpret, or stand apart from formal Causeway observance. Gods recognized by the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/01. Modern Aerathon Pantheon|Modern Aerathon Pantheon]] are worshiped within both broader and local traditions.
 
-## V. Governance & Power
+In formal Causeway centers, temples may also serve as forges, courts, or training halls. The priest-smith tradition joins fabrication and rite, while failures may be recorded for legal, instructional, and sacred purposes.
 
-Arneria operates as a **federal theocratic state**.
+Causeway delving is often framed as ordeal, duty, or proof under oath. Some licenses require ritual vows, and some Labyrinth sites are restricted as sacred. In Bat'yan, delving and magical fieldwork may require knowledge of land, dream, and Astral navigation as much as conventional ruin procedure. Neither approach makes unverified supernatural explanations acceptable evidence.
 
-- **The Bey of Arneria** rules from Tilkisan
-    
-- **Flame-Thrones** govern major cities and regions
-    
-- **Ritual Councils** interpret and maintain oath-law
-    
+## IX. Travel, Hazards & Access
 
-Authority flows from **relic legitimacy**. Those who cannot maintain their oaths lose power—sometimes publicly.
+The Causeway is the most regulated approach to Arneria. Foreigners arriving through Fort Tawiran should expect identity review, cargo inspection, controlled hours, and questions about purpose and destination. Permission to enter the state does not automatically grant permission to enter every Bat'yan settlement or sacred place.
 
----
+Hazards differ by subregion: heat, water scarcity, volcanic terrain, and exposed distance dominate the dry country; flooding, dense growth, wildlife, poor visibility, and planar disorientation complicate Bat'yan travel. Causeway descents and remote branches should not be assumed open merely because they appear on a map.
 
-## VI. The Capital: Tilkisan
+Travelers should distinguish three questions before departure: whether the route is physically open, whether the Beylik permits its use, and whether the destination community consents to entry.
 
-**Tilkisan** is Arneria’s unquestioned capital: administrative, ceremonial, and symbolic. Its architecture enforces hierarchy through elevation, sightlines, and access. Wealth flows upward; labor flows beneath.
+## X. Historical Context
 
-The city’s beauty is intentional—a reminder that order must be visible to endure
+Arneria's present order emerged from survival after divine withdrawal, the preservation of sacred materials and rites, and civil conflicts over who could claim their authority. The Beylik eventually established durable control along the Causeway, while Bat'yan communities retained local systems that central government never wholly replaced.
 
-.
+The region's former dynasties and regal remnants are historical predecessors, not interchangeable names for the current Beylik. Their maintained registry is [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/IV. Crowns, Noble Houses & Inherited Offices/2. Arneria/index|Arneria: Dynasties & Regal Remnants]]. Full accounts of succession, sacred war, and predecessor rule belong in **Annals & Antiquities**.
 
-No other city disputes Tilkisan’s status. Some simply resent it.
+## XI. External Relations
 
----
+- **Allemance** is connected directly by the Causeway and remains a crucial source of trade, visitors, and administrative exchange.
+- **Vinyot** is economically useful but often frustrated by non-negotiable state controls and sacred restrictions.
+- **Al'Ar** provides maritime contact and a political culture whose flexibility contrasts with Causeway procedure.
+- **Oria** is respected for discipline and endurance, though its distributed House authority differs from Beylik centralization.
+- The **MDO** is necessary for cross-border delving and relic control but must navigate both state and local authority.
 
-## VII. Faith & Philosophy
+## XII. Current Conditions
 
-Arnerian faith centers on the **Nine Flames**, abstract aspects of divinity treated as forces to be shaped and contained.
+The most important ongoing structural question is where Beylik jurisdiction ends in practice and where Bat'yan consent begins. Infrastructure, security, commerce, and ritual can place both authorities in the same location without resolving the boundary between them.
 
-Temples double as:
+Several mapped settlements—including Duyan Vale, Kal'oro Grove, and Land's End—still have preliminary records. Current filing priorities are to authenticate their populations and roles, document local rules of entry, and separate verified planar effects from inherited map legends.
 
-- Forges
-    
-- Courts
-    
-- Training halls
-    
+## Related Records
 
-Priests are smiths. Sermons are rites. Failure is recorded.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/III. Arneria/1. Settlements/index|Settlements of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/03. Regional Politics of Arneria|Regional Politics of Arneria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/05. Beylik|Beylik]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/01. Bat'yan|Bat'yan]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/IV. Crowns, Noble Houses & Inherited Offices/2. Arneria/index|Arneria: Dynasties & Regal Remnants]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
 
-In Bat’yan, faith is quieter—woven into daily survival and ancestral memory rather than spectacle. The Astral Sea’s nearness has produced unique beliefs regarding dreams, wandering souls, and sky-spirits that are tolerated but not codified.
-
----
-
-## VIII. Economy & Trade
-
-Arneria exports **conviction made material**.
-
-**Exports**
-
-- Faith-bound relics
-    
-- Sacred metals and glasswork
-    
-- Desert spices and alchemical components
-    
-
-**Imports**
-
-- Grain (primarily from Allemance)
-    
-- Timber and labor
-    
-- Administrative expertise
-    
-
-Trade routes are tightly controlled; generosity is strategic.
-
----
-
-## IX. Delving Culture
-
-Delving in Arneria is considered **trial by ordeal**.
-
-- Licenses often require ritual vows
-    
-- Failure carries spiritual as well as legal consequence
-    
-- Certain labyrinths are declared sacred and off-limits
-    
-
-Bat’yan delvers operate differently—guided by land, dreams, and Astral phenomena rather than centralized authority.
-
----
-
-## X. Relations with Other Regions
-
-|Region|Relationship|Summary|
-|---|---|---|
-|**Allemance**|Competitive Ally|Faith vs hearth|
-|**Vinyot**|Strategic Rival|Trade and influence|
-|**Oria**|Uneasy Neighbor|Border relic disputes|
-|**Al’Ar**|Cultural Exchange|Elemental philosophy|
-|**MDO**|Conditional|Operates by charter|
-
----
-
-## XI. National Legacy
-
-Arneria believes the world survives because **someone is willing to suffer for its order**.
-
-Whether that belief is truth or self-justification is debated everywhere except within its borders.
-
-From the polished stone of Tilkisan to the living canopy of Bat’yan—where the Astral Sea watches too closely—Arneria endures by refusing to let faith go unanswered.
-
-> _“The gods may be gone.”_  
-> _“The fire remains.”_
+> [!note] Public Registry Notice
+> A Causeway permit establishes terms of state passage. It does not replace local invitation, ecological guidance, or sacred-site consent within Bat'yan.
 
 ---
 
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
-> **Filed & Authenticated**  
-> **Ministry of Delving Operations — The Living Atlas**  
-> **Verification Seal:** Priest-Analyst Thera Daan  
-> _— Capital authority verified as Tilkisan. Bat’yan reaffirmed as sub-geographic region with documented Astral proximity anomalies. Conflicting legacy entries deprecated._
+**Filed & Authenticated**<br>
+**Ministry of Delving Operations — Living Atlas Division**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_<br>
+**Primary Compiler:** **Priest-Analyst Thera Daan**<br>
+**Date of Original Filing:** **6th Cycle, 3104 A.D.**
+
+— This overview supersedes summaries that treat Beylik authority and Bat'yan local governance as one uniform theocratic administration.
+
+**MDO ARCHIVE · RECORD SEALED**

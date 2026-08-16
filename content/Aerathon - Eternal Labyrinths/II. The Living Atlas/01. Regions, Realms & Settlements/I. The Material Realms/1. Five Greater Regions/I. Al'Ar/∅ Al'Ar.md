@@ -1,218 +1,180 @@
 ---
 title: Al'Ar
+description: A current regional overview of Al'Ar, its stormbound islands, dock-states, settlement network, and maritime institutions.
 aliases:
   - Al'Ar
+tags:
+  - atlas
+  - region
+  - greater-region
+recordType: Regional Overview
+status: Current Reference
+classification: Public
+revision: Seventh Editorial Standard
+facts:
+  Realm: Material Aerathon
+  Regional Form: Decentralized Maritime Polity
+  Seat or Coordinating Center: Tempestat (de facto)
+  Government: Independent dock-states and seasonal councils
 ---
 
 # Al'Ar
 
 ### _The Isles of Storm and Flame — “If the world breaks, we learn to move with it.”_
 
-**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Regions)_  
-**Primary Compiler:** **Magistrate Talar Shellmark** (Charter Counsel & Keeper of Canon Articles)  
-**Advisory Editors:** **Lt. Salvia Korrin** (Arcane Breach Liaison), **Archivist Yelna Stonevoice** (Echo-Law & Oral Tradition)  
-**Date of Filing:** **8th Cycle, 3097 A.D.**  
-**Document Class:** _National Registry / Grade-I Structural Archive_
+**Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
+**Primary Compiler:** **Magistrate Talar Shellmark** (Charter Counsel & Keeper of Canon Articles)<br>
+**Advisory Editors:** **Lt. Salvia Korrin** (Arcane Breach Liaison), **Archivist Yelna Stonevoice** (Echo-Law & Oral Tradition)<br>
+**Date of Original Filing:** **8th Cycle, 3097 A.D.**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_
 
 ---
 
-## I. Overview
+## I. Regional Snapshot
 
-**Al’Ar** is a storm-lashed archipelago off Aerathon’s western reaches—an interlinked chain of volcanic islands, cliffbound ports, wandering dock-cities, and wind-threaded coastlines. Lightning is common enough to be navigational. Art is common enough to be law.
+Al'Ar is Aerathon's western stormbound archipelago: a maritime cultural region composed of island cities, cliff ports, volcanic settlements, and fleets whose civic obligations change with the sailing season. It is often described as a country for convenience, but it has no sovereign government capable of commanding every Al'Ari dock.
 
-Al’Ar does not rule itself through crowns or capitals in the continental sense.  
-Yet power still gathers.
+Its cohesion comes from movement. Harbor agreements, remembered obligations, shared weather knowledge, and the practical need to sail together bind the region more reliably than borders do.
 
-By trade, travel, culture, and sheer momentum, **Tempestat** stands as the **de facto capital of Al’Ar**—the city through which ideas, people, and storms inevitably pass. While no charter proclaims it supreme, no other city disputes its gravity.
+A phoenix-winged flame wrapped around a spiral wave is widely used as a regional emblem, joining the islands' traditions of storm, motion, destruction, and renewal without implying a single state seal.
 
-To live in Al’Ar is to accept one truth:
+| Field | Current filing |
+| --- | --- |
+| Regional form | Decentralized maritime polity |
+| Coordinating center | **Tempestat**, by capacity and custom rather than legal supremacy |
+| Government | Sovereign dock-states, harbor councils, and temporary seasonal authorities |
+| Major internal divisions | Volcanic islands, cliff coasts, open-water routes, and the Stormbelt |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/index|Settlements of Al'Ar]] |
+| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/01. Regional Politics of Al'Ar|Regional Politics of Al'Ar]] |
 
-> _Stillness is a kind of death._
+> [!note] Reading Al'Ar correctly
+> Tempestat is the region's de facto coordinating center, not a national capital by decree. An agreement accepted in one harbor should never be assumed valid in the next without checking local law.
 
-**Capital:** **Tempestat** (de facto)  
-**Government Type:** Decentralized city-states & cultural councils  
-**Regional Symbol:** Phoenix-winged flame wrapped around a spiral wave  
-**Cultural Maxim:** _“Move beautifully, or be left behind.”_
+## II. Land, Boundaries & Climate
 
----
+Al'Ar occupies an island chain shaped by volcanic uplift, steep shorelines, narrow habitable shelves, and deep channels. Settlements cluster where a harbor can survive the sea: behind reefs, beneath cliffs, within calderas, or along the few approaches that remain navigable during violent weather.
 
-## II. Geography & Climate
+The **Stormbelt** is both climate and boundary. Its storms follow recurring patterns, but recurrence is not the same as safety. Local pilots read pressure, cloud color, wave rhythm, and arcane disturbance together; a route that is open in one cycle may be unusable in the next.
 
-Al’Ar exists within a persistent atmospheric phenomenon known as the **Stormbelt**, where ocean currents and elemental pressure generate near-constant thunder activity.
+Fresh water, arable ground, and protected anchorage are unevenly distributed. These limits make island communities interdependent even when their councils resist formal union.
 
-Major geographic features include:
+## III. Subregions, Routes & Named Features
 
-- **Volcanic Island Chains** powering glass-forges and magma craft
-    
-- **Sheer Coastal Cliffs** carved into vertical cities
-    
-- **Mangrove-Choked Inner Shores** actively avoided by long-settled populations
-    
-- **Extended Dock-Cities** built outward into open water rather than inland
-    
+Al'Ari geography is commonly understood through sailing corridors rather than surveyed land borders.
 
-Storms are not seasonal—they are **rhythmic**. Locals mark time by wind shift, lightning cadence, and tide memory rather than fixed calendars.
+- **The inner dock circuit** links the largest ports and carries most passengers, civic messages, and ordinary freight.
+- **The outer-island routes** serve smaller communities, ritual voyages, resource camps, and dangerous open-water crossings.
+- **The Stormbelt passages** are seasonal windows known through accumulated pilot records, not permanent lanes.
+- **Aurica** is a mapped island feature whose golden terrain and dangerous interior warrant a dedicated filing: [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/2. Islands & Coasts/12. Aurica|Aurica]].
 
----
+The regional map also records minor islands, reefs, headlands, and channels that have not all received independent articles. Their mapped names remain part of Aerathon's geography and should be checked against the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
 
-## III. Political Structure & Governance
+## IV. Settlement Network
 
-Al’Ar has **no unified central government**.
+Al'Ar's cities are ports first and territorial administrations second. Their reach follows docks, fleet agreements, and supply relationships more readily than inland boundaries.
 
-Instead, governance is expressed through:
+| Settlement | Regional role |
+| --- | --- |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/01. Tempestat (Capital)|Tempestat]] | Largest port and de facto center for inter-city coordination |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/02. Mjinbou|Mjinbou]] | Major dock-state within the core maritime network |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/03. Muraya|Muraya]] | Independent port whose agreements help sustain regional exchange |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/05. Trebes|Trebes]] | Influential harbor within Al'Ar's seasonal political circuit |
 
-- Independent city councils
-    
-- Trade circles and dock conclaves
-    
-- Seasonal or situational leadership roles
-    
+Thalassar and Kyry complete the currently maintained civic register. The full six-settlement index is canonical; this table is only an orientation aid.
 
-Authority is **earned, temporary, and contextual**. Attempts at permanent rulership historically fail—not through rebellion, but abandonment.
+## V. Government, Law & Authority
 
-### Capital Status: Tempestat
+Each major settlement governs its own harbor law, tariffs, civic codes, religious observances, and terms of entry. Councils cooperate when storms, trade, rescue, or delver movement crosses their jurisdictions, but such cooperation does not create a permanent national government.
 
-While Al’Ar resists formal centralization, all major cities acknowledge Tempestat as:
+Authority expands and contracts with the sailing year. Fleets disperse during favorable travel seasons, and decision-making follows them. During dangerous passages or major Storm Voyages, captains and councils temporarily consolidate responsibility so that routes, rescues, and supplies can be coordinated.
 
-- The largest population center
-    
-- The primary trade artery
-    
-- The cultural and logistical anchor
-    
+Al'Ari sanctions are often logistical: loss of docking rights, refusal of harbor access, or exclusion from a sailing agreement. Violence between dock-states is rare because a port that cannot rely on neighboring crews may not survive the next storm.
 
-Tempestat governs nothing officially—yet coordinates everything implicitly.
+For the full distribution of authority, see the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/01. Regional Politics of Al'Ar|regional political dossier]].
 
----
+## VI. Peoples & Regional Life
 
-## IV. Major Cities of Al’Ar
+Al'Ari identity is learned through participation in maritime life. Households may be anchored to one port, divided among several islands, or absent for an entire sailing season. Crew, dock, neighborhood, and remembered voyage can all carry civic weight.
 
-### Tempestat — The Windbound Crown (Capital)
+Music, movement, body ornament, performance, and public craft are prominent forms of memory and reputation. These are practices, not measures of an individual's worth or temperament. A reserved harbor clerk and a celebrated storm-dancer may be equally Al'Ari because both understand the obligations that keep ships returning.
 
-A vast chain-city stretched along miles of coast, Tempestat is Al’Ar’s beating heart. Movement, not territory, defines it. Should Al’Ar ever unify, all projections identify Tempestat as the inevitable seat of power.
+Three recurring civic formulations describe these practices: **expression as survival**, **movement as authority**, and **beauty as responsibility**. They are ideals about communication, participation, and care—not requirements that every Al'Ari person perform or travel.
 
-### Mjinbou — The Single-Shore City
+Hospitality is shaped by scarcity. Water, shelter, repair labor, and accurate weather knowledge are rarely treated as casual gifts; offering them creates an obligation that may be remembered long after coin has changed hands.
 
-A city that disperses itself for half the year, embedding its people across the world before reforming through shared return. Mjinbou functions as Al’Ar’s memory and intelligence network.
+## VII. Economy & Infrastructure
 
-### Muraya — The City of Walls
+Al'Ar exports windcraft, performance traditions, volcanic glass, rare reagents, specialized shipwork, and maritime expertise. It depends heavily on imported food, timber, worked metals, textiles, and instruments that the islands cannot reliably produce at scale.
 
-A vertical port carved into cliffside stone. Muraya watches the horizon so others do not have to. Its influence lies in foresight, evacuation, and restraint.
+Docks, cisterns, signal stations, breakwaters, ropeways, and repair yards are essential public infrastructure. Their ownership varies by city, but their maintenance commonly involves overlapping civic, guild, fleet, and household obligations.
 
-### Trebes — The Three Babes
+Economic interruption is usually caused by weather or loss of passage rather than shortage of demand. A closed channel can isolate a productive island more completely than any tariff. Coin circulates alongside reputation and **Witness Marks**, which can attest that a person arrived, performed, served, or kept a promise; their wider context is recorded in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]].
 
-A dock-city that actively avoids its own islands’ interiors. Trebes survives by rebuilding outward and refusing to investigate what waits inland.
+## VIII. Faith, Magic & Delving
 
----
+Al'Ari religious life gives particular attention to storm, destruction, renewal, safe return, and the moral weight of timing. The **Eternal Phoenix** survives in regional symbolism and ritual language as a pattern of destruction followed by remaking; it should not be read as the only faith practiced across the islands.
 
-## V. People & Cultural Identity
+Song, dance, voyage timing, harbor offerings, and collective remembrance may all carry sacred meaning. Worship of gods recognized in the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/01. Modern Aerathon Pantheon|Modern Aerathon Pantheon]] exists alongside local spirits, inherited observances, and dock-specific rites.
 
-Al’Ari culture blends:
+Some Al'Ari traditions interpret an extended communal silence as an ill omen. This is a ritual reading of disrupted rhythm, not a judgment that every quiet person or gathering is suspect.
 
-- Beastfolk lineages (feline, vulpine, avian)
-    
-- Elemental-touched Brethren
-    
-- Mariners, performers, and storm-savants
-    
+Delving is unusually public in some ports. Expeditions can become civic spectacles, and success may be commemorated through performance as readily as through monuments. Other docks regard delvers as destabilizing traffic and impose strict local conditions. The **Thunderglass Vault** is remembered for mechanisms responsive to rhythm and coordinated movement, but no single Al'Ari delving policy applies everywhere.
 
-### Cultural Pillars
+## IX. Travel, Hazards & Access
 
-- **Expression Is Survival:** Art is how danger is understood
-    
-- **Movement Is Authority:** Those who travel decide
-    
-- **Beauty Is Responsibility:** To act without care is a moral failure
-    
+Most travelers enter Al'Ar by sea through a recognized port. There is no region-wide entry permit: harbor access, docking fees, cargo inspection, delver licensing, and religious restrictions are determined locally.
 
-Combat, performance, trade, and faith frequently blur into the same ritual space.
+Primary hazards include sudden storms, volcanic activity, dangerous channels, unreliable open-water landmarks, and arcane weather. Travelers should also treat social exclusion as a practical danger. Losing a pilot's trust or a dock's protection can leave a crew without water, repairs, or safe anchorage.
 
----
+Route reports age quickly. Current harbor notices and local pilot judgment take precedence over general regional descriptions.
 
-## VI. Faith & Philosophy
+## X. Historical Context
 
-Al’Ar does not reject the gods—but it does not kneel easily.
+Al'Ar's political form developed through repeated necessity rather than a single founding charter. Island communities learned to cooperate without surrendering control of their docks, while seasonal movement made permanent central authority difficult to sustain.
 
-Most belief centers around:
+The region's traditions of storm voyage, renewal, and negotiated obligation preserve historical memory in performance and custom as often as in fixed archives. This overview records the results of that development; full reconstructions of earlier voyages, migrations, and institutions belong in **Annals & Antiquities**.
 
-- Storm spirits
-    
-- Cycles of destruction and renewal
-    
-- The **Eternal Phoenix** concept of rebirth through motion
-    
+## XI. External Relations
 
-Rituals favor dance, song, and timing over doctrine. Silence is considered ominous.
+- **Vinyot** is a vital trade partner and cultural rival. Al'Ari councils value its logistics while resisting corporate consolidation.
+- **Allemance** provides land-based supply and transport networks whose structure is useful but often experienced as restrictive.
+- **Arneria** is approached with curiosity and caution, particularly where Causeway jurisdiction meets maritime trade.
+- **Oria** shares a respect for endurance and skilled making, though distance limits routine exchange.
+- The **MDO** is tolerated as a mediator, record-keeper, and crisis coordinator when it respects local harbor authority.
 
----
+## XII. Current Conditions
 
-## VII. Economy & Trade
+The region's persistent public questions are coordination and access. Dock-states continue to negotiate common rescue practices, trade passage, and the movement of delvers without accepting permanent central rule.
 
-Al’Ar thrives on **circulation**, not stockpiling.
+MDO revision priorities are to keep storm-route notices separate from enduring geography, document local access rules without presenting them as region-wide law, and expand articles for mapped islands and channels that currently exist only in the feature register.
 
-**Exports**
+## Related Records
 
-- Windcraft designs
-    
-- Performers and cultural movements
-    
-- Volcanic glasswork and elemental reagents
-    
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/I. Al'Ar/1. Settlements/index|Settlements of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/01. Regional Politics of Al'Ar|Regional Politics of Al'Ar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/01. Modern Aerathon Pantheon|Modern Aerathon Pantheon]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]]
 
-**Imports**
-
-- Foodstuffs
-    
-- Timber and metals
-    
-- Textiles and rare instruments
-    
-
-Currency is often symbolic; reputation and Witness Marks carry as much weight as coin.
-
----
-
-## VIII. Delving Culture
-
-Delving is considered a **public act**.
-
-- Expeditions are documented as performances or stories
-    
-- Success is judged by elegance as much as survival
-    
-- Many labyrinths in Al’Ar respond to rhythm, sound, or motion
-    
-
-The **Thunderglass Vault** remains the most famous local site, opening paths only to those who keep tempo.
-
----
-
-## IX. Foreign Relations
-
-|Region|Relationship|Notes|
-|---|---|---|
-|Vinyot|Trade & Patronage|Mutual profit|
-|Allemance|Cultural Exchange|Warm|
-|Arneria|Ideological Rivalry|Flame vs order|
-|Oria|Technical Curiosity|Stormcraft|
-|MDO|Semi-Autonomous|Cooperative but resistant|
-
----
-
-## X. Legacy
-
-Al’Ar does not seek to be ruled.
-
-It teaches Aerathon that survival is not about walls or crowns—but about knowing **when to move, when to watch, and when to rebuild**.
-
-The storms will come either way.  
-Al’Ar simply chooses to dance with them.
+> [!note] Public Registry Notice
+> Al'Ar is safe to describe as one region, but unsafe to administer as though it were one jurisdiction. Verify rules with the destination harbor before travel or delving activity.
 
 ---
 
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
-> **Filed & Authenticated**  
-> **Ministry of Delving Operations — The Living Atlas**  
-> **Verification Seal:** Magistrate Talar Shellmark  
-> _— Capital status verified through cross-referencing Tempestat trade gravity, population flow, and inter-city dependence. Conflicting legacy entries have been deprecated._
+**Filed & Authenticated**<br>
+**Ministry of Delving Operations — Living Atlas Division**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_<br>
+**Primary Compiler:** **Magistrate Talar Shellmark**<br>
+**Date of Original Filing:** **8th Cycle, 3097 A.D.**
+
+— This overview supersedes earlier structural summaries where they imply a unified Al'Ari state.
+
+**MDO ARCHIVE · RECORD SEALED**

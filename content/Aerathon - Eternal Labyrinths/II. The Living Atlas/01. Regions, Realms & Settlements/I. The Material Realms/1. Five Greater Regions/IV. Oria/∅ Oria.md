@@ -1,223 +1,187 @@
 ---
 title: Oria
+description: A current regional overview of Oria, its northern House polities, settlement network, infrastructure, and survival institutions.
 aliases:
   - Oria
+tags:
+  - atlas
+  - region
+  - greater-region
+recordType: Regional Overview
+status: Current Reference
+classification: Public
+revision: Seventh Editorial Standard
+facts:
+  Realm: Material Aerathon
+  Regional Form: Merit-Driven House Confederation
+  Seat or Coordinating Center: None
+  Government: Autonomous House polities coordinated through the Housemeet
 ---
 
 # Oria
 
 ### _The Hammerlands of the North — “The House Endures.”_
 
-**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Sovereign Confederations)_  
-**Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Oric Civic Lineages)  
-**Advisory Editors:** **Professor Arav Dhal-Senn** (Infrastructure & Settlement Stability), **Lt. Salvia Korrin** (Arc. Scriv., Verification)  
-**Date of Filing:** **4th Cycle, 3160 A.D.**  
-**Document Class:** _National Record / Grade-I Authenticity_
+**Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
+**Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Oric Civic Lineages)<br>
+**Advisory Editors:** **Professor Arav Dhal-Senn** (Infrastructure & Settlement Stability), **Lt. Salvia Korrin** (Arcane Scrivener, Verification)<br>
+**Date of Original Filing:** **4th Cycle, 3160 A.D.**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_
 
 ---
 
-## I. Overview
+## I. Regional Snapshot
 
-**Oria** is not a kingdom, republic, or empire. It is a **confederation of autonomous city-states**, each governed by its own **House**, bound together by necessity, shared geography, and an unspoken agreement: **no House rules another**.
+Oria is Aerathon's northern mountain and ice-sea region, organized through autonomous **Houses**. An Oric House is not a noble family. It is a lodge-city, governing institution, military and economic community, and body of shared obligation. A recognized family may hold its Seat and steward its offices, but that stewardship is conditional and revocable.
 
-In Oric custom:
+Oria has no permanent capital. Matters involving several Houses are carried to the **Housemeet**, a convened assembly rather than a standing national government.
 
-- The **House** bears the **name of the city it governs**.
-    
-- The **Seat** is the **family entrusted with stewardship** of that House.
-    
-- Authority is conditional, revocable, and judged solely by whether the city continues to function.
-    
+| Field | Current filing |
+| --- | --- |
+| Regional form | Merit-driven House confederation |
+| Coordinating center | None; the Housemeet convenes when required |
+| Government | Autonomous House polities with conditional civic stewardship |
+| Major internal divisions | House territories, northern coasts, mountain corridors, and threshold zones |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/index|Settlements of Oria]] |
+| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria|Regional Politics of Oria]] |
 
-Oria has **no capital**, no central throne, and no permanent council. Coordination exists only where survival demands it.
+> [!note] Reading Oria correctly
+> A House, its Seat, and its steward family are three connected but distinct things. Treating all three as one clan obscures how Oric authority is granted, tested, and removed.
 
-To rule Oria from a single hall would be a contradiction in terms.
+## II. Land, Boundaries & Climate
 
-**Capital:** _None_  
-**Government Type:** Confederation of House-ruled city-states  
-**Cultural Maxim:** _“The House endures. The seat must be earned.”_
+Oria spans northern mountains, icebound coasts, cold forests, deep valleys, and extensive subterranean works. The **Malenkean Sea** shapes its ports and fisheries, while the **Stormwall** and **Grensa** systems constrain overland movement and settlement.
 
----
+Winter is an administrative condition as much as a season. Snow, ice, darkness, avalanche, and sea closure determine when councils can meet, which communities can exchange supplies, and whether a route belongs to ordinary commerce or emergency passage.
 
-## II. Geography & Climate
+Some Oric districts are classified as **threshold zones**, where deep construction, old magical pressure, or proximity to hostile conditions makes the boundary between civic space and hazard unusually thin. These are local conditions and should not be generalized to every House territory.
 
-Oria occupies Aerathon’s northern reaches, defined by **mountains, ice seas, and engineered survival**.
+## III. Subregions, Routes & Named Features
 
-Key geographic features include:
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/03. Houses of Oria|Houses of Oria]] form the region's primary political geography. Roads, tunnels, sea lanes, lifts, and winter tracks connect them, but no route network is administered from a single center.
 
-- **The Stormwall & Grensa Mountains** — natural barriers pierced only by engineered passages
-    
-- **The Malenkean Sea** — ice-choked waters requiring constant naval intervention
-    
-- **Subterranean Stone Belts** — frozen mountain strata carved into habitable depth-cities
-    
-- **Northern Threshold Zones** — regions where climate, time, and arcana destabilize
-    
+- **Mountain corridors** link lodge-cities, mines, passes, and sheltered valleys.
+- **Northern sea lanes** connect Severport and other coastal communities when ice and weather permit.
+- **Subterranean routes** carry ore, machinery, water, heat, and people through protected spaces.
+- **Stormwall and Grensa approaches** require current condition reports; apparent distance on a map understates seasonal difficulty.
 
-The land is unforgiving by default. Oria survives not by taming it, but by **building correctly within it**.
+Named mountains, waters, ruins, and distinct features that lack full articles remain part of the regional record through the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]].
 
----
+## IV. Settlement Network
 
-## III. Political Structure: The Houses
+Seven lodge-cities are maintained as named House Seats in the government register. Frostguarde's row records the last verified pre-plague structure; it does not authenticate a current steward or surviving civic authority.
 
-Oria is governed through its **Houses**, each one synonymous with its city.
+| House Seat | Steward family | Local stewardship office |
+| --- | --- | --- |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/02. Edelstann|Edelstann]] | Vanlig | High Lodge-Bearer |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/04. Frostguarde City|Frostguarde]] | Stonewarden (last verified) | Warden-Regent (current office unauthenticated) |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/06. Heltenlave|Heltenlave]] | Skjoldhrafn | Lodge-Bearer |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/08. Jegervalt|Jegervalt]] | Roetvald | High Gatewarden |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/09. Podgorod|Podgorod]] | Bronzemolev | Prime Mechanarch |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/10. Priozhevsky|Priozhevsky]] | Medvednaya | High Curator |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/11. Severport|Severport]] | Severinhald | High Admiral-Batko |
 
-There is **no hierarchy of Houses**. Influence flows from function, not decree:
+Doloretsk, Fallensky's Rest, Gonlev, Isfisk, Tulivuori, and Zaros are also canonical Oric settlements. Not every town is a House Seat, and not every important regional function is performed from one.
 
-- Tunnel control demands deference
-    
-- Naval survival demands obedience
-    
-- Hazard proximity demands restraint
-    
+## V. Government, Law & Authority
 
-Inter-House matters are negotiated through temporary accords, seasonal pacts, and emergency understandings. These arrangements dissolve once their purpose is fulfilled.
+Each House governs its lodge-city, surrounding territory, defense, labor obligations, welfare systems, rites, and local law. Prestige is earned through demonstrated competence in survival, craft, defense, scholarship, and service. Recognition can elevate an office; documented failure can remove it.
 
-### Recognized Houses of Oria
+The Housemeet addresses matters that exceed one House's jurisdiction, including shared defense, passage, major infrastructure, and collective policy. It has no permanent capital apparatus. Its authority depends on the participation and recognition of the Houses that convene it.
 
-|House (City)|Seat (Steward Family)|Civic Function|
-|---|---|---|
-|**House Edelstann**|Vanlig|Maritime trade & eastern access|
-|**House Frostguarde**|Stonewarden|Threshold stewardship & hazard watch|
-|**House Heltenlave**|Skjoldhrafn|Martial culture & elite training|
-|**House Jegervalt**|Roetvald|Continental tunnel control|
-|**House Podgorod**|Bronzemolev|Subterranean industry & agriculture|
-|**House Priozhevsky**|Medvednaya|Medical & scholarly authority|
-|**House Severport**|Severinhald|Northern naval defense|
+Oric law tends to be functional. Negligence that endangers a settlement may be judged more severely than private malice without public consequence. Restitution, removal from responsibility, and the preservation of recorded failure are common tools because the purpose of judgment is to keep the House capable of surviving the next strain.
 
-(Full governance details are maintained on individual city pages.)
+The complete distinction among Houses, Seats, steward families, and offices is maintained in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/04. Sub-Regional Politics of the Houses of Oria|Sub-Regional Politics of the Houses of Oria]].
 
----
+## VI. Peoples & Regional Life
 
-## IV. Oric Law & Custom
+House affiliation is often more immediate than regional identity. It determines where a person owes maintenance, defense, provision, testimony, and care. Movement between Houses is possible, but it involves obligations rather than a simple change of address.
 
-Oric law is **functional**, not ideological.
+In ordinary speech, residents may identify themselves through phrases such as “of Edelstann,” “Podgorod-born,” or “in service to Severport.” These expressions signal different relationships to place and obligation; they are not interchangeable legal categories.
 
-Common principles across all Houses include:
+Craft, repair, preparedness, endurance, and competent service are widely honored. These expectations describe public standards, not innate Oric temperament. A person's value is not fixed by lineage, body, family, or birthplace; it is negotiated through what the community entrusts to them and how they sustain that trust.
 
-- **Failure removes authority**
-    
-- **Negligence is worse than malice**
-    
-- **Survival outweighs pride**
-    
+House rivalry is public and persistent, but shared danger changes its function. Communities that compete over prestige, technique, and recognition are still expected to cooperate when a failure would threaten Oria beyond one jurisdiction.
 
-Punishment favors restitution and removal over imprisonment. A steward who endangers the city does not face trial—they are **replaced**.
+## VII. Economy & Infrastructure
 
-Written law exists, but **precedent and recorded failure** carry equal weight.
+Oria exports metals, machinery, naval work, medical tools, engineered components, and specialist labor. It imports food, luxury goods, reagents, and warm-climate materials that northern terrain cannot reliably provide.
 
----
+Infrastructure is treated as living civic responsibility. Heating systems, tunnels, retaining walls, lifts, bridges, foundries, waterworks, signal stations, and sea defenses are maintained through House labor and technical offices. A repair record can carry political weight because it demonstrates whether an authority noticed, understood, and answered a risk.
 
-## V. People & Cultural Identity
+Trade routes depend on seasonal storage. A settlement may appear economically isolated while holding deep reserves or a scheduled exchange obligation invisible to an outside visitor.
 
-Oric identity is **House-first**.
+External trade is negotiated House by House. An agreement with one House does not grant access to another's mines, workshops, escorts, healers, or stores, and that separation helps prevent a foreign power from controlling Oria's full supply chain.
 
-An Oric does not say “I am from Oria” unless speaking to an outsider. They say:
+## VIII. Faith, Magic & Delving
 
-- “I am of Edelstann.”
-    
-- “I am Podgorod-born.”
-    
-- “I serve Severport.”
-    
-
-Shared cultural traits include:
-
-- Reverence for craft, maintenance, and repair
-    
-- Distrust of centralized authority
-    
-- Acceptance that comfort is optional, failure is not
-    
-
-Lineage matters less than **competence**, though steward families are expected to exemplify both.
-
----
-
-## VI. Economy & Trade
-
-Oria exports **reliability**.
-
-**Primary Exports**
-
-- Metals, machinery, and infrastructure components
-    
-- Naval services and ice-escort contracts
-    
-- Medical expertise and alchemical treatments
-    
-
-**Primary Imports**
-
-- Foodstuffs (primarily from Allemance)
-    
-- Limited luxuries
-    
-- Specialized reagents
-    
-
-Trade is negotiated **House by House**. No external power is permitted to control Oria’s supply chain in full.
-
----
-
-## VII. Faith & Philosophy
-
-Faith in Oria is restrained and practical.
-
-Gods are respected, but not begged. Shrines are built into load-bearing walls. Prayer often takes the form of work done correctly.
-
-Commonly honored figures include **Moradin**, **Gond**, and **Kord**, alongside the secular Oric creed known as **The Hand Unbroken**:
+Oric religious life emphasizes continuity through labor, protection, ancestry, skilled making, and the keeping of structures that shelter others. Shrines may be built directly into load-bearing works, joining sacred attention to the structures a community must maintain. The expression **Hand Unbroken** names a recurring ideal: work completed correctly can be prayer, proof, and communal memory at once.
 
 > _“Divinity is the patience to make.”_
 
----
+Local ancestors, House rites, and gods recognized by the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/01. Modern Aerathon Pantheon|Modern Aerathon Pantheon]] coexist without producing one uniform regional liturgy. Authority over a shrine or rite should be verified through the House that maintains it.
 
-## VIII. Delving Culture
+Oric delving is frequently understood as a structural stress test. Houses sponsor delvers, compare expedition results, and treat both success and failure as evidence. Equipment is expected to be adapted during an expedition when conditions demand it, and recovered relics are often reforged for practical use rather than preserved solely for reverence. Prestige follows recoveries that improve collective survival; concealed failure is especially serious because it prevents the next crew from preparing.
 
-Oria treats delving as **structural stress testing**.
+Oric-trained delvers are particularly sought for shifting terrain, magnetic anomalies, and environments at risk of structural collapse. The preference is survival and useful evidence over spectacle.
 
-- Equipment is expected to be modified mid-delve
-    
-- Relics are reforged rather than revered
-    
-- Survival is valued over spectacle
-    
+## IX. Travel, Hazards & Access
 
-Many delvers trained in Oria are sought after for labyrinths involving shifting terrain, magnetic anomalies, or environmental collapse.
+Travel requires route-specific preparation. Winter closures, avalanche, sea ice, structural failure, deep cold, and sudden weather can isolate settlements. Tunnels and lodge infrastructure reduce exposure but introduce their own risks, including collapse, ventilation failure, machinery, and restricted House works.
 
----
+There is no single regional entry office. Travelers should identify the House responsible for their destination and determine whether they need guild papers, delver credentials, work sponsorship, or permission to enter protected infrastructure.
 
-## IX. Relations with Other Regions
+Current maintenance notices take precedence over inherited maps. An old route may remain visible while no longer being supplied, patrolled, or structurally sound.
 
-|Region|Relationship|Summary|
-|---|---|---|
-|**Allemance**|Strong Alliance|Food for metal|
-|**Vinyot**|Transactional|Industry & contracts|
-|**Arneria**|Ideological Rival|Faith vs endurance|
-|**Al’Ar**|Trade Partner|Elemental materials|
-|**MDO**|Fragmented|Negotiated per House|
+## X. Historical Context
 
-The Ministry does not “govern” Oria. It **coordinates with it**, one House at a time.
+Oria's House system developed around communities that survived because authority remained answerable to material conditions. Lodge-cities joined civic government, shelter, production, and defense into institutions capable of enduring northern isolation.
 
----
+The Housemeet grew from the need to act collectively without creating a permanent ruler over every House. Rivalry became a means of testing competence, while shared records made failure useful to those who came after. This overview preserves the modern result; the founding of individual Houses and the succession of their steward families belong in dedicated historical records.
 
-## X. National Character
+## XI. External Relations
 
-Oria does not seek unity.  
-It seeks **function**.
+- **Allemance** is respected for its roads, archives, and provision networks, though Oric observers may find its overlapping authorities difficult to read.
+- **Vinyot** is valued as a buyer and logistics partner; disagreement often centers on whether every public obligation should be priced.
+- **Arneria** shares traditions of discipline and infrastructure but concentrates state authority more tightly along the Causeway.
+- **Al'Ar** earns respect through maritime endurance and craft despite a political looseness unfamiliar to many Houses.
+- The **MDO** is useful where Labyrinth evidence and cross-regional licensing require a common record, but House jurisdiction remains primary within Oric civic works.
 
-A crown would crack under this weight.  
-A capital would become a liability.
+## XII. Current Conditions
 
-Instead, Oria distributes authority like load across an arch—each House bearing its share, none allowed to dominate, all required to hold.
+Oria's enduring political task is coordination without centralization. Shared defense and infrastructure require prompt collective action, while each House remains protective of its standards, records, and right to withdraw recognition from failed stewards.
 
-> _“Stone remembers who did the work.”_
+**Frostguarde City, its approaches, and all routes toward the Nattefrost remain inside the northern plague cordon and are off-limits.** No current Frostguarde signal, census, survivor contact, Warden-Regent, or House authority has been authenticated. Regional summaries must not convert its last verified pre-plague structure into a claim of present activity.
+
+Current registry priorities are to distinguish House territory from settlement geography, document winter and threshold routes without presenting temporary access as permanent, and give non-Seat communities fuller civic records.
+
+## Related Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/index|Settlements of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria|Regional Politics of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/04. Sub-Regional Politics of the Houses of Oria|Sub-Regional Politics of the Houses of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/03. Houses of Oria|Houses of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
+
+> [!note] Public Registry Notice
+> Confirm the responsible House before relying on an office, permit, or maintenance guarantee. Recognition in one House does not automatically create authority in another.
 
 ---
 
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
-> **Filed & Authenticated**  
-> **Ministry of Delving Operations — The Living Atlas**  
-> **Verification Seal:** Archivist Yelna Stonevoice  
-> _— Oria confirmed as a non-centralized House Confederation. No capital recognized. House authority defined strictly by city governance records. Legacy references implying central rule are hereby deprecated._
+**Filed & Authenticated**<br>
+**Ministry of Delving Operations — Living Atlas Division**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_<br>
+**Primary Compiler:** **Archivist Yelna Stonevoice**<br>
+**Date of Original Filing:** **4th Cycle, 3160 A.D.**
+
+— This overview supersedes summaries that treat an Oric House as a family or the Housemeet as a permanent national council.
+
+**MDO ARCHIVE · RECORD SEALED**

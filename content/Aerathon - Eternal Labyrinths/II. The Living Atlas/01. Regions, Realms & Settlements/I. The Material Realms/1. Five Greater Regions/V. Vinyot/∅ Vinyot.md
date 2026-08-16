@@ -1,244 +1,178 @@
 ---
 title: Vinyot
+description: A current regional overview of Vinyot, its mercantile league, waterways, settlements, contracts, and delving economy.
 aliases:
   - Vinyot
+tags:
+  - atlas
+  - region
+  - greater-region
+recordType: Regional Overview
+status: Current Reference
+classification: Public
+revision: Seventh Editorial Standard
+facts:
+  Realm: Material Aerathon
+  Regional Form: Mercantile League
+  Seat or Coordinating Center: Dole
+  Government: Corporate civic boards coordinated through League contracts
 ---
 
 # Vinyot
 
 ### _The League of Coin — “Every Promise Has a Price.”_
 
-**Filed Division:** _Ministry of Delving Operations — The Living Atlas (Economic Powers & Sovereign Leagues)_  
-**Primary Compiler:** **Director Halin Drauve** (Guild Economics & Trade Regulation)
-
-  
-**Advisory Editors:** **Investigator Lokk Marren** (Political Movements), **Lt. Salvia Korrin** (Arcane Scrivener, Verification)  
-**Date of Filing:** **8th Cycle, 3168 A.D.**  
-**Document Class:** _National Record / Grade-I Authenticity_
-
----
-
-## I. Overview
-
-**Vinyot** is Aerathon’s beating economic heart—a mercantile league of cities bound not by blood or banner, but by **contracts, coin, and mutual debt**. Where other nations are shaped by faith, lineage, or endurance, Vinyot is shaped by **flow**: of goods, of people, of money, of obligation.
-
-Though fiercely decentralized in practice, Vinyot maintains a recognized capital in **Dole**, from which national policy, taxation frameworks, and external diplomacy are enforced. This arrangement is tolerated—rather than loved—by the wider League, but persists because it functions.
-
-Vinyot does not pretend to unity.  
-It simply ensures that breaking away is more expensive than staying.
-
-**Capital:** **Dole**  
-**Government Type:** Mercantile League with Baronic Capital  
-**Regional Maxim:** _“Every promise costs something.”_
+**Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
+**Primary Compiler:** **Director Halin Drauve** (Guild Economics & Trade Regulation)<br>
+**Advisory Editors:** **Investigator Lokk Marren** (Political Movements), **Lt. Salvia Korrin** (Arcane Scrivener, Verification)<br>
+**Date of Original Filing:** **8th Cycle, 3168 A.D.**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_
 
 ---
 
-## II. Geography & Trade Routes
+## I. Regional Snapshot
 
-Vinyot occupies Aerathon’s warm southern reaches: river deltas, estuaries, and long coastlines shaped for commerce.
+Vinyot is Aerathon's warm southern mercantile league, built around coasts, estuaries, canals, agricultural districts, pilgrimage roads, and the contracts that connect them. Its cities cooperate because common standards make trade possible, not because every local government has the same form.
 
-### Key Geographic Features
+**Dole** is the recognized administrative and diplomatic capital. Its authorities coordinate League taxation, contract standards, and foreign representation, but Dole does not directly govern every corporate board, canal concern, barony, sacred city, or expedition settlement in Vinyot.
 
-- **The Golden Delta:** Interlaced rivers feeding the League’s interior markets
-    
-- **Southern Long Sea Coast:** Maritime routes to Arneria, Al’Ar, and beyond
-    
-- **Inland Canal Systems:** Artificial lifelines enabling bulk transport
-    
-- **Pilgrimage & Trade Corridors:** Roads where faith, coin, and rumor mix freely
-    
+| Field | Current filing |
+| --- | --- |
+| Regional form | Mercantile league |
+| Coordinating center | **Dole** |
+| Government | Corporate boards, civic concerns, baronies, and local authorities joined by League contracts |
+| Major internal divisions | Golden Delta, southern coast, inland waterways, agricultural districts, and pilgrimage corridors |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/index|Settlements of Vinyot]] |
+| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]] |
 
-Climate is humid, fertile, and unforgiving to neglect—ideal for trade, agriculture, and rapid urban growth.
+> [!note] Reading Vinyot correctly
+> Contract is the League's common political language, not proof that every Vinyoti settlement is a corporation. Always distinguish regional coordination from the authority that governs a particular city.
 
----
+## II. Land, Boundaries & Climate
 
-## III. Political Structure & Governance
+Vinyot occupies Aerathon's warmer southern watersheds and coasts. Deltas, estuaries, beaches, river valleys, low agricultural country, and southern mountain approaches support a dense network of ports and market settlements.
 
-Vinyot is governed through **economic authority rather than territorial rule**.
+The **Golden Delta** and connected river systems are productive because they are managed. Locks, levees, canals, drainage works, farms, and port schedules turn seasonal water into transport and food. When that maintenance fails, the same water that enriches the region can isolate or inundate it.
 
-### The League of Coin
+Coastal boundaries are commercial as often as political. A harbor's effective reach may extend along shipping contracts and insurance agreements while ending abruptly at a neighboring city's docks.
 
-A loose alliance of cities, guilds, and corporate bodies bound by trade pacts, mutual insurance, and shared currency standards.
+## III. Subregions, Routes & Named Features
 
-### The Capital: Dole
+- **The Golden Delta** is the league's agricultural and river-trade heartland.
+- **The southern coast** links fishing communities, pearl farms, trade ports, pilgrimage cities, and white-sand diplomatic harbors.
+- The **Cristalmonte** and **Ficklefox** rivers meet critical elevation works at Landbridge before continuing toward the **Long Sea**.
+- The **Quest River** delivers traffic to Porta Strega and its managed liminal environment near the Calorwood.
+- The **Bêtemère foothills** shape inland passes such as Wingsmeet's migration corridor.
+- **Pilgrimage and trade roads** overlap without serving the same purpose; Springbok's Flight is a sacred waypoint as well as a city within the commercial league.
 
-Dole serves as Vinyot’s administrative and diplomatic center. Its baronial authority enforces League-wide policy, taxation thresholds, and external agreements—often with harsh efficiency.
+Additional rivers, bays, forests, bridges, and coastal sites remain canonical through the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]], even where no independent article has yet been completed.
 
-The capital is **clean, controlled, and deeply resented** by cities that generate the wealth it collects.
+## IV. Settlement Network
 
-### Councils & Power Centers
+Vinyot's settlement system is deliberately varied. Some cities control infrastructure, some administer capital, some preserve ritual routes, and others exist because a resource or Labyrinth makes leaving less profitable than staying.
 
-- **Council of Scales:** Merchant-princes and trade magnates
-    
-- **Guild Accords:** Binding economic treaties
-    
-- **Corporate Boards:** De facto rulers in industrial cities
-    
+| Settlement | Regional role |
+| --- | --- |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/01. Dole (Capital)|Dole]] | League capital and tightly governed baronic hill-city |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/06. Landbridge|Landbridge]] | Inland port whose locks control major freshwater trade |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/09. Porta Ventura|Porta Ventura]] | Maritime gateway to Arneria and center of trade arbitration |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/12. Springbok's Flight|Springbok's Flight]] | Pilgrimage city organized around the Twin Ascent |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/04. Dungeon Town|Dungeon Town]] | Semi-permanent expedition market above a persistent Labyrinth |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/02. Arloris|Arloris]] | Fishing and pearl-farming communities around Amicia Bay |
 
-Power in Vinyot flows upward with coin—and outward with consequences.
+Bella Madre, Gonlaro, Malarthain Stronghold, Porta Strega, Ruby Bay, Southwinds, Verglass, and Wingsmeet complete the current fourteen-settlement register.
 
----
+## V. Government, Law & Authority
 
-## IV. Major Cities of Vinyot
+League authority is produced through contracts among cities, boards, concerns, guilds, and other recognized local governments. Dole coordinates common standards and external representation where members have accepted its role. Its regional power is strongest when taxes, credit, shipping access, or enforceable contracts align behind it.
 
-Vinyot’s identity is defined by its cities, each a different expression of commerce, survival, or belief:
+Trade magnates also convene through the **Council of Scales**, while guild and city accords bind particular industries or routes. Neither institution should be mistaken for a legislature with automatic supremacy inside every member settlement.
 
-- **Dole** — Capital city and baronic seat; administrative control and fiscal enforcement
-    
-- **Bella Madre** — Cultural capital and performance hub
-    
-- **Landbridge** — Inland lock city controlling freshwater trade
-    
-- **Malarthain Stronghold** — Forge city and beastfolk cultural bastion
-    
-- **Porta Strega** — Managed liminal city of mirrors and ritual regulation
-    
-- **Porta Ventura** — Discreet luxury port and arbitration gateway
-    
-- **Ruby Bay** — Post-crisis settlement city still defining itself
-    
-- **Southwinds** — Major maritime port marked by occupation and recovery
-    
-- **Springbok’s Flight** — Sacred pilgrimage city of dual faith
-    
+Local government is not uniform. Landbridge answers to a canal concern; Dole's baronic government exercises severe control within its own jurisdiction; pilgrimage, rural, coastal, and expedition communities maintain different arrangements. The League makes these authorities interoperable without making them identical.
 
-Each city retains internal autonomy—but none escape League obligation.
+Vinyoti law is extensive, especially around ownership, debt, licensing, labor, insurance, trade, and liability. Some contracts are secured by magic or formal oath, and League standards can make debt enforceable across member-city boundaries; neither condition applies to every private promise. False oaths may carry social, financial, legal, or—in properly witnessed instruments—physical penalties. Enforcement is negotiable in some jurisdictions, but negotiation should not be mistaken for absence of consequence. The party with stronger records, credit, or institutional backing often controls which compromise is considered lawful.
 
----
+For current political interpretation, see [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]].
 
-## V. Law, Coin, & Contract
+## VI. Peoples & Regional Life
 
-Law in Vinyot is **transactional**.
+Vinyoti public life gives unusual weight to contracts, schedules, receipts, sponsorship, guild standing, and the visible results of administration. Citizenship may be tied to residence, employment, guild recognition, or local charter rather than to one regional rule.
 
-- Contracts are magically binding
-    
-- False oaths carry physical and social penalties
-    
-- Debt is enforceable across city boundaries
-    
+Outsiders often describe Vinyotians as calculating, corrupt, or comfortable with inequity. Such reputations flatten important differences among workers, debtors, merchants, pilgrims, rural households, delvers, and the authorities who profit from them. A system can produce maintained streets and reliable trade while distributing their costs unfairly.
 
-Citizenship is often tied to **guild membership**. To lose one’s guild is to lose protection, credit, and standing.
+Household and community life varies from company-owned housing to independent farms, fishing hamlets, sacred districts, fortified enclaves, and seasonal expedition camps. The proper unit of description is therefore the settlement and institution, not an assumed regional personality.
 
-The League’s unspoken rule:
+## VII. Economy & Infrastructure
 
-> _“Freedom ends where the contract begins.”_
+Vinyot exports processed relic components, textiles, glass, spell-paper, agricultural products, financial services, insurance, arbitration, and transport expertise. It imports raw materials, food beyond its own seasonal supply, labor, salvage, and specialist goods from every other Greater Region.
 
----
+Canals, locks, harbors, levees, roads, warehouses, counting houses, communication systems, and standardized paperwork are the League's shared machinery. Much of that infrastructure is owned or managed by corporations and concerns that also control housing, security, or employment.
 
-## VI. People & Cultural Identity
+Credit moves goods before coin arrives, while insurance turns danger into a price that can be sold. These practices make long-distance trade resilient but allow distant boards to shape the daily life of communities they rarely visit. General systems are maintained in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/04. Trade & Travel Across Aerathon|Trade & Travel Across Aerathon]].
 
-Vinyoti culture prizes:
+## VIII. Faith, Magic & Delving
 
-- Wit over strength
-    
-- Leverage over loyalty
-    
-- Presentation over sincerity
-    
+Religion holds no uniform executive authority across Vinyot, but it is not merely private. Office shrines, household observances, guild rites, licensed ritual practice, and major public pilgrimages coexist. Some temples also act as banks, witnesses, or contract registries, making prayer and negotiation closely adjacent without rendering every transaction sacred. Springbok's Flight demonstrates that a sacred route can shape civic calendars and regional travel without making Vinyot a theocracy.
 
-Common traits include:
+Worship of gods recognized by the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/I. Pantheons & Inherited Traditions/01. Modern Aerathon Pantheon|Modern Aerathon Pantheon]] varies by city and occupation. Local traditions should be recorded through their own institutions rather than reduced to a short list of “mercantile gods.”
 
-- Early literacy in numbers and law
-    
-- Public charm paired with private calculation
-    
-- Comfort with moral ambiguity, provided it is profitable
-    
+Vinyot treats delving as investment, labor, spectacle, and regulated risk. Registered expeditions can be sponsored, insured, taxed, supplied, and resold as information, while private delves may operate at or beyond the edge of local law. Relic auctions are public commercial events in several cities, and a failed venture may remain acceptable to its backers when its accounts, disclosures, and liabilities are sound. **Dungeon Town** is the clearest expression of that economy: an unstable market and research settlement sustained by a Labyrinth that remains present when others vanish.
 
-Hospitality exists—but is never free.
+## IX. Travel, Hazards & Access
 
----
+Vinyot is accessible by coast, river, road, and commercial passage. Entry is usually straightforward where a traveler can satisfy local customs, cargo, and payment requirements, but no League document guarantees access to every private dock, company district, sacred route, or delving site.
 
-## VII. Economy & Influence
+Hazards include flood, heat, coastal storms, lock and canal accidents, debt or contract traps, crime concealed by institutional respectability, and site-specific magical conditions. Porta Strega's reflective phenomena, Arloris's unexplained activity beneath Amicia Bay, and Dungeon Town's unstable ground each require local guidance.
 
-Vinyot moves a majority of Aerathon’s liquid wealth.
+Travelers should read what a contract excludes as carefully as what it promises. A route may be open while rescue, lodging, or liability remains entirely at the traveler's expense.
 
-**Primary Exports**
+## X. Historical Context
 
-- Processed relic components
-    
-- Textiles, glasswork, spell-paper
-    
-- Financial services and trade arbitration
-    
+Vinyot developed through ports, river controls, agricultural markets, and settlements that learned to cooperate through enforceable exchange. Companies and civic concerns accumulated functions once separated among government, guild, landlord, and guard; the League formed to make their contracts legible across jurisdictions.
 
-**Primary Imports**
+Dole's recognition as capital gave the region an administrative and diplomatic center without erasing older local governments. The result is a polity held together by standards and mutual advantage rather than a single constitutional form. Full histories of member cities, founding concerns, and baronic succession belong in dedicated Annals records when commissioned.
 
-- Raw materials
-    
-- Food and labor
-    
-- High-risk salvage
-    
+## XI. External Relations
 
-The League’s true export is **dependence**.
+- **Allemance** is a reliable trade partner and source of food, administration, and overland access, though inherited privilege complicates negotiation.
+- **Arneria** is a necessary Causeway partner whose state controls and sacred restrictions resist easy purchase.
+- **Al'Ar** is profitable, mobile, and difficult to bind to long-term centralized agreements.
+- **Oria** supplies craft and engineering of exceptional value but does not always accept Vinyoti assumptions about price and ownership.
+- The **MDO** is useful for standards, licensing, and public confidence; League institutions resist it when oversight becomes moral or politically expansive.
 
----
+## XII. Current Conditions
 
-## VIII. Faith & Philosophy
+Vinyot's public stability depends on functioning infrastructure and confidence that agreements will be honored. That makes concealed maintenance failures, unpayable obligations, and disruptions to major routes political threats as well as economic ones.
 
-Faith in Vinyot is pragmatic.
+Current localized concerns include unexplained activity beneath **Amicia Bay**, the persistent and unstable Labyrinth beneath **Dungeon Town**, and the continuing need to distinguish Dole's regional coordinating authority from its absolute baronic rule at home. Registry work should also expand preliminary settlements without importing claims from legacy source material.
 
-Gods are treated as:
+## Related Records
 
-- Investors
-    
-- Witnesses
-    
-- Contractual entities
-    
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/index|Settlements of Vinyot]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/04. Trade & Travel Across Aerathon|Trade & Travel Across Aerathon]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
 
-Commonly revered figures include **Abadar**, **Waukeen**, and **Mask**, though devotion rarely outweighs profit.
-
-Temples double as banks. Prayer is often indistinguishable from negotiation.
-
----
-
-## IX. Delving & Risk Culture
-
-Vinyot treats delving as **speculation**.
-
-- Registered delves function as investment ventures
-    
-- Private delves skirt legality
-    
-- Relic auctions are cultural events
-    
-
-Failure is tolerated—provided the paperwork is sound.
-
----
-
-## X. Relations with Other Regions
-
-|Region|Relationship|Summary|
-|---|---|---|
-|**Allemance**|Symbiotic|Food, labor, moral tension|
-|**Arneria**|Strategic|Faith-for-coin exchange|
-|**Oria**|Competitive|Industry & tariffs|
-|**Al’Ar**|Cultural|Performance & maritime trade|
-|**MDO**|Embedded|Oversight, not control|
-
-The Ministry monitors Vinyot closely—not to restrain it, but to survive its ripple effects.
-
----
-
-## XI. National Character
-
-Vinyot does not promise safety.  
-It promises **opportunity**—and the bill afterward.
-
-It is a nation where everything has a price, including silence, loyalty, and hope. Those who thrive call it freedom. Those who fail call it theft.
-
-Both are correct.
-
-> _“The world runs on promises paid in gold.”_
+> [!note] Public Registry Notice
+> Regional contract standards do not guarantee local access, fair bargaining power, or rescue. Confirm the governing authority and liability terms for each destination.
 
 ---
 
 ━━━━━━━━━━ ⭕ ⦿ ⭕ ━━━━━━━━━━
 
-> **Filed & Authenticated**  
-> **Ministry of Delving Operations — The Living Atlas**  
-> **Verification Seal:** **Director Halin Drauve**  
-> _— Capital verified as Dole. Vinyot classified as a Prime Economic Power. Contract law supremacy affirmed. Non-League interference constitutes **Class-I Economic Destabilization**._
+**Filed & Authenticated**<br>
+**Ministry of Delving Operations — Living Atlas Division**<br>
+**Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
+**Research Status:** _Current Reference_<br>
+**Access Designation:** _Public_<br>
+**Revision State:** _Revised to the Seventh Editorial Standard_<br>
+**Primary Compiler:** **Director Halin Drauve**<br>
+**Date of Original Filing:** **8th Cycle, 3168 A.D.**
+
+— This overview supersedes summaries that treat Vinyot as uniformly corporate or Dole as the direct government of every League settlement.
+
+**MDO ARCHIVE · RECORD SEALED**
