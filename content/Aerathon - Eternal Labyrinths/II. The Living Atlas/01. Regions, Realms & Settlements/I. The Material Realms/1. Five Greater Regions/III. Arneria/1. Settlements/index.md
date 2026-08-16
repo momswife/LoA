@@ -1,5 +1,5 @@
 ---
-title: Arneria Settlements
+title: Settlements
 quartz-properties: false
 recordType: Settlement Index
 status: Active Index

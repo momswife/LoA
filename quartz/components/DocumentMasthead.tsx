@@ -24,6 +24,7 @@ type MastheadFrontmatter = Record<string, unknown> & {
   tags?: unknown
   facts?: unknown
   keyFacts?: unknown
+  showMastheadRecord?: boolean
 }
 
 const ContentMetadata = ContentMeta({
@@ -103,6 +104,7 @@ export default (() => {
     )
 
     const facts = normalizeFacts(frontmatter.facts ?? frontmatter.keyFacts)
+    const showMastheadRecord = frontmatter.showMastheadRecord !== false
     const classification = textValue(frontmatter.classification)
     const revision = textValue(frontmatter.revision)
     if (classification && !facts.some((fact) => fact.label.toLowerCase() === "classification")) {
@@ -134,7 +136,7 @@ export default (() => {
         <h1 class="article-title">{title}</h1>
         {summary && !isOverview && <p class="document-masthead__summary">{summary}</p>}
         <ContentMetadata {...props} />
-        {facts.length > 0 && (
+        {showMastheadRecord && facts.length > 0 && (
           <section class="document-masthead__record" aria-labelledby="masthead-record-title">
             <h2 id="masthead-record-title">Record details</h2>
             <dl class="document-masthead__facts">

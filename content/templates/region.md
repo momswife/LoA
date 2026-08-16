@@ -9,6 +9,7 @@ recordType: Regional Overview
 status: Draft
 classification:
 revision:
+showMastheadRecord: false
 facts:
   Realm:
   Regional Form:
@@ -49,6 +50,8 @@ Explain what the region is, why it matters, and the most important misunderstand
 | Government                  |                |
 | Major internal divisions    |                |
 | Settlement register         |                |
+| Geography register          |                |
+| Life and identity register  |                |
 | Current political analysis  |                |
 
 > [!note] Scope of this overview
@@ -101,6 +104,8 @@ State active changes, public advisories, unresolved tensions, outdated surveys, 
 ## Related Records
 
 - [Regional settlement index]
+- [Regional geography index]
+- [Regional life, customs, and identity index]
 - [Regional political dossier]
 - [Relevant subregions and mapped-feature register]
 - [Relevant culture, faith, economy, and historical records]

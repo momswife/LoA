@@ -47,6 +47,22 @@ inference, rumor, and restricted campaign knowledge distinct.
 - Assign filing order intentionally: chronology for eras, operational sequence for procedures,
   capitals before other settlements, and a declared alphabetical or classificatory order for
   registries. Do not renumber or redesign a major branch casually.
+- Within each Greater Region, use `1. Settlements` for civic records, `2. Geography & Landmarks`
+  for authenticated regional features, and `3. Life, Customs & Identity` for practices and identities
+  shaped by place. Keep the folder-note titles concise; the parent region already supplies the
+  geographic context in the explorer.
+- Maintained subregions mirror that compact sequence beneath a numbered subregion folder: `∅ Name`
+  first, then `1. Settlements`, `2. Geography & Landmarks`, and `3. Life, Customs & Identity`.
+  Subregional overviews should be shorter than Greater Region overviews. A sparse section uses a
+  meaningful `index.md` to state the authenticated record and its open questions; never invent entries
+  or leave an empty folder merely to complete the pattern.
+- Use a regional-life shelf for localized customs, belonging, household life, language, food, dress,
+  etiquette, and public memory. Keep lineage traits and traditions with their peoples, formal doctrine
+  under Religion & Worship, government under Governments & Geopolitics, and historical reconstruction
+  in Annals & Antiquities.
+- Keep features with uncertain, cross-regional, or disputed placement beneath the central Mapped
+  Features & Landmarks registry. When a feature gains an authenticated regional home, move its
+  canonical record to that region and retain a central type-index link rather than duplicating it.
 - `Overview.md`, `index.md`, and `∅` overview pages have distinct established navigation roles. Preserve
   existing uses. A new folder landing page should normally be `index.md`; a named conceptual overview
   may use the established `∅ Name.md` pattern where its sibling category already does so.
@@ -112,6 +128,7 @@ recordType: Record Type
 status: Status
 classification: Classification
 revision: Revision
+showMastheadRecord: false
 facts: {}
 related: []
 quartz-properties: false
@@ -127,6 +144,8 @@ draft: false
 - `breadcrumbTitle`: use only when a shorter breadcrumb materially improves navigation.
 - `recordType`, `status`, `classification`, `revision`, `facts`, and `related`: use for structured formal
   records and navigation pages when values are supported.
+- `showMastheadRecord: false`: retain structured frontmatter without rendering its compact record card
+  when the page already has a richer authored filing header beginning with `Filed Division`.
 - `quartz-properties: false`: retain on navigation pages that intentionally hide the property panel.
 - `draft: true`: required for incomplete authored pages that should not publish.
 
@@ -152,6 +171,8 @@ or preserved from the source.
 
 - Use Obsidian wikilinks for important internal relationships: `[[Canonical Page]]` or
   `[[Canonical Page|natural text]]`.
+- Inside a Markdown table, escape the alias separator so it is not mistaken for a column boundary:
+  `[[Canonical Page\|natural text]]`.
 - Qualify the path when duplicate filenames make the target ambiguous. Link the first meaningful mention
   rather than every repetition.
 - Use `![[asset-name.png]]` for local image embeds and preserve custom blocks such as `aerathon-map`.

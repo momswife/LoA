@@ -11,6 +11,7 @@ recordType: Regional Overview
 status: Current Reference
 classification: Public
 revision: Seventh Editorial Standard
+showMastheadRecord: false
 facts:
   Realm: Material Aerathon
   Regional Form: Merit-Driven House Confederation
@@ -45,8 +46,10 @@ Oria has no permanent capital. Matters involving several Houses are carried to t
 | Coordinating center | None; the Housemeet convenes when required |
 | Government | Autonomous House polities with conditional civic stewardship |
 | Major internal divisions | House territories, northern coasts, mountain corridors, and threshold zones |
-| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/index|Settlements of Oria]] |
-| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria|Regional Politics of Oria]] |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/index\|Settlements of Oria]] |
+| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/2. Geography & Landmarks/index\|Geography & Landmarks of Oria]] |
+| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/3. Life, Customs & Identity/index\|Life, Customs & Identity of Oria]] |
+| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria\|Regional Politics of Oria]] |
 
 > [!note] Reading Oria correctly
 > A House, its Seat, and its steward family are three connected but distinct things. Treating all three as one clan obscures how Oric authority is granted, tested, and removed.
@@ -61,7 +64,7 @@ Some Oric districts are classified as **threshold zones**, where deep constructi
 
 ## III. Subregions, Routes & Named Features
 
-The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/03. Houses of Oria|Houses of Oria]] form the region's primary political geography. Roads, tunnels, sea lanes, lifts, and winter tracks connect them, but no route network is administered from a single center.
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/03. Houses of Oria/∅ Houses of Oria|Houses of Oria]] form the region's primary political geography. Roads, tunnels, sea lanes, lifts, and winter tracks connect them, but no route network is administered from a single center.
 
 - **Mountain corridors** link lodge-cities, mines, passes, and sheltered valleys.
 - **Northern sea lanes** connect Severport and other coastal communities when ice and weather permit.
@@ -76,13 +79,13 @@ Seven lodge-cities are maintained as named House Seats in the government registe
 
 | House Seat | Steward family | Local stewardship office |
 | --- | --- | --- |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/02. Edelstann|Edelstann]] | Vanlig | High Lodge-Bearer |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/04. Frostguarde City|Frostguarde]] | Stonewarden (last verified) | Warden-Regent (current office unauthenticated) |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/06. Heltenlave|Heltenlave]] | Skjoldhrafn | Lodge-Bearer |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/08. Jegervalt|Jegervalt]] | Roetvald | High Gatewarden |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/09. Podgorod|Podgorod]] | Bronzemolev | Prime Mechanarch |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/10. Priozhevsky|Priozhevsky]] | Medvednaya | High Curator |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/11. Severport|Severport]] | Severinhald | High Admiral-Batko |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/02. Edelstann\|Edelstann]] | Vanlig | High Lodge-Bearer |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/04. Frostguarde City\|Frostguarde]] | Stonewarden (last verified) | Warden-Regent (current office unauthenticated) |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/06. Heltenlave\|Heltenlave]] | Skjoldhrafn | Lodge-Bearer |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/08. Jegervalt\|Jegervalt]] | Roetvald | High Gatewarden |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/09. Podgorod\|Podgorod]] | Bronzemolev | Prime Mechanarch |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/10. Priozhevsky\|Priozhevsky]] | Medvednaya | High Curator |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/11. Severport\|Severport]] | Severinhald | High Admiral-Batko |
 
 Doloretsk, Fallensky's Rest, Gonlev, Isfisk, Tulivuori, and Zaros are also canonical Oric settlements. Not every town is a House Seat, and not every important regional function is performed from one.
 
@@ -161,9 +164,11 @@ Current registry priorities are to distinguish House territory from settlement g
 ## Related Records
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/index|Settlements of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/2. Geography & Landmarks/index|Geography & Landmarks of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/3. Life, Customs & Identity/index|Life, Customs & Identity of Oria]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria|Regional Politics of Oria]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/III. Sub-Regional Governments & Politics/04. Sub-Regional Politics of the Houses of Oria|Sub-Regional Politics of the Houses of Oria]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/03. Houses of Oria|Houses of Oria]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/03. Houses of Oria/∅ Houses of Oria|Houses of Oria]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
 
 > [!note] Public Registry Notice

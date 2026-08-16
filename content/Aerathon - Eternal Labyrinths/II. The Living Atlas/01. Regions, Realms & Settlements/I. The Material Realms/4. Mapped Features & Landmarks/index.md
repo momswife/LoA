@@ -1,6 +1,6 @@
 ---
 title: Mapped Features & Landmarks
-description: A type-based registry for named material locations that are not maintained as settlement or Greater Region records.
+description: A type-based register and cross-index for named material locations recorded on the reference map.
 quartz-properties: false
 recordType: Section Index
 status: Active Index
@@ -12,12 +12,12 @@ tags:
 
 # Mapped Features & Landmarks
 
-This registry gives mapped islands, waters, wildlands, structures, and exceptional sites a stable home without forcing an unverified political affiliation. A feature may later move beneath a Greater Region when Aerathon-specific evidence establishes that filing more precisely.
+This registry gives mapped islands, waters, wildlands, structures, and exceptional sites a stable home without forcing an unverified political affiliation. When Aerathon-specific evidence establishes a regional placement, the canonical record moves to that Greater Region's Geography & Landmarks shelf while remaining cross-indexed here by feature class.
 
 ## Browse
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/∅ Mapped Feature Register|Mapped Feature Register]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/1. Forests, Wetlands & Wilds/index|Forests, Wetlands & Wilds]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/1. Landforms & Wildlands/index|Landforms & Wildlands]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/2. Islands & Coasts/index|Islands & Coasts]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/3. Waters & Waterways/index|Waters & Waterways]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/4. Structures & Sites/index|Structures & Sites]]

@@ -1,5 +1,5 @@
 ---
-title: Oria Settlements
+title: Settlements
 quartz-properties: false
 recordType: Settlement Index
 status: Active Index
@@ -23,4 +23,3 @@ tags:
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/11. Severport|Severport]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/12. Tulivuori|Tulivuori]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/1. Settlements/13. Zaros|Zaros]]
-

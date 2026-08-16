@@ -1,18 +1,19 @@
 ---
 title: Distinct Features
-description: Named material features whose map class does not yet support a narrower filing.
+description: A cross-index of mapped features whose form is anomalous, unresolved, or not represented by another register.
 quartz-properties: false
-recordType: Feature Index
+recordType: Feature Cross-Index
 status: Active Index
-tags: [atlas, geography]
+tags: [atlas, geography, mapped-location]
 ---
 
 # Distinct Features
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/5. Distinct Features/01. The Astral Shadows|The Astral Shadows]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/5. Distinct Features/02. Crystal Plinth|Crystal Plinth]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/5. Distinct Features/03. Million Souls Overlook|Million Souls Overlook]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/5. Distinct Features/04. The Foxmeet|The Foxmeet]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/5. Distinct Features/05. Sekiz Cliffs|Sekiz Cliffs]]
+A cross-index of mapped features whose form is anomalous, unresolved, or not represented by another register. Canonical records with authenticated placement are filed beneath their Greater Region; shared or unresolved placements remain in this registry.
 
-Mapped regions with a settled archive classification remain in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/index|Sub-Regions]] or [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/3. Notable Distinct Regions/index|Notable Distinct Regions]].
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/4. Mapped Features & Landmarks/5. Distinct Features/01. The Astral Shadows|The Astral Shadows]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Geography & Landmarks/21. Crystal Plinth|Crystal Plinth]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/II. Allemance/2. Geography & Landmarks/26. Vista of the First|Vista of the First]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/IV. Oria/2. Geography & Landmarks/08. The Oenin|The Oenin]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/2. Geography & Landmarks/21. The Foxmeet|The Foxmeet]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/2. Geography & Landmarks/22. Million Souls Overlook|Million Souls Overlook]]

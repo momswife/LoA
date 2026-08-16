@@ -11,6 +11,7 @@ recordType: Regional Overview
 status: Current Reference
 classification: Public
 revision: Seventh Editorial Standard
+showMastheadRecord: false
 facts:
   Realm: Material Aerathon
   Regional Form: Mercantile League
@@ -45,8 +46,10 @@ Vinyot is Aerathon's warm southern mercantile league, built around coasts, estua
 | Coordinating center | **Dole** |
 | Government | Corporate boards, civic concerns, baronies, and local authorities joined by League contracts |
 | Major internal divisions | Golden Delta, southern coast, inland waterways, agricultural districts, and pilgrimage corridors |
-| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/index|Settlements of Vinyot]] |
-| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]] |
+| Settlement register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/index\|Settlements of Vinyot]] |
+| Geography register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/2. Geography & Landmarks/index\|Geography & Landmarks of Vinyot]] |
+| Life register | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/3. Life, Customs & Identity/index\|Life, Customs & Identity of Vinyot]] |
+| Political analysis | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot\|Regional Politics of Vinyot]] |
 
 > [!note] Reading Vinyot correctly
 > Contract is the League's common political language, not proof that every Vinyoti settlement is a corporation. Always distinguish regional coordination from the authority that governs a particular city.
@@ -61,6 +64,7 @@ Coastal boundaries are commercial as often as political. A harbor's effective re
 
 ## III. Subregions, Routes & Named Features
 
+- The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/04. The Fortunata Hills/∅ The Fortunata Hills|Fortunata Hills]] form a mineral-rich highland buffer around Malarthain and the Betemere approaches.
 - **The Golden Delta** is the league's agricultural and river-trade heartland.
 - **The southern coast** links fishing communities, pearl farms, trade ports, pilgrimage cities, and white-sand diplomatic harbors.
 - The **Cristalmonte** and **Ficklefox** rivers meet critical elevation works at Landbridge before continuing toward the **Long Sea**.
@@ -76,12 +80,12 @@ Vinyot's settlement system is deliberately varied. Some cities control infrastru
 
 | Settlement | Regional role |
 | --- | --- |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/01. Dole (Capital)|Dole]] | League capital and tightly governed baronic hill-city |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/06. Landbridge|Landbridge]] | Inland port whose locks control major freshwater trade |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/09. Porta Ventura|Porta Ventura]] | Maritime gateway to Arneria and center of trade arbitration |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/12. Springbok's Flight|Springbok's Flight]] | Pilgrimage city organized around the Twin Ascent |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/04. Dungeon Town|Dungeon Town]] | Semi-permanent expedition market above a persistent Labyrinth |
-| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/02. Arloris|Arloris]] | Fishing and pearl-farming communities around Amicia Bay |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/01. Dole (Capital)\|Dole]] | League capital and tightly governed baronic hill-city |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/06. Landbridge\|Landbridge]] | Inland port whose locks control major freshwater trade |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/09. Porta Ventura\|Porta Ventura]] | Maritime gateway to Arneria and center of trade arbitration |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/12. Springbok's Flight\|Springbok's Flight]] | Pilgrimage city organized around the Twin Ascent |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/04. Dungeon Town\|Dungeon Town]] | Semi-permanent expedition market above a persistent Labyrinth |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/02. Arloris\|Arloris]] | Fishing and pearl-farming communities around Amicia Bay |
 
 Bella Madre, Gonlaro, Malarthain Stronghold, Porta Strega, Ruby Bay, Southwinds, Verglass, and Wingsmeet complete the current fourteen-settlement register.
 
@@ -151,7 +155,10 @@ Current localized concerns include unexplained activity beneath **Amicia Bay**, 
 
 ## Related Records
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/2. Sub-Regions/04. The Fortunata Hills/∅ The Fortunata Hills|The Fortunata Hills]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/1. Settlements/index|Settlements of Vinyot]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/2. Geography & Landmarks/index|Geography & Landmarks of Vinyot]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. The Material Realms/1. Five Greater Regions/V. Vinyot/3. Life, Customs & Identity/index|Life, Customs & Identity of Vinyot]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/04. Trade & Travel Across Aerathon|Trade & Travel Across Aerathon]]
