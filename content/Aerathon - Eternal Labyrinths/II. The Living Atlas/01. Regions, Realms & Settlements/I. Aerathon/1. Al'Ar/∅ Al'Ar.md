@@ -68,7 +68,7 @@ Fresh water, arable ground, and protected anchorage are unevenly distributed. Th
 
 Al'Ari geography is commonly understood through sailing corridors rather than surveyed land borders.
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/∅ Greater Al'Ar|Greater Al'Ar]] is the filing territory for Thalassar and any future Al'Ari settlements not yet assigned to one of the five major islands.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/∅ Greater Al'Ar|Greater Al'Ar]] holds Al'Ari settlements in shared waters not assigned to one major island. It includes Neraval beneath the Kandela–Aurica passage and Vitrassa on the Dakshin–Jarik volcanic shelf, while retaining Thalassar provisionally until that city's Al'Ar–Vinyot placement is resolved.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/2. Aurica/∅ Aurica|Aurica]] contains Mjinbou on its northern shore.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/3. Dakshin/∅ Dakshin|Dakshin]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/4. Kandela/∅ Kandela|Kandela]] are confirmed major islands whose internal records remain preliminary.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/5. Jarik/∅ Jarik|Jarik]] contains the Kasho'ta Caves in its northeastern cliffs.
@@ -89,12 +89,17 @@ Al'Ar's cities are ports first and territorial administrations second. Their rea
 | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/2. Aurica/1. Settlements/01. Mjinbou\|Mjinbou]] | Major dock-state within the core maritime network |
 | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/6. Sampura/1. Settlements/01. Muraya\|Muraya]] | Independent port whose agreements help sustain regional exchange |
 | [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/6. Sampura/1. Settlements/02. Trebes\|Trebes]] | Influential harbor within Al'Ar's seasonal political circuit |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/01. Thalassar\|Thalassar]] | Pelagic trade and cultural capital filed provisionally while its regional status remains disputed |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/02. Neraval\|Neraval]] | Submerged refuge city maintaining rescue corridors, deep beacons, and emergency capacity for the inner passage |
+| [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/03. Vitrassa\|Vitrassa]] | Living foundry city supplying pressure craft, marine materials, and reef restoration throughout Al'Ar |
 
-Thalassar and Kyry complete the currently maintained civic register. The full six-settlement index is canonical; this table is only an orientation aid.
+Kyry completes the currently maintained civic register. The full eight-settlement index is canonical; this table is only an orientation aid, and Thalassar's inclusion records its current filing rather than settled Al'Ari sovereignty.
 
 ## V. Government, Law & Authority
 
 Each major settlement governs its own harbor law, tariffs, civic codes, religious observances, and terms of entry. Councils cooperate when storms, trade, rescue, or delver movement crosses their jurisdictions, but such cooperation does not create a permanent national government.
+
+Neraval's Refuge Compact is the strongest standing exception to ordinary local discretion: participating harbors recognize emergency shelter as a shared obligation even when their laws or political relationships otherwise conflict. Vitrassa's Balance Charter is narrower, coordinating industrial and ecological obligations across a shelf that neither Dakshin nor Jarik controls alone.
 
 Authority expands and contracts with the sailing year. Fleets disperse during favorable travel seasons, and decision-making follows them. During dangerous passages or major Storm Voyages, captains and councils temporarily consolidate responsibility so that routes, rescues, and supplies can be coordinated.
 
@@ -118,6 +123,8 @@ Al'Ar exports windcraft, performance traditions, volcanic glass, rare reagents, 
 
 Docks, cisterns, signal stations, breakwaters, ropeways, and repair yards are essential public infrastructure. Their ownership varies by city, but their maintenance commonly involves overlapping civic, guild, fleet, and household obligations.
 
+The submerged cities extend that infrastructure below the surface. Neraval maintains deep beacons, rescue corridors, pressure-safe refuge, and emergency stores. Vitrassa supplies pressure-worked fittings, volcanic materials, structural coral, marine medicines, and reef-restoration crews. Thalassar connects pelagic production to distant surface markets, though its regional status remains disputed.
+
 Economic interruption is usually caused by weather or loss of passage rather than shortage of demand. A closed channel can isolate a productive island more completely than any tariff. Coin circulates alongside reputation and **Witness Marks**, which can attest that a person arrived, performed, served, or kept a promise; their wider context is recorded in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/01. Currency, Credit, & Exchange|Currency, Credit, & Exchange]].
 
 ## VIII. Faith, Magic & Delving
@@ -135,6 +142,8 @@ Delving is unusually public in some ports. Expeditions can become civic spectacl
 Most travelers enter Al'Ar by sea through a recognized port. There is no region-wide entry permit: harbor access, docking fees, cargo inspection, delver licensing, and religious restrictions are determined locally.
 
 Primary hazards include sudden storms, volcanic activity, dangerous channels, unreliable open-water landmarks, and arcane weather. Travelers should also treat social exclusion as a practical danger. Losing a pilot's trust or a dock's protection can leave a crew without water, repairs, or safe anchorage.
+
+When the Kandela–Aurica passage closes, Neraval's deep guide system and declared refuge stations may remain accessible after surface docks become unsafe. Access is controlled by rescue crews, and emergency shelter should not be mistaken for unrestricted entry into the residential city.
 
 Route reports age quickly. Current harbor notices and local pilot judgment take precedence over general regional descriptions.
 
@@ -154,7 +163,7 @@ The region's traditions of storm voyage, renewal, and negotiated obligation pres
 
 ## XII. Current Conditions
 
-The region's persistent public questions are coordination and access. Dock-states continue to negotiate common rescue practices, trade passage, and the movement of delvers without accepting permanent central rule.
+The region's persistent public questions are coordination and access. Dock-states continue to negotiate trade passage and the movement of delvers without accepting permanent central rule. Neraval has formalized rescue obligations along the inner passage, while Vitrassa's competing production and restoration demands test whether shared infrastructure can remain independent of the islands that finance it.
 
 MDO revision priorities are to keep storm-route notices separate from enduring geography, document local access rules without presenting them as region-wide law, and expand articles for mapped islands and channels that currently exist only in the feature register.
 

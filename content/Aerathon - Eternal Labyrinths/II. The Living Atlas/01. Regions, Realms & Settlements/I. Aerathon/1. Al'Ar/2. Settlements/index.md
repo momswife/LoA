@@ -1,6 +1,6 @@
 ---
 title: Settlements
-description: The complete Al'Ari civic register, organized by subregion.
+description: The maintained Al'Ari civic register, organized by subregion and including clearly marked provisional placements.
 quartz-properties: false
 recordType: Settlement Index
 status: Active Index
@@ -11,13 +11,18 @@ tags:
 
 # Settlements of Al'Ar
 
-This is the complete Al'Ari civic register. Every canonical settlement article is filed beneath its authenticated subregion; **Greater Al'Ar** holds records not assigned to a narrower named territory.
+This is the maintained Al'Ari civic register. Canonical settlement articles are filed beneath authenticated subregions wherever possible; **Greater Al'Ar** also holds records not assigned to a narrower named territory and clearly marked provisional placements.
 
 ## 1. Greater Al'Ar
 
-[[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/1. Settlements/index|Open the Greater Al'Ar settlement register.]]
+[[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/index|Open the Greater Al'Ar settlement register.]]
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/1. Settlements/01. Thalassar|Thalassar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/01. Thalassar|Thalassar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/02. Neraval|Neraval]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/1. Greater Al'Ar/Settlements/03. Vitrassa|Vitrassa]]
+
+> [!note] Disputed placement
+> Thalassar is culturally Al'Ari-linked but lies below the Tresoli Shelf beside Vinyot. Its Greater Al'Ar filing does not settle sovereignty or prevent a later move to the Vinyot register.
 
 ## 2. Aurica
 
