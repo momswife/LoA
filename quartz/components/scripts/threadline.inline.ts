@@ -7,18 +7,14 @@ import {
 } from "../data/threadlinePosts"
 import { selectThreadlinePost } from "../data/threadlineSelection"
 
-const minimumSwapDelay = 60_000
-const maximumSwapDelay = 3 * 60_000
+const minimumCardSwapDelay = 60_000
+const maximumCardSwapDelay = 3 * 60_000
 const minimumInitialAge = 20_000
 const maximumInitialAge = 28 * 60_000
 const accountCooldown = 35 * 60_000
 
 const recentlySeenHandles = new Map<string, number>()
 let availablePostIds = new Set(threadlinePosts.map((post) => post.id))
-
-function randomItem<T>(items: T[]): T | undefined {
-  return items[Math.floor(Math.random() * items.length)]
-}
 
 function setPostAge(card: HTMLElement, elapsedMilliseconds = 0) {
   card.dataset.threadlineAppearedAt = String(Date.now() - elapsedMilliseconds)
@@ -131,8 +127,14 @@ function refillPostBag(visibleIds: ReadonlySet<string>) {
   )
 }
 
-function nextPost(feed: HTMLElement): ThreadlinePost | undefined {
+function nextPost(
+  feed: HTMLElement,
+  reservedPostIds: ReadonlySet<string> = new Set(),
+  reservedHandles: ReadonlySet<string> = new Set(),
+): ThreadlinePost | undefined {
   const visible = visibleThreadlineState(feed)
+  for (const postId of reservedPostIds) visible.ids.add(postId)
+  for (const handle of reservedHandles) visible.handles.add(handle)
   const now = Date.now()
   const selectionState = () => ({
     visibleIds: visible.ids,
@@ -168,9 +170,11 @@ function setupThreadline() {
 
     let stopped = false
     let paused = false
-    let swapTimer: number | undefined
-    let transitionTimer: number | undefined
-    let entryTimer: number | undefined
+    const swapTimers = new Map<HTMLElement, number>()
+    const transitionTimers = new Map<HTMLElement, number>()
+    const entryTimers = new Map<HTMLElement, number>()
+    const reservedPostIds = new Set<string>()
+    const reservedHandles = new Set<string>()
     let ageTimer: number | undefined
 
     const initialPosts = cards.flatMap((card) => {
@@ -193,50 +197,73 @@ function setupThreadline() {
     for (const card of cards) setPostAge(card, randomInitialAge())
     ageTimer = window.setInterval(() => updatePostAges(feed), 1000)
 
-    const scheduleSwap = () => {
-      if (stopped || paused || reducedMotion) return
-      const delay =
-        minimumSwapDelay + Math.floor(Math.random() * (maximumSwapDelay - minimumSwapDelay))
-      swapTimer = window.setTimeout(swapOne, delay)
+    const clearTimers = (timers: Map<HTMLElement, number>) => {
+      for (const timer of timers.values()) window.clearTimeout(timer)
+      timers.clear()
     }
 
-    const swapOne = () => {
+    const scheduleSwap = (card: HTMLElement) => {
+      if (stopped || paused || reducedMotion) return
+      const delay =
+        minimumCardSwapDelay +
+        Math.floor(Math.random() * (maximumCardSwapDelay - minimumCardSwapDelay))
+      const existingTimer = swapTimers.get(card)
+      if (existingTimer !== undefined) window.clearTimeout(existingTimer)
+      swapTimers.set(
+        card,
+        window.setTimeout(() => {
+          swapTimers.delete(card)
+          swapOne(card)
+        }, delay),
+      )
+    }
+
+    const swapOne = (card: HTMLElement) => {
       if (stopped || paused) return
-      if (document.hidden) {
-        scheduleSwap()
+      if (document.hidden || card.matches(":hover") || card.contains(document.activeElement)) {
+        scheduleSwap(card)
         return
       }
 
-      const readableCards = cards.filter(
-        (card) => !card.matches(":hover") && !card.contains(document.activeElement),
-      )
-      const card = randomItem(readableCards)
-      const post = nextPost(feed)
-      if (!card || !post) {
-        scheduleSwap()
+      const post = nextPost(feed, reservedPostIds, reservedHandles)
+      if (!post) {
+        scheduleSwap(card)
         return
       }
 
       const outgoingHandle = card.dataset.threadlineHandleValue
       if (outgoingHandle) recentlySeenHandles.set(outgoingHandle, Date.now())
+      reservedPostIds.add(post.id)
+      reservedHandles.add(post.handle)
 
       card.classList.add("is-swapping-out")
-      transitionTimer = window.setTimeout(() => {
-        renderPost(card, post)
-        rememberPost(post)
-        card.classList.remove("is-swapping-out")
-        card.classList.add("is-swapping-in")
-        if (announcer) announcer.textContent = `New Threadline post from ${post.source}.`
-        entryTimer = window.setTimeout(() => card.classList.remove("is-swapping-in"), 480)
-        scheduleSwap()
-      }, 260)
+      transitionTimers.set(
+        card,
+        window.setTimeout(() => {
+          transitionTimers.delete(card)
+          reservedPostIds.delete(post.id)
+          reservedHandles.delete(post.handle)
+          renderPost(card, post)
+          rememberPost(post)
+          card.classList.remove("is-swapping-out")
+          card.classList.add("is-swapping-in")
+          if (announcer) announcer.textContent = `New Threadline post from ${post.source}.`
+          entryTimers.set(
+            card,
+            window.setTimeout(() => {
+              entryTimers.delete(card)
+              card.classList.remove("is-swapping-in")
+            }, 480),
+          )
+          scheduleSwap(card)
+        }, 260),
+      )
     }
 
     const setPaused = (nextPaused: boolean) => {
       paused = nextPaused
       feed.dataset.threadlinePaused = String(paused)
-      if (swapTimer !== undefined) window.clearTimeout(swapTimer)
-      swapTimer = undefined
+      clearTimers(swapTimers)
 
       if (toggle) {
         toggle.setAttribute("aria-pressed", String(paused))
@@ -247,7 +274,7 @@ function setupThreadline() {
       }
       if (toggleIcon) toggleIcon.textContent = paused ? "▶" : "Ⅱ"
       if (toggleLabel) toggleLabel.textContent = paused ? "Resume" : "Pause"
-      if (!paused) scheduleSwap()
+      if (!paused) cards.forEach(scheduleSwap)
     }
 
     const toggleUpdates = () => setPaused(!paused)
@@ -256,13 +283,15 @@ function setupThreadline() {
       toggle.addEventListener("click", toggleUpdates)
     }
 
-    scheduleSwap()
+    cards.forEach(scheduleSwap)
 
     window.addCleanup(() => {
       stopped = true
-      if (swapTimer !== undefined) window.clearTimeout(swapTimer)
-      if (transitionTimer !== undefined) window.clearTimeout(transitionTimer)
-      if (entryTimer !== undefined) window.clearTimeout(entryTimer)
+      clearTimers(swapTimers)
+      clearTimers(transitionTimers)
+      clearTimers(entryTimers)
+      reservedPostIds.clear()
+      reservedHandles.clear()
       if (ageTimer !== undefined) window.clearInterval(ageTimer)
       toggle?.removeEventListener("click", toggleUpdates)
     })

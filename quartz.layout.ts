@@ -3,6 +3,9 @@ import * as Component from "./quartz/components"
 import { FullSlug } from "./quartz/util/path"
 import type { ExplorerOptions } from "./.quartz/plugins/explorer/dist/index.js"
 
+// @ts-ignore - Imported as source text by the Quartz inline-script loader.
+import explorerAutoCollapseScript from "./quartz/components/scripts/explorer-auto-collapse.inline"
+
 const siteExplorerOptions = {
   folderClickBehavior: "collapse",
   order: ["filter", "map", "sort"],
@@ -95,6 +98,9 @@ const siteExplorerOptions = {
 // Reuse one Explorer instance across content and list layouts so its lifecycle
 // script is registered only once.
 const siteExplorer = Component.Explorer(siteExplorerOptions)
+siteExplorer.afterDOMLoaded = [siteExplorer.afterDOMLoaded, explorerAutoCollapseScript].flatMap(
+  (resource) => resource ?? [],
+)
 
 const siteBreadcrumbOptions = {
   hideTopLevelFolder: false,

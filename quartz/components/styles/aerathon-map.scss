@@ -936,6 +936,31 @@
   grid-column: 1;
 }
 
+.aerathon-map.is-fullscreen .aerathon-map__pin {
+  width: clamp(1.75rem, 2.2vw, 2.15rem);
+  height: clamp(1.75rem, 2.2vw, 2.15rem);
+  border-width: 3px;
+  font-size: clamp(0.68rem, 0.75vw, 0.82rem);
+}
+
+.aerathon-map.is-fullscreen .aerathon-map__pin:empty {
+  width: clamp(0.8rem, 1vw, 1rem);
+  height: clamp(0.8rem, 1vw, 1rem);
+  border-width: 2px;
+}
+
+.aerathon-map.is-fullscreen .aerathon-map__pin--quest::before {
+  top: -0.55rem;
+  right: -0.55rem;
+  width: 0.9rem;
+  height: 0.9rem;
+  font-size: 0.64rem;
+}
+
+.aerathon-map.is-fullscreen .aerathon-map__pin::after {
+  inset: -0.75rem;
+}
+
 .aerathon-map.is-fullscreen > .aerathon-map__locations-panel--fullscreen {
   position: static;
   z-index: 1;
