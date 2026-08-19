@@ -47,8 +47,8 @@ locations:
     summary: "Malarthain’s largest protected reserve of imported grain and emergency food."
     description: "The Great Granary stands near Hearthring’s busiest supply roads, surrounded by grain offices, guarded storehouses, and the constant rumble of delivery carts. During lean seasons, the district becomes one of the most closely watched parts of the city."
     position:
-      x: 59.82
-      y: 44.76
+      x: 59.84
+      y: 44.56
 
   - id: "malarthain-004"
     number: 4
@@ -58,8 +58,8 @@ locations:
     description: "Maw Fountain sits in a broad public square near the foot of the High Hunt. Locals gather here to trade news, leave small offerings, wash dust from their hands, and meet before climbing toward the city’s sacred places."
     quest: true
     position:
-      x: 40.97
-      y: 43.82
+      x: 40.78
+      y: 43.41
 
   - id: "malarthain-005"
     number: 5
@@ -101,8 +101,8 @@ locations:
     description: "Stonebreath Infirmary stands between Cinderward and the quieter paths of the Green Run. Its open courtyards and broad intake doors are designed for injured work crews, while nearby streets remain busy with healers, relatives, and supply runners."
     quest: true
     position:
-      x: 61.33
-      y: 25.28
+      x: 61.12
+      y: 25.18
 
   - id: "malarthain-009"
     number: 9
@@ -111,8 +111,8 @@ locations:
     summary: "Malarthain’s permanent MDO liaison office and administrative foothold."
     description: "Ministry House occupies a fortified administrative building in Redwatch. The surrounding block is orderly, well lit, and heavily documented, with visiting officials, licensed couriers, and MDO personnel moving through at nearly every hour."
     position:
-      x: 65.93
-      y: 65.59
+      x: 65.66
+      y: 66.10
 
   - id: "malarthain-010"
     number: 10
@@ -121,8 +121,8 @@ locations:
     summary: "Major wagon, cargo, and caravan staging yard near the eastern approach."
     description: "Red Yard spreads across a wide paved enclosure inside the eastern approach. Caravans assemble here beneath painted route boards while handlers, inspectors, guards, and freight crews sort cargo before it enters the city proper."
     position:
-      x: 81.43
-      y: 36.14
+      x: 81.50
+      y: 35.53
 
   - id: "malarthain-011"
     number: 11
@@ -131,8 +131,8 @@ locations:
     summary: "Official weighing station for ore, metalwork, and freight leaving Malarthain."
     description: "The East Weighhouse stands beside the main freight roads of Redwatch. Its raised scales, tally windows, and covered inspection bays make the surrounding area one of the loudest and most congested parts of the eastern district."
     position:
-      x: 74.37
-      y: 38.25
+      x: 74.34
+      y: 37.88
 
   - id: "malarthain-012"
     number: 12
@@ -214,8 +214,8 @@ locations:
     description: "The Bread Exchange dominates a covered square in Hearthring where bakers, grain merchants, caravan factors, and public buyers negotiate daily prices. The surrounding lanes smell of flour, yeast, hot crust, and wagon dust."
     quest: true
     position:
-      x: 70.43
-      y: 43.71
+      x: 70.44
+      y: 43.38
 
   - id: "malarthain-020"
     number: 20
@@ -235,8 +235,8 @@ locations:
     description: "Brass Scales faces a busy commercial square in Hearthring. Merchants bring disputed goods beneath its awnings while clerks, appraisers, and curious onlookers gather around the great public balances."
     quest: true
     position:
-      x: 50.98
-      y: 45.92
+      x: 51.09
+      y: 45.55
 
   - id: "malarthain-022"
     number: 22
@@ -265,8 +265,8 @@ locations:
     summary: "Northwestern ceremonial and military entrance leading toward the Oathwalk."
     description: "Oath Gate rises along the northwestern wall where the Oathwalk reaches the city’s defenses. The surrounding approach is formal and martial, lined with old honors, guard posts, and stone markers commemorating past campaigns."
     position:
-      x: 21.48
-      y: 38.61
+      x: 21.66
+      y: 37.88
 
   - id: "malarthain-025"
     number: 25
@@ -275,8 +275,8 @@ locations:
     summary: "Northern entrance used primarily by miners, coal wagons, and industrial traffic."
     description: "Cinder Gate opens directly into the labor roads of northern Malarthain. Coal wagons, mine crews, equipment carts, and shift traffic keep the area dark with dust and busy long before sunrise."
     position:
-      x: 53.40
-      y: 29.68
+      x: 53.48
+      y: 29.16
 
   - id: "malarthain-026"
     number: 26
@@ -286,8 +286,8 @@ locations:
     description: "Ashroot Remedies operates from a narrow but crowded shop in Cinderward. The street outside is lined with workers seeking burn salves, breathing draughts, pain tonics, and practical cures that can be purchased without ceremony."
     quest: true
     position:
-      x: 52.37
-      y: 22.50
+      x: 52.26
+      y: 21.64
 
   - id: "malarthain-027"
     number: 27
@@ -306,8 +306,8 @@ locations:
     summary: "Eastern customs tower, watch station, signal post, and inspection center."
     description: "Red Tower overlooks the eastern gate roads from a high customs platform. Signals, inspection flags, and messenger traffic make the surrounding streets feel more regulated than the rest of Malarthain."
     position:
-      x: 62.91
-      y: 42.79
+      x: 62.95
+      y: 42.02
 
   - id: "malarthain-029"
     number: 29
@@ -316,8 +316,8 @@ locations:
     summary: "Offices for freight brokers, rail companies, and long-distance shipping agents."
     description: "Rail Factors’ Court is a dense cluster of offices, counting rooms, and courier stalls in Redwatch. Freight agents and shipping companies compete for contracts beneath hanging signs marked with distant cities and rail lines."
     position:
-      x: 69.02
-      y: 15.18
+      x: 69.26
+      y: 14.85
 
   - id: "malarthain-030"
     number: 30
@@ -337,8 +337,8 @@ locations:
     description: "The Quiet Runs wind through the wooded slopes of the Green Run. Low walls, memorial stones, shaded benches, and carefully tended paths keep the area hushed even when the rest of the city is crowded."
     quest: true
     position:
-      x: 62.63
-      y: 59.38
+      x: 62.78
+      y: 59.87
 
   - id: "malarthain-032"
     number: 32
@@ -358,8 +358,8 @@ locations:
     description: "Moss & Iron is tucked among garden walls and small workshops near the Green Run. Bundles of herbs hang beneath its awning beside hammered charms, protective nails, and simple warding pieces."
     quest: true
     position:
-      x: 34.45
-      y: 26.07
+      x: 34.37
+      y: 25.26
 
   - id: "malarthain-034"
     number: 34
@@ -388,8 +388,8 @@ locations:
     summary: "Historic command chamber preserving records and relics from Malarthain’s past conflicts."
     description: "Old War Hall occupies one of Blackcrest Keep’s oldest lower chambers. The passages around it are narrow and cool, lined with campaign maps, sealed cabinets, and relics from conflicts still remembered by Malarthain’s older families."
     position:
-      x: 45.01
-      y: 37.60
+      x: 45.09
+      y: 37.08
 
   - id: "malarthain-037"
     number: 37
@@ -409,8 +409,8 @@ locations:
     summary: "Warehouses storing coal, timber, salt, lamp oil, and cold-season supplies."
     description: "The Winter Yards stretch along Coldroad behind high walls and broad loading gates. Coal stacks, timber sheds, salt stores, and oil depots make the district practical, guarded, and busy through every season."
     position:
-      x: 24.23
-      y: 74.06
+      x: 24.14
+      y: 74.60
 
   - id: "malarthain-039"
     number: 39
@@ -430,8 +430,8 @@ locations:
     summary: "Guarded site of the farm swallowed during the 3377 sinkhole disaster."
     description: "Sunken Acre is enclosed behind old barriers in Coldroad, where the ground still falls away around the remains of the 3377 collapse. Watch posts and warning stones keep most citizens on the surrounding road."
     position:
-      x: 28.36
-      y: 68.25
+      x: 28.25
+      y: 68.69
 
   - id: "malarthain-041"
     number: 41
@@ -441,8 +441,8 @@ locations:
     description: "Low Lantern Market comes alive when ordinary shops begin closing. Lantern sellers, hot-food stalls, repairers, and shift merchants serve miners and laborers moving through Cinderward after dark."
     quest: true
     position:
-      x: 35.71
-      y: 16.08
+      x: 35.70
+      y: 15.84
 
   - id: "malarthain-042"
     number: 42
@@ -462,8 +462,8 @@ locations:
     description: "Huntgarden forms a sacred green between the High Hunt and the quieter memorial paths. Offerings hang from branches, rest beneath stones, and gather around small shrines maintained by worshippers rather than formal attendants."
     quest: true
     position:
-      x: 25.04
-      y: 37.95
+      x: 25.33
+      y: 37.64
 
   - id: "malarthain-044"
     number: 44
@@ -514,8 +514,8 @@ locations:
     summary: "Prestigious gem-setter that enhances weapons, armor, jewelry, and holy symbols."
     description: "Brightstone & Vale occupies a refined shopfront in Goldclasp. Its guarded display windows show gem-set weapons, formal jewelry, and religious pieces beneath controlled magical light."
     position:
-      x: 48.81
-      y: 41.27
+      x: 48.91
+      y: 40.88
 
   - id: "malarthain-049"
     number: 49
@@ -535,8 +535,8 @@ locations:
     description: "The Listening Stone keeps a modest storefront just beyond Goldclasp’s busiest streets. Objects brought for examination are received through private booths, and the nearby lane is known for unusually patient guards and nervous customers."
     quest: true
     position:
-      x: 39.82
-      y: 29.74
+      x: 39.78
+      y: 28.85
 
   - id: "malarthain-051"
     number: 51
@@ -557,8 +557,8 @@ locations:
     description: "Griever’s Court is a stone-paved memorial square near the paths between Cinderward and the Green Run. Empty plaques and name walls honor those whose bodies were never recovered, drawing families on anniversaries and shift memorials."
     quest: true
     position:
-      x: 54.59
-      y: 69.10
+      x: 54.46
+      y: 69.59
 
   - id: "malarthain-053"
     number: 53
@@ -567,8 +567,8 @@ locations:
     summary: "High-end bookseller carrying histories, maps, theological works, and rare technical manuals."
     description: "Nine-Seal Bookroom stands along Goldclasp’s quieter commercial crescent. Its upper floors hold private reading rooms and guarded collections, while the public level serves historians, clergy, officers, and wealthy collectors."
     position:
-      x: 44.38
-      y: 40.35
+      x: 44.39
+      y: 40.04
 
   - id: "malarthain-054"
     number: 54
@@ -577,8 +577,8 @@ locations:
     summary: "Secondary food stores supporting Apple Gate and the southern neighborhoods."
     description: "The South Granaries form a group of storehouses near the roads leading to Apple Gate. Their yards handle produce, meal, animal feed, and emergency reserves for the city’s southern neighborhoods."
     position:
-      x: 65.48
-      y: 58.77
+      x: 65.35
+      y: 59.03
 
   - id: "malarthain-055"
     number: 55
@@ -608,8 +608,8 @@ locations:
     description: "Drovers’ Green spreads beside Apple Gate as a fenced field of pens, inspection lanes, and watering troughs. Traders, handlers, healers, and city inspectors gather here whenever livestock caravans arrive."
     quest: true
     position:
-      x: 62.22
-      y: 85.02
+      x: 62.09
+      y: 84.73
 
   - id: "malarthain-058"
     number: 58
@@ -629,8 +629,8 @@ locations:
     description: "Emberglass House occupies a bright workshop near Goldclasp’s arcane trades. Its furnace towers and mirrored windows illuminate a lane lined with lens grinders, alchemical suppliers, and specialist craftsmen."
     quest: true
     position:
-      x: 36.85
-      y: 60.26
+      x: 36.97
+      y: 60.78
 
   - id: "malarthain-060"
     number: 60
@@ -639,8 +639,8 @@ locations:
     summary: "Luxury jeweler crafting horn bands, mane clasps, tail rings, tusk ornaments, and formal beastfolk jewelry."
     description: "Claw & Circlet maintains an ornate Goldclasp showroom designed around beastfolk formalwear. Private fitting rooms accommodate horns, tusks, tails, manes, feathers, and other features poorly served by foreign jewelers."
     position:
-      x: 36.21
-      y: 69.02
+      x: 36.01
+      y: 69.37
 
   - id: "malarthain-061"
     number: 61
@@ -649,8 +649,8 @@ locations:
     summary: "Malarthain’s principal open-air temple of Malar and the destination of the High Hunt."
     description: "The Open Maw stands at the end of the High Hunt as Malarthain’s great open-air temple. Its courtyards, stone jaws, gathering spaces, and exposed sky draw worshippers from every district."
     position:
-      x: 33.29
-      y: 37.21
+      x: 33.48
+      y: 36.66
 
   - id: "malarthain-062"
     number: 62
@@ -659,8 +659,8 @@ locations:
     summary: "Massive alarm bell signaling shift changes, collapses, and mine emergencies."
     description: "Quarry Bell rises above the industrial north on a reinforced stone frame. Its sound carries across Cinderward, Stonecrest Valley, and the mine roads, marking shifts and warning the city of emergencies."
     position:
-      x: 26.39
-      y: 53.81
+      x: 26.05
+      y: 53.50
 
   - id: "malarthain-063"
     number: 63
@@ -691,8 +691,8 @@ locations:
     description: "The Foreign Hearth stands near Redwatch’s official roads, close enough for easy access to the gate and Ministry offices. Its dining rooms and guarded courtyards are designed for diplomats, officers, merchants, and visiting delvers."
     quest: true
     position:
-      x: 66.35
-      y: 69.09
+      x: 66.21
+      y: 69.70
 
   - id: "malarthain-066"
     number: 66
@@ -712,8 +712,8 @@ locations:
     summary: "Memorial honoring those lost during the Siege of 3371 and the disaster of 3377."
     description: "The Fallen Anvil rests in a solemn square between Anvilring and the First Ring. Citizens pass beneath its broken iron monument on military anniversaries, disaster remembrances, and public mourning days."
     position:
-      x: 66.36
-      y: 38.75
+      x: 66.52
+      y: 38.15
 
   - id: "malarthain-068"
     number: 68
@@ -754,8 +754,8 @@ locations:
     description: "Atticus’s Estate is a well-kept Goldclasp residence set behind a walled garden and private carriage court. Atticus and Deena currently use its guest suites, training room, and receiving hall while awaiting approval of their guild contract."
     quest: true
     position:
-      x: 17.84
-      y: 35.55
+      x: 17.91
+      y: 35.15
 
   - id: "malarthain-072"
     number: 72
@@ -787,8 +787,8 @@ locations:
     description: "Brindlewick Conservatory rises from the Green Run beneath a broad glass roof. Warm paths wind between medicinal gardens, research beds, public exhibits, and carefully controlled growing chambers."
     quest: true
     position:
-      x: 18.64
-      y: 45.84
+      x: 18.63
+      y: 46.05
 
   - id: "malarthain-075"
     number: 75
@@ -798,8 +798,8 @@ locations:
     description: "The Unclaimed Hall stands in a quieter civic quarter near Redwatch. Its guarded storerooms, registry desks, and identification chambers receive lost property, unclaimed estates, and the belongings of unknown citizens."
     quest: true
     position:
-      x: 65.65
-      y: 40.27
+      x: 65.84
+      y: 39.57
 
   - id: "malarthain-076"
     number: 76
@@ -809,8 +809,8 @@ locations:
     description: "The Last Lantern sits near a lesser gate road used after the main streets quiet. Its enclosed courtyard, narrow common room, and modest private chambers cater to delayed travelers and crews arriving after curfew."
     quest: true
     position:
-      x: 8.19
-      y: 33.91
+      x: 8.14
+      y: 33.35
 
   - id: "malarthain-077"
     number: 77
