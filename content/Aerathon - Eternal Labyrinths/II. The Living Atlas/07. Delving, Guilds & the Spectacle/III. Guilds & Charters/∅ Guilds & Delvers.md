@@ -24,7 +24,8 @@ tags:
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division  
 **Primary Compiler:** Director Halin Drauve  
 **Advisory Editors:** Lt. Salvia Korrin (Arc. Scriv.), Archivist Yelna Stonevoice (Echo-Law), Chief Registrar Pyra Koll (Guild Relations Bureau)  
-**Date of Filing:** 11 Cycle, 3290 A.D. (Age of Spectacle)  
+**Original Filing:** 11th Cycle, 3290 A.D. (Age of Delving)\
+**Current Revision:** Late Redfall, 3388 A.D.\
 **Document Class:** _Institutional Overview / Grade-II Authenticity_
 
 ---
@@ -89,10 +90,12 @@ In the Age of Spectacle, these guilds have become Aerathon’s aristocracy—rut
 | **Tier**    | **Designation**        | **Affiliation** | **Privileges**                                        | **Examples**                                                                       |
 | ----------- | ---------------------- | --------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | **S-Class** | National Charter Guild | MDO or Private  | Holds labyrinth rights; autonomous command structure. | **Free Company (MDO)**, **Argent Banner (Private)**, **Crimson Reavers (Private)** |
-| **A-Class** | Regional Major Guild   | Mixed           | Oversees multiple chapters; relic export license.     | Verdant Collision, Iron-Bough Syndicate, Cinderpaw Pact                            |
+| **A-Class** | Regional Major Guild   | Mixed           | Oversees multiple chapters; relic export license.     | Verdant Collision, Iron-Bough Syndicate                                             |
 | **B-Class** | Standard Guild         | Mixed           | Full expedition rights within LEZs.                   | Emberlight Union                                                                   |
 | **C-Class** | Apprentice Order       | MDO-Supervised  | Probationary operations for cadets.                   | Dawnwright Circe                                                                   |
 | **D-Class** | Temporary Crews        | Unaffiliated    | Provisional licensing only.                           | Freelance Delvers                                                                  |
+
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/1. Guild Registry/06. Cinderpaw Pact|Cinderpaw Pact]] is filed beside guilds because it conducts organized delving, but it is a non-chartered sovereign entity rather than an A-Class guild. Field power does not substitute for charter standing. For the distinction between guild class and other delving labels, see the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/09. Delving Classification Crosswalk|Delving Classification Crosswalk]].
 ---
 ## IV. The S-Class Guilds of Record
 

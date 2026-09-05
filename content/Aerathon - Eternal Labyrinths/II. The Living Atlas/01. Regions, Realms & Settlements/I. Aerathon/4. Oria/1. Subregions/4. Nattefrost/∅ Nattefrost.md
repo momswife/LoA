@@ -10,7 +10,8 @@
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division (Polar & Temporal Phenomena Register)\
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Cryo-Arcanic Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Archivist Yelna Stonevoice (Cultural Songkeeping), Priest-Analyst Thera Daan (Faith Oversight)  
-**Date of Filing:** 3229 A.D. (Age of Spectacle)  
+**Original Filing:** 3229 A.D. (Age of Delving)\
+**Current Revision:** Late Redfall, 3388 A.D.\
 **Document Class:** _Field Record / Grade-I Authenticity_
 
 > [!danger] CURRENT STATUS — PLAGUE EXCLUSION ZONE

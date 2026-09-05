@@ -27,6 +27,12 @@ Unlike historical records, these entries are revised whenever borders shift, gov
 > [!warning] Revision Notice
 > Living Atlas records describe current consensus. Conditions in the field may change faster than the archive can certify them.
 
+## Reading Filing Dates
+
+An older filing date records when a document entered the archive; it does not by itself certify that every statement remains current. A record that has undergone a present-day review identifies that review separately through a **Current Revision**, **Date of Last Revision**, or equivalent revision field.
+
+Where only an older filing date survives, treat it as provenance while the subject awaits reconciliation against the current chronology and related records. Historical development belongs in [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/02. Eras & Timelines/index|Eras & Timelines]]; the Living Atlas entry should retain only the history needed to explain the subject's present condition.
+
 ## Browse the Living Atlas
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/index|Regions, Realms & Settlements]]

@@ -28,42 +28,45 @@ These territories have their own compact shelves for overview, settlements, and 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/9. Ruby Bay Islands/∅ Ruby Bay Islands|Ruby Bay Islands]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/∅ Calorwood|Calorwood]]
 
-## Regional Records
-
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/01. Ailuro|Ailuro]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/03. Amicia Bay|Amicia Bay]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/04. Hidden Waters|Hidden Waters]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/05. Dragontail Bay|Dragontail Bay]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/06. Motherfire Island|Motherfire Island]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/07. Haven of the High Bethel|Haven of the High Bethel]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/08. Quetra Tenna Islands|Quetra Tenna Islands]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/09. Shepherd's Island|Shepherd's Island]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/15. Wrightbarrow|Wrightbarrow]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/16. Duck Creek Island|Duck Creek Island]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/17. Isle of the Twilit Tryst|Isle of the Twilit Tryst]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/19. Flying Otter Falls|Flying Otter Falls]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/21. The Foxmeet|The Foxmeet]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/22. Million Souls Overlook|Million Souls Overlook]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/23. Duskward River|Duskward River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/24. Cristalmonte River|Cristalmonte River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/25. Ficklefox River|Ficklefox River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/26. Lion River|Lion River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/27. Gazelle Run|Gazelle Run]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/28. Honeymoon River|Honeymoon River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/29. Scolding Sister River|Scolding Sister River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/30. Chasing River|Chasing River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/31. Auric River|Auric River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/32. Argentine River|Argentine River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/33. Ottone River|Ottone River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/34. Abbronzarsi Stream|Abbronzarsi Stream]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/35. Quest River|Quest River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/36. Allum River|Allum River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/37. Nichel River|Nichel River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/38. Feysteel River|Feysteel River]]
-
-
-## Distinct Regional Features
+## Maintained Dossiers
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/39. Tempestrise|Tempestrise]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/40. Throne of the Easterlilies|Throne of the Easterlilies]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/41. Verges of Ash|Verges of Ash]]
+
+## Preliminary Cartographic Register
+
+The current atlas authenticates the names, broad feature classes, and placement within Vinyot recorded below. It does not yet establish detailed boundaries or local conditions, and a name alone is not evidence for history, culture, ecology, religious significance, or supernatural activity.
+
+| Feature | Class | Current record and survey priorities |
+| --- | --- | --- |
+| **Ailuro** | Island | Jurisdiction, population, coast, safe landings, settlements, governance, resources, and hazards remain to be surveyed. |
+| **Amicia Bay** | Bay | Earlier cartographic records retain the name **Amica Bay**. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/7. Vincitri Prairie/1. Settlements/01. Arloris|Arloris]] stands around its waters; the wider shoreline, currents, weather, anchorages, settlements, trade relevance, hazards, and history of the name remain incompletely surveyed. |
+| **Hidden Waters** | Inlet | The name does not establish secrecy, invisibility, or restricted access. Survey work should establish the entrance, tides, depths, jurisdiction, anchorages, settlements, and any reason the inlet is difficult to observe or approach. |
+| **Dragontail Bay** | Bay | The name does not establish draconic origin or activity. Survey work should establish shoreline, ports, jurisdiction, winds, currents, shoals, resources, and the verified origin of the name. |
+| **Motherfire Island** | Island | Neither volcanic activity nor religious origin is inferred from the name. Survey work should establish geology, climate, coastal access, habitation, jurisdiction, local terminology, and safely observable arcane activity. |
+| **Haven of the High Bethel** | Sacred or communal structure | No particular faith, order, or sanctuary right is inferred from the name. Survey work should establish location, tradition, custodianship, public role, access rules, architecture, and relationships with recognized faith institutions. |
+| **Quetra Tenna Islands** | Island group | Number, extent, and inhabited status remain unverified. Survey work should establish island count, reefs, anchorages, jurisdictions, communities, and approach routes. |
+| **Shepherd's Island** | Island | The name does not establish present economy, inhabitants, or religious significance. Survey work should establish jurisdiction, coastline, landing sites, seasonal use, and relationships with nearby Allemantic waters. |
+| **Wrightbarrow** | Island | The name does not establish a burial site, craft tradition, settlement, or founder. Survey work should establish coast, terrain, inhabitants, jurisdiction, local history, and archaeological restrictions. |
+| **Duck Creek Island** | Island | The map does not establish the watercourse implied by its name or present habitation. Survey work should establish freshwater access, coastal approaches, jurisdiction, ecology, settlement, and travel relevance. |
+| **Isle of the Twilit Tryst** | Island | Its poetic name is not evidence of history or supernatural conditions. Survey work should establish light conditions, coastline, inhabitants, local name usage, governance, and verified roles in travel or ritual. |
+| **Flying Otter Falls** | Waterfall or falls system | The name does not establish local fauna, folklore, or magical behavior. Survey work should establish the parent river, height, extent, nearby routes, settlements, seasonal flow, hazards, and local history of the name. |
+| **The Foxmeet** | Region | The name does not establish a lineage homeland, assembly, market, or political jurisdiction. Survey work should establish boundaries, governing authorities, settlements, peoples, travel routes, landscape, and the origin of the name. |
+| **Million Souls Overlook** | Landmark | The name does not establish a measured population or verified visual range. Survey work should establish elevation, approaches, visible regions, nearby ruins or settlements, safety conditions, public use, and the history of the name. |
+| **Duskward River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Cristalmonte River** | River | Landbridge and the abandoned settlement of Gonlaro lie along its wider system. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Ficklefox River** | River | It passes through the Landbridge works before reaching Ruby Bay. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Lion River** | River | Its confluence with Gazelle Run forms the Great Cyclone at Bella Madre. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Gazelle Run** | River | Its confluence with the Lion River forms the Great Cyclone at Bella Madre. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Honeymoon River** | River | Southwinds stands between this river and the Auric River. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Scolding Sister River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Chasing River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Auric River** | River | Southwinds stands between this river and the Honeymoon River. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Argentine River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Ottone River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Abbronzarsi Stream** | Stream | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Quest River** | River | Porta Strega stands along its broad estuary near the Calorwood. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Allum River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Nichel River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |
+| **Feysteel River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Vinyotian communities remain to be surveyed. |

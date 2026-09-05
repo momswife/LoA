@@ -10,7 +10,8 @@
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division (Abyssal Containment Dossier)\
 **Primary Compiler:** Inspector Jao “Greyglass” Vell (Forensic Thaumaturge & Infernal Containment Specialist)  
 **Advisory Editors:** Lt. Salvia Korrin (Arcane Breach Liaison), Priest-Analyst Thera Daan (Faith Oversight), Director Halin Drauve (Hazard Economics)  
-**Date of Filing:** 3227 A.D. (Age of Spectacle)  
+**Original Filing:** 3227 A.D. (Age of Delving)\
+**Current Revision:** Late Redfall, 3388 A.D.\
 **Document Class:** _Field Record / Grade-I Authenticity_
 
 ---

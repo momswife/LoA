@@ -3,6 +3,7 @@ import { classNames } from "../util/lang"
 import { FilePath, FullSlug, resolveRelative, slugifyFilePath } from "../util/path"
 import { ContentMeta } from "../../.quartz/plugins/content-meta/dist/index.js"
 import style from "./styles/documentMasthead.scss"
+import { isSpoilerFrontmatter, SPOILER_READING_TEXT_KEY } from "../util/spoilers"
 
 type Fact = {
   label: string
@@ -145,6 +146,11 @@ export default (() => {
     }
 
     const hero = textValue(frontmatter.hero ?? frontmatter.banner)
+    const readingText = fileData[SPOILER_READING_TEXT_KEY]
+    const metadataProps =
+      isSpoilerFrontmatter(frontmatter) && typeof readingText === "string"
+        ? { ...props, fileData: { ...fileData, text: readingText } }
+        : props
 
     return (
       <header
@@ -167,7 +173,7 @@ export default (() => {
         <h1 class="article-title">{title}</h1>
         {epithet && <p class="document-masthead__epithet">{epithet}</p>}
         {summary && !isOverview && <p class="document-masthead__summary">{summary}</p>}
-        <ContentMetadata {...props} />
+        <ContentMetadata {...metadataProps} />
         {showMastheadRecord && facts.length > 0 && (
           <section class="document-masthead__record" aria-labelledby="masthead-record-title">
             <h2 id="masthead-record-title">

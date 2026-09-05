@@ -43,8 +43,8 @@ const cfg = { locale: "en-US" } as GlobalConfiguration
 
 function makeComponentData(
   allFiles: QuartzComponentProps["allFiles"],
-): Pick<QuartzComponentProps, "allFiles" | "cfg"> {
-  return { allFiles, cfg } as unknown as QuartzComponentProps
+): Pick<QuartzComponentProps, "allFiles" | "cfg" | "fileData"> {
+  return { allFiles, cfg, fileData: { frontmatter: {} } } as unknown as QuartzComponentProps
 }
 
 describe("renderTranscludes", () => {
@@ -232,6 +232,42 @@ describe("renderTranscludes", () => {
     assert.ok(fullText.includes("Page B content"), "page B content should be inlined")
     assert.ok(fullText.includes("Circular transclusion"), "circular A->B->A should be detected")
     assert.ok(!fullText.includes("Page A content"), "page A should not be re-inlined inside B")
+  })
+
+  test("replaces spoiler transclusions on ordinary pages with a gated link", () => {
+    const root: Root = {
+      type: "root",
+      children: [makeTranscludeBlockquote("secret")],
+    }
+    const secretHtml: Root = {
+      type: "root",
+      children: [
+        {
+          type: "element",
+          tagName: "p",
+          properties: {},
+          children: [{ type: "text", value: "The unrevealed answer" }],
+        },
+      ],
+    }
+    const allFiles = [
+      makePageData("secret", secretHtml, {
+        frontmatter: { title: "Secret", tags: [], spoiler: true },
+      }),
+    ]
+
+    renderTranscludes(
+      root,
+      cfg,
+      "current" as FullSlug,
+      makeComponentData(allFiles) as QuartzComponentProps,
+      new Set<FullSlug>(["current" as FullSlug]),
+    )
+
+    const rendered = JSON.stringify(root.children)
+    assert.ok(rendered.includes("Spoiler-protected record"))
+    assert.ok(rendered.includes("Open the gated record"))
+    assert.ok(!rendered.includes("The unrevealed answer"))
   })
 
   test("self-referencing transclusion is blocked", () => {

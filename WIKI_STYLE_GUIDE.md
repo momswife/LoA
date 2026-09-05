@@ -31,7 +31,9 @@ The three published divisions have different evidence standards:
   rather than silently rewriting an earlier report with later knowledge.
 
 Public records represent what their compiler or institution knows. Keep setting truth, testimony,
-inference, rumor, and restricted campaign knowledge distinct.
+inference, rumor, and restricted campaign knowledge distinct. A deliberately published record containing
+future plot information may use `spoiler: true`; see the frontmatter guidance below. This reader warning
+does not make public source material private.
 
 ## 3. Files and Navigation
 
@@ -184,6 +186,7 @@ facts: {}
 provenance: {}
 related: []
 quartz-properties: false
+spoiler: false
 draft: false
 ---
 ```
@@ -201,6 +204,9 @@ draft: false
 - `showMastheadRecord: false`: retain structured frontmatter without rendering its compact record card
   when the page already has a richer authored filing header beginning with `Filed Division`.
 - `quartz-properties: false`: retain on navigation pages that intentionally hide the property panel.
+- `spoiler: true`: conceal the rendered record behind an explicit reader confirmation. Use the optional
+  `spoilerWarning` field only for spoiler-safe context. Titles, filenames, tags, source Markdown, and
+  generated HTML remain visible or inspectable, so private notes still belong outside published folders.
 - `draft: true`: required for incomplete authored pages that should not publish.
 
 Never guess metadata. Unknown optional data should be omitted, described as unknown in prose when useful,

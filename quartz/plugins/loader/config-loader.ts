@@ -478,7 +478,10 @@ export async function loadQuartzConfig(
   // Import built-in plugins
   const builtinPlugins = await import("../index")
   const builtinTransformers = [builtinPlugins.AerathonMap()]
-  const builtinFinalTransformers = [builtinPlugins.RecordDetails()]
+  const builtinFinalTransformers = [
+    builtinPlugins.RecordDetails(),
+    builtinPlugins.SpoilerProtection(),
+  ]
   const builtinEmitters = [
     builtinPlugins.ComponentResources(),
     builtinPlugins.Assets(),

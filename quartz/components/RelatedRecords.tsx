@@ -1,6 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { FilePath, FullSlug, resolveRelative, simplifySlug, slugifyFilePath } from "../util/path"
 import style from "./styles/relatedRecords.scss"
+import { isSpoilerFrontmatter, spoilerWarningFor } from "../util/spoilers"
 
 type RelatedSpec =
   | string
@@ -35,6 +36,7 @@ function titleFor(file: QuartzComponentProps["fileData"]): string {
 }
 
 function descriptionFor(file: QuartzComponentProps["fileData"]): string | undefined {
+  if (isSpoilerFrontmatter(file.frontmatter)) return spoilerWarningFor(file.frontmatter)
   const description = file.frontmatter?.summary ?? file.frontmatter?.description ?? file.description
   return typeof description === "string" ? description : undefined
 }
@@ -66,7 +68,9 @@ function resolveExplicitRecords(
       {
         slug: file.slug,
         title: (typeof spec === "object" && spec.title) || label || titleFor(file),
-        description: (typeof spec === "object" && spec.description) || descriptionFor(file),
+        description: isSpoilerFrontmatter(file.frontmatter)
+          ? descriptionFor(file)
+          : (typeof spec === "object" && spec.description) || descriptionFor(file),
         type: typeFor(file),
       },
     ]

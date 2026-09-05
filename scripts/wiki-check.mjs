@@ -217,6 +217,12 @@ for (const absolute of allAbsoluteFiles) {
     if ("draft" in metadata && typeof metadata.draft !== "boolean") {
       errors.push(`Invalid frontmatter type: ${vaultRelative} -> draft must be a boolean`)
     }
+    if ("spoiler" in metadata && typeof metadata.spoiler !== "boolean") {
+      errors.push(`Invalid frontmatter type: ${vaultRelative} -> spoiler must be a boolean`)
+    }
+    if ("spoilerWarning" in metadata && typeof metadata.spoilerWarning !== "string") {
+      errors.push(`Invalid frontmatter type: ${vaultRelative} -> spoilerWarning must be a string`)
+    }
     if ("summary" in metadata && typeof metadata.summary !== "string") {
       errors.push(`Invalid frontmatter type: ${vaultRelative} -> summary must be a string`)
     }

@@ -25,18 +25,25 @@ These territories have their own compact shelves for overview, settlements, and 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/6. Beylik/∅ Beylik|Beylik]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/7. Bey's Head Mountains/∅ Bey's Head Mountains|Bey's Head Mountains]]
 
-## Regional Records
+## Maintained Dossiers
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/02. Xavrama Mines|Xavrama Mines]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/03. Hayvanne Island|Hayvanne Island]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/04. Kit's Tooth|Kit's Tooth]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/05. Isla Adalar Islands|Isla Adalar Islands]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/07. Dunes of the Sun Bull|Dunes of the Sun Bull]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/10. Hedizir River|Hedizir River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/11. Sekiz Cliffs|Sekiz Cliffs]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/15. Kumluk ve Maden|Kumluk ve Maden]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/16. Gizli River|Gizli River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/3. Geography & Landmarks/17. Kazmak River|Kazmak River]]
+
+## Preliminary Cartographic Register
+
+The current atlas authenticates the names, broad feature classes, and placement within Arneria recorded below. It does not yet establish detailed boundaries or local conditions, and a name alone is not evidence for history, culture, ecology, or supernatural activity.
+
+| Feature | Class | Current record and survey priorities |
+| --- | --- | --- |
+| **Xavrama Mines** | Extraction site | Earlier cartographic records retain the name **Kavrama Mines**. Resources, ownership, workforce, depth, and operating status remain unverified; survey work should establish jurisdiction, charter holder, extracted materials, labor conditions, routes, structural safety, and any Labyrinth restrictions. |
+| **Hayvanne Island** | Island | Coastline, approaches, settlements, resources, jurisdiction, weather, and maritime hazards remain to be surveyed. |
+| **Kit's Tooth** | Mountain | Extent, elevation, passes, watersheds, settlements, resources, weather, and travel hazards remain to be surveyed. |
+| **Isla Adalar Islands** | Island group | The archive has not resolved the repeated island terminology in the received name or established a preferred local form. Survey work should confirm the name, island count, jurisdiction, settlements, reefs, anchorages, and major routes before the title is normalized. |
+| **Hedizir River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Arnerian communities remain to be surveyed. |
+| **Sekiz Cliffs** | Cliffs | Extent, height, jurisdiction, and relationship to nearby routes remain unverified. Survey work should document geology, approaches, settlements, crossings, weather exposure, fall hazards, and the local history of the name. |
+| **Kumluk ve Maden** | Structure or worksite | Its precise form, purpose, and relationship to nearby mining or desert routes remain unverified. Survey work should establish jurisdiction, builders, ownership, present use, access, linked roads, material output, and hazards before a more specific classification is assigned. |
+| **Gizli River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Arnerian communities remain to be surveyed. |
+| **Kazmak River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Arnerian communities remain to be surveyed. |
 
 ## Shared Regional Features
 

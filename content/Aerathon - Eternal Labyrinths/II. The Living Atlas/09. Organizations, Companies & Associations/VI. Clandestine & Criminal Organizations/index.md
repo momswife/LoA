@@ -16,4 +16,6 @@ This shelf records criminal syndicates, smuggling networks, secret societies, co
 
 Public filings should distinguish verified structure from allegation and must not expose restricted campaign truth merely because it is known elsewhere in the archive.
 
-> _No individual organizations are currently filed on this shelf._
+## Filed Organizations
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/VI. Clandestine & Criminal Organizations/01. Order of the Reclaimed|Order of the Reclaimed]] — A concealed fellowship offering discipline, refuge, and accountable service to people managing dangerous supernatural afflictions.

@@ -16,6 +16,7 @@ import { styleText } from "util"
 import { resolveFrame } from "./frames"
 import type { TreeTransform } from "../plugins/types"
 import type { BuildCtx } from "../util/ctx"
+import { isSpoilerFrontmatter, spoilerWarningFor } from "../util/spoilers"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -176,6 +177,45 @@ export function renderTranscludes(
         }
       }
       if (!page) {
+        visited.delete(transcludeTarget)
+        continue
+      }
+
+      if (
+        isSpoilerFrontmatter(page.frontmatter) &&
+        !isSpoilerFrontmatter(componentData.fileData.frontmatter)
+      ) {
+        el.properties ??= {}
+        const transcludeClasses = Array.isArray(el.properties.className)
+          ? el.properties.className.map(String)
+          : []
+        if (!transcludeClasses.includes("spoiler-transclusion")) {
+          transcludeClasses.push("spoiler-transclusion")
+        }
+        el.properties.className = transcludeClasses
+        el.children = [
+          {
+            type: "element",
+            tagName: "p",
+            properties: {},
+            children: [{ type: "text", value: "Spoiler-protected record" }],
+          },
+          {
+            type: "element",
+            tagName: "p",
+            properties: {},
+            children: [{ type: "text", value: spoilerWarningFor(page.frontmatter) }],
+          },
+          {
+            type: "element",
+            tagName: "a",
+            properties: {
+              href: inner.properties?.href,
+              class: ["internal", "internal-link", "transclude-src"],
+            },
+            children: [{ type: "text", value: "Open the gated record" }],
+          },
+        ]
         visited.delete(transcludeTarget)
         continue
       }

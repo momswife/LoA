@@ -1,0 +1,199 @@
+@use "../../styles/variables.scss" as *;
+
+// Keep every reader-facing part of a spoiler page out of the visual and
+// accessibility trees until its checkbox is deliberately activated. The
+// checkbox makes the reveal usable even if the small focus-enhancement script
+// is unavailable.
+.page:has(.spoiler-gate__control:not(:checked)) {
+  .page-header > .popover-hint > :not(.spoiler-gate),
+  .center > article,
+  .center > hr,
+  .center > .page-footer,
+  .right.sidebar {
+    display: none !important;
+  }
+}
+
+// Search previews and optional Quartz popovers receive several `popover-hint`
+// fragments. Show only the gate fragment until the reader reveals it.
+:is(.preview-container, .popover-inner):has(.spoiler-gate__control:not(:checked)) {
+  > .popover-hint:not(:has(.spoiler-gate)),
+  > .popover-hint:has(.spoiler-gate) > :not(.spoiler-gate) {
+    display: none !important;
+  }
+}
+
+.spoiler-gate {
+  position: relative;
+  display: grid;
+  min-height: clamp(22rem, 56vh, 34rem);
+  box-sizing: border-box;
+  place-items: center;
+  align-content: center;
+  gap: 1.15rem;
+  margin: 0.5rem 0 1.5rem;
+  padding: clamp(2rem, 7vw, 4.5rem) clamp(1.25rem, 6vw, 4rem);
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--secondary) 38%, var(--lorevault-border));
+  border-radius: calc(var(--lorevault-radius) + 0.2rem);
+  background:
+    radial-gradient(
+      circle at 50% 15%,
+      color-mix(in srgb, var(--secondary) 14%, transparent),
+      transparent 42%
+    ),
+    linear-gradient(135deg, color-mix(in srgb, var(--secondary) 6%, transparent), transparent 54%),
+    var(--lorevault-surface);
+  box-shadow: var(--lorevault-shadow);
+  text-align: center;
+
+  &::before,
+  &::after {
+    position: absolute;
+    width: 5rem;
+    height: 5rem;
+    border-color: color-mix(in srgb, var(--secondary) 45%, transparent);
+    content: "";
+    pointer-events: none;
+  }
+
+  &::before {
+    top: 0.75rem;
+    left: 0.75rem;
+    border-top: 1px solid;
+    border-left: 1px solid;
+  }
+
+  &::after {
+    right: 0.75rem;
+    bottom: 0.75rem;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+  }
+
+  &:has(.spoiler-gate__control:checked) {
+    display: none;
+  }
+}
+
+.spoiler-gate__seal {
+  display: grid;
+  width: 3.5rem;
+  height: 3.5rem;
+  place-items: center;
+  border: 1px solid color-mix(in srgb, var(--secondary) 48%, var(--lorevault-border));
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--secondary) 9%, var(--lorevault-surface-raised));
+  color: var(--secondary);
+
+  svg {
+    width: 1.65rem;
+    height: 1.65rem;
+    fill: none;
+    stroke: currentcolor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1.55;
+  }
+}
+
+.spoiler-gate__copy {
+  max-width: 36rem;
+
+  h1 {
+    margin: 0.3rem 0 0.75rem;
+    color: var(--dark);
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.05;
+    text-wrap: balance;
+  }
+
+  > p:last-child {
+    margin: 0;
+    color: var(--darkgray);
+    font-size: clamp(0.98rem, 1.6vw, 1.08rem);
+    line-height: 1.65;
+    text-wrap: pretty;
+  }
+}
+
+.spoiler-gate__eyebrow {
+  margin: 0;
+  color: var(--secondary);
+  font-family: var(--lorevault-ui-font);
+  font-size: 0.7rem;
+  font-weight: 750;
+  letter-spacing: 0.14em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.spoiler-gate__reveal {
+  display: inline-flex;
+  min-height: 2.8rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 1.15rem;
+  border: 1px solid var(--secondary);
+  border-radius: 0.65rem;
+  background: var(--secondary);
+  box-shadow: 0 8px 20px color-mix(in srgb, var(--secondary) 20%, transparent);
+  color: var(--light);
+  cursor: pointer;
+  font-family: var(--lorevault-ui-font);
+  font-size: 0.82rem;
+  font-weight: 750;
+  letter-spacing: 0.025em;
+  transition:
+    background-color 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
+
+  &:hover {
+    background: color-mix(in srgb, var(--secondary) 88%, var(--dark));
+    box-shadow: 0 10px 24px color-mix(in srgb, var(--secondary) 28%, transparent);
+    transform: translateY(-1px);
+  }
+
+  &:has(.spoiler-gate__control:focus-visible) {
+    outline: 2px solid var(--tertiary);
+    outline-offset: 3px;
+  }
+}
+
+.spoiler-gate__control {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.spoiler-gate__note {
+  margin: -0.35rem 0 0;
+  color: var(--gray);
+  font-family: var(--lorevault-ui-font);
+  font-size: 0.7rem;
+  line-height: 1.45;
+}
+
+blockquote.transclude.spoiler-transclusion {
+  border-left-color: var(--secondary);
+
+  > p:first-child {
+    color: var(--dark);
+    font-family: var(--lorevault-ui-font);
+    font-weight: 700;
+  }
+}
+
+@media all and ($mobile) {
+  .spoiler-gate {
+    min-height: min(30rem, 64vh);
+    margin-top: 0;
+    padding: 2.25rem 1.1rem;
+  }
+}

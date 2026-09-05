@@ -15,6 +15,11 @@ tags:
 
 This section follows modern delving from first registration through field operations, guild organization, notable delver records, and the broadcasts and sponsorships that shape its public life.
 
+## Start Here
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/09. Delving Classification Crosswalk|Delving Classification Crosswalk]] — distinguishes ranks, licenses, guild classes, labyrinth tiers, mission ranks, relic categories, offense classes, and archive grades.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/10. N-Class Protocol|N-Class Protocol]] — the canonical shared rules for Core-formed N-Series teams.
+
 ## Browse This Section
 
 1. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/index|Orientation, Licensing & Classification]]

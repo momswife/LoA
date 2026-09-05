@@ -4,6 +4,7 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
+import { isSpoilerFrontmatter, spoilerWarningFor } from "../util/spoilers"
 
 const initializeDefaultTheme = `
 try {
@@ -20,10 +21,12 @@ export default (() => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
       (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
-    const description =
-      fileData.frontmatter?.socialDescription ??
-      fileData.frontmatter?.description ??
-      unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    const isSpoiler = isSpoilerFrontmatter(fileData.frontmatter)
+    const description = isSpoiler
+      ? spoilerWarningFor(fileData.frontmatter)
+      : (fileData.frontmatter?.socialDescription ??
+        fileData.frontmatter?.description ??
+        unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description))
 
     const { css, js, additionalHead } = externalResources
 
@@ -96,6 +99,7 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        {isSpoiler && <meta name="robots" content="nosnippet" />}
         <meta name="generator" content="Quartz" />
 
         <script dangerouslySetInnerHTML={{ __html: initializeDefaultTheme }} />

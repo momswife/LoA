@@ -27,7 +27,8 @@ facts:
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
 **Primary Compiler:** **Priest-Analyst Thera Daan** (Faith Systems & Rite-States)<br>
 **Advisory Editors:** **Magistrate Talar Shellmark** (Charter Counsel), **Lt. Salvia Korrin** (Arcane Scrivener, Breach Verification)<br>
-**Date of Original Filing:** **6th Cycle, 3104 A.D.**<br>
+**Original Filing:** **6th Cycle, 3104 A.D.**<br>
+**Current Revision:** Late Redfall, 3388 A.D.\
 **Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
 **Research Status:** _Current Reference_<br>
 **Access Designation:** _Public_<br>

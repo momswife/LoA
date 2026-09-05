@@ -23,6 +23,7 @@ tags:
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/03. Document Classification and Authenticity Grades|Document Classification and Authenticity Grades]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/03a. MDO Style and Filing Manual|MDO Style and Filing Manual]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/03b. The Living Atlas|The Living Atlas — Research Charter]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/04. Forbidden Archives/index|Forbidden Archives]]
 
 ## 2. Broadcast Regulation
 

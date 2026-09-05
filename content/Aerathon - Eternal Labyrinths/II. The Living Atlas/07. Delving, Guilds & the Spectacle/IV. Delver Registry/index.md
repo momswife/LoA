@@ -12,6 +12,8 @@ tags:
 
 # Delver Registry
 
+Registry placement records public operational status; it does not replace a delver's license, UDMI rank, or any N-Class designation. See the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/09. Delving Classification Crosswalk|Delving Classification Crosswalk]].
+
 Begin with [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/IV. Delver Registry/∅ S-Class Delvers|S-Class Delvers]] for the registry's scope and status conventions.
 
 ## Active

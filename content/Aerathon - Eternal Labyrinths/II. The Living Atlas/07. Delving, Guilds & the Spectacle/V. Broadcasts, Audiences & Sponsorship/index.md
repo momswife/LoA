@@ -12,6 +12,8 @@ tags:
 
 # Broadcasts, Audiences & Sponsorship
 
+These records describe the spectacle economy and its legal limits. Any broadcast-specific treatment of an N-Class team remains subordinate to the shared [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/10. N-Class Protocol|N-Class Protocol]].
+
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/∅ Delving in the Age of Spectacle|Delving in the Age of Spectacle]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/01. Sponsorship & Audience Power|Livecasting, Sponsorship & Audience Power]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/02. Audience Tipping|Audience Tipping]]

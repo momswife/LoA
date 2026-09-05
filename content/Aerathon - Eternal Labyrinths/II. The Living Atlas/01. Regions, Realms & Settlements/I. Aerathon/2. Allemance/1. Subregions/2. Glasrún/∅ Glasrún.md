@@ -40,7 +40,9 @@ The Queensriver forms Glasrún's southern legal and symbolic boundary. Old-growt
 
 ## III. The Glasrún Pact
 
-The Pact relinquished noble claim, levy, and administrative responsibility over the forest while preserving its association with Allemance. Surviving records disagree about the earliest date and personal attribution of the relinquishment; later Gocaire records describe a formal abandonment in 571 A.D. The durable canon is the settlement itself: no noble levy crosses the Queensriver, and no permanent lord or charter office rules Glasrún.
+The Pact developed through two relinquishments. In **367 A.D.**, **Aurelian Vossryn**, remembered as the First Warden of Glasrún, withdrew Allemancian administration from the deep forest and accepted local wardens and hearth communities as its practical custodians. His declaration established the custom of non-rule but left the forest's southern boundary and the status of its outer plains imprecise.
+
+After Gocaire was founded as a border barony in 533 A.D., its first baron briefly revived claims north of the Queensriver. In **571 A.D.**, the baron abandoned those claims and recognized the river as the legal boundary beyond which no noble levy or permanent lord would operate. This Forest Abandonment formalized the older Glasrún settlement without replacing Aurelian's founding act.
 
 ## IV. Authority & Present Conditions
 
@@ -52,7 +54,7 @@ Glasrún covers the northeastern reaches of Allemance, from the upper banks of t
 
 ## Maintained Geographic Features
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/3. Geography & Landmarks/16. Queensriver|Queensriver]] — the fast, shallow river that forms the forest's southern legal and symbolic boundary.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/3. Geography & Landmarks/index#Queensriver|Queensriver]] — the fast, shallow river that forms the forest's southern legal and symbolic boundary.
 - **Mantle Slopes** — rocky, forested approaches toward Oria, crossed by narrow passes maintained by local wardens.
 - **Deepwood** — central old-growth zones without roads or logging.
 - **Mossfall Clearings** — natural glades used for seasonal rites, meetings, and exchange.

@@ -26,7 +26,8 @@ facts:
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
 **Primary Compiler:** **Magistrate Talar Shellmark** (Charter Counsel & Keeper of Canon Articles)<br>
 **Advisory Editors:** **Lt. Salvia Korrin** (Arcane Breach Liaison), **Archivist Yelna Stonevoice** (Echo-Law & Oral Tradition)<br>
-**Date of Original Filing:** **8th Cycle, 3097 A.D.**<br>
+**Original Filing:** **8th Cycle, 3097 A.D.**<br>
+**Current Revision:** Late Redfall, 3388 A.D.\
 **Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
 **Research Status:** _Current Reference_<br>
 **Access Designation:** _Public_<br>

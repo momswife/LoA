@@ -25,24 +25,28 @@ These territories have their own compact shelves for overview, settlements, and 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/6. Grensa/∅ Grensa|Grensa]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/7. Lisvenn/∅ Lisvenn|Lisvenn]]
 
-## Regional Records
+## Preliminary Cartographic Register
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/02. The Malenkean|The Malenkean]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/03. Alerunner River|Alerunner River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/05. Defiant River|Defiant River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/06. The Deepshimmer|The Deepshimmer]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/07. Temvoda Inlet|Temvoda Inlet]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/09. Mornfall River|Mornfall River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/10. Vesperfall River|Vesperfall River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/11. Gorki Peaks|Gorki Peaks]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/13. Elkbrother Islands|Elkbrother Islands]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/15. Shepka River|Shepka River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/16. Kolamsk River|Kolamsk River]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/17. Fallensky Passage|Fallensky Passage]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/18. Viskafold Delta|Viskafold Delta]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/19. Lyseer Bay|Lyseer Bay]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/20. Voyage End|Voyage End]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/21. Diamondgale|Diamondgale]]
+The current atlas authenticates the names, broad feature classes, and placement within Oria recorded below. It does not yet establish detailed boundaries or local conditions, and a name alone is not evidence for history, ecology, unusual behavior, or supernatural activity.
+
+| Feature | Class | Current record and survey priorities |
+| --- | --- | --- |
+| **The Malenkean** | Sea | Severport stands on its coast. Shores, depth, currents, inflows, navigation, resource use, seasonal conditions, and nearby communities remain to be surveyed. |
+| **Alerunner River** | River | Source, course, tributaries, jurisdiction, crossings, settlements, navigation, flood behavior, resource use, and the origin of its name remain unverified. |
+| **Defiant River** | River | The name does not establish an unusual current or historic resistance. Survey work should establish source, mouth, tributaries, crossings, settlements, seasonal behavior, navigability, and the local history of the name. |
+| **The Deepshimmer** | Unclassified water feature | The received classification does not distinguish river, channel, lake, or coastal passage. Survey work should resolve its type, location, depths, flow, access, jurisdiction, and whether the visible effect implied by its name is natural, arcane, or traditional. |
+| **Temvoda Inlet** | Inlet | Shores, depth, currents, inflows, navigation, resource use, seasonal conditions, and nearby communities remain to be surveyed. |
+| **Mornfall River** | River | Its course and the meaning of its name remain unverified. Survey work should establish source, mouth, crossings, settlements, flood cycle, navigability, jurisdiction, and any safely documented optical or temporal conditions. |
+| **Vesperfall River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Oric communities remain to be surveyed. |
+| **Gorki Peaks** | Mountain region | Boundaries, jurisdiction, routes, settlements, and relationships to neighboring terrain remain unverified. Survey work should document elevations, passes, weather, resource use, inhabited sites, hazards, and connections to established roads or exclusion zones. |
+| **Elkbrother Islands** | Island chain | Doloretsk stands on one island south of the Nattefrost. Coastlines, approaches, settlements, resources, jurisdiction, weather, and maritime hazards remain to be surveyed. |
+| **Shepka River** | River | Priozhevsky stands at its headwaters below Mountmirror. Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby communities remain to be surveyed. |
+| **Kolamsk River** | River | Source, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Oric communities remain to be surveyed. |
+| **Fallensky Passage** | Passage | Course, maintained approaches, governing authorities, seasonal closures, traffic, and travel hazards remain to be surveyed. |
+| **Viskafold Delta** | River delta | Source system, course, tributaries, crossings, navigability, seasonal behavior, and relationships with nearby Oric communities remain to be surveyed. |
+| **Lyseer Bay** | Bay | Shores, depth, currents, inflows, navigation, resource use, seasonal conditions, and nearby communities remain to be surveyed. |
+| **Voyage End** | Island | The name does not establish a wreck, terminus, settlement, or travel prohibition. Survey work should establish coastline, routes, inhabitants, jurisdiction, weather, and the historical or practical origin of the name. |
+| **Diamondgale** | Maritime route | Edelstann is recorded as its eastern gate. Course, maintained approaches, governing authorities, seasonal closures, traffic, and travel hazards remain to be surveyed. |
 
 ## Settlement Records Also Named on the Map
 

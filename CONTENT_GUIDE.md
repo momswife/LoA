@@ -11,7 +11,28 @@ linked there.
 - Public notes live in `content/Aerathon - Eternal Labyrinths/`.
 - Quartz ignores `private`, `templates`, and `.obsidian`.
 - Add `draft: true` to frontmatter for notes that should stay out of the published site.
-- Keep raw campaign planning, spoilers, and working scraps outside published folders or under ignored paths.
+- Keep raw campaign planning and working scraps outside published folders or under ignored paths.
+- Plot information may be published behind the reader-facing spoiler gate described below when its
+  presence in the public repository is intentional.
+
+### Spoiler-Protected Pages
+
+Add `spoiler: true` to a page's frontmatter to conceal its masthead, table of contents, body, and related
+content until the reader selects **Reveal this record**. An optional `spoilerWarning` replaces the default
+warning with spoiler-safe context.
+
+```yaml
+---
+title: Restricted Expedition Record
+spoiler: true
+spoilerWarning: Reveals the outcome of the party's current expedition.
+---
+```
+
+The title, filename, tags, and the fact that the page exists remain visible in navigation, so keep those
+spoiler-safe. The page body is omitted from site-search snippets and accidental transclusions into ordinary
+pages become gated links. This is a courtesy warning, not access control: the source remains part of the
+public repository and generated HTML. Truly private campaign notes must remain outside published folders.
 
 ## Frontmatter
 
@@ -36,6 +57,8 @@ Recommended fields:
 - `aliases` - alternate names, old names, or common abbreviations.
 - `tags` - broad index topics such as `city`, `bestiary`, `guild`, or `timeline`.
 - `draft` - set to `true` to exclude from publication.
+- `spoiler` - set to `true` to require an explicit reader reveal before showing the page.
+- `spoilerWarning` - optional spoiler-safe context shown on that reveal screen.
 
 ## Linking
 
