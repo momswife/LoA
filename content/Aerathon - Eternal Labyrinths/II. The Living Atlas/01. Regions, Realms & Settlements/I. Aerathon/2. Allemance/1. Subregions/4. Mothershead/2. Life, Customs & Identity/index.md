@@ -9,7 +9,7 @@ tags: [atlas, sub-region, regional-life]
 
 # Life, Customs & Identity in Mothershead
 
-No distinct body of local practice has yet been authenticated for this subregion. Future work should document livelihood, belonging, household life, language, food, dress, etiquette, public memory, and relationships with neighboring territories without inferring culture from terrain alone.
+Current filings do not yet establish customs shared across this entire subregion. Allemagnian patterns of hearth, table, provision, and mutual aid may provide useful lines of inquiry, but they should not be assigned here without local testimony; neighborhood, guild, household, and rural practice may differ substantially.
 
 ## Browse
 

@@ -12,6 +12,10 @@ tags: [atlas, regional-life, allemance]
 
 This shelf records practices and identities shaped within Allemance. It replaces the misleading idea that Allemance itself is a single people or that every Allemagnian community shares one culture.
 
+## Current Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/4. Life, Customs & Identity/01. Hearth, Table & Mutual Aid|Hearth, Table & Mutual Aid]]
+
 ## Current Orientation
 
 Allemagnian identity is often expressed through hearth, table, neighborhood, guild, and remembered place. Hospitality, feastcraft, household memory, and mutual aid recur across the region, but their meaning changes substantially between Louvain, the river baronies, border settlements, displaced communities, and Glasrún.

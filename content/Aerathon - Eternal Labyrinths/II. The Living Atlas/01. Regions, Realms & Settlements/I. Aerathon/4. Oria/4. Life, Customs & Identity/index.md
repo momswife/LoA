@@ -12,6 +12,10 @@ tags: [atlas, regional-life, oria]
 
 This shelf records forms of belonging and daily practice shaped within Oria. It distinguishes regional patterns from the obligations imposed by a particular House, settlement, occupation, lineage, or faith.
 
+## Current Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/4. Life, Customs & Identity/01. House, Service & Repair|House, Service & Repair]]
+
 ## Current Orientation
 
 House affiliation is often more immediate than Oric regional identity because it determines maintenance, defense, provision, testimony, and care. Movement between Houses is possible, but it entails obligations rather than a simple change of residence.

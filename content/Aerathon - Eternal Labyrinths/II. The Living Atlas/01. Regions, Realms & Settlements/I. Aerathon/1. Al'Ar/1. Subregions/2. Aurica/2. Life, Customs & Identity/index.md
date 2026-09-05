@@ -9,7 +9,7 @@ tags: [atlas, sub-region, regional-life]
 
 # Life, Customs & Identity in Aurica
 
-No distinct body of local practice has yet been authenticated for this subregion. Future work should document livelihood, belonging, household life, language, food, dress, etiquette, public memory, and relationships with neighboring territories without inferring culture from terrain alone.
+Current filings do not yet establish customs shared across this entire subregion. Al'Ari practices of crew belonging, harbor obligation, hospitality during scarcity, and safe return may provide useful lines of inquiry, but they should not be assigned here without local testimony; settlements, islands, and working communities may observe them differently or not at all.
 
 ## Browse
 

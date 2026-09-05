@@ -27,3 +27,4 @@ tags:
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/07. Labyrinth Safety & Compliance|Labyrinth Safety & Compliance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/08. Canon Charter (MDO)|The Canon Charter of the Ministry of Delving Operations]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/10. N-Class Protocol|N-Class Protocol]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/11. Mission & Bounty Ranking System|Mission & Bounty Ranking System]]

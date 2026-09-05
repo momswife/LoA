@@ -27,6 +27,10 @@ Use these records to understand what is happening now—not what history will ev
 > [!danger] Provisional Record
 > Ledger entries may be amended, sealed, reclassified, or superseded without notice. Verify critical information against the most recent filing.
 
+## Filing Lifecycle
+
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/01. Reading the Monthly Ledger|Reading the Monthly Ledger]] — required dates, issuer and jurisdiction fields, status vocabulary, visible amendments, supersession, outcomes, and promotion into the permanent divisions.
+
 ## Browse the Monthly Ledger
 
 - [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/01. Bounties & Mission Board/index|Bounties & Mission Board]]

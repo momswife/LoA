@@ -9,7 +9,7 @@ tags: [atlas, sub-region, regional-life]
 
 # Life, Customs & Identity in Grensa
 
-No distinct body of local practice has yet been authenticated for this subregion. Future work should document livelihood, belonging, household life, language, food, dress, etiquette, public memory, and relationships with neighboring territories without inferring culture from terrain alone.
+Current filings do not yet establish customs shared across this entire subregion. Oric practices of House affiliation, service, repair, and demonstrated competence may provide useful lines of inquiry, but they should not be assigned here without local testimony; House, settlement, and occupation may each produce distinct forms of belonging.
 
 ## Browse
 

@@ -282,11 +282,11 @@ function transformFooter(children: RootContent[]) {
   }
 }
 
-function transformRecord(children: RootContent[]) {
+function transformRecord(children: RootContent[]): boolean {
   const detailsRange = findDetailsRange(children)
   if (!detailsRange) {
     transformFooter(children)
-    return
+    return false
   }
   const detailsIndex = detailsRange.start
 
@@ -335,11 +335,21 @@ function transformRecord(children: RootContent[]) {
   }
 
   transformFooter(children)
+  return true
 }
 
 export const RecordDetails: QuartzTransformerPlugin = () => ({
   name: "RecordDetails",
   htmlPlugins() {
-    return [() => (tree: Root) => transformRecord(tree.children)]
+    return [
+      () => (tree: Root, file) => {
+        const hasAuthoredDetails = transformRecord(tree.children)
+        const frontmatter = file.data.frontmatter
+        if (hasAuthoredDetails && frontmatter && typeof frontmatter === "object") {
+          const values = frontmatter as Record<string, unknown>
+          values.showMastheadRecord ??= false
+        }
+      },
+    ]
   },
 })

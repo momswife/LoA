@@ -26,16 +26,24 @@ draft: true
 
 ---
 
-## I. Classification
+## I. Identification & Classification
 
 ## II. Description
 
-## III. Habitat & Range
+## III. Confirmed Range & Habitat
 
-## IV. Behavior
+## IV. Observed & Reported Behavior
 
 ## V. Threat Profile
 
 ## VI. Delver Advisory
 
-## VII. Containment & Artifacts
+## VII. Scholarly Interpretations
+
+## VIII. Religious, Cultural & Disputed Accounts
+
+## IX. Containment & Artifacts
+
+## X. Game Mechanics
+
+## Related Records

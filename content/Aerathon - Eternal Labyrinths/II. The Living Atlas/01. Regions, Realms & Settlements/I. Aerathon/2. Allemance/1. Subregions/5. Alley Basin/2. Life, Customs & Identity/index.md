@@ -27,4 +27,3 @@ These practices belong securely to the Canyon. They should not be attributed to 
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/4. Life, Customs & Identity/index|Life, Customs & Identity in Allemance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/5. Alley Basin/∅ Alley Basin|Alley Basin Overview]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/5. Alley Basin/∅ Alley Basin|Alley Basin Overview]]

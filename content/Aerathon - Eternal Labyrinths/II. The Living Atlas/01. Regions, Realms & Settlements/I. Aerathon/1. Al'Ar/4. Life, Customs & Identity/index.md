@@ -12,6 +12,10 @@ tags: [atlas, regional-life, al-ar]
 
 This shelf records ways of living shaped by participation in Al'Ar's maritime region. It does not define an Al'Ari personality, lineage, or uniform island culture.
 
+## Current Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/4. Life, Customs & Identity/01. Crew, Harbor & Safe Return|Crew, Harbor & Safe Return]]
+
 ## Current Orientation
 
 Al'Ari belonging may be carried through crew, dock, neighborhood, household, and remembered voyage as readily as through permanent residence. Music, movement, body ornament, performance, and public craft are prominent means of memory and reputation, but none is a requirement for individual identity.

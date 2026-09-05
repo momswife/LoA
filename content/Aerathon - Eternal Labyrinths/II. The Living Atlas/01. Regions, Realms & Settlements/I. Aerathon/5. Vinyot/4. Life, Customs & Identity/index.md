@@ -12,6 +12,10 @@ tags: [atlas, regional-life, vinyot]
 
 This shelf records the varied ways people live and identify themselves within Vinyot. It does not treat corporate administration, commercial reputation, or one settlement's customs as a universal Vinyoti culture.
 
+## Current Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/4. Life, Customs & Identity/01. Contracts, Work & Public Reputation|Contracts, Work & Public Reputation]]
+
 ## Current Orientation
 
 Contracts, schedules, receipts, sponsorship, guild standing, and visible administrative results carry unusual public weight. Citizenship may follow residence, employment, guild recognition, or local charter rather than one regional rule.

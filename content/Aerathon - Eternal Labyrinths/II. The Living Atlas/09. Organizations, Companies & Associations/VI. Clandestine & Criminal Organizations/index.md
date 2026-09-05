@@ -18,4 +18,4 @@ Public filings should distinguish verified structure from allegation and must no
 
 ## Filed Organizations
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/VI. Clandestine & Criminal Organizations/01. Order of the Reclaimed|Order of the Reclaimed]] — A small vigilante crew whose afflicted members shelter their own and hunt threats protected from ordinary justice.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/VI. Clandestine & Criminal Organizations/01. Order of the Reclaimed|Order of the Reclaimed]] — An Allemance-based vigilante crew whose afflicted members train their monstrous natures into weapons against threats protected from ordinary justice.

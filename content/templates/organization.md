@@ -8,6 +8,7 @@ recordType: Organization Record
 status: Draft
 classification:
 revision:
+showMastheadRecord: false
 facts:
   Headquarters:
   Operational Scope:

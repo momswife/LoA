@@ -9,7 +9,13 @@ status: Draft
 classification:
 revision:
 facts:
-  Reporting Period:
+  Posted:
+  Issuer:
+  Jurisdiction:
+  Effective Through:
+  Last Updated:
+  Supersedes:
+  Outcome:
   Reliability:
   Filing Office:
 draft: true
@@ -24,6 +30,15 @@ draft: true
 **Date of Filing:**  
 **Document Class:** _Field Report / Draft_
 
+**Posted:**  
+**Issuer:**  
+**Jurisdiction:**  
+**Status:** _Draft_  
+**Effective Through:**  
+**Last Updated:**  
+**Supersedes:**  
+**Outcome:** _Not yet filed_
+
 ---
 
 ## I. Summary
@@ -36,4 +51,10 @@ draft: true
 
 ## V. Recommended Action
 
-## VI. Follow-Up
+## VI. Follow-Up & Outcome
+
+## VII. Update Log
+
+<!-- Preserve earlier claims. Add dated corrections, amendments, supersession, and resolution here. -->
+
+## Related Records

@@ -19,13 +19,19 @@ This section is not a catalogue of peoples. Current sapient peoples, playable li
 
 Bestiary filing indicates how a subject is encountered and studied in the field. It is not a judgment of personhood or moral standing, and inclusion does not mean that the subject is inherently hostile.
 
+## Reading the Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/01. Reading Bestiary Records|Reading Bestiary Records]] — distinguishes confirmed observation, reported behavior, interpretation, folklore, field guidance, and game mechanics.
+
 ## I. Beasts & Fauna
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/01. Crag-Hound|Crag-Hound]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/02. Dewflame Moth|Dewflame Moth]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/03. Frost-Mane Elk|Frost-Mane Elk]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/04. Iron-Bough Boar|Iron-Bough Boar]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/05. Sandglass Vulture|Sandglass Vulture]]
+
+> [!note] Draft filing
+> Sandglass Vulture remains an unpublished authoring stub and is omitted from the public register until a substantive record is authenticated.
 
 ## II. Elementals & Weather-Born
 
