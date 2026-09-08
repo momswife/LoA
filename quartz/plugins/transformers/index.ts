@@ -3,3 +3,4 @@
 export { AerathonMap } from "./aerathonMap"
 export { RecordDetails } from "./recordDetails"
 export { SpoilerProtection } from "./spoilerProtection"
+export { LineageMechanicsDisclosure } from "./lineageMechanicsDisclosure"

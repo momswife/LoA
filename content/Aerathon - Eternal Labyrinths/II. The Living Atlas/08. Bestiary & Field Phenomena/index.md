@@ -29,6 +29,12 @@ Bestiary filing indicates how a subject is encountered and studied in the field.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/02. Dewflame Moth|Dewflame Moth]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/03. Frost-Mane Elk|Frost-Mane Elk]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/04. Iron-Bough Boar|Iron-Bough Boar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/06. Wolf|Wolf]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/07. Boar|Boar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/08. Brown Bear|Brown Bear]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/09. Giant Rat|Giant Rat]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/10. Giant Spider|Giant Spider]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/11. Crocodile|Crocodile]]
 
 > [!note] Draft filing
 > Sandglass Vulture remains an unpublished authoring stub and is omitted from the public register until a substantive record is authenticated.
@@ -87,6 +93,31 @@ Bestiary filing indicates how a subject is encountered and studied in the field.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/03. Riftspawn Remnant|Riftspawn Remnant]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/04. Snow-Echo Phantoms|Snow-Echo Phantoms]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/05. The Black Saint|The Black Saint]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/06. Skeleton|Skeleton]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/07. Zombie|Zombie]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/08. Northern Undead Field Guide|Northern Undead Field Guide]] — operational overview and Nattefrost evidence boundary
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/09. Shadow|Shadow]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/10. Warhorse Skeleton|Warhorse Skeleton]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/11. Ghoul|Ghoul]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/12. Specter|Specter]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/13. Ghast|Ghast]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/14. Ogre Zombie|Ogre Zombie]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/15. Will-o'-Wisp|Will-o'-Wisp]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/16. Wight|Wight]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/17. Ghost|Ghost]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/18. Wraith|Wraith]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/19. Minotaur Skeleton|Minotaur Skeleton]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/20. Swarm of Crawling Claws|Swarm of Crawling Claws]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/21. Mummy|Mummy]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/22. Vampire Spawn|Vampire Spawn]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/23. Revenant|Revenant]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/24. Basilisk Zombie|Basilisk Zombie]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/25. Bone Ballista|Bone Ballista]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/26. Vampiric Mist|Vampiric Mist]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/27. Fractured Testament|Fractured Testament]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/28. Adamantine Skeleton|Adamantine Skeleton]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/29. Sword Wraith|Sword Wraith]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/VIII. Undead, Echoed, & Forgotten/30. Reliquary Eidolon|Reliquary Eidolon]]
 
 ## IX. Unique & Legendary
 

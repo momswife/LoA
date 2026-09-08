@@ -198,7 +198,7 @@ export function renderTranscludes(
             type: "element",
             tagName: "p",
             properties: {},
-            children: [{ type: "text", value: "Spoiler-protected record" }],
+            children: [{ type: "text", value: "MDO archival code — OOC record" }],
           },
           {
             type: "element",
@@ -213,7 +213,7 @@ export function renderTranscludes(
               href: inner.properties?.href,
               class: ["internal", "internal-link", "transclude-src"],
             },
-            children: [{ type: "text", value: "Open the gated record" }],
+            children: [{ type: "text", value: "Open at your own discretion" }],
           },
         ]
         visited.delete(transcludeTarget)

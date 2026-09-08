@@ -22,7 +22,7 @@ The name is an inherited curatorial label for records too consequential to destr
 
 The MDO preserves such material for evidentiary comparison. Preservation does not constitute authentication.
 
-> [!caution] Reader Advisory  
+> [!caution] MDO Archival Code — OOC — Review at Your Own Discretion
 > Individual records in this collection may disclose protected identities, covert operations, or unresolved events omitted from ordinary public filings. Those records remain concealed until the reader deliberately opens them.
 
 ## Indexed Filings

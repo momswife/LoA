@@ -265,8 +265,8 @@ describe("renderTranscludes", () => {
     )
 
     const rendered = JSON.stringify(root.children)
-    assert.ok(rendered.includes("Spoiler-protected record"))
-    assert.ok(rendered.includes("Open the gated record"))
+    assert.ok(rendered.includes("MDO archival code — OOC record"))
+    assert.ok(rendered.includes("Open at your own discretion"))
     assert.ok(!rendered.includes("The unrevealed answer"))
   })
 

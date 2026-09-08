@@ -1,0 +1,160 @@
+@use "../../styles/variables.scss" as *;
+
+.callout[data-callout="ooc"] {
+  --color: var(--tertiary);
+  --border: color-mix(in srgb, var(--tertiary) 34%, var(--lorevault-border));
+  --bg: color-mix(in srgb, var(--tertiary) 5%, var(--lorevault-surface));
+
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-areas:
+    "title"
+    "content";
+  overflow: hidden;
+  border-style: solid;
+  box-shadow: 0 10px 30px color-mix(in srgb, var(--dark) 10%, transparent);
+
+  > .callout-title {
+    grid-area: title;
+    min-height: 2.85rem;
+    box-sizing: border-box;
+    align-items: center;
+    cursor: default;
+    font-family: var(--lorevault-ui-font);
+    pointer-events: none;
+
+    .fold-callout-icon {
+      display: none;
+    }
+
+    &::after {
+      margin-left: auto;
+      padding: 0.18rem 0.48rem;
+      border: 1px solid color-mix(in srgb, var(--tertiary) 45%, transparent);
+      border-radius: 999px;
+      color: var(--darkgray);
+      content: "OOC";
+      font-size: 0.68rem;
+      font-weight: 750;
+      letter-spacing: 0.09em;
+    }
+  }
+
+  > .callout-content {
+    grid-area: content;
+    border-top: 1px solid color-mix(in srgb, var(--tertiary) 22%, transparent);
+    transition:
+      filter 220ms ease,
+      opacity 220ms ease;
+
+  }
+
+  &.ooc-disclosure:not(.is-revealed) > .callout-content {
+    max-height: clamp(17rem, 42vh, 24rem);
+    overflow: hidden;
+    filter: blur(4px);
+    opacity: 0.34;
+    pointer-events: none;
+    user-select: none;
+  }
+
+  > .ooc-disclosure__reveal {
+    grid-area: content;
+    z-index: 2;
+    min-height: clamp(17rem, 42vh, 24rem);
+    margin: 0;
+    padding: 2rem 1.25rem;
+    display: grid;
+    place-items: center;
+    border: 0;
+    border-radius: 0;
+    color: var(--darkgray);
+    background:
+      linear-gradient(
+        180deg,
+        color-mix(in srgb, var(--lorevault-surface) 84%, transparent),
+        color-mix(in srgb, var(--lorevault-surface) 96%, var(--tertiary) 4%)
+      );
+    backdrop-filter: blur(5px);
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid var(--tertiary);
+      outline-offset: -4px;
+    }
+
+    &:hover .ooc-disclosure__button-copy {
+      border-color: color-mix(in srgb, var(--tertiary) 68%, var(--lorevault-border));
+      transform: translateY(-2px);
+      box-shadow: 0 12px 34px color-mix(in srgb, var(--tertiary) 16%, transparent);
+    }
+  }
+
+  .ooc-disclosure__button-copy {
+    width: min(25rem, 88%);
+    padding: 1.15rem 1.35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.32rem;
+    align-items: center;
+    border: 1px solid color-mix(in srgb, var(--tertiary) 46%, var(--lorevault-border));
+    border-radius: 0.7rem;
+    background: color-mix(in srgb, var(--lorevault-surface) 94%, var(--tertiary) 6%);
+    box-shadow: 0 8px 28px color-mix(in srgb, var(--dark) 14%, transparent);
+    transition:
+      transform 160ms ease,
+      border-color 160ms ease,
+      box-shadow 160ms ease;
+  }
+
+  .ooc-disclosure__eyebrow {
+    color: var(--tertiary);
+    font-size: 0.7rem;
+    font-weight: 750;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+  }
+
+  .ooc-disclosure__action {
+    color: var(--dark);
+    font-family: var(--lorevault-heading-font);
+    font-size: 1.08rem;
+    font-weight: 700;
+  }
+
+  .ooc-disclosure__note {
+    color: var(--gray);
+    font-size: 0.78rem;
+    line-height: 1.35;
+  }
+
+  > .ooc-disclosure__reveal[hidden] {
+    display: none;
+  }
+}
+
+@media all and ($mobile) {
+  .callout[data-callout="ooc"] {
+    > .callout-title::after {
+      display: none;
+    }
+
+    > .ooc-disclosure__reveal {
+      padding: 1.25rem 0.65rem;
+    }
+
+    .ooc-disclosure__button-copy {
+      width: 94%;
+      padding-inline: 0.75rem;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="ooc"] {
+    > .callout-content,
+    .ooc-disclosure__button-copy {
+      transition: none;
+    }
+  }
+}

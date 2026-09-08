@@ -21,16 +21,16 @@ export default (() => {
           </svg>
         </div>
         <div class="spoiler-gate__copy">
-          <p class="spoiler-gate__eyebrow">Reader advisory</p>
-          <h1 id="spoiler-gate-title">Spoilers ahead</h1>
+          <p class="spoiler-gate__eyebrow">MDO archival code · OOC</p>
+          <h1 id="spoiler-gate-title">Review at your own discretion</h1>
           <p>{spoilerWarningFor(frontmatter)}</p>
         </div>
         <label class="spoiler-gate__reveal">
           <input class="spoiler-gate__control" type="checkbox" />
-          <span>Reveal this record</span>
+          <span>Open restricted record</span>
         </label>
         <p class="spoiler-gate__note">
-          The record will be concealed again after you leave the page.
+          The MDO archive will reseal after you leave this record.
         </p>
       </section>
     )

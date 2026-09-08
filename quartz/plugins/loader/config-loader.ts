@@ -480,6 +480,7 @@ export async function loadQuartzConfig(
   const builtinTransformers = [builtinPlugins.AerathonMap()]
   const builtinFinalTransformers = [
     builtinPlugins.RecordDetails(),
+    builtinPlugins.LineageMechanicsDisclosure(),
     builtinPlugins.SpoilerProtection(),
   ]
   const builtinEmitters = [

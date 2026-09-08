@@ -4,7 +4,7 @@ import type { Element, Root } from "hast"
 import { unified } from "unified"
 import { VFile } from "vfile"
 import type { BuildCtx } from "../../util/ctx"
-import { DEFAULT_SPOILER_WARNING } from "../../util/spoilers"
+import { DEFAULT_SPOILER_WARNING, MDO_ARCHIVAL_WARNING_PREFIX } from "../../util/spoilers"
 import {
   protectSpoilerMetadata,
   SPOILER_READING_TEXT_KEY,
@@ -35,7 +35,10 @@ describe("protectSpoilerMetadata", () => {
     }
 
     protectSpoilerMetadata(data)
-    assert.equal(data.description, "Reveals the outcome of the current expedition.")
+    assert.equal(
+      data.description,
+      `${MDO_ARCHIVAL_WARNING_PREFIX} Reveals the outcome of the current expedition.`,
+    )
   })
 
   test("leaves ordinary pages unchanged", () => {
