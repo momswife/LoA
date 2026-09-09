@@ -1,23 +1,21 @@
-import type { Element, ElementContent, Root } from "hast"
+import type { Element, ElementContent, Root, RootContent } from "hast"
 import { QuartzTransformerPlugin } from "../types"
 
 const disclosureTitle = "MDO Archival Code — OOC — Review at Your Own Discretion"
 
-function elementText(node: ElementContent): string {
+function elementText(node: RootContent): string {
   if (node.type === "text") return node.value
   if ("children" in node) return node.children.map((child) => elementText(child)).join("")
   return ""
 }
 
-function isHeading(node: ElementContent, id: string): node is Element {
+function isHeading(node: RootContent, id: string): node is Element {
   return (
-    node.type === "element" &&
-    node.tagName === "h2" &&
-    String(node.properties?.id ?? "") === id
+    node.type === "element" && node.tagName === "h2" && String(node.properties?.id ?? "") === id
   )
 }
 
-function isRegistryAdvisory(node: ElementContent): boolean {
+function isRegistryAdvisory(node: RootContent): boolean {
   return (
     node.type === "element" &&
     node.tagName === "blockquote" &&
@@ -105,16 +103,21 @@ export function wrapLineageMechanics(tree: Root): boolean {
   }
   if (end < 0) end = tree.children.length
 
-  const content = tree.children.slice(start + 1, end)
+  const contentRange = tree.children.slice(start + 1, end)
+  const content = contentRange.filter((node): node is ElementContent => node.type !== "doctype")
   if (content.length === 0) return false
 
-  tree.children.splice(start + 1, content.length, disclosure(content))
+  tree.children.splice(start + 1, contentRange.length, disclosure(content))
   return true
 }
 
 export const LineageMechanicsDisclosure: QuartzTransformerPlugin = () => ({
   name: "LineageMechanicsDisclosure",
   htmlPlugins() {
-    return [() => (tree: Root) => wrapLineageMechanics(tree)]
+    return [
+      () => (tree: Root) => {
+        wrapLineageMechanics(tree)
+      },
+    ]
   },
 })

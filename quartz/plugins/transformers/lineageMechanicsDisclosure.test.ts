@@ -19,12 +19,22 @@ describe("wrapLineageMechanics", () => {
       children: [
         heading("viii-names", "VIII. Names"),
         heading("ix-dd-lineage-traits", "IX. D&D Lineage Traits"),
-        { type: "element", tagName: "p", properties: {}, children: [{ type: "text", value: "Creature Type: Humanoid" }] },
+        {
+          type: "element",
+          tagName: "p",
+          properties: {},
+          children: [{ type: "text", value: "Creature Type: Humanoid" }],
+        },
         heading("x-recognized-sublineages", "X. Recognized Sublineages"),
         heading("xi-homeland-imprints", "XI. Homeland Imprints"),
         heading("xii-playing-a-lineage", "XII. Playing a Lineage"),
         heading("xiii-registry-advisory", "XIII. Registry Advisory"),
-        { type: "element", tagName: "p", properties: {}, children: [{ type: "text", value: "Visible advisory" }] },
+        {
+          type: "element",
+          tagName: "p",
+          properties: {},
+          children: [{ type: "text", value: "Visible advisory" }],
+        },
       ],
     }
 
@@ -68,7 +78,10 @@ describe("wrapLineageMechanics", () => {
 
     const lineage: Root = {
       type: "root",
-      children: [heading("ix-dd-lineage-traits", "IX. D&D Lineage Traits"), { type: "text", value: "Rules" }],
+      children: [
+        heading("ix-dd-lineage-traits", "IX. D&D Lineage Traits"),
+        { type: "text", value: "Rules" },
+      ],
     }
     assert.equal(wrapLineageMechanics(lineage), true)
     assert.equal(wrapLineageMechanics(lineage), false)

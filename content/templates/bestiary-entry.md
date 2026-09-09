@@ -105,7 +105,7 @@ Include only attested local names, beliefs, customs, or scholarly disputes. Attr
 ## Evidence & Related Records
 
 > [!info] Evidence note
-> Identify which claims are direct observation, report, interpretation, or table-facing mechanics. Link to the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/01. Reading Bestiary Records|Bestiary Evidence Guide]].
+> Identify which claims are direct observation, report, interpretation, or table-facing mechanics. Link to the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/01. Bestiary Records|Bestiary Records]].
 
 - [Add only useful, existing related records.]
 

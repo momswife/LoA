@@ -21,7 +21,7 @@ Bestiary filing indicates how a subject is encountered and studied in the field.
 
 ## Reading the Records
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/01. Reading Bestiary Records|Reading Bestiary Records]] — distinguishes confirmed observation, reported behavior, interpretation, folklore, field guidance, and game mechanics.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/01. Bestiary Records|Bestiary Records]] — distinguishes confirmed observation, reported behavior, interpretation, folklore, field guidance, and game mechanics.
 
 ## I. Beasts & Fauna
 
