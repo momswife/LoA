@@ -1,4 +1,5 @@
 ---
+permalink: malarthain-stronghold-map
 title: Malarthain Stronghold Map
 description: A zoomable interactive map of Malarthain Stronghold for tracking locations as the current adventure unfolds.
 quartz-properties: false

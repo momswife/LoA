@@ -4,6 +4,7 @@ import { FilePath, FullSlug, resolveRelative, slugifyFilePath } from "../util/pa
 import { ContentMeta } from "../../.quartz/plugins/content-meta/dist/index.js"
 import style from "./styles/documentMasthead.scss"
 import { isSpoilerFrontmatter, SPOILER_READING_TEXT_KEY } from "../util/spoilers"
+import ShareLink from "./ShareLink"
 
 type Fact = {
   label: string
@@ -34,6 +35,7 @@ const ContentMetadata = ContentMeta({
   showReadingTime: true,
   showComma: true,
 }) as unknown as QuartzComponent
+const ArticleShareLink = ShareLink()
 
 function textValue(value: unknown): string | undefined {
   if (typeof value === "string" || typeof value === "number") return String(value)
@@ -158,18 +160,24 @@ export default (() => {
         data-status={textValue(frontmatter.status)?.toLowerCase().replaceAll(" ", "-")}
         data-record-type={recordType?.toLowerCase().replaceAll(" ", "-")}
       >
-        {(recordLabels.length > 0 || tags.length > 0) && (
-          <div class="document-masthead__badges" aria-label="Record labels and tags">
-            {recordLabels.map((label) => (
-              <span>{label}</span>
-            ))}
-            {tags.map((tag) => (
-              <a class="internal" href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}>
-                #{tag}
-              </a>
-            ))}
-          </div>
-        )}
+        <div class="document-masthead__toolbar">
+          {(recordLabels.length > 0 || tags.length > 0) && (
+            <div class="document-masthead__badges" aria-label="Record labels and tags">
+              {recordLabels.map((label) => (
+                <span>{label}</span>
+              ))}
+              {tags.map((tag) => (
+                <a
+                  class="internal"
+                  href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                >
+                  #{tag}
+                </a>
+              ))}
+            </div>
+          )}
+          <ArticleShareLink {...props} />
+        </div>
         <h1 class="article-title">{title}</h1>
         {epithet && <p class="document-masthead__epithet">{epithet}</p>}
         {summary && !isOverview && <p class="document-masthead__summary">{summary}</p>}
@@ -222,6 +230,7 @@ export default (() => {
     )
   }
 
-  DocumentMasthead.css = style
+  DocumentMasthead.css = [style, ArticleShareLink.css].flatMap((resource) => resource ?? [])
+  DocumentMasthead.afterDOMLoaded = ArticleShareLink.afterDOMLoaded
   return DocumentMasthead
 }) satisfies QuartzComponentConstructor

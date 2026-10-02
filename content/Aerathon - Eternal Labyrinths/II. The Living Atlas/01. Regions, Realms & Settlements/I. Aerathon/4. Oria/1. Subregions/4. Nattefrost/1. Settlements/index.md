@@ -19,3 +19,10 @@ tags: [atlas, sub-region, settlements]
 
 > [!warning] Northern closure
 > All settlement accounts here describe pre-cordon life. No current services or safe entry are confirmed. See [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/∅ Nattefrost|the Nattefrost cordon]].
+
+## Historical City Sites
+
+These are city subrecords, not separate settlements. Present access remains prohibited.
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/1. Settlements/01c. Archives of Frostguarde|Archives of Frostguarde]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/1. Settlements/01e. The Low Lantern|The Low Lantern]]

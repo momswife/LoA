@@ -175,6 +175,10 @@ body {
   text-wrap: balance;
 }
 
+.document-masthead .article-title {
+  margin: clamp(0.95rem, 2vw, 1.25rem) 0 clamp(0.8rem, 1.5vw, 1rem);
+}
+
 .content-meta {
   display: flex;
   width: fit-content;
@@ -845,6 +849,26 @@ ul.toc-content.overflow > li > a {
     color: var(--secondary);
     font-weight: 700;
     opacity: 1;
+  }
+}
+
+// The article title is depth 0; subsections beneath its main sections start at depth 2.
+ul.toc-content.overflow > li:is(.depth-2, .depth-3, .depth-4, .depth-5, .depth-6) > a {
+  position: relative;
+  padding-inline-start: 1.05rem;
+  font-size: 0.81rem;
+  font-weight: 400;
+
+  &::before {
+    content: "–";
+    position: absolute;
+    inset-inline-start: 0.25rem;
+    color: currentColor;
+    opacity: 0.65;
+  }
+
+  &.in-view {
+    font-weight: 500;
   }
 }
 

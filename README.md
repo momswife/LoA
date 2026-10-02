@@ -70,6 +70,25 @@ See `CONTENT_GUIDE.md` and `content/templates/` for current wiki conventions.
 
 For AI-assisted lore work, start with [LORE_MAP.md](LORE_MAP.md). It maps the archive sections and cross-section continuity checks without duplicating canon. This authoring guide lives outside the published content directory; local `AGENTS.md` guidance is also excluded by the site configuration.
 
+## Short Share Links
+
+Articles can declare a stable short address in their YAML frontmatter:
+
+```yaml
+permalink: hearthward-compact
+```
+
+This publishes `/LoA/hearthward-compact` as a redirect to the article's full address.
+The link icon at the article's upper right copies the short address and briefly turns into
+a checkmark, with a selectable text fallback when
+clipboard access is unavailable. The browser displays the full address after redirecting.
+
+Run `npm run links:assign` to assign readable, unique addresses to new articles. Existing
+addresses are preserved; drafts, encrypted/unlisted articles, and navigation pages are skipped.
+Keep `permalink` unchanged when renaming or moving an article. Choose a unique lowercase
+name containing letters, digits, and hyphens; builds reject collisions with other pages,
+aliases, short addresses, and folders. Existing long URLs remain unchanged by this feature.
+
 ## Quartz Attribution
 
 The static-site engine is derived from Quartz v4 by Jacky Zhao and remains under the MIT license. Keep `LICENSE.txt` and upstream attribution intact when modifying the vendored engine.

@@ -252,3 +252,9 @@ These are filed under Ancient Peoples & Civilizations because their defining ide
 
 > _“A name may cross three thousand years. Authority has to cross every life harmed in carrying it.”_  
 > — **Magistrate Talar Shellmark**
+
+## Later Historical Biographies
+
+The collection is principally pre-Labyrinth; later historical reconstructions are also retained when no verified present-day profile is available.
+
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/05. Figures, Institutions, Houses & Lineages/I. Figures, Sovereigns & Founders/07. Halric Stonewatch|Halric Stonewatch]] — Frostguarde’s northern field commander; final fate unconfirmed.

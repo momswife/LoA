@@ -18,6 +18,8 @@ Modern Aerathon does not divide magic neatly from technology. These records focu
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/I. Everyday Magic & Artifice/index|Everyday Magic & Artifice]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/II. Scrytech & Public Communication/index|Scrytech & Public Communication]]
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/III. Arcane Research & Observation/index|Arcane Research & Observation]]
+
 ## Connected Reference Shelves
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/04. Society, Economy & Everyday Life/index|Society, Economy & Everyday Life]] for work, trade, housing, care, and travel.

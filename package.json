@@ -25,6 +25,7 @@
     "wiki:check": "node ./scripts/wiki-check.mjs",
     "wiki:format": "node ./scripts/wiki-format.mjs",
     "wiki:format:check": "node ./scripts/wiki-format.mjs --check",
+    "links:assign": "tsx ./scripts/assign-share-links.ts",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },

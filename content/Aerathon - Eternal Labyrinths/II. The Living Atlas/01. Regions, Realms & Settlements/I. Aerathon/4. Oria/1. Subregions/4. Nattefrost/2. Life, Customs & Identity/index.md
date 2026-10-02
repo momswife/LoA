@@ -22,3 +22,10 @@ These practices belong to the communities and occupations described; they are no
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/∅ Nattefrost|Nattefrost Overview]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/4. Life, Customs & Identity/index|Life, Customs & Identity in Oria]]
+
+## Frostguarde’s Historical Practices
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/2. Life, Customs & Identity/01. The Northcall and Emberward Assembly|The Northcall and Emberward Assembly]] — warmth, assembly, and evacuation.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/IV. Faith Infrastructure, Politics & Dissent/04. The Concordant Spire|The Concordant Spire]] — shared worship and timekeeping.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/2. Life, Customs & Identity/02. Frostguarde’s Remembered Dead|Frostguarde’s Remembered Dead]] — civic memory and funerary offerings.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/1. Subregions/4. Nattefrost/1. Settlements/01e. The Low Lantern|The Low Lantern]] — an ordinary evening gathering place.

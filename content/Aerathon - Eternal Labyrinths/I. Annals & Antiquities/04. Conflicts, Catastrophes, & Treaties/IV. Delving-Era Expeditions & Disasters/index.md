@@ -16,3 +16,5 @@ This shelf records completed events from the Age of Delving and the Age of Spect
 ## Filed Events
 
 - [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/04. Conflicts, Catastrophes, & Treaties/IV. Delving-Era Expeditions & Disasters/01. The Cleansing Crusade & Red Horn Memorial|The Cleansing Crusade & Red Horn Memorial]] — the failed 3342 expedition into Monster Meadows, its eighty-seven confirmed deaths, and its place in the memory of the perimeter communities.
+
+- [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/04. Conflicts, Catastrophes, & Treaties/IV. Delving-Era Expeditions & Disasters/02. The Night the Northern Wall Broke|The Night the Northern Wall Broke]] — undated assault reconstruction; final outcome and relationship to the cordon unresolved.
