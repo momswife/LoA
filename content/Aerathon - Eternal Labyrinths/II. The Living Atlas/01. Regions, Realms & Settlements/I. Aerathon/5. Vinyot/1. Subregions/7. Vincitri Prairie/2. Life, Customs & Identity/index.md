@@ -1,15 +1,23 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Vincitri Prairie.
+description: Localized working practices and the limits of shared identity in
+  Vincitri Prairie.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Vincitri Prairie
 
-Current filings do not yet establish customs shared across this entire subregion. Vinyoti practices involving contracts, schedules, work, sponsorship, and public reputation may provide useful lines of inquiry, but they should not be treated as uniform without local testimony; corporate, municipal, household, and informal community life may differ sharply.
+## Local Practice
+
+Carters working through Arloris keep a small separate tally for delays caused by common repairs. Workers clearing a damaged approach should not lose their whole day’s wages because the same delay prevented delivery. Merchants contest the size of that allowance; the argument is ordinary and unresolved, not a general rejection of contracts.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

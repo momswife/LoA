@@ -12,7 +12,7 @@
 **Registry Scope:** Terrestrial Kinships, Recognized Lineages, and Cultural Identity  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage and Individual Capability  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 ---
 
@@ -451,7 +451,7 @@ It does not provide a destiny.
 **Legal Consultation:** Civil Recognition and Treaty Review Office  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 — Unauthorized lineage assignment, ancestral sampling, or compulsory Mark-of-Breath registration constitutes a protected-rights violation under Ministry charter.
 

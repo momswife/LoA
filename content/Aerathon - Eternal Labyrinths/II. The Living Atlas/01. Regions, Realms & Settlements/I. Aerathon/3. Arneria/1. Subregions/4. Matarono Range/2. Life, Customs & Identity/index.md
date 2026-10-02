@@ -1,15 +1,23 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Matarono Range.
+description: Localized working practices and the limits of shared identity in
+  Matarono Range.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Matarono Range
 
-Current filings do not yet establish customs shared across this entire subregion. Arnerian practices surrounding oaths, water, witness, and public obligation may provide useful lines of inquiry, but they should not be projected here without local testimony; jurisdiction, settlement, and access to scarce resources can change their meaning.
+## Local Practice
+
+Caravan workers exchange accounts of damaged gear at the end of a mountain journey. A parted rope or cracked fastening is kept until the next crew has inspected it. The custom distinguishes a witnessed failure from a rumor about the entire route. It concerns traveling companies and does not establish one authority over the range.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

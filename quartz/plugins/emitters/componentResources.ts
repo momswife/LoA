@@ -2,9 +2,9 @@ import { createHash } from "crypto"
 import { FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
-// @ts-ignore
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import spaRouterScript from "../../components/scripts/spa.inline"
-// @ts-ignore
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import popoverScript from "../../components/scripts/popover.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"

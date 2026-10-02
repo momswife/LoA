@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Kandela.
+description: Localized working practices and the limits of shared identity in Kandela.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Kandela
 
-Current filings do not yet establish customs shared across this entire subregion. Al'Ari practices of crew belonging, harbor obligation, hospitality during scarcity, and safe return may provide useful lines of inquiry, but they should not be assigned here without local testimony; settlements, islands, and working communities may observe them differently or not at all.
+## Local Practice
+
+In Tempestat’s working households, a spare portion is set aside for the person whose watch runs late. It is served when they return rather than used to test whether they arrived at the proper hour. Neighbors argue over who ought to contribute when repeated delays become an employer’s habit. Hospitality does not settle the question of unpaid labor.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

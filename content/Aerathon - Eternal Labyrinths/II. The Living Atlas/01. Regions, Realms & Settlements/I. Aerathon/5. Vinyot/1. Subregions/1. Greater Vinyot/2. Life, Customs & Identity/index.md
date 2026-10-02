@@ -15,3 +15,5 @@ This register is reserved for practices shared across the general territory but 
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/1. Greater Vinyot/∅ Greater Vinyot|Greater Vinyot Overview]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/4. Life, Customs & Identity/index|Life, Customs & Identity in Vinyot]]
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/1. Greater Vinyot/1. Settlements/04. Pristana|Pristana]] — Repair tallies and local berth access.

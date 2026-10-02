@@ -15,3 +15,7 @@ This register is reserved for practices shared across the general territory but 
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/∅ Greater Allemance|Greater Allemance Overview]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/4. Life, Customs & Identity/index|Life, Customs & Identity in Allemance]]
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/06. Granfield|Granfield]] — Communal weighing and grain-store work.
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/04. Bristle Inn|Bristle Inn]] — Separating paid work from neighborly help.

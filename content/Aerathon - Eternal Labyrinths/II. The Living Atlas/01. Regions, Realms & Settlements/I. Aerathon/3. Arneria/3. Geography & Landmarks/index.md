@@ -59,3 +59,7 @@ These civic locations remain on the settlement shelf rather than being duplicate
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/4. Matarono Range/1. Settlements/01. Duyan Vale|Duyan Vale]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/4. Matarono Range/1. Settlements/02. The Tugatore|The Tugatore]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/6. Beylik/1. Settlements/04. The Sandstair|The Sandstair]]
+
+## Cross-Regional Weather
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/39. Tempestrise|Tempestrise]] — outer weather reaches the Arnerian approaches; the permanent storm core is filed under Vinyot.

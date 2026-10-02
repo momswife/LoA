@@ -12,6 +12,8 @@ tags:
 
 # Broadcasts, Audiences & Sponsorship
 
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/05. The Meadow Circuit|Meadow Circuit]] covers the major tournament program outside Monster Meadows: live-monster contests, veteran exhibitions, and holo-station events that fund the Hearthward Compact's defense work.
+
 These records describe the spectacle economy and its legal limits. Any broadcast-specific treatment of an N-Class team remains subordinate to the shared [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/10. N-Class Protocol|N-Class Protocol]].
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/∅ Delving in the Age of Spectacle|Delving in the Age of Spectacle]]

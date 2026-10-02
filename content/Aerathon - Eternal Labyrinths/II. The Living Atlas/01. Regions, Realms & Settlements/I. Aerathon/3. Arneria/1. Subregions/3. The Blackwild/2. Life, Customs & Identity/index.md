@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within The Blackwild.
+description: Localized working practices and the limits of shared identity in The Blackwild.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in The Blackwild
 
-Current filings do not yet establish customs shared across this entire subregion. Arnerian practices surrounding oaths, water, witness, and public obligation may provide useful lines of inquiry, but they should not be projected here without local testimony; jurisdiction, settlement, and access to scarce resources can change their meaning.
+## Local Practice
+
+The relevant public practice belongs to those maintaining the perimeter, not to an imagined common life inside the forest. Relief crews repeat the last authenticated route instruction aloud before taking a watch. A welcoming light or familiar voice beyond the boundary does not amend it. Gifts left for missing people remain on the safe side; no vigil is permission to enter.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

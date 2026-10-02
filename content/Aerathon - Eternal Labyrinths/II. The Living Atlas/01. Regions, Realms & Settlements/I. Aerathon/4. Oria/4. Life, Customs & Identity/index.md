@@ -39,3 +39,7 @@ Future records belong here when they concern Oric belonging, household practice,
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/2. Settlements/index|Settlements of Oria]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/4. Oria/3. Geography & Landmarks/index|Geography & Landmarks of Oria]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/04. Regional Politics of Oria|Regional Politics of Oria]]
+
+## Variation Within the Region
+
+Regional patterns are starting points, not uniform identities. Household, occupation, settlement, and circumstance shape their expression. Consult the subregional life registers for local practices and their limits; no regional custom is an innate lineage trait.

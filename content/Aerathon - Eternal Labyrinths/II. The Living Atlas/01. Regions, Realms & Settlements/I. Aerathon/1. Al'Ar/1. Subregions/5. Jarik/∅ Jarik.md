@@ -18,7 +18,7 @@ facts:
 
 ## II. Current Assessment
 
-The rest of Jarik remains underdescribed. Future work should establish settlements, coastline, governance, ecology, safe approaches, and how the Caves affect local travel.
+[[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/5. Jarik/1. Settlements/01. Kyry|Kyry]] is the maintained town record for Jarik. The island's wider settlement pattern, coastline, and safe approaches remain underdescribed. Passage to its town does not authorize entry into the Kasho'ta Caves.
 
 ## Browse the Subregion
 

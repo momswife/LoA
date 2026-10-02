@@ -14,7 +14,7 @@ tags: [atlas, sub-region, settlements]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/03. Dermad|Dermad]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/04. Domeall|Domeall]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/05. Gocaire|Gocaire]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/06. MadroIleán|MadroIleán]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/06. MadroIleán|MadroIleán]] — A Glasrún island community sharing landing maintenance and boat access.
 
 ## Browse
 

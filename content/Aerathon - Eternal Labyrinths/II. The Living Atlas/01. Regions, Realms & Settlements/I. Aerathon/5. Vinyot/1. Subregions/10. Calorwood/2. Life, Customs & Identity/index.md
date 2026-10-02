@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Calorwood.
+description: Localized working practices and the limits of shared identity in Calorwood.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Calorwood
 
-Current filings do not yet establish customs shared across this entire subregion. Vinyoti practices involving contracts, schedules, work, sponsorship, and public reputation may provide useful lines of inquiry, but they should not be treated as uniform without local testimony; corporate, municipal, household, and informal community life may differ sharply.
+## Local Practice
+
+Repair crews in Porta Strega and Porta Ventura commonly show the replaced fitting beside the new one before asking for final payment. The customer can see what failed, while the worker can explain what the repair does not promise. Cheap substitutions become a matter for discussion rather than something hidden beneath fresh paint.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

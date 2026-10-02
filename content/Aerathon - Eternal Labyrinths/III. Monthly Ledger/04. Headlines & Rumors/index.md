@@ -3,12 +3,14 @@ title: Headlines & Rumors
 description: Official statements, circulating claims, and reports awaiting verification.
 quartz-properties: false
 recordType: Ledger Category
-status: Open for Filing
+status: Active Index
 tags:
   - ledger
   - rumors
 ---
 
-> _No current headlines or rumors have been filed._
 
-Public claims and developing reports will appear here as they enter the Monthly Ledger.
+
+## Current Filings
+
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/04. Headlines & Rumors/01. Disputed Approach at Lantern Bay|Disputed Approach at Lantern Bay]]

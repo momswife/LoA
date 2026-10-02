@@ -3,12 +3,14 @@ title: Market Rotations
 description: Notable shifts in supply, demand, availability, and artifact valuation.
 quartz-properties: false
 recordType: Ledger Category
-status: Open for Filing
+status: Active Index
 tags:
   - ledger
   - markets
 ---
 
-> _No current market rotations have been filed._
 
-Market changes and valuation notices will appear here as they enter the Monthly Ledger.
+
+## Current Filings
+
+- [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/05. Market Rotations/01. Granfield Storehouse Repair Work|Granfield Storehouse Repair Work]]

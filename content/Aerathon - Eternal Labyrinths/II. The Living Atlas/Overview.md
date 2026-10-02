@@ -44,3 +44,4 @@ Where only an older filing date survives, treat it as provenance while the subje
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/index|Delving, Guilds & the Spectacle]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/index|Bestiary & Field Phenomena]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/index|Organizations, Companies & Associations]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/index|Notable Figures]] — important people outside professional delving, grouped by their principal public role.

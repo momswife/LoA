@@ -45,3 +45,8 @@ This is the current consolidated register of the organizations filed in this she
 ## Special Status — Not Assigned a Guild Class
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/1. Guild Registry/06. Cinderpaw Pact|The Cinderpaw Pact]] — a non-chartered sovereign delver entity recognized under a conditional non-aggression decree. Its field capacity does not itself make it an A-Class charter guild.
+
+
+## Institutional Life
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/1. Guild Registry/01a. First Swords at the Hall of Orientation|First Swords at the Hall of Orientation]] — Free Company intake customs, placement, and the first night before assessment.

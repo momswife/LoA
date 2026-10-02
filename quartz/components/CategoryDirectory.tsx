@@ -4,7 +4,7 @@ import { FileTrieNode } from "../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 import style from "./styles/categoryDirectory.scss"
 
-// @ts-ignore
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import script from "./scripts/categoryDirectory.inline"
 
 type DirectoryNode = FileTrieNode<BuildTimeTrieData>

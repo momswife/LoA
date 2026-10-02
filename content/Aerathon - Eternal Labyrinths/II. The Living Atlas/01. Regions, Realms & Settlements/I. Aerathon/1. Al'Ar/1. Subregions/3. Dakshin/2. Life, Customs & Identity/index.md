@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Dakshin.
+description: Localized working practices and the limits of shared identity in Dakshin.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Dakshin
 
-Current filings do not yet establish customs shared across this entire subregion. Al'Ari practices of crew belonging, harbor obligation, hospitality during scarcity, and safe return may provide useful lines of inquiry, but they should not be assigned here without local testimony; settlements, islands, and working communities may observe them differently or not at all.
+## Local Practice
+
+Crews making temporary landfall on Dakshin keep arrival and departure marks beside their own stores rather than cutting permanent claims into the shore. Borrowed equipment is left with a note naming the next intended recipient. These are visiting crews’ practices; they establish neither a settled island population nor ownership of an anchorage.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

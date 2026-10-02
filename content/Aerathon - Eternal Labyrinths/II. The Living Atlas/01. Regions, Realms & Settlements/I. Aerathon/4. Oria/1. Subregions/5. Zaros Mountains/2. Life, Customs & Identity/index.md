@@ -1,15 +1,23 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Zaros Mountains.
+description: Localized working practices and the limits of shared identity in
+  Zaros Mountains.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Zaros Mountains
 
-Current filings do not yet establish customs shared across this entire subregion. Oric practices of House affiliation, service, repair, and demonstrated competence may provide useful lines of inquiry, but they should not be assigned here without local testimony; House, settlement, and occupation may each produce distinct forms of belonging.
+## Local Practice
+
+Crews carrying goods between mountain settlements exchange damaged packing and worn harness at the receiving yard, so the next departure begins with the last journey’s evidence. It is courteous to report a delay before offering an excuse. This working practice does not make every House or harbor share the same discipline.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

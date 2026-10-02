@@ -20,7 +20,7 @@ tags:
 
 # Conflicts, Catastrophes, & Treaties
 
-### _The Events That Broke, Bound, and Remade the Pre-Labyrinth World_
+### _The Events That Broke, Bound, and Remade Aerathon_
 
 **Filed Division:** Ministry of Delving Operations — Annals & Antiquities  
 **Responsible Office:** Historical Reconstruction Bureau  
@@ -30,7 +30,7 @@ tags:
 **Current Revision:** 3388 A.D., Age of Spectacle  
 **Document Class:** _Historical Events Index / Reconstructed Historical Record_
 **Primary Evidence:** era chronologies, military ledgers, treaties, civic archives, oral histories, damaged registries, environmental signatures, ruins, relic provenance, and later reconstruction  
-**Historical Scope:** Event-level records principally concerning the world before widespread Labyrinth emergence
+**Historical Scope:** Event-level records of ancient conflicts and later expeditions, disasters, and settlements
 
 ---
 
@@ -38,7 +38,7 @@ tags:
 
 This archive answers one question:
 
-> **What happened between Aerathon’s ancient peoples, and what changed because of it?**
+> **What happened, who was affected, and what changed because of it?**
 
 The surrounding divisions answer different questions.
 
@@ -49,7 +49,7 @@ The surrounding divisions answer different questions.
 
 Section 04 owns the event itself: cause, participants, sequence, experience, settlement, consequence, and disputed interpretation.
 
-Its records concern wars, campaigns, rebellions, purges, civil conflicts, industrial disasters, systemic collapses, treaties, concords, decrees, and political settlements. Most subjects originated before the first true Labyrinths. Later history appears only where necessary to distinguish an ancient event from a post-Labyrinth revival or consequence.
+Its records concern wars, campaigns, rebellions, purges, civil conflicts, industrial disasters, systemic collapses, treaties, concords, decrees, and political settlements. Most existing subjects originated before the first true Labyrinths. Completed events from the Age of Delving and the Age of Spectacle are also filed here when they warrant historical treatment; their current consequences remain linked to the Living Atlas.
 
 The [[The War of Two Heavens|War of Two Heavens]] and [[The Quiet Edict|Quiet Edict]] remain within Section 01 because they established the metaphysical conditions of later reality. They are foundational events as well as conflicts. This index links to them without duplicating their full records.
 
@@ -229,6 +229,10 @@ It is to understand what the peace required people to accept.
 - [[The Concord of Flame]]
 - [[The Treaty of Breath & Beast]]
 - [[The Ash Accords]]
+
+### IV. Delving-Era Expeditions & Disasters
+
+The later expedition shelf is [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/04. Conflicts, Catastrophes, & Treaties/IV. Delving-Era Expeditions & Disasters/index|IV. Delving-Era Expeditions & Disasters]]. Its first record is [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/04. Conflicts, Catastrophes, & Treaties/IV. Delving-Era Expeditions & Disasters/01. The Cleansing Crusade & Red Horn Memorial|The Cleansing Crusade & Red Horn Memorial]], concerning the failed 3342 expedition at Monster Meadows.
 
 ### Foundational Events Filed Elsewhere
 

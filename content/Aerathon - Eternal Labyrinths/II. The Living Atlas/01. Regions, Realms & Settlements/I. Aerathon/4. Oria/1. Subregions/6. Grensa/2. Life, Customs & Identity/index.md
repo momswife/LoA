@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Grensa.
+description: Localized working practices and the limits of shared identity in Grensa.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Grensa
 
-Current filings do not yet establish customs shared across this entire subregion. Oric practices of House affiliation, service, repair, and demonstrated competence may provide useful lines of inquiry, but they should not be assigned here without local testimony; House, settlement, and occupation may each produce distinct forms of belonging.
+## Local Practice
+
+Jegervalt’s working parties rotate the task of checking communal tools before departure. The newest member may point out a cracked handle without challenging the senior worker’s authority. A replacement is charged to the common equipment account unless deliberate damage is established; ordinary wear is not treated as a moral failing.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

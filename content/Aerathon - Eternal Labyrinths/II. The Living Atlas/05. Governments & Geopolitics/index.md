@@ -22,4 +22,6 @@ This branch distinguishes the institutions that claim public authority from anal
 
 ## Connected Records
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/index|Notable Figures]] is the home for personal biographies of contemporary rulers, officials, and other important non-delvers. Government and office records remain here.
+
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/index|Organizations, Companies & Associations]] records bodies that influence public life without themselves constituting a government or continental authority.

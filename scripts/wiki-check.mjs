@@ -2,6 +2,7 @@ import fs from "node:fs/promises"
 import path from "node:path"
 import process from "node:process"
 import { parse as parseYaml } from "yaml"
+import { checkCalendar, checkRankMetadata, checkTableHeaders } from "./wiki-standards.mjs"
 
 const repoRoot = process.cwd()
 const contentRoot = path.join(repoRoot, "content")
@@ -32,7 +33,7 @@ async function walk(directory) {
   const files = []
 
   for (const entry of entries) {
-    if (entry.name === ".obsidian") continue
+    if (entry.name === ".obsidian" || entry.name === "AGENTS.md") continue
     const absolute = path.join(directory, entry.name)
     if (entry.isDirectory()) files.push(...(await walk(absolute)))
     else files.push(absolute)
@@ -85,13 +86,18 @@ function uniqueRecords(records) {
 function splitWikiTarget(rawTarget) {
   const unescaped = rawTarget.replace(/\\\|/gu, "|").replace(/\\#/gu, "#")
   const visibleSeparator = unescaped.indexOf("|")
-  const address = (visibleSeparator === -1 ? unescaped : unescaped.slice(0, visibleSeparator)).trim()
+  const address = (
+    visibleSeparator === -1 ? unescaped : unescaped.slice(0, visibleSeparator)
+  ).trim()
   const headingAt = address.indexOf("#")
 
   if (headingAt === -1) return { target: address, heading: "" }
   return {
     target: address.slice(0, headingAt).trim(),
-    heading: address.slice(headingAt + 1).split("^")[0].trim(),
+    heading: address
+      .slice(headingAt + 1)
+      .split("^")[0]
+      .trim(),
   }
 }
 
@@ -135,8 +141,8 @@ function resolveWikiTarget(source, rawTarget, indexes) {
 
   if (!decoded.includes("/")) {
     const baseKey = normalizeName(withoutExtension(decoded))
-    matches.push(...(indexes.byBasename.get(baseKey) ?? []) )
-    matches.push(...(indexes.byName.get(baseKey) ?? []) )
+    matches.push(...(indexes.byBasename.get(baseKey) ?? []))
+    matches.push(...(indexes.byName.get(baseKey) ?? []))
   }
 
   return { records: uniqueRecords(matches), heading }
@@ -205,14 +211,25 @@ for (const absolute of allAbsoluteFiles) {
     if (frontmatter.error) errors.push(`Invalid frontmatter: ${frontmatter.error}`)
 
     const metadata = frontmatter.data
+    if (metadata.draft !== true) {
+      errors.push(...checkCalendar(text).map((issue) => `Calendar: ${vaultRelative}:${issue}`))
+      errors.push(...checkRankMetadata(metadata).map((issue) => `Rank: ${vaultRelative}: ${issue}`))
+      errors.push(
+        ...checkTableHeaders(frontmatter.body).map((issue) => `Table: ${vaultRelative}: ${issue}`),
+      )
+    }
     if ("title" in metadata && typeof metadata.title !== "string") {
       errors.push(`Invalid frontmatter type: ${vaultRelative} -> title must be a string`)
     }
     if ("aliases" in metadata && !isStringOrStringList(metadata.aliases)) {
-      errors.push(`Invalid frontmatter type: ${vaultRelative} -> aliases must be a string or string list`)
+      errors.push(
+        `Invalid frontmatter type: ${vaultRelative} -> aliases must be a string or string list`,
+      )
     }
     if ("tags" in metadata && !isStringOrStringList(metadata.tags)) {
-      errors.push(`Invalid frontmatter type: ${vaultRelative} -> tags must be a string or string list`)
+      errors.push(
+        `Invalid frontmatter type: ${vaultRelative} -> tags must be a string or string list`,
+      )
     }
     if ("draft" in metadata && typeof metadata.draft !== "boolean") {
       errors.push(`Invalid frontmatter type: ${vaultRelative} -> draft must be a boolean`)
@@ -228,7 +245,9 @@ for (const absolute of allAbsoluteFiles) {
     }
     if (
       "facts" in metadata &&
-      (typeof metadata.facts !== "object" || metadata.facts === null || Array.isArray(metadata.facts))
+      (typeof metadata.facts !== "object" ||
+        metadata.facts === null ||
+        Array.isArray(metadata.facts))
     ) {
       errors.push(`Invalid frontmatter type: ${vaultRelative} -> facts must be a mapping`)
     }
@@ -250,9 +269,9 @@ for (const absolute of allAbsoluteFiles) {
     const h2Headings = [...record.scanBody.matchAll(/^##\s+(?!#)(.+)$/gmu)].map((match) =>
       normalizeName(stripHeadingMarkup(match[1])),
     )
-    const duplicateH2Headings = [...new Set(h2Headings.filter((heading, index) =>
-      h2Headings.indexOf(heading) !== index,
-    ))]
+    const duplicateH2Headings = [
+      ...new Set(h2Headings.filter((heading, index) => h2Headings.indexOf(heading) !== index)),
+    ]
     for (const heading of duplicateH2Headings) {
       errors.push(`Duplicate H2 heading: ${vaultRelative} -> ${heading}`)
     }
@@ -271,10 +290,13 @@ for (const absolute of allAbsoluteFiles) {
       while (
         next < bodyLines.length &&
         (bodyLines[next].trim() === "" || bodyLines[next].trim() === "---")
-      ) next += 1
+      )
+        next += 1
       const nextHeading = next < bodyLines.length ? bodyLines[next].match(/^(#{1,6})\s+/u) : null
       if (next >= bodyLines.length || (nextHeading && nextHeading[1].length <= heading[1].length)) {
-        errors.push(`Empty heading section: ${vaultRelative}:${index + 1} -> ${stripHeadingMarkup(heading[2])}`)
+        errors.push(
+          `Empty heading section: ${vaultRelative}:${index + 1} -> ${stripHeadingMarkup(heading[2])}`,
+        )
       }
     }
 
@@ -293,10 +315,9 @@ for (const absolute of allAbsoluteFiles) {
     }
     if (h1Headings.length > 1) errors.push(`Multiple H1 headings: ${vaultRelative}`)
 
-    const prose = frontmatter.body
-      .replace(/<!--[\s\S]*?-->/gu, "")
-      .replace(/\s/gu, "")
-    if (prose.length === 0 && !isDraft) errors.push(`Empty published Markdown file: ${vaultRelative}`)
+    const prose = frontmatter.body.replace(/<!--[\s\S]*?-->/gu, "").replace(/\s/gu, "")
+    if (prose.length === 0 && !isDraft)
+      errors.push(`Empty published Markdown file: ${vaultRelative}`)
 
     const isPlayableLineage =
       vaultRelative.includes("/People & Culture/People/") &&
@@ -319,7 +340,9 @@ for (const absolute of allAbsoluteFiles) {
       }
 
       if (!/^## X\. Recognized .+$/mu.test(record.scanBody)) {
-        errors.push(`Incomplete lineage schema: ${vaultRelative} -> missing recognized lineage tradition`)
+        errors.push(
+          `Incomplete lineage schema: ${vaultRelative} -> missing recognized lineage tradition`,
+        )
       }
 
       const lineageTraits = record.scanBody.match(
@@ -363,7 +386,11 @@ for (const record of records) {
   addToMap(indexes.byContentPath, record.contentRelative, record)
   addToMap(indexes.byVaultPath, record.vaultRelative, record)
   addToMap(indexes.byBasename, record.basename, record)
-  addToMap(indexes.byName, record.basename.replace(/^(?:(?:\d+|[IVXLCDM]+)\.\s+|∅\s+)/u, ""), record)
+  addToMap(
+    indexes.byName,
+    record.basename.replace(/^(?:(?:\d+|[IVXLCDM]+)\.\s+|∅\s+)/u, ""),
+    record,
+  )
   addToMap(indexes.byName, record.title, record)
   for (const alias of record.aliases) addToMap(indexes.byName, alias, record)
 }
@@ -419,7 +446,8 @@ for (const record of records.filter((item) => item.extension === ".md")) {
 }
 
 for (const target of allowlistedLinks) {
-  if (!usedAllowlistedLinks.has(target)) warnings.push(`Unused unwritten-link allowlist entry: ${target}`)
+  if (!usedAllowlistedLinks.has(target))
+    warnings.push(`Unused unwritten-link allowlist entry: ${target}`)
 }
 
 const coverage = new Map()

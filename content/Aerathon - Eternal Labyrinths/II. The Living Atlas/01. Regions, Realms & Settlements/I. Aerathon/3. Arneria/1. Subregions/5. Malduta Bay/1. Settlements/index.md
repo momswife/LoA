@@ -10,7 +10,7 @@ tags: [atlas, sub-region, settlements]
 # Settlements of Malduta Bay
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/5. Malduta Bay/1. Settlements/01. Far'soro|Far'soro]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/5. Malduta Bay/1. Settlements/02. Lantern Bay|Lantern Bay]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/3. Arneria/1. Subregions/5. Malduta Bay/1. Settlements/02. Lantern Bay|Lantern Bay]] — A Malduta Bay harbor supported by fishing, pilotage, and household shore lights.
 
 ## Browse
 

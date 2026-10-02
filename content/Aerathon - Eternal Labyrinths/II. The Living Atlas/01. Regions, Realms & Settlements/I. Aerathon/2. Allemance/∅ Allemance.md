@@ -26,7 +26,7 @@ facts:
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
 **Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Cultural Memory)<br>
 **Advisory Editors:** **Lt. Salvia Korrin** (Arcane Scrivener, Field Verification), **Magistrate Talar Shellmark** (Charter Counsel)<br>
-**Original Filing:** **3rd Cycle, 3099 A.D.**<br>
+**Original Filing:** **Embermarch, 3099 A.D. (Span unrecorded)**<br>
 **Current Revision:** Late Redfall, 3388 A.D.\
 **Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
 **Research Status:** _Current Reference_<br>
@@ -177,7 +177,7 @@ Current registry priorities are to distinguish living offices from purely histor
 **Access Designation:** _Public_<br>
 **Revision State:** _Revised to the Seventh Editorial Standard_<br>
 **Primary Compiler:** **Archivist Yelna Stonevoice**<br>
-**Date of Original Filing:** **3rd Cycle, 3099 A.D.**
+**Date of Original Filing:** **Embermarch, 3099 A.D. (Span unrecorded)**
 
 — This overview supersedes summaries that classify Allemance as a unitary republic or an actively ruled monarchy.
 

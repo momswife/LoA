@@ -1,15 +1,23 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Bey's Head Mountains.
+description: Localized working practices and the limits of shared identity in
+  Bey's Head Mountains.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Bey's Head Mountains
 
-Current filings do not yet establish customs shared across this entire subregion. Arnerian practices surrounding oaths, water, witness, and public obligation may provide useful lines of inquiry, but they should not be projected here without local testimony; jurisdiction, settlement, and access to scarce resources can change their meaning.
+## Local Practice
+
+Mining carriers distinguish a delivered load from an accepted load. The receiving worker inspects it before adding their mark, and an argument over quality is kept separate from the driver’s receipt for transport. At Kavrama this distinction matters particularly where settlement work and the nearby Xavrama Mines are being mistaken for a single employer.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

@@ -30,7 +30,7 @@ facts:
 
 ## II. Setting & Boundaries
 
-Future work should record channels, wetlands, settlements, navigation, fisheries, seasonal flooding, and the bay's relationship to the Tempestrise.
+The bay lies on the Arnerian approaches reached by the outer weather of [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/39. Tempestrise|the Tempestrise]]. Its changing storm exposure does not place it inside Vinyot or in the storm's permanent core. Channel surveys, seasonal flooding, and shoreline boundaries remain incomplete.
 
 ## III. Historical or Local Character
 

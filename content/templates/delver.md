@@ -10,6 +10,7 @@ classification:
 revision:
 facts:
   Rank:
+  Level (OOC):
   Affiliation:
   Current Status:
 draft: true
@@ -18,6 +19,7 @@ draft: true
 # [Page Title]
 
 <!-- Remove sections that do not serve this subject before publishing. -->
+<!-- Personal ranks: D-Rank levels 1–4; C-Rank 5–10; B-Rank 11–15; A-Rank 16–19; S-Rank 20. Keep rank separate from current license, guild class, and site tier. Lost/retired records preserve the highest documented rank. -->
 
 **Filed Division:** _Ministry of Delving Operations - Delver Registry_  
 **Primary Compiler:**  

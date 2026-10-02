@@ -39,3 +39,7 @@ Future records belong here when they concern Vinyoti household life, work cultur
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/2. Settlements/index|Settlements of Vinyot]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/3. Geography & Landmarks/index|Geography & Landmarks of Vinyot]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/05. Regional Politics of Vinyot|Regional Politics of Vinyot]]
+
+## Variation Within the Region
+
+Regional patterns are starting points, not uniform identities. Household, occupation, settlement, and circumstance shape their expression. Consult the subregional life registers for local practices and their limits; no regional custom is an innate lineage trait.

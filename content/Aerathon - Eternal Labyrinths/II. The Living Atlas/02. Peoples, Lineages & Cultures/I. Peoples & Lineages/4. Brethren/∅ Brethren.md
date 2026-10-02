@@ -14,7 +14,7 @@
 **Delver Eligibility:** Unrestricted  
 **Living Lineages:** [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/10. Human|Human]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/04. Elves|Elf]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/02. Dwarf|Dwarf]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/05. Gnome|Gnome]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/08. Halfling|Halfling]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/07. Goliath|Goliath]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/11. Orc|Orc]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/09. Half-Orc|Half-Orc]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/06. Goblinoid|Goblinoid]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/12. Tiefling|Tiefling]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/01. Aasimar|Aasimar]], and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/4. Brethren/03. Elementborn|Elementborn]]  
 **Historical Reference:** [[∅ Brethren Peoples & Traditions|Brethren Peoples & Traditions]]  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 ---
 
@@ -311,7 +311,7 @@ It does not dictate personality.
 **Historical Consultation:** Historical Reconstruction Bureau  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Historian Merrow Vey, Researcher Falyn Onarra  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 — Brethren ancestry grants no priority of citizenship, relic ownership, institutional office, or cultural authority under Ministry charter.
 

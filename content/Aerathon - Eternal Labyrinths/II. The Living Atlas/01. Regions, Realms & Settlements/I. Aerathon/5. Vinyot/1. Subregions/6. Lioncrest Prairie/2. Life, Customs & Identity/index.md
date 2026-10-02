@@ -1,15 +1,23 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Lioncrest Prairie.
+description: Localized working practices and the limits of shared identity in
+  Lioncrest Prairie.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Lioncrest Prairie
 
-Current filings do not yet establish customs shared across this entire subregion. Vinyoti practices involving contracts, schedules, work, sponsorship, and public reputation may provide useful lines of inquiry, but they should not be treated as uniform without local testimony; corporate, municipal, household, and informal community life may differ sharply.
+## Local Practice
+
+Traveling camps separate their common water and repair stores from goods held for sale. A guest can see what is available before bargaining, and an emergency contribution is entered as such rather than quietly converted into a purchase. These practices describe mobile companies; the register does not assign a single settled prairie government.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

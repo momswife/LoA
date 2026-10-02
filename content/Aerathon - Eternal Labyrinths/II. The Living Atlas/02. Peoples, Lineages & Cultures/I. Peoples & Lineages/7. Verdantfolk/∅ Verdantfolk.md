@@ -180,7 +180,7 @@ Verdant identity offers unusual embodiments and histories, not assigned temperam
 **Registry Division:** Peoples, Lineages, and Cultural Recognition  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Researcher Falyn Onarra, Lt. Salvia Korrin  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 — A living landscape may be home, relative, or citizen. None of those words means property.
 

@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Jarik.
+description: Localized working practices and the limits of shared identity in Jarik.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Jarik
 
-Current filings do not yet establish customs shared across this entire subregion. Al'Ari practices of crew belonging, harbor obligation, hospitality during scarcity, and safe return may provide useful lines of inquiry, but they should not be assigned here without local testimony; settlements, islands, and working communities may observe them differently or not at all.
+## Local Practice
+
+Kyry’s departure board records the boat, travelers, destination, and expected return. Families treat correcting that board as useful work rather than a confession that plans failed. Passage to Jarik and a guided visit to the Kasho’ta Caves are recorded separately; paying for one does not quietly purchase the other.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

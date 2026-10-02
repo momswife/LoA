@@ -18,6 +18,10 @@ facts:
   Outcome:
   Reliability:
   Filing Office:
+  # For ranked missions only; omit for other notices.
+  Mission Rank:
+  Recommended Levels:
+  Team Requirements:
 draft: true
 ---
 

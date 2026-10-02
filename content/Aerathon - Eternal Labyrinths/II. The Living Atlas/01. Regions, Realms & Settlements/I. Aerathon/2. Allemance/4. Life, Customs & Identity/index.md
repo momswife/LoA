@@ -39,3 +39,7 @@ Future records belong here when they concern Allemance's regional and local cust
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/2. Settlements/index|Settlements of Allemance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/3. Geography & Landmarks/index|Geography & Landmarks of Allemance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/II. Regional Governments & Politics/02. Regional Politics of Allemance|Regional Politics of Allemance]]
+
+## Variation Within the Region
+
+Regional patterns are starting points, not uniform identities. Household, occupation, settlement, and circumstance shape their expression. Consult the subregional life registers for local practices and their limits; no regional custom is an innate lineage trait.

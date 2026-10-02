@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Sampura.
+description: Localized working practices and the limits of shared identity in Sampura.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Sampura
 
-Current filings do not yet establish customs shared across this entire subregion. Al'Ari practices of crew belonging, harbor obligation, hospitality during scarcity, and safe return may provide useful lines of inquiry, but they should not be assigned here without local testimony; settlements, islands, and working communities may observe them differently or not at all.
+## Local Practice
+
+Carriers moving between Muraya and Trebes use paired cargo tallies, retaining one with the sender and one with the crew. Disputed quantities are read beside the goods before accusations are carried to another household. A damaged package may still be paid for without declaring the carrier dishonest; the point is to settle a loss while people can still speak to one another.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

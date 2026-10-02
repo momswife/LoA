@@ -15,7 +15,7 @@
 **Registry Scope:** Aerial Peoples, Recognized Lineages, and Cultural Identity  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage and Individual Capability  
-**Date of Revised Filing:** 8th Cycle, 3388 A.D.
+**Date of Revised Filing:** Ashvale, 3388 A.D. (Span unrecorded)
 
 ---
 
@@ -886,7 +886,7 @@ They are shaped by the current that carried their ancestors, the household that 
 **Environmental Consultation:** Canopy, Wetland, Maritime, and Metamorphic Adaptation Units  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 — Unauthorized wing restraint, denial of emergency landing, compelled aerial labor, coerced Wind transfer, biological harvesting, interference with metamorphosis, or discrimination based upon Cardinal Wind affiliation constitutes a protected-rights violation under Ministry charter.
 

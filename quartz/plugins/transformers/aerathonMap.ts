@@ -13,7 +13,7 @@ import {
   transformLink,
 } from "../../util/path"
 import { JSResource, CSSResource } from "../../util/resources"
-// @ts-ignore
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import script from "../../components/scripts/aerathon-map.inline"
 import style from "../../components/styles/aerathon-map.scss"
 

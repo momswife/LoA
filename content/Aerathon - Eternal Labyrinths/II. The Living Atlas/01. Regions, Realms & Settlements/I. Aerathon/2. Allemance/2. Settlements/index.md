@@ -26,6 +26,9 @@ This is the complete Allemant civic register. Every canonical settlement article
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/07. Patrie|Patrie]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/08. Sourisport|Sourisport]]
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/09. Fenn Hollow|Fenn Hollow]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/1. Greater Allemance/1. Settlements/10. Rakebridge|Rakebridge]]
+
 ## 2. Glasrún
 
 [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/index|Open the Glasrún settlement register.]]

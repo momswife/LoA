@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Mothershead.
+description: Localized working practices and the limits of shared identity in Mothershead.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Mothershead
 
-Current filings do not yet establish customs shared across this entire subregion. Allemagnian patterns of hearth, table, provision, and mutual aid may provide useful lines of inquiry, but they should not be assigned here without local testimony; neighborhood, guild, household, and rural practice may differ substantially.
+## Local Practice
+
+At Silette, repaired hauling gear is laid out where the next user can see both the new work and the worn parts left in place. Hiding a patch is considered worse manners than needing one. The practice makes an ordinary repairer’s judgment visible without turning every tool into a claim about its owner’s courage.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

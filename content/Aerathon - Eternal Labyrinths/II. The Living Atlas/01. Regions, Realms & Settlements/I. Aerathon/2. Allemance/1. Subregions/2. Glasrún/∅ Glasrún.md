@@ -50,7 +50,7 @@ Local precedent, mediation, restitution, and care for the forest sustain order. 
 
 ## V. Maintained Local Geography
 
-Glasrún covers the northeastern reaches of Allemance, from the upper banks of the Queensriver toward the western slopes of the Mantle Mountains. Its damp old-growth forest is dense enough in places to keep sunlight from the loam.
+The damp canopy keeps sunlight from the loam in the deepest stands. Maintained passes and seasonal clearings concentrate travel; nearby unmarked ground may remain difficult even when a route is familiar.
 
 ## Maintained Geographic Features
 

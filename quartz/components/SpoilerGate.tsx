@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { isSpoilerFrontmatter, spoilerWarningFor } from "../util/spoilers"
 import style from "./styles/spoilerGate.scss"
 
-// @ts-ignore - Imported as source text by the Quartz inline-script loader.
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import script from "./scripts/spoiler-gate.inline"
 
 export default (() => {

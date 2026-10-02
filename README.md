@@ -6,7 +6,8 @@ This repository is an owned fork of Quartz v5. The Quartz engine remains vendore
 
 ## Repository Layout
 
-- `content/` - campaign notes, images, and Obsidian vault files.
+- `content/` - public wiki records, images, and Obsidian vault files.
+- `private/campaign/` - local sessions, party characters, plots, and wiki candidates; outside the website and ignored by Git. See [the campaign guide](CAMPAIGN_GUIDE.md).
 - `content/index.md` - public homepage.
 - `content/templates/` - authoring templates ignored by Quartz publishing.
 - `quartz/` - vendored Quartz static-site engine.
@@ -66,6 +67,8 @@ Write campaign pages in `content/Aerathon - Eternal Labyrinths/`. Quartz ignores
 Use `draft: true` in frontmatter for notes that should not publish. Prefer meaningful titles, aliases for alternate names, and tags for major index concepts.
 
 See `CONTENT_GUIDE.md` and `content/templates/` for current wiki conventions.
+
+For AI-assisted lore work, start with [LORE_MAP.md](LORE_MAP.md). It maps the archive sections and cross-section continuity checks without duplicating canon. This authoring guide lives outside the published content directory; local `AGENTS.md` guidance is also excluded by the site configuration.
 
 ## Quartz Attribution
 

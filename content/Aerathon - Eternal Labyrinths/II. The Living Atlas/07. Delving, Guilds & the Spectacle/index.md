@@ -22,6 +22,8 @@ This section follows modern delving from first registration through field operat
 
 ## Browse This Section
 
+For the connection between training, home defense, and public competition, follow [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/01a. Holo-Stations & the Entrance Trial|Holo-Stations & the Entrance Trial]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/V. Broadcasts, Audiences & Sponsorship/05. The Meadow Circuit|The Meadow Circuit]].
+
 1. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/index|Orientation, Licensing & Classification]]
 2. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/II. Field Operations & Safety/index|Field Operations & Safety]]
 3. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/III. Guilds & Charters/index|Guilds & Charters]]

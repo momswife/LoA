@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Aurica.
+description: Localized working practices and the limits of shared identity in Aurica.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Aurica
 
-Current filings do not yet establish customs shared across this entire subregion. Al'Ari practices of crew belonging, harbor obligation, hospitality during scarcity, and safe return may provide useful lines of inquiry, but they should not be assigned here without local testimony; settlements, islands, and working communities may observe them differently or not at all.
+## Local Practice
+
+Households connected to Mjinbou’s seasonal dispersal leave paired messages: one with their traveling company and one with the people expecting them back. A changed destination is news to pass along, not proof of abandonment. The custom helps a dispersed community remain answerable to its absent members without pretending the whole island follows one itinerary.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

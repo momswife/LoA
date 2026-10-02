@@ -3,7 +3,7 @@ import * as Component from "./quartz/components"
 import { FullSlug } from "./quartz/util/path"
 import type { ExplorerOptions } from "./.quartz/plugins/explorer/dist/index.js"
 
-// @ts-ignore - Imported as source text by the Quartz inline-script loader.
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import explorerAutoCollapseScript from "./quartz/components/scripts/explorer-auto-collapse.inline"
 
 const siteExplorerOptions = {
@@ -146,7 +146,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Darkmode(),
     Component.ReaderMode(),
   ],
-  afterBody: [Component.CategoryDirectory(), Component.RelatedRecords()],
+  afterBody: [Component.CategoryDirectory()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/momswife/LoA",

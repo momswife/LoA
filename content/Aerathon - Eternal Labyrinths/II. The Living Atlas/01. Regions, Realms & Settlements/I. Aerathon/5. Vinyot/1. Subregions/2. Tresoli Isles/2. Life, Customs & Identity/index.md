@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Tresoli Isles.
+description: Localized working practices and the limits of shared identity in Tresoli Isles.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Tresoli Isles
 
-Current filings do not yet establish customs shared across this entire subregion. Vinyoti practices involving contracts, schedules, work, sponsorship, and public reputation may provide useful lines of inquiry, but they should not be treated as uniform without local testimony; corporate, municipal, household, and informal community life may differ sharply.
+## Local Practice
+
+Surface transfer crews serving Thalassar repeat names and cargo counts at each handover. The receiving party answers in its own working language before the departing crew leaves. This small act supports trade across Al’Ari civic affiliation and Vinyoti geography without pretending either side has surrendered its customs or jurisdiction.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

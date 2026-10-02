@@ -1,15 +1,22 @@
 ---
 title: Life, Customs & Identity
-description: The preliminary register of localized life and identity within Malduta Bay.
+description: Localized working practices and the limits of shared identity in Malduta Bay.
 quartz-properties: false
 recordType: Subregional Life Index
-status: Preliminary
-tags: [atlas, sub-region, regional-life]
+status: Current Reference
+tags:
+  - atlas
+  - sub-region
+  - regional-life
 ---
 
 # Life, Customs & Identity in Malduta Bay
 
-Current filings do not yet establish customs shared across this entire subregion. Arnerian practices surrounding oaths, water, witness, and public obligation may provide useful lines of inquiry, but they should not be projected here without local testimony; jurisdiction, settlement, and access to scarce resources can change their meaning.
+## Local Practice
+
+Lantern Bay’s shore-light roster names both a keeper and a relief household. An unexplained dark lamp brings a visit before it becomes a story about wreckers. Far’soro’s larger commercial life remains distinct: the small harbor’s household practice is not a constitution for every settlement on the bay.
+
+These practices belong to the communities and occupations described; they are not inherited traits or a rule for every resident.
 
 ## Browse
 

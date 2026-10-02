@@ -26,7 +26,7 @@ facts:
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
 **Primary Compiler:** **Archivist Yelna Stonevoice** (Echo-Law & Oric Civic Lineages)<br>
 **Advisory Editors:** **Professor Arav Dhal-Senn** (Infrastructure & Settlement Stability), **Lt. Salvia Korrin** (Arcane Scrivener, Verification)<br>
-**Original Filing:** **4th Cycle, 3160 A.D.**<br>
+**Original Filing:** **Bloomtide, 3160 A.D. (Span unrecorded)**<br>
 **Current Revision:** Late Redfall, 3388 A.D.\
 **Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
 **Research Status:** _Current Reference_<br>
@@ -190,7 +190,7 @@ Current registry priorities are to distinguish House territory from settlement g
 **Access Designation:** _Public_<br>
 **Revision State:** _Revised to the Seventh Editorial Standard_<br>
 **Primary Compiler:** **Archivist Yelna Stonevoice**<br>
-**Date of Original Filing:** **4th Cycle, 3160 A.D.**
+**Date of Original Filing:** **Bloomtide, 3160 A.D. (Span unrecorded)**
 
 — This overview supersedes summaries that treat an Oric House as a family or the Housemeet as a permanent national council.
 

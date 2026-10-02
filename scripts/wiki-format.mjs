@@ -13,7 +13,7 @@ async function walk(directory) {
   const entries = await fs.readdir(directory, { withFileTypes: true })
   const files = []
   for (const entry of entries) {
-    if (entry.name === ".obsidian") continue
+    if (entry.name === ".obsidian" || entry.name === "AGENTS.md") continue
     const absolute = path.join(directory, entry.name)
     if (entry.isDirectory()) files.push(...(await walk(absolute)))
     else if (entry.name.endsWith(".md")) files.push(absolute)
@@ -29,10 +29,7 @@ function normalizeMarkdown(text) {
     .map((line) => {
       const heading = line.match(/^(#{1,6})\s+(.+)$/u)
       if (heading) {
-        const content = heading[2]
-          .replace(/\*\*/gu, "")
-          .replace(/__/gu, "")
-          .trim()
+        const content = heading[2].replace(/\*\*/gu, "").replace(/__/gu, "").trim()
         if (/^━+.*━+$/u.test(content)) return content
         return `${heading[1]} ${content}`
       }

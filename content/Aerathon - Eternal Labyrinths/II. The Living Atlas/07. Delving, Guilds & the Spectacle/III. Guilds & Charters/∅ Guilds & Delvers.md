@@ -24,7 +24,7 @@ tags:
 **Filed Division:** Ministry of Delving Operations — Living Atlas Division  
 **Primary Compiler:** Director Halin Drauve  
 **Advisory Editors:** Lt. Salvia Korrin (Arc. Scriv.), Archivist Yelna Stonevoice (Echo-Law), Chief Registrar Pyra Koll (Guild Relations Bureau)  
-**Original Filing:** 11th Cycle, 3290 A.D. (Age of Delving)\
+**Original Filing:** Hearthwane, 3290 A.D. (Span unrecorded) (Age of Delving)\
 **Current Revision:** Late Redfall, 3388 A.D.\
 **Document Class:** _Institutional Overview / Grade-II Authenticity_
 

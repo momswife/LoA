@@ -9,7 +9,7 @@ tags: [atlas, sub-region, settlements]
 
 # Settlements of Jarik
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/5. Jarik/1. Settlements/01. Kyry|Kyry]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/1. Subregions/5. Jarik/1. Settlements/01. Kyry|Kyry]] — A Jarik town of boatyards, provisioning houses, and recorded departures.
 
 ## Browse
 

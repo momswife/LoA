@@ -14,7 +14,7 @@
 **Delver Eligibility:** Lineage-Specific Review  
 **Active Lineage Records:** [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/04. Dragonborn|Dragonborn]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/07. Jackal|Jackal]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/08. Kobold|Named Kobold]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/03. Constructfolk|Constructfolk]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/02. Changeling|Changeling]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/01. Centaur|Centaur]], [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/06. Gryphonid|Gryphonid]], and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/I. Peoples & Lineages/5. Mythicfolk/05. Gorgonite|Gorgonite]]  
 **Player Access:** DM Approval Required  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 ---
 
@@ -289,7 +289,7 @@ It is not a complete personality.
 **Anomalous Peoples Review:** Planar and Emergent Sapience Offices  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
-**Date of Revised Filing:** 7th Cycle, 3388 A.D.
+**Date of Revised Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 — Rarity, unusual physiology, inherited magic, or uncertain origin does not authorize confinement, compulsory study, or denial of civic recognition.
 

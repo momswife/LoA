@@ -27,7 +27,7 @@ facts:
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
 **Primary Compiler:** **Priest-Analyst Thera Daan** (Faith Systems & Rite-States)<br>
 **Advisory Editors:** **Magistrate Talar Shellmark** (Charter Counsel), **Lt. Salvia Korrin** (Arcane Scrivener, Breach Verification)<br>
-**Original Filing:** **6th Cycle, 3104 A.D.**<br>
+**Original Filing:** **Brightmoor, 3104 A.D. (Span unrecorded)**<br>
 **Current Revision:** Late Redfall, 3388 A.D.\
 **Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
 **Research Status:** _Current Reference_<br>
@@ -179,7 +179,7 @@ Several mapped settlements—including Duyan Vale, Kal'oro Grove, and Land's End
 **Access Designation:** _Public_<br>
 **Revision State:** _Revised to the Seventh Editorial Standard_<br>
 **Primary Compiler:** **Priest-Analyst Thera Daan**<br>
-**Date of Original Filing:** **6th Cycle, 3104 A.D.**
+**Date of Original Filing:** **Brightmoor, 3104 A.D. (Span unrecorded)**
 
 — This overview supersedes summaries that treat Beylik authority and Bat'yan local governance as one uniform theocratic administration.
 

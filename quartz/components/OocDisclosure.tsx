@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 import style from "./styles/oocDisclosure.scss"
 
-// @ts-ignore - Imported as source text by the Quartz inline-script loader.
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import script from "./scripts/ooc-disclosure.inline"
 
 export default (() => {

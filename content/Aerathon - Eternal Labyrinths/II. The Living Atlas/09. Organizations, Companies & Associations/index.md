@@ -23,7 +23,13 @@ This division records enduring organizations that shape modern Aerathon without 
 5. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/V. Mutual-Aid, Advocacy & Reform Movements/index|Mutual-Aid, Advocacy & Reform Movements]]
 6. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/VI. Clandestine & Criminal Organizations/index|Clandestine & Criminal Organizations]]
 
+## Featured Record
+
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/I. Civic Defense & Emergency Service/01. The Hearthward Compact|Hearthward Compact]] brings retired delvers, warriors, and military veterans together to defend the inhabited approaches to Monster Meadows. Its record connects civic defense with the Meadow Circuit and holo-station training.
+
 ## Filing Boundaries
+
+Personal biographies of leaders and members whose principal role lies outside professional delving belong in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/index|Notable Figures]]. Keep the organization's structure and collective history here, with links to individual profiles as they are filed.
 
 - File a body by its primary mandate, not merely by its allies, opponents, funding, or public reputation.
 - Governments and bodies exercising public jurisdiction belong in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/index|Governments & Geopolitics]].

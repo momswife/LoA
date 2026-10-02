@@ -35,3 +35,5 @@ Fallen timber, medicinal mosses and fungi, furs, cured game, and the knowledge o
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/1. Avianfolk Traditions/01. The Four Cardinal Winds|The Four Cardinal Winds]] — Glasrún holds especially deep West Cyclone authority despite its northeastern position.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/4. Life, Customs & Identity/index|Life, Customs & Identity in Allemance]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/∅ Glasrún|Glasrún Overview]]
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/2. Allemance/1. Subregions/2. Glasrún/1. Settlements/06. MadroIleán|MadroIleán]] — Household stewardship of the shared landing.

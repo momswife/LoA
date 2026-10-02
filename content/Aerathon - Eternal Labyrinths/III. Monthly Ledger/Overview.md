@@ -33,6 +33,8 @@ Use these records to understand what is happening now—not what history will ev
 
 ## Browse the Monthly Ledger
 
+The [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/02. Event Calendar/01. Meadow Circuit — Next Opening Notice|Meadow Circuit advance notice]] provides a proposed next-opening program. Its unconfirmed scheduling illustrates why a Ledger notice's status must be read alongside its advertised events.
+
 - [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/01. Bounties & Mission Board/index|Bounties & Mission Board]]
 - [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/02. Event Calendar/index|Event Calendar]]
 - [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/03. Faction Activity Reports/index|Faction Activity Reports]]

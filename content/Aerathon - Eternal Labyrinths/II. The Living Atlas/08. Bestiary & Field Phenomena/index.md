@@ -29,6 +29,7 @@ Bestiary filing indicates how a subject is encountered and studied in the field.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/02. Dewflame Moth|Dewflame Moth]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/03. Frost-Mane Elk|Frost-Mane Elk]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/04. Iron-Bough Boar|Iron-Bough Boar]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/05. Sandglass Vulture|Sandglass Vulture]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/06. Wolf|Wolf]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/07. Boar|Boar]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/08. Brown Bear|Brown Bear]]
@@ -36,8 +37,6 @@ Bestiary filing indicates how a subject is encountered and studied in the field.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/10. Giant Spider|Giant Spider]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/I. Beasts & Fauna/11. Crocodile|Crocodile]]
 
-> [!note] Draft filing
-> Sandglass Vulture remains an unpublished authoring stub and is omitted from the public register until a substantive record is authenticated.
 
 ## II. Elementals & Weather-Born
 

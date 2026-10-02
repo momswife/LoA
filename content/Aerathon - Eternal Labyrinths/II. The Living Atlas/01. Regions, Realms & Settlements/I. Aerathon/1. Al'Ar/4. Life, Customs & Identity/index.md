@@ -38,3 +38,7 @@ Future records belong here when they describe regional or locally situated pract
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/∅ Al'Ar|Al'Ar]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/2. Settlements/index|Settlements of Al'Ar]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/3. Geography & Landmarks/index|Geography & Landmarks of Al'Ar]]
+
+## Variation Within the Region
+
+Regional patterns are starting points, not uniform identities. Household, occupation, settlement, and circumstance shape their expression. Consult the subregional life registers for local practices and their limits; no regional custom is an innate lineage trait.

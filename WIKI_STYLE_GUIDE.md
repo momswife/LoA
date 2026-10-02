@@ -8,13 +8,12 @@ metadata, links, and cross-repository consistency.
 
 ## 1. Editorial Authority and Canon
 
-Editorial decisions belong to the editor. Canon decisions belong to repository evidence.
+Editorial decisions belong to the editor. Existing canon is established by repository evidence; explicitly requested creation or revision may introduce new canon.
 
 - Freely correct structure, heading hierarchy, Markdown, obvious grammar, links, navigation, and
   equivalent metadata.
 - Search related records before changing a fact about the world.
-- Do not invent dates, populations, rulers, relationships, settlements, beliefs, political structures,
-  magical rules, or other lore to complete a template.
+- For requested new lore, use the root Creative Direction to invent coherent details with limits and consequences. Do not fill optional metadata merely to complete a template. Document consequential additions and authorized retcons.
 - Prefer the subject's dedicated page, then clearly newer revisions, then repeated agreement across
   related pages. Preserve meaningful uncertainty when the evidence remains divided.
 - Record unresolved consequential conflicts in `WIKI_REVIEW.md`; do not use that file for editorial
@@ -84,6 +83,20 @@ does not make public source material private.
 - Keep UTF-8 punctuation, diacritics, apostrophes, and symbols intact. Repository text uses LF endings.
 - Move a file only as a complete migration: find inbound references, move it, update links and embeds,
   then build.
+
+### Personal Profiles
+
+- File present-day profiles of important non-delvers under
+  `II. The Living Atlas/10. Notable Figures/`, using the principal-role categories defined in its
+  `index.md`. Open category folders only when profiles are ready; do not create empty scaffolding.
+- Keep professional delver profiles in the delving branch. Its current Delver Registry is scoped to
+  S-Rank delvers; fame or a guild office alone does not establish that rank. Notable leaders below S-Rank may receive profiles under their principal civic or institutional role.
+- Keep one canonical personal profile and cross-link secondary roles. A former delver may belong in
+  Notable Figures when their principal present-day role lies elsewhere. Do not infer career status.
+- Distinguish a personal biography from a government, office, noble house, religious institution, or
+  organization record. Keep institutional structure and collective history on the institution's page.
+- Historical biographies remain in the Annals. Follow the Notable Figures index for the boundary
+  between contemporary profiles and historical reconstruction.
 
 ## 4. Page Titles and Headings
 
@@ -268,3 +281,7 @@ Before finishing a broad change:
 4. Run `npm run content:check` or `npm run build` for broad content changes.
 5. For Quartz code or configuration changes, also run `npm run check` and `npm test`.
 6. Record only unresolved consequential canon questions in `WIKI_REVIEW.md`.
+
+### Shared reference conventions
+
+Use D-Rank, C-Rank, B-Rank, A-Rank, and S-Rank for individuals and mission capability recommendations. Use the UDMI record for the level bands. Spell out named Cycles in filing dates; omit uncertain Spans. Coin accounts use cp, sp, ep, gp, and pp. Use authored Related Records lists, with short explanations where useful, rather than duplicate automatic cards.

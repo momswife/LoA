@@ -26,7 +26,7 @@ facts:
 **Filed Division:** _Ministry of Delving Operations — Living Atlas Division (Regional Surveys)_<br>
 **Primary Compiler:** **Magistrate Talar Shellmark** (Charter Counsel & Keeper of Canon Articles)<br>
 **Advisory Editors:** **Lt. Salvia Korrin** (Arcane Breach Liaison), **Archivist Yelna Stonevoice** (Echo-Law & Oral Tradition)<br>
-**Original Filing:** **8th Cycle, 3097 A.D.**<br>
+**Original Filing:** **Ashvale, 3097 A.D. (Span unrecorded)**<br>
 **Current Revision:** Late Redfall, 3388 A.D.\
 **Document Classification:** _Regional Overview / Grade-I Authenticity_<br>
 **Research Status:** _Current Reference_<br>
@@ -192,7 +192,7 @@ MDO revision priorities are to keep storm-route notices separate from enduring g
 **Access Designation:** _Public_<br>
 **Revision State:** _Revised to the Seventh Editorial Standard_<br>
 **Primary Compiler:** **Magistrate Talar Shellmark**<br>
-**Date of Original Filing:** **8th Cycle, 3097 A.D.**
+**Date of Original Filing:** **Ashvale, 3097 A.D. (Span unrecorded)**
 
 — This overview supersedes earlier structural summaries where they imply a unified Al'Ari state.
 

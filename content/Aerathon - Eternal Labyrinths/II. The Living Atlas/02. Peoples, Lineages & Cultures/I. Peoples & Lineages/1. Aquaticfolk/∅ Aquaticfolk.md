@@ -12,7 +12,7 @@
 **Registry Scope:** Marine, Littoral, and Deepwater Peoples  
 **Recognition Status:** Full Sapient Recognition  
 **Delver Eligibility:** Determined by Lineage, Environment, and Individual Capability  
-**Date of Initial Comprehensive Filing:** 7th Cycle, 3388 A.D.
+**Date of Initial Comprehensive Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 ---
 
@@ -576,7 +576,7 @@ It does not decide which one is home.
 **Planar Consultation:** Shattersea Observation Unit  
 **Primary Compilation:** Keeper Aeska Mourn-Wind  
 **Cross-Verification:** Lt. Salvia Korrin, Researcher Falyn Onarra  
-**Date of Initial Comprehensive Filing:** 7th Cycle, 3388 A.D.
+**Date of Initial Comprehensive Filing:** Highsun, 3388 A.D. (Span unrecorded)
 
 — Unauthorized salvage of inhabited structures, mortuary material, or protected Aquaticfolk bodily material constitutes a protected-rights violation under Ministry charter.
 

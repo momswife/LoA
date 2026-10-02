@@ -9,7 +9,7 @@ import {
 } from "./data/threadlinePosts"
 import style from "./styles/worldwireFeed.scss"
 
-// @ts-ignore
+// @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import script from "./scripts/threadline.inline"
 
 function ThreadlineCard({ post }: { post: ThreadlinePost }) {

@@ -22,6 +22,12 @@ tags:
 
 ## Rules & Regulations
 
+### Practical Entrance Examination
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/01a. Holo-Stations & the Entrance Trial|Holo-Stations & the Entrance Trial]] — the artificer-built arenas and assessed exercises used for registration at Monster Meadows.
+
+### Governing References
+
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/05. Labyrinth Classifications|Labyrinth Classifications]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/06. Ethical Delving|Ethical Delving]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/07. Delving, Guilds & the Spectacle/I. Orientation, Licensing & Classification/07. Labyrinth Safety & Compliance|Labyrinth Safety & Compliance]]
