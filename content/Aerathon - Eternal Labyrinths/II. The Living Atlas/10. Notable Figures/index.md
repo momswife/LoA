@@ -30,9 +30,14 @@ The following categories define the filing scheme. Category folders are opened w
 
 ## Filed Profiles
 
+The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/I. Politics & Government/index|Politics & Government]] section includes [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/I. Politics & Government/01. Ercanhardt Schnofinkel|Ercanhardt Schnofinkel]], an MDO auditor known for disputed accounts and compliance investigations.
+
+
 The [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/index|Military & Civic Defense]] section contains the personal profiles of [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/01. Anya Lykoi|Anya Lykoi]] and [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/02. Tiberius Lykoi|Tiberius]], the married leaders of the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/I. Civic Defense & Emergency Service/01. The Hearthward Compact|Hearthward Compact]]. Their biographies cover their protective reasons for delving, their individual interests, and their present leadership.
 
 Both have delved in response to threats to surrounding communities. Their profiles are filed here because their principal present-day significance is civic defense; no formal retirement or delver rank is implied by that placement.
+
+[[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/03. Gutsy|Gutsy]] is also filed under Military & Civic Defense: a murine MDO agent whose recorded escape from Gonlev is followed by an assignment to recruit assistance for the northern emergency.
 
 ## Connected Registries
 

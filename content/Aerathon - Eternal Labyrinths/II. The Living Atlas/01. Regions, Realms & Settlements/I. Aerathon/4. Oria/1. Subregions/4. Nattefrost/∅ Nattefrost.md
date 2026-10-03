@@ -15,7 +15,7 @@
 **Document Class:** _Field Record / Grade-I Authenticity_
 
 > [!danger] CURRENT STATUS — PLAGUE EXCLUSION ZONE
-> The Nattefrost and all northern approaches are closed under plague cordon. Human entry is prohibited, automated reports are intermittent and unauthenticated, and no survivor contact from Frostguarde or Gonlev has been verified. The observations below are historical field records. Any purported post-cordon sighting, transmission, migration, or settlement activity must be treated as speculation or temporal echo until independently authenticated.
+> The Nattefrost and all northern approaches remain closed under plague cordon. Human entry is prohibited and automated reports are intermittent and unauthenticated. The later [[Aerathon - Eternal Labyrinths/III. Monthly Ledger/04. Headlines & Rumors/02. Gonlev Survivor Bulletin|Gonlev Survivor Bulletin]] records fourteen escapees from Gonlev; it supplies no new verification of survivor contact from Frostguarde. The observations below remain historical field records. Other purported post-cordon sightings, transmissions, migrations, or settlement activity require independent authentication.
 
 ---
 

@@ -1,3 +1,5 @@
+import { mapQuestYaml, normalizeMapQuests, type MapQuest } from "../../util/mapQuests"
+
 type MapPin = {
   id?: string
   number?: number
@@ -13,6 +15,7 @@ type MapPin = {
   y?: number
   incomplete?: boolean
   hasQuest?: boolean
+  quests?: MapQuest[]
 }
 
 type MapDataset = {
@@ -65,6 +68,7 @@ function initAerathonMap(map: HTMLElement) {
   const popupCategory = map.querySelector<HTMLElement>(".aerathon-map__popup-category")
   const popupStatus = map.querySelector<HTMLElement>(".aerathon-map__popup-status")
   const popupQuest = map.querySelector<HTMLElement>(".aerathon-map__popup-quest")
+  const popupQuests = map.querySelector<HTMLUListElement>(".aerathon-map__popup-quests")
   const popupSummary = map.querySelector<HTMLElement>(".aerathon-map__popup-summary")
   const popupMore = map.querySelector<HTMLDetailsElement>(".aerathon-map__popup-more")
   const popupDescription = map.querySelector<HTMLElement>(".aerathon-map__popup-description")
@@ -158,6 +162,7 @@ function initAerathonMap(map: HTMLElement) {
   const normalizePin = (pin: MapPin): MapPin => {
     const type = pin.type ?? (datasetMode ? "unassigned" : "notable-location")
     const hasQuest =
+      normalizeMapQuests(pin.quests).length > 0 ||
       pin.hasQuest === true ||
       pin.summary?.includes("(!)") === true ||
       pin.description?.includes("(!)") === true
@@ -170,6 +175,7 @@ function initAerathonMap(map: HTMLElement) {
       typeLabel: markerLabels.get(type) ?? type,
       summary: withoutQuestFlag(pin.summary),
       description: withoutQuestFlag(pin.description),
+      quests: normalizeMapQuests(pin.quests),
       hasQuest,
     }
     if (!hasPosition(normalized)) {
@@ -195,6 +201,7 @@ function initAerathonMap(map: HTMLElement) {
                   ...draft,
                   id: sourcePin.id,
                   number: sourcePin.number,
+                  quests: sourcePin.quests,
                 }
               : sourcePin,
           )
@@ -362,6 +369,7 @@ function initAerathonMap(map: HTMLElement) {
       lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
     if (pin.summary) lines.push(`    summary: ${yamlString(pin.summary)}`)
     if (pin.hasQuest) lines.push("    quest: true")
+    lines.push(...mapQuestYaml(pin.quests))
     return lines.join("\n")
   }
 
@@ -407,6 +415,7 @@ function initAerathonMap(map: HTMLElement) {
       lines.push(`    summary: ${pin.summary ? yamlString(pin.summary) : "null"}`)
       if (pin.description) lines.push(`    description: ${yamlString(pin.description)}`)
       if (pin.hasQuest) lines.push("    quest: true")
+      lines.push(...mapQuestYaml(pin.quests))
       if (pin.status) lines.push(`    status: ${yamlString(pin.status)}`)
       if (pin.sourceLink || pin.link) {
         lines.push(`    link: ${yamlString(pin.sourceLink ?? pin.link!)}`)
@@ -602,7 +611,9 @@ function initAerathonMap(map: HTMLElement) {
       link: getField<HTMLInputElement>("sourceLink")?.value.trim() || undefined,
       summary,
       description,
-      hasQuest: getField<HTMLInputElement>("quest")?.checked === true,
+      hasQuest:
+        Boolean(editorDraft.quests?.length) ||
+        getField<HTMLInputElement>("quest")?.checked === true,
       x: readCoordinate("x", editorDraft.x),
       y: readCoordinate("y", editorDraft.y),
       incomplete: datasetMode ? !title || !summary : undefined,
@@ -627,6 +638,19 @@ function initAerathonMap(map: HTMLElement) {
       (element) => element && !element.hidden,
     )
     if (popupQuest) popupQuest.hidden = pin.hasQuest !== true
+    if (popupQuests) {
+      popupQuests.replaceChildren()
+      popupQuests.hidden = !pin.quests?.length
+      for (const quest of pin.quests ?? []) {
+        const item = document.createElement("li")
+        const title = document.createElement("strong")
+        title.textContent = quest.title
+        const hook = document.createElement("p")
+        hook.textContent = quest.hook
+        item.append(title, hook)
+        popupQuests.append(item)
+      }
+    }
     popupSummary.textContent = pin.summary ?? ""
     popupSummary.hidden = !pin.summary
     if (popupDescription && popupMore) {
@@ -673,7 +697,7 @@ function initAerathonMap(map: HTMLElement) {
       if (locationFilter === "placed" && !placed) continue
       if (locationFilter === "unplaced" && placed) continue
       const searchable =
-        `${pin.number ?? ""} ${displayTitle(pin)} ${pin.typeLabel ?? pin.type ?? ""}`.toLocaleLowerCase()
+        `${pin.number ?? ""} ${displayTitle(pin)} ${pin.typeLabel ?? pin.type ?? ""} ${(pin.quests ?? []).map((quest) => `${quest.title} ${quest.hook}`).join(" ")}`.toLocaleLowerCase()
       if (query && !searchable.includes(query)) continue
 
       const item = document.createElement("li")
@@ -1279,6 +1303,7 @@ function initAerathonMap(map: HTMLElement) {
                 ...synced,
                 id: current.id,
                 number: current.number,
+                quests: current.quests,
               })
             : current
         })

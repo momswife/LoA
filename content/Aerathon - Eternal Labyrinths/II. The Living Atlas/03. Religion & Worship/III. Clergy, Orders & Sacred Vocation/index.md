@@ -14,4 +14,4 @@ tags:
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/III. Clergy, Orders & Sacred Vocation/01. Holy Orders & Clergy|Holy Orders & Clergy]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/III. Clergy, Orders & Sacred Vocation/02. Paladins & Clerics|Paladins & Clerics]]
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/III. Clergy, Orders & Sacred Vocation/03. The Sunwardens|The Sunwardens]] — A restricted record concerning a fragmented sacred custodial order and its surviving geometry of boundaries and containment.
+Some custodial-order references have been withdrawn from ordinary circulation. For missing entries, consult [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/03. Document Classification and Authenticity Grades#Catalogue Discrepancies|the Ministry's catalogue discrepancy procedure]].

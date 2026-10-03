@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { BuildTimeTrieData, trieFromAllFiles } from "../util/ctx"
+import { BuildTimeTrieData } from "../util/ctx"
+import { publicDirectoryTrie } from "../util/publicDirectory"
 import { FileTrieNode } from "../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 import style from "./styles/categoryDirectory.scss"
@@ -146,16 +147,13 @@ function CategoryLauncher({ node, currentSlug }: { node: DirectoryNode; currentS
 }
 
 export default (() => {
-  const CategoryDirectory: QuartzComponent = ({
-    fileData,
-    allFiles,
-    ctx,
-  }: QuartzComponentProps) => {
+  const CategoryDirectory: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
     const currentSlug = fileData.slug
     if (!currentSlug?.endsWith("/overview")) return null
 
     const parentSlug = currentSlug.slice(0, -"/overview".length) as FullSlug
-    const trie = (ctx.trie ??= trieFromAllFiles(allFiles))
+    // The shared trie includes unlisted records; this public directory must not.
+    const trie = publicDirectoryTrie(allFiles)
     const parentNode = trie.findNode(parentSlug.split("/"))
     if (!parentNode) return null
 

@@ -16,9 +16,10 @@ These profiles concern people known for command, protection, and emergency servi
 
 ## Filed Profiles
 
-Profiles are filed alphabetically by their displayed personal names.
+Profiles are listed alphabetically by their displayed personal names; file identifiers remain stable.
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/01. Anya Lykoi|Anya Lykoi]] — Chikitu battle master and Field Chair of the Hearthward Compact.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/03. Gutsy|Gutsy]] — murine MDO agent recruiting assistance for the northern emergency.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/II. Military & Civic Defense/02. Tiberius Lykoi|Tiberius Lykoi]] — tiefling bladesinger and Ward Chair of the Hearthward Compact.
 
-Their shared organization is documented in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/I. Civic Defense & Emergency Service/01. The Hearthward Compact|The Hearthward Compact]]. Return to [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/index|Notable Figures]] for the broader filing scheme.
+Anya and Tiberius's shared organization is documented in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/I. Civic Defense & Emergency Service/01. The Hearthward Compact|The Hearthward Compact]]. Return to [[Aerathon - Eternal Labyrinths/II. The Living Atlas/10. Notable Figures/index|Notable Figures]] for the broader filing scheme.

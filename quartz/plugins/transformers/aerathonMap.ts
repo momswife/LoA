@@ -16,6 +16,7 @@ import { JSResource, CSSResource } from "../../util/resources"
 // @ts-expect-error -- The Quartz loader imports this module as raw source text.
 import script from "../../components/scripts/aerathon-map.inline"
 import style from "../../components/styles/aerathon-map.scss"
+import { normalizeMapQuests, type MapQuest } from "../../util/mapQuests"
 
 type RawMapPin = {
   id?: unknown
@@ -32,6 +33,7 @@ type RawMapPin = {
   position?: unknown
   incomplete?: unknown
   quest?: unknown
+  quests?: unknown
 }
 
 type RawMapConfig = {
@@ -64,6 +66,7 @@ type MapPin = {
   y?: number
   incomplete?: boolean
   hasQuest?: boolean
+  quests?: MapQuest[]
 }
 
 type MapDatasetMeta = {
@@ -177,7 +180,10 @@ function normalizeInlinePin(
   if (!isString(pin.title) || x === undefined || y === undefined) return null
   const markerType = normalizeMarkerType(pin.type)
   const rawSummary = isString(pin.summary) ? pin.summary : undefined
-  const hasQuest = pin.quest === true || rawSummary?.includes("(!)") === true
+  const hasQuest =
+    normalizeMapQuests(pin.quests).length > 0 ||
+    pin.quest === true ||
+    rawSummary?.includes("(!)") === true
 
   return {
     id: isString(pin.id) ? pin.id : undefined,
@@ -187,6 +193,7 @@ function normalizeInlinePin(
     typeLabel: markerType.label,
     status: isString(pin.status) ? pin.status : undefined,
     summary: rawSummary?.replace(/\s*\(!\)/g, "").trim() || undefined,
+    quests: normalizeMapQuests(pin.quests),
     hasQuest,
     ...normalizeLink(pin.link, currentSlug, allSlugs),
     x: clamp(x, 0, 100),
@@ -216,6 +223,7 @@ function normalizeDatasetLocation(
   const rawSummary = isString(location.summary) ? location.summary : undefined
   const rawDescription = isString(location.description) ? location.description : undefined
   const hasQuest =
+    normalizeMapQuests(location.quests).length > 0 ||
     location.quest === true ||
     rawSummary?.includes("(!)") === true ||
     rawDescription?.includes("(!)") === true
@@ -231,6 +239,7 @@ function normalizeDatasetLocation(
     status: isString(location.status) ? location.status : undefined,
     summary: withoutQuestFlag(rawSummary),
     description: withoutQuestFlag(rawDescription),
+    quests: normalizeMapQuests(location.quests),
     hasQuest,
     ...normalizeLink(location.link, currentSlug, allSlugs),
     x: hasPosition ? clamp(x, 0, 100) : undefined,
@@ -393,6 +402,7 @@ function renderMap(
         <span class="aerathon-map__popup-status"></span>
       </div>
       <p class="aerathon-map__popup-summary"></p>
+      <ul class="aerathon-map__popup-quests" hidden aria-label="Quest hooks"></ul>
       <details class="aerathon-map__popup-more" hidden>
         <summary>More details</summary>
         <p class="aerathon-map__popup-description"></p>
