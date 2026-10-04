@@ -2,11 +2,9 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 import { forbiddenArchivesIndex, isForbiddenArchive } from "../util/forbiddenArchives"
 import { FullSlug, resolveRelative } from "../util/path"
 
-const ForbiddenArchivesNav: QuartzComponent = ({ fileData, allFiles }) => {
+const ForbiddenArchivesNav: QuartzComponent = ({ fileData }) => {
   if (!isForbiddenArchive(fileData.slug)) return null
-  const records = allFiles
-    .filter((file) => isForbiddenArchive(file.slug) && file.slug !== forbiddenArchivesIndex)
-    .sort((a, b) => (a.slug ?? "").localeCompare(b.slug ?? "", undefined, { numeric: true }))
+  const entry = "aerathon---eternal-labyrinths/iv.-forbidden-archives/code-ooc" as FullSlug
   return (
     <nav class="forbidden-archive-nav" aria-label="Forbidden Archives">
       <p class="forbidden-archive-nav__label">Withdrawn catalogue · IV</p>
@@ -17,16 +15,9 @@ const ForbiddenArchivesNav: QuartzComponent = ({ fileData, allFiles }) => {
         IV. Forbidden Archives
       </a>
       <ul>
-        {records.map((record) => (
-          <li>
-            <a
-              href={resolveRelative(fileData.slug!, record.slug!)}
-              aria-current={record.slug === fileData.slug ? "page" : undefined}
-            >
-              {record.frontmatter?.title ?? "Restricted record"}
-            </a>
-          </li>
-        ))}
+        <li>
+          <a href={resolveRelative(fileData.slug!, entry)}>Code OOC</a>
+        </li>
       </ul>
       <a
         href={resolveRelative(

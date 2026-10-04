@@ -20,7 +20,9 @@ export default (() => {
   const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+      (isSpoilerFrontmatter(fileData.frontmatter)
+        ? "Code OOC"
+        : (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title)) + titleSuffix
     const isSpoiler = isSpoilerFrontmatter(fileData.frontmatter)
     const description = isSpoiler
       ? spoilerWarningFor(fileData.frontmatter)

@@ -1,3 +1,5 @@
+import { forbiddenArchivesRoot } from "../../util/forbiddenArchives"
+
 type ExplorerFolderState = { path: string; collapsed: boolean }
 
 function readSavedFolderState(): ExplorerFolderState[] {
@@ -76,14 +78,17 @@ function archiveRootAndDivisions(explorer: HTMLElement) {
     const divisions = new Map<string, HTMLElement>()
     for (const folder of directChildFolders(candidate)) {
       const title = folder.querySelector<HTMLElement>(".folder-title")?.textContent?.trim() ?? ""
-      const numeral = title.match(/^(I|II|III)\.\s/)?.[1]
+      const numeral = title.match(/^(I|II|III|IV)\.\s/)?.[1]
       if (numeral) divisions.set(numeral, folder)
     }
 
-    if (divisions.size === 3) {
+    if (["I", "II", "III"].every((key) => divisions.has(key))) {
       return {
         root: candidate,
-        divisions: [divisions.get("I")!, divisions.get("II")!, divisions.get("III")!],
+        divisions: ["I", "II", "III", "IV"].flatMap((key) => {
+          const division = divisions.get(key)
+          return division ? [division] : []
+        }),
       }
     }
   }
@@ -171,6 +176,15 @@ function setupExplorerAutoCollapse() {
       const folderControl = event.target.closest(".folder-icon, .folder-button")
       const folderContainer = folderControl?.closest<HTMLElement>(".folder-container")
       if (!folderContainer || !explorer.contains(folderContainer)) return
+
+      // The archive heading opens its neutral landing page; the adjacent
+      // chevron retains the usual expand/collapse behavior.
+      const folderPath = folderContainer.dataset.folderpath?.replace(/\/index$/, "")
+      if (folderControl?.matches(".folder-button") && folderPath === forbiddenArchivesRoot) {
+        const basePath = document.body.dataset.basepath ?? ""
+        void window.spaNavigate(new URL(`${basePath}/${forbiddenArchivesRoot}/`, location.origin))
+        return
+      }
 
       // The Explorer's own click handler toggles the requested branch first.
       // Waiting a microtask lets us react only when that branch was opened.

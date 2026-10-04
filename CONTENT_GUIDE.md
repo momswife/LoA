@@ -18,8 +18,7 @@ linked there.
 ### Spoiler-Protected Pages
 
 Add `spoiler: true` to a page's frontmatter to conceal its masthead, table of contents, body, and related
-content until the reader selects **Reveal this record**. An optional `spoilerWarning` replaces the default
-warning with spoiler-safe context.
+content until the reader selects **Open restricted record**. The notice and browser/social title are deliberately generic: Code OOC, restricted and forbidden knowledge, specific clearance required. Authored `spoilerWarning` values remain accepted for legacy compatibility but are not displayed.
 
 ```yaml
 ---
@@ -58,7 +57,7 @@ Recommended fields:
 - `tags` - broad index topics such as `city`, `bestiary`, `guild`, or `timeline`.
 - `draft` - set to `true` to exclude from publication.
 - `spoiler` - set to `true` to require an explicit reader reveal before showing the page.
-- `spoilerWarning` - optional spoiler-safe context shown on that reveal screen.
+- `spoilerWarning` - legacy metadata; ignored by the anonymous reveal screen.
 
 ## Linking
 
@@ -92,4 +91,4 @@ headings.
 
 ## Forbidden Archives division
 
-`Aerathon - Eternal Labyrinths/IV. Forbidden Archives/` is the fourth top-level division. Keep its index and records `unlisted: true`, and sensitive reader-facing records `spoiler: true`. Maintain the collection index and the existing Ministry clue entrance rather than adding a homepage link. Archive pages receive a monochrome theme and static grain; leaving restores the reader’s ordinary theme. GM-only sources stay in `private/campaign/`.
+`Aerathon - Eternal Labyrinths/IV. Forbidden Archives/` is the fourth top-level division. Its landing page and sole visible child, **Code OOC**, appear in Explorer. Individual dossiers remain `unlisted: true` and `spoiler: true`; the cleared Code OOC catalogue currently links only to the Black Writ. Keep dossier names out of pre-clearance navigation and warnings. The existing Ministry clue entrance remains an alternative route. Archive pages receive a monochrome theme and static grain; leaving restores the reader’s ordinary theme. GM-only sources stay in `private/campaign/`.

@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { isSpoilerFrontmatter, spoilerWarningFor } from "../util/spoilers"
+import { isSpoilerFrontmatter } from "../util/spoilers"
 import style from "./styles/spoilerGate.scss"
 
 // @ts-expect-error -- The Quartz loader imports this module as raw source text.
@@ -21,17 +21,15 @@ export default (() => {
           </svg>
         </div>
         <div class="spoiler-gate__copy">
-          <p class="spoiler-gate__eyebrow">MDO archival code · OOC</p>
-          <h1 id="spoiler-gate-title">Review at your own discretion</h1>
-          <p>{spoilerWarningFor(frontmatter)}</p>
+          <p class="spoiler-gate__eyebrow">Code OOC</p>
+          <h1 id="spoiler-gate-title">Restricted and Forbidden Knowledge</h1>
+          <p>Specific clearance required.</p>
         </div>
         <label class="spoiler-gate__reveal">
           <input class="spoiler-gate__control" type="checkbox" />
           <span>Open restricted record</span>
         </label>
-        <p class="spoiler-gate__note">
-          The MDO archive will reseal after you leave this record.
-        </p>
+        <p class="spoiler-gate__note">The MDO archive will reseal after you leave this record.</p>
       </section>
     )
   }

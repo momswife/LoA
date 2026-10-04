@@ -21,7 +21,7 @@ Editorial decisions belong to the editor. Existing canon is established by repos
 
 ## 2. Archive Layers
 
-The three published divisions have different evidence standards:
+The published divisions have different evidence standards:
 
 - **Annals & Antiquities:** reconstructed history and foundational scholarship. Conflicting accounts
   can be intentional and should remain visible.
@@ -33,6 +33,8 @@ Public records represent what their compiler or institution knows. Keep setting 
 inference, rumor, and restricted campaign knowledge distinct. A deliberately published record containing
 future plot information may use `spoiler: true`; see the frontmatter guidance below. This reader warning
 does not make public source material private.
+
+The fourth division, **Forbidden Archives**, provides a public landing page and Code OOC clearance entry for deliberately published restricted dossiers. Individual dossiers remain unlisted and spoiler-gated; confidential GM material stays outside the published vault.
 
 ## 3. Files and Navigation
 
@@ -217,8 +219,8 @@ draft: false
 - `showMastheadRecord: false`: retain structured frontmatter without rendering its compact record card
   when the page already has a richer authored filing header beginning with `Filed Division`.
 - `quartz-properties: false`: retain on navigation pages that intentionally hide the property panel.
-- `spoiler: true`: conceal the rendered record behind an explicit reader confirmation. Use the optional
-  `spoilerWarning` field only for spoiler-safe context. Titles, filenames, tags, source Markdown, and
+- `spoiler: true`: conceal the rendered record behind an explicit reader confirmation. The warning is now a generic Code OOC notice; legacy
+  `spoilerWarning` text is not displayed. Titles, filenames, tags, source Markdown, and
   generated HTML remain visible or inspectable, so private notes still belong outside published folders.
 - `draft: true`: required for incomplete authored pages that should not publish.
 

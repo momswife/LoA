@@ -1,9 +1,8 @@
 ---
-unlisted: true
 aliases:
   - "Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/04. Forbidden Archives/index"
 title: IV. Forbidden Archives
-description: Disputed and officially discredited Ministry filings retained for evidentiary review.
+description: The public threshold of the restricted catalogue. Specific clearance is required to open its records.
 quartz-properties: false
 recordType: Restricted Collection Index
 status: Active Index
@@ -13,8 +12,6 @@ tags:
   - government
   - mdo
 ---
-
-# IV. Forbidden Archives
 
 > _“A false record may still be evidence. It is not thereby truth.”_  
 > — Archive Integrity Inspectorate
@@ -28,10 +25,11 @@ The MDO preserves such material for evidentiary comparison. Preservation does no
 > [!caution] MDO Archival Code — OOC — Review at Your Own Discretion
 > Individual records in this collection may disclose protected identities, covert operations, or unresolved events omitted from ordinary public filings. Those records remain concealed until the reader deliberately opens them.
 
-## Indexed Filings
+## Restricted Entry
 
-- [[Aerathon - Eternal Labyrinths/IV. Forbidden Archives/01. The Black Writ|The Black Writ]] — A consolidated dossier concerning the supposed survival of an obsolete emergency custody instrument as a clandestine council within the MDO. The High Ministry recognizes no such body and classifies the allegation as institutional folklore supported by fraudulent or misapplied seals.
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/III. Clergy, Orders & Sacred Vocation/03. The Sunwardens|The Sunwardens]] — A restricted composite record concerning a fragmented sacred order whose surviving custodial methods intersect with an active Ministry inquiry. Its historical existence is better supported than its modern continuity.
+The catalogue beyond this threshold is withheld from the ordinary browse list. Its contents are available through a separate clearance notice.
+
+- [[Aerathon - Eternal Labyrinths/IV. Forbidden Archives/Code OOC|Code OOC]]
 
 ## Access and Citation
 

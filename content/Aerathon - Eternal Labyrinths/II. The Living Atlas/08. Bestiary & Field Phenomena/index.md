@@ -46,6 +46,8 @@ Bestiary filing indicates how a subject is encountered and studied in the field.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/04. Tide-Heart Leviathan|Tide-Heart Leviathan]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/05. Whisper Gale|Whisper Gale]]
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/II. Elementals & Weather-Born/06. Djinn, Bargains, and Bound Intelligences|Djinn, Bargains, and Bound Intelligences]]
+
 ## III. Fey, Dream-Born & Illusionary
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/08. Bestiary & Field Phenomena/III. Fey, Dream-Born & Illusionary/01. Hollow Dancers|Hollow Dancers]]

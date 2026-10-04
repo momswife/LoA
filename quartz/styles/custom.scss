@@ -1031,7 +1031,7 @@ ul.toc-content.overflow > li:is(.depth-2, .depth-3, .depth-4, .depth-5, .depth-6
     inset: 0;
     z-index: 100;
     pointer-events: none;
-    opacity: 0.045;
+    opacity: 0.11;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23g)' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
   }
 
@@ -1041,6 +1041,11 @@ ul.toc-content.overflow > li:is(.depth-2, .depth-3, .depth-4, .depth-5, .depth-6
   }
 
   .darkmode {
+    display: none;
+  }
+
+  // The authored collection index replaces the public-only folder listing.
+  .page-listing {
     display: none;
   }
 

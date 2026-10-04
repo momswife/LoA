@@ -16,3 +16,6 @@ tags:
 - [[02. Relics, Resonance, & Modern Artifice|Relics, Resonance, & Modern Artifice]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/I. Everyday Magic & Artifice/03. Accessible Design & Civic Infrastructure|Accessible Design & Civic Infrastructure]]
 
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/I. Everyday Magic & Artifice/04. Stormhowler|Stormhowler]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/06. Magic, Technology & Infrastructure/I. Everyday Magic & Artifice/05. Bound Intelligences and Relic Custody|Bound Intelligences and Relic Custody]]

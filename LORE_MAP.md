@@ -72,8 +72,7 @@ Provisional reports and time-sensitive notices. Read status, dates, amendments, 
 
 ### IV. Forbidden Archives
 
-[Restricted collection index](content/Aerathon%20-%20Eternal%20Labyrinths/IV.%20Forbidden%20Archives/index.md). A fourth top-level division after the Monthly Ledger, omitted from ordinary navigation and discovered through the Ministry discrepancy trail. Records remain public static files; unlisting and spoiler gates are reader controls, not access control.
-
+[Restricted collection index](content/Aerathon%20-%20Eternal%20Labyrinths/IV.%20Forbidden%20Archives/index.md). A fourth top-level division after the Monthly Ledger, visible in Explorer through a neutral landing page and a single Code OOC child; the Ministry discrepancy trail remains an alternative entrance. Individual dossiers remain unlisted. Records remain public static files; unlisting and spoiler gates are reader controls, not access control.
 
 ## Cross-section reading routes
 

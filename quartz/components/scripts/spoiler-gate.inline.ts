@@ -1,9 +1,11 @@
-function setupSpoilerGates() {
+function setupSpoilerGates(event: Event) {
   for (const gate of document.querySelectorAll<HTMLElement>(".spoiler-gate")) {
-    if (gate.dataset.spoilerReady === "true") continue
-
     const control = gate.querySelector<HTMLInputElement>(".spoiler-gate__control")
     if (!control) continue
+    // SPA morphing can reuse a previously checked input. Each navigation is a
+    // new clearance decision, including Back/Forward and another gated page.
+    if (event.type === "nav") control.checked = false
+    if (gate.dataset.spoilerReady === "true") continue
     gate.dataset.spoilerReady = "true"
 
     const reveal = () => {
@@ -24,7 +26,10 @@ function setupSpoilerGates() {
     }
 
     control.addEventListener("change", reveal)
-    window.addCleanup(() => control.removeEventListener("change", reveal))
+    window.addCleanup(() => {
+      control.removeEventListener("change", reveal)
+      delete gate.dataset.spoilerReady
+    })
   }
 }
 

@@ -4,7 +4,7 @@ import type { Element, Root } from "hast"
 import { unified } from "unified"
 import { VFile } from "vfile"
 import type { BuildCtx } from "../../util/ctx"
-import { DEFAULT_SPOILER_WARNING, MDO_ARCHIVAL_WARNING_PREFIX } from "../../util/spoilers"
+import { DEFAULT_SPOILER_WARNING } from "../../util/spoilers"
 import {
   protectSpoilerMetadata,
   SPOILER_READING_TEXT_KEY,
@@ -25,7 +25,7 @@ describe("protectSpoilerMetadata", () => {
     assert.equal(data[SPOILER_READING_TEXT_KEY], "The secret heir survived.")
   })
 
-  test("uses an authored spoiler-safe warning", () => {
+  test("never exposes an authored warning that identifies the restricted subject", () => {
     const data: Record<string, unknown> = {
       frontmatter: {
         spoiler: true,
@@ -35,10 +35,8 @@ describe("protectSpoilerMetadata", () => {
     }
 
     protectSpoilerMetadata(data)
-    assert.equal(
-      data.description,
-      `${MDO_ARCHIVAL_WARNING_PREFIX} Reveals the outcome of the current expedition.`,
-    )
+    assert.equal(data.description, DEFAULT_SPOILER_WARNING)
+    assert.ok(!String(data.description).includes("expedition"))
   })
 
   test("leaves ordinary pages unchanged", () => {

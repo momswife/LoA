@@ -15,3 +15,7 @@ tags: [atlas, sub-region, settlements]
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/3. Fortunata Hills/∅ Fortunata Hills|Fortunata Hills Overview]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/2. Settlements/index|All Vinyot Settlements]]
+
+## Within Malarthain
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/3. Fortunata Hills/1. Settlements/01a. The Brass Burrow|The Brass Burrow]] — Underhearth artificer workshop, map marker 51.
