@@ -614,7 +614,7 @@ locations:
     quests:
       - id: MAL-Q14
         title: The Patient Machine
-        hook: The Brass Burrow needs escorts for a damaged machine and its worried maker.
+        hook: The Brass Burrow needs escorts and repair help for a damaged rescue machine with an unstable pressure regulator.
 
   - id: "malarthain-052"
     number: 52

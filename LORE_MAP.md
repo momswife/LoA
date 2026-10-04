@@ -70,6 +70,11 @@ Provisional reports and time-sensitive notices. Read status, dates, amendments, 
 | [07. Political Climate Watch](content/Aerathon%20-%20Eternal%20Labyrinths/III.%20Monthly%20Ledger/07.%20Political%20Climate%20Watch/index.md)       | Instability warnings, public sentiment, and developing shifts in authority.  |
 | [08. Travel Advisories](content/Aerathon%20-%20Eternal%20Labyrinths/III.%20Monthly%20Ledger/08.%20Travel%20Advisories/index.md)                     | Route closures, restricted zones, breaches, and current travel hazards.      |
 
+### IV. Forbidden Archives
+
+[Restricted collection index](content/Aerathon%20-%20Eternal%20Labyrinths/IV.%20Forbidden%20Archives/index.md). A fourth top-level division after the Monthly Ledger, omitted from ordinary navigation and discovered through the Ministry discrepancy trail. Records remain public static files; unlisting and spoiler gates are reader controls, not access control.
+
+
 ## Cross-section reading routes
 
 These are search routes, not assertions that particular subjects are related. Follow the actual links and evidence for the task.

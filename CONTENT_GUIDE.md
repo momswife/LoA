@@ -89,3 +89,7 @@ Templates are available in `content/templates/`.
 
 Templates are starting points. Remove unused sections before publishing rather than filing empty
 headings.
+
+## Forbidden Archives division
+
+`Aerathon - Eternal Labyrinths/IV. Forbidden Archives/` is the fourth top-level division. Keep its index and records `unlisted: true`, and sensitive reader-facing records `spoiler: true`. Maintain the collection index and the existing Ministry clue entrance rather than adding a homepage link. Archive pages receive a monochrome theme and static grain; leaving restores the reader’s ordinary theme. GM-only sources stay in `private/campaign/`.

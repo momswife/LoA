@@ -1,18 +1,20 @@
 ---
 unlisted: true
-title: Forbidden Archives
+aliases:
+  - "Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/04. Forbidden Archives/index"
+title: IV. Forbidden Archives
 description: Disputed and officially discredited Ministry filings retained for evidentiary review.
 quartz-properties: false
 recordType: Restricted Collection Index
 status: Active Index
 tags:
-  - atlas
+  - forbidden-archive
   - archive
   - government
   - mdo
 ---
 
-# Forbidden Archives
+# IV. Forbidden Archives
 
 > _“A false record may still be evidence. It is not thereby truth.”_  
 > — Archive Integrity Inspectorate
@@ -28,7 +30,7 @@ The MDO preserves such material for evidentiary comparison. Preservation does no
 
 ## Indexed Filings
 
-- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/05. Governments & Geopolitics/I. Continental Institutions/1. Ministry of Delving Operations (MDO)/04. Forbidden Archives/01. The Black Writ|The Black Writ]] — A consolidated dossier concerning the supposed survival of an obsolete emergency custody instrument as a clandestine council within the MDO. The High Ministry recognizes no such body and classifies the allegation as institutional folklore supported by fraudulent or misapplied seals.
+- [[Aerathon - Eternal Labyrinths/IV. Forbidden Archives/01. The Black Writ|The Black Writ]] — A consolidated dossier concerning the supposed survival of an obsolete emergency custody instrument as a clandestine council within the MDO. The High Ministry recognizes no such body and classifies the allegation as institutional folklore supported by fraudulent or misapplied seals.
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/03. Religion & Worship/III. Clergy, Orders & Sacred Vocation/03. The Sunwardens|The Sunwardens]] — A restricted composite record concerning a fragmented sacred order whose surviving custodial methods intersect with an active Ministry inquiry. Its historical existence is better supported than its modern continuity.
 
 ## Access and Citation
