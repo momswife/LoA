@@ -181,14 +181,16 @@ function setupExplorerAutoCollapse() {
       // chevron retains the usual expand/collapse behavior.
       const folderPath = folderContainer.dataset.folderpath?.replace(/\/index$/, "")
       if (folderControl?.matches(".folder-button") && folderPath === forbiddenArchivesRoot) {
+        event.preventDefault()
+        event.stopPropagation()
         const basePath = document.body.dataset.basepath ?? ""
         void window.spaNavigate(new URL(`${basePath}/${forbiddenArchivesRoot}/`, location.origin))
         return
       }
 
-      // The Explorer's own click handler toggles the requested branch first.
-      // Waiting a microtask lets us react only when that branch was opened.
-      queueMicrotask(() => {
+      // Read after the target handler has toggled the branch. A microtask
+      // can run between capture and target listeners, before that toggle.
+      requestAnimationFrame(() => {
         const branch = folderContainer.nextElementSibling
         const isOpen = branch?.classList.contains("open") ?? false
         folderContainer
@@ -200,14 +202,15 @@ function setupExplorerAutoCollapse() {
       })
     }
 
-    explorer.addEventListener("click", handleFolderClick)
+    // Capture runs before the plugin's folder handler stops propagation.
+    explorer.addEventListener("click", handleFolderClick, true)
     const explorerTree = explorer.querySelector<HTMLElement>(".explorer-ul")
     const treeObserver = new MutationObserver(scheduleNormalization)
     if (explorerTree) treeObserver.observe(explorerTree, { childList: true })
     scheduleNormalization()
 
     window.addCleanup(() => {
-      explorer.removeEventListener("click", handleFolderClick)
+      explorer.removeEventListener("click", handleFolderClick, true)
       treeObserver.disconnect()
       if (normalizationFrame !== undefined) cancelAnimationFrame(normalizationFrame)
       explorerNormalizers.delete(explorer)

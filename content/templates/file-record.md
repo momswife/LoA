@@ -40,3 +40,5 @@ draft: true
 > **Document Class:** _[Record type / authenticity grade]_  
 > **Primary Certification:** _[Name and office]_  
 > _— [Optional legal, archival, or provenance notice.]_
+>
+> **MDO ARCHIVE · RECORD SEALED**

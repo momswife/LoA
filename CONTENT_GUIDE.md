@@ -86,6 +86,11 @@ Most public records should keep the in-world archive format:
 
 Templates are available in `content/templates/`.
 
+For city shops and services, use `content/templates/district.md`: group places under
+a heading such as **Apothecaries & Healers**, then give each place its own description,
+services, actual neighborhood, and existing map reference. See **City District and
+Service Guides** in `WIKI_STYLE_GUIDE.md` for filing and navigation conventions.
+
 Templates are starting points. Remove unused sections before publishing rather than filing empty
 headings.
 

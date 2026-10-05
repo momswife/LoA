@@ -115,26 +115,67 @@ The fourth division, **Forbidden Archives**, provides a public landing page and 
 
 ## 5. Page Families and Templates
 
+### MDO Filing Footers
+
+Authored `Filed & Authenticated` blocks render as a shared MDO filing panel: archive
+seal, filing title, responsible offices, labeled fields, interpretive notices, and
+the authored closing status. Both legacy blockquotes and plain paragraphs are
+supported. Use bold field labels ending in a colon, with one field per line or
+paragraph. Preserve established offices, credits, classifications, and notices;
+omit unsupported fields rather than inventing authentication.
+
+Place related records and other article sections before the filing footer when
+authoring new pages. End a complete footer with `**MDO ARCHIVE · RECORD SEALED**`,
+or the record's established alternative such as `RECORD DENIED`. Legacy decorative
+`END OF FILE` markers receive the same sealed presentation. An absent closing
+marker does not generate a new sealing claim. The renderer stops at the next
+section rather than absorbing unrelated material. Pages without an authored
+authentication block do not receive invented MDO certification.
+
 Templates live in `content/templates/` and are unpublished defaults, not mandatory forms.
 
-| Page family                | Template               | Structural emphasis                                           |
-| -------------------------- | ---------------------- | ------------------------------------------------------------- |
-| General or unusual record  | `file-record.md`       | Purpose, record, current assessment                           |
-| Bestiary                   | `bestiary-entry.md`    | Identification, ecology, threat, delver guidance              |
-| Settlement                 | `city.md`              | Civic scale, place, daily life, authority, current conditions |
-| Region or plane            | `region.md`            | Boundaries, people, government, travel, notable sites         |
-| Delver or major character  | `delver.md`            | Profile, history, abilities, affiliations, status             |
-| Guild                      | `guild.md`             | Purpose, structure, leadership, operations, relationships     |
-| Other organization         | `organization.md`      | Mandate, authority, structure, public role                    |
-| Playable people or lineage | `lineage.md`           | Society, modern life, traits, sublineages, homelands          |
-| Cultural system            | `culture.md`           | Scope, history, practice, variation, modern debate            |
-| Historical reconstruction  | `historical-record.md` | Evidence, sequence, competing accounts, consequences          |
-| Timeline                   | `timeline.md`          | Dated events, disputed dates, related records                 |
-| Monthly Ledger item        | `ledger-item.md`       | Confirmed facts, uncertainty, action, visible updates         |
+| Page family                | Template               | Structural emphasis                                                   |
+| -------------------------- | ---------------------- | --------------------------------------------------------------------- |
+| General or unusual record  | `file-record.md`       | Purpose, record, current assessment                                   |
+| Bestiary                   | `bestiary-entry.md`    | Identification, ecology, threat, delver guidance                      |
+| Settlement                 | `city.md`              | Civic scale, place, daily life, authority, current conditions         |
+| City district or services  | `district.md`          | Grouped places, descriptions, services, neighborhoods, map references |
+| Region or plane            | `region.md`            | Boundaries, people, government, travel, notable sites                 |
+| Delver or major character  | `delver.md`            | Profile, history, abilities, affiliations, status                     |
+| Guild                      | `guild.md`             | Purpose, structure, leadership, operations, relationships             |
+| Other organization         | `organization.md`      | Mandate, authority, structure, public role                            |
+| Playable people or lineage | `lineage.md`           | Society, modern life, traits, sublineages, homelands                  |
+| Cultural system            | `culture.md`           | Scope, history, practice, variation, modern debate                    |
+| Historical reconstruction  | `historical-record.md` | Evidence, sequence, competing accounts, consequences                  |
+| Timeline                   | `timeline.md`          | Dated events, disputed dates, related records                         |
+| Monthly Ledger item        | `ledger-item.md`       | Confirmed facts, uncertainty, action, visible updates                 |
 
 Use proportional structure. A small town, minor figure, short notice, or narrow custom should not acquire
 empty sections merely to resemble a major record. Preserve unique sections containing subject-specific
 information.
+
+### City District and Service Guides
+
+Group ordinary city shops and services into district guides, such as **Malarthain —
+Apothecaries & Healers**, with an H3 entry and description for each place. Use
+`content/templates/district.md`. This pattern applies to other cities as their
+records develop; do not create empty guides to fill a checklist.
+
+A district guide may describe an established geographic district or group related
+services across a city. State which kind it is and preserve each place's actual
+neighborhood. A service heading does not establish new borders, a government, or a
+shared address. Include useful services and existing map references where supported;
+do not invent proprietors, hours, prices, or game effects to complete fields.
+
+File the guide as a city subrecord with the next available lettered suffix and a
+city-qualified filename. Add it to the parent city's browse list and nearest useful
+index. Reuse stable map IDs. Link existing substantial establishment articles from
+short entries rather than duplicating or automatically moving them. Ordinary new
+shops should normally be entries within a guide; independent records remain useful
+when a place has substantial history or wider significance.
+
+Keep private adventures, solutions, character possessions, and session state in the
+campaign notebook. Public guides describe the places readers can visit.
 
 ### Settlement Civic Register
 

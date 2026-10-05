@@ -442,46 +442,115 @@ article {
 .record-file-footer {
   max-width: 58rem;
   margin: 3rem 0 0.4rem;
-  padding: 1rem 1.1rem;
-  border-left: 2px solid color-mix(in srgb, var(--gray) 50%, var(--lorevault-border));
-  border-radius: 0 var(--lorevault-radius) var(--lorevault-radius) 0;
-  background: color-mix(in srgb, var(--gray) 5%, var(--lorevault-surface));
-  color: var(--gray);
-  font-size: 0.8rem;
+  padding: clamp(1.1rem, 3vw, 1.65rem);
+  border: 1px solid var(--lorevault-border);
+  border-top: 2px solid var(--secondary);
+  border-radius: 0.7rem;
+  background: color-mix(in srgb, var(--secondary) 3%, var(--lorevault-surface));
+  color: var(--darkgray);
+  font-size: 0.83rem;
   line-height: 1.6;
-
-  &::before {
-    display: block;
-    margin-bottom: 0.55rem;
-    color: var(--secondary);
-    content: "Record footer";
-    font-family: var(--lorevault-ui-font);
-    font-size: 0.64rem;
-    font-weight: 750;
-    letter-spacing: 0.11em;
-    text-transform: uppercase;
-  }
-
-  &::after {
-    display: block;
-    width: fit-content;
-    margin-top: 0.8rem;
-    color: color-mix(in srgb, var(--secondary) 78%, var(--gray));
-    content: "MDO ARCHIVE · RECORD SEALED";
-    font-family: var(--lorevault-ui-font);
-    font-size: 0.61rem;
-    font-weight: 750;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-  }
 
   p {
     max-width: none;
     margin: 0;
   }
-
   strong {
+    color: inherit;
+  }
+
+  .record-file-footer__heading {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .record-file-footer__emblem {
+    display: grid;
+    place-items: center;
+    flex: 0 0 2.8rem;
+    height: 2.8rem;
+    border: 1px solid var(--secondary);
+    border-radius: 50%;
+    outline: 1px solid color-mix(in srgb, var(--secondary) 25%, transparent);
+    outline-offset: 3px;
+    color: var(--secondary);
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.65rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+  }
+
+  .record-file-footer__eyebrow {
+    color: var(--secondary);
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.62rem;
+    font-weight: 750;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .record-file-footer__title {
+    color: var(--dark);
+    font-size: 1.1rem;
+    line-height: 1.4;
+  }
+
+  .record-file-footer__office {
     color: var(--darkgray);
+  }
+
+  .record-file-footer__fields {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem 1.5rem;
+    margin: 1rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--lorevault-border);
+
+    > div {
+      min-width: 0;
+    }
+    dt,
+    dd {
+      margin: 0;
+      overflow-wrap: anywhere;
+    }
+    dt {
+      color: var(--gray);
+      font-family: var(--lorevault-ui-font);
+      font-size: 0.63rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    dd {
+      margin-top: 0.2rem;
+    }
+  }
+
+  .record-file-footer__notice {
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+    border-top: 1px solid var(--lorevault-border);
+    color: var(--darkgray);
+  }
+
+  .record-file-footer__seal {
+    margin-top: 1.15rem;
+    color: var(--secondary);
+    font-family: var(--lorevault-ui-font);
+    font-size: 0.61rem;
+    font-weight: 750;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 600px) {
+    .record-file-footer__fields {
+      grid-template-columns: 1fr;
+    }
   }
 }
 

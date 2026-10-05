@@ -52,42 +52,45 @@ function splitRows(children: ElementContent[]): ElementContent[][] {
   return rows.filter((row) => row.some((child) => textContent(child).trim().length > 0))
 }
 
-function removeEndOfFileMarker(children: ElementContent[]): ElementContent[] {
-  const result: ElementContent[] = []
+// Match whole rows only: quoted discussion of a filing formula is not a footer.
+function footerHeading(node: Element): boolean {
+  const paragraphs = node.tagName === "blockquote" ? node.children : [node]
+  return paragraphs.some(
+    (p) =>
+      isElement(p, "p") &&
+      splitRows(p.children).some((row) =>
+        /^Filed\s*(?:&|and)\s*Authenticated$/i.test(row.map(textContent).join("").trim()),
+      ),
+  )
+}
 
-  for (const child of children) {
-    if (!isElement(child, "p")) {
-      result.push(child)
-      continue
-    }
-
-    const rows = splitRows(child.children)
-    const filingStart = rows.findIndex((row) =>
-      /Filed\s*(?:&|and)\s*Authenticated/i.test(row.map(textContent).join("")),
-    )
-    const footerRows = (filingStart >= 0 ? rows.slice(filingStart) : rows).filter(
-      (row) =>
-        !/(?:END\s+OF\s+FILE|MDO\s+ARCHIVE\s*[·•]\s*RECORD\s+SEALED)/i.test(
-          row.map(textContent).join(""),
-        ),
-    )
-    const paragraphChildren: ElementContent[] = []
-    for (const [index, row] of footerRows.entries()) {
-      if (index > 0) {
-        paragraphChildren.push({
-          type: "element",
-          tagName: "br",
-          properties: {},
-          children: [],
-        })
-      }
-      paragraphChildren.push(...row)
-    }
-
-    result.push({ ...child, children: paragraphChildren })
+function closingMarker(value: string): string | undefined {
+  const clean = value.trim()
+  if (/^[^\p{L}\p{N}]*END\s+OF\s+FILE[^\p{L}\p{N}]*$/iu.test(clean)) {
+    return "MDO ARCHIVE · RECORD SEALED"
   }
+  if (/^MDO\s+ARCHIVE\s*[·•]\s*(?:RECORD|INDEX)\s+[\p{L} -]+$/iu.test(clean)) {
+    return clean
+  }
+  return undefined
+}
 
-  return result
+function footerParagraphs(node: RootContent): Element[] {
+  if (!isElement(node)) return []
+  if (node.tagName === "p") return [node]
+  if (node.tagName === "blockquote")
+    return node.children.filter((p): p is Element => isElement(p, "p"))
+  return []
+}
+
+function nodeClosingMarker(node: RootContent): string | undefined {
+  for (const p of footerParagraphs(node)) {
+    for (const row of splitRows(p.children)) {
+      const marker = closingMarker(row.map(textContent).join(""))
+      if (marker) return marker
+    }
+  }
+  return undefined
 }
 
 function trimLeadingPunctuation(children: ElementContent[]): ElementContent[] {
@@ -232,36 +235,156 @@ function findDetailsRange(
   }
 }
 
+function createFilingPanel(paragraphs: Element[]): Element[] {
+  const headingIndex = paragraphs.findIndex(footerHeading)
+  const heading = paragraphs[headingIndex]
+  const fields: Element[] = []
+  const offices: Element[] = []
+  const notices: Element[] = []
+  const seals: Element[] = []
+  let hasFields = false
+  for (const [index, p] of paragraphs.entries()) {
+    if (index === headingIndex) continue
+    if (nodeClosingMarker(p)) {
+      seals.push(p)
+      continue
+    }
+    const first = p.children.findIndex((child) => textContent(child).trim().length > 0)
+    const label = p.children[first]
+    const next = p.children[first + 1]
+    const hasColon =
+      isElement(label, "strong") &&
+      (/:\s*$/.test(textContent(label)) || (next?.type === "text" && /^\s*:/.test(next.value)))
+    if (hasColon && isElement(label)) {
+      hasFields = true
+      fields.push({
+        type: "element",
+        tagName: "div",
+        properties: {},
+        children: [
+          {
+            type: "element",
+            tagName: "dt",
+            properties: {},
+            children: [{ type: "text", value: textContent(label).trim().replace(/:\s*$/, "") }],
+          },
+          {
+            type: "element",
+            tagName: "dd",
+            properties: {},
+            children: trimLeadingPunctuation(p.children.slice(first + 1)),
+          },
+        ],
+      })
+    } else if (!hasFields && !/^[—–]/u.test(textContent(p).trim())) {
+      addClass(p, "record-file-footer__office")
+      offices.push(p)
+    } else {
+      addClass(p, "record-file-footer__notice")
+      notices.push(p)
+    }
+  }
+  return [
+    {
+      type: "element",
+      tagName: "div",
+      properties: { className: ["record-file-footer__heading"] },
+      children: [
+        {
+          type: "element",
+          tagName: "span",
+          properties: { className: ["record-file-footer__emblem"], ariaHidden: "true" },
+          children: [{ type: "text", value: "MDO" }],
+        },
+        {
+          type: "element",
+          tagName: "div",
+          properties: {},
+          children: [
+            {
+              type: "element",
+              tagName: "p",
+              properties: { className: ["record-file-footer__eyebrow"] },
+              children: [{ type: "text", value: "Ministry Archive · Filing Record" }],
+            },
+            {
+              type: "element",
+              tagName: "p",
+              properties: { className: ["record-file-footer__title"] },
+              children: heading?.children ?? [],
+            },
+          ],
+        },
+      ],
+    },
+    ...offices,
+    ...(fields.length
+      ? [
+          {
+            type: "element",
+            tagName: "dl",
+            properties: { className: ["record-file-footer__fields"] },
+            children: fields,
+          } satisfies Element,
+        ]
+      : []),
+    ...notices,
+    ...seals,
+  ]
+}
+
 function transformFooter(children: RootContent[]) {
-  const footerStart = [...children].findLastIndex(
-    (node) =>
-      isElement(node) &&
-      (node.tagName === "blockquote" || node.tagName === "p") &&
-      /Filed\s*(?:&|and)\s*Authenticated/i.test(textContent(node)),
+  const footerStart = children.findLastIndex(
+    (node) => isElement(node) && ["blockquote", "p"].includes(node.tagName) && footerHeading(node),
   )
-  if (footerStart < 0 || !isElement(children[footerStart])) return
+  if (footerStart < 0) return
 
-  const endOffset = children
-    .slice(footerStart)
-    .findIndex((node) =>
-      /(?:END\s+OF\s+FILE|MDO\s+ARCHIVE\s*[·•]\s*RECORD\s+SEALED)/i.test(textContent(node)),
-    )
-  const footerEnd = endOffset >= 0 ? footerStart + endOffset : footerStart
-  const footerContent = children.slice(footerStart, footerEnd + 1).flatMap((node) => {
-    if (!isElement(node)) return []
-    if (node.tagName === "blockquote") return node.children
-    if (node.tagName === "p") return [node]
-    return []
-  })
-  const sanitizedFooter = removeEndOfFileMarker(footerContent).filter(
-    (node) => textContent(node).trim().length > 0,
-  )
+  // Never consume the next article section, code example, list, or table while
+  // looking for a closing seal. Keep notices and inline markup intact.
+  let footerEnd = footerStart
+  let marker: string | undefined
+  for (let index = footerStart; index < children.length; index++) {
+    const node = children[index]
+    if (isWhitespace(node)) continue
+    if (!isElement(node) || !["p", "blockquote"].includes(node.tagName)) break
+    const found = nodeClosingMarker(node)
+    if (index > footerStart && !found) {
+      const value = textContent(node).trim()
+      const metadata = footerParagraphs(node).every((p) => Boolean(paragraphLabel(p)))
+      if (!metadata && !/^[—–]/u.test(value)) break
+    }
+    footerEnd = index
+    if (found) {
+      marker = found
+      break
+    }
+  }
 
+  const paragraphs: Element[] = []
+  for (const node of children.slice(footerStart, footerEnd + 1)) {
+    for (const p of footerParagraphs(node)) {
+      for (const row of splitRows(p.children)) {
+        if (closingMarker(row.map(textContent).join(""))) continue
+        const content = [...row]
+        while (content.length && isWhitespace(content[0])) content.shift()
+        while (content.length && isWhitespace(content[content.length - 1])) content.pop()
+        paragraphs.push({ ...p, properties: structuredClone(p.properties), children: content })
+      }
+    }
+  }
+  if (marker) {
+    paragraphs.push({
+      type: "element",
+      tagName: "p",
+      properties: { className: ["record-file-footer__seal"] },
+      children: [{ type: "text", value: marker }],
+    })
+  }
   children.splice(footerStart, footerEnd - footerStart + 1, {
     type: "element",
     tagName: "section",
     properties: { className: ["record-file-footer"], ariaLabel: "Record footer" },
-    children: sanitizedFooter,
+    children: createFilingPanel(paragraphs),
   })
 
   const ornamentIndex = findMeaningful(children, footerStart - 1, -1)
