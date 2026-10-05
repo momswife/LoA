@@ -41,6 +41,10 @@ export default ((opts?: Options) => {
   }
 
   Footer.css = `
+  footer:has(.rules-attribution) {
+    opacity: 1;
+  }
+
   footer {
     display: flex;
     align-items: center;
@@ -96,7 +100,7 @@ export default ((opts?: Options) => {
     visibility: hidden;
     border: 1px solid var(--lorevault-border);
     border-radius: 0.55rem;
-    background: var(--lorevault-surface-raised);
+    background: linear-gradient(var(--lorevault-surface-raised), var(--lorevault-surface-raised)), var(--light);
     box-shadow: var(--lorevault-shadow);
     color: var(--darkgray);
     font-size: 0.72rem;

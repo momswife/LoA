@@ -54,6 +54,14 @@ npm run wiki:check
 
 ## Publishing
 
+The Labyrinth Heart is the MDO's official sigil and the Lore Vault brand mark;
+its shared vector master lives in `quartz/static/labyrinth-heart.svg`.
+After editing it or the share-card layout in `scripts/build-brand-assets.mjs`, run
+`node scripts/build-brand-assets.mjs` to regenerate the favicon source and the
+1200 × 630 social preview. The project-owned `LoreVaultTitle` component displays
+the mark beside the site name; `Head` supplies the shared social image while
+retaining each page's title, description, and spoiler protection.
+
 GitHub Pages is deployed from branch `master` by `.github/workflows/deploy.yml`.
 
 The workflow installs dependencies and locked Quartz plugins, runs the TypeScript, formatting, test,

@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import ForbiddenArchivesNav from "./quartz/components/ForbiddenArchivesNav"
+import LoreVaultTitle from "./quartz/components/LoreVaultTitle"
 import { FullSlug } from "./quartz/util/path"
 import type { ExplorerOptions } from "./.quartz/plugins/explorer/dist/index.js"
 
@@ -140,7 +141,7 @@ const siteListBreadcrumbs = Component.Breadcrumbs({
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Component.PageTitle(),
+    LoreVaultTitle(),
     Component.Spacer(),
     Component.Search(),
     Component.SiteNav(),

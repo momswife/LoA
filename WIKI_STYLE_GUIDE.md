@@ -117,9 +117,12 @@ The fourth division, **Forbidden Archives**, provides a public landing page and 
 
 ### MDO Filing Footers
 
-Authored `Filed & Authenticated` blocks render as a shared MDO filing panel: archive
-seal, filing title, responsible offices, labeled fields, interpretive notices, and
-the authored closing status. Both legacy blockquotes and plain paragraphs are
+Authored `Filed & Authenticated` blocks render as a quiet MDO end-of-file signoff:
+a thin dividing rule, subdued filing title, responsible offices, compact labeled
+fields, interpretive notices, and the authored closing status. Keep it integrated
+with the page background, using the MDO's small muted Labyrinth Heart sigil instead of a
+card or accent banner. Preserve the
+archival asides that give the Ministry its voice. Both legacy blockquotes and plain paragraphs are
 supported. Use bold field labels ending in a colon, with one field per line or
 paragraph. Preserve established offices, credits, classifications, and notices;
 omit unsupported fields rather than inventing authentication.

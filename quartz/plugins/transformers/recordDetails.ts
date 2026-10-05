@@ -294,7 +294,7 @@ function createFilingPanel(paragraphs: Element[]): Element[] {
           type: "element",
           tagName: "span",
           properties: { className: ["record-file-footer__emblem"], ariaHidden: "true" },
-          children: [{ type: "text", value: "MDO" }],
+          children: [],
         },
         {
           type: "element",

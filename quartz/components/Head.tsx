@@ -41,9 +41,9 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image-lorevault.png`
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image-labyrinth-heart.png`
     const ogImageDefaultAlt =
-      "The Lore Vault of Aerathon, an illuminated fantasy archive of maps and records"
+      "Lore Vault — Aerathon. A copper labyrinth surrounding an open diamond on charcoal."
 
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
@@ -81,8 +81,8 @@ export default (() => {
         <meta property="og:image" content={ogImageDefaultPath} />
         <meta property="og:image:url" content={ogImageDefaultPath} />
         <meta property="og:image:secure_url" content={ogImageDefaultPath} />
-        <meta property="og:image:width" content="1732" />
-        <meta property="og:image:height" content="908" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content={ogImageDefaultAlt} />
         <meta name="twitter:image" content={ogImageDefaultPath} />
         <meta name="twitter:image:alt" content={ogImageDefaultAlt} />

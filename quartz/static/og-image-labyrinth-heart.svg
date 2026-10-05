@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1d1b19"/>
+  <path d="M0 10H1200" stroke="#c96632" stroke-width="2"/>
+  <g fill="none" stroke="#cec4b5" stroke-opacity=".055" stroke-width="22">
+    <path d="m1070 55 260 260-310 310-310-310 310-310"/>
+    <path d="m1020 150-165 165 165 165 165-165-90-90"/>
+  </g>
+  <svg x="78" y="154" width="128" height="128" viewBox="-8 -8 116 116">
+  <defs>
+    <linearGradient id="copper" x1="0" y1="90" x2="95" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c96632"/>
+      <stop offset=".55" stop-color="#e99750"/>
+      <stop offset="1" stop-color="#f2bd79"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#copper)" stroke-width="8" stroke-linejoin="miter" stroke-linecap="butt">
+    <path d="M76 24 102 50 50 102 -2 50 50 -2 62 10"/>
+    <path d="M50 23 23 50 50 77 77 50 65 38"/>
+    <path d="m50 40 10 10-10 10-10-10Z" stroke-width="6"/>
+  </g>
+</svg>
+  <text x="244" y="245" fill="#f3eadc" font-family="Georgia, serif" font-size="76" letter-spacing="2">Lore Vault</text>
+  <text x="82" y="366" fill="#cec4b5" font-family="Georgia, serif" font-size="27">
+    <tspan x="82">Every expedition leaves a record. Some return as maps,</tspan>
+    <tspan x="82" dy="43">others as warnings. The Ministry preserves them all—</tspan>
+    <tspan x="82" dy="43">even when the accounts disagree.</tspan>
+  </text>
+</svg>

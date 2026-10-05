@@ -442,13 +442,10 @@ article {
 .record-file-footer {
   max-width: 58rem;
   margin: 3rem 0 0.4rem;
-  padding: clamp(1.1rem, 3vw, 1.65rem);
-  border: 1px solid var(--lorevault-border);
-  border-top: 2px solid var(--secondary);
-  border-radius: 0.7rem;
-  background: color-mix(in srgb, var(--secondary) 3%, var(--lorevault-surface));
-  color: var(--darkgray);
-  font-size: 0.83rem;
+  padding: 1.1rem 0 0;
+  border-top: 1px solid var(--lorevault-border);
+  color: color-mix(in srgb, var(--darkgray) 80%, var(--gray));
+  font-size: 0.78rem;
   line-height: 1.6;
 
   p {
@@ -457,100 +454,80 @@ article {
   }
   strong {
     color: inherit;
+    font-weight: 500;
   }
 
   .record-file-footer__heading {
     display: flex;
     align-items: center;
-    gap: 0.9rem;
-    margin-bottom: 1rem;
+    gap: 0.85rem;
+    margin-bottom: 0.85rem;
   }
 
   .record-file-footer__emblem {
-    display: grid;
-    place-items: center;
-    flex: 0 0 2.8rem;
-    height: 2.8rem;
-    border: 1px solid var(--secondary);
-    border-radius: 50%;
-    outline: 1px solid color-mix(in srgb, var(--secondary) 25%, transparent);
-    outline-offset: 3px;
-    color: var(--secondary);
-    font-family: var(--lorevault-ui-font);
-    font-size: 0.65rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
+    display: block;
+    flex: 0 0 2.35rem;
+    height: 2.35rem;
+    color: color-mix(in srgb, var(--darkgray) 55%, var(--gray));
+    background: currentColor;
+    mask: url("./static/labyrinth-heart.svg") center / contain no-repeat;
   }
 
   .record-file-footer__eyebrow {
-    color: var(--secondary);
+    color: var(--gray);
     font-family: var(--lorevault-ui-font);
-    font-size: 0.62rem;
-    font-weight: 750;
-    letter-spacing: 0.1em;
+    font-size: 0.55rem;
+    letter-spacing: 0.09em;
     text-transform: uppercase;
   }
 
   .record-file-footer__title {
-    color: var(--dark);
-    font-size: 1.1rem;
-    line-height: 1.4;
+    color: inherit;
+    font-size: 0.84rem;
+    letter-spacing: 0.025em;
   }
 
   .record-file-footer__office {
-    color: var(--darkgray);
+    color: inherit;
   }
 
   .record-file-footer__fields {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem 1.5rem;
-    margin: 1rem 0 0;
-    padding-top: 1rem;
-    border-top: 1px solid var(--lorevault-border);
+    margin: 0.65rem 0 0;
 
     > div {
       min-width: 0;
+      margin-top: 0.15rem;
     }
     dt,
     dd {
       margin: 0;
+      display: inline;
       overflow-wrap: anywhere;
     }
     dt {
-      color: var(--gray);
-      font-family: var(--lorevault-ui-font);
-      font-size: 0.63rem;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
+      font-weight: 500;
+      &::after {
+        content: ": ";
+      }
     }
     dd {
-      margin-top: 0.2rem;
+      margin-left: 0.2em;
     }
   }
 
   .record-file-footer__notice {
-    margin-top: 1rem;
-    padding-top: 0.85rem;
-    border-top: 1px solid var(--lorevault-border);
-    color: var(--darkgray);
+    margin-top: 0.65rem;
+    color: inherit;
   }
 
   .record-file-footer__seal {
-    margin-top: 1.15rem;
-    color: var(--secondary);
+    margin-top: 0.8rem;
+    color: inherit;
     font-family: var(--lorevault-ui-font);
     font-size: 0.61rem;
-    font-weight: 750;
+    font-weight: 500;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-  }
-
-  @media (max-width: 600px) {
-    .record-file-footer__fields {
-      grid-template-columns: 1fr;
-    }
   }
 }
 
@@ -560,8 +537,7 @@ article {
     padding-left: 0.9rem;
   }
 
-  .record-details,
-  .record-file-footer {
+  .record-details {
     padding-right: 0.85rem;
     padding-left: 0.85rem;
   }
@@ -1005,6 +981,11 @@ ul.toc-content.overflow > li:is(.depth-2, .depth-3, .depth-4, .depth-5, .depth-6
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+
+        &.lore-vault-brand {
+          display: inline-flex;
+          gap: 0.45rem;
+        }
       }
     }
 
