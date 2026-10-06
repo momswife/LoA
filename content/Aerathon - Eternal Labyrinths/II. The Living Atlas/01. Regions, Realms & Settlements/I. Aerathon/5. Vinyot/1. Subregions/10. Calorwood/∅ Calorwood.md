@@ -20,6 +20,8 @@ facts:
 
 No legacy description has been admitted as Aerathon canon. A complete record should establish terrain, neighboring settlements, travel conditions, inhabitants, and any Labyrinth pressure through Aerathon-specific evidence.
 
+The settlement records provide more detailed local evidence. Porta Strega describes the maple forest beside the Quest River and its sensitive boundary conditions. [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/1. Settlements/03. Bellariva|Bellariva]] stands on an inhabited riverbank inland from Porta Strega and hosts the [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/IV. Professional, Scholarly & Cultural Societies/01. College of Many Hearths|College of Many Hearths]]. These local records do not establish the forest's complete boundaries or a single authority over the subregion.
+
 ## Browse the Subregion
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/1. Settlements/index|1. Settlements]]

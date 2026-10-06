@@ -1050,6 +1050,21 @@ ul.toc-content.overflow > li:is(.depth-2, .depth-3, .depth-4, .depth-5, .depth-6
   }
 }
 
+// Hide the entire branch before scripts run, including children and focus targets.
+// Visiting the landing page reveals it for this tab's browsing session.
+.explorer li[data-forbidden-archive-branch][hidden] {
+  display: none !important;
+}
+
+:root:not([data-forbidden-archives-discovered])
+  .explorer
+  li:has(
+    > .folder-container[data-folderpath="aerathon---eternal-labyrinths/iv.-forbidden-archives"],
+    > .folder-container[data-folderpath="aerathon---eternal-labyrinths/iv.-forbidden-archives/index"]
+  ) {
+  display: none;
+}
+
 // The server-rendered archive navigation is also the theme marker. :has() follows
 // Quartz page replacement without changing or persisting the reader's theme.
 :root:has(.forbidden-archive-nav) {

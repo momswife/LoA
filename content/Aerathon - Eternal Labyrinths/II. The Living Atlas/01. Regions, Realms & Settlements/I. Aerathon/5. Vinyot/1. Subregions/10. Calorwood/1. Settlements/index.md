@@ -11,6 +11,7 @@ tags: [atlas, sub-region, settlements]
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/1. Settlements/01. Porta Strega|Porta Strega]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/1. Settlements/02. Porta Ventura|Porta Ventura]]
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/1. Settlements/03. Bellariva|Bellariva]] — university city and seat of the College of Many Hearths.
 
 ## Browse
 

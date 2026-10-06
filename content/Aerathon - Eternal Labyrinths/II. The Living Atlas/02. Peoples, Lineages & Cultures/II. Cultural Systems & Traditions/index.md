@@ -17,6 +17,10 @@ Cultural records describe learned, practiced, inherited, adopted, or contested w
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/01. Culture, Lineage & Regional Life|Culture, Lineage & Regional Life]] — distinguishes lineage, tradition, regional life, citizenship, faith, and profession.
 
+## Shared Vocations
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/02. Hearth Witchcraft and the Returning Roads|Hearth Witchcraft and the Returning Roads]] — a cross-regional vocation of practical magic, teaching households, and reciprocal travel.
+
 ## Regional Life
 
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/1. Al'Ar/4. Life, Customs & Identity/01. Crew, Harbor & Safe Return|Crew, Harbor & Safe Return]] — Al'Ari belonging and maritime obligation.

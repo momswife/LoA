@@ -30,6 +30,24 @@ For each applied candidate, retain the source session or idea, affected public p
 
 This is an assistant-assisted workflow, not an automatic synchronization service. Adding a note does not itself modify or publish the wiki. Ask, for example: “Review the new session notes and suggest wiki updates,” or “Apply the Ready campaign candidates to the wiki.”
 
+## Private magic item catalog
+
+`private/campaign/Items/README.md` describes the item workshop, with a reusable
+template, rarity-based writing guidance, and a catalog of individual records.
+Keep source text, proposed rules, adopted mechanics, and public-lore status distinct.
+The local exporter creates player descriptions and separate D&D Beyond setup
+checklists from explicit sections; it does not upload, publish, or modify a sheet.
+GM secrets and design notes stay outside those export sections. These ignored files
+need the same private backup as the rest of the campaign notebook.
+
+The GM grants standing creative permission for item descriptions and lore: agents
+may develop, rearrange, rewrite, and correct working material to fit Aerathon
+without approval for each editorial choice. Consult relevant canon and private
+notes, preserve original submissions, and record consequential inventions. This
+does not authorize silent retcons of established events or lore, changes to adopted
+mechanics, or publication of private material. Follow
+`private/campaign/Items/AGENTS.md` for the full workshop instructions.
+
 ## Finding the notes
 
 Normal repository searches may omit Git-ignored files. For campaign work, search explicitly:

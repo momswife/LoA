@@ -3,7 +3,7 @@ title: IV. Professional, Scholarly & Cultural Societies
 description: Enduring associations organized around a profession, discipline, craft, body of knowledge, or cultural project.
 quartz-properties: false
 recordType: Section Index
-status: Open for Filing
+status: Active Index
 tags:
   - atlas
   - organizations
@@ -16,4 +16,6 @@ This shelf records named associations organized around a profession, discipline,
 
 General cultural systems belong in [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/index|Cultural Systems & Traditions]]. Historical institutions that no longer operate belong in [[Aerathon - Eternal Labyrinths/I. Annals & Antiquities/05. Figures, Institutions, Houses & Lineages/index|Figures, Institutions, Houses & Lineages]].
 
-> _No individual organizations are currently filed on this shelf._
+## Maintained Records
+
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/09. Organizations, Companies & Associations/IV. Professional, Scholarly & Cultural Societies/01. College of Many Hearths|College of Many Hearths]] — Bellariva's university of hearth witchcraft and reciprocal teaching journeys.

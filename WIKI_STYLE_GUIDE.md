@@ -34,7 +34,7 @@ inference, rumor, and restricted campaign knowledge distinct. A deliberately pub
 future plot information may use `spoiler: true`; see the frontmatter guidance below. This reader warning
 does not make public source material private.
 
-The fourth division, **Forbidden Archives**, provides a public landing page and Code OOC clearance entry for deliberately published restricted dossiers. Individual dossiers remain unlisted and spoiler-gated; confidential GM material stays outside the published vault.
+The fourth division, **Forbidden Archives**, provides a public landing page and Code OOC clearance entry for deliberately published restricted dossiers. Its Explorer branch stays hidden until the landing page is visited, then remains available for that tab's browsing session. Individual dossiers remain unlisted and spoiler-gated; confidential GM material stays outside the published vault.
 
 ## 3. Files and Navigation
 

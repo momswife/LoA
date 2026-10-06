@@ -20,5 +20,8 @@ These practices belong to the communities and occupations described; they are no
 
 ## Browse
 
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/1. Settlements/03. Bellariva|Bellariva]] — teaching households, returning lamps, and seasonal exchanges.
+- [[Aerathon - Eternal Labyrinths/II. The Living Atlas/02. Peoples, Lineages & Cultures/II. Cultural Systems & Traditions/02. Hearth Witchcraft and the Returning Roads|Hearth Witchcraft and the Returning Roads]] — the wider vocation practised by affiliated Bellarivan hearths.
+
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/1. Subregions/10. Calorwood/∅ Calorwood|Calorwood Overview]]
 - [[Aerathon - Eternal Labyrinths/II. The Living Atlas/01. Regions, Realms & Settlements/I. Aerathon/5. Vinyot/4. Life, Customs & Identity/index|Life, Customs & Identity in Vinyot]]

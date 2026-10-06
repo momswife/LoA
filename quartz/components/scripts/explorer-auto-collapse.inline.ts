@@ -1,4 +1,23 @@
-import { forbiddenArchivesRoot } from "../../util/forbiddenArchives"
+import {
+  forbiddenArchivesRoot,
+  isForbiddenArchivesLanding,
+  shouldHideForbiddenArchiveBranch,
+} from "../../util/forbiddenArchives"
+
+const archiveDiscoveryKey = "lorevault:forbidden-archives-discovered"
+let archivesDiscovered = false
+
+function updateArchiveDiscovery() {
+  const reachedLanding = isForbiddenArchivesLanding(document.body.dataset.slug)
+  archivesDiscovered ||= reachedLanding
+  try {
+    archivesDiscovered ||= sessionStorage.getItem(archiveDiscoveryKey) === "true"
+    if (reachedLanding) sessionStorage.setItem(archiveDiscoveryKey, "true")
+  } catch {
+    // Keep discovery for SPA navigation even when browser storage is unavailable.
+  }
+  document.documentElement.toggleAttribute("data-forbidden-archives-discovered", archivesDiscovered)
+}
 
 type ExplorerFolderState = { path: string; collapsed: boolean }
 
@@ -104,6 +123,16 @@ function folderContainsCurrentPage(folderContainer: HTMLElement, currentSlug: st
 }
 
 function normalizeExplorerForNavigation(explorer: HTMLElement) {
+  // The plugin uses both folder slugs and folder-index slugs. Hide the whole
+  // list item explicitly so saved expansion state cannot expose its children.
+  for (const folder of explorer.querySelectorAll<HTMLElement>(".folder-container")) {
+    if (!isForbiddenArchivesLanding(folder.dataset.folderpath)) continue
+    const branch = folder.parentElement
+    if (!branch || branch.tagName !== "LI") continue
+    branch.dataset.forbiddenArchiveBranch = "true"
+    branch.hidden = shouldHideForbiddenArchiveBranch(folder.dataset.folderpath, archivesDiscovered)
+  }
+
   const archive = archiveRootAndDivisions(explorer)
   if (!archive) return
 
@@ -154,6 +183,7 @@ function collapseOpenSiblings(explorer: HTMLElement, openedFolder: HTMLElement) 
 const explorerNormalizers = new WeakMap<HTMLElement, () => void>()
 
 function setupExplorerAutoCollapse() {
+  updateArchiveDiscovery()
   for (const explorer of document.querySelectorAll<HTMLElement>(".explorer")) {
     if (explorer.dataset.autoCollapseReady === "true") {
       explorerNormalizers.get(explorer)?.()
